@@ -1,0 +1,46 @@
+name: Aggregate tech news
+
+on:
+  schedule:
+    # 매일 00, 06, 12, 18시(UTC). 단, GitHub의 scheduled cron은
+    # 정시를 보장하지 않으며 지연/스킵될 수 있다(README 참고).
+    - cron: "0 0,6,12,18 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write          # data.json 커밋/푸시에 필수
+
+concurrency:
+  group: aggregate
+  cancel-in-progress: false
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Aggregate feeds
+        run: python aggregate.py
+
+      - name: Commit data.json if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data.json; then
+            echo "data.json 변경 없음 — 커밋 스킵"
+          else
+            git add data.json
+            git commit -m "chore: update data.json [skip ci]"
+            git push
+          fi

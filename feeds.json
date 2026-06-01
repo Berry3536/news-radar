@@ -1,0 +1,67 @@
+{
+  "max_age_days": 14,
+  "max_items_per_category": 40,
+  "categories": [
+    {
+      "key": "ev",
+      "label": "전기차",
+      "include_keywords": [],
+      "exclude_keywords": [],
+      "feeds": [
+        { "name": "Electrek", "url": "https://electrek.co/feed/" },
+        { "name": "InsideEVs", "url": "https://insideevs.com/rss/articles/all/" },
+        { "name": "모터그래프", "url": "https://www.motorgraph.com/rss/allArticle.xml" }
+      ]
+    },
+    {
+      "key": "battery",
+      "label": "배터리",
+      "include_keywords": [
+        "battery", "batteries", "cell", "lithium", "lfp", "solid-state", "anode", "cathode",
+        "배터리", "전지", "이차전지", "리튬", "양극재", "음극재", "전해질", "전고체"
+      ],
+      "exclude_keywords": [],
+      "feeds": [
+        { "name": "Electrek", "url": "https://electrek.co/feed/" },
+        { "name": "CleanTechnica", "url": "https://cleantechnica.com/feed/" },
+        { "name": "InsideEVs", "url": "https://insideevs.com/rss/articles/all/" }
+      ]
+    },
+    {
+      "key": "motor",
+      "label": "모터",
+      "include_keywords": [
+        "motor", "traction", "inverter", "winding", "drivetrain", "powertrain",
+        "모터", "전동기", "구동", "견인", "traction", "인버터", "권선"
+      ],
+      "exclude_keywords": [],
+      "feeds": [
+        { "name": "Electrek", "url": "https://electrek.co/feed/" },
+        { "name": "InsideEVs", "url": "https://insideevs.com/rss/articles/all/" },
+        { "name": "모터그래프", "url": "https://www.motorgraph.com/rss/allArticle.xml" }
+      ]
+    },
+    {
+      "key": "robot",
+      "label": "로봇",
+      "include_keywords": [],
+      "exclude_keywords": [],
+      "feeds": [
+        { "name": "IEEE Spectrum", "url": "https://spectrum.ieee.org/feeds/topic/robotics.rss" },
+        { "name": "The Robot Report", "url": "https://www.therobotreport.com/feed/" },
+        { "name": "로봇신문", "url": "http://www.irobotnews.com/rss/allArticle.xml" }
+      ]
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "include_keywords": [],
+      "exclude_keywords": [],
+      "feeds": [
+        { "name": "arXiv cs.AI", "url": "http://export.arxiv.org/rss/cs.AI" },
+        { "name": "arXiv cs.LG", "url": "http://export.arxiv.org/rss/cs.LG" },
+        { "name": "AI타임스", "url": "https://www.aitimes.com/rss/allArticle.xml" }
+      ]
+    }
+  ]
+}
