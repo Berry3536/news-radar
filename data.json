@@ -1,11 +1,53 @@
 {
-  "generated_at": "2026-06-01T05:54:53.092709+00:00",
+  "generated_at": "2026-06-01T17:34:25.584466+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Tesla FSD v14 is so good it’s making me dangerously complacent",
+          "link": "https://electrek.co/2026/06/01/tesla-fsd-dangerously-good-complacency-problem/",
+          "source": "Electrek",
+          "published": "2026-06-01T17:13:29+00:00"
+        },
+        {
+          "title": "커스터마이제이션 2,0 한정판, 더 MINI 컨트리맨 S ALL4 딜러 테일러드 에디션",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43854",
+          "source": "모터그래프",
+          "published": "2026-06-01T17:03:51+00:00"
+        },
+        {
+          "title": "BYD’s overseas sales are booming, topping 160,000 for the first time in May",
+          "link": "https://electrek.co/2026/06/01/byds-overseas-sales-surge-to-over-160000-first-time/",
+          "source": "Electrek",
+          "published": "2026-06-01T16:30:04+00:00"
+        },
+        {
+          "title": "Kia’s affordable EVs are catching on fast, but this could be the one to sell like ‘hotcakes’",
+          "link": "https://electrek.co/2026/06/01/kias-affordable-evs-catch-on-ev2-sell-like-hotcakes/",
+          "source": "Electrek",
+          "published": "2026-06-01T14:31:25+00:00"
+        },
+        {
+          "title": "Lexus Cancels Next-Generation EV Sedan",
+          "link": "https://insideevs.com/news/797459/lexus-is-electric-sedan-dead/",
+          "source": "InsideEVs",
+          "published": "2026-06-01T14:09:12+00:00"
+        },
+        {
+          "title": "BYD will pay for crashes on its FSD competitor, something Tesla never has",
+          "link": "https://electrek.co/2026/06/01/byd-gods-eye-accepts-liability-tesla-never-has/",
+          "source": "Electrek",
+          "published": "2026-06-01T09:46:34+00:00"
+        },
+        {
+          "title": "A court just decided how much foot movement counts as ‘pedaling’ an e-bike",
+          "link": "https://electrek.co/2026/05/31/a-court-just-decided-how-much-foot-movement-counts-as-pedaling-an-e-bike/",
+          "source": "Electrek",
+          "published": "2026-06-01T06:13:10+00:00"
+        },
         {
           "title": "A SpaceX/Tesla merger could trigger Musk’s $1T pay package automatically",
           "link": "https://electrek.co/2026/05/31/a-spacex-tesla-merger-could-trigger-musks-1t-pay-package-automatically/",
@@ -61,7 +103,7 @@
           "published": "2026-05-30T12:28:34+00:00"
         },
         {
-          "title": "Tesla Wants To Build A Model 3 Plaid. That Doesn’t Mean It Will",
+          "title": "Tesla Could Build A Model 3 Plaid. That Doesn’t Mean It Will",
           "link": "https://insideevs.com/news/797308/tesla-model-3-podcast-catch/",
           "source": "InsideEVs",
           "published": "2026-05-30T11:36:08+00:00"
@@ -113,12 +155,6 @@
           "link": "https://insideevs.com/news/797244/rivian-apple-carplay-obsolete-ai/",
           "source": "InsideEVs",
           "published": "2026-05-29T17:45:55+00:00"
-        },
-        {
-          "title": "2026 오네 슈퍼레이스 3라운드 by 웨이브진 정인성",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43827",
-          "source": "모터그래프",
-          "published": "2026-05-29T17:04:34+00:00"
         },
         {
           "title": "This is the mid-size GM electric off-roader we deserve [Images]",
@@ -209,50 +245,20 @@
           "link": "https://electrek.co/2026/05/28/revel-voltera-big-ev-charging-network-robotaxis/",
           "source": "Electrek",
           "published": "2026-05-28T19:02:48+00:00"
-        },
-        {
-          "title": "Waymo Says Its Next-Gen Ojai Robotaxis Are Ready For Prime Time",
-          "link": "https://insideevs.com/news/797217/waymo-zeekr-ojai-robotaxis-ev/",
-          "source": "InsideEVs",
-          "published": "2026-05-28T18:58:30+00:00"
-        },
-        {
-          "title": "EcoFlow May Monthly Madness power station sale with 61% discounts + 48-hour flash sale, Segway GT3 superscooter low, more",
-          "link": "https://electrek.co/2026/05/28/ecoflow-may-monthly-madness-power-station-sale-48-hour-flash-sale-segway-gt3-superscooter-more/",
-          "source": "Electrek",
-          "published": "2026-05-28T18:00:00+00:00"
-        },
-        {
-          "title": "The Kia EV3 wins the highest-rated EV in a new German comparison test",
-          "link": "https://electrek.co/2026/05/28/kia-ev3-wins-highest-rated-ev-new-german-comparison-test/",
-          "source": "Electrek",
-          "published": "2026-05-28T16:59:55+00:00"
-        },
-        {
-          "title": "Waymo starts offering rides in new Ojai robotaxi with 6th-gen Driver",
-          "link": "https://electrek.co/2026/05/28/waymo-ojai-robotaxi-rides-6th-gen-driver/",
-          "source": "Electrek",
-          "published": "2026-05-28T15:00:00+00:00"
-        },
-        {
-          "title": "There’s a new low-cost e-bike that charges by USB-C",
-          "link": "https://electrek.co/2026/05/28/theres-a-new-low-cost-e-bike-that-charges-by-usb-c/",
-          "source": "Electrek",
-          "published": "2026-05-28T14:31:50+00:00"
-        },
-        {
-          "title": "BYD reveals China’s first in-house 4nm smart driving chip with massive computing power",
-          "link": "https://electrek.co/2026/05/28/byd-reveals-chinas-first-in-house-4nm-smart-driving-chip/",
-          "source": "Electrek",
-          "published": "2026-05-28T14:24:48+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 29,
+      "count": 27,
       "items": [
+        {
+          "title": "BYD’s overseas sales are booming, topping 160,000 for the first time in May",
+          "link": "https://electrek.co/2026/06/01/byds-overseas-sales-surge-to-over-160000-first-time/",
+          "source": "Electrek",
+          "published": "2026-06-01T16:30:04+00:00"
+        },
         {
           "title": "Giant Data Center In New Mexico Will Be Powered By Fuel Cells",
           "link": "https://cleantechnica.com/2026/05/30/giant-data-center-in-new-mexico-will-be-powered-by-fuel-cells/",
@@ -338,22 +344,10 @@
           "published": "2026-05-28T14:31:50+00:00"
         },
         {
-          "title": "Honda Pursues New Blended Silicon-Carbon EV Batteries",
-          "link": "https://cleantechnica.com/2026/05/28/ev-batteries-silicon-carbon-honda-invest-uk-nexeon/",
-          "source": "CleanTechnica",
-          "published": "2026-05-28T13:14:17+00:00"
-        },
-        {
           "title": "Frozen To -22 Degrees, BYD’s New EV Just Charged To 97% In Only 12 Minutes",
           "link": "https://insideevs.com/news/797182/byd-denza-z9gt-deep-freeze-fast-charging/",
           "source": "InsideEVs",
           "published": "2026-05-28T12:30:05+00:00"
-        },
-        {
-          "title": "The BLUETTI FridgePower: Real-World Review — UPDATES",
-          "link": "https://cleantechnica.com/2026/05/27/the-bluetti-fridgepower-real-world-review/",
-          "source": "CleanTechnica",
-          "published": "2026-05-28T03:10:52+00:00"
         },
         {
           "title": "Robotaxi has the wrong kind of momentum, but wind, and solar are doing GREAT",
@@ -390,12 +384,6 @@
           "link": "https://electrek.co/2026/05/26/rad-power-bikes-to-offer-safer-replacement-e-bike-batteries-at-steep-discount/",
           "source": "Electrek",
           "published": "2026-05-27T06:16:32+00:00"
-        },
-        {
-          "title": "This EV Battery Is Terrifyingly Over-Engineered. Here's Where You'll See It First",
-          "link": "https://insideevs.com/news/797013/silicon-anode-ev-battery-mercedes-amg-gt/",
-          "source": "InsideEVs",
-          "published": "2026-05-26T21:12:04+00:00"
         },
         {
           "title": "E-quipment highlight: SANY SY375E packs a SWAPPABLE 550 kWh battery",
@@ -435,7 +423,13 @@
       "count": 6,
       "items": [
         {
-          "title": "Tesla Wants To Build A Model 3 Plaid. That Doesn’t Mean It Will",
+          "title": "한국타이어 후원, WRC 7라운드 일본 랠리 성료",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43853",
+          "source": "모터그래프",
+          "published": "2026-06-01T17:00:29+00:00"
+        },
+        {
+          "title": "Tesla Could Build A Model 3 Plaid. That Doesn’t Mean It Will",
           "link": "https://insideevs.com/news/797308/tesla-model-3-podcast-catch/",
           "source": "InsideEVs",
           "published": "2026-05-30T11:36:08+00:00"
@@ -445,12 +439,6 @@
           "link": "https://electrek.co/2026/05/27/yet-another-honda-electric-motorcycle-is-proving-batteries-may-beat-combustion/",
           "source": "Electrek",
           "published": "2026-05-27T14:10:21+00:00"
-        },
-        {
-          "title": "이창욱, KIC 최고 랩타임 경신하며, 슈퍼레이스 3라운드 폴투윈",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43826",
-          "source": "모터그래프",
-          "published": "2026-05-26T17:40:19+00:00"
         },
         {
           "title": "LiveWire’s 125cc-equivalent electric fun bikes begin revealing their secrets",
@@ -475,13 +463,19 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 26,
+      "count": 24,
       "items": [
         {
-          "title": "강기원 한국로봇융합연구원 원장 인터뷰",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46650",
+          "title": "UNIST, 고속 자율주행차의 눈 ‘이벤트 카메라’용 정밀 보정기술 개발",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46670",
           "source": "로봇신문",
-          "published": "2026-06-01T01:06:10+00:00"
+          "published": "2026-06-01T18:00:34+00:00"
+        },
+        {
+          "title": "Learn about advances in robotic case and each picking",
+          "link": "https://www.therobotreport.com/learn-about-advances-robotic-case-each-picking-webinar/",
+          "source": "The Robot Report",
+          "published": "2026-06-01T15:24:45+00:00"
         },
         {
           "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
@@ -580,12 +574,6 @@
           "published": "2026-05-26T12:00:32+00:00"
         },
         {
-          "title": "Simulation vs. digital twin: A strategic lens on virtual manufacturing",
-          "link": "https://www.therobotreport.com/simulation-versus-digital-twin-strategic-lens-on-virtual-manufacturing/",
-          "source": "The Robot Report",
-          "published": "2026-05-25T14:23:45+00:00"
-        },
-        {
           "title": "Video Friday: Atlas Versus a Fridge",
           "link": "https://spectrum.ieee.org/video-friday-humanoid-robot-learning",
           "source": "IEEE Spectrum",
@@ -620,31 +608,253 @@
           "link": "https://spectrum.ieee.org/domestic-humanoid-robot-safety-standards",
           "source": "IEEE Spectrum",
           "published": "2026-05-19T11:00:01+00:00"
-        },
-        {
-          "title": "What Makes a Job Dull, Dirty, or Dangerous?",
-          "link": "https://spectrum.ieee.org/dull-dirty-dangerous-robots",
-          "source": "IEEE Spectrum",
-          "published": "2026-05-18T13:00:00+00:00"
-        },
-        {
-          "title": "Agentic AI for Robot Teams",
-          "link": "https://events.bizzabo.com/867156",
-          "source": "IEEE Spectrum",
-          "published": "2026-05-18T10:00:01+00:00"
         }
       ]
     },
     {
       "key": "ai",
       "label": "AI",
-      "count": 1,
+      "count": 40,
       "items": [
         {
-          "title": "어센트AI, 환각 없는 마케팅 에이전트 '리스닝마인드.AI' 출시",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211184",
+          "title": "미국 AI 업계서 'FDE' 확보 전쟁 확산...\"예상 연봉 2배 제안\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211192",
           "source": "AI타임스",
-          "published": "2026-06-01T14:48:16+00:00"
+          "published": "2026-06-01T19:20:54+00:00"
+        },
+        {
+          "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
+          "link": "https://arxiv.org/abs/2605.30512",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
+          "link": "https://arxiv.org/abs/2605.30542",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended Version)",
+          "link": "https://arxiv.org/abs/2605.30563",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "Procedural Generation of First Person Shooter Maps using Map-Elites",
+          "link": "https://arxiv.org/abs/2605.30570",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving",
+          "link": "https://arxiv.org/abs/2605.30576",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
+          "link": "https://arxiv.org/abs/2605.30621",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "EHRBench: An Automated and Reliable EHR-based Benchmark for Clinical Decision Making with LLMs",
+          "link": "https://arxiv.org/abs/2605.30637",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "Structure-Induced Information for Rerooting Levin Tree Search",
+          "link": "https://arxiv.org/abs/2605.30664",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "Healthcare Mechanisms from Policy-as-Code Search under Strategic Provider Response",
+          "link": "https://arxiv.org/abs/2605.30680",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "MAVEN: Improving Generalization in Agentic Tool Calling",
+          "link": "https://arxiv.org/abs/2605.30738",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "Generating Graph-like Rules for Knowledge Graph Reasoning via Diffusion Models",
+          "link": "https://arxiv.org/abs/2605.30747",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "Learning Agent-Compatible Context Management for Long-Horizon Tasks",
+          "link": "https://arxiv.org/abs/2605.30785",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "PReMISE: Policy Rubrics as Measurement Specifications for LLM Judges",
+          "link": "https://arxiv.org/abs/2605.30803",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "Planner-Centric Reinforcement Learning for Deep Research with Structure-Aware Reward",
+          "link": "https://arxiv.org/abs/2605.30824",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "SLAT: Segment-Level Adaptive Trimming for Efficient CoT Reasoning",
+          "link": "https://arxiv.org/abs/2605.30832",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "COMPASS: Cognitive MCTS-Guided Process Alignment for Safe Search Agents",
+          "link": "https://arxiv.org/abs/2605.30838",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "Distilling LLM Feedback for Lean Theorem Proving",
+          "link": "https://arxiv.org/abs/2605.30861",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling",
+          "link": "https://arxiv.org/abs/2605.30898",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "BilliardPhys-Bench: Benchmarking Physical Reasoning and Visual Dynamics of Multimodal LLMs",
+          "link": "https://arxiv.org/abs/2605.30900",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "A Persona-Based Evaluation Framework for Pluralistic Alignment in Generative AI",
+          "link": "https://arxiv.org/abs/2605.31021",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "HADT: A Heterogeneous Multi-Agent Differential Transformer for Autonomous Earth Observation Satellite Cluster",
+          "link": "https://arxiv.org/abs/2605.31023",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "GraphARC: A Comprehensive Benchmark for Graph-Based Abstract Reasoning",
+          "link": "https://arxiv.org/abs/2605.31031",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "Vector Linking via Cross-Model Local Isometric Consistency",
+          "link": "https://arxiv.org/abs/2605.31100",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "LLM-FACETS: A Privacy-Preserving Framework for Evaluating LLM Transparency and Accountability",
+          "link": "https://arxiv.org/abs/2605.31167",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "Formalizing and falsifying causal pathways of rare events",
+          "link": "https://arxiv.org/abs/2605.31254",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation",
+          "link": "https://arxiv.org/abs/2605.31264",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "Industrializing Prediction-Powered Inference: The GLIDE Library for Reliable GenAI and Agentic Systems Evaluation",
+          "link": "https://arxiv.org/abs/2605.31278",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "TraceGraph: Shared Decision Landscapes for Diagnosing and Improving Agent Trajectories",
+          "link": "https://arxiv.org/abs/2605.31308",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "Diagnosing Failure Modes of Shared-State Collaboration in Resource-Constrained Visual Agents",
+          "link": "https://arxiv.org/abs/2605.31354",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "Learning to Adapt: Self-Improving Web Agent via Cognitive-Aware Exploration",
+          "link": "https://arxiv.org/abs/2605.31365",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "HypoAgent: An Agentic Framework for Interactive Abductive Hypothesis Generation over Knowledge Graphs",
+          "link": "https://arxiv.org/abs/2605.31370",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "FAM-Bench: A Multimodal Benchmark for Condition-Aware Food-as-Medicine Reasoning",
+          "link": "https://arxiv.org/abs/2605.31410",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "Answer-Set-Programming-based Abstractions for Reinforcement Learning",
+          "link": "https://arxiv.org/abs/2605.31444",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "AutoSci: A Memory-Centric Agentic System for the Full Scientific Research Lifecycle",
+          "link": "https://arxiv.org/abs/2605.31468",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "LinTree: Improving LLM Reasoning with Explicitly Structured Search Histories",
+          "link": "https://arxiv.org/abs/2605.31492",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "Choosing the Lens: Strategic Perspective Activation in Context-Dependent Argumentation",
+          "link": "https://arxiv.org/abs/2605.31581",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "TRINE: A Token-Aware, Runtime-Adaptive FPGA Inference Engine for Multimodal AI",
+          "link": "https://arxiv.org/abs/2603.22867",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "When LLM Reward Design Fails: Diagnostic-Driven Refinement for Sparse Structured RL",
+          "link": "https://arxiv.org/abs/2605.28918",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
+        },
+        {
+          "title": "Gradient-Free Training of Spiking Neural Networks via Low-Rank Evolution Strategies",
+          "link": "https://arxiv.org/abs/2605.30361",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-01T04:00:00+00:00"
         }
       ]
     }
