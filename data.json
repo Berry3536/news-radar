@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-06-03T16:44:17.764208+00:00",
+  "generated_at": "2026-06-03T20:53:52.804296+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "When voters learn Lee Zeldin of the EPA is poisoning them, they hate it",
+          "link": "https://electrek.co/2026/06/03/poll-when-voters-learn-the-epa-is-poisoning-them-they-hate-it/",
+          "source": "Electrek",
+          "published": "2026-06-03T18:33:53+00:00"
+        },
+        {
+          "title": "Volkswagen is launching more affordable EVs, starting with these two models",
+          "link": "https://electrek.co/2026/06/03/volkswagen-launching-more-affordable-evs-these-are-first/",
+          "source": "Electrek",
+          "published": "2026-06-03T18:17:30+00:00"
+        },
+        {
+          "title": "Bluetti sale offers 3,014Wh Elite 300 power station with 350W solar panel + FREE 128Wh Elite 10 Mini for $1,567, Worx robot mowers, more",
+          "link": "https://electrek.co/2026/06/03/bluetti-3014wh-elite-300-power-station-350w-solar-panel-128wh-elite-10-mini-1567-worx-more/",
+          "source": "Electrek",
+          "published": "2026-06-03T18:00:00+00:00"
+        },
+        {
+          "title": "Tesla expands ‘Robotaxi’ to entire Austin metro — but still has only ~20 vehicles",
+          "link": "https://electrek.co/2026/06/03/tesla-robotaxi-expands-entire-austin-metro-only-20-vehicles/",
+          "source": "Electrek",
+          "published": "2026-06-03T17:14:42+00:00"
+        },
+        {
+          "title": "Why this premium e-bike maker glues its bike frames together",
+          "link": "https://electrek.co/2026/06/03/why-this-premium-e-bike-maker-glues-its-bike-frames-together/",
+          "source": "Electrek",
+          "published": "2026-06-03T16:48:00+00:00"
+        },
         {
           "title": "What Ultra-High-Mileage EVs Teach Us About Battery Degradation",
           "link": "https://insideevs.com/features/797638/high-mileage-ev-battery-degradation/",
@@ -215,44 +245,20 @@
           "link": "https://electrek.co/2026/06/01/these-polite-canadian-lawbreakers-may-soon-be-going-legal-under-new-e-bike-law/",
           "source": "Electrek",
           "published": "2026-06-02T06:31:34+00:00"
-        },
-        {
-          "title": "Volvo CE, Hitachi Energy set to partner on zero emission job sites",
-          "link": "https://electrek.co/2026/06/01/volvo-ce-hitachi-energy-set-to-partner-on-zero-emission-job-sites/",
-          "source": "Electrek",
-          "published": "2026-06-01T22:41:05+00:00"
-        },
-        {
-          "title": "Texas adds another huge solar farm as ERCOT grid demand soars",
-          "link": "https://electrek.co/2026/06/01/texas-adds-another-huge-solar-farm-ercot-grid-demand-soars/",
-          "source": "Electrek",
-          "published": "2026-06-01T22:22:21+00:00"
-        },
-        {
-          "title": "Toyota pulls the plug on one of its most important EVs",
-          "link": "https://electrek.co/2026/06/01/toyota-pulls-plug-most-important-evs/",
-          "source": "Electrek",
-          "published": "2026-06-01T21:50:19+00:00"
-        },
-        {
-          "title": "BYD plans to bring all-solid-state batteries to EVs by 2027, but it’s not alone",
-          "link": "https://electrek.co/2026/06/01/byd-all-solid-state-batteries-evs-by-2027/",
-          "source": "Electrek",
-          "published": "2026-06-01T21:05:40+00:00"
-        },
-        {
-          "title": "I Took A Hyundai Ioniq 5 EV On A Roadtrip. It Made Gas Feel Financially Irresponsible",
-          "link": "https://insideevs.com/news/797350/hyundai-ioniq-5-roadtrip-gas-financially-irresponsible/",
-          "source": "InsideEVs",
-          "published": "2026-06-01T20:12:29+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 26,
+      "count": 27,
       "items": [
+        {
+          "title": "Bluetti sale offers 3,014Wh Elite 300 power station with 350W solar panel + FREE 128Wh Elite 10 Mini for $1,567, Worx robot mowers, more",
+          "link": "https://electrek.co/2026/06/03/bluetti-3014wh-elite-300-power-station-350w-solar-panel-128wh-elite-10-mini-1567-worx-more/",
+          "source": "Electrek",
+          "published": "2026-06-03T18:00:00+00:00"
+        },
         {
           "title": "What Ultra-High-Mileage EVs Teach Us About Battery Degradation",
           "link": "https://insideevs.com/features/797638/high-mileage-ev-battery-degradation/",
@@ -414,7 +420,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 8,
+      "count": 7,
       "items": [
         {
           "title": "Caterpillar BEPU makes going electric as easy as swapping an engine",
@@ -457,12 +463,6 @@
           "link": "https://electrek.co/2026/05/27/yet-another-honda-electric-motorcycle-is-proving-batteries-may-beat-combustion/",
           "source": "Electrek",
           "published": "2026-05-27T14:10:21+00:00"
-        },
-        {
-          "title": "LiveWire’s 125cc-equivalent electric fun bikes begin revealing their secrets",
-          "link": "https://electrek.co/2026/05/24/livewires-125cc-equivalent-electric-fun-bikes-begin-revealing-their-secrets/",
-          "source": "Electrek",
-          "published": "2026-05-24T12:23:00+00:00"
         }
       ]
     },
