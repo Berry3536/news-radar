@@ -1,11 +1,65 @@
 {
-  "generated_at": "2026-06-03T10:54:58.462659+00:00",
+  "generated_at": "2026-06-03T16:44:17.764208+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "What Ultra-High-Mileage EVs Teach Us About Battery Degradation",
+          "link": "https://insideevs.com/features/797638/high-mileage-ev-battery-degradation/",
+          "source": "InsideEVs",
+          "published": "2026-06-03T16:42:42+00:00"
+        },
+        {
+          "title": "Kia’s electric van is now available as a 7-seater for under $50,000",
+          "link": "https://electrek.co/2026/06/03/kias-electric-van-now-available-7-seater-for-under-50000/",
+          "source": "Electrek",
+          "published": "2026-06-03T16:26:06+00:00"
+        },
+        {
+          "title": "BYD’s 1,000 km-range PHEV spotted in public, giving us our first look inside [Images]",
+          "link": "https://electrek.co/2026/06/03/byds-1000-km-range-phev-spotted-revealing-interior-images/",
+          "source": "Electrek",
+          "published": "2026-06-03T14:44:10+00:00"
+        },
+        {
+          "title": "It's Still Way More Expensive To Insure An EV. But That's Changing",
+          "link": "https://insideevs.com/news/797585/ev-ownership-insurance-price-expensive/",
+          "source": "InsideEVs",
+          "published": "2026-06-03T13:54:33+00:00"
+        },
+        {
+          "title": "Tesla retroactively added ‘supervised’ to FSD contracts owners signed years ago",
+          "link": "https://electrek.co/2026/06/03/tesla-retroactively-modified-fsd-contracts-supervised/",
+          "source": "Electrek",
+          "published": "2026-06-03T12:54:19+00:00"
+        },
+        {
+          "title": "Caterpillar BEPU makes going electric as easy as swapping an engine",
+          "link": "https://electrek.co/2026/06/03/caterpillar-bepu-makes-going-electric-as-easy-as-swapping-an-engine/",
+          "source": "Electrek",
+          "published": "2026-06-03T12:47:56+00:00"
+        },
+        {
+          "title": "The Mercedes CLA EV Just Smashed Its EPA Range Rating In A Real-World Test",
+          "link": "https://insideevs.com/news/797694/mercedes-cla-350-ev-beats-epa-estimated-range/",
+          "source": "InsideEVs",
+          "published": "2026-06-03T12:19:06+00:00"
+        },
+        {
+          "title": "AI in a box: Windrose wants to containerize the data center [update]",
+          "link": "https://electrek.co/2026/06/03/ai-in-a-box-windrose-wants-to-containerize-the-data-center/",
+          "source": "Electrek",
+          "published": "2026-06-03T11:30:00+00:00"
+        },
+        {
+          "title": "Can an e-bike really save you money on gas? The math is clear",
+          "link": "https://electrek.co/2026/06/03/can-an-e-bike-really-save-you-money-on-gas-the-math-is-clear/",
+          "source": "Electrek",
+          "published": "2026-06-03T11:13:00+00:00"
+        },
         {
           "title": "Rivian’s EV Charging Network Is Growing Fast, And It Just Hit A Major Milestone",
           "link": "https://insideevs.com/news/797654/rivian-ev-charging-network-growth-milestone/",
@@ -191,60 +245,6 @@
           "link": "https://insideevs.com/news/797350/hyundai-ioniq-5-roadtrip-gas-financially-irresponsible/",
           "source": "InsideEVs",
           "published": "2026-06-01T20:12:29+00:00"
-        },
-        {
-          "title": "EcoFlow Hurricane Prep Sale offers 2,048Wh DELTA 2 Max power station $899, EGO 3,200 PSI pressure washer $699 low, more",
-          "link": "https://electrek.co/2026/06/01/ecoflow-hurricane-prep-sale-2048wh-delta-2-max-power-station-ego-3200-psi-pressure-washer-more/",
-          "source": "Electrek",
-          "published": "2026-06-01T18:00:00+00:00"
-        },
-        {
-          "title": "Hyundai is testing a new high-tech SDV setup for its upcoming EVs [Images]",
-          "link": "https://electrek.co/2026/06/01/hyundai-testing-new-sdv-setup-upcoming-evs-images/",
-          "source": "Electrek",
-          "published": "2026-06-01T17:48:55+00:00"
-        },
-        {
-          "title": "Tesla FSD v14 is so good it’s making me dangerously complacent",
-          "link": "https://electrek.co/2026/06/01/tesla-fsd-dangerously-good-complacency-problem/",
-          "source": "Electrek",
-          "published": "2026-06-01T17:13:29+00:00"
-        },
-        {
-          "title": "BYD’s overseas sales are booming, topping 160,000 for the first time in May",
-          "link": "https://electrek.co/2026/06/01/byds-overseas-sales-surge-to-over-160000-first-time/",
-          "source": "Electrek",
-          "published": "2026-06-01T16:30:04+00:00"
-        },
-        {
-          "title": "Kia’s affordable EVs are catching on fast, but this could be the one to sell like ‘hotcakes’",
-          "link": "https://electrek.co/2026/06/01/kias-affordable-evs-catch-on-ev2-sell-like-hotcakes/",
-          "source": "Electrek",
-          "published": "2026-06-01T14:31:25+00:00"
-        },
-        {
-          "title": "Lexus Cancels Next-Generation EV Sedan",
-          "link": "https://insideevs.com/news/797459/lexus-is-electric-sedan-dead/",
-          "source": "InsideEVs",
-          "published": "2026-06-01T14:09:12+00:00"
-        },
-        {
-          "title": "BYD will pay for crashes on its FSD competitor, something Tesla never has",
-          "link": "https://electrek.co/2026/06/01/byd-gods-eye-accepts-liability-tesla-never-has/",
-          "source": "Electrek",
-          "published": "2026-06-01T09:46:34+00:00"
-        },
-        {
-          "title": "A court just decided how much foot movement counts as ‘pedaling’ an e-bike",
-          "link": "https://electrek.co/2026/05/31/a-court-just-decided-how-much-foot-movement-counts-as-pedaling-an-e-bike/",
-          "source": "Electrek",
-          "published": "2026-06-01T06:13:10+00:00"
-        },
-        {
-          "title": "A SpaceX/Tesla merger could trigger Musk’s $1T pay package automatically",
-          "link": "https://electrek.co/2026/05/31/a-spacex-tesla-merger-could-trigger-musks-1t-pay-package-automatically/",
-          "source": "Electrek",
-          "published": "2026-05-31T15:00:00+00:00"
         }
       ]
     },
@@ -253,6 +253,18 @@
       "label": "배터리",
       "count": 26,
       "items": [
+        {
+          "title": "What Ultra-High-Mileage EVs Teach Us About Battery Degradation",
+          "link": "https://insideevs.com/features/797638/high-mileage-ev-battery-degradation/",
+          "source": "InsideEVs",
+          "published": "2026-06-03T16:42:42+00:00"
+        },
+        {
+          "title": "Caterpillar BEPU makes going electric as easy as swapping an engine",
+          "link": "https://electrek.co/2026/06/03/caterpillar-bepu-makes-going-electric-as-easy-as-swapping-an-engine/",
+          "source": "Electrek",
+          "published": "2026-06-03T12:47:56+00:00"
+        },
         {
           "title": "Anker launches SOLIX S2000 power station + bundles starting from exclusive $598, EGO Z6 zero turn riding mower bundle new low, more",
           "link": "https://electrek.co/2026/06/02/anker-solix-s2000-power-station-bundles-from-exclusive-598-ego-z6-zero-turn-riding-mower-more/",
@@ -332,12 +344,6 @@
           "published": "2026-05-30T14:24:07+00:00"
         },
         {
-          "title": "How the Industrial Accelerator Act Can Help Avoid More Battery Factories Going Bust",
-          "link": "https://cleantechnica.com/2026/05/29/how-the-industrial-accelerator-act-can-help-avoid-more-battery-factories-going-bust/",
-          "source": "CleanTechnica",
-          "published": "2026-05-30T00:17:17+00:00"
-        },
-        {
           "title": "Podcast: Tesla Robotaxi numbers, Ferrari’s controversial Luce launches, Waymo Ojai, and more",
           "link": "https://electrek.co/2026/05/29/podcast-tesla-robotaxi-numbers-ferraris-controversial-luce-launches-waymo-ojai-and-more/",
           "source": "Electrek",
@@ -402,12 +408,6 @@
           "link": "https://electrek.co/2026/05/26/rad-power-bikes-to-offer-safer-replacement-e-bike-batteries-at-steep-discount/",
           "source": "Electrek",
           "published": "2026-05-27T06:16:32+00:00"
-        },
-        {
-          "title": "E-quipment highlight: SANY SY375E packs a SWAPPABLE 550 kWh battery",
-          "link": "https://electrek.co/2026/05/23/e-quipment-highlight-sany-sy375e-packs-a-swappable-550-kwh-battery/",
-          "source": "Electrek",
-          "published": "2026-05-23T12:47:48+00:00"
         }
       ]
     },
@@ -416,6 +416,12 @@
       "label": "모터",
       "count": 8,
       "items": [
+        {
+          "title": "Caterpillar BEPU makes going electric as easy as swapping an engine",
+          "link": "https://electrek.co/2026/06/03/caterpillar-bepu-makes-going-electric-as-easy-as-swapping-an-engine/",
+          "source": "Electrek",
+          "published": "2026-06-03T12:47:56+00:00"
+        },
         {
           "title": "벤틀리모터스, 비스포크 영역 확장한 ‘2026 뮬리너 퍼스널 커미셔닝 가이드'",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43874",
@@ -457,19 +463,13 @@
           "link": "https://electrek.co/2026/05/24/livewires-125cc-equivalent-electric-fun-bikes-begin-revealing-their-secrets/",
           "source": "Electrek",
           "published": "2026-05-24T12:23:00+00:00"
-        },
-        {
-          "title": "New bill could change how e-bikes are labeled and sold",
-          "link": "https://electrek.co/2026/05/23/new-bill-could-change-how-e-bikes-are-labeled-and-sold/",
-          "source": "Electrek",
-          "published": "2026-05-23T15:55:37+00:00"
         }
       ]
     },
     {
       "key": "robot",
       "label": "로봇",
-      "count": 22,
+      "count": 21,
       "items": [
         {
           "title": "\"국제표준화기구, 가정용 휴머노이드 안전규격 패러다임 전환해야\"",
@@ -478,7 +478,25 @@
           "published": "2026-06-03T18:46:01+00:00"
         },
         {
-          "title": "2026 Robotics Summit & Expo Recap",
+          "title": "RoboBusiness 2026 opens call for speakers",
+          "link": "https://www.therobotreport.com/robobusiness-2026-opens-call-for-speakers/",
+          "source": "The Robot Report",
+          "published": "2026-06-03T13:26:34+00:00"
+        },
+        {
+          "title": "Festo launches lightweight pneumatic gripper and tests GripperAI",
+          "link": "https://www.therobotreport.com/festo-launches-pneumatic-gripper-tests-gripperai/",
+          "source": "The Robot Report",
+          "published": "2026-06-03T12:31:37+00:00"
+        },
+        {
+          "title": "Boston University team wins MassRobotics Form & Function Challenge at Robotics Summit",
+          "link": "https://www.therobotreport.com/boston-university-team-wins-massrobotics-form-function-challenge-2026-robotics-summit/",
+          "source": "The Robot Report",
+          "published": "2026-06-03T12:15:45+00:00"
+        },
+        {
+          "title": "2026 Robotics Summit & Expo recap",
           "link": "https://www.therobotreport.com/2026-robotics-summit-expo-recap/",
           "source": "The Robot Report",
           "published": "2026-06-02T19:15:57+00:00"
@@ -562,24 +580,6 @@
           "published": "2026-05-28T14:12:26+00:00"
         },
         {
-          "title": "Your guide to the last day of the 2026 Robotics Summit & Expo",
-          "link": "https://www.therobotreport.com/your-guide-to-the-last-day-of-the-2026-robotics-summit-expo/",
-          "source": "The Robot Report",
-          "published": "2026-05-28T12:00:35+00:00"
-        },
-        {
-          "title": "A guide to Day 1 of the 2026 Robotics Summit & Expo",
-          "link": "https://www.therobotreport.com/a-guide-to-day-1-of-the-2026-robotics-summit-expo/",
-          "source": "The Robot Report",
-          "published": "2026-05-27T12:00:03+00:00"
-        },
-        {
-          "title": "Why robots still struggle to see the real world",
-          "link": "https://www.therobotreport.com/why-robots-still-struggle-to-see-real-world-orbbec/",
-          "source": "The Robot Report",
-          "published": "2026-05-27T11:43:01+00:00"
-        },
-        {
           "title": "Video Friday: Atlas Versus a Fridge",
           "link": "https://spectrum.ieee.org/video-friday-humanoid-robot-learning",
           "source": "IEEE Spectrum",
@@ -596,12 +596,6 @@
           "link": "https://spectrum.ieee.org/wetour-robotics-physical-ai-human-interfaces",
           "source": "IEEE Spectrum",
           "published": "2026-05-21T10:00:02+00:00"
-        },
-        {
-          "title": "Will Robotics Have a ChatGPT Moment?",
-          "link": "https://spectrum.ieee.org/robotics-ai-breakthrough",
-          "source": "IEEE Spectrum",
-          "published": "2026-05-20T11:00:01+00:00"
         }
       ]
     },
@@ -611,10 +605,10 @@
       "count": 40,
       "items": [
         {
-          "title": "스페이스X, IPO서 '1.75조달러' 몸값 도전… \"7800억달러 불과\" 반론도 등장",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211289",
+          "title": "우버, '클로드 코드' 과다 지출에 제동...\"월 한도 230만원\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211290",
           "source": "AI타임스",
-          "published": "2026-06-03T19:49:55+00:00"
+          "published": "2026-06-03T20:26:23+00:00"
         },
         {
           "title": "Visual Graph Scaffolds for Structural Reasoning in Large Language Models",
