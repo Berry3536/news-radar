@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-06-02T20:45:53.094749+00:00",
+  "generated_at": "2026-06-03T03:52:23.453972+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Tesla found new buyers for its Cybertruck: Kazakh emergency services",
+          "link": "https://electrek.co/2026/06/02/tesla-cybertruck-kazakhstan-emergency-services/",
+          "source": "Electrek",
+          "published": "2026-06-03T02:33:21+00:00"
+        },
+        {
+          "title": "Orange EV scores record, 600 unit order as demand for electric semi trucks soars",
+          "link": "https://electrek.co/2026/06/02/orange-ev-scores-record-600-unit-order-as-demand-for-electric-semi-trucks-soars/",
+          "source": "Electrek",
+          "published": "2026-06-02T21:34:28+00:00"
+        },
+        {
+          "title": "Interior Dept.’s $1B bribe to a foreign oil company gets challenged in court",
+          "link": "https://electrek.co/2026/06/02/new-york-sues-over-interior-dept-s-1b-bribe-to-an-oil-company-stop-wind-power/",
+          "source": "Electrek",
+          "published": "2026-06-02T21:34:11+00:00"
+        },
+        {
+          "title": "The 2027 Dodge Charger EV goes on sale with a NACS port, but it’s not cheap",
+          "link": "https://electrek.co/2026/06/02/2027-dodge-charger-ev-adds-nacs-not-cheap/",
+          "source": "Electrek",
+          "published": "2026-06-02T20:50:56+00:00"
+        },
         {
           "title": "BYD says its cast aluminum frame is lighter, tougher, and safer than steel",
           "link": "https://electrek.co/2026/06/02/byd-says-its-cast-aluminum-frame-is-lighter-tougher-and-safer-than-steel/",
@@ -221,37 +245,13 @@
           "link": "https://insideevs.com/news/797361/china-best-selling-update-geely/",
           "source": "InsideEVs",
           "published": "2026-05-30T17:30:00+00:00"
-        },
-        {
-          "title": "Tesla’s ‘Full Self-Driving’ fraud lawsuit gets first hearing in China — 10 owners seek $583K",
-          "link": "https://electrek.co/2026/05/30/tesla-fsd-china-lawsuit-first-hearing-10-owners/",
-          "source": "Electrek",
-          "published": "2026-05-30T16:20:00+00:00"
-        },
-        {
-          "title": "This Sub-$20,000 Volkswagen ID.4 Proves Used EVs Are The Ultimate Bargain",
-          "link": "https://insideevs.com/news/797303/used-vw-id4-ev-bargain-owner-review/",
-          "source": "InsideEVs",
-          "published": "2026-05-30T16:10:18+00:00"
-        },
-        {
-          "title": "CT keeps home solar incentive alive through 2035, batteries are the big winners",
-          "link": "https://electrek.co/2026/05/30/ct-keeps-home-solar-incentive-alive-through-2035-batteries-are-the-big-winners/",
-          "source": "Electrek",
-          "published": "2026-05-30T14:24:07+00:00"
-        },
-        {
-          "title": "We could all learn from Australia’s brewing movement to tax gas",
-          "link": "https://electrek.co/2026/05/30/we-could-all-learn-from-australias-brewing-movement-to-tax-gas/",
-          "source": "Electrek",
-          "published": "2026-05-30T14:00:00+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 30,
+      "count": 27,
       "items": [
         {
           "title": "Anker launches SOLIX S2000 power station + bundles starting from exclusive $598, EGO Z6 zero turn riding mower bundle new low, more",
@@ -338,18 +338,6 @@
           "published": "2026-05-30T00:17:17+00:00"
         },
         {
-          "title": "Tesla & SpaceX Merger Getting Real",
-          "link": "https://cleantechnica.com/2026/05/29/tesla-spacex-merger-getting-real/",
-          "source": "CleanTechnica",
-          "published": "2026-05-29T19:21:51+00:00"
-        },
-        {
-          "title": "BYD Technology Strategy Highlights Hardware With China’s First 4nm Intelligent Driving Chip",
-          "link": "https://cleantechnica.com/2026/05/29/byd-technology-strategy-highlights-hardware/",
-          "source": "CleanTechnica",
-          "published": "2026-05-29T18:31:05+00:00"
-        },
-        {
           "title": "Podcast: Tesla Robotaxi numbers, Ferrari’s controversial Luce launches, Waymo Ojai, and more",
           "link": "https://electrek.co/2026/05/29/podcast-tesla-robotaxi-numbers-ferraris-controversial-luce-launches-waymo-ojai-and-more/",
           "source": "Electrek",
@@ -426,12 +414,6 @@
           "link": "https://electrek.co/2026/05/23/e-quipment-highlight-sany-sy375e-packs-a-swappable-550-kwh-battery/",
           "source": "Electrek",
           "published": "2026-05-23T12:47:48+00:00"
-        },
-        {
-          "title": "Podcast: Tesla Solar, Volvo EX60 unveiled, Xiaomi YU7 GT, and AMG GT",
-          "link": "https://electrek.co/2026/05/22/podcast-tesla-solar-volvo-ex60-unveiled-xiaomi-yu7-gt-and-amg-gt/",
-          "source": "Electrek",
-          "published": "2026-05-22T18:36:45+00:00"
         }
       ]
     },
@@ -635,10 +617,10 @@
       "count": 40,
       "items": [
         {
-          "title": "순천 낙안읍성, 야간 미식투어 ‘낙안 잔잔잔’ 운영",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211248",
+          "title": "MS, 기업 전용 자체 모델 7종 공개...\"앤트로픽과 격차 좁혔다\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211273",
           "source": "AI타임스",
-          "published": "2026-06-03T00:00:00+00:00"
+          "published": "2026-06-03T11:56:34+00:00"
         },
         {
           "title": "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations",
