@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T14:45:57.991761+00:00",
+  "generated_at": "2026-06-05T19:51:39.364351+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,52 @@
       "count": 40,
       "items": [
         {
+          "title": "Tesla pushes Roadster demo to August as SpaceX thruster work continues",
+          "link": "https://electrek.co/2026/06/05/tesla-roadster-demo-delayed-august-spacex-thruster/",
+          "source": "Electrek",
+          "published": "2026-06-05T19:51:00+00:00"
+        },
+        {
+          "title": "Podcast: Tesla Semi nails big test, BMW iX3 range impresses, Xpeng catches up to Tesla, and more",
+          "link": "https://electrek.co/2026/06/05/podcast-tesla-semi-nails-big-test-bmw-ix3-range-impresses-xpeng-catches-up-to-tesla-and-more/",
+          "source": "Electrek",
+          "published": "2026-06-05T19:39:07+00:00"
+        },
+        {
           "title": "플래그십의 진화, 현대 더 뉴 그랜저",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43885",
           "source": "모터그래프",
           "published": "2026-06-05T18:05:23+00:00"
+        },
+        {
+          "title": "Yozma IN 10 + IN 10 Pro electric dirt bikes with up to $1,043+ exclusive savings, Lectric Father’s Day e-bike Sale, Segway Navimow, more",
+          "link": "https://electrek.co/2026/06/05/yozma-in-10-in-10-pro-electric-dirt-bikes-lectric-fathers-day-e-bike-sale-segway-navimow-more/",
+          "source": "Electrek",
+          "published": "2026-06-05T18:00:00+00:00"
+        },
+        {
+          "title": "Range Rover is finally ready to sell its first electric SUV: Here’s everything we know",
+          "link": "https://electrek.co/2026/06/05/range-rover-finally-ready-to-sell-first-electric-suv/",
+          "source": "Electrek",
+          "published": "2026-06-05T17:55:15+00:00"
+        },
+        {
+          "title": "Tesla Employees Leaked Their Thoughts About FSD. They Weren't Pretty",
+          "link": "https://insideevs.com/features/797947/tesla-fsd-podcast/",
+          "source": "InsideEVs",
+          "published": "2026-06-05T17:40:56+00:00"
+        },
+        {
+          "title": "This $199 Gadget Brings Apple CarPlay To GM EVs. But There's A Catch",
+          "link": "https://insideevs.com/news/797942/gm-evs-apple-carplay-android-auto-ev-play/",
+          "source": "InsideEVs",
+          "published": "2026-06-05T16:37:18+00:00"
+        },
+        {
+          "title": "Toyota finally has EVs people want to buy — Why slow down now?",
+          "link": "https://electrek.co/2026/06/05/toyota-finally-has-evs-people-want-to-buy-why-slow-down-now/",
+          "source": "Electrek",
+          "published": "2026-06-05T15:42:42+00:00"
         },
         {
           "title": "Slate Could Have A Powerful New Friend In Carvana",
@@ -203,56 +245,20 @@
           "link": "https://electrek.co/2026/06/03/elm-microgrid-installs-battery-storage-in-its-hometown-video/",
           "source": "Electrek",
           "published": "2026-06-04T00:42:09+00:00"
-        },
-        {
-          "title": "REALLY Quick Charge: the Hammer Down crossover episode, with Mike Bush",
-          "link": "https://electrek.co/2026/06/03/really-quick-charge-the-hammer-down-crossover-episode-with-mike-bush/",
-          "source": "Electrek",
-          "published": "2026-06-03T23:49:56+00:00"
-        },
-        {
-          "title": "Another giant solar factory is coming to Texas",
-          "link": "https://electrek.co/2026/06/03/another-giant-solar-factory-is-coming-to-texas/",
-          "source": "Electrek",
-          "published": "2026-06-03T22:55:14+00:00"
-        },
-        {
-          "title": "Here’s our first look at BYD’s new low-cost, 1,000 km-range PHEV in real life [Images]",
-          "link": "https://electrek.co/2026/06/03/first-look-byds-new-low-cost-1000-km-range-phev-images/",
-          "source": "Electrek",
-          "published": "2026-06-03T21:57:17+00:00"
-        },
-        {
-          "title": "Hyundai IONIQ 5 crowned the best family EV",
-          "link": "https://electrek.co/2026/06/03/hyundai-ioniq-5-crowned-best-family-ev/",
-          "source": "Electrek",
-          "published": "2026-06-03T21:13:05+00:00"
-        },
-        {
-          "title": "Voters shocked to learn the fossil shill in charge of EPA is harming air quality",
-          "link": "https://electrek.co/2026/06/03/poll-when-voters-learn-the-epa-is-poisoning-them-they-hate-it/",
-          "source": "Electrek",
-          "published": "2026-06-03T18:33:53+00:00"
-        },
-        {
-          "title": "Volkswagen is launching more affordable EVs, starting with these two models",
-          "link": "https://electrek.co/2026/06/03/volkswagen-launching-more-affordable-evs-these-are-first/",
-          "source": "Electrek",
-          "published": "2026-06-03T18:17:30+00:00"
-        },
-        {
-          "title": "Bluetti sale offers 3,014Wh Elite 300 power station with 350W solar panel + FREE 128Wh Elite 10 Mini for $1,567, Worx robot mowers, more",
-          "link": "https://electrek.co/2026/06/03/bluetti-3014wh-elite-300-power-station-350w-solar-panel-128wh-elite-10-mini-1567-worx-more/",
-          "source": "Electrek",
-          "published": "2026-06-03T18:00:00+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 28,
+      "count": 27,
       "items": [
+        {
+          "title": "Yozma IN 10 + IN 10 Pro electric dirt bikes with up to $1,043+ exclusive savings, Lectric Father’s Day e-bike Sale, Segway Navimow, more",
+          "link": "https://electrek.co/2026/06/05/yozma-in-10-in-10-pro-electric-dirt-bikes-lectric-fathers-day-e-bike-sale-segway-navimow-more/",
+          "source": "Electrek",
+          "published": "2026-06-05T18:00:00+00:00"
+        },
         {
           "title": "Jason Momoa’s 1920s Harleys become electric hybrids in wildest EV conversions yet",
           "link": "https://electrek.co/2026/06/05/jason-momoa-1920s-harleys-land-rovers-electric-conversion-electrogenic/",
@@ -338,12 +344,6 @@
           "published": "2026-06-02T18:00:00+00:00"
         },
         {
-          "title": "Energy Storage Technology Company Volt Harbor Raises $2 Million In Funding",
-          "link": "https://cleantechnica.com/2026/06/02/energy-storage-technology-company-volt-harbor-raises-2-million-in-funding/",
-          "source": "CleanTechnica",
-          "published": "2026-06-02T15:14:11+00:00"
-        },
-        {
           "title": "Volvo CE, Hitachi Energy set to partner on zero emission job sites",
           "link": "https://electrek.co/2026/06/01/volvo-ce-hitachi-energy-set-to-partner-on-zero-emission-job-sites/",
           "source": "Electrek",
@@ -414,12 +414,6 @@
           "link": "https://electrek.co/2026/05/27/robotaxi-has-the-wrong-kind-of-momentum-but-wind-and-solar-are-doing-great/",
           "source": "Electrek",
           "published": "2026-05-27T22:29:24+00:00"
-        },
-        {
-          "title": "Another solid-state EV battery maker is going public to fund its next growth stage",
-          "link": "https://electrek.co/2026/05/27/another-solid-state-ev-battery-maker-going-public/",
-          "source": "Electrek",
-          "published": "2026-05-27T19:33:16+00:00"
         }
       ]
     },
@@ -433,6 +427,12 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43877",
           "source": "모터그래프",
           "published": "2026-06-05T18:03:53+00:00"
+        },
+        {
+          "title": "This $199 Gadget Brings Apple CarPlay To GM EVs. But There's A Catch",
+          "link": "https://insideevs.com/news/797942/gm-evs-apple-carplay-android-auto-ev-play/",
+          "source": "InsideEVs",
+          "published": "2026-06-05T16:37:18+00:00"
         },
         {
           "title": "Jason Momoa’s 1920s Harleys become electric hybrids in wildest EV conversions yet",
@@ -475,12 +475,6 @@
           "link": "https://electrek.co/2026/06/02/more-police-turn-to-simple-drones-in-clever-effort-to-catch-illegal-e-bike-riders/",
           "source": "Electrek",
           "published": "2026-06-02T13:05:24+00:00"
-        },
-        {
-          "title": "Lucid Is Recalling Its Cheapest EV Because It May Lose Power While Driving",
-          "link": "https://insideevs.com/news/797569/lucid-air-pure-recall-drive-loss/",
-          "source": "InsideEVs",
-          "published": "2026-06-02T12:59:46+00:00"
         }
       ]
     },
@@ -490,10 +484,28 @@
       "count": 19,
       "items": [
         {
+          "title": "Why deterministic real-time systems are more critical than ever in robotics",
+          "link": "https://www.therobotreport.com/qnx-why-deterministic-real-time-systems-are-more-critical-than-ever-robotics/",
+          "source": "The Robot Report",
+          "published": "2026-06-05T18:49:11+00:00"
+        },
+        {
           "title": "印 앤서로보틱스, 창고·공장용 AMR로 80억원 유치",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=46747",
           "source": "로봇신문",
           "published": "2026-06-05T16:29:26+00:00"
+        },
+        {
+          "title": "GENISOM AI debuts deployable robotics platforms at ICRA 2026",
+          "link": "https://www.therobotreport.com/genisom-ai-debuts-deployable-robotics-platforms-icra-2026/",
+          "source": "The Robot Report",
+          "published": "2026-06-05T15:30:40+00:00"
+        },
+        {
+          "title": "Video Friday: Watch This Running Robot Not Fall Down Stairs",
+          "link": "https://spectrum.ieee.org/video-friday-humanoid-robot-running",
+          "source": "IEEE Spectrum",
+          "published": "2026-06-05T15:30:01+00:00"
         },
         {
           "title": "Mitsubishi Electric opens Serendie Street Boston digital transformation hub",
@@ -574,18 +586,6 @@
           "published": "2026-06-01T21:27:16+00:00"
         },
         {
-          "title": "ANSCER Robotics closes Series A round for industrial material handling",
-          "link": "https://www.therobotreport.com/anscer-robotics-closes-series-a-round-industrial-material-handling/",
-          "source": "The Robot Report",
-          "published": "2026-06-01T19:55:18+00:00"
-        },
-        {
-          "title": "Top 10 robotics stories of May 2026",
-          "link": "https://www.therobotreport.com/top-10-robotics-stories-of-may-2026/",
-          "source": "The Robot Report",
-          "published": "2026-06-01T18:04:55+00:00"
-        },
-        {
           "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
           "link": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
           "source": "IEEE Spectrum",
@@ -596,12 +596,6 @@
           "link": "https://spectrum.ieee.org/video-friday-rabona-soccer",
           "source": "IEEE Spectrum",
           "published": "2026-05-29T17:00:01+00:00"
-        },
-        {
-          "title": "Video Friday: Atlas Versus a Fridge",
-          "link": "https://spectrum.ieee.org/video-friday-humanoid-robot-learning",
-          "source": "IEEE Spectrum",
-          "published": "2026-05-22T16:00:01+00:00"
         }
       ]
     },
