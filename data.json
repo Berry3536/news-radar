@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T09:42:41.565209+00:00",
+  "generated_at": "2026-06-05T14:45:57.991761+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,42 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43885",
           "source": "모터그래프",
           "published": "2026-06-05T18:05:23+00:00"
+        },
+        {
+          "title": "Slate Could Have A Powerful New Friend In Carvana",
+          "link": "https://insideevs.com/news/797854/slate-carvana-investment-potential-amazon/",
+          "source": "InsideEVs",
+          "published": "2026-06-05T14:01:55+00:00"
+        },
+        {
+          "title": "Xpeng spends $500M/year on AI training to beat Tesla FSD",
+          "link": "https://electrek.co/2026/06/05/xpeng-vla-interview-cvpr-language-poison-tesla-fsd/",
+          "source": "Electrek",
+          "published": "2026-06-05T13:58:04+00:00"
+        },
+        {
+          "title": "Wheel-E Podcast: Monarc e-bikes launch, bike buses, more",
+          "link": "https://electrek.co/2026/06/05/wheel-e-podcast-monarc-e-bikes-launch-bike-buses-more/",
+          "source": "Electrek",
+          "published": "2026-06-05T12:55:33+00:00"
+        },
+        {
+          "title": "Jason Momoa’s 1920s Harleys become electric hybrids in wildest EV conversions yet",
+          "link": "https://electrek.co/2026/06/05/jason-momoa-1920s-harleys-land-rovers-electric-conversion-electrogenic/",
+          "source": "Electrek",
+          "published": "2026-06-05T11:49:11+00:00"
+        },
+        {
+          "title": "Amazon Now Has Over 50,000 Electric Delivery Vans In Its Fleet",
+          "link": "https://insideevs.com/news/797914/amazon-ev-delivery-fleet-2026-update/",
+          "source": "InsideEVs",
+          "published": "2026-06-05T11:45:52+00:00"
+        },
+        {
+          "title": "Velotric Tempo review: A lightweight commuter e-bike that gets a lot right",
+          "link": "https://electrek.co/2026/06/05/velotric-tempo-review-a-lightweight-commuter-e-bike-that-gets-a-lot-right/",
+          "source": "Electrek",
+          "published": "2026-06-05T10:41:33+00:00"
         },
         {
           "title": "Volkswagen Compares Gas Cars To Horses, Says That EVs Are Plain Better",
@@ -209,50 +245,20 @@
           "link": "https://electrek.co/2026/06/03/bluetti-3014wh-elite-300-power-station-350w-solar-panel-128wh-elite-10-mini-1567-worx-more/",
           "source": "Electrek",
           "published": "2026-06-03T18:00:00+00:00"
-        },
-        {
-          "title": "Tesla expands ‘Robotaxi’ to entire Austin metro — but still has only ~20 vehicles",
-          "link": "https://electrek.co/2026/06/03/tesla-robotaxi-expands-entire-austin-metro-only-20-vehicles/",
-          "source": "Electrek",
-          "published": "2026-06-03T17:14:42+00:00"
-        },
-        {
-          "title": "Why this premium e-bike maker glues its bike frames together",
-          "link": "https://electrek.co/2026/06/03/why-this-premium-e-bike-maker-glues-its-bike-frames-together/",
-          "source": "Electrek",
-          "published": "2026-06-03T16:48:00+00:00"
-        },
-        {
-          "title": "What Ultra-High-Mileage EVs Teach Us About Battery Degradation",
-          "link": "https://insideevs.com/features/797638/high-mileage-ev-battery-degradation/",
-          "source": "InsideEVs",
-          "published": "2026-06-03T16:42:42+00:00"
-        },
-        {
-          "title": "Kia’s electric van is now available as a 7-seater for under $50,000",
-          "link": "https://electrek.co/2026/06/03/kias-electric-van-now-available-7-seater-for-under-50000/",
-          "source": "Electrek",
-          "published": "2026-06-03T16:26:06+00:00"
-        },
-        {
-          "title": "It's Still Way More Expensive To Insure An EV. But That's Changing",
-          "link": "https://insideevs.com/news/797585/ev-ownership-insurance-price-expensive/",
-          "source": "InsideEVs",
-          "published": "2026-06-03T13:54:33+00:00"
-        },
-        {
-          "title": "Tesla retroactively added ‘supervised’ to FSD contracts owners signed years ago",
-          "link": "https://electrek.co/2026/06/03/tesla-retroactively-modified-fsd-contracts-supervised/",
-          "source": "Electrek",
-          "published": "2026-06-03T12:54:19+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 30,
+      "count": 28,
       "items": [
+        {
+          "title": "Jason Momoa’s 1920s Harleys become electric hybrids in wildest EV conversions yet",
+          "link": "https://electrek.co/2026/06/05/jason-momoa-1920s-harleys-land-rovers-electric-conversion-electrogenic/",
+          "source": "Electrek",
+          "published": "2026-06-05T11:49:11+00:00"
+        },
         {
           "title": "Donut Lab’s Manufacturing Is Different",
           "link": "https://cleantechnica.com/2026/06/04/donut-labs-manufacturing-is-different/",
@@ -338,12 +344,6 @@
           "published": "2026-06-02T15:14:11+00:00"
         },
         {
-          "title": "The Company That Builds The iPhone Just Unveiled A Tesla Model Y Competitor",
-          "link": "https://insideevs.com/news/797561/foxconn-ev-crossover-tesla-model-y-rival/",
-          "source": "InsideEVs",
-          "published": "2026-06-02T11:27:09+00:00"
-        },
-        {
           "title": "Volvo CE, Hitachi Energy set to partner on zero emission job sites",
           "link": "https://electrek.co/2026/06/01/volvo-ce-hitachi-energy-set-to-partner-on-zero-emission-job-sites/",
           "source": "Electrek",
@@ -420,18 +420,6 @@
           "link": "https://electrek.co/2026/05/27/another-solid-state-ev-battery-maker-going-public/",
           "source": "Electrek",
           "published": "2026-05-27T19:33:16+00:00"
-        },
-        {
-          "title": "NIO launches ES9 flagship SUV: China’s largest EV, starting at $54K with BaaS",
-          "link": "https://electrek.co/2026/05/27/nio-es9-flagship-suv-launch-price-specs/",
-          "source": "Electrek",
-          "published": "2026-05-27T16:35:29+00:00"
-        },
-        {
-          "title": "This electric SUV with a semi-solid-state EV battery costs less than $15,000 in China",
-          "link": "https://electrek.co/2026/05/27/15k-electric-suv-semi-solid-state-ev-battery/",
-          "source": "Electrek",
-          "published": "2026-05-27T14:45:57+00:00"
         }
       ]
     },
@@ -445,6 +433,12 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43877",
           "source": "모터그래프",
           "published": "2026-06-05T18:03:53+00:00"
+        },
+        {
+          "title": "Jason Momoa’s 1920s Harleys become electric hybrids in wildest EV conversions yet",
+          "link": "https://electrek.co/2026/06/05/jason-momoa-1920s-harleys-land-rovers-electric-conversion-electrogenic/",
+          "source": "Electrek",
+          "published": "2026-06-05T11:49:11+00:00"
         },
         {
           "title": "Audi's Stunning New Nuvolari Supercar Is A Tri-Motor Plug-In Hybrid",
@@ -487,12 +481,6 @@
           "link": "https://insideevs.com/news/797569/lucid-air-pure-recall-drive-loss/",
           "source": "InsideEVs",
           "published": "2026-06-02T12:59:46+00:00"
-        },
-        {
-          "title": "The Company That Builds The iPhone Just Unveiled A Tesla Model Y Competitor",
-          "link": "https://insideevs.com/news/797561/foxconn-ev-crossover-tesla-model-y-rival/",
-          "source": "InsideEVs",
-          "published": "2026-06-02T11:27:09+00:00"
         }
       ]
     },
@@ -506,6 +494,12 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=46747",
           "source": "로봇신문",
           "published": "2026-06-05T16:29:26+00:00"
+        },
+        {
+          "title": "Mitsubishi Electric opens Serendie Street Boston digital transformation hub",
+          "link": "https://www.therobotreport.com/mitsubishi-electric-opens-serendie-street-boston-digital-transformation-hub/",
+          "source": "The Robot Report",
+          "published": "2026-06-05T12:30:04+00:00"
         },
         {
           "title": "Can surgical robots fly? SS Innovations discusses challenges, solutions",
@@ -592,12 +586,6 @@
           "published": "2026-06-01T18:04:55+00:00"
         },
         {
-          "title": "Learn about advances in robotic case and each picking",
-          "link": "https://www.therobotreport.com/learn-about-advances-robotic-case-each-picking-webinar/",
-          "source": "The Robot Report",
-          "published": "2026-06-01T15:24:45+00:00"
-        },
-        {
           "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
           "link": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
           "source": "IEEE Spectrum",
@@ -623,10 +611,10 @@
       "count": 40,
       "items": [
         {
-          "title": "엔비디아, 자체 최고 성능 ‘네모트론 3 울트라’ 출시…“비용 30% 절감”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211367",
+          "title": "\"깜짝 선물 준비했다\"...젠슨 황 방한 첫날 주요 행선지는",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211404",
           "source": "AI타임스",
-          "published": "2026-06-05T17:19:38+00:00"
+          "published": "2026-06-05T21:27:46+00:00"
         },
         {
           "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
