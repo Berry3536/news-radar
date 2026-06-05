@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-06-04T20:03:05.592383+00:00",
+  "generated_at": "2026-06-05T03:32:19.981950+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Tesla erases the past, CAT electrifies the future, and EV tech training TODAY",
+          "link": "https://electrek.co/2026/06/04/tesla-erases-the-past-cat-electrifies-the-future-and-ev-tech-training-today/",
+          "source": "Electrek",
+          "published": "2026-06-05T01:55:00+00:00"
+        },
+        {
+          "title": "The Cadillac Lyriq costs $200 more for 2027, but it gains a key new feature",
+          "link": "https://electrek.co/2026/06/04/cadillac-lyriq-ev-prices-up-200-for-2027-adds-new-feature/",
+          "source": "Electrek",
+          "published": "2026-06-04T21:35:04+00:00"
+        },
         {
           "title": "You’ve got ONE MONTH to safe harbor your solar project and get 30% off",
           "link": "https://electrek.co/2026/06/04/if-you-still-want-that-30-solar-tax-credit-the-new-panic-date-is-july-4/",
@@ -233,26 +245,20 @@
           "link": "https://electrek.co/2026/06/03/ai-in-a-box-windrose-wants-to-containerize-the-data-center/",
           "source": "Electrek",
           "published": "2026-06-03T11:30:00+00:00"
-        },
-        {
-          "title": "Can an e-bike really save you money on gas? The math is clear",
-          "link": "https://electrek.co/2026/06/03/can-an-e-bike-really-save-you-money-on-gas-the-math-is-clear/",
-          "source": "Electrek",
-          "published": "2026-06-03T11:13:00+00:00"
-        },
-        {
-          "title": "Rivian’s EV Charging Network Is Growing Fast, And It Just Hit A Major Milestone",
-          "link": "https://insideevs.com/news/797654/rivian-ev-charging-network-growth-milestone/",
-          "source": "InsideEVs",
-          "published": "2026-06-03T08:46:17+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 32,
+      "count": 31,
       "items": [
+        {
+          "title": "Donut Lab’s Manufacturing Is Different",
+          "link": "https://cleantechnica.com/2026/06/04/donut-labs-manufacturing-is-different/",
+          "source": "CleanTechnica",
+          "published": "2026-06-04T22:23:03+00:00"
+        },
         {
           "title": "Houston gets a solar, storage + electricity bundle for 6¢ per kWh",
           "link": "https://electrek.co/2026/06/04/houston-solar-storage-electricity-bundle-6-cents-per-kwh/",
@@ -336,18 +342,6 @@
           "link": "https://insideevs.com/news/797561/foxconn-ev-crossover-tesla-model-y-rival/",
           "source": "InsideEVs",
           "published": "2026-06-02T11:27:09+00:00"
-        },
-        {
-          "title": "Electricity Prices Fall Across Australia As Renewables Build Momentum",
-          "link": "https://cleantechnica.com/2026/06/01/electricity-prices-fall-across-australia-as-renewables-build-momentum/",
-          "source": "CleanTechnica",
-          "published": "2026-06-02T03:58:03+00:00"
-        },
-        {
-          "title": "Battery Storage Boom Brings Free Electricity To Australia",
-          "link": "https://cleantechnica.com/2026/06/01/battery-storage-boom-brings-free-electricity-to-australia/",
-          "source": "CleanTechnica",
-          "published": "2026-06-01T23:35:30+00:00"
         },
         {
           "title": "Volvo CE, Hitachi Energy set to partner on zero emission job sites",
@@ -514,16 +508,28 @@
       "count": 19,
       "items": [
         {
+          "title": "뉴로메카, 의료기기 GMP 인증 획득…로봇 제조 품질역량 입증",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46725",
+          "source": "로봇신문",
+          "published": "2026-06-05T08:55:29+00:00"
+        },
+        {
+          "title": "Can surgical robots fly? SS Innovations discusses challenges, solutions",
+          "link": "https://www.therobotreport.com/can-surgical-robots-fly-ss-innovations-discusses-challenges-solutions/",
+          "source": "The Robot Report",
+          "published": "2026-06-04T20:21:33+00:00"
+        },
+        {
+          "title": "Proteus gets natural-language ability as Amazon expands European robot deployments",
+          "link": "https://www.therobotreport.com/proteus-gets-natural-language-ability-amazon-expands-europe-robot-deployments/",
+          "source": "The Robot Report",
+          "published": "2026-06-04T19:50:31+00:00"
+        },
+        {
           "title": "Generalist raises $400M to scale its general-purpose AI models",
           "link": "https://www.therobotreport.com/generalist-raises-400m-to-scale-its-general-purpose-ai-models/",
           "source": "The Robot Report",
           "published": "2026-06-04T17:53:28+00:00"
-        },
-        {
-          "title": "베트남 '빈로보틱스', 휴머노이드 로봇 플랫폼 'VR-H3' 선보여",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46722",
-          "source": "로봇신문",
-          "published": "2026-06-04T17:38:29+00:00"
         },
         {
           "title": "Voyager Technologies acquires Astrobotic to advance lunar initiatives",
@@ -604,18 +610,6 @@
           "published": "2026-05-31T13:00:01+00:00"
         },
         {
-          "title": "Why robotic arms are now being integrated with CNC machines",
-          "link": "https://www.therobotreport.com/why-robotic-arms-are-now-being-integrated-cnc-machines/",
-          "source": "The Robot Report",
-          "published": "2026-05-31T12:30:16+00:00"
-        },
-        {
-          "title": "MISUMI Group invests $1B in Americas, global AI and digital manufacturing",
-          "link": "https://www.therobotreport.com/misumi-group-invests-1b-americas-global-ai-digital-manufacturing/",
-          "source": "The Robot Report",
-          "published": "2026-05-30T13:21:36+00:00"
-        },
-        {
           "title": "Video Friday: Extreme Omnidirectional Robot",
           "link": "https://spectrum.ieee.org/video-friday-rabona-soccer",
           "source": "IEEE Spectrum",
@@ -635,10 +629,10 @@
       "count": 40,
       "items": [
         {
-          "title": "\"매일 아침 나를 위한 스토리 생성\"... 구글, 맞춤형 AI 브리핑 '드림빈즈' 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211327",
+          "title": "[6월4일] 유엔이 AI 챗봇에 \"예의를 생략하라\"고 제안한 이유는",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211314",
           "source": "AI타임스",
-          "published": "2026-06-04T18:48:36+00:00"
+          "published": "2026-06-05T07:00:00+00:00"
         },
         {
           "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
