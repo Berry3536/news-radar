@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-06-05T03:32:19.981950+00:00",
+  "generated_at": "2026-06-05T09:42:41.565209+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "플래그십의 진화, 현대 더 뉴 그랜저",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43885",
+          "source": "모터그래프",
+          "published": "2026-06-05T18:05:23+00:00"
+        },
+        {
+          "title": "Volkswagen Compares Gas Cars To Horses, Says That EVs Are Plain Better",
+          "link": "https://insideevs.com/news/797883/vw-gas-cars-horses-evs-better/",
+          "source": "InsideEVs",
+          "published": "2026-06-05T09:09:19+00:00"
+        },
+        {
+          "title": "Audi's Stunning New Nuvolari Supercar Is A Tri-Motor Plug-In Hybrid",
+          "link": "https://insideevs.com/news/797873/audi-nuvolari-plug-in-hybrid-three-motors/",
+          "source": "InsideEVs",
+          "published": "2026-06-05T07:16:53+00:00"
+        },
+        {
+          "title": "America’s best deal on a German mid-drive e-bike just got even more affordable",
+          "link": "https://electrek.co/2026/06/04/americas-best-deal-on-a-german-mid-drive-e-bike-just-got-even-more-affordable/",
+          "source": "Electrek",
+          "published": "2026-06-05T05:09:56+00:00"
+        },
         {
           "title": "Tesla erases the past, CAT electrifies the future, and EV tech training TODAY",
           "link": "https://electrek.co/2026/06/04/tesla-erases-the-past-cat-electrifies-the-future-and-ev-tech-training-today/",
@@ -65,12 +89,6 @@
           "link": "https://electrek.co/2026/06/04/nissan-solid-state-ev-battery-project-aims-for-cheaper-than-china/",
           "source": "Electrek",
           "published": "2026-06-04T17:26:33+00:00"
-        },
-        {
-          "title": "기아, HMGMA에 스포티지 하이브리드 생산 시작",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43883",
-          "source": "모터그래프",
-          "published": "2026-06-04T17:02:46+00:00"
         },
         {
           "title": "The Self-Driving Car Story Started Earlier Than You Think",
@@ -227,31 +245,13 @@
           "link": "https://electrek.co/2026/06/03/tesla-retroactively-modified-fsd-contracts-supervised/",
           "source": "Electrek",
           "published": "2026-06-03T12:54:19+00:00"
-        },
-        {
-          "title": "Caterpillar BEPU makes going electric as easy as swapping an engine",
-          "link": "https://electrek.co/2026/06/03/caterpillar-bepu-makes-going-electric-as-easy-as-swapping-an-engine/",
-          "source": "Electrek",
-          "published": "2026-06-03T12:47:56+00:00"
-        },
-        {
-          "title": "The Mercedes CLA EV Just Smashed Its EPA Range Rating In A Real-World Test",
-          "link": "https://insideevs.com/news/797694/mercedes-cla-350-ev-beats-epa-estimated-range/",
-          "source": "InsideEVs",
-          "published": "2026-06-03T12:19:06+00:00"
-        },
-        {
-          "title": "AI in a box: Windrose wants to containerize the data center [update]",
-          "link": "https://electrek.co/2026/06/03/ai-in-a-box-windrose-wants-to-containerize-the-data-center/",
-          "source": "Electrek",
-          "published": "2026-06-03T11:30:00+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 31,
+      "count": 30,
       "items": [
         {
           "title": "Donut Lab’s Manufacturing Is Different",
@@ -432,12 +432,6 @@
           "link": "https://electrek.co/2026/05/27/15k-electric-suv-semi-solid-state-ev-battery/",
           "source": "Electrek",
           "published": "2026-05-27T14:45:57+00:00"
-        },
-        {
-          "title": "Yet another Honda electric motorcycle is proving batteries may beat combustion",
-          "link": "https://electrek.co/2026/05/27/yet-another-honda-electric-motorcycle-is-proving-batteries-may-beat-combustion/",
-          "source": "Electrek",
-          "published": "2026-05-27T14:10:21+00:00"
         }
       ]
     },
@@ -447,16 +441,22 @@
       "count": 9,
       "items": [
         {
+          "title": "장인 정신과 퍼포먼스로 무장한 럭셔리 세단, 벤틀리 더 뉴 플라잉스퍼",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43877",
+          "source": "모터그래프",
+          "published": "2026-06-05T18:03:53+00:00"
+        },
+        {
+          "title": "Audi's Stunning New Nuvolari Supercar Is A Tri-Motor Plug-In Hybrid",
+          "link": "https://insideevs.com/news/797873/audi-nuvolari-plug-in-hybrid-three-motors/",
+          "source": "InsideEVs",
+          "published": "2026-06-05T07:16:53+00:00"
+        },
+        {
           "title": "Audi reveals 1,001-hp Nuvolari hybrid supercar — so much for going all-electric",
           "link": "https://electrek.co/2026/06/04/audi-nuvolari-1001-hp-hybrid-supercar-v8-r8-successor/",
           "source": "Electrek",
           "published": "2026-06-04T18:40:07+00:00"
-        },
-        {
-          "title": "한층 진보한 롤스로이스 스펙터 시리즈 II, 블랙 배지 스펙터 시리즈 II",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43878",
-          "source": "모터그래프",
-          "published": "2026-06-04T17:02:46+00:00"
         },
         {
           "title": "BMW’s new iX3 drove 485 miles on a single charge, the longest-range EV in NAF’s test",
@@ -493,12 +493,6 @@
           "link": "https://insideevs.com/news/797561/foxconn-ev-crossover-tesla-model-y-rival/",
           "source": "InsideEVs",
           "published": "2026-06-02T11:27:09+00:00"
-        },
-        {
-          "title": "Yet another Honda electric motorcycle is proving batteries may beat combustion",
-          "link": "https://electrek.co/2026/05/27/yet-another-honda-electric-motorcycle-is-proving-batteries-may-beat-combustion/",
-          "source": "Electrek",
-          "published": "2026-05-27T14:10:21+00:00"
         }
       ]
     },
@@ -508,10 +502,10 @@
       "count": 19,
       "items": [
         {
-          "title": "뉴로메카, 의료기기 GMP 인증 획득…로봇 제조 품질역량 입증",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46725",
+          "title": "印 앤서로보틱스, 창고·공장용 AMR로 80억원 유치",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46747",
           "source": "로봇신문",
-          "published": "2026-06-05T08:55:29+00:00"
+          "published": "2026-06-05T16:29:26+00:00"
         },
         {
           "title": "Can surgical robots fly? SS Innovations discusses challenges, solutions",
@@ -629,244 +623,244 @@
       "count": 40,
       "items": [
         {
-          "title": "[6월4일] 유엔이 AI 챗봇에 \"예의를 생략하라\"고 제안한 이유는",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211314",
+          "title": "엔비디아, 자체 최고 성능 ‘네모트론 3 울트라’ 출시…“비용 30% 절감”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211367",
           "source": "AI타임스",
-          "published": "2026-06-05T07:00:00+00:00"
+          "published": "2026-06-05T17:19:38+00:00"
         },
         {
           "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
           "link": "https://arxiv.org/abs/2606.04037",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
           "link": "https://arxiv.org/abs/2606.04150",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
           "link": "https://arxiv.org/abs/2606.04152",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
           "link": "https://arxiv.org/abs/2606.04202",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
           "link": "https://arxiv.org/abs/2606.04223",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
           "link": "https://arxiv.org/abs/2606.04244",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis",
           "link": "https://arxiv.org/abs/2606.04246",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "Can Generalist Agents Automate Data Curation?",
           "link": "https://arxiv.org/abs/2606.04261",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "Characterizing initial human-AI proof formalization workflows",
           "link": "https://arxiv.org/abs/2606.04273",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "The Saturation Trap and the Subjectivity of Intervention Timing: Why Affect-Based Triggers and LLM Judges Fail to Time Interventions on Autonomous Agents",
           "link": "https://arxiv.org/abs/2606.04296",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline",
           "link": "https://arxiv.org/abs/2606.04315",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "The Digital Apprentice: A Framework for Human-Directed Agentic AI Development",
           "link": "https://arxiv.org/abs/2606.04321",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval",
           "link": "https://arxiv.org/abs/2606.04391",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "Not All Errors Are Equal: Consequence-Aware Reasoning Compute Allocation",
           "link": "https://arxiv.org/abs/2606.04402",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "Trivium: Temporal Regret as a First-Class Objective for Causal-Memory Controllers",
           "link": "https://arxiv.org/abs/2606.04421",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "Cascading Hallucination in Agentic RAG: The CHARM Framework for Detection and Mitigation",
           "link": "https://arxiv.org/abs/2606.04435",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "The Meta-Agent Challenge: Are Current Agents Capable of Autonomous Agent Development?",
           "link": "https://arxiv.org/abs/2606.04455",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning",
           "link": "https://arxiv.org/abs/2606.04484",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "Beyond Prompt-Based Planning: MCP-Native Graph Planning-based Biomedical Agent System",
           "link": "https://arxiv.org/abs/2606.04494",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "Simulate, Reason, Decide: Scientific Reasoning with LLMs for Simulation-Driven Decision Making",
           "link": "https://arxiv.org/abs/2606.04505",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "MapAgent: An Industrial-Grade Agentic Framework for City-scale Lane-level Map Generation",
           "link": "https://arxiv.org/abs/2606.04513",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "Scaling Self-Evolving Agents via Parametric Memory",
           "link": "https://arxiv.org/abs/2606.04536",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "Neetyabhas: A Framework for Uncertainty-Aware Public Policy Optimization in Rational Agent-Based Models",
           "link": "https://arxiv.org/abs/2606.04562",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "SCI-PRM: A Tool Aware Process Reward Model for Scientific Reasoning Verification",
           "link": "https://arxiv.org/abs/2606.04579",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "Learning Admissible Heuristics via Cost Partitioning",
           "link": "https://arxiv.org/abs/2606.04597",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "Plan First, Judge Later, Run Better: A DMAIC-Inspired Agentic System for Industrial Anomaly Detection",
           "link": "https://arxiv.org/abs/2606.04599",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "Parthenon Law: A Self-Evolving Legal-Agent Framework",
           "link": "https://arxiv.org/abs/2606.04602",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "A Normative Intermediate Representation for ASP-Based Compliance Reasoning",
           "link": "https://arxiv.org/abs/2606.04619",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "MIRAGE: Mobile Agents with Implicit Reasoning and Generative World Models",
           "link": "https://arxiv.org/abs/2606.04627",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "BiNSGPS: Geometry Problem Solving via Bidirectional Neuro-Symbolic Interaction",
           "link": "https://arxiv.org/abs/2606.04648",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "Fog of Love: Engineering Virtuous Agent Behavior with Affinity-based Reinforcement Learning in a Game Environment",
           "link": "https://arxiv.org/abs/2606.04750",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "FALSIFYBENCH: Evaluating Inductive Reasoning in LLMs with Rule Discovery Games",
           "link": "https://arxiv.org/abs/2606.04751",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "Inference-Time Vulnerability Beyond Shallow Safety: Alignment Along Generation Trajectories",
           "link": "https://arxiv.org/abs/2606.04778",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "Tree-Based Formalization of Multi-Agent Complementarity in Human-AI Interactions",
           "link": "https://arxiv.org/abs/2606.04779",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "AIP: A Graph Representation for Learning and Governing Agent Skills",
           "link": "https://arxiv.org/abs/2606.04781",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "BiasGRPO: Stabilizing Bias Mitigation in High-Variance Reward Landscapes via Group-Relative Policy Optimization",
           "link": "https://arxiv.org/abs/2606.04807",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "Beyond Objective Equivalence: Constraint Injection for LLM-Based Optimization Modeling on Vehicle Routing Problems",
           "link": "https://arxiv.org/abs/2606.04816",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "R-APS: Compositional Reasoning and In-Context Meta-Learning for Constrained Design via Reflective Adversarial Pareto Search",
           "link": "https://arxiv.org/abs/2606.04823",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         },
         {
           "title": "AICompanionBench: Benchmarking LLMs-as-Judges for AI Companion Safety",
           "link": "https://arxiv.org/abs/2606.04867",
           "source": "arXiv cs.AI",
-          "published": "2026-06-04T04:00:00+00:00"
+          "published": "2026-06-05T04:00:00+00:00"
         }
       ]
     }
