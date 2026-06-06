@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-06-06T13:27:38.078029+00:00",
+  "generated_at": "2026-06-06T19:18:54.503639+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Harbinger gears up for war with autonomous military truck program",
+          "link": "https://electrek.co/2026/06/06/harbinger-gears-up-for-war-with-autonomous-military-truck-program/",
+          "source": "Electrek",
+          "published": "2026-06-06T15:23:49+00:00"
+        },
+        {
+          "title": "Ford’s Chinese EREV Bronco Would Do Great In America. But Don’t Hold Your Breath",
+          "link": "https://insideevs.com/news/797720/bronco-erev-china-ford-suv/",
+          "source": "InsideEVs",
+          "published": "2026-06-06T14:02:00+00:00"
+        },
         {
           "title": "All the new EVs you can buy with 0% financing in June 2026",
           "link": "https://electrek.co/2026/06/06/all-the-new-evs-you-can-buy-with-0-financing-in-june-2026/",
@@ -233,26 +245,20 @@
           "link": "https://electrek.co/2026/06/04/new-e-bike-law-could-help-legalize-those-30-and-40-mph-grey-zone-bikes/",
           "source": "Electrek",
           "published": "2026-06-04T13:54:49+00:00"
-        },
-        {
-          "title": "Electric Trucks Have Failed Spectacularly In America. Here's Why Ford Is Trying Again",
-          "link": "https://insideevs.com/news/797757/alan-clarke-ford-skunkworks-affordable-ev-truck/",
-          "source": "InsideEVs",
-          "published": "2026-06-04T13:00:00+00:00"
-        },
-        {
-          "title": "SpaceX’s xAI just bought another $269M of Tesla Megapacks",
-          "link": "https://electrek.co/2026/06/04/spacex-xai-269-million-tesla-megapack-purchase-s1-filing/",
-          "source": "Electrek",
-          "published": "2026-06-04T12:58:45+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 26,
+      "count": 27,
       "items": [
+        {
+          "title": "GM Pitches New LMR EV Battery On Earth, New EV On The Moon",
+          "link": "https://cleantechnica.com/2026/06/06/ev-battery-lmr-gm-vehicle-electrification-us-nasa-lunar-rover/",
+          "source": "CleanTechnica",
+          "published": "2026-06-06T16:01:57+00:00"
+        },
         {
           "title": "T1 Energy buys KORE Power to cash in on the AI power boom",
           "link": "https://electrek.co/2026/06/05/t1-energy-buys-kore-power-to-cash-in-on-the-ai-power-boom/",
