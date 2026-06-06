@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-06-05T19:51:39.364351+00:00",
+  "generated_at": "2026-06-06T02:53:59.141094+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Carvana’s bet on Slate is ACTUALLY a bet on itself, as the future of automotive retail",
+          "link": "https://electrek.co/2026/06/05/carvanas-bet-on-slate-is-actually-a-bet-on-itself-as-the-future-of-automotive-retail/",
+          "source": "Electrek",
+          "published": "2026-06-06T01:51:59+00:00"
+        },
+        {
+          "title": "Wallbox deploys its first Supernova PowerRing DC fast chargers",
+          "link": "https://electrek.co/2026/06/05/wallbox-deploys-its-first-supernova-powerring-dc-fast-chargers/",
+          "source": "Electrek",
+          "published": "2026-06-05T22:35:59+00:00"
+        },
+        {
+          "title": "T1 Energy buys KORE Power to cash in on the AI power boom",
+          "link": "https://electrek.co/2026/06/05/t1-energy-buys-kore-power-to-cash-in-on-the-ai-power-boom/",
+          "source": "Electrek",
+          "published": "2026-06-05T21:41:12+00:00"
+        },
+        {
+          "title": "Volkswagen’s push for more affordable EVs starts with these two",
+          "link": "https://electrek.co/2026/06/05/volkswagens-more-affordable-evs-starts-with-these-two/",
+          "source": "Electrek",
+          "published": "2026-06-05T20:50:35+00:00"
+        },
+        {
+          "title": "BYD’s ‘world’s first’ 1,000-km range luxury GT is off to a hot start",
+          "link": "https://electrek.co/2026/06/05/byds-worlds-first-1000-km-range-luxury-gt-off-to-hot-start/",
+          "source": "Electrek",
+          "published": "2026-06-05T19:58:20+00:00"
+        },
         {
           "title": "Tesla pushes Roadster demo to August as SpaceX thruster work continues",
           "link": "https://electrek.co/2026/06/05/tesla-roadster-demo-delayed-august-spacex-thruster/",
@@ -215,36 +245,6 @@
           "link": "https://electrek.co/2026/06/04/from-iphone-to-an-electric-suv-that-sprints-to-60-mph-in-3-8-sec-foxconn-makes-it/",
           "source": "Electrek",
           "published": "2026-06-04T11:34:24+00:00"
-        },
-        {
-          "title": "Tesla hit with class action in Quebec over up to $400m in heat pump failures",
-          "link": "https://electrek.co/2026/06/04/tesla-class-action-heat-pump-failure-quebec/",
-          "source": "Electrek",
-          "published": "2026-06-04T11:26:52+00:00"
-        },
-        {
-          "title": "Waymo’s retired robotaxi batteries are heading back to work",
-          "link": "https://electrek.co/2026/06/04/waymo-retired-robotaxi-batteries-are-heading-back-to-work-b2u/",
-          "source": "Electrek",
-          "published": "2026-06-04T11:00:00+00:00"
-        },
-        {
-          "title": "The Polestar 2 Is Returning To North America",
-          "link": "https://insideevs.com/news/797786/polestar-2-return-canada/",
-          "source": "InsideEVs",
-          "published": "2026-06-04T08:16:26+00:00"
-        },
-        {
-          "title": "The Volvo XC60 Plug-In Hybrid Will Get A Serious Range Boost: Report",
-          "link": "https://insideevs.com/news/797776/2028-volvo-xc60-t8-phev-range-increase-report/",
-          "source": "InsideEVs",
-          "published": "2026-06-04T07:04:25+00:00"
-        },
-        {
-          "title": "ELM MicroGrid installs battery storage in its hometown [video]",
-          "link": "https://electrek.co/2026/06/03/elm-microgrid-installs-battery-storage-in-its-hometown-video/",
-          "source": "Electrek",
-          "published": "2026-06-04T00:42:09+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 27,
       "items": [
+        {
+          "title": "T1 Energy buys KORE Power to cash in on the AI power boom",
+          "link": "https://electrek.co/2026/06/05/t1-energy-buys-kore-power-to-cash-in-on-the-ai-power-boom/",
+          "source": "Electrek",
+          "published": "2026-06-05T21:41:12+00:00"
+        },
         {
           "title": "Yozma IN 10 + IN 10 Pro electric dirt bikes with up to $1,043+ exclusive savings, Lectric Father’s Day e-bike Sale, Segway Navimow, more",
           "link": "https://electrek.co/2026/06/05/yozma-in-10-in-10-pro-electric-dirt-bikes-lectric-fathers-day-e-bike-sale-segway-navimow-more/",
@@ -408,12 +414,6 @@
           "link": "https://electrek.co/2026/05/28/theres-a-new-low-cost-e-bike-that-charges-by-usb-c/",
           "source": "Electrek",
           "published": "2026-05-28T14:31:50+00:00"
-        },
-        {
-          "title": "Robotaxi has the wrong kind of momentum, but wind, and solar are doing GREAT",
-          "link": "https://electrek.co/2026/05/27/robotaxi-has-the-wrong-kind-of-momentum-but-wind-and-solar-are-doing-great/",
-          "source": "Electrek",
-          "published": "2026-05-27T22:29:24+00:00"
         }
       ]
     },
@@ -605,10 +605,10 @@
       "count": 40,
       "items": [
         {
-          "title": "\"깜짝 선물 준비했다\"...젠슨 황 방한 첫날 주요 행선지는",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211404",
+          "title": "김영훈 노동장관 \"대기업 AI 초과이익 공유해야...명백한 재투자\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211411",
           "source": "AI타임스",
-          "published": "2026-06-05T21:27:46+00:00"
+          "published": "2026-06-06T11:29:20+00:00"
         },
         {
           "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
