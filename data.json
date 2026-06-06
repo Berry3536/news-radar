@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-06-06T08:31:16.544192+00:00",
+  "generated_at": "2026-06-06T13:27:38.078029+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "All the new EVs you can buy with 0% financing in June 2026",
+          "link": "https://electrek.co/2026/06/06/all-the-new-evs-you-can-buy-with-0-financing-in-june-2026/",
+          "source": "Electrek",
+          "published": "2026-06-06T11:30:00+00:00"
+        },
         {
           "title": "Carvana’s bet on Slate is ACTUALLY a bet on itself, as the future of automotive retail",
           "link": "https://electrek.co/2026/06/05/carvanas-bet-on-slate-is-actually-a-bet-on-itself-as-the-future-of-automotive-retail/",
@@ -239,19 +245,13 @@
           "link": "https://electrek.co/2026/06/04/spacex-xai-269-million-tesla-megapack-purchase-s1-filing/",
           "source": "Electrek",
           "published": "2026-06-04T12:58:45+00:00"
-        },
-        {
-          "title": "From iPhone to an electric SUV that sprints to 60 mph in 3.8 sec., Foxconn makes it",
-          "link": "https://electrek.co/2026/06/04/from-iphone-to-an-electric-suv-that-sprints-to-60-mph-in-3-8-sec-foxconn-makes-it/",
-          "source": "Electrek",
-          "published": "2026-06-04T11:34:24+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 27,
+      "count": 26,
       "items": [
         {
           "title": "T1 Energy buys KORE Power to cash in on the AI power boom",
@@ -408,12 +408,6 @@
           "link": "https://electrek.co/2026/05/28/ecoflow-may-monthly-madness-power-station-sale-48-hour-flash-sale-segway-gt3-superscooter-more/",
           "source": "Electrek",
           "published": "2026-05-28T18:00:00+00:00"
-        },
-        {
-          "title": "There’s a new low-cost e-bike that charges by USB-C",
-          "link": "https://electrek.co/2026/05/28/theres-a-new-low-cost-e-bike-that-charges-by-usb-c/",
-          "source": "Electrek",
-          "published": "2026-05-28T14:31:50+00:00"
         }
       ]
     },
@@ -483,6 +477,12 @@
       "label": "로봇",
       "count": 19,
       "items": [
+        {
+          "title": "Robots can enhance manufacturing workers rather than replace them",
+          "link": "https://www.therobotreport.com/robots-can-enhance-manufacturing-workers-rather-than-replace-them/",
+          "source": "The Robot Report",
+          "published": "2026-06-06T12:30:12+00:00"
+        },
         {
           "title": "Why deterministic real-time systems are more critical than ever in robotics",
           "link": "https://www.therobotreport.com/qnx-why-deterministic-real-time-systems-are-more-critical-than-ever-robotics/",
@@ -580,12 +580,6 @@
           "published": "2026-06-02T17:46:58+00:00"
         },
         {
-          "title": "NVIDIA releases new and updated tools for physical AI developers",
-          "link": "https://www.therobotreport.com/nvidia-releases-new-updated-tools-physical-ai-gtc-taipei-computex/",
-          "source": "The Robot Report",
-          "published": "2026-06-01T21:27:16+00:00"
-        },
-        {
           "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
           "link": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
           "source": "IEEE Spectrum",
@@ -605,10 +599,10 @@
       "count": 40,
       "items": [
         {
-          "title": "[AI 이슈트렌드] 한화에어로 폭발부터 6·3 지선 논란, 흔들리는 반도체주까지",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211407",
+          "title": "\"한국, AI 비싸게 쓴다\"…한국어 토큰 소모, 영어 최대 2.59배 높아",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211350",
           "source": "AI타임스",
-          "published": "2026-06-06T12:02:47+00:00"
+          "published": "2026-06-06T19:48:21+00:00"
         },
         {
           "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
