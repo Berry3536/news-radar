@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-06-06T19:18:54.503639+00:00",
+  "generated_at": "2026-06-07T03:39:06.539627+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "New Danfoss hydraulic pump increases equipment runtime by 50%",
+          "link": "https://electrek.co/2026/06/06/new-danfoss-hydraulic-pump-increases-equipment-runtime-by-50/",
+          "source": "Electrek",
+          "published": "2026-06-07T03:08:56+00:00"
+        },
+        {
+          "title": "When public charging stations aren’t so public, and why it matters",
+          "link": "https://electrek.co/2026/06/06/when-public-charging-stations-arent-so-public-and-why-it-matters/",
+          "source": "Electrek",
+          "published": "2026-06-06T21:56:13+00:00"
+        },
         {
           "title": "Harbinger gears up for war with autonomous military truck program",
           "link": "https://electrek.co/2026/06/06/harbinger-gears-up-for-war-with-autonomous-military-truck-program/",
@@ -233,26 +245,26 @@
           "link": "https://insideevs.com/news/797742/tesla-camera-cleaner-patent-eye/",
           "source": "InsideEVs",
           "published": "2026-06-04T14:06:51+00:00"
-        },
-        {
-          "title": "This 85% Scale Vintage Bentley Is One Of A Kind—And Electric",
-          "link": "https://insideevs.com/news/797804/bentley-blower-jnr-hedley-momoa-edition/",
-          "source": "InsideEVs",
-          "published": "2026-06-04T14:00:00+00:00"
-        },
-        {
-          "title": "New e-bike law could help legalize those 30 and 40+ MPH ‘grey-zone’ bikes",
-          "link": "https://electrek.co/2026/06/04/new-e-bike-law-could-help-legalize-those-30-and-40-mph-grey-zone-bikes/",
-          "source": "Electrek",
-          "published": "2026-06-04T13:54:49+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 27,
+      "count": 28,
       "items": [
+        {
+          "title": "New Danfoss hydraulic pump increases equipment runtime by 50%",
+          "link": "https://electrek.co/2026/06/06/new-danfoss-hydraulic-pump-increases-equipment-runtime-by-50/",
+          "source": "Electrek",
+          "published": "2026-06-07T03:08:56+00:00"
+        },
+        {
+          "title": "CATL Developing 12,000 Wh Per Kg Lithium-Air Battery",
+          "link": "https://cleantechnica.com/2026/06/06/catl-developing-12000-wh-per-kg-lithium-air-battery/",
+          "source": "CleanTechnica",
+          "published": "2026-06-06T19:21:59+00:00"
+        },
         {
           "title": "GM Pitches New LMR EV Battery On Earth, New EV On The Moon",
           "link": "https://cleantechnica.com/2026/06/06/ev-battery-lmr-gm-vehicle-electrification-us-nasa-lunar-rover/",
@@ -408,20 +420,20 @@
           "link": "https://electrek.co/2026/05/28/us-clean-energy-is-booming-and-unraveling-at-the-same-time/",
           "source": "Electrek",
           "published": "2026-05-28T23:33:45+00:00"
-        },
-        {
-          "title": "EcoFlow May Monthly Madness power station sale with 61% discounts + 48-hour flash sale, Segway GT3 superscooter low, more",
-          "link": "https://electrek.co/2026/05/28/ecoflow-may-monthly-madness-power-station-sale-48-hour-flash-sale-segway-gt3-superscooter-more/",
-          "source": "Electrek",
-          "published": "2026-05-28T18:00:00+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 9,
+      "count": 10,
       "items": [
+        {
+          "title": "New Danfoss hydraulic pump increases equipment runtime by 50%",
+          "link": "https://electrek.co/2026/06/06/new-danfoss-hydraulic-pump-increases-equipment-runtime-by-50/",
+          "source": "Electrek",
+          "published": "2026-06-07T03:08:56+00:00"
+        },
         {
           "title": "장인 정신과 퍼포먼스로 무장한 럭셔리 세단, 벤틀리 더 뉴 플라잉스퍼",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43877",
@@ -605,10 +617,10 @@
       "count": 40,
       "items": [
         {
-          "title": "\"한국, AI 비싸게 쓴다\"…한국어 토큰 소모, 영어 최대 2.59배 높아",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211350",
+          "title": "문샷 AI, 오픈소스 코딩 에이전트 '키미 코드 CLI' 공개…\"터미널서 병렬 작업 지원\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211424",
           "source": "AI타임스",
-          "published": "2026-06-06T19:48:21+00:00"
+          "published": "2026-06-07T12:08:27+00:00"
         },
         {
           "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
