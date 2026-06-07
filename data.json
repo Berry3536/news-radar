@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-06-07T08:53:15.332675+00:00",
+  "generated_at": "2026-06-07T13:48:08.483243+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Tesla Model Y Battery Tested After 16,000 Miles Of Mostly Fast Charging",
+          "link": "https://insideevs.com/news/798001/tesla-model-y-battery-degradation/",
+          "source": "InsideEVs",
+          "published": "2026-06-07T09:31:29+00:00"
+        },
         {
           "title": "Here are the best electric bikes you can buy at every price level in June 2026",
           "link": "https://electrek.co/2026/06/07/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/",
@@ -239,20 +245,20 @@
           "link": "https://insideevs.com/news/796291/self-driving-cars-the-story/",
           "source": "InsideEVs",
           "published": "2026-06-04T15:26:33+00:00"
-        },
-        {
-          "title": "BMW’s new iX3 drove 485 miles on a single charge, the longest-range EV in NAF’s test",
-          "link": "https://electrek.co/2026/06/04/bmws-new-ix3-drove-485-miles-longest-range-ev-naf-test/",
-          "source": "Electrek",
-          "published": "2026-06-04T14:26:10+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 28,
+      "count": 29,
       "items": [
+        {
+          "title": "Tesla Model Y Battery Tested After 16,000 Miles Of Mostly Fast Charging",
+          "link": "https://insideevs.com/news/798001/tesla-model-y-battery-degradation/",
+          "source": "InsideEVs",
+          "published": "2026-06-07T09:31:29+00:00"
+        },
         {
           "title": "New Danfoss hydraulic pump increases equipment runtime by 50%",
           "link": "https://electrek.co/2026/06/06/new-danfoss-hydraulic-pump-increases-equipment-runtime-by-50/",
@@ -496,6 +502,18 @@
       "count": 19,
       "items": [
         {
+          "title": "금주의 로봇 캘린더(2026. 6. 8 ~ 6. 14)",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46762",
+          "source": "로봇신문",
+          "published": "2026-06-07T22:17:56+00:00"
+        },
+        {
+          "title": "AGIBOT holds World Challenge 2026 to see how AI models perform on real tasks",
+          "link": "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/",
+          "source": "The Robot Report",
+          "published": "2026-06-07T12:30:50+00:00"
+        },
+        {
           "title": "Robots can enhance manufacturing workers rather than replace them",
           "link": "https://www.therobotreport.com/robots-can-enhance-manufacturing-workers-rather-than-replace-them/",
           "source": "The Robot Report",
@@ -506,12 +524,6 @@
           "link": "https://www.therobotreport.com/qnx-why-deterministic-real-time-systems-are-more-critical-than-ever-robotics/",
           "source": "The Robot Report",
           "published": "2026-06-05T18:49:11+00:00"
-        },
-        {
-          "title": "印 앤서로보틱스, 창고·공장용 AMR로 80억원 유치",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46747",
-          "source": "로봇신문",
-          "published": "2026-06-05T16:29:26+00:00"
         },
         {
           "title": "GENISOM AI debuts deployable robotics platforms at ICRA 2026",
@@ -592,12 +604,6 @@
           "published": "2026-06-02T18:15:24+00:00"
         },
         {
-          "title": "FORT Robotics acquires Mapless AI to expand teleop capabilities",
-          "link": "https://www.therobotreport.com/fort-robotics-acquires-mapless-ai-to-expand-teleop-capabilities/",
-          "source": "The Robot Report",
-          "published": "2026-06-02T17:46:58+00:00"
-        },
-        {
           "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
           "link": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
           "source": "IEEE Spectrum",
@@ -617,10 +623,10 @@
       "count": 1,
       "items": [
         {
-          "title": "EU, 반도체·AI ‘기술 주권’ 전략 공개...\"미국 빅테크 의존 줄인다\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211430",
+          "title": "\"깐부 어게인\"...젠슨 황, 유퀴즈·야구장 시구 넘나든 종횡무진 행보",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211434",
           "source": "AI타임스",
-          "published": "2026-06-07T16:58:33+00:00"
+          "published": "2026-06-07T21:52:38+00:00"
         }
       ]
     }
