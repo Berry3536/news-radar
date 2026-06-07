@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-06-07T03:39:06.539627+00:00",
+  "generated_at": "2026-06-07T08:53:15.332675+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Here are the best electric bikes you can buy at every price level in June 2026",
+          "link": "https://electrek.co/2026/06/07/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/",
+          "source": "Electrek",
+          "published": "2026-06-07T08:33:00+00:00"
+        },
         {
           "title": "New Danfoss hydraulic pump increases equipment runtime by 50%",
           "link": "https://electrek.co/2026/06/06/new-danfoss-hydraulic-pump-increases-equipment-runtime-by-50/",
@@ -239,12 +245,6 @@
           "link": "https://electrek.co/2026/06/04/bmws-new-ix3-drove-485-miles-longest-range-ev-naf-test/",
           "source": "Electrek",
           "published": "2026-06-04T14:26:10+00:00"
-        },
-        {
-          "title": "Tesla Wants Its Cameras To Blink Like a Human Eye",
-          "link": "https://insideevs.com/news/797742/tesla-camera-cleaner-patent-eye/",
-          "source": "InsideEVs",
-          "published": "2026-06-04T14:06:51+00:00"
         }
       ]
     },
@@ -614,247 +614,13 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 40,
+      "count": 1,
       "items": [
         {
-          "title": "문샷 AI, 오픈소스 코딩 에이전트 '키미 코드 CLI' 공개…\"터미널서 병렬 작업 지원\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211424",
+          "title": "EU, 반도체·AI ‘기술 주권’ 전략 공개...\"미국 빅테크 의존 줄인다\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211430",
           "source": "AI타임스",
-          "published": "2026-06-07T12:08:27+00:00"
-        },
-        {
-          "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
-          "link": "https://arxiv.org/abs/2606.05256",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
-          "link": "https://arxiv.org/abs/2606.05304",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
-          "link": "https://arxiv.org/abs/2606.05316",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
-          "link": "https://arxiv.org/abs/2606.05332",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
-          "link": "https://arxiv.org/abs/2606.05334",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
-          "link": "https://arxiv.org/abs/2606.05342",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "An interpretable and trustworthy AI framework for large-scale longitudinal structure-pain association studies using data from the Osteoarthritis Initiative (OAI)",
-          "link": "https://arxiv.org/abs/2606.05357",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Synthetic Contrastive Reasoning for Multi-Table Q&A",
-          "link": "https://arxiv.org/abs/2606.05382",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Stability vs. Manipulability: Evaluating Robustness Under Post-Decision Interaction in LLM Judges",
-          "link": "https://arxiv.org/abs/2606.05384",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Residual Modeling for High-Fidelity Learned Compression of Scientific Data",
-          "link": "https://arxiv.org/abs/2606.05389",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "LeanMarathon: Toward Reliable AI Co-Mathematicians through Long-Horizon Lean Autoformalization",
-          "link": "https://arxiv.org/abs/2606.05400",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Harnessing Generalist Agents for Contextualized Time Series",
-          "link": "https://arxiv.org/abs/2606.05404",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Agents' Last Exam",
-          "link": "https://arxiv.org/abs/2606.05405",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Mutation Without Variation: Convergence Dynamics in LLM-Driven Program Evolution",
-          "link": "https://arxiv.org/abs/2606.05408",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "A Motivational Architecture for Conversational AGI",
-          "link": "https://arxiv.org/abs/2606.05411",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Assessing the Carbon Emissions and Energy Consumption of U.S. Hyperscale Data Centers",
-          "link": "https://arxiv.org/abs/2606.05420",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Minimizing the Hidden Cost of Scales: Graph-Guided Ultra-Low-Bit Quantization for Large Language Models",
-          "link": "https://arxiv.org/abs/2606.05429",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Zero knowledge verification for frontier AI training is possible",
-          "link": "https://arxiv.org/abs/2606.05433",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Ten Headache Specialists versus Artificial Intelligence for Clinical Literature Summarization: A Critical Evaluation and Comparison",
-          "link": "https://arxiv.org/abs/2606.05436",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Brick-Composer: Using MLLMs for Assembly with Diverse Bricks",
-          "link": "https://arxiv.org/abs/2606.05445",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Insurance of Agentic AI",
-          "link": "https://arxiv.org/abs/2606.05449",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Output Type Before Quality: A Standards-Derived XAI Admissibility Rubric for Autonomous-Driving Safety",
-          "link": "https://arxiv.org/abs/2606.05461",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "PSEBench: A Controllable and Verifiable Benchmark for Evaluating LLMs in Patient Safety Event Triage",
-          "link": "https://arxiv.org/abs/2606.05463",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Step-by-Step Optimization-like Reasoning in LLMs over Expanding Search Spaces",
-          "link": "https://arxiv.org/abs/2606.05464",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Severity-Aware Curriculum Learning with Multi-Model Response Selection for Medical Text Generation",
-          "link": "https://arxiv.org/abs/2606.05510",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "EpiEvolve: Self-Evolving Agents for Streaming Pandemic Forecasting under Regime Shifts",
-          "link": "https://arxiv.org/abs/2606.05513",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "SciVisAgentSkills: Design and Evaluation of Agent Skills for Scientific Data Analysis and Visualization",
-          "link": "https://arxiv.org/abs/2606.05525",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "When Should We Protect AI? A Precautionary Framework for Consciousness Uncertainty",
-          "link": "https://arxiv.org/abs/2606.05528",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Individual Gain, Collective Loss: Metacognitive Adaptation in AI-Assisted Creativity",
-          "link": "https://arxiv.org/abs/2606.05532",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "SoCRATES: Towards Reliable Automated Evaluation of Proactive LLM Mediation across Domains and Socio-cognitive Variations",
-          "link": "https://arxiv.org/abs/2606.05563",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "GuardNet: Ensemble Strategies of Shallow Neural Networks for Robust Prompt Injection and Jailbreak Detection",
-          "link": "https://arxiv.org/abs/2606.05566",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Fix the Mind, Not the Move: Interpretable AI Assistance via Knowledge-Gap Localization",
-          "link": "https://arxiv.org/abs/2606.05602",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Multilingual Fine-Tuning via Localized Gradient Conflict Resolution",
-          "link": "https://arxiv.org/abs/2606.05613",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Safety Paradox: How Enhanced Safety Awareness Leaves LLMs Vulnerable to Posterior Attack",
-          "link": "https://arxiv.org/abs/2606.05614",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Self-Commitment Latency: A Reward-Free Probe for Prompted Implicit Hacking",
-          "link": "https://arxiv.org/abs/2606.05625",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Evaluation of LLMs for Mathematical Formalization in Lean",
-          "link": "https://arxiv.org/abs/2606.05632",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Answer Presence Drives RAG Rewriting Gains",
-          "link": "https://arxiv.org/abs/2606.05633",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "FIDES: Faithful Inference via Deep Evidence Signals for Retrieval-Memory Conflict in RAG",
-          "link": "https://arxiv.org/abs/2606.05644",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
-        },
-        {
-          "title": "Coding with \"Enemy\": Can Human Developers Detect AI Agent Sabotage?",
-          "link": "https://arxiv.org/abs/2606.05647",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-06T04:00:00+00:00"
+          "published": "2026-06-07T16:58:33+00:00"
         }
       ]
     }
