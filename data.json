@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T10:48:56.893303+00:00",
+  "generated_at": "2026-06-08T15:46:02.862806+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,42 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43898",
           "source": "모터그래프",
           "published": "2026-06-08T17:21:44+00:00"
+        },
+        {
+          "title": "BYD is about to launch another flagship luxury EV: Here’s our first look [Images]",
+          "link": "https://electrek.co/2026/06/08/byd-launch-another-flagship-luxury-ev-images/",
+          "source": "Electrek",
+          "published": "2026-06-08T14:15:37+00:00"
+        },
+        {
+          "title": "China’s EV shift cut pollution enough to prevent 262,000 deaths",
+          "link": "https://electrek.co/2026/06/08/china-ev-air-pollution-262000-deaths-study/",
+          "source": "Electrek",
+          "published": "2026-06-08T12:17:38+00:00"
+        },
+        {
+          "title": "This Used Audi E-Tron Lost A Fortune. Its Battery Held Up Much Better",
+          "link": "https://insideevs.com/news/798060/audi-e-tron-battery-test/",
+          "source": "InsideEVs",
+          "published": "2026-06-08T11:31:33+00:00"
+        },
+        {
+          "title": "The real reason why e-bike throttles have gotten worse",
+          "link": "https://electrek.co/2026/06/08/the-real-reason-why-e-bike-throttles-have-gotten-worse/",
+          "source": "Electrek",
+          "published": "2026-06-08T11:29:00+00:00"
+        },
+        {
+          "title": "The Dodge Charger Daytona EV Is Heading To Europe",
+          "link": "https://insideevs.com/news/798063/dodge-charger-daytona-ev-gas-europe/",
+          "source": "InsideEVs",
+          "published": "2026-06-08T11:20:58+00:00"
+        },
+        {
+          "title": "Kia Niro EV is the most affordable new EV you can lease in June 2026",
+          "link": "https://electrek.co/2026/06/08/kia-niro-ev-is-the-most-affordable-new-ev-you-can-lease-in-june-2026/",
+          "source": "Electrek",
+          "published": "2026-06-08T11:15:00+00:00"
         },
         {
           "title": "The 2027 Cadillac Lyriq Is Keeping A Big Feature All Other GM EVs Have Already Lost",
@@ -209,50 +245,20 @@
           "link": "https://electrek.co/2026/06/04/cadillac-lyriq-ev-prices-up-200-for-2027-adds-new-feature/",
           "source": "Electrek",
           "published": "2026-06-04T21:35:04+00:00"
-        },
-        {
-          "title": "You’ve got ONE MONTH to safe harbor your solar project and get 30% off",
-          "link": "https://electrek.co/2026/06/04/if-you-still-want-that-30-solar-tax-credit-the-new-panic-date-is-july-4/",
-          "source": "Electrek",
-          "published": "2026-06-04T19:55:00+00:00"
-        },
-        {
-          "title": "Houston gets a solar, storage + electricity bundle for 6¢ per kWh",
-          "link": "https://electrek.co/2026/06/04/houston-solar-storage-electricity-bundle-6-cents-per-kwh/",
-          "source": "Electrek",
-          "published": "2026-06-04T19:42:36+00:00"
-        },
-        {
-          "title": "Old Waymo Batteries Will Get A Second Life As Stationary Energy Storage",
-          "link": "https://insideevs.com/news/797837/waymo-ev-batteries-energy-storage-recycling/",
-          "source": "InsideEVs",
-          "published": "2026-06-04T19:13:54+00:00"
-        },
-        {
-          "title": "BYD converts its popular electric hatch into a van with ‘class-leading range’ for $40,000",
-          "link": "https://electrek.co/2026/06/04/byd-converts-ev-hatch-into-van-with-leading-range-for-40k/",
-          "source": "Electrek",
-          "published": "2026-06-04T18:47:59+00:00"
-        },
-        {
-          "title": "Audi reveals 1,001-hp Nuvolari hybrid supercar — so much for going all-electric",
-          "link": "https://electrek.co/2026/06/04/audi-nuvolari-1001-hp-hybrid-supercar-v8-r8-successor/",
-          "source": "Electrek",
-          "published": "2026-06-04T18:40:07+00:00"
-        },
-        {
-          "title": "White House will dump $700M of public funds into costly, unreliable coal again",
-          "link": "https://electrek.co/2026/06/04/white-house-will-dump-700m-of-public-funds-into-costly-unreliable-coal-again/",
-          "source": "Electrek",
-          "published": "2026-06-04T18:38:04+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 30,
+      "count": 29,
       "items": [
+        {
+          "title": "This Used Audi E-Tron Lost A Fortune. Its Battery Held Up Much Better",
+          "link": "https://insideevs.com/news/798060/audi-e-tron-battery-test/",
+          "source": "InsideEVs",
+          "published": "2026-06-08T11:31:33+00:00"
+        },
         {
           "title": "Waymo Sending Used EV Batteries to Community Clean Energy",
           "link": "https://cleantechnica.com/2026/06/07/waymo-sending-used-ev-batteries-to-community-clean-energy/",
@@ -362,12 +368,6 @@
           "published": "2026-06-03T18:00:00+00:00"
         },
         {
-          "title": "What Ultra-High-Mileage EVs Teach Us About Battery Degradation",
-          "link": "https://insideevs.com/features/797638/high-mileage-ev-battery-degradation/",
-          "source": "InsideEVs",
-          "published": "2026-06-03T16:42:42+00:00"
-        },
-        {
           "title": "Caterpillar BEPU makes going electric as easy as swapping an engine",
           "link": "https://electrek.co/2026/06/03/caterpillar-bepu-makes-going-electric-as-easy-as-swapping-an-engine/",
           "source": "Electrek",
@@ -426,12 +426,6 @@
           "link": "https://electrek.co/2026/05/29/anker-solix-cuts-power-station-prices-exclusive-savingss-lectric-extra-battery-sale-more/",
           "source": "Electrek",
           "published": "2026-05-29T18:00:00+00:00"
-        },
-        {
-          "title": "US clean energy is booming and unraveling at the same time",
-          "link": "https://electrek.co/2026/05/28/us-clean-energy-is-booming-and-unraveling-at-the-same-time/",
-          "source": "Electrek",
-          "published": "2026-05-28T23:33:45+00:00"
         }
       ]
     },
@@ -512,6 +506,12 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=46785",
           "source": "로봇신문",
           "published": "2026-06-08T18:03:18+00:00"
+        },
+        {
+          "title": "Daimon Robotics and Galbot jointly launches RobOmni for benchmarking tactile perception and dexterous manipulation",
+          "link": "https://www.therobotreport.com/daimon-robotics-and-galbot-jointly-launches-robomni-for-benchmarking-tactile-perception-and-dexterous-manipulation/",
+          "source": "The Robot Report",
+          "published": "2026-06-08T14:16:34+00:00"
         },
         {
           "title": "AGIBOT holds World Challenge 2026 to see how AI models perform on real tasks",
@@ -604,12 +604,6 @@
           "published": "2026-06-02T19:15:57+00:00"
         },
         {
-          "title": "Petal Surgical adds more funding for incisionless surgical robot",
-          "link": "https://www.therobotreport.com/petal-surgical-adds-more-funding-for-incisionless-surgical-robot/",
-          "source": "The Robot Report",
-          "published": "2026-06-02T18:15:24+00:00"
-        },
-        {
           "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
           "link": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
           "source": "IEEE Spectrum",
@@ -629,10 +623,10 @@
       "count": 40,
       "items": [
         {
-          "title": "구글, '스스로 판단하고 재검색'하는 차세대 에이전틱 RAG 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211484",
+          "title": "젠슨 황, 방한 마지막 일정서 국내 AI 기업 독려...\"GPU 우선 공급”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211497",
           "source": "AI타임스",
-          "published": "2026-06-08T18:19:40+00:00"
+          "published": "2026-06-08T22:28:52+00:00"
         },
         {
           "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
