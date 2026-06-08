@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-06-08T03:44:10.969973+00:00",
+  "generated_at": "2026-06-08T10:48:56.893303+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "WRC FORUM8 Rally Japan 2026 photo by 웨이브진 정인성",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43898",
+          "source": "모터그래프",
+          "published": "2026-06-08T17:21:44+00:00"
+        },
+        {
+          "title": "The 2027 Cadillac Lyriq Is Keeping A Big Feature All Other GM EVs Have Already Lost",
+          "link": "https://insideevs.com/news/798034/2027-cadillac-lyriq-apple-carplay-nacs/",
+          "source": "InsideEVs",
+          "published": "2026-06-08T07:40:21+00:00"
+        },
         {
           "title": "Survey Sunday: what will it take for fleets to realize electric works – TODAY?",
           "link": "https://electrek.co/2026/06/07/survey-sunday-what-will-it-take-for-fleets-to-realize-electric-works-today/",
@@ -101,12 +113,6 @@
           "link": "https://electrek.co/2026/06/05/podcast-tesla-semi-nails-big-test-bmw-ix3-range-impresses-xpeng-catches-up-to-tesla-and-more/",
           "source": "Electrek",
           "published": "2026-06-05T19:39:07+00:00"
-        },
-        {
-          "title": "플래그십의 진화, 현대 더 뉴 그랜저",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43885",
-          "source": "모터그래프",
-          "published": "2026-06-05T18:05:23+00:00"
         },
         {
           "title": "Yozma IN 10 + IN 10 Pro electric dirt bikes with up to $1,043+ exclusive savings, Lectric Father’s Day e-bike Sale, Segway Navimow, more",
@@ -239,12 +245,6 @@
           "link": "https://electrek.co/2026/06/04/white-house-will-dump-700m-of-public-funds-into-costly-unreliable-coal-again/",
           "source": "Electrek",
           "published": "2026-06-04T18:38:04+00:00"
-        },
-        {
-          "title": "Jackery HomePower 3600 Plus power station exclusives from $1,399, EGO Select Cut Touch Drive mower $543 low, Segway, more",
-          "link": "https://electrek.co/2026/06/04/jackery-homepower-3600-plus-power-station-exclusives-ego-select-cut-touch-drive-mower-543-low-more/",
-          "source": "Electrek",
-          "published": "2026-06-04T18:00:00+00:00"
         }
       ]
     },
@@ -508,10 +508,10 @@
       "count": 19,
       "items": [
         {
-          "title": "금주의 로봇 캘린더(2026. 6. 8 ~ 6. 14)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46762",
+          "title": "한국로봇융합硏, 초록우산과 자립준비청년 인턴십 지원 협약",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46785",
           "source": "로봇신문",
-          "published": "2026-06-07T22:17:56+00:00"
+          "published": "2026-06-08T18:03:18+00:00"
         },
         {
           "title": "AGIBOT holds World Challenge 2026 to see how AI models perform on real tasks",
@@ -626,13 +626,247 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 1,
+      "count": 40,
       "items": [
         {
-          "title": "여수 갯벌, 유네스코 세계유산 등재 눈앞",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211457",
+          "title": "구글, '스스로 판단하고 재검색'하는 차세대 에이전틱 RAG 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211484",
           "source": "AI타임스",
-          "published": "2026-06-08T12:39:55+00:00"
+          "published": "2026-06-08T18:19:40+00:00"
+        },
+        {
+          "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
+          "link": "https://arxiv.org/abs/2606.06514",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "DiBS: Diffusion-Informed Branch Selection",
+          "link": "https://arxiv.org/abs/2606.06518",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
+          "link": "https://arxiv.org/abs/2606.06519",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+          "link": "https://arxiv.org/abs/2606.06523",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions",
+          "link": "https://arxiv.org/abs/2606.06526",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
+          "link": "https://arxiv.org/abs/2606.06529",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "CARVE-Q: Quantum-Proposed, Classically Certified Interactive Driving Repair",
+          "link": "https://arxiv.org/abs/2606.06531",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Position: Don't Just \"Fix it in Post\": A Science of AI Must Study Training Dynamics",
+          "link": "https://arxiv.org/abs/2606.06533",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Accelerated Fourier SAT (AFSAT): Fully Realising a GPU-based Symmetric Pseudo-Boolean SAT Solver",
+          "link": "https://arxiv.org/abs/2606.06641",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "A Study of Parallel Continuous Local Search",
+          "link": "https://arxiv.org/abs/2606.06656",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "AEGIS: A Backup Reflex for Physical AI",
+          "link": "https://arxiv.org/abs/2606.06660",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "A Geometric Account of Activation Steering through Angle-Norm Decomposition",
+          "link": "https://arxiv.org/abs/2606.06735",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "OpenSkill: Open-World Self-Evolution for LLM Agents",
+          "link": "https://arxiv.org/abs/2606.06741",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "AdMem: Advanced Memory for Task-solving Agents",
+          "link": "https://arxiv.org/abs/2606.06787",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Evidence-Based Intelligent Diagnostic and Therapeutic Visualization System with Large Language Models: Multi-Turn Interaction and Multimodal Treatment Plan Generation",
+          "link": "https://arxiv.org/abs/2606.06869",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Workflow-to-Skill: Skill Creation via Routing-Workflow-Semantics-Attachments Decomposition",
+          "link": "https://arxiv.org/abs/2606.06893",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Declarative Skills for AI Agents in Knowledge-Grounded Tool-Use Workflows",
+          "link": "https://arxiv.org/abs/2606.06923",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Quantum-Inspired Trace-Augmented Evidence Selection for Reasoning over Structured Hypothesis Spaces",
+          "link": "https://arxiv.org/abs/2606.06941",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Accounting for Context: Shaping Moral Credences for Value Alignment",
+          "link": "https://arxiv.org/abs/2606.06972",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Exploring Agentic Tool-Calling Decisions via Uncertainty-Aligned Reinforcement Learning",
+          "link": "https://arxiv.org/abs/2606.06976",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Teaching the Way, Not the Answer: Privileged Tutoring Distillation for Multimodal Policy Optimization",
+          "link": "https://arxiv.org/abs/2606.07000",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "The Sim-to-Real Gap of Foundation Model Agents: A Unified MDP Perspective",
+          "link": "https://arxiv.org/abs/2606.07017",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "StainFlow: Entity-Stain Tracking and Evidence Linking for Process Rewards in GUI Agents",
+          "link": "https://arxiv.org/abs/2606.07027",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Hierarchical Semantic-Constrained Heterogeneous Graph for Audio-Visual Event Localization",
+          "link": "https://arxiv.org/abs/2606.07033",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Front-to-Attractors: Modifying the Front-to-Front Heuristic in Bidirectional Search",
+          "link": "https://arxiv.org/abs/2606.07047",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "DyCon: Dynamic Reasoning Control via Evolving Difficulty Modeling",
+          "link": "https://arxiv.org/abs/2606.07108",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Beyond Post-hoc Explanation: Toward Glassbox AI via Probabilistic Mediation",
+          "link": "https://arxiv.org/abs/2606.07113",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models",
+          "link": "https://arxiv.org/abs/2606.07157",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "TOPSIS-RAD: Ranking According to Desires",
+          "link": "https://arxiv.org/abs/2606.07253",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning",
+          "link": "https://arxiv.org/abs/2606.07299",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Off-Policy Evaluation with Strategic Agents via Local Disclosure",
+          "link": "https://arxiv.org/abs/2606.07308",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Online Pandora's Box for Contextual LLM Cascading",
+          "link": "https://arxiv.org/abs/2606.07392",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Act As a Real Researcher: A Suite of Benchmarks Evaluating Frontier LLMs and Agentic Harnesses in Research Lifecycle",
+          "link": "https://arxiv.org/abs/2606.07462",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope",
+          "link": "https://arxiv.org/abs/2606.07489",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Zero-Shot Embedding Drift Detection: A Lightweight Defense Against Prompt Injections in LLMs",
+          "link": "https://arxiv.org/abs/2601.12359",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "When Does Multi-Agent Collaboration Help? An Entropy Perspective",
+          "link": "https://arxiv.org/abs/2602.04234",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Trading Engagement for Sustainability: Carbon-Aware Re-ranking for E-commerce Recommendations",
+          "link": "https://arxiv.org/abs/2606.04550",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin",
+          "link": "https://arxiv.org/abs/2606.05050",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
+        },
+        {
+          "title": "Human Adults and LLMs as Scientists: Who Benefits from Active Exploration?",
+          "link": "https://arxiv.org/abs/2606.06464",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-08T04:00:00+00:00"
         }
       ]
     }
