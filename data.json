@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-06-07T19:19:07.829633+00:00",
+  "generated_at": "2026-06-08T03:44:10.969973+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Survey Sunday: what will it take for fleets to realize electric works – TODAY?",
+          "link": "https://electrek.co/2026/06/07/survey-sunday-what-will-it-take-for-fleets-to-realize-electric-works-today/",
+          "source": "Electrek",
+          "published": "2026-06-07T19:19:07+00:00"
+        },
         {
           "title": "E-quipment highlight: 25-ton LiuGong 870HE electric wheel loader",
           "link": "https://electrek.co/2026/06/07/e-quipment-highlight-liugong-870he-electric-wheel-loader/",
@@ -239,12 +245,6 @@
           "link": "https://electrek.co/2026/06/04/jackery-homepower-3600-plus-power-station-exclusives-ego-select-cut-touch-drive-mower-543-low-more/",
           "source": "Electrek",
           "published": "2026-06-04T18:00:00+00:00"
-        },
-        {
-          "title": "Nissan joins new ‘Cheaper Than China’ solid-state EV battery project",
-          "link": "https://electrek.co/2026/06/04/nissan-solid-state-ev-battery-project-aims-for-cheaper-than-china/",
-          "source": "Electrek",
-          "published": "2026-06-04T17:26:33+00:00"
         }
       ]
     },
@@ -629,10 +629,10 @@
       "count": 1,
       "items": [
         {
-          "title": "\"깐부 어게인\"...젠슨 황, 유퀴즈·야구장 시구 넘나든 종횡무진 행보",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211434",
+          "title": "여수 갯벌, 유네스코 세계유산 등재 눈앞",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211457",
           "source": "AI타임스",
-          "published": "2026-06-07T21:52:38+00:00"
+          "published": "2026-06-08T12:39:55+00:00"
         }
       ]
     }
