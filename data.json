@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T15:46:02.862806+00:00",
+  "generated_at": "2026-06-08T20:11:30.821619+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,46 @@
       "count": 40,
       "items": [
         {
+          "title": "Ford’s $30,000 EV pickup is getting closer — You may even see one out in the wild",
+          "link": "https://electrek.co/2026/06/08/fords-30000-ev-pickup-almost-here-you-may-see-one-soon/",
+          "source": "Electrek",
+          "published": "2026-06-08T19:55:27+00:00"
+        },
+        {
+          "title": "Donut Lab’s ‘solid-state’ battery exposed as regular li-ion in damning investigation",
+          "link": "https://electrek.co/2026/06/08/donut-lab-solid-state-battery-exposed-lithium-ion-fraud/",
+          "source": "Electrek",
+          "published": "2026-06-08T19:18:17+00:00"
+        },
+        {
+          "title": "EcoFlow Early Prime Day power station deals up 62% off + bonus savings and FREE gifts/rewards from $149, more",
+          "link": "https://electrek.co/2026/06/08/ecoflow-early-prime-day-sale-48-hour-flash-sale-power-station-from-149-more/",
+          "source": "Electrek",
+          "published": "2026-06-08T18:00:00+00:00"
+        },
+        {
+          "title": "This $9,000 EV is about to take Mexico by storm: Meet Olinia",
+          "link": "https://electrek.co/2026/06/08/9000-ev-mexico-olinia/",
+          "source": "Electrek",
+          "published": "2026-06-08T17:54:53+00:00"
+        },
+        {
           "title": "WRC FORUM8 Rally Japan 2026 photo by 웨이브진 정인성",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43898",
           "source": "모터그래프",
           "published": "2026-06-08T17:21:44+00:00"
+        },
+        {
+          "title": "Watch a BYD electric sedan do a full tank turn in a hilariously tight space",
+          "link": "https://electrek.co/2026/06/08/byd-tank-turn-viral-video-narrow-space/",
+          "source": "Electrek",
+          "published": "2026-06-08T16:45:04+00:00"
+        },
+        {
+          "title": "Solid-state EV battery maker debuts on Nasdaq after 745+ mile range real-world test",
+          "link": "https://electrek.co/2026/06/08/solid-state-ev-battery-maker-joins-nasdaq-after-745-mi-range-test/",
+          "source": "Electrek",
+          "published": "2026-06-08T16:05:34+00:00"
         },
         {
           "title": "BYD is about to launch another flagship luxury EV: Here’s our first look [Images]",
@@ -209,42 +245,6 @@
           "link": "https://insideevs.com/news/797914/amazon-ev-delivery-fleet-2026-update/",
           "source": "InsideEVs",
           "published": "2026-06-05T11:45:52+00:00"
-        },
-        {
-          "title": "Velotric Tempo review: A lightweight commuter e-bike that gets a lot right",
-          "link": "https://electrek.co/2026/06/05/velotric-tempo-review-a-lightweight-commuter-e-bike-that-gets-a-lot-right/",
-          "source": "Electrek",
-          "published": "2026-06-05T10:41:33+00:00"
-        },
-        {
-          "title": "Volkswagen Compares Gas Cars To Horses, Says That EVs Are Plain Better",
-          "link": "https://insideevs.com/news/797883/vw-gas-cars-horses-evs-better/",
-          "source": "InsideEVs",
-          "published": "2026-06-05T09:09:19+00:00"
-        },
-        {
-          "title": "Audi's Stunning New Nuvolari Supercar Is A Tri-Motor Plug-In Hybrid",
-          "link": "https://insideevs.com/news/797873/audi-nuvolari-plug-in-hybrid-three-motors/",
-          "source": "InsideEVs",
-          "published": "2026-06-05T07:16:53+00:00"
-        },
-        {
-          "title": "America’s best deal on a German mid-drive e-bike just got even more affordable",
-          "link": "https://electrek.co/2026/06/04/americas-best-deal-on-a-german-mid-drive-e-bike-just-got-even-more-affordable/",
-          "source": "Electrek",
-          "published": "2026-06-05T05:09:56+00:00"
-        },
-        {
-          "title": "Tesla erases the past, CAT electrifies the future, and EV tech training TODAY",
-          "link": "https://electrek.co/2026/06/04/tesla-erases-the-past-cat-electrifies-the-future-and-ev-tech-training-today/",
-          "source": "Electrek",
-          "published": "2026-06-05T01:55:00+00:00"
-        },
-        {
-          "title": "The Cadillac Lyriq costs $200 more for 2027, but it gains a key new feature",
-          "link": "https://electrek.co/2026/06/04/cadillac-lyriq-ev-prices-up-200-for-2027-adds-new-feature/",
-          "source": "Electrek",
-          "published": "2026-06-04T21:35:04+00:00"
         }
       ]
     },
@@ -253,6 +253,30 @@
       "label": "배터리",
       "count": 29,
       "items": [
+        {
+          "title": "Donut Lab’s ‘solid-state’ battery exposed as regular li-ion in damning investigation",
+          "link": "https://electrek.co/2026/06/08/donut-lab-solid-state-battery-exposed-lithium-ion-fraud/",
+          "source": "Electrek",
+          "published": "2026-06-08T19:18:17+00:00"
+        },
+        {
+          "title": "EcoFlow Early Prime Day power station deals up 62% off + bonus savings and FREE gifts/rewards from $149, more",
+          "link": "https://electrek.co/2026/06/08/ecoflow-early-prime-day-sale-48-hour-flash-sale-power-station-from-149-more/",
+          "source": "Electrek",
+          "published": "2026-06-08T18:00:00+00:00"
+        },
+        {
+          "title": "Solid-state EV battery maker debuts on Nasdaq after 745+ mile range real-world test",
+          "link": "https://electrek.co/2026/06/08/solid-state-ev-battery-maker-joins-nasdaq-after-745-mi-range-test/",
+          "source": "Electrek",
+          "published": "2026-06-08T16:05:34+00:00"
+        },
+        {
+          "title": "Battery Giant CATL Expects Half Of Its 2030 Sales Will Be For Energy Storage",
+          "link": "https://cleantechnica.com/2026/06/08/battery-giant-catl-expects-half-of-its-2030-sales-will-be-for-energy-storage/",
+          "source": "CleanTechnica",
+          "published": "2026-06-08T15:47:31+00:00"
+        },
         {
           "title": "This Used Audi E-Tron Lost A Fortune. Its Battery Held Up Much Better",
           "link": "https://insideevs.com/news/798060/audi-e-tron-battery-test/",
@@ -332,22 +356,10 @@
           "published": "2026-06-04T18:00:00+00:00"
         },
         {
-          "title": "Hydrogen Buses Work. That Is Not The Procurement Question.",
-          "link": "https://cleantechnica.com/2026/06/04/hydrogen-buses-procurement-risk/",
-          "source": "CleanTechnica",
-          "published": "2026-06-04T17:33:11+00:00"
-        },
-        {
           "title": "Nissan joins new ‘Cheaper Than China’ solid-state EV battery project",
           "link": "https://electrek.co/2026/06/04/nissan-solid-state-ev-battery-project-aims-for-cheaper-than-china/",
           "source": "Electrek",
           "published": "2026-06-04T17:26:33+00:00"
-        },
-        {
-          "title": "What War On EVs? New $230 Million LFP Battery Materials Factory Proposed For Texas",
-          "link": "https://cleantechnica.com/2026/06/04/evs-batteries-lfp-cathode-texas-invest-energyx-wildcat-holyvolt/",
-          "source": "CleanTechnica",
-          "published": "2026-06-04T16:31:22+00:00"
         },
         {
           "title": "Waymo’s retired robotaxi batteries are heading back to work",
@@ -414,26 +426,20 @@
           "link": "https://electrek.co/2026/05/30/ct-keeps-home-solar-incentive-alive-through-2035-batteries-are-the-big-winners/",
           "source": "Electrek",
           "published": "2026-05-30T14:24:07+00:00"
-        },
-        {
-          "title": "Podcast: Tesla Robotaxi numbers, Ferrari’s controversial Luce launches, Waymo Ojai, and more",
-          "link": "https://electrek.co/2026/05/29/podcast-tesla-robotaxi-numbers-ferraris-controversial-luce-launches-waymo-ojai-and-more/",
-          "source": "Electrek",
-          "published": "2026-05-29T18:26:12+00:00"
-        },
-        {
-          "title": "Anker SOLIX permanently cuts power station prices + exclusive bonus savings to lows, Lectric’s rare 30% extra battery sale lows, more",
-          "link": "https://electrek.co/2026/05/29/anker-solix-cuts-power-station-prices-exclusive-savingss-lectric-extra-battery-sale-more/",
-          "source": "Electrek",
-          "published": "2026-05-29T18:00:00+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 10,
+      "count": 11,
       "items": [
+        {
+          "title": "Watch a BYD electric sedan do a full tank turn in a hilariously tight space",
+          "link": "https://electrek.co/2026/06/08/byd-tank-turn-viral-video-narrow-space/",
+          "source": "Electrek",
+          "published": "2026-06-08T16:45:04+00:00"
+        },
         {
           "title": "New Danfoss hydraulic pump increases equipment runtime by 50%",
           "link": "https://electrek.co/2026/06/06/new-danfoss-hydraulic-pump-increases-equipment-runtime-by-50/",
@@ -506,6 +512,12 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=46785",
           "source": "로봇신문",
           "published": "2026-06-08T18:03:18+00:00"
+        },
+        {
+          "title": "ACS raises $200M to scale autonomous counter-drone system",
+          "link": "https://www.therobotreport.com/allen-control-systems-raises-200m-for-autonomous-weapons-stations/",
+          "source": "The Robot Report",
+          "published": "2026-06-08T17:02:42+00:00"
         },
         {
           "title": "Daimon Robotics and Galbot jointly launches RobOmni for benchmarking tactile perception and dexterous manipulation",
@@ -596,12 +608,6 @@
           "link": "https://www.therobotreport.com/boston-university-team-wins-massrobotics-form-function-challenge-2026-robotics-summit/",
           "source": "The Robot Report",
           "published": "2026-06-03T12:15:45+00:00"
-        },
-        {
-          "title": "2026 Robotics Summit & Expo recap",
-          "link": "https://www.therobotreport.com/2026-robotics-summit-expo-recap/",
-          "source": "The Robot Report",
-          "published": "2026-06-02T19:15:57+00:00"
         },
         {
           "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
