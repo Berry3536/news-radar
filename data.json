@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-06-08T20:11:30.821619+00:00",
+  "generated_at": "2026-06-09T02:53:00.182626+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Solar is crushing gas growth worldwide, a new report finds",
+          "link": "https://electrek.co/2026/06/08/solar-is-crushing-gas-growth-worldwide-a-new-report-finds/",
+          "source": "Electrek",
+          "published": "2026-06-08T23:01:00+00:00"
+        },
+        {
+          "title": "BMW’s Electric M3 Doesn’t Imitate A V8. It Does Something Cooler",
+          "link": "https://insideevs.com/news/798095/bmw-m3-ev-sound-design/",
+          "source": "InsideEVs",
+          "published": "2026-06-08T21:44:19+00:00"
+        },
+        {
+          "title": "Your Tesla Is Twice As Likely To Hit 250,000 Miles As A Subaru: Study",
+          "link": "https://insideevs.com/news/798125/tesla-subaru-study-twice-250k/",
+          "source": "InsideEVs",
+          "published": "2026-06-08T21:29:48+00:00"
+        },
+        {
+          "title": "BYD’s 1,000+ hp drop-top luxury EV spotted undisguised [Images]",
+          "link": "https://electrek.co/2026/06/08/byds-1000-hp-drop-top-luxury-ev-spotted-undisguised-images/",
+          "source": "Electrek",
+          "published": "2026-06-08T21:27:53+00:00"
+        },
+        {
+          "title": "The Lucid Gravity's Latest Update Brings Hands-Free Driving And Google Maps Information",
+          "link": "https://insideevs.com/news/798127/lucid-gravity-update-hands-free-2026/",
+          "source": "InsideEVs",
+          "published": "2026-06-08T21:00:00+00:00"
+        },
         {
           "title": "Ford’s $30,000 EV pickup is getting closer — You may even see one out in the wild",
           "link": "https://electrek.co/2026/06/08/fords-30000-ev-pickup-almost-here-you-may-see-one-soon/",
@@ -215,44 +245,20 @@
           "link": "https://electrek.co/2026/06/05/toyota-finally-has-evs-people-want-to-buy-why-slow-down-now/",
           "source": "Electrek",
           "published": "2026-06-05T15:42:42+00:00"
-        },
-        {
-          "title": "Slate Could Have A Powerful New Friend In Carvana",
-          "link": "https://insideevs.com/news/797854/slate-carvana-investment-potential-amazon/",
-          "source": "InsideEVs",
-          "published": "2026-06-05T14:01:55+00:00"
-        },
-        {
-          "title": "Xpeng spends $500M/year on AI training to beat Tesla FSD",
-          "link": "https://electrek.co/2026/06/05/xpeng-vla-interview-cvpr-language-poison-tesla-fsd/",
-          "source": "Electrek",
-          "published": "2026-06-05T13:58:04+00:00"
-        },
-        {
-          "title": "Wheel-E Podcast: Monarc e-bikes launch, bike buses, more",
-          "link": "https://electrek.co/2026/06/05/wheel-e-podcast-monarc-e-bikes-launch-bike-buses-more/",
-          "source": "Electrek",
-          "published": "2026-06-05T12:55:33+00:00"
-        },
-        {
-          "title": "Jason Momoa’s 1920s Harleys become electric hybrids in wildest EV conversions yet",
-          "link": "https://electrek.co/2026/06/05/jason-momoa-1920s-harleys-land-rovers-electric-conversion-electrogenic/",
-          "source": "Electrek",
-          "published": "2026-06-05T11:49:11+00:00"
-        },
-        {
-          "title": "Amazon Now Has Over 50,000 Electric Delivery Vans In Its Fleet",
-          "link": "https://insideevs.com/news/797914/amazon-ev-delivery-fleet-2026-update/",
-          "source": "InsideEVs",
-          "published": "2026-06-05T11:45:52+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 29,
+      "count": 30,
       "items": [
+        {
+          "title": "US Clean Energy Can Now Power ~80 Million Homes!",
+          "link": "https://cleantechnica.com/2026/06/08/us-clean-energy-can-now-power-80-million-homes/",
+          "source": "CleanTechnica",
+          "published": "2026-06-08T23:56:05+00:00"
+        },
         {
           "title": "Donut Lab’s ‘solid-state’ battery exposed as regular li-ion in damning investigation",
           "link": "https://electrek.co/2026/06/08/donut-lab-solid-state-battery-exposed-lithium-ion-fraud/",
@@ -629,10 +635,10 @@
       "count": 40,
       "items": [
         {
-          "title": "젠슨 황, 방한 마지막 일정서 국내 AI 기업 독려...\"GPU 우선 공급”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211497",
+          "title": "오픈AI, IPO 신청서 제출...\"상장 시점은 미정\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211500",
           "source": "AI타임스",
-          "published": "2026-06-08T22:28:52+00:00"
+          "published": "2026-06-09T07:11:43+00:00"
         },
         {
           "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
