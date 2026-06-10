@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T09:55:29.800492+00:00",
+  "generated_at": "2026-06-10T15:29:08.965791+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,36 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43909",
           "source": "모터그래프",
           "published": "2026-06-10T16:51:43+00:00"
+        },
+        {
+          "title": "This Tesla Model 3 Went Nearly 400 Miles, 30 More Than Its EPA Rating",
+          "link": "https://insideevs.com/news/798359/tesla-moldel-3-edmunds-range/",
+          "source": "InsideEVs",
+          "published": "2026-06-10T15:03:07+00:00"
+        },
+        {
+          "title": "BYD outsold Ford, and now it thinks it can catch Toyota as the world’s No. 1 automaker",
+          "link": "https://electrek.co/2026/06/10/byd-outsold-ford-thinks-it-can-catch-toyota-for-no-1/",
+          "source": "Electrek",
+          "published": "2026-06-10T14:27:20+00:00"
+        },
+        {
+          "title": "BYD threatens to sue Trump administration over Pentagon military list",
+          "link": "https://electrek.co/2026/06/10/byd-threatens-sue-trump-administration-pentagon-military-list/",
+          "source": "Electrek",
+          "published": "2026-06-10T13:52:46+00:00"
+        },
+        {
+          "title": "Electric equipment means MASSIVE fuel savings for this operator",
+          "link": "https://electrek.co/2026/06/10/electric-equipment-means-massive-fuel-savings-for-this-operator/",
+          "source": "Electrek",
+          "published": "2026-06-10T12:21:23+00:00"
+        },
+        {
+          "title": "Chrysler Recalls America’s Only Plug-In Hybrid Minivan, Tells Owners To Park Outside",
+          "link": "https://insideevs.com/news/798326/chrysler-pacifica-hybrid-recall-battery-fire/",
+          "source": "InsideEVs",
+          "published": "2026-06-10T10:49:30+00:00"
         },
         {
           "title": "Tezeus C8 review: This light & sleek European commuter e-bike gets a lot right",
@@ -215,44 +245,32 @@
           "link": "https://electrek.co/2026/06/08/fords-30000-ev-pickup-almost-here-you-may-see-one-soon/",
           "source": "Electrek",
           "published": "2026-06-08T19:55:27+00:00"
-        },
-        {
-          "title": "Donut Lab’s ‘solid-state’ battery exposed as regular li-ion in damning investigation",
-          "link": "https://electrek.co/2026/06/08/donut-lab-solid-state-battery-exposed-lithium-ion-fraud/",
-          "source": "Electrek",
-          "published": "2026-06-08T19:18:17+00:00"
-        },
-        {
-          "title": "EcoFlow Early Prime Day power station deals up 62% off + bonus savings and FREE gifts/rewards from $149, more",
-          "link": "https://electrek.co/2026/06/08/ecoflow-early-prime-day-sale-48-hour-flash-sale-power-station-from-149-more/",
-          "source": "Electrek",
-          "published": "2026-06-08T18:00:00+00:00"
-        },
-        {
-          "title": "This $9,000 EV is about to take Mexico by storm: Meet Olinia",
-          "link": "https://electrek.co/2026/06/08/9000-ev-mexico-olinia/",
-          "source": "Electrek",
-          "published": "2026-06-08T17:54:53+00:00"
-        },
-        {
-          "title": "Watch a BYD electric sedan do a full tank turn in a hilariously tight space",
-          "link": "https://electrek.co/2026/06/08/byd-tank-turn-viral-video-narrow-space/",
-          "source": "Electrek",
-          "published": "2026-06-08T16:45:04+00:00"
-        },
-        {
-          "title": "Solid-state EV battery maker debuts on Nasdaq after 745+ mile range real-world test",
-          "link": "https://electrek.co/2026/06/08/solid-state-ev-battery-maker-joins-nasdaq-after-745-mi-range-test/",
-          "source": "Electrek",
-          "published": "2026-06-08T16:05:34+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 33,
+      "count": 36,
       "items": [
+        {
+          "title": "Electric Airplane Powered By Solid-State Batteries Completes Test Flight",
+          "link": "https://cleantechnica.com/2026/06/10/electric-airplane-powered-by-solid-state-batteries-completes-test-flight/",
+          "source": "CleanTechnica",
+          "published": "2026-06-10T15:20:15+00:00"
+        },
+        {
+          "title": "Electric equipment means MASSIVE fuel savings for this operator",
+          "link": "https://electrek.co/2026/06/10/electric-equipment-means-massive-fuel-savings-for-this-operator/",
+          "source": "Electrek",
+          "published": "2026-06-10T12:21:23+00:00"
+        },
+        {
+          "title": "Chrysler Recalls America’s Only Plug-In Hybrid Minivan, Tells Owners To Park Outside",
+          "link": "https://insideevs.com/news/798326/chrysler-pacifica-hybrid-recall-battery-fire/",
+          "source": "InsideEVs",
+          "published": "2026-06-10T10:49:30+00:00"
+        },
         {
           "title": "GM Empower Event — GM Announces Sodium-Ion Grid-Scale Battery Storage Developed In The US",
           "link": "https://cleantechnica.com/2026/06/09/gm-empower-event-gm-announces-sodium-ion-grid-scale-battery-storage-developed-in-the-us/",
@@ -456,7 +474,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 14,
+      "count": 13,
       "items": [
         {
           "title": "아우디 코리아, 컴팩트 SUV 더 뉴 아우디 Q3",
@@ -499,12 +517,6 @@
           "link": "https://electrek.co/2026/06/06/new-danfoss-hydraulic-pump-increases-equipment-runtime-by-50/",
           "source": "Electrek",
           "published": "2026-06-07T03:08:56+00:00"
-        },
-        {
-          "title": "This $199 Gadget Brings Apple CarPlay To GM EVs. But There's A Catch",
-          "link": "https://insideevs.com/news/797942/gm-evs-apple-carplay-android-auto-ev-play/",
-          "source": "InsideEVs",
-          "published": "2026-06-05T16:37:18+00:00"
         },
         {
           "title": "Jason Momoa’s 1920s Harleys become electric hybrids in wildest EV conversions yet",
@@ -550,10 +562,16 @@
       "count": 21,
       "items": [
         {
-          "title": "오늘의 로봇 기업 주식 시세(2026-06-10)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46829",
+          "title": "원더풀플랫폼, ‘STK 2026’서 시니어에 더 가까워진 ‘다솜’ 공개",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46838",
           "source": "로봇신문",
-          "published": "2026-06-10T15:36:59+00:00"
+          "published": "2026-06-10T20:54:11+00:00"
+        },
+        {
+          "title": "Robotics will not have a clean Llama moment",
+          "link": "https://www.therobotreport.com/robotics-will-not-have-a-clean-llama-moment/",
+          "source": "The Robot Report",
+          "published": "2026-06-10T13:13:14+00:00"
         },
         {
           "title": "Walmart, Wing add 7 markets in drone delivery expansion",
@@ -658,12 +676,6 @@
           "published": "2026-06-04T12:30:22+00:00"
         },
         {
-          "title": "Autonomous defense manufacturer Mach Industries raises $300M",
-          "link": "https://www.therobotreport.com/autonomous-defense-manufacturer-mach-industries-raises-300m/",
-          "source": "The Robot Report",
-          "published": "2026-06-03T21:41:43+00:00"
-        },
-        {
           "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
           "link": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
           "source": "IEEE Spectrum",
@@ -683,10 +695,10 @@
       "count": 40,
       "items": [
         {
-          "title": "오픈AI, 엔비디아 지원으로 10GW급 역대 최대 데이터센터 구축 추진",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211582",
+          "title": "[AI&빅데이터쇼] S2W, 온톨로지로 AX부터 보안 관리까지…”국내 넘어 해외도 주목”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211584",
           "source": "AI타임스",
-          "published": "2026-06-10T18:32:05+00:00"
+          "published": "2026-06-10T20:55:16+00:00"
         },
         {
           "title": "Business World Model",
