@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-06-09T20:05:02.470495+00:00",
+  "generated_at": "2026-06-10T03:30:27.346388+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "GM becomes first automaker to partner with Redwood across full battery lifecycle",
+          "link": "https://electrek.co/2026/06/09/gm-first-automaker-redwood-materials-full-battery-lifecycle/",
+          "source": "Electrek",
+          "published": "2026-06-09T21:52:35+00:00"
+        },
+        {
+          "title": "Toyota and Lexus are going big with their first 3-row electric SUVs",
+          "link": "https://electrek.co/2026/06/09/toyota-lexus-going-big-first-3-row-electric-suvs/",
+          "source": "Electrek",
+          "published": "2026-06-09T21:20:52+00:00"
+        },
+        {
+          "title": "General Motors Is Bringing Sodium-Ion Battery Production To America",
+          "link": "https://insideevs.com/news/798154/general-motors-sodium-ion-battery-production/",
+          "source": "InsideEVs",
+          "published": "2026-06-09T21:01:00+00:00"
+        },
+        {
+          "title": "GM Is Making EV Charging A Lot Simpler With Energy Pass, NACS On All 2027 Models",
+          "link": "https://insideevs.com/news/798164/gm-energy-pass-ev-charging-networks-tesla-supercharger/",
+          "source": "InsideEVs",
+          "published": "2026-06-09T21:00:00+00:00"
+        },
         {
           "title": "One company is building a massive 1.4 GW solar portfolio for Meta",
           "link": "https://electrek.co/2026/06/09/one-company-is-building-a-massive-1-4-gw-solar-portfolio-for-meta/",
@@ -221,38 +245,50 @@
           "link": "https://electrek.co/2026/06/08/the-real-reason-why-e-bike-throttles-have-gotten-worse/",
           "source": "Electrek",
           "published": "2026-06-08T11:29:00+00:00"
-        },
-        {
-          "title": "The Dodge Charger Daytona EV Is Heading To Europe",
-          "link": "https://insideevs.com/news/798063/dodge-charger-daytona-ev-gas-europe/",
-          "source": "InsideEVs",
-          "published": "2026-06-08T11:20:58+00:00"
-        },
-        {
-          "title": "Kia Niro EV is the most affordable new EV you can lease in June 2026",
-          "link": "https://electrek.co/2026/06/08/kia-niro-ev-is-the-most-affordable-new-ev-you-can-lease-in-june-2026/",
-          "source": "Electrek",
-          "published": "2026-06-08T11:15:00+00:00"
-        },
-        {
-          "title": "The 2027 Cadillac Lyriq Is Keeping A Big Feature All Other GM EVs Have Already Lost",
-          "link": "https://insideevs.com/news/798034/2027-cadillac-lyriq-apple-carplay-nacs/",
-          "source": "InsideEVs",
-          "published": "2026-06-08T07:40:21+00:00"
-        },
-        {
-          "title": "Survey Sunday: what will it take for fleets to realize electric works – TODAY?",
-          "link": "https://electrek.co/2026/06/07/survey-sunday-what-will-it-take-for-fleets-to-realize-electric-works-today/",
-          "source": "Electrek",
-          "published": "2026-06-07T19:19:07+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 31,
+      "count": 35,
       "items": [
+        {
+          "title": "GM Empower Event — GM Announces Sodium-Ion Grid-Scale Battery Storage Developed In The US",
+          "link": "https://cleantechnica.com/2026/06/09/gm-empower-event-gm-announces-sodium-ion-grid-scale-battery-storage-developed-in-the-us/",
+          "source": "CleanTechnica",
+          "published": "2026-06-10T01:49:34+00:00"
+        },
+        {
+          "title": "GM Energy Pass: One Universal Interface For Public Charging",
+          "link": "https://cleantechnica.com/2026/06/09/gm-energy-pass-one-universal-interface-for-public-charging/",
+          "source": "CleanTechnica",
+          "published": "2026-06-10T01:03:08+00:00"
+        },
+        {
+          "title": "GM Activates Vehicle To Grid (V2G) Capability For Existing Customers, With No New Hardware Required",
+          "link": "https://cleantechnica.com/2026/06/09/gm-activates-vehicle-to-grid-v2g-capability-for-existing-customers-with-no-new-hardware-required/",
+          "source": "CleanTechnica",
+          "published": "2026-06-10T00:23:21+00:00"
+        },
+        {
+          "title": "GM becomes first automaker to partner with Redwood across full battery lifecycle",
+          "link": "https://electrek.co/2026/06/09/gm-first-automaker-redwood-materials-full-battery-lifecycle/",
+          "source": "Electrek",
+          "published": "2026-06-09T21:52:35+00:00"
+        },
+        {
+          "title": "Largest Solar Cell Factory In USA Starts Production in Georgia",
+          "link": "https://cleantechnica.com/2026/06/09/largest-solar-cell-factory-in-usa-starts-production-in-georgia/",
+          "source": "CleanTechnica",
+          "published": "2026-06-09T21:19:48+00:00"
+        },
+        {
+          "title": "General Motors Is Bringing Sodium-Ion Battery Production To America",
+          "link": "https://insideevs.com/news/798154/general-motors-sodium-ion-battery-production/",
+          "source": "InsideEVs",
+          "published": "2026-06-09T21:01:00+00:00"
+        },
         {
           "title": "Jackery Early Prime Day power station sale with up to 65% off + up to 10% bonus savings, Beatbot robot pool cleaner lows, more",
           "link": "https://electrek.co/2026/06/09/jackery-early-prime-day-power-station-sale-beatbot-robot-pool-cleaners-more/",
@@ -426,26 +462,26 @@
           "link": "https://electrek.co/2026/06/01/toyota-pulls-plug-most-important-evs/",
           "source": "Electrek",
           "published": "2026-06-01T21:50:19+00:00"
-        },
-        {
-          "title": "BYD plans to bring all-solid-state batteries to EVs by 2027, but it’s not alone",
-          "link": "https://electrek.co/2026/06/01/byd-all-solid-state-batteries-evs-by-2027/",
-          "source": "Electrek",
-          "published": "2026-06-01T21:05:40+00:00"
-        },
-        {
-          "title": "EcoFlow Hurricane Prep Sale offers 2,048Wh DELTA 2 Max power station $899, EGO 3,200 PSI pressure washer $699 low, more",
-          "link": "https://electrek.co/2026/06/01/ecoflow-hurricane-prep-sale-2048wh-delta-2-max-power-station-ego-3200-psi-pressure-washer-more/",
-          "source": "Electrek",
-          "published": "2026-06-01T18:00:00+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 12,
+      "count": 14,
       "items": [
+        {
+          "title": "GM becomes first automaker to partner with Redwood across full battery lifecycle",
+          "link": "https://electrek.co/2026/06/09/gm-first-automaker-redwood-materials-full-battery-lifecycle/",
+          "source": "Electrek",
+          "published": "2026-06-09T21:52:35+00:00"
+        },
+        {
+          "title": "General Motors Is Bringing Sodium-Ion Battery Production To America",
+          "link": "https://insideevs.com/news/798154/general-motors-sodium-ion-battery-production/",
+          "source": "InsideEVs",
+          "published": "2026-06-09T21:01:00+00:00"
+        },
         {
           "title": "F1 모나코 그랑프리, 키미 안토넬리 대회 최연소 우승 기록",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43900",
@@ -526,16 +562,16 @@
       "count": 21,
       "items": [
         {
+          "title": "[부고]시냅스이미징 김재선 대표 배우자상",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46817",
+          "source": "로봇신문",
+          "published": "2026-06-10T09:17:11+00:00"
+        },
+        {
           "title": "Walmart, Wing add 7 markets in drone delivery expansion",
           "link": "https://www.therobotreport.com/walmart-wing-add-7-markets-in-drone-delivery-expansion/",
           "source": "The Robot Report",
           "published": "2026-06-09T19:38:24+00:00"
-        },
-        {
-          "title": "애지봇, ‘STK 2026’서 차세대 체화지능 기술·제품 라인업 공개",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46806",
-          "source": "로봇신문",
-          "published": "2026-06-09T17:40:49+00:00"
         },
         {
           "title": "Effort to establish a National Commission on Robotics advances in Congress",
@@ -659,10 +695,10 @@
       "count": 40,
       "items": [
         {
-          "title": "구글, 노트북LM 대규모 업데이트…\"스스로 웹 검색해 지식 구축\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211511",
+          "title": "“일상이 된 AI, 말하고 움직인다”…국내 최대 ‘AI&빅데이터쇼’ 개막",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211547",
           "source": "AI타임스",
-          "published": "2026-06-09T18:54:20+00:00"
+          "published": "2026-06-10T11:48:18+00:00"
         },
         {
           "title": "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow",
