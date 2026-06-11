@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T10:19:38.996064+00:00",
+  "generated_at": "2026-06-11T15:55:47.477297+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,36 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43918",
           "source": "모터그래프",
           "published": "2026-06-11T17:21:51+00:00"
+        },
+        {
+          "title": "BMW’s new iX3 is off to a hot start with 10,000+ models sold, top-selling EV in its class",
+          "link": "https://electrek.co/2026/06/11/bmws-new-ix3-off-to-hot-start-sales-top-10000/",
+          "source": "Electrek",
+          "published": "2026-06-11T15:53:26+00:00"
+        },
+        {
+          "title": "BYD Says It Will Be The World's Largest Automaker In 5 Years. The Pentagon Is Nervous",
+          "link": "https://insideevs.com/news/798397/pentagon-byd-largest-automaker-soon/",
+          "source": "InsideEVs",
+          "published": "2026-06-11T15:08:43+00:00"
+        },
+        {
+          "title": "Solid-state EV batteries are getting real as on-road testing begins in North America",
+          "link": "https://electrek.co/2026/06/11/solid-state-ev-batteries-leave-lab-north-american-road-tests-begin/",
+          "source": "Electrek",
+          "published": "2026-06-11T14:39:32+00:00"
+        },
+        {
+          "title": "Xiaomi gets approval to build extended-range EVs, plans full-size SUV to rival Li Auto",
+          "link": "https://electrek.co/2026/06/11/xiaomi-extended-range-suv-skynomad-erev-regulatory-approval/",
+          "source": "Electrek",
+          "published": "2026-06-11T13:17:12+00:00"
+        },
+        {
+          "title": "Specialized launches Turbo Levo 4 X, a full-suspension off-road cargo e-bike",
+          "link": "https://electrek.co/2026/06/11/specialized-launches-turbo-levo-4-x-a-full-suspension-off-road-cargo-e-bike/",
+          "source": "Electrek",
+          "published": "2026-06-11T11:13:30+00:00"
         },
         {
           "title": "BYD Is Bringing Thousands Of 5-Minute EV Chargers To Europe—And Canada Is Next",
@@ -215,44 +245,26 @@
           "link": "https://electrek.co/2026/06/09/hyundai-cuts-ioniq-5-prices-2027-model-launches-korea/",
           "source": "Electrek",
           "published": "2026-06-09T16:27:05+00:00"
-        },
-        {
-          "title": "Tesla ‘FSD’ approved in Denmark, 4th European country in 2 months",
-          "link": "https://electrek.co/2026/06/09/tesla-fsd-approved-denmark-fourth-european-country/",
-          "source": "Electrek",
-          "published": "2026-06-09T16:07:22+00:00"
-        },
-        {
-          "title": "Meet The New(ish) Cheap EV Hitting The U.S. This Summer",
-          "link": "https://insideevs.com/news/798229/mitsubishi-eclipse-cheap-ev-nissan-leaf-2026/",
-          "source": "InsideEVs",
-          "published": "2026-06-09T16:00:05+00:00"
-        },
-        {
-          "title": "Mitsubishi’s new EV breaks cover, and it looks a bit familiar [Images]",
-          "link": "https://electrek.co/2026/06/09/mitsubishis-new-ev-breaks-cover-looks-familiar-images/",
-          "source": "Electrek",
-          "published": "2026-06-09T14:18:47+00:00"
-        },
-        {
-          "title": "Waymo buys Apple’s abandoned self-driving car proving ground for $220M",
-          "link": "https://electrek.co/2026/06/09/waymo-buys-apple-project-titan-proving-ground-220-million/",
-          "source": "Electrek",
-          "published": "2026-06-09T13:51:01+00:00"
-        },
-        {
-          "title": "Harley’s LiveWire reveals surprisingly low pricing on new S4 electric motorcycles",
-          "link": "https://electrek.co/2026/06/09/harleys-livewire-reveals-surprisingly-low-pricing-on-new-s4-electric-motorcycles/",
-          "source": "Electrek",
-          "published": "2026-06-09T13:36:00+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 37,
+      "count": 38,
       "items": [
+        {
+          "title": "Solid-state EV batteries are getting real as on-road testing begins in North America",
+          "link": "https://electrek.co/2026/06/11/solid-state-ev-batteries-leave-lab-north-american-road-tests-begin/",
+          "source": "Electrek",
+          "published": "2026-06-11T14:39:32+00:00"
+        },
+        {
+          "title": "Xiaomi gets approval to build extended-range EVs, plans full-size SUV to rival Li Auto",
+          "link": "https://electrek.co/2026/06/11/xiaomi-extended-range-suv-skynomad-erev-regulatory-approval/",
+          "source": "Electrek",
+          "published": "2026-06-11T13:17:12+00:00"
+        },
         {
           "title": "BYD Is Bringing Thousands Of 5-Minute EV Chargers To Europe—And Canada Is Next",
           "link": "https://insideevs.com/news/798421/byd-5-minute-ev-chargers-europe-canada/",
@@ -404,12 +416,6 @@
           "published": "2026-06-08T16:05:34+00:00"
         },
         {
-          "title": "Battery Giant CATL Expects Half Of Its 2030 Sales Will Be For Energy Storage",
-          "link": "https://cleantechnica.com/2026/06/08/battery-giant-catl-expects-half-of-its-2030-sales-will-be-for-energy-storage/",
-          "source": "CleanTechnica",
-          "published": "2026-06-08T15:47:31+00:00"
-        },
-        {
           "title": "New Danfoss hydraulic pump increases equipment runtime by 50%",
           "link": "https://electrek.co/2026/06/06/new-danfoss-hydraulic-pump-increases-equipment-runtime-by-50/",
           "source": "Electrek",
@@ -559,13 +565,25 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 21,
+      "count": 22,
       "items": [
         {
           "title": "휴로틱스, ‘워리어플랫폼 세미나’서 피지컬 AI 발표…軍 관계자 ‘대호응’",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=46858",
           "source": "로봇신문",
           "published": "2026-06-11T17:53:58+00:00"
+        },
+        {
+          "title": "Inside XRZero-G0, a new 2,000-hour open dataset for robotics research",
+          "link": "https://www.therobotreport.com/inside-xrzero-g0-a-new-2000-hour-open-dataset-for-robotics-research/",
+          "source": "The Robot Report",
+          "published": "2026-06-11T12:30:14+00:00"
+        },
+        {
+          "title": "Defining Autonomy for Wellness Robots in Senior Care",
+          "link": "https://content.knowledgehub.wiley.com/wellness-robots-and-the-path-to-full-autonomy-a-new-paradigm-in-ai-powered-senior-care/",
+          "source": "IEEE Spectrum",
+          "published": "2026-06-11T10:00:01+00:00"
         },
         {
           "title": "NEURA Robotics to raise up to $1.4B in Series C funding for physical AI",
@@ -670,12 +688,6 @@
           "published": "2026-06-04T19:50:31+00:00"
         },
         {
-          "title": "Generalist raises $400M to scale its general-purpose AI models",
-          "link": "https://www.therobotreport.com/generalist-raises-400m-to-scale-its-general-purpose-ai-models/",
-          "source": "The Robot Report",
-          "published": "2026-06-04T17:53:28+00:00"
-        },
-        {
           "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
           "link": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
           "source": "IEEE Spectrum",
@@ -695,10 +707,10 @@
       "count": 40,
       "items": [
         {
-          "title": "페레이라 주한 퀘벡 대표 \"한국은 아시아 관문…밀라 AI DNA 이식할 것\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211611",
+          "title": "[AI&빅데이터쇼] 뉴엔AI “대기업이 선택한 데이터 분석, 미국 출시 앞둬”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211630",
           "source": "AI타임스",
-          "published": "2026-06-11T18:32:47+00:00"
+          "published": "2026-06-11T20:08:54+00:00"
         },
         {
           "title": "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference",
