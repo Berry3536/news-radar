@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T15:55:47.477297+00:00",
+  "generated_at": "2026-06-11T20:21:57.099408+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,70 @@
       "count": 40,
       "items": [
         {
+          "title": "This Dodge Charger EV Prototype Packs An Experimental Semi-Solid-State Battery",
+          "link": "https://insideevs.com/news/798496/dodge-charger-daytona-ev-solid-state-battery/",
+          "source": "InsideEVs",
+          "published": "2026-06-11T19:35:49+00:00"
+        },
+        {
+          "title": "A huge Arkansas solar + storage project locks in $3.5B in financing",
+          "link": "https://electrek.co/2026/06/11/huge-arkansas-solar-storage-project-locks-in-3-5b-in-financing/",
+          "source": "Electrek",
+          "published": "2026-06-11T19:10:44+00:00"
+        },
+        {
+          "title": "BYD’s luxury EV roadster leaks with a tri-motor 1,500+ hp setup, and it’s headed overseas",
+          "link": "https://electrek.co/2026/06/11/byds-luxury-ev-roadster-leaks-1500-hp-headed-overseas/",
+          "source": "Electrek",
+          "published": "2026-06-11T18:57:26+00:00"
+        },
+        {
+          "title": "Bluetti exclusive Early Prime Day Elite 200 V2 power station $759, Navee G5 Max e-scooter $650 low, EGO electric mini bike, more",
+          "link": "https://electrek.co/2026/06/11/bluetti-prime-day-elite-200-v2-power-station-navee-g5-max-e-scooter-ego-electric-mini-bike-more/",
+          "source": "Electrek",
+          "published": "2026-06-11T18:00:00+00:00"
+        },
+        {
           "title": "상품성은 올리고 가격은 내린 2027년형 폴스타 4",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43918",
           "source": "모터그래프",
           "published": "2026-06-11T17:21:51+00:00"
+        },
+        {
+          "title": "Waymo launches $30/month ‘Premier’ membership with priority pickups and cashback",
+          "link": "https://electrek.co/2026/06/11/waymo-premier-membership-program-30-dollars-priority-pickups/",
+          "source": "Electrek",
+          "published": "2026-06-11T17:13:24+00:00"
+        },
+        {
+          "title": "Tesla promotes FSD misuse in its own videos — undermining its legal defense",
+          "link": "https://electrek.co/2026/06/11/tesla-promotes-fsd-misuse-official-videos-lawsuits/",
+          "source": "Electrek",
+          "published": "2026-06-11T17:11:41+00:00"
+        },
+        {
+          "title": "China Loves This Cheap Battery Tech. Here's Why General Motors Might Not Stick With It",
+          "link": "https://insideevs.com/news/798481/gm-lmr-not-lpf-batteries/",
+          "source": "InsideEVs",
+          "published": "2026-06-11T16:47:47+00:00"
+        },
+        {
+          "title": "BYD’s ‘Super’ hatch goes on sale with 65 miles of EV range for under $22,000",
+          "link": "https://electrek.co/2026/06/11/byd-dolphin-g-on-sale-65-miles-ev-range-for-22000/",
+          "source": "Electrek",
+          "published": "2026-06-11T16:39:13+00:00"
+        },
+        {
+          "title": "Fleet buys Tesla Semi electric trucks after stunning 1.55 kWh/mile efficiency",
+          "link": "https://electrek.co/2026/06/11/arcbest-buys-tesla-semis-abf-freight-pilot/",
+          "source": "Electrek",
+          "published": "2026-06-11T15:59:46+00:00"
+        },
+        {
+          "title": "BYD's New Hybrid Hatchback Could Supercharge Its European Takeover",
+          "link": "https://insideevs.com/news/798473/byd-dolphin-g-phev-europe/",
+          "source": "InsideEVs",
+          "published": "2026-06-11T15:58:54+00:00"
         },
         {
           "title": "BMW’s new iX3 is off to a hot start with 10,000+ models sold, top-selling EV in its class",
@@ -77,12 +137,6 @@
           "link": "https://electrek.co/2026/06/10/ev-sales-just-hit-their-best-month-since-federal-tax-credits-ended/",
           "source": "Electrek",
           "published": "2026-06-10T22:08:10+00:00"
-        },
-        {
-          "title": "BYD’s new plug-in Super hatch packs 65 miles of EV range, promises to slash fuel costs",
-          "link": "https://electrek.co/2026/06/10/byds-super-hatch-packs-65-miles-ev-range-will-cut-fuel-costs/",
-          "source": "Electrek",
-          "published": "2026-06-10T21:44:42+00:00"
         },
         {
           "title": "Mercedes’ Smaller-Battery GLC EV Doesn’t Have A Range Problem",
@@ -191,68 +245,32 @@
           "link": "https://electrek.co/2026/06/09/gm-first-automaker-redwood-materials-full-battery-lifecycle/",
           "source": "Electrek",
           "published": "2026-06-09T21:52:35+00:00"
-        },
-        {
-          "title": "Toyota and Lexus are going big with their first 3-row electric SUVs",
-          "link": "https://electrek.co/2026/06/09/toyota-lexus-going-big-first-3-row-electric-suvs/",
-          "source": "Electrek",
-          "published": "2026-06-09T21:20:52+00:00"
-        },
-        {
-          "title": "General Motors Is Bringing Sodium-Ion Battery Production To America",
-          "link": "https://insideevs.com/news/798154/general-motors-sodium-ion-battery-production/",
-          "source": "InsideEVs",
-          "published": "2026-06-09T21:01:00+00:00"
-        },
-        {
-          "title": "GM Is Making EV Charging A Lot Simpler With Energy Pass, NACS On All 2027 Models",
-          "link": "https://insideevs.com/news/798164/gm-energy-pass-ev-charging-networks-tesla-supercharger/",
-          "source": "InsideEVs",
-          "published": "2026-06-09T21:00:00+00:00"
-        },
-        {
-          "title": "One company is building a massive 1.4 GW solar portfolio for Meta",
-          "link": "https://electrek.co/2026/06/09/one-company-is-building-a-massive-1-4-gw-solar-portfolio-for-meta/",
-          "source": "Electrek",
-          "published": "2026-06-09T19:33:06+00:00"
-        },
-        {
-          "title": "State-Backed Mexican EV Startup Unveils $8,600 EV With 6 Seats",
-          "link": "https://insideevs.com/news/798256/mexico-olinia-uno-ev-cheap/",
-          "source": "InsideEVs",
-          "published": "2026-06-09T18:51:43+00:00"
-        },
-        {
-          "title": "BYD’s 5-minute EV chargers go live overseas, and they may undercut Tesla Superchargers",
-          "link": "https://electrek.co/2026/06/09/byd-opens-first-5-min-ev-chargers-overseas-cheap/",
-          "source": "Electrek",
-          "published": "2026-06-09T18:39:34+00:00"
-        },
-        {
-          "title": "Jackery Early Prime Day power station sale with up to 65% off + up to 10% bonus savings, Beatbot robot pool cleaner lows, more",
-          "link": "https://electrek.co/2026/06/09/jackery-early-prime-day-power-station-sale-beatbot-robot-pool-cleaners-more/",
-          "source": "Electrek",
-          "published": "2026-06-09T18:00:00+00:00"
-        },
-        {
-          "title": "'Fairly Lazy Explanation’: Rivian's CEO Doesn’t Think Americans Are Anti-EV",
-          "link": "https://insideevs.com/features/798250/rj-scaringe-ev-demand/",
-          "source": "InsideEVs",
-          "published": "2026-06-09T17:19:21+00:00"
-        },
-        {
-          "title": "Hyundai cuts IONIQ 5 prices as the new 2027 model launches in Korea",
-          "link": "https://electrek.co/2026/06/09/hyundai-cuts-ioniq-5-prices-2027-model-launches-korea/",
-          "source": "Electrek",
-          "published": "2026-06-09T16:27:05+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 38,
+      "count": 40,
       "items": [
+        {
+          "title": "This Dodge Charger EV Prototype Packs An Experimental Semi-Solid-State Battery",
+          "link": "https://insideevs.com/news/798496/dodge-charger-daytona-ev-solid-state-battery/",
+          "source": "InsideEVs",
+          "published": "2026-06-11T19:35:49+00:00"
+        },
+        {
+          "title": "Bluetti exclusive Early Prime Day Elite 200 V2 power station $759, Navee G5 Max e-scooter $650 low, EGO electric mini bike, more",
+          "link": "https://electrek.co/2026/06/11/bluetti-prime-day-elite-200-v2-power-station-navee-g5-max-e-scooter-ego-electric-mini-bike-more/",
+          "source": "Electrek",
+          "published": "2026-06-11T18:00:00+00:00"
+        },
+        {
+          "title": "China Loves This Cheap Battery Tech. Here's Why General Motors Might Not Stick With It",
+          "link": "https://insideevs.com/news/798481/gm-lmr-not-lpf-batteries/",
+          "source": "InsideEVs",
+          "published": "2026-06-11T16:47:47+00:00"
+        },
         {
           "title": "Solid-state EV batteries are getting real as on-road testing begins in North America",
           "link": "https://electrek.co/2026/06/11/solid-state-ev-batteries-leave-lab-north-american-road-tests-begin/",
@@ -474,25 +492,31 @@
           "link": "https://electrek.co/2026/06/03/bluetti-3014wh-elite-300-power-station-350w-solar-panel-128wh-elite-10-mini-1567-worx-more/",
           "source": "Electrek",
           "published": "2026-06-03T18:00:00+00:00"
-        },
-        {
-          "title": "Caterpillar BEPU makes going electric as easy as swapping an engine",
-          "link": "https://electrek.co/2026/06/03/caterpillar-bepu-makes-going-electric-as-easy-as-swapping-an-engine/",
-          "source": "Electrek",
-          "published": "2026-06-03T12:47:56+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 12,
+      "count": 13,
       "items": [
+        {
+          "title": "BYD’s luxury EV roadster leaks with a tri-motor 1,500+ hp setup, and it’s headed overseas",
+          "link": "https://electrek.co/2026/06/11/byds-luxury-ev-roadster-leaks-1500-hp-headed-overseas/",
+          "source": "Electrek",
+          "published": "2026-06-11T18:57:26+00:00"
+        },
         {
           "title": "제너럴 모터스, GM Empower 행사에서 에너지 생태계 확장 전략 공개",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43920",
           "source": "모터그래프",
           "published": "2026-06-11T17:00:42+00:00"
+        },
+        {
+          "title": "China Loves This Cheap Battery Tech. Here's Why General Motors Might Not Stick With It",
+          "link": "https://insideevs.com/news/798481/gm-lmr-not-lpf-batteries/",
+          "source": "InsideEVs",
+          "published": "2026-06-11T16:47:47+00:00"
         },
         {
           "title": "GM becomes first automaker to partner with Redwood across full battery lifecycle",
@@ -553,12 +577,6 @@
           "link": "https://electrek.co/2026/06/04/from-iphone-to-an-electric-suv-that-sprints-to-60-mph-in-3-8-sec-foxconn-makes-it/",
           "source": "Electrek",
           "published": "2026-06-04T11:34:24+00:00"
-        },
-        {
-          "title": "Caterpillar BEPU makes going electric as easy as swapping an engine",
-          "link": "https://electrek.co/2026/06/03/caterpillar-bepu-makes-going-electric-as-easy-as-swapping-an-engine/",
-          "source": "Electrek",
-          "published": "2026-06-03T12:47:56+00:00"
         }
       ]
     },
@@ -707,10 +725,10 @@
       "count": 40,
       "items": [
         {
-          "title": "[AI&빅데이터쇼] 뉴엔AI “대기업이 선택한 데이터 분석, 미국 출시 앞둬”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211630",
+          "title": "[AI&빅데이터쇼] 유니트리·애지봇·갤봇 총출동...중국 '빅3' 휴머노이드 전략은",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211632",
           "source": "AI타임스",
-          "published": "2026-06-11T20:08:54+00:00"
+          "published": "2026-06-12T05:11:29+00:00"
         },
         {
           "title": "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference",
