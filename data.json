@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-06-10T20:27:12.441749+00:00",
+  "generated_at": "2026-06-11T03:42:30.438673+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "A YouTuber Debunked Donut Lab's Solid State Claims. It Reveals Something Huge About Lithium Batteries",
+          "link": "https://insideevs.com/news/798393/donut-lab-solid-state-debunked-lithium-ion-battery/",
+          "source": "InsideEVs",
+          "published": "2026-06-11T00:44:41+00:00"
+        },
+        {
+          "title": "GM is betting on battery cells that don’t use lithium",
+          "link": "https://electrek.co/2026/06/10/gm-sodium-ion-battery-peak-energy/",
+          "source": "Electrek",
+          "published": "2026-06-10T23:21:28+00:00"
+        },
+        {
+          "title": "BYD is bringing its 5-min ‘Flash’ electric car charging to Canada",
+          "link": "https://electrek.co/2026/06/10/byd-flash-charging-canada-5-minute-ev-charging-network/",
+          "source": "Electrek",
+          "published": "2026-06-10T23:04:12+00:00"
+        },
+        {
+          "title": "EV sales just hit their best month since federal tax credits ended",
+          "link": "https://electrek.co/2026/06/10/ev-sales-just-hit-their-best-month-since-federal-tax-credits-ended/",
+          "source": "Electrek",
+          "published": "2026-06-10T22:08:10+00:00"
+        },
+        {
+          "title": "BYD’s new plug-in Super hatch packs 65 miles of EV range, promises to slash fuel costs",
+          "link": "https://electrek.co/2026/06/10/byds-super-hatch-packs-65-miles-ev-range-will-cut-fuel-costs/",
+          "source": "Electrek",
+          "published": "2026-06-10T21:44:42+00:00"
+        },
         {
           "title": "Mercedes’ Smaller-Battery GLC EV Doesn’t Have A Range Problem",
           "link": "https://insideevs.com/news/798372/mercedes-glc-ev-small-battery/",
@@ -215,44 +245,32 @@
           "link": "https://electrek.co/2026/06/09/rivian-r2-first-drive-this-is-everything-i-need-to-upgrade-my-model-y-except/",
           "source": "Electrek",
           "published": "2026-06-09T13:00:41+00:00"
-        },
-        {
-          "title": "Gazelle launches new 28 MPH e-bikes, bringing Dutch comfort to fast American riders",
-          "link": "https://electrek.co/2026/06/09/gazelle-launches-new-28-mph-e-bikes-bringing-dutch-comfort-to-fast-american-riders/",
-          "source": "Electrek",
-          "published": "2026-06-09T13:00:00+00:00"
-        },
-        {
-          "title": "I Had High Expectations For The Rivian R2. It Still Blew Me Away",
-          "link": "https://insideevs.com/reviews/798129/rivian-r2-first-drive-review/",
-          "source": "InsideEVs",
-          "published": "2026-06-09T13:00:00+00:00"
-        },
-        {
-          "title": "ICE car sales continue to plummet in China, the top 16 cars are now electric",
-          "link": "https://electrek.co/2026/06/09/ice-car-sales-continue-to-plummet-in-china-the-top-16-cars-are-now-evs/",
-          "source": "Electrek",
-          "published": "2026-06-09T12:00:00+00:00"
-        },
-        {
-          "title": "Meet the electric aircraft tug that’s cutting ground emissions by 80%",
-          "link": "https://electrek.co/2026/06/09/meet-the-electric-aircraft-tug-thats-cutting-ground-emissions-by-80/",
-          "source": "Electrek",
-          "published": "2026-06-09T11:39:42+00:00"
-        },
-        {
-          "title": "Apple CarPlay Is Getting Video Playback",
-          "link": "https://insideevs.com/news/798197/apple-carplay-video-playback-car/",
-          "source": "InsideEVs",
-          "published": "2026-06-09T11:27:20+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 36,
+      "count": 35,
       "items": [
+        {
+          "title": "VinFast Brings Battery-Swapping Electric Motorcycles To The Philippines",
+          "link": "https://cleantechnica.com/2026/06/10/vinfast-brings-battery-swapping-electric-motorcycles-to-the-philippines/",
+          "source": "CleanTechnica",
+          "published": "2026-06-11T01:48:20+00:00"
+        },
+        {
+          "title": "A YouTuber Debunked Donut Lab's Solid State Claims. It Reveals Something Huge About Lithium Batteries",
+          "link": "https://insideevs.com/news/798393/donut-lab-solid-state-debunked-lithium-ion-battery/",
+          "source": "InsideEVs",
+          "published": "2026-06-11T00:44:41+00:00"
+        },
+        {
+          "title": "GM is betting on battery cells that don’t use lithium",
+          "link": "https://electrek.co/2026/06/10/gm-sodium-ion-battery-peak-energy/",
+          "source": "Electrek",
+          "published": "2026-06-10T23:21:28+00:00"
+        },
         {
           "title": "Mercedes’ Smaller-Battery GLC EV Doesn’t Have A Range Problem",
           "link": "https://insideevs.com/news/798372/mercedes-glc-ev-small-battery/",
@@ -380,28 +398,10 @@
           "published": "2026-06-08T15:47:31+00:00"
         },
         {
-          "title": "This Used Audi E-Tron Lost A Fortune. Its Battery Held Up Much Better",
-          "link": "https://insideevs.com/news/798060/audi-e-tron-battery-test/",
-          "source": "InsideEVs",
-          "published": "2026-06-08T11:31:33+00:00"
-        },
-        {
-          "title": "Waymo Sending Used EV Batteries to Community Clean Energy",
-          "link": "https://cleantechnica.com/2026/06/07/waymo-sending-used-ev-batteries-to-community-clean-energy/",
-          "source": "CleanTechnica",
-          "published": "2026-06-07T14:28:11+00:00"
-        },
-        {
           "title": "New Danfoss hydraulic pump increases equipment runtime by 50%",
           "link": "https://electrek.co/2026/06/06/new-danfoss-hydraulic-pump-increases-equipment-runtime-by-50/",
           "source": "Electrek",
           "published": "2026-06-07T03:08:56+00:00"
-        },
-        {
-          "title": "CATL Developing 12,000 Wh Per Kg Lithium-Air Battery",
-          "link": "https://cleantechnica.com/2026/06/06/catl-developing-12000-wh-per-kg-lithium-air-battery/",
-          "source": "CleanTechnica",
-          "published": "2026-06-06T19:21:59+00:00"
         },
         {
           "title": "T1 Energy buys KORE Power to cash in on the AI power boom",
@@ -462,12 +462,6 @@
           "link": "https://electrek.co/2026/06/03/caterpillar-bepu-makes-going-electric-as-easy-as-swapping-an-engine/",
           "source": "Electrek",
           "published": "2026-06-03T12:47:56+00:00"
-        },
-        {
-          "title": "Anker launches SOLIX S2000 power station + bundles starting from exclusive $598, EGO Z6 zero turn riding mower bundle new low, more",
-          "link": "https://electrek.co/2026/06/02/anker-solix-s2000-power-station-bundles-from-exclusive-598-ego-z6-zero-turn-riding-mower-more/",
-          "source": "Electrek",
-          "published": "2026-06-02T18:00:00+00:00"
         }
       ]
     },
@@ -689,10 +683,10 @@
       "count": 40,
       "items": [
         {
-          "title": "[AI&빅데이터쇼] S2W, 온톨로지로 AX부터 보안 관리까지…”국내 넘어 해외도 주목”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211584",
+          "title": "[6월10일] 시장은 실망했지만...전문가들이 WWDC를 다르게 평가한 이유",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211557",
           "source": "AI타임스",
-          "published": "2026-06-10T20:55:16+00:00"
+          "published": "2026-06-11T07:00:00+00:00"
         },
         {
           "title": "Business World Model",
