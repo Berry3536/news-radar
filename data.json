@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-06-11T20:21:57.099408+00:00",
+  "generated_at": "2026-06-12T03:41:39.826188+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Solid-state batteries are now powering EVs in the real world",
+          "link": "https://electrek.co/2026/06/11/solid-state-batteries-now-powering-evs-in-real-world/",
+          "source": "Electrek",
+          "published": "2026-06-12T00:38:04+00:00"
+        },
+        {
+          "title": "The Chevy Equinox EV is suddenly way more expensive to lease at over $500 a month",
+          "link": "https://electrek.co/2026/06/11/chevy-equinox-ev-more-expensive-to-lease-over-500-mo/",
+          "source": "Electrek",
+          "published": "2026-06-11T21:13:03+00:00"
+        },
+        {
+          "title": "Gummys go green as HARIBO turns to electric semi trucks",
+          "link": "https://electrek.co/2026/06/11/gummys-go-green-as-haribo-turns-to-electric-semi-trucks/",
+          "source": "Electrek",
+          "published": "2026-06-11T21:04:01+00:00"
+        },
+        {
+          "title": "Georgia is about to have the biggest solar cell factory in US history",
+          "link": "https://electrek.co/2026/06/11/georgia-is-about-to-have-the-biggest-solar-cell-factory-in-us-history/",
+          "source": "Electrek",
+          "published": "2026-06-11T20:54:01+00:00"
+        },
+        {
+          "title": "I Drove The Revived Chevy Bolt. Here Are 4 Pros And 2 Cons",
+          "link": "https://insideevs.com/reviews/798504/chevy-bolt-2027-review-pros-cons/",
+          "source": "InsideEVs",
+          "published": "2026-06-11T20:32:32+00:00"
+        },
         {
           "title": "This Dodge Charger EV Prototype Packs An Experimental Semi-Solid-State Battery",
           "link": "https://insideevs.com/news/798496/dodge-charger-daytona-ev-solid-state-battery/",
@@ -83,12 +113,6 @@
           "link": "https://insideevs.com/news/798397/pentagon-byd-largest-automaker-soon/",
           "source": "InsideEVs",
           "published": "2026-06-11T15:08:43+00:00"
-        },
-        {
-          "title": "Solid-state EV batteries are getting real as on-road testing begins in North America",
-          "link": "https://electrek.co/2026/06/11/solid-state-ev-batteries-leave-lab-north-american-road-tests-begin/",
-          "source": "Electrek",
-          "published": "2026-06-11T14:39:32+00:00"
         },
         {
           "title": "Xiaomi gets approval to build extended-range EVs, plans full-size SUV to rival Li Auto",
@@ -221,30 +245,6 @@
           "link": "https://electrek.co/2026/06/10/tezeus-c8-review-this-light-sleek-european-commuter-e-bike-gets-a-lot-right/",
           "source": "Electrek",
           "published": "2026-06-10T08:41:06+00:00"
-        },
-        {
-          "title": "BMW Has Already Sold Over 10,000 iX3 EVs",
-          "link": "https://insideevs.com/news/798300/bmw-ix3-sales-europe-april/",
-          "source": "InsideEVs",
-          "published": "2026-06-10T07:54:12+00:00"
-        },
-        {
-          "title": "Solar + storage keeps winning so much in the US power race",
-          "link": "https://electrek.co/2026/06/09/solar-storage-keeps-winning-so-much-us-power-race/",
-          "source": "Electrek",
-          "published": "2026-06-10T04:02:00+00:00"
-        },
-        {
-          "title": "Solar beats coal in the US electricity mix for the first month ever",
-          "link": "https://electrek.co/2026/06/09/solar-beats-coal-in-the-us-electricity-mix-for-the-first-time-ever/",
-          "source": "Electrek",
-          "published": "2026-06-10T04:01:00+00:00"
-        },
-        {
-          "title": "GM becomes first automaker to partner with Redwood across full battery lifecycle",
-          "link": "https://electrek.co/2026/06/09/gm-first-automaker-redwood-materials-full-battery-lifecycle/",
-          "source": "Electrek",
-          "published": "2026-06-09T21:52:35+00:00"
         }
       ]
     },
@@ -253,6 +253,18 @@
       "label": "배터리",
       "count": 40,
       "items": [
+        {
+          "title": "Solid-state batteries are now powering EVs in the real world",
+          "link": "https://electrek.co/2026/06/11/solid-state-batteries-now-powering-evs-in-real-world/",
+          "source": "Electrek",
+          "published": "2026-06-12T00:38:04+00:00"
+        },
+        {
+          "title": "Georgia is about to have the biggest solar cell factory in US history",
+          "link": "https://electrek.co/2026/06/11/georgia-is-about-to-have-the-biggest-solar-cell-factory-in-us-history/",
+          "source": "Electrek",
+          "published": "2026-06-11T20:54:01+00:00"
+        },
         {
           "title": "This Dodge Charger EV Prototype Packs An Experimental Semi-Solid-State Battery",
           "link": "https://insideevs.com/news/798496/dodge-charger-daytona-ev-solid-state-battery/",
@@ -270,12 +282,6 @@
           "link": "https://insideevs.com/news/798481/gm-lmr-not-lpf-batteries/",
           "source": "InsideEVs",
           "published": "2026-06-11T16:47:47+00:00"
-        },
-        {
-          "title": "Solid-state EV batteries are getting real as on-road testing begins in North America",
-          "link": "https://electrek.co/2026/06/11/solid-state-ev-batteries-leave-lab-north-american-road-tests-begin/",
-          "source": "Electrek",
-          "published": "2026-06-11T14:39:32+00:00"
         },
         {
           "title": "Xiaomi gets approval to build extended-range EVs, plans full-size SUV to rival Li Auto",
@@ -408,12 +414,6 @@
           "link": "https://cleantechnica.com/2026/06/08/150-new-power-plants-the-cost-of-balancing-the-grid-if-the-eu-slashes-ev-targets/",
           "source": "CleanTechnica",
           "published": "2026-06-09T03:57:20+00:00"
-        },
-        {
-          "title": "US Clean Energy Can Now Power ~80 Million Homes!",
-          "link": "https://cleantechnica.com/2026/06/08/us-clean-energy-can-now-power-80-million-homes/",
-          "source": "CleanTechnica",
-          "published": "2026-06-08T23:56:05+00:00"
         },
         {
           "title": "Donut Lab’s ‘solid-state’ battery exposed as regular li-ion in damning investigation",
@@ -586,6 +586,12 @@
       "count": 22,
       "items": [
         {
+          "title": "Hello Robot is recognized by World Economic Forum as a tech pioneer",
+          "link": "https://www.therobotreport.com/hello-robot-is-recognized-by-world-economic-forum-as-a-tech-pioneer/",
+          "source": "The Robot Report",
+          "published": "2026-06-11T21:24:03+00:00"
+        },
+        {
           "title": "휴로틱스, ‘워리어플랫폼 세미나’서 피지컬 AI 발표…軍 관계자 ‘대호응’",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=46858",
           "source": "로봇신문",
@@ -700,12 +706,6 @@
           "published": "2026-06-04T20:21:33+00:00"
         },
         {
-          "title": "Proteus gets natural-language ability as Amazon expands European robot deployments",
-          "link": "https://www.therobotreport.com/proteus-gets-natural-language-ability-amazon-expands-europe-robot-deployments/",
-          "source": "The Robot Report",
-          "published": "2026-06-04T19:50:31+00:00"
-        },
-        {
           "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
           "link": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
           "source": "IEEE Spectrum",
@@ -725,10 +725,10 @@
       "count": 40,
       "items": [
         {
-          "title": "[AI&빅데이터쇼] 유니트리·애지봇·갤봇 총출동...중국 '빅3' 휴머노이드 전략은",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211632",
+          "title": "구글, 삼성과 차세대 TPU 생산 협력 논의...'2나노 공정' 타진",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211639",
           "source": "AI타임스",
-          "published": "2026-06-12T05:11:29+00:00"
+          "published": "2026-06-12T12:28:03+00:00"
         },
         {
           "title": "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference",
