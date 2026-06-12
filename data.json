@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T14:53:45.113969+00:00",
+  "generated_at": "2026-06-12T20:07:21.813871+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,46 @@
       "count": 40,
       "items": [
         {
+          "title": "Podcast: Rivian R2 first drive, BYD goes nuts on flash charging, Donut Lab’s miracle battery is dead, and more",
+          "link": "https://electrek.co/2026/06/12/podcast-rivian-r2-first-drive-byd-goes-nuts-on-flash-charging-donut-labs-miracle-battery-is-dead-and-more/",
+          "source": "Electrek",
+          "published": "2026-06-12T19:52:09+00:00"
+        },
+        {
+          "title": "BMW put the new iX3 through the paces, and it still drove 500 miles on a single charge",
+          "link": "https://electrek.co/2026/06/12/bmw-new-ix3-drove-500-miles/",
+          "source": "Electrek",
+          "published": "2026-06-12T18:20:32+00:00"
+        },
+        {
+          "title": "Anker SOLIX expanded 6,144Wh F3000 power station new $1,899 low, Heybike Ranger 3.0 Pro e-bike + Villain dirt bike lows, more",
+          "link": "https://electrek.co/2026/06/12/anker-solix-6144wh-f3000-power-station-heybike-ranger-3-0-pro-e-bike-villain-dirt-bike-lows-more/",
+          "source": "Electrek",
+          "published": "2026-06-12T18:00:00+00:00"
+        },
+        {
+          "title": "'I Want To Own It': What Engineering Explained's Jason Fenske Thought Of The Rivian R2",
+          "link": "https://insideevs.com/features/798610/rivian-r2-drive-impressions-jason-fenske-2026/",
+          "source": "InsideEVs",
+          "published": "2026-06-12T17:59:33+00:00"
+        },
+        {
           "title": "오만과 편견, 페라리 루체",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43913",
           "source": "모터그래프",
           "published": "2026-06-12T17:26:48+00:00"
+        },
+        {
+          "title": "BYD is about to launch this full-size luxury electric sedan with over 1,000 km of range",
+          "link": "https://electrek.co/2026/06/12/byd-launch-luxury-ev-sedan-with-1000-km-range/",
+          "source": "Electrek",
+          "published": "2026-06-12T16:43:45+00:00"
+        },
+        {
+          "title": "BMW’s menacing new EV concept offers an early look at the first electric M3 [Images]",
+          "link": "https://electrek.co/2026/06/12/bmws-menacing-ev-concept-reveals-m3-ev-design-images/",
+          "source": "Electrek",
+          "published": "2026-06-12T14:57:21+00:00"
         },
         {
           "title": "Xiaomi delivers on Tesla’s decade-old robot charger vision with new home robotic arm",
@@ -19,7 +55,7 @@
           "published": "2026-06-12T13:11:54+00:00"
         },
         {
-          "title": "BMW’s Neue Klasse M Concept Reveals The M3 EV's Look, Not Its Secrets",
+          "title": "The Electric BMW M3 Is Coming. Here's What It Might Look Like",
           "link": "https://insideevs.com/news/798551/bmw-m3-ev-concept-reveal/",
           "source": "InsideEVs",
           "published": "2026-06-12T13:00:00+00:00"
@@ -67,7 +103,7 @@
           "published": "2026-06-11T20:54:01+00:00"
         },
         {
-          "title": "I Drove The Revived Chevy Bolt. Here Are 4 Pros And 2 Cons",
+          "title": "I Drove The 2027 Chevy Bolt. I Loved All The Storage Space But Its Cheap-Feeling Interior Was Underwhelming",
           "link": "https://insideevs.com/reviews/798504/chevy-bolt-2027-review-pros-cons/",
           "source": "InsideEVs",
           "published": "2026-06-11T20:32:32+00:00"
@@ -209,42 +245,6 @@
           "link": "https://electrek.co/2026/06/10/kia-ev2-delivers-105-of-official-range-estimate-in-real-world/",
           "source": "Electrek",
           "published": "2026-06-10T18:52:40+00:00"
-        },
-        {
-          "title": "‘This Is The Biggest Fear For Me’: Toyota Chairman Admits He Isn’t Ready For The Electric Future",
-          "link": "https://insideevs.com/features/798375/akio-toyoda-anti-ev/",
-          "source": "InsideEVs",
-          "published": "2026-06-10T18:40:00+00:00"
-        },
-        {
-          "title": "Ford’s $30,000 EV pickup was just spotted in the wild for the first time",
-          "link": "https://electrek.co/2026/06/10/fords-30000-ev-pickup-spotted-in-wild-first-time/",
-          "source": "Electrek",
-          "published": "2026-06-10T18:33:47+00:00"
-        },
-        {
-          "title": "Anker’s massive SOLIX Early Prime Day power station deals + exclusive bonus savings from $129, Ride1Up Portola e-bike, more",
-          "link": "https://electrek.co/2026/06/10/anker-solix-early-prime-day-power-station-deals-from-129-ride1up-portola-e-bike-more/",
-          "source": "Electrek",
-          "published": "2026-06-10T18:00:00+00:00"
-        },
-        {
-          "title": "Tesla Apparently Won't Let Cybertruck Buyers Transfer FSD Without Spending Another $20k",
-          "link": "https://insideevs.com/news/798281/tesla-cybertruck-fsd-transfer-switcharoo/",
-          "source": "InsideEVs",
-          "published": "2026-06-10T17:36:33+00:00"
-        },
-        {
-          "title": "BYD is deploying 2.4x more charging power per month than Tesla",
-          "link": "https://electrek.co/2026/06/10/byd-coming-for-tesla-supercharger-network-1500-kw-flash-charging/",
-          "source": "Electrek",
-          "published": "2026-06-10T16:36:58+00:00"
-        },
-        {
-          "title": "This Tesla Model 3 Went Nearly 400 Miles In A Range Test, 30 More Than Its EPA Rating",
-          "link": "https://insideevs.com/news/798359/tesla-moldel-3-edmunds-range/",
-          "source": "InsideEVs",
-          "published": "2026-06-10T15:03:07+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 39,
       "items": [
+        {
+          "title": "Podcast: Rivian R2 first drive, BYD goes nuts on flash charging, Donut Lab’s miracle battery is dead, and more",
+          "link": "https://electrek.co/2026/06/12/podcast-rivian-r2-first-drive-byd-goes-nuts-on-flash-charging-donut-labs-miracle-battery-is-dead-and-more/",
+          "source": "Electrek",
+          "published": "2026-06-12T19:52:09+00:00"
+        },
         {
           "title": "Yet Another Red State Solar Cell Factory Will Drink Trump’s Milkshake",
           "link": "https://cleantechnica.com/2026/06/12/solar-cells-georgia-factory-qcells-domestic-content/",
@@ -392,12 +398,6 @@
           "published": "2026-06-09T21:52:35+00:00"
         },
         {
-          "title": "Largest Solar Cell Factory In USA Starts Production in Georgia",
-          "link": "https://cleantechnica.com/2026/06/09/largest-solar-cell-factory-in-usa-starts-production-in-georgia/",
-          "source": "CleanTechnica",
-          "published": "2026-06-09T21:19:48+00:00"
-        },
-        {
           "title": "General Motors Is Bringing Sodium-Ion Battery Production To America",
           "link": "https://insideevs.com/news/798154/general-motors-sodium-ion-battery-production/",
           "source": "InsideEVs",
@@ -492,8 +492,14 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 13,
+      "count": 14,
       "items": [
+        {
+          "title": "BMW’s menacing new EV concept offers an early look at the first electric M3 [Images]",
+          "link": "https://electrek.co/2026/06/12/bmws-menacing-ev-concept-reveals-m3-ev-design-images/",
+          "source": "Electrek",
+          "published": "2026-06-12T14:57:21+00:00"
+        },
         {
           "title": "BYD’s luxury EV roadster leaks with a tri-motor 1,500+ hp setup, and it’s headed overseas",
           "link": "https://electrek.co/2026/06/11/byds-luxury-ev-roadster-leaks-1500-hp-headed-overseas/",
@@ -577,13 +583,31 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 22,
+      "count": 23,
       "items": [
+        {
+          "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
+          "link": "https://spectrum.ieee.org/researcher-trains-robots-to-guess",
+          "source": "IEEE Spectrum",
+          "published": "2026-06-12T18:00:01+00:00"
+        },
         {
           "title": "나라삼양감속기, ‘STK 2026’서 내년 하모닉 감속기 양산 계획 밝혀",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=46877",
           "source": "로봇신문",
           "published": "2026-06-12T17:54:18+00:00"
+        },
+        {
+          "title": "Gatik to bring autonomous freight to PepsiCo’s North American supply chain",
+          "link": "https://www.therobotreport.com/gatik-brings-autonomous-freight-pepsico-north-american-supply-chain/",
+          "source": "The Robot Report",
+          "published": "2026-06-12T17:47:57+00:00"
+        },
+        {
+          "title": "Video Friday: Robotic Motion Discovery Reveals Unusual Behaviors",
+          "link": "https://spectrum.ieee.org/video-friday-humanoid-loco-manipulation",
+          "source": "IEEE Spectrum",
+          "published": "2026-06-12T17:00:02+00:00"
         },
         {
           "title": "Hello Robot is recognized by World Economic Forum as a tech pioneer",
@@ -694,22 +718,10 @@
           "published": "2026-06-05T12:30:04+00:00"
         },
         {
-          "title": "Can surgical robots fly? SS Innovations discusses challenges, solutions",
-          "link": "https://www.therobotreport.com/can-surgical-robots-fly-ss-innovations-discusses-challenges-solutions/",
-          "source": "The Robot Report",
-          "published": "2026-06-04T20:21:33+00:00"
-        },
-        {
           "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
           "link": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
           "source": "IEEE Spectrum",
           "published": "2026-05-31T13:00:01+00:00"
-        },
-        {
-          "title": "Video Friday: Extreme Omnidirectional Robot",
-          "link": "https://spectrum.ieee.org/video-friday-rabona-soccer",
-          "source": "IEEE Spectrum",
-          "published": "2026-05-29T17:00:01+00:00"
         }
       ]
     },
