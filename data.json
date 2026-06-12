@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T10:07:44.240448+00:00",
+  "generated_at": "2026-06-12T14:53:45.113969+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,30 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43913",
           "source": "모터그래프",
           "published": "2026-06-12T17:26:48+00:00"
+        },
+        {
+          "title": "Xiaomi delivers on Tesla’s decade-old robot charger vision with new home robotic arm",
+          "link": "https://electrek.co/2026/06/12/xiaomi-robotic-arm-ev-charger-tesla-snake-charger/",
+          "source": "Electrek",
+          "published": "2026-06-12T13:11:54+00:00"
+        },
+        {
+          "title": "BMW’s Neue Klasse M Concept Reveals The M3 EV's Look, Not Its Secrets",
+          "link": "https://insideevs.com/news/798551/bmw-m3-ev-concept-reveal/",
+          "source": "InsideEVs",
+          "published": "2026-06-12T13:00:00+00:00"
+        },
+        {
+          "title": "The Rivian R2 Is Now Shipping With A Rare Accessory The Competition Forgot Existed",
+          "link": "https://insideevs.com/news/798568/rivian-r2-rare-accessory/",
+          "source": "InsideEVs",
+          "published": "2026-06-12T12:47:14+00:00"
+        },
+        {
+          "title": "Non-bike bike gear tested: H2O Audio’s TRI 2 bone conduction headphones",
+          "link": "https://electrek.co/2026/06/12/non-bike-bike-gear-tested-h2o-audios-tri-2-bone-conduction-headphones/",
+          "source": "Electrek",
+          "published": "2026-06-12T10:15:35+00:00"
         },
         {
           "title": "Edmunds Has Owned A Volvo EX30 For A Year: ‘It’s Been Rough’",
@@ -221,38 +245,26 @@
           "link": "https://insideevs.com/news/798359/tesla-moldel-3-edmunds-range/",
           "source": "InsideEVs",
           "published": "2026-06-10T15:03:07+00:00"
-        },
-        {
-          "title": "BYD outsold Ford, and now it thinks it can catch Toyota as the world’s No. 1 automaker",
-          "link": "https://electrek.co/2026/06/10/byd-outsold-ford-thinks-it-can-catch-toyota-for-no-1/",
-          "source": "Electrek",
-          "published": "2026-06-10T14:27:20+00:00"
-        },
-        {
-          "title": "BYD threatens to sue Trump administration over Pentagon military list",
-          "link": "https://electrek.co/2026/06/10/byd-threatens-sue-trump-administration-pentagon-military-list/",
-          "source": "Electrek",
-          "published": "2026-06-10T13:52:46+00:00"
-        },
-        {
-          "title": "Electric equipment means MASSIVE fuel savings for this operator",
-          "link": "https://electrek.co/2026/06/10/electric-equipment-means-massive-fuel-savings-for-this-operator/",
-          "source": "Electrek",
-          "published": "2026-06-10T12:21:23+00:00"
-        },
-        {
-          "title": "Chrysler Recalls America’s Only Plug-In Hybrid Minivan, Tells Owners To Park Outside",
-          "link": "https://insideevs.com/news/798326/chrysler-pacifica-hybrid-recall-battery-fire/",
-          "source": "InsideEVs",
-          "published": "2026-06-10T10:49:30+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 40,
+      "count": 39,
       "items": [
+        {
+          "title": "Yet Another Red State Solar Cell Factory Will Drink Trump’s Milkshake",
+          "link": "https://cleantechnica.com/2026/06/12/solar-cells-georgia-factory-qcells-domestic-content/",
+          "source": "CleanTechnica",
+          "published": "2026-06-12T13:36:45+00:00"
+        },
+        {
+          "title": "CleanTechnica’s First Sustainability Expo & Electric Home Show",
+          "link": "https://cleantechnica.com/2026/06/12/cleantechnicas-first-sustainability-expo-electric-home-show/",
+          "source": "CleanTechnica",
+          "published": "2026-06-12T10:19:14+00:00"
+        },
         {
           "title": "Why GM Will Focus On Sodium-Ion Batteries For Energy Storage",
           "link": "https://cleantechnica.com/2026/06/11/why-gm-will-focus-on-sodium-ion-batteries-for-energy-storage/",
@@ -398,18 +410,6 @@
           "published": "2026-06-09T18:00:00+00:00"
         },
         {
-          "title": "Batteries Don’t Need To Electrify Every Ship To Reshape Shipping Fuels",
-          "link": "https://cleantechnica.com/2026/06/09/maritime-battery-electrification-fuel-demand/",
-          "source": "CleanTechnica",
-          "published": "2026-06-09T15:41:46+00:00"
-        },
-        {
-          "title": "Texas Scores A $357 Million Solar Factory As The War On Solar Flops",
-          "link": "https://cleantechnica.com/2026/06/09/solar-cells-new-factory-texas-us-hjt-toyo/",
-          "source": "CleanTechnica",
-          "published": "2026-06-09T12:14:26+00:00"
-        },
-        {
           "title": "Ukraine officially adopts new electric motorcycle for military use",
           "link": "https://electrek.co/2026/06/09/ukraine-officially-adopts-new-electric-motorcycle-for-military-use/",
           "source": "Electrek",
@@ -486,12 +486,6 @@
           "link": "https://electrek.co/2026/06/03/elm-microgrid-installs-battery-storage-in-its-hometown-video/",
           "source": "Electrek",
           "published": "2026-06-04T00:42:09+00:00"
-        },
-        {
-          "title": "Bluetti sale offers 3,014Wh Elite 300 power station with 350W solar panel + FREE 128Wh Elite 10 Mini for $1,567, Worx robot mowers, more",
-          "link": "https://electrek.co/2026/06/03/bluetti-3014wh-elite-300-power-station-350w-solar-panel-128wh-elite-10-mini-1567-worx-more/",
-          "source": "Electrek",
-          "published": "2026-06-03T18:00:00+00:00"
         }
       ]
     },
@@ -725,10 +719,10 @@
       "count": 40,
       "items": [
         {
-          "title": "퍼플렉시티, '딥 리서치'를 '컴퓨터' 플랫폼에 통합...\"성능 2배 향상\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211670",
+          "title": "MS, AI 에이전트 '스킬' 자동 수정 기술 공개...\"성능 23.5% 향상\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211674",
           "source": "AI타임스",
-          "published": "2026-06-12T18:55:35+00:00"
+          "published": "2026-06-12T19:05:54+00:00"
         },
         {
           "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
