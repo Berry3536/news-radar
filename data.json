@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-06-13T13:54:35.713462+00:00",
+  "generated_at": "2026-06-13T19:22:11.553008+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Electric rally car revival continues with new, 280 hp Peugeot E-208 GTi",
+          "link": "https://electrek.co/2026/06/13/electric-rally-car-revival-continues-with-new-280-hp-peugeot-e-208-gti/",
+          "source": "Electrek",
+          "published": "2026-06-13T14:56:36+00:00"
+        },
         {
           "title": "Super-sized slot cars: these HD electric machines NEVER need plugged in",
           "link": "https://electrek.co/2026/06/13/super-sized-slot-cars-these-hd-electric-machines-never-need-plugged-in/",
@@ -31,7 +37,7 @@
           "published": "2026-06-13T11:30:00+00:00"
         },
         {
-          "title": "EVs Are Cleaner Than Gas Cars. Your ZIP Code Decides By How Much",
+          "title": "Yes, EVs Really Are Cleaner Than Gas Cars. Here's By How Much",
           "link": "https://insideevs.com/features/798615/evs-cleaner-than-gas-cars/",
           "source": "InsideEVs",
           "published": "2026-06-13T11:00:00+00:00"
@@ -85,7 +91,7 @@
           "published": "2026-06-12T18:00:00+00:00"
         },
         {
-          "title": "'I Want To Own It': What Engineering Explained's Jason Fenske Thought Of The Rivian R2",
+          "title": "'Really Impressed': Engineering Explained's Jason Fenske On Rivian R2",
           "link": "https://insideevs.com/features/798610/rivian-r2-drive-impressions-jason-fenske-2026/",
           "source": "InsideEVs",
           "published": "2026-06-12T17:59:33+00:00"
@@ -239,19 +245,13 @@
           "link": "https://electrek.co/2026/06/11/xiaomi-extended-range-suv-skynomad-erev-regulatory-approval/",
           "source": "Electrek",
           "published": "2026-06-11T13:17:12+00:00"
-        },
-        {
-          "title": "Specialized launches Turbo Levo 4 X, a full-suspension off-road cargo e-bike",
-          "link": "https://electrek.co/2026/06/11/specialized-launches-turbo-levo-4-x-a-full-suspension-off-road-cargo-e-bike/",
-          "source": "Electrek",
-          "published": "2026-06-11T11:13:30+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 35,
+      "count": 34,
       "items": [
         {
           "title": "Sodium Batteries And EVs That Power The Grid: Inside GM's Big Energy Push",
@@ -266,7 +266,7 @@
           "published": "2026-06-13T03:57:48+00:00"
         },
         {
-          "title": "UK Sprints Forward With Grid Connections for 700 Clean Energy Projects",
+          "title": "UK Sprints Forward With Grid Connections For 700 Clean Energy Projects",
           "link": "https://cleantechnica.com/2026/06/12/uk-sprints-forward-with-grid-connections-for-700-clean-energy-projects/",
           "source": "CleanTechnica",
           "published": "2026-06-13T03:55:43+00:00"
@@ -372,12 +372,6 @@
           "link": "https://electrek.co/2026/06/10/anker-solix-early-prime-day-power-station-deals-from-129-ride1up-portola-e-bike-more/",
           "source": "Electrek",
           "published": "2026-06-10T18:00:00+00:00"
-        },
-        {
-          "title": "Electric Airplane Powered By Solid-State Batteries Completes Test Flight",
-          "link": "https://cleantechnica.com/2026/06/10/electric-airplane-powered-by-solid-state-batteries-completes-test-flight/",
-          "source": "CleanTechnica",
-          "published": "2026-06-10T15:20:15+00:00"
         },
         {
           "title": "Electric equipment means MASSIVE fuel savings for this operator",
