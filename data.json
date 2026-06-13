@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-06-12T20:07:21.813871+00:00",
+  "generated_at": "2026-06-13T03:30:19.737968+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Shell could walk away from offshore wind in $1 billion+ sell-off",
+          "link": "https://electrek.co/2026/06/12/shell-could-walk-away-from-offshore-wind-in-1-billion-sell-off/",
+          "source": "Electrek",
+          "published": "2026-06-12T22:03:49+00:00"
+        },
+        {
+          "title": "The Chevy Equinox EV is now way more expensive to lease, but the Bolt is a bit cheaper",
+          "link": "https://electrek.co/2026/06/12/chevy-equinox-ev-more-expensive-lease-bolt-cheaper/",
+          "source": "Electrek",
+          "published": "2026-06-12T22:02:57+00:00"
+        },
+        {
+          "title": "The Rivian R2 Is Finally Here. The CEO Just Shared When To Expect More Models",
+          "link": "https://insideevs.com/news/798608/rivian-r2-r3-r2t-timeline/",
+          "source": "InsideEVs",
+          "published": "2026-06-12T21:42:12+00:00"
+        },
+        {
+          "title": "Toyota opens orders for its first body-on-frame EV pickup, starting at under $60,000",
+          "link": "https://electrek.co/2026/06/12/toyota-opens-orders-first-body-on-frame-ev-under-60000/",
+          "source": "Electrek",
+          "published": "2026-06-12T21:00:00+00:00"
+        },
         {
           "title": "Podcast: Rivian R2 first drive, BYD goes nuts on flash charging, Donut Lab’s miracle battery is dead, and more",
           "link": "https://electrek.co/2026/06/12/podcast-rivian-r2-first-drive-byd-goes-nuts-on-flash-charging-donut-labs-miracle-battery-is-dead-and-more/",
@@ -83,12 +107,6 @@
           "link": "https://electrek.co/2026/06/11/solid-state-batteries-now-powering-evs-in-real-world/",
           "source": "Electrek",
           "published": "2026-06-12T00:38:04+00:00"
-        },
-        {
-          "title": "The Chevy Equinox EV is suddenly way more expensive to lease at over $500 a month",
-          "link": "https://electrek.co/2026/06/11/chevy-equinox-ev-more-expensive-to-lease-over-500-mo/",
-          "source": "Electrek",
-          "published": "2026-06-11T21:13:03+00:00"
         },
         {
           "title": "Gummys go green as HARIBO turns to electric semi trucks",
@@ -227,31 +245,13 @@
           "link": "https://electrek.co/2026/06/10/ev-sales-just-hit-their-best-month-since-federal-tax-credits-ended/",
           "source": "Electrek",
           "published": "2026-06-10T22:08:10+00:00"
-        },
-        {
-          "title": "Mercedes’ Smaller-Battery GLC EV Doesn’t Have A Range Problem",
-          "link": "https://insideevs.com/news/798372/mercedes-glc-ev-small-battery/",
-          "source": "InsideEVs",
-          "published": "2026-06-10T19:51:40+00:00"
-        },
-        {
-          "title": "Lucid's Top Engineer Departs The EV Startup As New CEO Takes Over",
-          "link": "https://insideevs.com/news/798378/lucid-engineer-departs-emad-dlala-2026/",
-          "source": "InsideEVs",
-          "published": "2026-06-10T19:22:58+00:00"
-        },
-        {
-          "title": "Kia EV2 delivers 105% of its official range estimate in the real world, ranking #1 in class",
-          "link": "https://electrek.co/2026/06/10/kia-ev2-delivers-105-of-official-range-estimate-in-real-world/",
-          "source": "Electrek",
-          "published": "2026-06-10T18:52:40+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 39,
+      "count": 34,
       "items": [
         {
           "title": "Podcast: Rivian R2 first drive, BYD goes nuts on flash charging, Donut Lab’s miracle battery is dead, and more",
@@ -380,28 +380,10 @@
           "published": "2026-06-10T01:49:34+00:00"
         },
         {
-          "title": "GM Energy Pass: One Universal Interface For Public Charging",
-          "link": "https://cleantechnica.com/2026/06/09/gm-energy-pass-one-universal-interface-for-public-charging/",
-          "source": "CleanTechnica",
-          "published": "2026-06-10T01:03:08+00:00"
-        },
-        {
-          "title": "GM Activates Vehicle To Grid (V2G) Capability For Existing Customers, With No New Hardware Required",
-          "link": "https://cleantechnica.com/2026/06/09/gm-activates-vehicle-to-grid-v2g-capability-for-existing-customers-with-no-new-hardware-required/",
-          "source": "CleanTechnica",
-          "published": "2026-06-10T00:23:21+00:00"
-        },
-        {
           "title": "GM becomes first automaker to partner with Redwood across full battery lifecycle",
           "link": "https://electrek.co/2026/06/09/gm-first-automaker-redwood-materials-full-battery-lifecycle/",
           "source": "Electrek",
           "published": "2026-06-09T21:52:35+00:00"
-        },
-        {
-          "title": "General Motors Is Bringing Sodium-Ion Battery Production To America",
-          "link": "https://insideevs.com/news/798154/general-motors-sodium-ion-battery-production/",
-          "source": "InsideEVs",
-          "published": "2026-06-09T21:01:00+00:00"
         },
         {
           "title": "Jackery Early Prime Day power station sale with up to 65% off + up to 10% bonus savings, Beatbot robot pool cleaner lows, more",
@@ -474,25 +456,13 @@
           "link": "https://electrek.co/2026/06/04/nissan-solid-state-ev-battery-project-aims-for-cheaper-than-china/",
           "source": "Electrek",
           "published": "2026-06-04T17:26:33+00:00"
-        },
-        {
-          "title": "Waymo’s retired robotaxi batteries are heading back to work",
-          "link": "https://electrek.co/2026/06/04/waymo-retired-robotaxi-batteries-are-heading-back-to-work-b2u/",
-          "source": "Electrek",
-          "published": "2026-06-04T11:00:00+00:00"
-        },
-        {
-          "title": "ELM MicroGrid installs battery storage in its hometown [video]",
-          "link": "https://electrek.co/2026/06/03/elm-microgrid-installs-battery-storage-in-its-hometown-video/",
-          "source": "Electrek",
-          "published": "2026-06-04T00:42:09+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 14,
+      "count": 13,
       "items": [
         {
           "title": "BMW’s menacing new EV concept offers an early look at the first electric M3 [Images]",
@@ -523,12 +493,6 @@
           "link": "https://electrek.co/2026/06/09/gm-first-automaker-redwood-materials-full-battery-lifecycle/",
           "source": "Electrek",
           "published": "2026-06-09T21:52:35+00:00"
-        },
-        {
-          "title": "General Motors Is Bringing Sodium-Ion Battery Production To America",
-          "link": "https://insideevs.com/news/798154/general-motors-sodium-ion-battery-production/",
-          "source": "InsideEVs",
-          "published": "2026-06-09T21:01:00+00:00"
         },
         {
           "title": "Harley’s LiveWire reveals surprisingly low pricing on new S4 electric motorcycles",
@@ -585,6 +549,24 @@
       "label": "로봇",
       "count": 23,
       "items": [
+        {
+          "title": "AI in Warehousing: Akash Gupta’s vision for the future",
+          "link": "https://www.therobotreport.com/ai-in-warehousing-akash-guptas-vision-for-the-future/",
+          "source": "The Robot Report",
+          "published": "2026-06-12T23:58:15+00:00"
+        },
+        {
+          "title": "MassRobotics announces the winners of 2026 Robotics Medal and Rising Star awards",
+          "link": "https://www.therobotreport.com/massrobotics-announces-winners-2026-robotics-medal-rising-star-awards/",
+          "source": "The Robot Report",
+          "published": "2026-06-12T21:46:47+00:00"
+        },
+        {
+          "title": "Robotics Summit panel explores the state of humanoid robot design",
+          "link": "https://www.therobotreport.com/robotics-summit-panel-explores-state-humanoid-robot-design/",
+          "source": "The Robot Report",
+          "published": "2026-06-12T20:40:37+00:00"
+        },
         {
           "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
           "link": "https://spectrum.ieee.org/researcher-trains-robots-to-guess",
@@ -694,28 +676,10 @@
           "published": "2026-06-06T12:30:12+00:00"
         },
         {
-          "title": "Why deterministic real-time systems are more critical than ever in robotics",
-          "link": "https://www.therobotreport.com/qnx-why-deterministic-real-time-systems-are-more-critical-than-ever-robotics/",
-          "source": "The Robot Report",
-          "published": "2026-06-05T18:49:11+00:00"
-        },
-        {
-          "title": "GENISOM AI debuts deployable robotics platforms at ICRA 2026",
-          "link": "https://www.therobotreport.com/genisom-ai-debuts-deployable-robotics-platforms-icra-2026/",
-          "source": "The Robot Report",
-          "published": "2026-06-05T15:30:40+00:00"
-        },
-        {
           "title": "Video Friday: Watch This Running Robot Not Fall Down Stairs",
           "link": "https://spectrum.ieee.org/video-friday-humanoid-robot-running",
           "source": "IEEE Spectrum",
           "published": "2026-06-05T15:30:01+00:00"
-        },
-        {
-          "title": "Mitsubishi Electric opens Serendie Street Boston digital transformation hub",
-          "link": "https://www.therobotreport.com/mitsubishi-electric-opens-serendie-street-boston-digital-transformation-hub/",
-          "source": "The Robot Report",
-          "published": "2026-06-05T12:30:04+00:00"
         },
         {
           "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
@@ -731,10 +695,10 @@
       "count": 40,
       "items": [
         {
-          "title": "MS, AI 에이전트 '스킬' 자동 수정 기술 공개...\"성능 23.5% 향상\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211674",
+          "title": "메모리 반도체 키옥시아, 도요타 제치고 일본 시총 1위…올해만 670% 폭등",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211694",
           "source": "AI타임스",
-          "published": "2026-06-12T19:05:54+00:00"
+          "published": "2026-06-13T12:18:56+00:00"
         },
         {
           "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
