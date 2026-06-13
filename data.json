@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-06-13T08:54:59.603715+00:00",
+  "generated_at": "2026-06-13T13:54:35.713462+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Super-sized slot cars: these HD electric machines NEVER need plugged in",
+          "link": "https://electrek.co/2026/06/13/super-sized-slot-cars-these-hd-electric-machines-never-need-plugged-in/",
+          "source": "Electrek",
+          "published": "2026-06-13T13:48:56+00:00"
+        },
+        {
+          "title": "Dig it: mine goes 155 consecutive hours on 100% renewable energy",
+          "link": "https://electrek.co/2026/06/13/dig-it-mine-goes-155-consecutive-hours-on-100-renewable-energy/",
+          "source": "Electrek",
+          "published": "2026-06-13T12:38:59+00:00"
+        },
+        {
+          "title": "This Simple Trick Boosted My Plug-In Hybrid's Fuel Economy To 50 MPG",
+          "link": "https://insideevs.com/features/798337/phev-fuel-economy-boost-driving-behavior/",
+          "source": "InsideEVs",
+          "published": "2026-06-13T12:00:00+00:00"
+        },
+        {
+          "title": "Sodium Batteries And EVs That Power The Grid: Inside GM's Big Energy Push",
+          "link": "https://insideevs.com/news/798630/gm-sodium-ion-battery-vehicle-to-grid-tech/",
+          "source": "InsideEVs",
+          "published": "2026-06-13T11:30:00+00:00"
+        },
+        {
+          "title": "EVs Are Cleaner Than Gas Cars. Your ZIP Code Decides By How Much",
+          "link": "https://insideevs.com/features/798615/evs-cleaner-than-gas-cars/",
+          "source": "InsideEVs",
+          "published": "2026-06-13T11:00:00+00:00"
+        },
+        {
+          "title": "This electric car company just produced its one millionth electric motorcycle",
+          "link": "https://electrek.co/2026/06/13/this-electric-car-company-just-produced-its-one-millionth-electric-motorcycle/",
+          "source": "Electrek",
+          "published": "2026-06-13T10:50:56+00:00"
+        },
         {
           "title": "Shell could walk away from offshore wind in $1 billion+ sell-off",
           "link": "https://electrek.co/2026/06/12/shell-could-walk-away-from-offshore-wind-in-1-billion-sell-off/",
@@ -209,42 +245,6 @@
           "link": "https://electrek.co/2026/06/11/specialized-launches-turbo-levo-4-x-a-full-suspension-off-road-cargo-e-bike/",
           "source": "Electrek",
           "published": "2026-06-11T11:13:30+00:00"
-        },
-        {
-          "title": "BYD Is Bringing Thousands Of 5-Minute EV Chargers To Europe—And Canada Is Next",
-          "link": "https://insideevs.com/news/798421/byd-5-minute-ev-chargers-europe-canada/",
-          "source": "InsideEVs",
-          "published": "2026-06-11T08:14:51+00:00"
-        },
-        {
-          "title": "The BMW iX3 Just Drove Over 500 Miles In A Demanding Real-World Range Test",
-          "link": "https://insideevs.com/news/798417/bmw-ix3-500-miles-real-world-range-test/",
-          "source": "InsideEVs",
-          "published": "2026-06-11T07:42:30+00:00"
-        },
-        {
-          "title": "A YouTuber Debunked Donut Lab's Solid State Claims. It Reveals Something Huge About Lithium Batteries",
-          "link": "https://insideevs.com/news/798393/donut-lab-solid-state-debunked-lithium-ion-battery/",
-          "source": "InsideEVs",
-          "published": "2026-06-11T00:44:41+00:00"
-        },
-        {
-          "title": "GM is betting on battery cells that don’t use lithium",
-          "link": "https://electrek.co/2026/06/10/gm-sodium-ion-battery-peak-energy/",
-          "source": "Electrek",
-          "published": "2026-06-10T23:21:28+00:00"
-        },
-        {
-          "title": "BYD is bringing its 5-min ‘Flash’ electric car charging to Canada",
-          "link": "https://electrek.co/2026/06/10/byd-flash-charging-canada-5-minute-ev-charging-network/",
-          "source": "Electrek",
-          "published": "2026-06-10T23:04:12+00:00"
-        },
-        {
-          "title": "EV sales just hit their best month since federal tax credits ended",
-          "link": "https://electrek.co/2026/06/10/ev-sales-just-hit-their-best-month-since-federal-tax-credits-ended/",
-          "source": "Electrek",
-          "published": "2026-06-10T22:08:10+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 35,
       "items": [
+        {
+          "title": "Sodium Batteries And EVs That Power The Grid: Inside GM's Big Energy Push",
+          "link": "https://insideevs.com/news/798630/gm-sodium-ion-battery-vehicle-to-grid-tech/",
+          "source": "InsideEVs",
+          "published": "2026-06-13T11:30:00+00:00"
+        },
         {
           "title": "Most Efficient Solar Module in the World — New Record",
           "link": "https://cleantechnica.com/2026/06/12/most-efficient-solar-module-in-the-world-new-record/",
@@ -380,12 +386,6 @@
           "published": "2026-06-10T12:21:23+00:00"
         },
         {
-          "title": "Chrysler Recalls America’s Only Plug-In Hybrid Minivan, Tells Owners To Park Outside",
-          "link": "https://insideevs.com/news/798326/chrysler-pacifica-hybrid-recall-battery-fire/",
-          "source": "InsideEVs",
-          "published": "2026-06-10T10:49:30+00:00"
-        },
-        {
           "title": "GM becomes first automaker to partner with Redwood across full battery lifecycle",
           "link": "https://electrek.co/2026/06/09/gm-first-automaker-redwood-materials-full-battery-lifecycle/",
           "source": "Electrek",
@@ -468,8 +468,20 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 13,
+      "count": 14,
       "items": [
+        {
+          "title": "Sodium Batteries And EVs That Power The Grid: Inside GM's Big Energy Push",
+          "link": "https://insideevs.com/news/798630/gm-sodium-ion-battery-vehicle-to-grid-tech/",
+          "source": "InsideEVs",
+          "published": "2026-06-13T11:30:00+00:00"
+        },
+        {
+          "title": "This electric car company just produced its one millionth electric motorcycle",
+          "link": "https://electrek.co/2026/06/13/this-electric-car-company-just-produced-its-one-millionth-electric-motorcycle/",
+          "source": "Electrek",
+          "published": "2026-06-13T10:50:56+00:00"
+        },
         {
           "title": "BMW’s menacing new EV concept offers an early look at the first electric M3 [Images]",
           "link": "https://electrek.co/2026/06/12/bmws-menacing-ev-concept-reveals-m3-ev-design-images/",
@@ -541,20 +553,26 @@
           "link": "https://electrek.co/2026/06/04/bmws-new-ix3-drove-485-miles-longest-range-ev-naf-test/",
           "source": "Electrek",
           "published": "2026-06-04T14:26:10+00:00"
-        },
-        {
-          "title": "From iPhone to an electric SUV that sprints to 60 mph in 3.8 sec., Foxconn makes it",
-          "link": "https://electrek.co/2026/06/04/from-iphone-to-an-electric-suv-that-sprints-to-60-mph-in-3-8-sec-foxconn-makes-it/",
-          "source": "Electrek",
-          "published": "2026-06-04T11:34:24+00:00"
         }
       ]
     },
     {
       "key": "robot",
       "label": "로봇",
-      "count": 23,
+      "count": 24,
       "items": [
+        {
+          "title": "Visual Language Models Train Robots to Read Human Emotions",
+          "link": "https://spectrum.ieee.org/robot-emotions-visual-language-models",
+          "source": "IEEE Spectrum",
+          "published": "2026-06-13T13:00:01+00:00"
+        },
+        {
+          "title": "Windows for robots: Edge AI expands usability",
+          "link": "https://www.therobotreport.com/computers-software-windows-utility-robots/",
+          "source": "The Robot Report",
+          "published": "2026-06-13T12:30:52+00:00"
+        },
         {
           "title": "AI in warehousing: Akash Gupta’s vision for the future",
           "link": "https://www.therobotreport.com/ai-in-warehousing-akash-guptas-vision-for-the-future/",
@@ -676,12 +694,6 @@
           "published": "2026-06-07T12:30:50+00:00"
         },
         {
-          "title": "Robots can enhance manufacturing workers rather than replace them",
-          "link": "https://www.therobotreport.com/robots-can-enhance-manufacturing-workers-rather-than-replace-them/",
-          "source": "The Robot Report",
-          "published": "2026-06-06T12:30:12+00:00"
-        },
-        {
           "title": "Video Friday: Watch This Running Robot Not Fall Down Stairs",
           "link": "https://spectrum.ieee.org/video-friday-humanoid-robot-running",
           "source": "IEEE Spectrum",
@@ -701,10 +713,10 @@
       "count": 1,
       "items": [
         {
-          "title": "메타, 사내 AI 비용 폭증에 '토큰 제한'…'토큰맥싱' 부작용 후속 조치",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211696",
+          "title": "[AI카툰] Bob, Senior IT guy - 밥, 다중인격에이전트",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211699",
           "source": "AI타임스",
-          "published": "2026-06-13T17:09:27+00:00"
+          "published": "2026-06-13T18:20:46+00:00"
         }
       ]
     }
