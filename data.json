@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-06-14T13:57:49.416657+00:00",
+  "generated_at": "2026-06-14T19:23:31.458397+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Survey Sunday: do you still believe in Elon Musk?",
+          "link": "https://electrek.co/2026/06/14/survey-sunday-do-you-still-believe-in-elon-musk/",
+          "source": "Electrek",
+          "published": "2026-06-14T18:30:00+00:00"
+        },
         {
           "title": "This Low-Mileage 2025 Tesla Model Y Lost A Lot Of Range Fast",
           "link": "https://insideevs.com/news/798648/model-y-serious-battery-degradation/",
@@ -239,19 +245,13 @@
           "link": "https://electrek.co/2026/06/11/arcbest-buys-tesla-semis-abf-freight-pilot/",
           "source": "Electrek",
           "published": "2026-06-11T15:59:46+00:00"
-        },
-        {
-          "title": "BYD's New Hybrid Hatchback Could Supercharge Its European Takeover",
-          "link": "https://insideevs.com/news/798473/byd-dolphin-g-phev-europe/",
-          "source": "InsideEVs",
-          "published": "2026-06-11T15:58:54+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 35,
+      "count": 33,
       "items": [
         {
           "title": "This Low-Mileage 2025 Tesla Model Y Lost A Lot Of Range Fast",
@@ -356,12 +356,6 @@
           "published": "2026-06-11T03:59:28+00:00"
         },
         {
-          "title": "VinFast Brings Battery-Swapping Electric Motorcycles To The Philippines",
-          "link": "https://cleantechnica.com/2026/06/10/vinfast-brings-battery-swapping-electric-motorcycles-to-the-philippines/",
-          "source": "CleanTechnica",
-          "published": "2026-06-11T01:48:20+00:00"
-        },
-        {
           "title": "A YouTuber Debunked Donut Lab's Solid State Claims. It Reveals Something Huge About Lithium Batteries",
           "link": "https://insideevs.com/news/798393/donut-lab-solid-state-debunked-lithium-ion-battery/",
           "source": "InsideEVs",
@@ -456,12 +450,6 @@
           "link": "https://electrek.co/2026/06/04/houston-solar-storage-electricity-bundle-6-cents-per-kwh/",
           "source": "Electrek",
           "published": "2026-06-04T19:42:36+00:00"
-        },
-        {
-          "title": "Jackery HomePower 3600 Plus power station exclusives from $1,399, EGO Select Cut Touch Drive mower $543 low, Segway, more",
-          "link": "https://electrek.co/2026/06/04/jackery-homepower-3600-plus-power-station-exclusives-ego-select-cut-touch-drive-mower-543-low-more/",
-          "source": "Electrek",
-          "published": "2026-06-04T18:00:00+00:00"
         }
       ]
     },
@@ -556,10 +544,16 @@
       "count": 23,
       "items": [
         {
-          "title": "美 톨로매틱, 유압시스템 대체할 첨단 액추에이터 소개",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46889",
+          "title": "AI 생존 지도 - 질문 자본가의 시대",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46892",
           "source": "로봇신문",
-          "published": "2026-06-14T20:13:38+00:00"
+          "published": "2026-06-14T23:55:39+00:00"
+        },
+        {
+          "title": "Modernizing the global economy with industrial robotics is needed but not inevitable",
+          "link": "https://www.therobotreport.com/modernizing-global-economy-industrial-robotics-needed-not-inevitable/",
+          "source": "The Robot Report",
+          "published": "2026-06-14T14:30:31+00:00"
         },
         {
           "title": "Visual Language Models Train Robots to Read Human Emotions",
@@ -680,12 +674,6 @@
           "link": "https://www.therobotreport.com/daimon-robotics-and-galbot-jointly-launches-robomni-for-benchmarking-tactile-perception-and-dexterous-manipulation/",
           "source": "The Robot Report",
           "published": "2026-06-08T14:16:34+00:00"
-        },
-        {
-          "title": "AGIBOT holds World Challenge 2026 to see how AI models perform on real tasks",
-          "link": "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/",
-          "source": "The Robot Report",
-          "published": "2026-06-07T12:30:50+00:00"
         },
         {
           "title": "Video Friday: Watch This Running Robot Not Fall Down Stairs",
