@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-06-13T19:22:11.553008+00:00",
+  "generated_at": "2026-06-14T03:47:18.041010+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Buried in negative equity? These EV deals can help get you out of that gas guzzler",
+          "link": "https://electrek.co/2026/06/13/buried-in-negative-equity-these-ev-deals-can-help-get-you-out-of-that-gas-guzzler/",
+          "source": "Electrek",
+          "published": "2026-06-14T00:08:59+00:00"
+        },
         {
           "title": "Electric rally car revival continues with new, 280 hp Peugeot E-208 GTi",
           "link": "https://electrek.co/2026/06/13/electric-rally-car-revival-continues-with-new-280-hp-peugeot-e-208-gti/",
@@ -239,20 +245,20 @@
           "link": "https://insideevs.com/news/798397/pentagon-byd-largest-automaker-soon/",
           "source": "InsideEVs",
           "published": "2026-06-11T15:08:43+00:00"
-        },
-        {
-          "title": "Xiaomi gets approval to build extended-range EVs, plans full-size SUV to rival Li Auto",
-          "link": "https://electrek.co/2026/06/11/xiaomi-extended-range-suv-skynomad-erev-regulatory-approval/",
-          "source": "Electrek",
-          "published": "2026-06-11T13:17:12+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 34,
+      "count": 35,
       "items": [
+        {
+          "title": "Fraunhofer Wants Solar Cells On Vehicles — To Help The Grid",
+          "link": "https://cleantechnica.com/2026/06/13/fraunhofer-wants-solar-cells-on-vehicles-to-help-the-grid/",
+          "source": "CleanTechnica",
+          "published": "2026-06-14T03:26:39+00:00"
+        },
         {
           "title": "Sodium Batteries And EVs That Power The Grid: Inside GM's Big Energy Push",
           "link": "https://insideevs.com/news/798630/gm-sodium-ion-battery-vehicle-to-grid-tech/",
@@ -462,7 +468,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 14,
+      "count": 13,
       "items": [
         {
           "title": "Sodium Batteries And EVs That Power The Grid: Inside GM's Big Energy Push",
@@ -541,12 +547,6 @@
           "link": "https://electrek.co/2026/06/04/audi-nuvolari-1001-hp-hybrid-supercar-v8-r8-successor/",
           "source": "Electrek",
           "published": "2026-06-04T18:40:07+00:00"
-        },
-        {
-          "title": "BMW’s new iX3 drove 485 miles on a single charge, the longest-range EV in NAF’s test",
-          "link": "https://electrek.co/2026/06/04/bmws-new-ix3-drove-485-miles-longest-range-ev-naf-test/",
-          "source": "Electrek",
-          "published": "2026-06-04T14:26:10+00:00"
         }
       ]
     },
@@ -707,10 +707,10 @@
       "count": 1,
       "items": [
         {
-          "title": "[AI카툰] Bob, Senior IT guy - 밥, 다중인격에이전트",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211699",
+          "title": "중국, 미 국방부 기술 기업 블랙리스트 조치에 “정상회담 합의 훼손” 반발",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211707",
           "source": "AI타임스",
-          "published": "2026-06-13T18:20:46+00:00"
+          "published": "2026-06-14T12:33:17+00:00"
         }
       ]
     }
