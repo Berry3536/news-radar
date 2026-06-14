@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-06-14T03:47:18.041010+00:00",
+  "generated_at": "2026-06-14T09:30:29.177681+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "This Low-Mileage 2025 Tesla Model Y Lost A Lot Of Range Fast",
+          "link": "https://insideevs.com/news/798648/model-y-serious-battery-degradation/",
+          "source": "InsideEVs",
+          "published": "2026-06-14T07:46:37+00:00"
+        },
+        {
+          "title": "Why pushback is growing against New Jersey’s crazy e-bike law",
+          "link": "https://electrek.co/2026/06/13/why-pushback-is-growing-against-new-jerseys-crazy-e-bike-law/",
+          "source": "Electrek",
+          "published": "2026-06-14T06:19:13+00:00"
+        },
         {
           "title": "Buried in negative equity? These EV deals can help get you out of that gas guzzler",
           "link": "https://electrek.co/2026/06/13/buried-in-negative-equity-these-ev-deals-can-help-get-you-out-of-that-gas-guzzler/",
@@ -233,18 +245,6 @@
           "link": "https://insideevs.com/news/798473/byd-dolphin-g-phev-europe/",
           "source": "InsideEVs",
           "published": "2026-06-11T15:58:54+00:00"
-        },
-        {
-          "title": "BMW’s new iX3 is off to a hot start with 10,000+ models sold, top-selling EV in its class",
-          "link": "https://electrek.co/2026/06/11/bmws-new-ix3-off-to-hot-start-sales-top-10000/",
-          "source": "Electrek",
-          "published": "2026-06-11T15:53:26+00:00"
-        },
-        {
-          "title": "BYD Says It Will Be The World's Largest Automaker In 5 Years. The Pentagon Is Nervous",
-          "link": "https://insideevs.com/news/798397/pentagon-byd-largest-automaker-soon/",
-          "source": "InsideEVs",
-          "published": "2026-06-11T15:08:43+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 35,
       "items": [
+        {
+          "title": "This Low-Mileage 2025 Tesla Model Y Lost A Lot Of Range Fast",
+          "link": "https://insideevs.com/news/798648/model-y-serious-battery-degradation/",
+          "source": "InsideEVs",
+          "published": "2026-06-14T07:46:37+00:00"
+        },
         {
           "title": "Fraunhofer Wants Solar Cells On Vehicles — To Help The Grid",
           "link": "https://cleantechnica.com/2026/06/13/fraunhofer-wants-solar-cells-on-vehicles-to-help-the-grid/",
@@ -456,12 +462,6 @@
           "link": "https://electrek.co/2026/06/04/jackery-homepower-3600-plus-power-station-exclusives-ego-select-cut-touch-drive-mower-543-low-more/",
           "source": "Electrek",
           "published": "2026-06-04T18:00:00+00:00"
-        },
-        {
-          "title": "Nissan joins new ‘Cheaper Than China’ solid-state EV battery project",
-          "link": "https://electrek.co/2026/06/04/nissan-solid-state-ev-battery-project-aims-for-cheaper-than-china/",
-          "source": "Electrek",
-          "published": "2026-06-04T17:26:33+00:00"
         }
       ]
     },
@@ -707,10 +707,10 @@
       "count": 1,
       "items": [
         {
-          "title": "중국, 미 국방부 기술 기업 블랙리스트 조치에 “정상회담 합의 훼손” 반발",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211707",
+          "title": "아티피셜 애널리시스, ‘딥SWE’ 벤치마크 도입...코딩 순위서 '페이블 5' 1위 등극",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211706",
           "source": "AI타임스",
-          "published": "2026-06-14T12:33:17+00:00"
+          "published": "2026-06-14T17:09:25+00:00"
         }
       ]
     }
