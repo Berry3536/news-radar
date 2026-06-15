@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-06-15T17:25:19.171512+00:00",
+  "generated_at": "2026-06-15T20:53:23.118887+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "BYD is taking its luxury electric GT on an over 9,300-mile trip from Europe to Asia",
+          "link": "https://electrek.co/2026/06/15/byd-taking-luxury-electric-gt-on-over-9300-mile-trip/",
+          "source": "Electrek",
+          "published": "2026-06-15T20:11:41+00:00"
+        },
+        {
+          "title": "Full Tesla Cybercab Specs: EPA Documents Confirm Battery Size, Weight, Power, And Preliminary Range",
+          "link": "https://insideevs.com/news/798790/tesla-cybercab-specs/",
+          "source": "InsideEVs",
+          "published": "2026-06-15T18:46:30+00:00"
+        },
+        {
+          "title": "Jackery 5,040Wh power station + 2x 500W solar panels new $3,905 low, Anker SOLIX exclusive flash sale deals from $569, Navee, more",
+          "link": "https://electrek.co/2026/06/15/jackery-5040wh-power-station-2x-500w-solar-panels-anker-solix-navee-more/",
+          "source": "Electrek",
+          "published": "2026-06-15T18:00:00+00:00"
+        },
+        {
+          "title": "BMW’s new iX3 is a range monster, but the iX5 may push past 500 miles",
+          "link": "https://electrek.co/2026/06/15/bmw-ix3-range-monster-ix5-may-top-500-miles/",
+          "source": "Electrek",
+          "published": "2026-06-15T17:53:27+00:00"
+        },
+        {
+          "title": "Tesla’s self-driving safeguards fooled by $30 doll heads",
+          "link": "https://electrek.co/2026/06/15/chinese-drivers-plastic-heads-fool-tesla-autopilot-camera/",
+          "source": "Electrek",
+          "published": "2026-06-15T17:37:05+00:00"
+        },
         {
           "title": "제네시스, 르망 하이퍼카 클래스 완주하며 새로운 이정표 세워",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43933",
@@ -215,44 +245,26 @@
           "link": "https://electrek.co/2026/06/12/byd-launch-luxury-ev-sedan-with-1000-km-range/",
           "source": "Electrek",
           "published": "2026-06-12T16:43:45+00:00"
-        },
-        {
-          "title": "BMW’s menacing new EV concept offers an early look at the first electric M3 [Images]",
-          "link": "https://electrek.co/2026/06/12/bmws-menacing-ev-concept-reveals-m3-ev-design-images/",
-          "source": "Electrek",
-          "published": "2026-06-12T14:57:21+00:00"
-        },
-        {
-          "title": "Xiaomi delivers on Tesla’s decade-old robot charger vision with new home robotic arm",
-          "link": "https://electrek.co/2026/06/12/xiaomi-robotic-arm-ev-charger-tesla-snake-charger/",
-          "source": "Electrek",
-          "published": "2026-06-12T13:11:54+00:00"
-        },
-        {
-          "title": "The Electric BMW M3 Is Coming. Here's What It Might Look Like",
-          "link": "https://insideevs.com/news/798551/bmw-m3-ev-concept-reveal/",
-          "source": "InsideEVs",
-          "published": "2026-06-12T13:00:00+00:00"
-        },
-        {
-          "title": "The Rivian R2 Is Now Shipping With A Rare Accessory The Competition Forgot Existed",
-          "link": "https://insideevs.com/news/798568/rivian-r2-rare-accessory/",
-          "source": "InsideEVs",
-          "published": "2026-06-12T12:47:14+00:00"
-        },
-        {
-          "title": "Non-bike bike gear tested: H2O Audio’s TRI 2 bone conduction headphones",
-          "link": "https://electrek.co/2026/06/12/non-bike-bike-gear-tested-h2o-audios-tri-2-bone-conduction-headphones/",
-          "source": "Electrek",
-          "published": "2026-06-12T10:15:35+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 31,
+      "count": 32,
       "items": [
+        {
+          "title": "Full Tesla Cybercab Specs: EPA Documents Confirm Battery Size, Weight, Power, And Preliminary Range",
+          "link": "https://insideevs.com/news/798790/tesla-cybercab-specs/",
+          "source": "InsideEVs",
+          "published": "2026-06-15T18:46:30+00:00"
+        },
+        {
+          "title": "BMW’s new iX3 is a range monster, but the iX5 may push past 500 miles",
+          "link": "https://electrek.co/2026/06/15/bmw-ix3-range-monster-ix5-may-top-500-miles/",
+          "source": "Electrek",
+          "published": "2026-06-15T17:53:27+00:00"
+        },
         {
           "title": "Tesla Cybercab full specs revealed: 3,113 lbs, 219 HP, 48 kWh",
           "link": "https://electrek.co/2026/06/15/tesla-cybercab-epa-specs-curb-weight-battery-motor-power/",
@@ -432,19 +444,13 @@
           "link": "https://electrek.co/2026/06/05/yozma-in-10-in-10-pro-electric-dirt-bikes-lectric-fathers-day-e-bike-sale-segway-navimow-more/",
           "source": "Electrek",
           "published": "2026-06-05T18:00:00+00:00"
-        },
-        {
-          "title": "Jason Momoa’s 1920s Harleys become electric hybrids in wildest EV conversions yet",
-          "link": "https://electrek.co/2026/06/05/jason-momoa-1920s-harleys-land-rovers-electric-conversion-electrogenic/",
-          "source": "Electrek",
-          "published": "2026-06-05T11:49:11+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 15,
+      "count": 14,
       "items": [
         {
           "title": "제네시스, 르망 하이퍼카 클래스 완주하며 새로운 이정표 세워",
@@ -529,12 +535,6 @@
           "link": "https://electrek.co/2026/06/06/new-danfoss-hydraulic-pump-increases-equipment-runtime-by-50/",
           "source": "Electrek",
           "published": "2026-06-07T03:08:56+00:00"
-        },
-        {
-          "title": "Jason Momoa’s 1920s Harleys become electric hybrids in wildest EV conversions yet",
-          "link": "https://electrek.co/2026/06/05/jason-momoa-1920s-harleys-land-rovers-electric-conversion-electrogenic/",
-          "source": "Electrek",
-          "published": "2026-06-05T11:49:11+00:00"
         }
       ]
     },
@@ -548,6 +548,12 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=46914",
           "source": "로봇신문",
           "published": "2026-06-15T23:09:29+00:00"
+        },
+        {
+          "title": "Autonomous freight developer Einride goes public via SPAC",
+          "link": "https://www.therobotreport.com/autonomous-freight-developer-einride-goes-public-via-spac/",
+          "source": "The Robot Report",
+          "published": "2026-06-15T17:27:57+00:00"
         },
         {
           "title": "Burro introduces Grande 44 with proven outdoor autonomy built for heavy industry",
@@ -668,12 +674,6 @@
           "link": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
           "source": "IEEE Spectrum",
           "published": "2026-06-09T12:00:02+00:00"
-        },
-        {
-          "title": "ACS raises $200M to scale autonomous counter-drone system",
-          "link": "https://www.therobotreport.com/allen-control-systems-raises-200m-for-autonomous-weapons-stations/",
-          "source": "The Robot Report",
-          "published": "2026-06-08T17:02:42+00:00"
         },
         {
           "title": "Video Friday: Watch This Running Robot Not Fall Down Stairs",
