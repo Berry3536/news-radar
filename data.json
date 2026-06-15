@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T11:59:28.610482+00:00",
+  "generated_at": "2026-06-15T17:25:19.171512+00:00",
   "categories": [
     {
       "key": "ev",
@@ -13,7 +13,61 @@
           "published": "2026-06-15T17:07:37+00:00"
         },
         {
-          "title": "Xiaomi Just Unveiled A Product Tesla Promised A Decade Ago But Never Delivered",
+          "title": "A Chinese Car Brand Says It Hired A Top Ferrari Designer. Ferrari Wants A Name",
+          "link": "https://insideevs.com/news/798584/luxeed-rx-ferrari-purosangue-connection/",
+          "source": "InsideEVs",
+          "published": "2026-06-15T16:53:22+00:00"
+        },
+        {
+          "title": "Tesla Cybercab full specs revealed: 3,113 lbs, 219 HP, 48 kWh",
+          "link": "https://electrek.co/2026/06/15/tesla-cybercab-epa-specs-curb-weight-battery-motor-power/",
+          "source": "Electrek",
+          "published": "2026-06-15T16:38:02+00:00"
+        },
+        {
+          "title": "The Xiaomi SU7 Made Me Understand How Xiaomi Conquered China",
+          "link": "https://insideevs.com/features/798764/xiaomi-su7-drive-wins-china/",
+          "source": "InsideEVs",
+          "published": "2026-06-15T16:20:33+00:00"
+        },
+        {
+          "title": "Ford has a ‘secret’ website for its $30,000 EV pickup, revealing a closer look",
+          "link": "https://electrek.co/2026/06/15/ford-has-a-secret-website-for-its-30000-electric-pickup/",
+          "source": "Electrek",
+          "published": "2026-06-15T16:13:53+00:00"
+        },
+        {
+          "title": "Kia’s electric van is about to get a big brother: Here’s our first look at the PV7 [Images]",
+          "link": "https://electrek.co/2026/06/15/kias-ev-van-getting-big-brother-first-look-pv7-images/",
+          "source": "Electrek",
+          "published": "2026-06-15T14:22:08+00:00"
+        },
+        {
+          "title": "Another Reason I Hate Pop-Out Door Handles: They Snitch On You To Thieves",
+          "link": "https://insideevs.com/features/798731/why-pop-out-door-handles-suck/",
+          "source": "InsideEVs",
+          "published": "2026-06-15T14:07:46+00:00"
+        },
+        {
+          "title": "Ariel Rider Kepler review: A big, safe, fat tire commuter e-bike with style",
+          "link": "https://electrek.co/2026/06/15/ariel-rider-kepler-review-a-big-safe-fat-tire-commuter-e-bike-with-style/",
+          "source": "Electrek",
+          "published": "2026-06-15T14:07:40+00:00"
+        },
+        {
+          "title": "Tesla presented misleading ‘Full Self-Driving’ safety data to European regulators",
+          "link": "https://electrek.co/2026/06/15/tesla-fsd-misleading-safety-data-european-regulators/",
+          "source": "Electrek",
+          "published": "2026-06-15T13:27:44+00:00"
+        },
+        {
+          "title": "A Rivian R1T Towed A Big Trailer 1,500 Miles. Despite The Range Loss, It Cost Less Than Gas",
+          "link": "https://insideevs.com/news/798734/rivian-r1t-towing-cost/",
+          "source": "InsideEVs",
+          "published": "2026-06-15T13:14:24+00:00"
+        },
+        {
+          "title": "Tesla's Wild Robotic Charging Arm Never Happened. Xiaomi Just Made It Reality",
           "link": "https://insideevs.com/news/798721/xiaomi-product-tesla-promised/",
           "source": "InsideEVs",
           "published": "2026-06-15T11:07:29+00:00"
@@ -191,68 +245,26 @@
           "link": "https://electrek.co/2026/06/12/non-bike-bike-gear-tested-h2o-audios-tri-2-bone-conduction-headphones/",
           "source": "Electrek",
           "published": "2026-06-12T10:15:35+00:00"
-        },
-        {
-          "title": "Edmunds Has Owned A Volvo EX30 For A Year: ‘It’s Been Rough’",
-          "link": "https://insideevs.com/news/798532/volvo-ex30-ownership-review-rough/",
-          "source": "InsideEVs",
-          "published": "2026-06-12T08:16:25+00:00"
-        },
-        {
-          "title": "Solid-state batteries are now powering EVs in the real world",
-          "link": "https://electrek.co/2026/06/11/solid-state-batteries-now-powering-evs-in-real-world/",
-          "source": "Electrek",
-          "published": "2026-06-12T00:38:04+00:00"
-        },
-        {
-          "title": "Gummys go green as HARIBO turns to electric semi trucks",
-          "link": "https://electrek.co/2026/06/11/gummys-go-green-as-haribo-turns-to-electric-semi-trucks/",
-          "source": "Electrek",
-          "published": "2026-06-11T21:04:01+00:00"
-        },
-        {
-          "title": "Georgia is about to have the biggest solar cell factory in US history",
-          "link": "https://electrek.co/2026/06/11/georgia-is-about-to-have-the-biggest-solar-cell-factory-in-us-history/",
-          "source": "Electrek",
-          "published": "2026-06-11T20:54:01+00:00"
-        },
-        {
-          "title": "I Drove The 2027 Chevy Bolt. I Loved All The Storage Space But Its Cheap-Feeling Interior Was Underwhelming",
-          "link": "https://insideevs.com/reviews/798504/chevy-bolt-2027-review-pros-cons/",
-          "source": "InsideEVs",
-          "published": "2026-06-11T20:32:32+00:00"
-        },
-        {
-          "title": "This Dodge Charger EV Prototype Packs An Experimental Semi-Solid-State Battery",
-          "link": "https://insideevs.com/news/798496/dodge-charger-daytona-ev-solid-state-battery/",
-          "source": "InsideEVs",
-          "published": "2026-06-11T19:35:49+00:00"
-        },
-        {
-          "title": "A huge Arkansas solar + storage project locks in $3.5B in financing",
-          "link": "https://electrek.co/2026/06/11/huge-arkansas-solar-storage-project-locks-in-3-5b-in-financing/",
-          "source": "Electrek",
-          "published": "2026-06-11T19:10:44+00:00"
-        },
-        {
-          "title": "BYD’s luxury EV roadster leaks with a tri-motor 1,500+ hp setup, and it’s headed overseas",
-          "link": "https://electrek.co/2026/06/11/byds-luxury-ev-roadster-leaks-1500-hp-headed-overseas/",
-          "source": "Electrek",
-          "published": "2026-06-11T18:57:26+00:00"
-        },
-        {
-          "title": "Bluetti exclusive Early Prime Day Elite 200 V2 power station $759, Navee G5 Max e-scooter $650 low, EGO electric mini bike, more",
-          "link": "https://electrek.co/2026/06/11/bluetti-prime-day-elite-200-v2-power-station-navee-g5-max-e-scooter-ego-electric-mini-bike-more/",
-          "source": "Electrek",
-          "published": "2026-06-11T18:00:00+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 33,
+      "count": 31,
       "items": [
+        {
+          "title": "Tesla Cybercab full specs revealed: 3,113 lbs, 219 HP, 48 kWh",
+          "link": "https://electrek.co/2026/06/15/tesla-cybercab-epa-specs-curb-weight-battery-motor-power/",
+          "source": "Electrek",
+          "published": "2026-06-15T16:38:02+00:00"
+        },
+        {
+          "title": "Ariel Rider Kepler review: A big, safe, fat tire commuter e-bike with style",
+          "link": "https://electrek.co/2026/06/15/ariel-rider-kepler-review-a-big-safe-fat-tire-commuter-e-bike-with-style/",
+          "source": "Electrek",
+          "published": "2026-06-15T14:07:40+00:00"
+        },
         {
           "title": "Scania scores 105 unit electric semi truck deal [video]",
           "link": "https://electrek.co/2026/06/14/scania-scores-105-unit-electric-semi-truck-deal-video/",
@@ -350,28 +362,10 @@
           "published": "2026-06-11T13:17:12+00:00"
         },
         {
-          "title": "BYD Is Bringing Thousands Of 5-Minute EV Chargers To Europe—And Canada Is Next",
-          "link": "https://insideevs.com/news/798421/byd-5-minute-ev-chargers-europe-canada/",
-          "source": "InsideEVs",
-          "published": "2026-06-11T08:14:51+00:00"
-        },
-        {
-          "title": "A YouTuber Debunked Donut Lab's Solid State Claims. It Reveals Something Huge About Lithium Batteries",
-          "link": "https://insideevs.com/news/798393/donut-lab-solid-state-debunked-lithium-ion-battery/",
-          "source": "InsideEVs",
-          "published": "2026-06-11T00:44:41+00:00"
-        },
-        {
           "title": "GM is betting on battery cells that don’t use lithium",
           "link": "https://electrek.co/2026/06/10/gm-sodium-ion-battery-peak-energy/",
           "source": "Electrek",
           "published": "2026-06-10T23:21:28+00:00"
-        },
-        {
-          "title": "Mercedes’ Smaller-Battery GLC EV Doesn’t Have A Range Problem",
-          "link": "https://insideevs.com/news/798372/mercedes-glc-ev-small-battery/",
-          "source": "InsideEVs",
-          "published": "2026-06-10T19:51:40+00:00"
         },
         {
           "title": "Anker’s massive SOLIX Early Prime Day power station deals + exclusive bonus savings from $129, Ride1Up Portola e-bike, more",
@@ -444,25 +438,31 @@
           "link": "https://electrek.co/2026/06/05/jason-momoa-1920s-harleys-land-rovers-electric-conversion-electrogenic/",
           "source": "Electrek",
           "published": "2026-06-05T11:49:11+00:00"
-        },
-        {
-          "title": "Houston gets a solar, storage + electricity bundle for 6¢ per kWh",
-          "link": "https://electrek.co/2026/06/04/houston-solar-storage-electricity-bundle-6-cents-per-kwh/",
-          "source": "Electrek",
-          "published": "2026-06-04T19:42:36+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 13,
+      "count": 15,
       "items": [
         {
           "title": "제네시스, 르망 하이퍼카 클래스 완주하며 새로운 이정표 세워",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43933",
           "source": "모터그래프",
           "published": "2026-06-15T17:07:37+00:00"
+        },
+        {
+          "title": "Tesla Cybercab full specs revealed: 3,113 lbs, 219 HP, 48 kWh",
+          "link": "https://electrek.co/2026/06/15/tesla-cybercab-epa-specs-curb-weight-battery-motor-power/",
+          "source": "Electrek",
+          "published": "2026-06-15T16:38:02+00:00"
+        },
+        {
+          "title": "Tesla presented misleading ‘Full Self-Driving’ safety data to European regulators",
+          "link": "https://electrek.co/2026/06/15/tesla-fsd-misleading-safety-data-european-regulators/",
+          "source": "Electrek",
+          "published": "2026-06-15T13:27:44+00:00"
         },
         {
           "title": "What is a 125cc electric motorcycle and why are they so important right now?",
@@ -544,10 +544,10 @@
       "count": 23,
       "items": [
         {
-          "title": "고려대-KIST, 자율주행차 ‘시력’ 크게 높일 초고감도 광센서 기술 구현",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46913",
+          "title": "에프알티로보틱스, 피지컬AI 기반 웨어러블 로봇 상용화 사업 선정",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46914",
           "source": "로봇신문",
-          "published": "2026-06-15T17:31:36+00:00"
+          "published": "2026-06-15T23:09:29+00:00"
         },
         {
           "title": "Burro introduces Grande 44 with proven outdoor autonomy built for heavy industry",
