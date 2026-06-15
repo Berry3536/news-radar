@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-06-15T04:01:52.754306+00:00",
+  "generated_at": "2026-06-15T11:59:28.610482+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "제네시스, 르망 하이퍼카 클래스 완주하며 새로운 이정표 세워",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43933",
+          "source": "모터그래프",
+          "published": "2026-06-15T17:07:37+00:00"
+        },
+        {
+          "title": "Xiaomi Just Unveiled A Product Tesla Promised A Decade Ago But Never Delivered",
+          "link": "https://insideevs.com/news/798721/xiaomi-product-tesla-promised/",
+          "source": "InsideEVs",
+          "published": "2026-06-15T11:07:29+00:00"
+        },
+        {
+          "title": "Ford's $30,000 Electric Pickup: Here’s A Closer Look",
+          "link": "https://insideevs.com/news/798700/ford-affordable-electric-pickup-closer-look/",
+          "source": "InsideEVs",
+          "published": "2026-06-15T08:05:16+00:00"
+        },
+        {
+          "title": "What is a 125cc electric motorcycle and why are they so important right now?",
+          "link": "https://electrek.co/2026/06/14/what-is-a-125cc-electric-motorcycle-and-why-are-they-so-important-right-now/",
+          "source": "Electrek",
+          "published": "2026-06-15T05:47:39+00:00"
+        },
         {
           "title": "Trump tried to kill solar’s 5% safe harbor, a federal court brought it back",
           "link": "https://electrek.co/2026/06/14/trump-tried-to-kill-solars-5-safe-harbor-a-federal-court-brought-it-back/",
@@ -133,12 +157,6 @@
           "published": "2026-06-12T17:59:33+00:00"
         },
         {
-          "title": "오만과 편견, 페라리 루체",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43913",
-          "source": "모터그래프",
-          "published": "2026-06-12T17:26:48+00:00"
-        },
-        {
           "title": "BYD is about to launch this full-size luxury electric sedan with over 1,000 km of range",
           "link": "https://electrek.co/2026/06/12/byd-launch-luxury-ev-sedan-with-1000-km-range/",
           "source": "Electrek",
@@ -227,31 +245,13 @@
           "link": "https://electrek.co/2026/06/11/bluetti-prime-day-elite-200-v2-power-station-navee-g5-max-e-scooter-ego-electric-mini-bike-more/",
           "source": "Electrek",
           "published": "2026-06-11T18:00:00+00:00"
-        },
-        {
-          "title": "Waymo launches $30/month ‘Premier’ membership with priority pickups and cashback",
-          "link": "https://electrek.co/2026/06/11/waymo-premier-membership-program-30-dollars-priority-pickups/",
-          "source": "Electrek",
-          "published": "2026-06-11T17:13:24+00:00"
-        },
-        {
-          "title": "Tesla promotes FSD misuse in its own videos — undermining its legal defense",
-          "link": "https://electrek.co/2026/06/11/tesla-promotes-fsd-misuse-official-videos-lawsuits/",
-          "source": "Electrek",
-          "published": "2026-06-11T17:11:41+00:00"
-        },
-        {
-          "title": "China Loves This Cheap Battery Tech. Here's Why General Motors Might Not Stick With It",
-          "link": "https://insideevs.com/news/798481/gm-lmr-not-lpf-batteries/",
-          "source": "InsideEVs",
-          "published": "2026-06-11T16:47:47+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 34,
+      "count": 33,
       "items": [
         {
           "title": "Scania scores 105 unit electric semi truck deal [video]",
@@ -356,12 +356,6 @@
           "published": "2026-06-11T08:14:51+00:00"
         },
         {
-          "title": "2027 Chevy Bolt Test Drive Impressions",
-          "link": "https://cleantechnica.com/2026/06/10/2027-chevy-bolt-test-drive-impressions/",
-          "source": "CleanTechnica",
-          "published": "2026-06-11T03:59:28+00:00"
-        },
-        {
           "title": "A YouTuber Debunked Donut Lab's Solid State Claims. It Reveals Something Huge About Lithium Batteries",
           "link": "https://insideevs.com/news/798393/donut-lab-solid-state-debunked-lithium-ion-battery/",
           "source": "InsideEVs",
@@ -462,8 +456,20 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 12,
+      "count": 13,
       "items": [
+        {
+          "title": "제네시스, 르망 하이퍼카 클래스 완주하며 새로운 이정표 세워",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43933",
+          "source": "모터그래프",
+          "published": "2026-06-15T17:07:37+00:00"
+        },
+        {
+          "title": "What is a 125cc electric motorcycle and why are they so important right now?",
+          "link": "https://electrek.co/2026/06/14/what-is-a-125cc-electric-motorcycle-and-why-are-they-so-important-right-now/",
+          "source": "Electrek",
+          "published": "2026-06-15T05:47:39+00:00"
+        },
         {
           "title": "Sodium Batteries And EVs That Power The Grid: Inside GM's Big Energy Push",
           "link": "https://insideevs.com/news/798630/gm-sodium-ion-battery-vehicle-to-grid-tech/",
@@ -487,12 +493,6 @@
           "link": "https://electrek.co/2026/06/11/byds-luxury-ev-roadster-leaks-1500-hp-headed-overseas/",
           "source": "Electrek",
           "published": "2026-06-11T18:57:26+00:00"
-        },
-        {
-          "title": "제너럴 모터스, GM Empower 행사에서 에너지 생태계 확장 전략 공개",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43920",
-          "source": "모터그래프",
-          "published": "2026-06-11T17:00:42+00:00"
         },
         {
           "title": "China Loves This Cheap Battery Tech. Here's Why General Motors Might Not Stick With It",
@@ -544,10 +544,16 @@
       "count": 23,
       "items": [
         {
-          "title": "AI 생존 지도 - 질문 자본가의 시대",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46892",
+          "title": "고려대-KIST, 자율주행차 ‘시력’ 크게 높일 초고감도 광센서 기술 구현",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46913",
           "source": "로봇신문",
-          "published": "2026-06-14T23:55:39+00:00"
+          "published": "2026-06-15T17:31:36+00:00"
+        },
+        {
+          "title": "Burro introduces Grande 44 with proven outdoor autonomy built for heavy industry",
+          "link": "https://www.therobotreport.com/burro-introduces-grande-44-with-proven-outdoor-autonomy-built-for-heavy-industry/",
+          "source": "The Robot Report",
+          "published": "2026-06-15T09:59:26+00:00"
         },
         {
           "title": "Modernizing the global economy with industrial robotics is needed but not inevitable",
@@ -670,12 +676,6 @@
           "published": "2026-06-08T17:02:42+00:00"
         },
         {
-          "title": "Daimon Robotics and Galbot jointly launches RobOmni for benchmarking tactile perception and dexterous manipulation",
-          "link": "https://www.therobotreport.com/daimon-robotics-and-galbot-jointly-launches-robomni-for-benchmarking-tactile-perception-and-dexterous-manipulation/",
-          "source": "The Robot Report",
-          "published": "2026-06-08T14:16:34+00:00"
-        },
-        {
           "title": "Video Friday: Watch This Running Robot Not Fall Down Stairs",
           "link": "https://spectrum.ieee.org/video-friday-humanoid-robot-running",
           "source": "IEEE Spectrum",
@@ -689,10 +689,10 @@
       "count": 40,
       "items": [
         {
-          "title": "\"음향 AI로 불량품 검출\"...디플리, 25억 신규 투자 유치",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211714",
+          "title": "\"월 200불로 1만4000불 토큰 제공\"…챗GPT·클로드 '구독료' 실체",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211728",
           "source": "AI타임스",
-          "published": "2026-06-15T12:49:36+00:00"
+          "published": "2026-06-15T17:57:56+00:00"
         },
         {
           "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
