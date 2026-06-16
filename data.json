@@ -1,11 +1,53 @@
 {
-  "generated_at": "2026-06-16T17:00:17.614993+00:00",
+  "generated_at": "2026-06-16T20:47:47.462384+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Waymo taps fleet giant Element to scale its robotaxi service",
+          "link": "https://electrek.co/2026/06/16/waymo-taps-fleet-giant-element-to-scale-its-robotaxi-service/",
+          "source": "Electrek",
+          "published": "2026-06-16T20:15:11+00:00"
+        },
+        {
+          "title": "BYD’s new magnetic EV device lets you control your car on the go",
+          "link": "https://electrek.co/2026/06/16/byds-new-magnetic-ev-device-lets-you-control-your-car-on-the-go/",
+          "source": "Electrek",
+          "published": "2026-06-16T19:52:03+00:00"
+        },
+        {
+          "title": "Rivian lays off hundreds, under 2% of staff, a week after R2 launch",
+          "link": "https://electrek.co/2026/06/16/rivian-layoffs-r2-launch-profitability/",
+          "source": "Electrek",
+          "published": "2026-06-16T18:42:56+00:00"
+        },
+        {
+          "title": "Bluetti 2,016Wh+ FridgePower station exclusive launch deals from $807, Segway Xyber e-bike + extra battery $1,400 off at low, more",
+          "link": "https://electrek.co/2026/06/16/bluetti-2016wh-fridgepower-station-exclusive-launch-segway-xyber-e-bike-extra-battery-more/",
+          "source": "Electrek",
+          "published": "2026-06-16T18:00:00+00:00"
+        },
+        {
+          "title": "Hyundai is closing in on Chevy as the #2 EV brand in the US",
+          "link": "https://electrek.co/2026/06/16/hyundai-closes-in-on-chevy-as-2-ev-brand-us/",
+          "source": "Electrek",
+          "published": "2026-06-16T17:42:00+00:00"
+        },
+        {
+          "title": "전동화, 지능화, 다양화로 무장한 글로벌 베스트셀러, 토요타 올 뉴 RAV4",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43946",
+          "source": "모터그래프",
+          "published": "2026-06-16T17:40:42+00:00"
+        },
+        {
+          "title": "Lucid Cosmos: Tesla Model Y and Rivian R2 Rival Revealed In Patent Images",
+          "link": "https://insideevs.com/news/798906/lucid-cosmos-patent-images/",
+          "source": "InsideEVs",
+          "published": "2026-06-16T17:13:40+00:00"
+        },
         {
           "title": "Toyota’s new EVs are catching on as registrations jump 225% in April",
           "link": "https://electrek.co/2026/06/16/toyotas-new-evs-catch-on-registrations-jump-225-april/",
@@ -203,56 +245,20 @@
           "link": "https://electrek.co/2026/06/14/what-is-a-125cc-electric-motorcycle-and-why-are-they-so-important-right-now/",
           "source": "Electrek",
           "published": "2026-06-15T05:47:39+00:00"
-        },
-        {
-          "title": "Trump tried to kill solar’s 5% safe harbor, a federal court brought it back",
-          "link": "https://electrek.co/2026/06/14/trump-tried-to-kill-solars-5-safe-harbor-a-federal-court-brought-it-back/",
-          "source": "Electrek",
-          "published": "2026-06-14T20:22:51+00:00"
-        },
-        {
-          "title": "Scania scores 105 unit electric semi truck deal [video]",
-          "link": "https://electrek.co/2026/06/14/scania-scores-105-unit-electric-semi-truck-deal-video/",
-          "source": "Electrek",
-          "published": "2026-06-14T19:25:08+00:00"
-        },
-        {
-          "title": "Survey Sunday: do you still believe in Elon Musk?",
-          "link": "https://electrek.co/2026/06/14/survey-sunday-do-you-still-believe-in-elon-musk/",
-          "source": "Electrek",
-          "published": "2026-06-14T18:30:00+00:00"
-        },
-        {
-          "title": "This Low-Mileage 2025 Tesla Model Y Lost A Lot Of Range Fast",
-          "link": "https://insideevs.com/news/798648/model-y-serious-battery-degradation/",
-          "source": "InsideEVs",
-          "published": "2026-06-14T07:46:37+00:00"
-        },
-        {
-          "title": "Why pushback is growing against New Jersey’s crazy e-bike law",
-          "link": "https://electrek.co/2026/06/13/why-pushback-is-growing-against-new-jerseys-crazy-e-bike-law/",
-          "source": "Electrek",
-          "published": "2026-06-14T06:19:13+00:00"
-        },
-        {
-          "title": "Buried in negative equity? These EV deals can help get you out of that gas guzzler",
-          "link": "https://electrek.co/2026/06/13/buried-in-negative-equity-these-ev-deals-can-help-get-you-out-of-that-gas-guzzler/",
-          "source": "Electrek",
-          "published": "2026-06-14T00:08:59+00:00"
-        },
-        {
-          "title": "Electric rally car revival continues with new, 280 hp Peugeot E-208 GTi",
-          "link": "https://electrek.co/2026/06/13/electric-rally-car-revival-continues-with-new-280-hp-peugeot-e-208-gti/",
-          "source": "Electrek",
-          "published": "2026-06-13T14:56:36+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 31,
+      "count": 30,
       "items": [
+        {
+          "title": "Bluetti 2,016Wh+ FridgePower station exclusive launch deals from $807, Segway Xyber e-bike + extra battery $1,400 off at low, more",
+          "link": "https://electrek.co/2026/06/16/bluetti-2016wh-fridgepower-station-exclusive-launch-segway-xyber-e-bike-extra-battery-more/",
+          "source": "Electrek",
+          "published": "2026-06-16T18:00:00+00:00"
+        },
         {
           "title": "Ex-Tesla exec builds the home heat pump Tesla gave up for robots",
           "link": "https://electrek.co/2026/06/16/tesla-home-heat-pump-drew-baglino-sadi-robots/",
@@ -344,18 +350,6 @@
           "published": "2026-06-12T19:52:09+00:00"
         },
         {
-          "title": "Yet Another Red State Solar Cell Factory Will Drink Trump’s Milkshake",
-          "link": "https://cleantechnica.com/2026/06/12/solar-cells-georgia-factory-qcells-domestic-content/",
-          "source": "CleanTechnica",
-          "published": "2026-06-12T13:36:45+00:00"
-        },
-        {
-          "title": "CleanTechnica’s First Sustainability Expo & Electric Home Show",
-          "link": "https://cleantechnica.com/2026/06/12/cleantechnicas-first-sustainability-expo-electric-home-show/",
-          "source": "CleanTechnica",
-          "published": "2026-06-12T10:19:14+00:00"
-        },
-        {
           "title": "Solid-state batteries are now powering EVs in the real world",
           "link": "https://electrek.co/2026/06/11/solid-state-batteries-now-powering-evs-in-real-world/",
           "source": "Electrek",
@@ -444,13 +438,19 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 13,
+      "count": 14,
       "items": [
         {
           "title": "Ex-Tesla exec builds the home heat pump Tesla gave up for robots",
           "link": "https://electrek.co/2026/06/16/tesla-home-heat-pump-drew-baglino-sadi-robots/",
           "source": "Electrek",
           "published": "2026-06-16T13:21:09+00:00"
+        },
+        {
+          "title": "제네시스, 르망 하이퍼카 클래스 완주하며 새로운 이정표 세워",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43933",
+          "source": "모터그래프",
+          "published": "2026-06-15T17:07:37+00:00"
         },
         {
           "title": "Tesla Cybercab full specs revealed: 3,113 lbs, 219 HP, 48 kWh",
@@ -529,8 +529,20 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 22,
+      "count": 23,
       "items": [
+        {
+          "title": "로아스, ‘글로벌 로보틱스 포럼 2026’ 오는 24일 개최",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46933",
+          "source": "로봇신문",
+          "published": "2026-06-17T01:58:41+00:00"
+        },
+        {
+          "title": "Pegasus Tech Ventures launches $60M fund for physical AI startups",
+          "link": "https://www.therobotreport.com/pegasus-tech-ventures-launches-60m-fund-physical-ai-startups/",
+          "source": "The Robot Report",
+          "published": "2026-06-16T19:22:47+00:00"
+        },
         {
           "title": "Kawasaki Robotics to debut RL030N physical AI platform at Automate",
           "link": "https://www.therobotreport.com/kawasaki-robotics-debut-rl030n-physical-ai-platform-automate/",
@@ -640,12 +652,6 @@
           "published": "2026-06-11T10:00:01+00:00"
         },
         {
-          "title": "NEURA Robotics to raise up to $1.4B in Series C funding for physical AI",
-          "link": "https://www.therobotreport.com/neura-robotics-raise-up-1-4b-in-series-c-funding-physical-ai/",
-          "source": "The Robot Report",
-          "published": "2026-06-10T16:06:09+00:00"
-        },
-        {
           "title": "Beyond Dexterity: Why Contact May Define the Next Era of Robotics",
           "link": "https://spectrum.ieee.org/agilink-contact-intelligence-robot-manipulation",
           "source": "IEEE Spectrum",
@@ -670,6 +676,12 @@
       "label": "AI",
       "count": 40,
       "items": [
+        {
+          "title": "지푸AI, 100만 토큰 컨텍스트 창 ‘GLM-5.2’ 출시...벤치마크는 미공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211778",
+          "source": "AI타임스",
+          "published": "2026-06-16T19:16:00+00:00"
+        },
         {
           "title": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
           "link": "https://arxiv.org/abs/2606.14838",
@@ -901,12 +913,6 @@
         {
           "title": "Your Agent Has a Genome: Sequence-Level Behavioral Analysis and Runtime Governance of LLM-Powered Autonomous Agents",
           "link": "https://arxiv.org/abs/2606.15579",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-16T04:00:00+00:00"
-        },
-        {
-          "title": "Agentic Retrieval and Reinforcement Learned Equation Chains: A Controlled Generation Framework for Complex and Novel Physics Word Problems",
-          "link": "https://arxiv.org/abs/2606.15591",
           "source": "arXiv cs.AI",
           "published": "2026-06-16T04:00:00+00:00"
         }
