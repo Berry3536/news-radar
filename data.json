@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T11:06:56.819869+00:00",
+  "generated_at": "2026-06-16T17:00:17.614993+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,64 @@
       "count": 40,
       "items": [
         {
-          "title": "전동화, 지능화, 다양화로 무장한 글로벌 베스트셀러, 토요타 올 뉴 RAV4",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43946",
-          "source": "모터그래프",
-          "published": "2026-06-16T17:40:42+00:00"
+          "title": "Toyota’s new EVs are catching on as registrations jump 225% in April",
+          "link": "https://electrek.co/2026/06/16/toyotas-new-evs-catch-on-registrations-jump-225-april/",
+          "source": "Electrek",
+          "published": "2026-06-16T16:07:54+00:00"
+        },
+        {
+          "title": "I Drove One Of China's Fastest EVs And Found It Surprisingly Easy To Drive—Despite Its 1,500 Horsepower",
+          "link": "https://insideevs.com/reviews/798799/xiaom-su7-ultra-test-drive/",
+          "source": "InsideEVs",
+          "published": "2026-06-16T16:05:30+00:00"
+        },
+        {
+          "title": "Kia’s electric van delivers more driving range in the real world at 260 miles",
+          "link": "https://electrek.co/2026/06/16/kias-ev-van-beats-range-rating-driving-260-miles-in-real-world/",
+          "source": "Electrek",
+          "published": "2026-06-16T14:17:22+00:00"
+        },
+        {
+          "title": "Tesla ‘Robotaxis’ are not crashing because they are not running",
+          "link": "https://electrek.co/2026/06/16/tesla-robotaxi-clean-crash-record-barely-running/",
+          "source": "Electrek",
+          "published": "2026-06-16T13:50:51+00:00"
+        },
+        {
+          "title": "Ex-Tesla exec builds the home heat pump Tesla gave up for robots",
+          "link": "https://electrek.co/2026/06/16/tesla-home-heat-pump-drew-baglino-sadi-robots/",
+          "source": "Electrek",
+          "published": "2026-06-16T13:21:09+00:00"
+        },
+        {
+          "title": "Baidu Apollo Go wins Level 4 robotaxi approval in Switzerland as AmiGo",
+          "link": "https://electrek.co/2026/06/16/baidu-apollo-go-amigo-switzerland-level-4-approval/",
+          "source": "Electrek",
+          "published": "2026-06-16T12:40:42+00:00"
+        },
+        {
+          "title": "Who killed the lightweight commuter e-bike?",
+          "link": "https://electrek.co/2026/06/16/who-killed-the-lightweight-commuter-e-bike/",
+          "source": "Electrek",
+          "published": "2026-06-16T12:10:47+00:00"
+        },
+        {
+          "title": "Rivian just made it easier to save money on home EV charging",
+          "link": "https://electrek.co/2026/06/16/rivian-just-made-it-easier-to-save-money-on-home-ev-charging/",
+          "source": "Electrek",
+          "published": "2026-06-16T12:00:00+00:00"
+        },
+        {
+          "title": "Rivian’s Latest Partnership Unlocks Cheaper Home EV Charging",
+          "link": "https://insideevs.com/news/798838/rivian-partnership-cheaper-home-charging/",
+          "source": "InsideEVs",
+          "published": "2026-06-16T12:00:00+00:00"
+        },
+        {
+          "title": "The Audi A6 Allroad Is Now A Plug-In Hybrid Antidote To Boring SUVs",
+          "link": "https://insideevs.com/news/798875/audi-a6-allroad-plug-in-hybrid-specs-range/",
+          "source": "InsideEVs",
+          "published": "2026-06-16T11:27:14+00:00"
         },
         {
           "title": "This EV Charging Station On Route 66 Is Off-Grid And Cheaper Than The Competition",
@@ -19,7 +73,7 @@
           "published": "2026-06-16T08:28:33+00:00"
         },
         {
-          "title": "The U.S. Now Has Over 250,000 EV Charging Ports",
+          "title": "America's Charging Network Just Hit A Major Milestone",
           "link": "https://insideevs.com/news/798812/ev-charging-plugs-amount-250000/",
           "source": "InsideEVs",
           "published": "2026-06-15T23:44:14+00:00"
@@ -191,60 +245,6 @@
           "link": "https://electrek.co/2026/06/13/electric-rally-car-revival-continues-with-new-280-hp-peugeot-e-208-gti/",
           "source": "Electrek",
           "published": "2026-06-13T14:56:36+00:00"
-        },
-        {
-          "title": "Super-sized slot cars: these HD electric machines NEVER need plugged in",
-          "link": "https://electrek.co/2026/06/13/super-sized-slot-cars-these-hd-electric-machines-never-need-plugged-in/",
-          "source": "Electrek",
-          "published": "2026-06-13T13:48:56+00:00"
-        },
-        {
-          "title": "Dig it: mine goes 155 consecutive hours on 100% renewable energy",
-          "link": "https://electrek.co/2026/06/13/dig-it-mine-goes-155-consecutive-hours-on-100-renewable-energy/",
-          "source": "Electrek",
-          "published": "2026-06-13T12:38:59+00:00"
-        },
-        {
-          "title": "This Simple Trick Boosted My Plug-In Hybrid's Fuel Economy To 50 MPG",
-          "link": "https://insideevs.com/features/798337/phev-fuel-economy-boost-driving-behavior/",
-          "source": "InsideEVs",
-          "published": "2026-06-13T12:00:00+00:00"
-        },
-        {
-          "title": "Sodium Batteries And EVs That Power The Grid: Inside GM's Big Energy Push",
-          "link": "https://insideevs.com/news/798630/gm-sodium-ion-battery-vehicle-to-grid-tech/",
-          "source": "InsideEVs",
-          "published": "2026-06-13T11:30:00+00:00"
-        },
-        {
-          "title": "Yes, EVs Really Are Cleaner Than Gas Cars. Here's By How Much",
-          "link": "https://insideevs.com/features/798615/evs-cleaner-than-gas-cars/",
-          "source": "InsideEVs",
-          "published": "2026-06-13T11:00:00+00:00"
-        },
-        {
-          "title": "This electric car company just produced its one millionth electric motorcycle",
-          "link": "https://electrek.co/2026/06/13/this-electric-car-company-just-produced-its-one-millionth-electric-motorcycle/",
-          "source": "Electrek",
-          "published": "2026-06-13T10:50:56+00:00"
-        },
-        {
-          "title": "Shell could walk away from offshore wind in $1 billion+ sell-off",
-          "link": "https://electrek.co/2026/06/12/shell-could-walk-away-from-offshore-wind-in-1-billion-sell-off/",
-          "source": "Electrek",
-          "published": "2026-06-12T22:03:49+00:00"
-        },
-        {
-          "title": "The Chevy Equinox EV is now way more expensive to lease, but the Bolt is a bit cheaper",
-          "link": "https://electrek.co/2026/06/12/chevy-equinox-ev-more-expensive-lease-bolt-cheaper/",
-          "source": "Electrek",
-          "published": "2026-06-12T22:02:57+00:00"
-        },
-        {
-          "title": "The Rivian R2 Is Finally Here. The CEO Just Shared When To Expect More Models",
-          "link": "https://insideevs.com/news/798608/rivian-r2-r3-r2t-timeline/",
-          "source": "InsideEVs",
-          "published": "2026-06-12T21:42:12+00:00"
         }
       ]
     },
@@ -253,6 +253,18 @@
       "label": "배터리",
       "count": 31,
       "items": [
+        {
+          "title": "Ex-Tesla exec builds the home heat pump Tesla gave up for robots",
+          "link": "https://electrek.co/2026/06/16/tesla-home-heat-pump-drew-baglino-sadi-robots/",
+          "source": "Electrek",
+          "published": "2026-06-16T13:21:09+00:00"
+        },
+        {
+          "title": "The Audi A6 Allroad Is Now A Plug-In Hybrid Antidote To Boring SUVs",
+          "link": "https://insideevs.com/news/798875/audi-a6-allroad-plug-in-hybrid-specs-range/",
+          "source": "InsideEVs",
+          "published": "2026-06-16T11:27:14+00:00"
+        },
         {
           "title": "Tesla Cybercab Specs Are Public — But Questions Remain",
           "link": "https://cleantechnica.com/2026/06/15/tesla-cybercab-specs-are-public-but-questions-remain/",
@@ -426,18 +438,6 @@
           "link": "https://electrek.co/2026/06/06/new-danfoss-hydraulic-pump-increases-equipment-runtime-by-50/",
           "source": "Electrek",
           "published": "2026-06-07T03:08:56+00:00"
-        },
-        {
-          "title": "T1 Energy buys KORE Power to cash in on the AI power boom",
-          "link": "https://electrek.co/2026/06/05/t1-energy-buys-kore-power-to-cash-in-on-the-ai-power-boom/",
-          "source": "Electrek",
-          "published": "2026-06-05T21:41:12+00:00"
-        },
-        {
-          "title": "Yozma IN 10 + IN 10 Pro electric dirt bikes with up to $1,043+ exclusive savings, Lectric Father’s Day e-bike Sale, Segway Navimow, more",
-          "link": "https://electrek.co/2026/06/05/yozma-in-10-in-10-pro-electric-dirt-bikes-lectric-fathers-day-e-bike-sale-segway-navimow-more/",
-          "source": "Electrek",
-          "published": "2026-06-05T18:00:00+00:00"
         }
       ]
     },
@@ -447,10 +447,10 @@
       "count": 13,
       "items": [
         {
-          "title": "제네시스, 르망 하이퍼카 클래스 완주하며 새로운 이정표 세워",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43933",
-          "source": "모터그래프",
-          "published": "2026-06-15T17:07:37+00:00"
+          "title": "Ex-Tesla exec builds the home heat pump Tesla gave up for robots",
+          "link": "https://electrek.co/2026/06/16/tesla-home-heat-pump-drew-baglino-sadi-robots/",
+          "source": "Electrek",
+          "published": "2026-06-16T13:21:09+00:00"
         },
         {
           "title": "Tesla Cybercab full specs revealed: 3,113 lbs, 219 HP, 48 kWh",
@@ -529,13 +529,25 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 23,
+      "count": 22,
       "items": [
         {
-          "title": "HD현대, 로봇·데이터 기반 ‘선체 관리 통합 솔루션’ 개발 나선다",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46930",
-          "source": "로봇신문",
-          "published": "2026-06-16T16:56:20+00:00"
+          "title": "Kawasaki Robotics to debut RL030N physical AI platform at Automate",
+          "link": "https://www.therobotreport.com/kawasaki-robotics-debut-rl030n-physical-ai-platform-automate/",
+          "source": "The Robot Report",
+          "published": "2026-06-16T13:59:25+00:00"
+        },
+        {
+          "title": "Genesis AI launches Eno general-purpose robot",
+          "link": "https://www.therobotreport.com/genesis-ai-launches-eno-general-purpose-robot/",
+          "source": "The Robot Report",
+          "published": "2026-06-16T12:59:29+00:00"
+        },
+        {
+          "title": "Built Robotics, Penn xLAB to develop physical AI for construction",
+          "link": "https://www.therobotreport.com/xlab-and-built-robotics-partner-to-advance-construction/",
+          "source": "The Robot Report",
+          "published": "2026-06-16T11:04:11+00:00"
         },
         {
           "title": "PSYONIC partners with ABB Robotics to apply human touch to robot dexterity",
@@ -634,24 +646,6 @@
           "published": "2026-06-10T16:06:09+00:00"
         },
         {
-          "title": "Robotics will not have a clean Llama moment",
-          "link": "https://www.therobotreport.com/robotics-will-not-have-a-clean-llama-moment/",
-          "source": "The Robot Report",
-          "published": "2026-06-10T13:13:14+00:00"
-        },
-        {
-          "title": "Walmart, Wing add 7 markets in drone delivery expansion",
-          "link": "https://www.therobotreport.com/walmart-wing-add-7-markets-in-drone-delivery-expansion/",
-          "source": "The Robot Report",
-          "published": "2026-06-09T19:38:24+00:00"
-        },
-        {
-          "title": "Effort to establish a National Commission on Robotics advances in Congress",
-          "link": "https://www.therobotreport.com/effort-establish-national-commission-on-robotics-advances-congress/",
-          "source": "The Robot Report",
-          "published": "2026-06-09T14:58:30+00:00"
-        },
-        {
           "title": "Beyond Dexterity: Why Contact May Define the Next Era of Robotics",
           "link": "https://spectrum.ieee.org/agilink-contact-intelligence-robot-manipulation",
           "source": "IEEE Spectrum",
@@ -676,12 +670,6 @@
       "label": "AI",
       "count": 40,
       "items": [
-        {
-          "title": "지푸AI, 100만 토큰 컨텍스트 창 ‘GLM-5.2’ 출시...벤치마크는 미공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211778",
-          "source": "AI타임스",
-          "published": "2026-06-16T19:16:00+00:00"
-        },
         {
           "title": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
           "link": "https://arxiv.org/abs/2606.14838",
@@ -913,6 +901,12 @@
         {
           "title": "Your Agent Has a Genome: Sequence-Level Behavioral Analysis and Runtime Governance of LLM-Powered Autonomous Agents",
           "link": "https://arxiv.org/abs/2606.15579",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-16T04:00:00+00:00"
+        },
+        {
+          "title": "Agentic Retrieval and Reinforcement Learned Equation Chains: A Controlled Generation Framework for Complex and Novel Physics Word Problems",
+          "link": "https://arxiv.org/abs/2606.15591",
           "source": "arXiv cs.AI",
           "published": "2026-06-16T04:00:00+00:00"
         }
