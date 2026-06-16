@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-06-15T20:53:23.118887+00:00",
+  "generated_at": "2026-06-16T03:52:42.511676+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "The U.S. Now Has Over 250,000 EV Charging Ports",
+          "link": "https://insideevs.com/news/798812/ev-charging-plugs-amount-250000/",
+          "source": "InsideEVs",
+          "published": "2026-06-15T23:44:14+00:00"
+        },
+        {
+          "title": "Global EV sales hit 1.8 million in May as Europe races ahead",
+          "link": "https://electrek.co/2026/06/15/global-ev-sales-hit-1-8-million-in-may-as-europe-races-ahead/",
+          "source": "Electrek",
+          "published": "2026-06-15T23:01:00+00:00"
+        },
+        {
+          "title": "Telo's Tiny Electric Truck Moves Closer To Reality With An Important New Partner",
+          "link": "https://insideevs.com/news/798776/telo-mt1-production-update-partnership/",
+          "source": "InsideEVs",
+          "published": "2026-06-15T22:17:53+00:00"
+        },
+        {
+          "title": "Toyota reveals prices for its first electric pickup",
+          "link": "https://electrek.co/2026/06/15/toyota-reveals-prices-for-first-electric-pickup/",
+          "source": "Electrek",
+          "published": "2026-06-15T21:16:18+00:00"
+        },
+        {
+          "title": "The 2027 BMW iX5’s Monster Battery Pack Dwarfs The Competition",
+          "link": "https://insideevs.com/news/798787/bmw-ix5-large-battery-pack-range-king/",
+          "source": "InsideEVs",
+          "published": "2026-06-15T21:15:15+00:00"
+        },
         {
           "title": "BYD is taking its luxury electric GT on an over 9,300-mile trip from Europe to Asia",
           "link": "https://electrek.co/2026/06/15/byd-taking-luxury-electric-gt-on-over-9300-mile-trip/",
@@ -211,48 +241,24 @@
           "published": "2026-06-12T21:42:12+00:00"
         },
         {
-          "title": "Toyota opens orders for its first body-on-frame EV pickup, starting at under $60,000",
-          "link": "https://electrek.co/2026/06/12/toyota-opens-orders-first-body-on-frame-ev-under-60000/",
-          "source": "Electrek",
-          "published": "2026-06-12T21:00:00+00:00"
-        },
-        {
           "title": "Podcast: Rivian R2 first drive, BYD goes nuts on flash charging, Donut Lab’s miracle battery is dead, and more",
           "link": "https://electrek.co/2026/06/12/podcast-rivian-r2-first-drive-byd-goes-nuts-on-flash-charging-donut-labs-miracle-battery-is-dead-and-more/",
           "source": "Electrek",
           "published": "2026-06-12T19:52:09+00:00"
-        },
-        {
-          "title": "BMW put the new iX3 through the paces, and it still drove 500 miles on a single charge",
-          "link": "https://electrek.co/2026/06/12/bmw-new-ix3-drove-500-miles/",
-          "source": "Electrek",
-          "published": "2026-06-12T18:20:32+00:00"
-        },
-        {
-          "title": "Anker SOLIX expanded 6,144Wh F3000 power station new $1,899 low, Heybike Ranger 3.0 Pro e-bike + Villain dirt bike lows, more",
-          "link": "https://electrek.co/2026/06/12/anker-solix-6144wh-f3000-power-station-heybike-ranger-3-0-pro-e-bike-villain-dirt-bike-lows-more/",
-          "source": "Electrek",
-          "published": "2026-06-12T18:00:00+00:00"
-        },
-        {
-          "title": "'Really Impressed': Engineering Explained's Jason Fenske On Rivian R2",
-          "link": "https://insideevs.com/features/798610/rivian-r2-drive-impressions-jason-fenske-2026/",
-          "source": "InsideEVs",
-          "published": "2026-06-12T17:59:33+00:00"
-        },
-        {
-          "title": "BYD is about to launch this full-size luxury electric sedan with over 1,000 km of range",
-          "link": "https://electrek.co/2026/06/12/byd-launch-luxury-ev-sedan-with-1000-km-range/",
-          "source": "Electrek",
-          "published": "2026-06-12T16:43:45+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 32,
+      "count": 31,
       "items": [
+        {
+          "title": "The 2027 BMW iX5’s Monster Battery Pack Dwarfs The Competition",
+          "link": "https://insideevs.com/news/798787/bmw-ix5-large-battery-pack-range-king/",
+          "source": "InsideEVs",
+          "published": "2026-06-15T21:15:15+00:00"
+        },
         {
           "title": "Full Tesla Cybercab Specs: EPA Documents Confirm Battery Size, Weight, Power, And Preliminary Range",
           "link": "https://insideevs.com/news/798790/tesla-cybercab-specs/",
@@ -350,22 +356,10 @@
           "published": "2026-06-11T20:54:01+00:00"
         },
         {
-          "title": "This Dodge Charger EV Prototype Packs An Experimental Semi-Solid-State Battery",
-          "link": "https://insideevs.com/news/798496/dodge-charger-daytona-ev-solid-state-battery/",
-          "source": "InsideEVs",
-          "published": "2026-06-11T19:35:49+00:00"
-        },
-        {
           "title": "Bluetti exclusive Early Prime Day Elite 200 V2 power station $759, Navee G5 Max e-scooter $650 low, EGO electric mini bike, more",
           "link": "https://electrek.co/2026/06/11/bluetti-prime-day-elite-200-v2-power-station-navee-g5-max-e-scooter-ego-electric-mini-bike-more/",
           "source": "Electrek",
           "published": "2026-06-11T18:00:00+00:00"
-        },
-        {
-          "title": "China Loves This Cheap Battery Tech. Here's Why General Motors Might Not Stick With It",
-          "link": "https://insideevs.com/news/798481/gm-lmr-not-lpf-batteries/",
-          "source": "InsideEVs",
-          "published": "2026-06-11T16:47:47+00:00"
         },
         {
           "title": "Xiaomi gets approval to build extended-range EVs, plans full-size SUV to rival Li Auto",
@@ -450,7 +444,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 14,
+      "count": 13,
       "items": [
         {
           "title": "제네시스, 르망 하이퍼카 클래스 완주하며 새로운 이정표 세워",
@@ -499,12 +493,6 @@
           "link": "https://electrek.co/2026/06/11/byds-luxury-ev-roadster-leaks-1500-hp-headed-overseas/",
           "source": "Electrek",
           "published": "2026-06-11T18:57:26+00:00"
-        },
-        {
-          "title": "China Loves This Cheap Battery Tech. Here's Why General Motors Might Not Stick With It",
-          "link": "https://insideevs.com/news/798481/gm-lmr-not-lpf-batteries/",
-          "source": "InsideEVs",
-          "published": "2026-06-11T16:47:47+00:00"
         },
         {
           "title": "GM becomes first automaker to partner with Redwood across full battery lifecycle",
@@ -689,10 +677,10 @@
       "count": 40,
       "items": [
         {
-          "title": "\"월 200불로 1만4000불 토큰 제공\"…챗GPT·클로드 '구독료' 실체",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211728",
+          "title": "[6월15일] 소버린 AI가 아니라 ‘첨단 모델 접근권’이 냉정한 현실",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211727",
           "source": "AI타임스",
-          "published": "2026-06-15T17:57:56+00:00"
+          "published": "2026-06-16T07:00:00+00:00"
         },
         {
           "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
