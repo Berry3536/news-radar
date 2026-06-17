@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-06-16T20:47:47.462384+00:00",
+  "generated_at": "2026-06-17T03:54:10.418816+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Home solar in rural America: a storm just took out your power, now what?",
+          "link": "https://electrek.co/2026/06/16/home-solar-in-rural-america-a-storm-just-took-out-your-power-now-what/",
+          "source": "Electrek",
+          "published": "2026-06-16T23:36:05+00:00"
+        },
+        {
+          "title": "Rivian Lays Off Hundreds Of Workers A Week After R2 Launch",
+          "link": "https://insideevs.com/news/798933/rivian-layoffs-after-r2-launch/",
+          "source": "InsideEVs",
+          "published": "2026-06-16T22:36:56+00:00"
+        },
+        {
+          "title": "The Genesis GV90 looks huge charging next to the Kia EV9",
+          "link": "https://electrek.co/2026/06/16/genesis-gv90-looks-huge-next-to-kia-ev9-images/",
+          "source": "Electrek",
+          "published": "2026-06-16T21:11:57+00:00"
+        },
         {
           "title": "Waymo taps fleet giant Element to scale its robotaxi service",
           "link": "https://electrek.co/2026/06/16/waymo-taps-fleet-giant-element-to-scale-its-robotaxi-service/",
@@ -227,24 +245,6 @@
           "link": "https://insideevs.com/news/798734/rivian-r1t-towing-cost/",
           "source": "InsideEVs",
           "published": "2026-06-15T13:14:24+00:00"
-        },
-        {
-          "title": "Tesla's Wild Robotic Charging Arm Never Happened. Xiaomi Just Made It Reality",
-          "link": "https://insideevs.com/news/798721/xiaomi-product-tesla-promised/",
-          "source": "InsideEVs",
-          "published": "2026-06-15T11:07:29+00:00"
-        },
-        {
-          "title": "Ford's $30,000 Electric Pickup: Here’s A Closer Look",
-          "link": "https://insideevs.com/news/798700/ford-affordable-electric-pickup-closer-look/",
-          "source": "InsideEVs",
-          "published": "2026-06-15T08:05:16+00:00"
-        },
-        {
-          "title": "What is a 125cc electric motorcycle and why are they so important right now?",
-          "link": "https://electrek.co/2026/06/14/what-is-a-125cc-electric-motorcycle-and-why-are-they-so-important-right-now/",
-          "source": "Electrek",
-          "published": "2026-06-15T05:47:39+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 30,
       "items": [
+        {
+          "title": "Home solar in rural America: a storm just took out your power, now what?",
+          "link": "https://electrek.co/2026/06/16/home-solar-in-rural-america-a-storm-just-took-out-your-power-now-what/",
+          "source": "Electrek",
+          "published": "2026-06-16T23:36:05+00:00"
+        },
         {
           "title": "Bluetti 2,016Wh+ FridgePower station exclusive launch deals from $807, Segway Xyber e-bike + extra battery $1,400 off at low, more",
           "link": "https://electrek.co/2026/06/16/bluetti-2016wh-fridgepower-station-exclusive-launch-segway-xyber-e-bike-extra-battery-more/",
@@ -426,19 +432,13 @@
           "link": "https://electrek.co/2026/06/08/solid-state-ev-battery-maker-joins-nasdaq-after-745-mi-range-test/",
           "source": "Electrek",
           "published": "2026-06-08T16:05:34+00:00"
-        },
-        {
-          "title": "New Danfoss hydraulic pump increases equipment runtime by 50%",
-          "link": "https://electrek.co/2026/06/06/new-danfoss-hydraulic-pump-increases-equipment-runtime-by-50/",
-          "source": "Electrek",
-          "published": "2026-06-07T03:08:56+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 14,
+      "count": 13,
       "items": [
         {
           "title": "Ex-Tesla exec builds the home heat pump Tesla gave up for robots",
@@ -517,12 +517,6 @@
           "link": "https://electrek.co/2026/06/08/byd-tank-turn-viral-video-narrow-space/",
           "source": "Electrek",
           "published": "2026-06-08T16:45:04+00:00"
-        },
-        {
-          "title": "New Danfoss hydraulic pump increases equipment runtime by 50%",
-          "link": "https://electrek.co/2026/06/06/new-danfoss-hydraulic-pump-increases-equipment-runtime-by-50/",
-          "source": "Electrek",
-          "published": "2026-06-07T03:08:56+00:00"
         }
       ]
     },
@@ -677,10 +671,10 @@
       "count": 40,
       "items": [
         {
-          "title": "지푸AI, 100만 토큰 컨텍스트 창 ‘GLM-5.2’ 출시...벤치마크는 미공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211778",
+          "title": "AI안전연구소-오픈AI, ‘AI 안전 협력 강화’ MOU",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211797",
           "source": "AI타임스",
-          "published": "2026-06-16T19:16:00+00:00"
+          "published": "2026-06-17T10:00:00+00:00"
         },
         {
           "title": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
