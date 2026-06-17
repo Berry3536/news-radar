@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T15:21:23.892044+00:00",
+  "generated_at": "2026-06-17T20:09:50.847248+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,64 @@
       "count": 40,
       "items": [
         {
+          "title": "Ford is now building low-cost LFP battery cells in the US that will power its $30,000 EV pickup",
+          "link": "https://electrek.co/2026/06/17/ford-begins-building-low-cost-lfp-batteries-for-30k-ev-pickup/",
+          "source": "Electrek",
+          "published": "2026-06-17T18:17:55+00:00"
+        },
+        {
+          "title": "Uber, Stellantis, And Wayve Want To Blanket The World In Robotaxis",
+          "link": "https://insideevs.com/news/799037/stellantis-uber-robotaxi-wayve-global/",
+          "source": "InsideEVs",
+          "published": "2026-06-17T18:05:09+00:00"
+        },
+        {
+          "title": "Velotric e-bikes up to $862 off starting from $999, Segway Early Prime 50% off e-scooter discounts + up to $405 extra savings, more",
+          "link": "https://electrek.co/2026/06/17/velotric-e-bikes-starting-from-999-segway-early-prime-electric-scooter-savings-more/",
+          "source": "Electrek",
+          "published": "2026-06-17T18:00:00+00:00"
+        },
+        {
+          "title": "Another day, another illegal billion-dollar bribe to raise your electricity prices",
+          "link": "https://electrek.co/2026/06/17/another-day-another-illegal-billion-dollar-bribe-to-raise-your-electricity-prices/",
+          "source": "Electrek",
+          "published": "2026-06-17T17:31:45+00:00"
+        },
+        {
           "title": "시작의 스케일이 커지는 모든 순간, 올 뉴 포드 익스페디션",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43947",
           "source": "모터그래프",
           "published": "2026-06-17T16:59:41+00:00"
+        },
+        {
+          "title": "Tesla Owners Are Using Doll Heads To Fool Full Self-Driving",
+          "link": "https://insideevs.com/news/798901/tesla-owners-doll-heads-fsd/",
+          "source": "InsideEVs",
+          "published": "2026-06-17T16:41:07+00:00"
+        },
+        {
+          "title": "Range Rover will launch two new EVs soon, but the electric Defender may be a bigger hit",
+          "link": "https://electrek.co/2026/06/17/range-rover-launch-two-evs-electric-defender-coming/",
+          "source": "Electrek",
+          "published": "2026-06-17T16:34:43+00:00"
+        },
+        {
+          "title": "Rivian CEO signals self-driving prices, like Tesla’s, will fall",
+          "link": "https://electrek.co/2026/06/17/rivian-ceo-self-driving-prices-fall-tesla-fsd/",
+          "source": "Electrek",
+          "published": "2026-06-17T16:21:00+00:00"
+        },
+        {
+          "title": "The 2026 Mercedes CLA EV Is Really Impressive. But It Also Drove Me Nuts",
+          "link": "https://insideevs.com/reviews/799013/mercedes-cla-ev-review-pros-and-cons/",
+          "source": "InsideEVs",
+          "published": "2026-06-17T15:33:15+00:00"
+        },
+        {
+          "title": "Trump’s DOJ intervenes to keep Musk’s xAI gas turbines polluting Memphis",
+          "link": "https://electrek.co/2026/06/17/trump-doj-xai-gas-turbines-memphis-national-security/",
+          "source": "Electrek",
+          "published": "2026-06-17T15:30:49+00:00"
         },
         {
           "title": "BYD launches its flagship electric SUV for $35,500 with a record 150,000 preorders",
@@ -55,13 +109,13 @@
           "published": "2026-06-17T11:48:07+00:00"
         },
         {
-          "title": "Uber’s Lucid-powered robotaxis are heading to Houston next",
+          "title": "Uber is the latest to enter the Texas robotaxi battle",
           "link": "https://electrek.co/2026/06/17/uber-lucid-robotaxi-houston/",
           "source": "Electrek",
           "published": "2026-06-17T11:00:00+00:00"
         },
         {
-          "title": "After San Francisco, The Lucid Gravity Robotaxi Eyes Its Next Big Market",
+          "title": "Lucid And Uber Will Bring Robotaxis To Houston Next",
           "link": "https://insideevs.com/news/798932/lucid-gravity-robotaxi-houston-expansion-uber-nuro/",
           "source": "InsideEVs",
           "published": "2026-06-17T11:00:00+00:00"
@@ -191,68 +245,32 @@
           "link": "https://insideevs.com/news/798838/rivian-partnership-cheaper-home-charging/",
           "source": "InsideEVs",
           "published": "2026-06-16T12:00:00+00:00"
-        },
-        {
-          "title": "The Audi A6 Allroad Is Now A Plug-In Hybrid Antidote To Boring SUVs",
-          "link": "https://insideevs.com/news/798875/audi-a6-allroad-plug-in-hybrid-specs-range/",
-          "source": "InsideEVs",
-          "published": "2026-06-16T11:27:14+00:00"
-        },
-        {
-          "title": "This EV Charging Station On Route 66 Is Off-Grid And Cheaper Than The Competition",
-          "link": "https://insideevs.com/news/798847/ev-charger-off-grid-route-66-california/",
-          "source": "InsideEVs",
-          "published": "2026-06-16T08:28:33+00:00"
-        },
-        {
-          "title": "America's Charging Network Just Hit A Major Milestone",
-          "link": "https://insideevs.com/news/798812/ev-charging-plugs-amount-250000/",
-          "source": "InsideEVs",
-          "published": "2026-06-15T23:44:14+00:00"
-        },
-        {
-          "title": "Global EV sales hit 1.8 million in May as Europe races ahead",
-          "link": "https://electrek.co/2026/06/15/global-ev-sales-hit-1-8-million-in-may-as-europe-races-ahead/",
-          "source": "Electrek",
-          "published": "2026-06-15T23:01:00+00:00"
-        },
-        {
-          "title": "Telo's Tiny Electric Truck Moves Closer To Reality With An Important New Partner",
-          "link": "https://insideevs.com/news/798776/telo-mt1-production-update-partnership/",
-          "source": "InsideEVs",
-          "published": "2026-06-15T22:17:53+00:00"
-        },
-        {
-          "title": "Toyota reveals prices for its first electric pickup",
-          "link": "https://electrek.co/2026/06/15/toyota-reveals-prices-for-first-electric-pickup/",
-          "source": "Electrek",
-          "published": "2026-06-15T21:16:18+00:00"
-        },
-        {
-          "title": "The 2027 BMW iX5’s Monster Battery Pack Dwarfs The Competition",
-          "link": "https://insideevs.com/news/798787/bmw-ix5-large-battery-pack-range-king/",
-          "source": "InsideEVs",
-          "published": "2026-06-15T21:15:15+00:00"
-        },
-        {
-          "title": "BYD is taking its luxury electric GT on an over 9,300-mile trip from Europe to Asia",
-          "link": "https://electrek.co/2026/06/15/byd-taking-luxury-electric-gt-on-over-9300-mile-trip/",
-          "source": "Electrek",
-          "published": "2026-06-15T20:11:41+00:00"
-        },
-        {
-          "title": "Full Tesla Cybercab Specs: EPA Documents Confirm Battery Size, Weight, Power, And Preliminary Range",
-          "link": "https://insideevs.com/news/798790/tesla-cybercab-specs/",
-          "source": "InsideEVs",
-          "published": "2026-06-15T18:46:30+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 29,
+      "count": 27,
       "items": [
+        {
+          "title": "Ford is now building low-cost LFP battery cells in the US that will power its $30,000 EV pickup",
+          "link": "https://electrek.co/2026/06/17/ford-begins-building-low-cost-lfp-batteries-for-30k-ev-pickup/",
+          "source": "Electrek",
+          "published": "2026-06-17T18:17:55+00:00"
+        },
+        {
+          "title": "Velotric e-bikes up to $862 off starting from $999, Segway Early Prime 50% off e-scooter discounts + up to $405 extra savings, more",
+          "link": "https://electrek.co/2026/06/17/velotric-e-bikes-starting-from-999-segway-early-prime-electric-scooter-savings-more/",
+          "source": "Electrek",
+          "published": "2026-06-17T18:00:00+00:00"
+        },
+        {
+          "title": "Jackery FridgeGuard Takes Stylish, Customer-Centric Design to Refrigerator Backup Battery",
+          "link": "https://cleantechnica.com/2026/06/17/jackery-fridgeguard-takes-stylish-customer-centric-design-to-refrigerator-backup-battery/",
+          "source": "CleanTechnica",
+          "published": "2026-06-17T17:39:39+00:00"
+        },
         {
           "title": "100 Battery Energy Storage Systems To Be Installed At Commercial Sites",
           "link": "https://cleantechnica.com/2026/06/17/100-battery-energy-storage-systems-to-be-installed-at-commercial-sites/",
@@ -326,12 +344,6 @@
           "published": "2026-06-14T19:25:08+00:00"
         },
         {
-          "title": "This Low-Mileage 2025 Tesla Model Y Lost A Lot Of Range Fast",
-          "link": "https://insideevs.com/news/798648/model-y-serious-battery-degradation/",
-          "source": "InsideEVs",
-          "published": "2026-06-14T07:46:37+00:00"
-        },
-        {
           "title": "Fraunhofer Wants Solar Cells On Vehicles — To Help The Grid",
           "link": "https://cleantechnica.com/2026/06/13/fraunhofer-wants-solar-cells-on-vehicles-to-help-the-grid/",
           "source": "CleanTechnica",
@@ -342,12 +354,6 @@
           "link": "https://cleantechnica.com/2026/06/12/most-efficient-solar-module-in-the-world-new-record/",
           "source": "CleanTechnica",
           "published": "2026-06-13T03:57:48+00:00"
-        },
-        {
-          "title": "UK Sprints Forward With Grid Connections For 700 Clean Energy Projects",
-          "link": "https://cleantechnica.com/2026/06/12/uk-sprints-forward-with-grid-connections-for-700-clean-energy-projects/",
-          "source": "CleanTechnica",
-          "published": "2026-06-13T03:55:43+00:00"
         },
         {
           "title": "Podcast: Rivian R2 first drive, BYD goes nuts on flash charging, Donut Lab’s miracle battery is dead, and more",
@@ -408,31 +414,13 @@
           "link": "https://electrek.co/2026/06/09/jackery-early-prime-day-power-station-sale-beatbot-robot-pool-cleaners-more/",
           "source": "Electrek",
           "published": "2026-06-09T18:00:00+00:00"
-        },
-        {
-          "title": "Ukraine officially adopts new electric motorcycle for military use",
-          "link": "https://electrek.co/2026/06/09/ukraine-officially-adopts-new-electric-motorcycle-for-military-use/",
-          "source": "Electrek",
-          "published": "2026-06-09T07:08:02+00:00"
-        },
-        {
-          "title": "Donut Lab’s ‘solid-state’ battery exposed as regular li-ion in damning investigation",
-          "link": "https://electrek.co/2026/06/08/donut-lab-solid-state-battery-exposed-lithium-ion-fraud/",
-          "source": "Electrek",
-          "published": "2026-06-08T19:18:17+00:00"
-        },
-        {
-          "title": "EcoFlow Early Prime Day power station deals up 62% off + bonus savings and FREE gifts/rewards from $149, more",
-          "link": "https://electrek.co/2026/06/08/ecoflow-early-prime-day-sale-48-hour-flash-sale-power-station-from-149-more/",
-          "source": "Electrek",
-          "published": "2026-06-08T18:00:00+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 13,
+      "count": 12,
       "items": [
         {
           "title": "시작의 스케일이 커지는 모든 순간, 올 뉴 포드 익스페디션",
@@ -505,12 +493,6 @@
           "link": "https://electrek.co/2026/06/09/harleys-livewire-reveals-surprisingly-low-pricing-on-new-s4-electric-motorcycles/",
           "source": "Electrek",
           "published": "2026-06-09T13:36:00+00:00"
-        },
-        {
-          "title": "Ukraine officially adopts new electric motorcycle for military use",
-          "link": "https://electrek.co/2026/06/09/ukraine-officially-adopts-new-electric-motorcycle-for-military-use/",
-          "source": "Electrek",
-          "published": "2026-06-09T07:08:02+00:00"
         }
       ]
     },
@@ -524,6 +506,12 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=46952",
           "source": "로봇신문",
           "published": "2026-06-17T17:58:31+00:00"
+        },
+        {
+          "title": "Evaluating humanoids for surface finishing applications",
+          "link": "https://www.therobotreport.com/evaluating-humanoids-for-surface-finishing-applications/",
+          "source": "The Robot Report",
+          "published": "2026-06-17T16:02:57+00:00"
         },
         {
           "title": "Fennec Engineering earns T2 qualification for Advanced Safety Acceleration Platform",
@@ -620,12 +608,6 @@
           "link": "https://www.therobotreport.com/massrobotics-announces-winners-2026-robotics-medal-rising-star-awards/",
           "source": "The Robot Report",
           "published": "2026-06-12T21:46:47+00:00"
-        },
-        {
-          "title": "Robotics Summit panel explores the state of humanoid robot design",
-          "link": "https://www.therobotreport.com/robotics-summit-panel-explores-state-humanoid-robot-design/",
-          "source": "The Robot Report",
-          "published": "2026-06-12T20:40:37+00:00"
         },
         {
           "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
