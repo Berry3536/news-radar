@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T15:18:20.785830+00:00",
+  "generated_at": "2026-06-18T20:23:03.670449+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,58 @@
       "count": 40,
       "items": [
         {
+          "title": "California solar is crushing natural gas this year",
+          "link": "https://electrek.co/2026/06/18/california-solar-is-crushing-natural-gas-this-year/",
+          "source": "Electrek",
+          "published": "2026-06-18T20:14:39+00:00"
+        },
+        {
+          "title": "BMW opens i3 orders months ahead of schedule as demand takes off",
+          "link": "https://electrek.co/2026/06/18/bmw-i3-orders-open-months-ahead-of-plan-as-demand-takes-off/",
+          "source": "Electrek",
+          "published": "2026-06-18T19:29:11+00:00"
+        },
+        {
+          "title": "Honda and QuantumScape (QS) team up to make solid-state batteries",
+          "link": "https://electrek.co/2026/06/18/honda-quantumscape-qs-team-up-solid-state-batteries/",
+          "source": "Electrek",
+          "published": "2026-06-18T18:10:44+00:00"
+        },
+        {
+          "title": "Heybike sale up to $1,000 e-bike savings from $999, Anker SOLIX 24-hour flash sale on 508Wh to 7,680Wh power stations, Hiboy, more",
+          "link": "https://electrek.co/2026/06/18/heybike-e-bike-savings-from-999-anker-solix-508wh-to-7680wh-power-stations-hiboy-more/",
+          "source": "Electrek",
+          "published": "2026-06-18T18:00:00+00:00"
+        },
+        {
+          "title": "Honda Has A New Partner For Solid-State EV Batteries",
+          "link": "https://insideevs.com/news/799184/honda-quantumscape-solid-state-batteries/",
+          "source": "InsideEVs",
+          "published": "2026-06-18T17:28:27+00:00"
+        },
+        {
           "title": "노이어 클라쎄 기반 순수 전기 SAV, 더 뉴 BMW iX3 국내 공식 출시",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43959",
           "source": "모터그래프",
           "published": "2026-06-18T17:12:23+00:00"
+        },
+        {
+          "title": "Sweden tells EU to reject Tesla ‘FSD’ unless speeding is removed",
+          "link": "https://electrek.co/2026/06/18/sweden-tesla-fsd-speeding-eu-vote/",
+          "source": "Electrek",
+          "published": "2026-06-18T16:50:50+00:00"
+        },
+        {
+          "title": "The Ford Mustang Mach-e is on borrowed time as more affordable EVs roll in",
+          "link": "https://electrek.co/2026/06/18/ford-mustang-mach-e-on-borrowed-time-more-affordable-evs-roll-in/",
+          "source": "Electrek",
+          "published": "2026-06-18T16:30:12+00:00"
+        },
+        {
+          "title": "Tesla teases new FSD features — but it’s still not the self-driving promised",
+          "link": "https://electrek.co/2026/06/18/tesla-fsd-parking-preferences-grok-voice-control/",
+          "source": "Electrek",
+          "published": "2026-06-18T16:08:44+00:00"
         },
         {
           "title": "Volkswagen’s new EV hot hatch captured for the first time, but it’s not the ID. Polo GTI",
@@ -67,13 +115,13 @@
           "published": "2026-06-18T09:56:43+00:00"
         },
         {
-          "title": "The Rivian R2 Matches The Tesla Model Y On Efficiency, Despite Weighing More",
+          "title": "The Rivian R2 Is Just As Efficient As A Tesla Model Y, Despite Weighing More",
           "link": "https://insideevs.com/news/799110/rivian-r2-tesla-model-y-efficiency-epa/",
           "source": "InsideEVs",
           "published": "2026-06-18T09:20:06+00:00"
         },
         {
-          "title": "Electrify America’s Next-Gen EV Charging Stations Are Bigger And Better",
+          "title": "Electrify America’s Next-Gen EV Charging Stations Are Bigger, Better, And Battery-Backed",
           "link": "https://insideevs.com/news/799100/electrify-america-large-format-ev-charging-station-battery-storage/",
           "source": "InsideEVs",
           "published": "2026-06-18T08:18:27+00:00"
@@ -119,12 +167,6 @@
           "link": "https://electrek.co/2026/06/17/electrify-america-biggest-battery-storage-charging-hub/",
           "source": "Electrek",
           "published": "2026-06-17T21:33:19+00:00"
-        },
-        {
-          "title": "BMW will open i3 orders this week, months ahead of schedule, as demand takes off",
-          "link": "https://electrek.co/2026/06/17/bmw-i3-orders-open-months-ahead-of-schedule-demand-builds/",
-          "source": "Electrek",
-          "published": "2026-06-17T20:51:09+00:00"
         },
         {
           "title": "Ford is now building low-cost LFP battery cells in the US that will power its $30,000 EV pickup",
@@ -203,56 +245,38 @@
           "link": "https://electrek.co/2026/06/17/we-finally-got-to-drive-the-aptera-solar-electric-car/",
           "source": "Electrek",
           "published": "2026-06-17T14:00:00+00:00"
-        },
-        {
-          "title": "Tesla adds a car vacuum to a Supercharger for the first time",
-          "link": "https://electrek.co/2026/06/17/tesla-supercharger-car-vacuum-station/",
-          "source": "Electrek",
-          "published": "2026-06-17T12:58:13+00:00"
-        },
-        {
-          "title": "2027 Porsche Taycan adds fake gear shifts so you can make your car slower",
-          "link": "https://electrek.co/2026/06/17/2027-porsche-taycan-adds-fake-gear-shifts-so-you-can-make-your-car-slower/",
-          "source": "Electrek",
-          "published": "2026-06-17T12:00:00+00:00"
-        },
-        {
-          "title": "The first mile: Port of Vancouver launches new electric semi truck pilot",
-          "link": "https://electrek.co/2026/06/17/the-first-mile-port-of-vancouver-launches-new-electric-semi-truck-pilot/",
-          "source": "Electrek",
-          "published": "2026-06-17T11:48:07+00:00"
-        },
-        {
-          "title": "Uber is the latest to enter the Texas robotaxi battle",
-          "link": "https://electrek.co/2026/06/17/uber-lucid-robotaxi-houston/",
-          "source": "Electrek",
-          "published": "2026-06-17T11:00:00+00:00"
-        },
-        {
-          "title": "Lucid And Uber Will Bring Robotaxis To Houston Next",
-          "link": "https://insideevs.com/news/798932/lucid-gravity-robotaxi-houston-expansion-uber-nuro/",
-          "source": "InsideEVs",
-          "published": "2026-06-17T11:00:00+00:00"
-        },
-        {
-          "title": "Mobileye, Supplier Of Robotaxi Tech, Is Launching Its Own Robotaxi Fleet In The U.S.",
-          "link": "https://insideevs.com/news/798968/mobileye-robotaxi-us-launch-2027/",
-          "source": "InsideEVs",
-          "published": "2026-06-17T08:23:49+00:00"
-        },
-        {
-          "title": "BMW Is Opening i3 Orders Way Ahead Of Schedule Due To Huge Demand",
-          "link": "https://insideevs.com/news/798955/bmw-i3-orders-ahead-of-schedule/",
-          "source": "InsideEVs",
-          "published": "2026-06-17T07:30:09+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 29,
+      "count": 32,
       "items": [
+        {
+          "title": "Honda and QuantumScape (QS) team up to make solid-state batteries",
+          "link": "https://electrek.co/2026/06/18/honda-quantumscape-qs-team-up-solid-state-batteries/",
+          "source": "Electrek",
+          "published": "2026-06-18T18:10:44+00:00"
+        },
+        {
+          "title": "Honda Has A New Partner For Solid-State EV Batteries",
+          "link": "https://insideevs.com/news/799184/honda-quantumscape-solid-state-batteries/",
+          "source": "InsideEVs",
+          "published": "2026-06-18T17:28:27+00:00"
+        },
+        {
+          "title": "20 New Fast Chargers With Energy Storage Installed In Santa Barbara",
+          "link": "https://cleantechnica.com/2026/06/18/20-new-fast-chargers-with-energy-storage-installed-in-santa-barbara/",
+          "source": "CleanTechnica",
+          "published": "2026-06-18T17:00:28+00:00"
+        },
+        {
+          "title": "Ford Pitches New LFP Battery, With Rivian Breathing Down Its Neck",
+          "link": "https://cleantechnica.com/2026/06/18/ford-affordable-lfp-ev-battery-hiring-jobs-prismatic/",
+          "source": "CleanTechnica",
+          "published": "2026-06-18T16:03:06+00:00"
+        },
         {
           "title": "Forget Solid-State. This EV Battery Breakthrough Is Ready To Upend The Market Now",
           "link": "https://insideevs.com/news/799157/general-motors-silicon-anodes-solid-state-batteries/",
@@ -266,7 +290,7 @@
           "published": "2026-06-18T11:51:27+00:00"
         },
         {
-          "title": "Electrify America’s Next-Gen EV Charging Stations Are Bigger And Better",
+          "title": "Electrify America’s Next-Gen EV Charging Stations Are Bigger, Better, And Battery-Backed",
           "link": "https://insideevs.com/news/799100/electrify-america-large-format-ev-charging-station-battery-storage/",
           "source": "InsideEVs",
           "published": "2026-06-18T08:18:27+00:00"
@@ -420,25 +444,31 @@
           "link": "https://electrek.co/2026/06/10/electric-equipment-means-massive-fuel-savings-for-this-operator/",
           "source": "Electrek",
           "published": "2026-06-10T12:21:23+00:00"
-        },
-        {
-          "title": "GM becomes first automaker to partner with Redwood across full battery lifecycle",
-          "link": "https://electrek.co/2026/06/09/gm-first-automaker-redwood-materials-full-battery-lifecycle/",
-          "source": "Electrek",
-          "published": "2026-06-09T21:52:35+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 13,
+      "count": 14,
       "items": [
+        {
+          "title": "Heybike sale up to $1,000 e-bike savings from $999, Anker SOLIX 24-hour flash sale on 508Wh to 7,680Wh power stations, Hiboy, more",
+          "link": "https://electrek.co/2026/06/18/heybike-e-bike-savings-from-999-anker-solix-508wh-to-7680wh-power-stations-hiboy-more/",
+          "source": "Electrek",
+          "published": "2026-06-18T18:00:00+00:00"
+        },
         {
           "title": "지리 그룹 모터스포츠, 2026 TCR 월드 투어 2라운드 3연승",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43961",
           "source": "모터그래프",
           "published": "2026-06-18T17:10:55+00:00"
+        },
+        {
+          "title": "Sweden tells EU to reject Tesla ‘FSD’ unless speeding is removed",
+          "link": "https://electrek.co/2026/06/18/sweden-tesla-fsd-speeding-eu-vote/",
+          "source": "Electrek",
+          "published": "2026-06-18T16:50:50+00:00"
         },
         {
           "title": "Forget Solid-State. This EV Battery Breakthrough Is Ready To Upend The Market Now",
@@ -505,12 +535,6 @@
           "link": "https://electrek.co/2026/06/11/byds-luxury-ev-roadster-leaks-1500-hp-headed-overseas/",
           "source": "Electrek",
           "published": "2026-06-11T18:57:26+00:00"
-        },
-        {
-          "title": "GM becomes first automaker to partner with Redwood across full battery lifecycle",
-          "link": "https://electrek.co/2026/06/09/gm-first-automaker-redwood-materials-full-battery-lifecycle/",
-          "source": "Electrek",
-          "published": "2026-06-09T21:52:35+00:00"
         }
       ]
     },
@@ -520,10 +544,10 @@
       "count": 24,
       "items": [
         {
-          "title": "DGIST, AI 휴머노이드 신규 국책과제 선정",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46969",
+          "title": "고경철 부회장, \"피지컬 AI, 대한민국 제조업의 마지막 골든타임\" 강조",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46970",
           "source": "로봇신문",
-          "published": "2026-06-18T17:46:51+00:00"
+          "published": "2026-06-19T01:29:28+00:00"
         },
         {
           "title": "RealSense unveils AI-native D585 Pro depth camera for robots",
