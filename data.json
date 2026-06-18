@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-06-18T03:40:52.772328+00:00",
+  "generated_at": "2026-06-18T10:17:22.420187+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "노이어 클라쎄 기반 순수 전기 SAV, 더 뉴 BMW iX3 국내 공식 출시",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43959",
+          "source": "모터그래프",
+          "published": "2026-06-18T17:12:23+00:00"
+        },
+        {
+          "title": "Skipping The Ferrari Luce Could Cost Collectors The Cars They Really Want",
+          "link": "https://insideevs.com/news/799116/ferrari-luce-ev-allocation-collectors/",
+          "source": "InsideEVs",
+          "published": "2026-06-18T09:56:43+00:00"
+        },
+        {
+          "title": "The Rivian R2 Matches The Tesla Model Y On Efficiency, Despite Weighing More",
+          "link": "https://insideevs.com/news/799110/rivian-r2-tesla-model-y-efficiency-epa/",
+          "source": "InsideEVs",
+          "published": "2026-06-18T09:20:06+00:00"
+        },
+        {
+          "title": "Electrify America’s Next-Gen EV Charging Stations Are Bigger And Better",
+          "link": "https://insideevs.com/news/799100/electrify-america-large-format-ev-charging-station-battery-storage/",
+          "source": "InsideEVs",
+          "published": "2026-06-18T08:18:27+00:00"
+        },
+        {
+          "title": "The 2026 Jeep Recon’s EPA Rating Confirms It’s An Energy Guzzler",
+          "link": "https://insideevs.com/news/799088/2026-jeep-recon-epa-range-efficiency/",
+          "source": "InsideEVs",
+          "published": "2026-06-18T07:19:01+00:00"
+        },
         {
           "title": "Telo's Tiny Electric Truck For Cities Has Surprisingly High-Powered Charging",
           "link": "https://insideevs.com/news/799075/telo-mt1-ev-truck-charging/",
@@ -71,12 +101,6 @@
           "link": "https://electrek.co/2026/06/17/another-day-another-illegal-billion-dollar-bribe-to-raise-your-electricity-prices/",
           "source": "Electrek",
           "published": "2026-06-17T17:31:45+00:00"
-        },
-        {
-          "title": "시작의 스케일이 커지는 모든 순간, 올 뉴 포드 익스페디션",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43947",
-          "source": "모터그래프",
-          "published": "2026-06-17T16:59:41+00:00"
         },
         {
           "title": "Tesla Owners Are Using Doll Heads To Fool Full Self-Driving",
@@ -221,30 +245,6 @@
           "link": "https://electrek.co/2026/06/16/bluetti-2016wh-fridgepower-station-exclusive-launch-segway-xyber-e-bike-extra-battery-more/",
           "source": "Electrek",
           "published": "2026-06-16T18:00:00+00:00"
-        },
-        {
-          "title": "Hyundai is closing in on Chevy as the #2 EV brand in the US",
-          "link": "https://electrek.co/2026/06/16/hyundai-closes-in-on-chevy-as-2-ev-brand-us/",
-          "source": "Electrek",
-          "published": "2026-06-16T17:42:00+00:00"
-        },
-        {
-          "title": "Lucid Cosmos: Tesla Model Y and Rivian R2 Rival Revealed In Patent Images",
-          "link": "https://insideevs.com/news/798906/lucid-cosmos-patent-images/",
-          "source": "InsideEVs",
-          "published": "2026-06-16T17:13:40+00:00"
-        },
-        {
-          "title": "Toyota’s new EVs are catching on as registrations jump 225% in April",
-          "link": "https://electrek.co/2026/06/16/toyotas-new-evs-catch-on-registrations-jump-225-april/",
-          "source": "Electrek",
-          "published": "2026-06-16T16:07:54+00:00"
-        },
-        {
-          "title": "I Drove One Of China's Fastest EVs And Found It Surprisingly Easy To Drive—Despite Its 1,500 Horsepower",
-          "link": "https://insideevs.com/reviews/798799/xiaom-su7-ultra-test-drive/",
-          "source": "InsideEVs",
-          "published": "2026-06-16T16:05:30+00:00"
         }
       ]
     },
@@ -253,6 +253,18 @@
       "label": "배터리",
       "count": 29,
       "items": [
+        {
+          "title": "Electrify America’s Next-Gen EV Charging Stations Are Bigger And Better",
+          "link": "https://insideevs.com/news/799100/electrify-america-large-format-ev-charging-station-battery-storage/",
+          "source": "InsideEVs",
+          "published": "2026-06-18T08:18:27+00:00"
+        },
+        {
+          "title": "How Can Europe Reduce Its Strategic Dependencies by Boosting Recycling?",
+          "link": "https://cleantechnica.com/2026/06/17/how-can-europe-reduce-its-strategic-dependencies-by-boosting-recycling/",
+          "source": "CleanTechnica",
+          "published": "2026-06-18T03:40:02+00:00"
+        },
         {
           "title": "BLUETTI’s $2.2M-crowdfunded FridgePower dedicated fridge backup arrives at retail",
           "link": "https://electrek.co/2026/06/17/bluetti-fridgepower-fridge-outages-retail/",
@@ -324,18 +336,6 @@
           "link": "https://cleantechnica.com/2026/06/15/tesla-cybercab-specs-are-public-but-questions-remain/",
           "source": "CleanTechnica",
           "published": "2026-06-16T03:55:40+00:00"
-        },
-        {
-          "title": "The 2027 BMW iX5’s Monster Battery Pack Dwarfs The Competition",
-          "link": "https://insideevs.com/news/798787/bmw-ix5-large-battery-pack-range-king/",
-          "source": "InsideEVs",
-          "published": "2026-06-15T21:15:15+00:00"
-        },
-        {
-          "title": "Full Tesla Cybercab Specs: EPA Documents Confirm Battery Size, Weight, Power, And Preliminary Range",
-          "link": "https://insideevs.com/news/798790/tesla-cybercab-specs/",
-          "source": "InsideEVs",
-          "published": "2026-06-15T18:46:30+00:00"
         },
         {
           "title": "BMW’s new iX3 is a range monster, but the iX5 may push past 500 miles",
@@ -435,10 +435,10 @@
       "count": 12,
       "items": [
         {
-          "title": "시작의 스케일이 커지는 모든 순간, 올 뉴 포드 익스페디션",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43947",
+          "title": "지리 그룹 모터스포츠, 2026 TCR 월드 투어 2라운드 3연승",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43961",
           "source": "모터그래프",
-          "published": "2026-06-17T16:59:41+00:00"
+          "published": "2026-06-18T17:10:55+00:00"
         },
         {
           "title": "Washington media sow confusion, claiming new law says e-bikes are now e-motorcycles",
@@ -514,10 +514,10 @@
       "count": 24,
       "items": [
         {
-          "title": "[부고]브릴스 전진 대표 부친상",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46956",
+          "title": "DGIST, AI 휴머노이드 신규 국책과제 선정",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46969",
           "source": "로봇신문",
-          "published": "2026-06-18T09:43:25+00:00"
+          "published": "2026-06-18T17:46:51+00:00"
         },
         {
           "title": "Evaluating humanoids for surface finishing applications",
@@ -665,244 +665,244 @@
       "count": 40,
       "items": [
         {
-          "title": "목포수산식품지원센터·국립목포대, 창업기업 성장 지원 협약",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211850",
+          "title": "앤트로픽, '클로드 디자인' 업그레이드...기업용 플랫폼으로 진화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211857",
           "source": "AI타임스",
-          "published": "2026-06-18T12:33:06+00:00"
+          "published": "2026-06-18T18:59:41+00:00"
         },
         {
-          "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
-          "link": "https://arxiv.org/abs/2606.17209",
+          "title": "NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model for Autonomous Earth Observation",
+          "link": "https://arxiv.org/abs/2606.18271",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
-          "link": "https://arxiv.org/abs/2606.17220",
+          "title": "CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework",
+          "link": "https://arxiv.org/abs/2606.18385",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions",
-          "link": "https://arxiv.org/abs/2606.17266",
+          "title": "Searching for Synergy in Shared Workspace Human-AI Collaboration",
+          "link": "https://arxiv.org/abs/2606.18413",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains",
-          "link": "https://arxiv.org/abs/2606.17269",
+          "title": "CEO-Bench: Can Agents Play the Long Game?",
+          "link": "https://arxiv.org/abs/2606.18543",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "Nothing from Something: Can a Language Model Discover 0?",
-          "link": "https://arxiv.org/abs/2606.17289",
+          "title": "DeFAb: A Verifiable Benchmark for Defeasible Abduction in Foundation Models",
+          "link": "https://arxiv.org/abs/2606.18557",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
-          "link": "https://arxiv.org/abs/2606.17312",
+          "title": "Optimizing Lithium Production Decisions under Geological, Demand, and Pricing Uncertainties: A POMDP Framework for Multi-Objective Decision Making",
+          "link": "https://arxiv.org/abs/2606.18598",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "MemTrace: Probing What Final Accuracy Misses in Long-Term Memory",
-          "link": "https://arxiv.org/abs/2606.17328",
+          "title": "ForecastBench-Sim: A Simulated-World Forecasting Benchmark",
+          "link": "https://arxiv.org/abs/2606.18686",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "SpeechDx: A Multi-Task Benchmark for Clinical Speech AI",
-          "link": "https://arxiv.org/abs/2606.17339",
+          "title": "What Must Generalist Agents Remember?",
+          "link": "https://arxiv.org/abs/2606.18746",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes",
-          "link": "https://arxiv.org/abs/2606.17368",
+          "title": "R2D-RL: A RoboCup 2D Soccer Environment for Multi-Agent Reinforcement Learning",
+          "link": "https://arxiv.org/abs/2606.18786",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation",
-          "link": "https://arxiv.org/abs/2606.17405",
+          "title": "ProfiLLM: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch",
+          "link": "https://arxiv.org/abs/2606.18803",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems",
-          "link": "https://arxiv.org/abs/2606.17443",
+          "title": "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents",
+          "link": "https://arxiv.org/abs/2606.18847",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "A Machine-Learned Comorbidity Index",
-          "link": "https://arxiv.org/abs/2606.17450",
+          "title": "Externalizing Research Synthesis and Validation in AI Scientists through a Research Harness",
+          "link": "https://arxiv.org/abs/2606.18874",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "MapSatisfyBench: Benchmarking Satisfaction-Aware Map Agents through Behavior-Grounded Implicit Decision Factors",
-          "link": "https://arxiv.org/abs/2606.17453",
+          "title": "Generative-Model Predictive Planning for Navigation in Partially Observable Environments",
+          "link": "https://arxiv.org/abs/2606.18888",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "Dissecting model behavior through agent trajectories",
-          "link": "https://arxiv.org/abs/2606.17454",
+          "title": "Skill-Guided Continuation Distillation for GUI Agents",
+          "link": "https://arxiv.org/abs/2606.18890",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation",
-          "link": "https://arxiv.org/abs/2606.17459",
+          "title": "SciRisk-Bench: A Risk-Dimension-Aware Benchmark for AI4Science Safety",
+          "link": "https://arxiv.org/abs/2606.18936",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline",
-          "link": "https://arxiv.org/abs/2606.17507",
+          "title": "Decoupling Search from Reasoning: A Vendor-Agnostic Grounding Architecture for LLM Agents",
+          "link": "https://arxiv.org/abs/2606.18947",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "SEAGym: An Evaluation Environment for Self-Evolving LLM Agents",
-          "link": "https://arxiv.org/abs/2606.17546",
+          "title": "RTSGameBench: An RTS Benchmark for Strategic Reasoning by Vision-Language Models",
+          "link": "https://arxiv.org/abs/2606.18950",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "DeepInsight: A Unified Evaluation Infrastructure Across the Physical AI Stack",
-          "link": "https://arxiv.org/abs/2606.17574",
+          "title": "ThinkDeception: A Progressive Reinforcement Learning Framework for Interpretable Multimodal Deception Detection",
+          "link": "https://arxiv.org/abs/2606.18988",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "Surrogate Assisted Pedestrian Protection Design via a Foundation Model Orchestrated Workflow",
-          "link": "https://arxiv.org/abs/2606.17577",
+          "title": "RODS: Reward-Driven Online Data Synthesis for Multi-Turn Tool-Use Agents",
+          "link": "https://arxiv.org/abs/2606.19047",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "Closing the Feedback Loop: From Experience Extraction to Insight Governance in Verbal Reinforcement Learning",
-          "link": "https://arxiv.org/abs/2606.17591",
+          "title": "ARIADNE: Agnostic Routing for Inference-time Adapter DyNamic sElection",
+          "link": "https://arxiv.org/abs/2606.19079",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "Brick-DICL: Dynamic In-Context Learning for Automated Brick Schema Classification",
-          "link": "https://arxiv.org/abs/2606.17637",
+          "title": "Towards an Agent-First Web: Redesigning the Web for AI Agents",
+          "link": "https://arxiv.org/abs/2606.19116",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "FinAcumen: Financial Multimodal Reasoning via Self-Evolving Experience Memory Harness",
-          "link": "https://arxiv.org/abs/2606.17642",
+          "title": "Analysing drivers and interdependencies in European electricity markets using XAI",
+          "link": "https://arxiv.org/abs/2606.19118",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "Beyond Domains: Reusing Web Skills via Transferable Interaction Patterns",
-          "link": "https://arxiv.org/abs/2606.17645",
+          "title": "Human-AI Coevolution Dynamics: A Formal Theory of Social Intelligence Emergence Through Long-Term Interaction",
+          "link": "https://arxiv.org/abs/2606.19144",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "From Brewing to Resolution: Tracing the Internal Lifecycle of Code Reasoning in LLMs",
-          "link": "https://arxiv.org/abs/2606.17648",
+          "title": "Beyond Safe Data: Pretraining-Stage Alignment with Regular Safety Reflection",
+          "link": "https://arxiv.org/abs/2606.19168",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "Using Cognitive Models to Improve Language Model Simulation of Human Persuasion Games",
-          "link": "https://arxiv.org/abs/2606.17657",
+          "title": "User as Engram: Internalizing Per-User Memory as Local Parametric Edits",
+          "link": "https://arxiv.org/abs/2606.19172",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "FllumaOne: A Code-Native Multimodal CAD Dataset with Executable Programs and Kernel-Validated Feature Histories",
-          "link": "https://arxiv.org/abs/2606.17696",
+          "title": "TxBench-PP: Analyzing AI Agent Performance on Small-Molecule Preclinical Pharmacology",
+          "link": "https://arxiv.org/abs/2606.19245",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "EComAgentBench: Benchmarking Shopping Agents on Long-Horizon Tasks with Distributed Hidden Intent",
-          "link": "https://arxiv.org/abs/2606.17698",
+          "title": "X+Slides: Benchmarking Audience-Conditioned Slide Generation",
+          "link": "https://arxiv.org/abs/2606.19256",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "LongWebBench: Evaluating Structural and Functional Webpage Generation in Long-Horizon Settings",
-          "link": "https://arxiv.org/abs/2606.17727",
+          "title": "NeSyCat Torch: A Differentiable Tensor Implementation of Categorical Semantics for Neurosymbolic Learning",
+          "link": "https://arxiv.org/abs/2606.19279",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "Shattering the Autoregressive Curse: Dynamic Epistemic Entropy Orchestrated Erasable Reinforcement Learning for LLMs",
-          "link": "https://arxiv.org/abs/2606.17735",
+          "title": "Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation",
+          "link": "https://arxiv.org/abs/2606.19327",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "DecoSearch: Complexity-Aware Routing and Plan-Level Repair for Text-to-SQL",
-          "link": "https://arxiv.org/abs/2606.17821",
+          "title": "QSignAI: Quantum-Randomness-Seeded Identity Signatures at the Intersection of AI for Science and Science for AI",
+          "link": "https://arxiv.org/abs/2605.27729",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "WallZero: Mastering the Game of WallGo with Strategic Analysis",
-          "link": "https://arxiv.org/abs/2606.17847",
+          "title": "Dynamic In-Group Persona Generation for Enhancing Human-AI Rapport",
+          "link": "https://arxiv.org/abs/2606.18256",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "A homotopy-type-theoretic generalization of neurosymbolic inference",
-          "link": "https://arxiv.org/abs/2606.17851",
+          "title": "From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions",
+          "link": "https://arxiv.org/abs/2606.18257",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "FlowRAG: Synergizing Explicit Reasoning via Frequency-Aware Multi-Granularity Graph Flow",
-          "link": "https://arxiv.org/abs/2606.17856",
+          "title": "Examining Human-Like Behaviors in LLMs: A Multi-Dimensional Analysis of Model Behaviors, User Factors, and System Prompts",
+          "link": "https://arxiv.org/abs/2606.18258",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "StepGuard: Guarding Web Navigation via Single-Step Calibration",
-          "link": "https://arxiv.org/abs/2606.17871",
+          "title": "Caring Without Feeling: Affective Dynamics as the Control Layer of Human-AI Agent Collaboration",
+          "link": "https://arxiv.org/abs/2606.18259",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "Structural Preservation and the Logical Expressiveness of Graph Neural Networks",
-          "link": "https://arxiv.org/abs/2606.17882",
+          "title": "How Well Do Large Language Models Capture Human Personality?",
+          "link": "https://arxiv.org/abs/2606.18263",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "MathVis-Fine: Aligning Visual Supervision with Necessity via Progressive Dependency-Guided Training for Multimodal Mathematical Reasoning",
-          "link": "https://arxiv.org/abs/2606.17888",
+          "title": "Simulating Hate Speech Cascades with Multi-LLM Agents: Empirical Grounding, Modeling Fidelity, and Intervention Strategies",
+          "link": "https://arxiv.org/abs/2606.18264",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "Learn to Quantify Social Interaction with Constraints for Pedestrian Walking",
-          "link": "https://arxiv.org/abs/2606.17897",
+          "title": "Synthetic Resonance: A Framework for Growth-Oriented Human-AI Relationships",
+          "link": "https://arxiv.org/abs/2606.18265",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "DiagFlowBench: Evaluating How Language Models Handle Off-Procedure Inputs in Grounded Diagnostic Dialogue",
-          "link": "https://arxiv.org/abs/2606.17904",
+          "title": "EMORSION: Examining the Impact of Audio Parameters on Emotional Responses and Immersion in Film",
+          "link": "https://arxiv.org/abs/2606.18266",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         },
         {
-          "title": "PreAct: Computer-Using Agents that Get Faster on Repeated Tasks",
-          "link": "https://arxiv.org/abs/2606.17929",
+          "title": "Towards Multi-Agent-Simulation-Based Community Note Evaluation",
+          "link": "https://arxiv.org/abs/2606.18268",
           "source": "arXiv cs.AI",
-          "published": "2026-06-17T04:00:00+00:00"
+          "published": "2026-06-18T04:00:00+00:00"
         }
       ]
     }
