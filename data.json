@@ -1,11 +1,53 @@
 {
-  "generated_at": "2026-06-17T20:09:50.847248+00:00",
+  "generated_at": "2026-06-18T03:40:52.772328+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Telo's Tiny Electric Truck For Cities Has Surprisingly High-Powered Charging",
+          "link": "https://insideevs.com/news/799075/telo-mt1-ev-truck-charging/",
+          "source": "InsideEVs",
+          "published": "2026-06-17T23:59:37+00:00"
+        },
+        {
+          "title": "Illinois put community solar on a 150-year-old coal mine",
+          "link": "https://electrek.co/2026/06/17/illinois-put-community-solar-on-a-150-year-old-coal-mine/",
+          "source": "Electrek",
+          "published": "2026-06-17T23:31:59+00:00"
+        },
+        {
+          "title": "BLUETTI’s $2.2M-crowdfunded FridgePower dedicated fridge backup arrives at retail",
+          "link": "https://electrek.co/2026/06/17/bluetti-fridgepower-fridge-outages-retail/",
+          "source": "Electrek",
+          "published": "2026-06-17T23:00:00+00:00"
+        },
+        {
+          "title": "The 2027 Porsche Taycan Gets Fake Gear Shifts And A Bigger Standard Battery",
+          "link": "https://insideevs.com/news/799071/porsche-taycan-fake-gear-shifts/",
+          "source": "InsideEVs",
+          "published": "2026-06-17T22:23:31+00:00"
+        },
+        {
+          "title": "Elon Musk gets a $116 billion Tesla payday",
+          "link": "https://electrek.co/2026/06/17/musk-exercises-2018-tesla-pay-package-116-billion/",
+          "source": "Electrek",
+          "published": "2026-06-17T21:51:52+00:00"
+        },
+        {
+          "title": "Electrify America opens its biggest battery-backed charging station",
+          "link": "https://electrek.co/2026/06/17/electrify-america-biggest-battery-storage-charging-hub/",
+          "source": "Electrek",
+          "published": "2026-06-17T21:33:19+00:00"
+        },
+        {
+          "title": "BMW will open i3 orders this week, months ahead of schedule, as demand takes off",
+          "link": "https://electrek.co/2026/06/17/bmw-i3-orders-open-months-ahead-of-schedule-demand-builds/",
+          "source": "Electrek",
+          "published": "2026-06-17T20:51:09+00:00"
+        },
         {
           "title": "Ford is now building low-cost LFP battery cells in the US that will power its $30,000 EV pickup",
           "link": "https://electrek.co/2026/06/17/ford-begins-building-low-cost-lfp-batteries-for-30k-ev-pickup/",
@@ -203,56 +245,32 @@
           "link": "https://insideevs.com/reviews/798799/xiaom-su7-ultra-test-drive/",
           "source": "InsideEVs",
           "published": "2026-06-16T16:05:30+00:00"
-        },
-        {
-          "title": "Kia’s electric van delivers more driving range in the real world at 260 miles",
-          "link": "https://electrek.co/2026/06/16/kias-ev-van-beats-range-rating-driving-260-miles-in-real-world/",
-          "source": "Electrek",
-          "published": "2026-06-16T14:17:22+00:00"
-        },
-        {
-          "title": "Tesla ‘Robotaxis’ are not crashing because they are not running",
-          "link": "https://electrek.co/2026/06/16/tesla-robotaxi-clean-crash-record-barely-running/",
-          "source": "Electrek",
-          "published": "2026-06-16T13:50:51+00:00"
-        },
-        {
-          "title": "Ex-Tesla exec builds the home heat pump Tesla gave up for robots",
-          "link": "https://electrek.co/2026/06/16/tesla-home-heat-pump-drew-baglino-sadi-robots/",
-          "source": "Electrek",
-          "published": "2026-06-16T13:21:09+00:00"
-        },
-        {
-          "title": "Baidu Apollo Go wins Level 4 robotaxi approval in Switzerland as AmiGo",
-          "link": "https://electrek.co/2026/06/16/baidu-apollo-go-amigo-switzerland-level-4-approval/",
-          "source": "Electrek",
-          "published": "2026-06-16T12:40:42+00:00"
-        },
-        {
-          "title": "Who killed the lightweight commuter e-bike?",
-          "link": "https://electrek.co/2026/06/16/who-killed-the-lightweight-commuter-e-bike/",
-          "source": "Electrek",
-          "published": "2026-06-16T12:10:47+00:00"
-        },
-        {
-          "title": "Rivian just made it easier to save money on home EV charging",
-          "link": "https://electrek.co/2026/06/16/rivian-just-made-it-easier-to-save-money-on-home-ev-charging/",
-          "source": "Electrek",
-          "published": "2026-06-16T12:00:00+00:00"
-        },
-        {
-          "title": "Rivian’s Latest Partnership Unlocks Cheaper Home EV Charging",
-          "link": "https://insideevs.com/news/798838/rivian-partnership-cheaper-home-charging/",
-          "source": "InsideEVs",
-          "published": "2026-06-16T12:00:00+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 27,
+      "count": 29,
       "items": [
+        {
+          "title": "BLUETTI’s $2.2M-crowdfunded FridgePower dedicated fridge backup arrives at retail",
+          "link": "https://electrek.co/2026/06/17/bluetti-fridgepower-fridge-outages-retail/",
+          "source": "Electrek",
+          "published": "2026-06-17T23:00:00+00:00"
+        },
+        {
+          "title": "The 2027 Porsche Taycan Gets Fake Gear Shifts And A Bigger Standard Battery",
+          "link": "https://insideevs.com/news/799071/porsche-taycan-fake-gear-shifts/",
+          "source": "InsideEVs",
+          "published": "2026-06-17T22:23:31+00:00"
+        },
+        {
+          "title": "Electrify America opens its biggest battery-backed charging station",
+          "link": "https://electrek.co/2026/06/17/electrify-america-biggest-battery-storage-charging-hub/",
+          "source": "Electrek",
+          "published": "2026-06-17T21:33:19+00:00"
+        },
         {
           "title": "Ford is now building low-cost LFP battery cells in the US that will power its $30,000 EV pickup",
           "link": "https://electrek.co/2026/06/17/ford-begins-building-low-cost-lfp-batteries-for-30k-ev-pickup/",
@@ -348,12 +366,6 @@
           "link": "https://cleantechnica.com/2026/06/13/fraunhofer-wants-solar-cells-on-vehicles-to-help-the-grid/",
           "source": "CleanTechnica",
           "published": "2026-06-14T03:26:39+00:00"
-        },
-        {
-          "title": "Most Efficient Solar Module in the World — New Record",
-          "link": "https://cleantechnica.com/2026/06/12/most-efficient-solar-module-in-the-world-new-record/",
-          "source": "CleanTechnica",
-          "published": "2026-06-13T03:57:48+00:00"
         },
         {
           "title": "Podcast: Rivian R2 first drive, BYD goes nuts on flash charging, Donut Lab’s miracle battery is dead, and more",
@@ -502,10 +514,10 @@
       "count": 24,
       "items": [
         {
-          "title": "“인공지능으로 물류 문제 해결”…청년·일반 국민 대상 해커톤 개최",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46952",
+          "title": "[부고]브릴스 전진 대표 부친상",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46956",
           "source": "로봇신문",
-          "published": "2026-06-17T17:58:31+00:00"
+          "published": "2026-06-18T09:43:25+00:00"
         },
         {
           "title": "Evaluating humanoids for surface finishing applications",
@@ -653,10 +665,10 @@
       "count": 40,
       "items": [
         {
-          "title": "오픈AI, '페이블 5' 금지 이후 '코덱스' 용량 초과 시달려",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211816",
+          "title": "목포수산식품지원센터·국립목포대, 창업기업 성장 지원 협약",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211850",
           "source": "AI타임스",
-          "published": "2026-06-17T19:05:02+00:00"
+          "published": "2026-06-18T12:33:06+00:00"
         },
         {
           "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
