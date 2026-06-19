@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-06-19T04:04:23.230112+00:00",
+  "generated_at": "2026-06-19T10:22:50.334430+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "인사이드 노이어 클라쎄-EP.4 미래를 달리는 가장 BMW다운 방법",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43954",
+          "source": "모터그래프",
+          "published": "2026-06-19T17:11:16+00:00"
+        },
+        {
+          "title": "The Mercedes VLE Is A Brave Gamble. Will It Pay Off?",
+          "link": "https://insideevs.com/reviews/799181/mercedes-vle-first-drive/",
+          "source": "InsideEVs",
+          "published": "2026-06-19T07:00:00+00:00"
+        },
         {
           "title": "Volvo just made public EV charging a lot less annoying",
           "link": "https://electrek.co/2026/06/18/volvo-public-ev-charging-ex90-ex60/",
@@ -53,12 +65,6 @@
           "link": "https://insideevs.com/news/799184/honda-quantumscape-solid-state-batteries/",
           "source": "InsideEVs",
           "published": "2026-06-18T17:28:27+00:00"
-        },
-        {
-          "title": "노이어 클라쎄 기반 순수 전기 SAV, 더 뉴 BMW iX3 국내 공식 출시",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43959",
-          "source": "모터그래프",
-          "published": "2026-06-18T17:12:23+00:00"
         },
         {
           "title": "Sweden tells EU to reject Tesla ‘FSD’ unless speeding is removed",
@@ -239,12 +245,6 @@
           "link": "https://electrek.co/2026/06/17/trump-doj-xai-gas-turbines-memphis-national-security/",
           "source": "Electrek",
           "published": "2026-06-17T15:30:49+00:00"
-        },
-        {
-          "title": "BYD launches its flagship electric SUV for $35,500 with a record 150,000 preorders",
-          "link": "https://electrek.co/2026/06/17/byd-launches-flagship-ev-suv-record-150000-preorders/",
-          "source": "Electrek",
-          "published": "2026-06-17T14:38:51+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 33,
       "items": [
+        {
+          "title": "Here Comes Another New Addition To The US EV Battery Ecosystem",
+          "link": "https://cleantechnica.com/2026/06/19/ev-battery-supply-chain-us-graphite-alaska-ohio/",
+          "source": "CleanTechnica",
+          "published": "2026-06-19T04:53:03+00:00"
+        },
         {
           "title": "Clean Energy Groups Challenge Utility Commission Cancellation of N.C. Solar Development",
           "link": "https://cleantechnica.com/2026/06/18/clean-energy-groups-challenge-utility-commission-cancellation-of-n-c-solar-development/",
@@ -374,12 +380,6 @@
           "published": "2026-06-16T13:21:09+00:00"
         },
         {
-          "title": "The Audi A6 Allroad Is Now A Plug-In Hybrid Antidote To Boring SUVs",
-          "link": "https://insideevs.com/news/798875/audi-a6-allroad-plug-in-hybrid-specs-range/",
-          "source": "InsideEVs",
-          "published": "2026-06-16T11:27:14+00:00"
-        },
-        {
           "title": "Tesla Cybercab Specs Are Public — But Questions Remain",
           "link": "https://cleantechnica.com/2026/06/15/tesla-cybercab-specs-are-public-but-questions-remain/",
           "source": "CleanTechnica",
@@ -459,16 +459,16 @@
       "count": 14,
       "items": [
         {
+          "title": "인사이드 노이어 클라쎄-EP.4 미래를 달리는 가장 BMW다운 방법",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43954",
+          "source": "모터그래프",
+          "published": "2026-06-19T17:11:16+00:00"
+        },
+        {
           "title": "Heybike sale up to $1,000 e-bike savings from $999, Anker SOLIX 24-hour flash sale on 508Wh to 7,680Wh power stations, Hiboy, more",
           "link": "https://electrek.co/2026/06/18/heybike-e-bike-savings-from-999-anker-solix-508wh-to-7680wh-power-stations-hiboy-more/",
           "source": "Electrek",
           "published": "2026-06-18T18:00:00+00:00"
-        },
-        {
-          "title": "지리 그룹 모터스포츠, 2026 TCR 월드 투어 2라운드 3연승",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43961",
-          "source": "모터그래프",
-          "published": "2026-06-18T17:10:55+00:00"
         },
         {
           "title": "Sweden tells EU to reject Tesla ‘FSD’ unless speeding is removed",
@@ -550,10 +550,10 @@
       "count": 24,
       "items": [
         {
-          "title": "고경철 부회장, \"피지컬 AI, 대한민국 제조업의 마지막 골든타임\" 강조",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46970",
+          "title": "‘한국-체코 첨단로봇산업 협력센터’ 출범…글로벌 로봇 협력 본격화",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46998",
           "source": "로봇신문",
-          "published": "2026-06-19T01:29:28+00:00"
+          "published": "2026-06-19T17:59:54+00:00"
         },
         {
           "title": "RealSense unveils AI-native D585 Pro depth camera for robots",
@@ -701,10 +701,10 @@
       "count": 40,
       "items": [
         {
-          "title": "얀 르쿤 \"머스크의 xAI는 실패작...오픈AI·앤트로픽과 경쟁 안 돼\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211894",
+          "title": "\"미소스 5는 막혔지만 프리뷰는 사용 가능\"...일부는 차단돼 '혼란 가중'",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211926",
           "source": "AI타임스",
-          "published": "2026-06-19T12:10:33+00:00"
+          "published": "2026-06-19T18:20:38+00:00"
         },
         {
           "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
