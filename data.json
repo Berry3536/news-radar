@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T15:10:03.820727+00:00",
+  "generated_at": "2026-06-19T19:46:51.457729+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,58 @@
       "count": 40,
       "items": [
         {
+          "title": "Podcast: we drive Aptera’s solar car, Tesla Cybercab specs revealed, Lucid Cosmos design leaks, and more",
+          "link": "https://electrek.co/2026/06/19/podcast-we-drive-apteras-solar-car-tesla-cybercab-specs-revealed-lucid-cosmos-design-leaks-and-more/",
+          "source": "Electrek",
+          "published": "2026-06-19T19:43:48+00:00"
+        },
+        {
+          "title": "One giant US power line, enough wind power for 1 million homes",
+          "link": "https://electrek.co/2026/06/19/sunzia-one-giant-us-power-line-wind-power-for-1-million-homes/",
+          "source": "Electrek",
+          "published": "2026-06-19T19:38:06+00:00"
+        },
+        {
+          "title": "Hyundai is giving the Kona EV a complete overhaul, and it already looks like an upgrade",
+          "link": "https://electrek.co/2026/06/19/hyundai-giving-kona-ev-complete-overhaul/",
+          "source": "Electrek",
+          "published": "2026-06-19T19:19:53+00:00"
+        },
+        {
+          "title": "400 hp Mercedes-Benz VLE 300 combines limo luxury with lots of legroom",
+          "link": "https://electrek.co/2026/06/19/400-hp-mercedes-benz-vle-300-combines-limo-luxury-with-lots-of-legroom/",
+          "source": "Electrek",
+          "published": "2026-06-19T18:12:49+00:00"
+        },
+        {
+          "title": "Aventon Aventure smart e-bikes at new lows, Yozma IN 10 dirt bike exclusive new $879 low, Jackery power stations, Segway, more",
+          "link": "https://electrek.co/2026/06/19/aventon-e-bikes-yozma-in-10-dirt-bike-jackery-power-stations-segway-more/",
+          "source": "Electrek",
+          "published": "2026-06-19T18:00:00+00:00"
+        },
+        {
+          "title": "BMW can’t wait: i3 orders open months early as buyers rush in",
+          "link": "https://electrek.co/2026/06/19/bmw-opens-i3-orders-months-early-demand-surges/",
+          "source": "Electrek",
+          "published": "2026-06-19T17:23:34+00:00"
+        },
+        {
           "title": "인사이드 노이어 클라쎄-EP.4 미래를 달리는 가장 BMW다운 방법",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43954",
           "source": "모터그래프",
           "published": "2026-06-19T17:11:16+00:00"
+        },
+        {
+          "title": "Jeep’s off-road EV goes on sale for $67,000, but its range is a bit disappointing",
+          "link": "https://electrek.co/2026/06/19/jeeps-off-road-ev-on-sale-for-67000-range-comes-up-short/",
+          "source": "Electrek",
+          "published": "2026-06-19T16:21:04+00:00"
+        },
+        {
+          "title": "Telo confirms 400 kW sustained charging for its tiny electric truck",
+          "link": "https://electrek.co/2026/06/19/telo-confirms-400-kw-sustained-charging-tiny-electric-truck/",
+          "source": "Electrek",
+          "published": "2026-06-19T15:50:01+00:00"
         },
         {
           "title": "Maserati boosts Folgore EV range by up to 85 km in 2026 refresh",
@@ -89,12 +137,6 @@
           "link": "https://electrek.co/2026/06/18/california-solar-is-crushing-natural-gas-this-year/",
           "source": "Electrek",
           "published": "2026-06-18T20:14:39+00:00"
-        },
-        {
-          "title": "BMW opens i3 orders months ahead of schedule as demand takes off",
-          "link": "https://electrek.co/2026/06/18/bmw-i3-orders-open-months-ahead-of-plan-as-demand-takes-off/",
-          "source": "Electrek",
-          "published": "2026-06-18T19:29:11+00:00"
         },
         {
           "title": "Honda and QuantumScape (QS) team up to make ‘game-changing’ solid-state batteries",
@@ -203,56 +245,26 @@
           "link": "https://insideevs.com/news/799088/2026-jeep-recon-epa-range-efficiency/",
           "source": "InsideEVs",
           "published": "2026-06-18T07:19:01+00:00"
-        },
-        {
-          "title": "Telo's Tiny Electric Truck For Cities Has Surprisingly High-Powered Charging",
-          "link": "https://insideevs.com/news/799075/telo-mt1-ev-truck-charging/",
-          "source": "InsideEVs",
-          "published": "2026-06-17T23:59:37+00:00"
-        },
-        {
-          "title": "Illinois put community solar on a 150-year-old coal mine",
-          "link": "https://electrek.co/2026/06/17/illinois-put-community-solar-on-a-150-year-old-coal-mine/",
-          "source": "Electrek",
-          "published": "2026-06-17T23:31:59+00:00"
-        },
-        {
-          "title": "BLUETTI’s $2.2M-crowdfunded FridgePower dedicated fridge backup arrives at retail",
-          "link": "https://electrek.co/2026/06/17/bluetti-fridgepower-fridge-outages-retail/",
-          "source": "Electrek",
-          "published": "2026-06-17T23:00:00+00:00"
-        },
-        {
-          "title": "The 2027 Porsche Taycan Gets Fake Gear Shifts And A Bigger Standard Battery",
-          "link": "https://insideevs.com/news/799071/porsche-taycan-fake-gear-shifts/",
-          "source": "InsideEVs",
-          "published": "2026-06-17T22:23:31+00:00"
-        },
-        {
-          "title": "Elon Musk gets a $116 billion Tesla payday",
-          "link": "https://electrek.co/2026/06/17/musk-exercises-2018-tesla-pay-package-116-billion/",
-          "source": "Electrek",
-          "published": "2026-06-17T21:51:52+00:00"
-        },
-        {
-          "title": "Electrify America opens its biggest battery-backed charging station",
-          "link": "https://electrek.co/2026/06/17/electrify-america-biggest-battery-storage-charging-hub/",
-          "source": "Electrek",
-          "published": "2026-06-17T21:33:19+00:00"
-        },
-        {
-          "title": "Ford is now building low-cost LFP battery cells in the US that will power its $30,000 EV pickup",
-          "link": "https://electrek.co/2026/06/17/ford-begins-building-low-cost-lfp-batteries-for-30k-ev-pickup/",
-          "source": "Electrek",
-          "published": "2026-06-17T18:17:55+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 34,
+      "count": 33,
       "items": [
+        {
+          "title": "400 hp Mercedes-Benz VLE 300 combines limo luxury with lots of legroom",
+          "link": "https://electrek.co/2026/06/19/400-hp-mercedes-benz-vle-300-combines-limo-luxury-with-lots-of-legroom/",
+          "source": "Electrek",
+          "published": "2026-06-19T18:12:49+00:00"
+        },
+        {
+          "title": "Telo confirms 400 kW sustained charging for its tiny electric truck",
+          "link": "https://electrek.co/2026/06/19/telo-confirms-400-kw-sustained-charging-tiny-electric-truck/",
+          "source": "Electrek",
+          "published": "2026-06-19T15:50:01+00:00"
+        },
         {
           "title": "9,000 Miles Of Proof: Electric Trucks Can Tow, But Battery Size Is Everything",
           "link": "https://cleantechnica.com/2026/06/19/9000-miles-of-proof-electric-trucks-can-tow-but-battery-size-is-everything/",
@@ -392,12 +404,6 @@
           "published": "2026-06-16T13:21:09+00:00"
         },
         {
-          "title": "Tesla Cybercab Specs Are Public — But Questions Remain",
-          "link": "https://cleantechnica.com/2026/06/15/tesla-cybercab-specs-are-public-but-questions-remain/",
-          "source": "CleanTechnica",
-          "published": "2026-06-16T03:55:40+00:00"
-        },
-        {
           "title": "BMW’s new iX3 is a range monster, but the iX5 may push past 500 miles",
           "link": "https://electrek.co/2026/06/15/bmw-ix3-range-monster-ix5-may-top-500-miles/",
           "source": "Electrek",
@@ -444,18 +450,6 @@
           "link": "https://electrek.co/2026/06/11/bluetti-prime-day-elite-200-v2-power-station-navee-g5-max-e-scooter-ego-electric-mini-bike-more/",
           "source": "Electrek",
           "published": "2026-06-11T18:00:00+00:00"
-        },
-        {
-          "title": "Xiaomi gets approval to build extended-range EVs, plans full-size SUV to rival Li Auto",
-          "link": "https://electrek.co/2026/06/11/xiaomi-extended-range-suv-skynomad-erev-regulatory-approval/",
-          "source": "Electrek",
-          "published": "2026-06-11T13:17:12+00:00"
-        },
-        {
-          "title": "GM is betting on battery cells that don’t use lithium",
-          "link": "https://electrek.co/2026/06/10/gm-sodium-ion-battery-peak-energy/",
-          "source": "Electrek",
-          "published": "2026-06-10T23:21:28+00:00"
         }
       ]
     },
@@ -559,7 +553,7 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 26,
+      "count": 25,
       "items": [
         {
           "title": "‘한국-체코 첨단로봇산업 협력센터’ 출범…글로벌 로봇 협력 본격화",
@@ -710,12 +704,6 @@
           "link": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
           "source": "IEEE Spectrum",
           "published": "2026-06-09T12:00:02+00:00"
-        },
-        {
-          "title": "Video Friday: Watch This Running Robot Not Fall Down Stairs",
-          "link": "https://spectrum.ieee.org/video-friday-humanoid-robot-running",
-          "source": "IEEE Spectrum",
-          "published": "2026-06-05T15:30:01+00:00"
         }
       ]
     },
