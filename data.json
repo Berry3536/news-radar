@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-06-20T13:57:44.110381+00:00",
+  "generated_at": "2026-06-20T19:22:28.080863+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "The Volvo EX60 And EX90 Get An Important EV Fast-Charging Upgrade",
+          "link": "https://insideevs.com/news/799188/volvo-ex60-ex90-ev-plug-and-charge/",
+          "source": "InsideEVs",
+          "published": "2026-06-20T14:00:00+00:00"
+        },
         {
           "title": "A Tesla Model Y Battery Test Looked Bad. Then The Degradation Almost Stopped",
           "link": "https://insideevs.com/news/799342/tesla-model-y-lfp-degradation/",
@@ -239,12 +245,6 @@
           "link": "https://electrek.co/2026/06/18/california-vpp-is-rolling-out-a-6000-rebate-for-new-home-batteries/",
           "source": "Electrek",
           "published": "2026-06-18T11:51:27+00:00"
-        },
-        {
-          "title": "Skipping The Ferrari Luce Could Cost Collectors The Cars They Really Want",
-          "link": "https://insideevs.com/news/799116/ferrari-luce-ev-allocation-collectors/",
-          "source": "InsideEVs",
-          "published": "2026-06-18T09:56:43+00:00"
         }
       ]
     },
@@ -574,6 +574,12 @@
           "published": "2026-06-20T19:21:41+00:00"
         },
         {
+          "title": "Defense manufacturing readiness hinges on autonomous finishing, says GrayMatter Robotics",
+          "link": "https://www.therobotreport.com/defense-manufacturing-readiness-hinges-autonomous-surface-prep-says-graymatter/",
+          "source": "The Robot Report",
+          "published": "2026-06-20T14:00:30+00:00"
+        },
+        {
           "title": "Video Friday: Do Robots Even Need Legs?",
           "link": "https://spectrum.ieee.org/video-friday-agentic-ai-robot",
           "source": "IEEE Spectrum",
@@ -674,12 +680,6 @@
           "link": "https://www.therobotreport.com/xlab-and-built-robotics-partner-to-advance-construction/",
           "source": "The Robot Report",
           "published": "2026-06-16T11:04:11+00:00"
-        },
-        {
-          "title": "PSYONIC partners with ABB Robotics to apply human touch to robot dexterity",
-          "link": "https://www.therobotreport.com/psyonic-abb-robotics-partner-apply-human-touch-data-robot-dexterity/",
-          "source": "The Robot Report",
-          "published": "2026-06-16T04:01:53+00:00"
         },
         {
           "title": "Visual Language Models Train Robots to Read Human Emotions",
