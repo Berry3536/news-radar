@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-06-19T19:46:51.457729+00:00",
+  "generated_at": "2026-06-20T03:27:25.416080+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "BYD’s luxury SUV received a record 150,000 orders, and now it’s headed overseas",
+          "link": "https://electrek.co/2026/06/19/byds-luxury-suv-heads-overseas-after-record-150000-orders/",
+          "source": "Electrek",
+          "published": "2026-06-19T21:13:27+00:00"
+        },
         {
           "title": "Podcast: we drive Aptera’s solar car, Tesla Cybercab specs revealed, Lucid Cosmos design leaks, and more",
           "link": "https://electrek.co/2026/06/19/podcast-we-drive-apteras-solar-car-tesla-cybercab-specs-revealed-lucid-cosmos-design-leaks-and-more/",
@@ -239,20 +245,20 @@
           "link": "https://insideevs.com/news/799100/electrify-america-large-format-ev-charging-station-battery-storage/",
           "source": "InsideEVs",
           "published": "2026-06-18T08:18:27+00:00"
-        },
-        {
-          "title": "The 2026 Jeep Recon’s EPA Rating Confirms It’s An Energy Guzzler",
-          "link": "https://insideevs.com/news/799088/2026-jeep-recon-epa-range-efficiency/",
-          "source": "InsideEVs",
-          "published": "2026-06-18T07:19:01+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 33,
+      "count": 34,
       "items": [
+        {
+          "title": "ABB Solar & Storage Power Move — New High-Efficiency Power Conversion Solutions for Solar & Storage",
+          "link": "https://cleantechnica.com/2026/06/19/abb-solar-storage-power-move-new-high-efficiency-power-conversion-solutions-for-solar-storage/",
+          "source": "CleanTechnica",
+          "published": "2026-06-19T23:07:26+00:00"
+        },
         {
           "title": "400 hp Mercedes-Benz VLE 300 combines limo luxury with lots of legroom",
           "link": "https://electrek.co/2026/06/19/400-hp-mercedes-benz-vle-300-combines-limo-luxury-with-lots-of-legroom/",
@@ -713,10 +719,10 @@
       "count": 40,
       "items": [
         {
-          "title": "\"미소스 5는 막혔지만 프리뷰는 사용 가능\"...일부는 차단돼 '혼란 가중'",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211926",
+          "title": "노르웨이, 초등학교 생성 AI 사실상 금지...\"읽기·쓰기·수학이 먼저\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211940",
           "source": "AI타임스",
-          "published": "2026-06-19T18:20:38+00:00"
+          "published": "2026-06-20T11:58:55+00:00"
         },
         {
           "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
