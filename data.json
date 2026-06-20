@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-06-20T08:51:59.388489+00:00",
+  "generated_at": "2026-06-20T13:57:44.110381+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "A Tesla Model Y Battery Test Looked Bad. Then The Degradation Almost Stopped",
+          "link": "https://insideevs.com/news/799342/tesla-model-y-lfp-degradation/",
+          "source": "InsideEVs",
+          "published": "2026-06-20T12:22:40+00:00"
+        },
+        {
+          "title": "License Plate Cameras Are About To Start Tracking A Lot More Than Just Your Car",
+          "link": "https://insideevs.com/news/799191/alpr-cameras-track-more-devices/",
+          "source": "InsideEVs",
+          "published": "2026-06-20T11:00:00+00:00"
+        },
         {
           "title": "BYD’s luxury SUV received a record 150,000 orders, and now it’s headed overseas",
           "link": "https://electrek.co/2026/06/19/byds-luxury-suv-heads-overseas-after-record-150000-orders/",
@@ -233,26 +245,20 @@
           "link": "https://insideevs.com/news/799116/ferrari-luce-ev-allocation-collectors/",
           "source": "InsideEVs",
           "published": "2026-06-18T09:56:43+00:00"
-        },
-        {
-          "title": "The Rivian R2 Is Just As Efficient As A Tesla Model Y, Despite Weighing More",
-          "link": "https://insideevs.com/news/799110/rivian-r2-tesla-model-y-efficiency-epa/",
-          "source": "InsideEVs",
-          "published": "2026-06-18T09:20:06+00:00"
-        },
-        {
-          "title": "Electrify America’s Next-Gen EV Charging Stations Are Bigger, Better, And Battery-Backed",
-          "link": "https://insideevs.com/news/799100/electrify-america-large-format-ev-charging-station-battery-storage/",
-          "source": "InsideEVs",
-          "published": "2026-06-18T08:18:27+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 34,
+      "count": 35,
       "items": [
+        {
+          "title": "A Tesla Model Y Battery Test Looked Bad. Then The Degradation Almost Stopped",
+          "link": "https://insideevs.com/news/799342/tesla-model-y-lfp-degradation/",
+          "source": "InsideEVs",
+          "published": "2026-06-20T12:22:40+00:00"
+        },
         {
           "title": "ABB Solar & Storage Power Move — New High-Efficiency Power Conversion Solutions for Solar & Storage",
           "link": "https://cleantechnica.com/2026/06/19/abb-solar-storage-power-move-new-high-efficiency-power-conversion-solutions-for-solar-storage/",
@@ -562,10 +568,10 @@
       "count": 25,
       "items": [
         {
-          "title": "‘한국-체코 첨단로봇산업 협력센터’ 출범…글로벌 로봇 협력 본격화",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=46998",
+          "title": "[부고]이승현 로보티즈 팀장 부친상",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47000",
           "source": "로봇신문",
-          "published": "2026-06-19T17:59:54+00:00"
+          "published": "2026-06-20T19:21:41+00:00"
         },
         {
           "title": "Video Friday: Do Robots Even Need Legs?",
@@ -719,10 +725,10 @@
       "count": 40,
       "items": [
         {
-          "title": "[AI 이슈트렌드] 월드컵 열기 속 미·이란 종전 MOU와 스페이스X 상장 주목",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211941",
+          "title": "박준우 베슬AI 리더 \"분산 GPU 최적화, 토큰 시대의 해답\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211798",
           "source": "AI타임스",
-          "published": "2026-06-20T17:45:16+00:00"
+          "published": "2026-06-20T22:40:45+00:00"
         },
         {
           "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
