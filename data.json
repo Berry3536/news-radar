@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-06-20T19:22:28.080863+00:00",
+  "generated_at": "2026-06-21T03:57:30.422576+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Tesla driver says it was on Autopilot before fatal Texas home crash",
+          "link": "https://electrek.co/2026/06/20/tesla-autopilot-katy-texas-home-crash-woman-killed/",
+          "source": "Electrek",
+          "published": "2026-06-21T01:47:23+00:00"
+        },
         {
           "title": "The Volvo EX60 And EX90 Get An Important EV Fast-Charging Upgrade",
           "link": "https://insideevs.com/news/799188/volvo-ex60-ex90-ev-plug-and-charge/",
@@ -239,12 +245,6 @@
           "link": "https://electrek.co/2026/06/18/heres-how-aaa-is-now-getting-into-e-bikes/",
           "source": "Electrek",
           "published": "2026-06-18T13:18:00+00:00"
-        },
-        {
-          "title": "California VPP is rolling out a $6,000 rebate for new home batteries",
-          "link": "https://electrek.co/2026/06/18/california-vpp-is-rolling-out-a-6000-rebate-for-new-home-batteries/",
-          "source": "Electrek",
-          "published": "2026-06-18T11:51:27+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 35,
       "items": [
+        {
+          "title": "As Kenya’s Electric Motorcycle Ecosystem Grows, Local Firms Are Starting to Specialise and Forge Interesting Partnerships With Large Global Firms",
+          "link": "https://cleantechnica.com/2026/06/20/as-kenyas-electric-motorcycle-ecosystem-grows-local-firms-are-starting-to-specialise-and-forge-interesting-partnerships-with-large-global-firms/",
+          "source": "CleanTechnica",
+          "published": "2026-06-20T21:16:28+00:00"
+        },
         {
           "title": "A Tesla Model Y Battery Test Looked Bad. Then The Degradation Almost Stopped",
           "link": "https://insideevs.com/news/799342/tesla-model-y-lfp-degradation/",
@@ -390,12 +396,6 @@
           "link": "https://cleantechnica.com/2026/06/17/jackery-fridgeguard-takes-stylish-customer-centric-design-to-refrigerator-backup-battery/",
           "source": "CleanTechnica",
           "published": "2026-06-17T17:39:39+00:00"
-        },
-        {
-          "title": "100 Battery Energy Storage Systems To Be Installed At Commercial Sites",
-          "link": "https://cleantechnica.com/2026/06/17/100-battery-energy-storage-systems-to-be-installed-at-commercial-sites/",
-          "source": "CleanTechnica",
-          "published": "2026-06-17T14:09:21+00:00"
         },
         {
           "title": "Home solar in rural America: a storm just took out your power, now what?",
@@ -725,10 +725,10 @@
       "count": 40,
       "items": [
         {
-          "title": "박준우 베슬AI 리더 \"분산 GPU 최적화, 토큰 시대의 해답\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211798",
+          "title": "한은의 '반도체 보너스발 인플레 경고'...CNBC \"유례없는 규모\" 조명",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211952",
           "source": "AI타임스",
-          "published": "2026-06-20T22:40:45+00:00"
+          "published": "2026-06-21T12:14:20+00:00"
         },
         {
           "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
