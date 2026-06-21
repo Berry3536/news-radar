@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-06-21T09:46:26.567656+00:00",
+  "generated_at": "2026-06-21T14:05:09.838899+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "From labs to logistics: China tests sodium batteries in HD trucks",
+          "link": "https://electrek.co/2026/06/21/from-labs-to-logistics-china-tests-sodium-batteries-in-hd-trucks/",
+          "source": "Electrek",
+          "published": "2026-06-21T13:27:38+00:00"
+        },
+        {
+          "title": "The wait is over: Royal Enfield’s first electric motorcycle begins deliveries",
+          "link": "https://electrek.co/2026/06/21/the-wait-is-over-royal-enfields-first-electric-motorcycle-begins-deliveries/",
+          "source": "Electrek",
+          "published": "2026-06-21T11:47:46+00:00"
+        },
         {
           "title": "Tesla driver says it was on Autopilot before fatal Texas home crash",
           "link": "https://electrek.co/2026/06/20/tesla-autopilot-katy-texas-home-crash-woman-killed/",
@@ -233,26 +245,20 @@
           "link": "https://electrek.co/2026/06/18/we-toured-the-aptera-factory-to-see-if-the-company-is-gonna-make-it/",
           "source": "Electrek",
           "published": "2026-06-18T14:00:00+00:00"
-        },
-        {
-          "title": "Waymo Just Recalled A Bunch Of Robotaxis Because They Could Drive Into Closed Highway Construction Lanes",
-          "link": "https://insideevs.com/news/799151/waymo-robotaxi-recall/",
-          "source": "InsideEVs",
-          "published": "2026-06-18T13:57:14+00:00"
-        },
-        {
-          "title": "Here’s how AAA is now getting into e-bikes",
-          "link": "https://electrek.co/2026/06/18/heres-how-aaa-is-now-getting-into-e-bikes/",
-          "source": "Electrek",
-          "published": "2026-06-18T13:18:00+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 38,
+      "count": 37,
       "items": [
+        {
+          "title": "From labs to logistics: China tests sodium batteries in HD trucks",
+          "link": "https://electrek.co/2026/06/21/from-labs-to-logistics-china-tests-sodium-batteries-in-hd-trucks/",
+          "source": "Electrek",
+          "published": "2026-06-21T13:27:38+00:00"
+        },
         {
           "title": "BYD Battery Production Ramps Up In Brazil",
           "link": "https://cleantechnica.com/2026/06/20/byd-battery-production-ramps-up-in-brazil/",
@@ -410,12 +416,6 @@
           "published": "2026-06-17T18:00:00+00:00"
         },
         {
-          "title": "Jackery FridgeGuard Takes Stylish, Customer-Centric Design to Refrigerator Backup Battery",
-          "link": "https://cleantechnica.com/2026/06/17/jackery-fridgeguard-takes-stylish-customer-centric-design-to-refrigerator-backup-battery/",
-          "source": "CleanTechnica",
-          "published": "2026-06-17T17:39:39+00:00"
-        },
-        {
           "title": "Home solar in rural America: a storm just took out your power, now what?",
           "link": "https://electrek.co/2026/06/16/home-solar-in-rural-america-a-storm-just-took-out-your-power-now-what/",
           "source": "Electrek",
@@ -474,20 +474,20 @@
           "link": "https://electrek.co/2026/06/11/georgia-is-about-to-have-the-biggest-solar-cell-factory-in-us-history/",
           "source": "Electrek",
           "published": "2026-06-11T20:54:01+00:00"
-        },
-        {
-          "title": "Bluetti exclusive Early Prime Day Elite 200 V2 power station $759, Navee G5 Max e-scooter $650 low, EGO electric mini bike, more",
-          "link": "https://electrek.co/2026/06/11/bluetti-prime-day-elite-200-v2-power-station-navee-g5-max-e-scooter-ego-electric-mini-bike-more/",
-          "source": "Electrek",
-          "published": "2026-06-11T18:00:00+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 15,
+      "count": 16,
       "items": [
+        {
+          "title": "The wait is over: Royal Enfield’s first electric motorcycle begins deliveries",
+          "link": "https://electrek.co/2026/06/21/the-wait-is-over-royal-enfields-first-electric-motorcycle-begins-deliveries/",
+          "source": "Electrek",
+          "published": "2026-06-21T11:47:46+00:00"
+        },
         {
           "title": "인사이드 노이어 클라쎄-EP.4 미래를 달리는 가장 BMW다운 방법",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43954",
@@ -586,10 +586,16 @@
       "count": 25,
       "items": [
         {
-          "title": "[부고]이승현 로보티즈 팀장 부친상",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47000",
+          "title": "이스라엘 엘모, 로봇용 새 모션 컨트롤러·서보 드라이브 출시",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47010",
           "source": "로봇신문",
-          "published": "2026-06-20T19:21:41+00:00"
+          "published": "2026-06-21T20:10:13+00:00"
+        },
+        {
+          "title": "Güdel to show grinding beyond stationary robots with vertical, horizontal motion at Automate 2026",
+          "link": "https://www.therobotreport.com/gudel-to-showcase-grinding-beyond-stationary-robots-integrated-vertical-horizontal-motion-automate/",
+          "source": "The Robot Report",
+          "published": "2026-06-21T12:30:43+00:00"
         },
         {
           "title": "Defense manufacturing readiness hinges on autonomous finishing, says GrayMatter Robotics",
@@ -694,12 +700,6 @@
           "published": "2026-06-16T12:59:29+00:00"
         },
         {
-          "title": "Built Robotics, Penn xLAB to develop physical AI for construction",
-          "link": "https://www.therobotreport.com/xlab-and-built-robotics-partner-to-advance-construction/",
-          "source": "The Robot Report",
-          "published": "2026-06-16T11:04:11+00:00"
-        },
-        {
           "title": "Visual Language Models Train Robots to Read Human Emotions",
           "link": "https://spectrum.ieee.org/robot-emotions-visual-language-models",
           "source": "IEEE Spectrum",
@@ -743,10 +743,10 @@
       "count": 1,
       "items": [
         {
-          "title": "손으로 작동하는 '크랭크GPT'...\"AI 답변 받으려면 직접 전력 생산\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211953",
+          "title": "'최초·최다 AI 더빙' 허드슨에이아이 “에이전틱 더빙 시대 열 것”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211946",
           "source": "AI타임스",
-          "published": "2026-06-21T17:48:07+00:00"
+          "published": "2026-06-21T20:00:38+00:00"
         }
       ]
     }
