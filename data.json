@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-06-21T14:05:09.838899+00:00",
+  "generated_at": "2026-06-21T19:26:46.830494+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Tesla plans to sell modular AI data center hardware called ‘Megapod’",
+          "link": "https://electrek.co/2026/06/21/tesla-megapod-ai-data-center-hardware/",
+          "source": "Electrek",
+          "published": "2026-06-21T14:26:22+00:00"
+        },
         {
           "title": "From labs to logistics: China tests sodium batteries in HD trucks",
           "link": "https://electrek.co/2026/06/21/from-labs-to-logistics-china-tests-sodium-batteries-in-hd-trucks/",
@@ -239,12 +245,6 @@
           "link": "https://electrek.co/2026/06/18/tesla-head-of-quality-kahiree-gans-returns-stellantis/",
           "source": "Electrek",
           "published": "2026-06-18T14:12:15+00:00"
-        },
-        {
-          "title": "We toured the Aptera factory to see if the solar EV company is gonna make it",
-          "link": "https://electrek.co/2026/06/18/we-toured-the-aptera-factory-to-see-if-the-company-is-gonna-make-it/",
-          "source": "Electrek",
-          "published": "2026-06-18T14:00:00+00:00"
         }
       ]
     },
@@ -480,7 +480,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 16,
+      "count": 15,
       "items": [
         {
           "title": "The wait is over: Royal Enfield’s first electric motorcycle begins deliveries",
@@ -571,12 +571,6 @@
           "link": "https://electrek.co/2026/06/12/bmws-menacing-ev-concept-reveals-m3-ev-design-images/",
           "source": "Electrek",
           "published": "2026-06-12T14:57:21+00:00"
-        },
-        {
-          "title": "BYD’s luxury EV roadster leaks with a tri-motor 1,500+ hp setup, and it’s headed overseas",
-          "link": "https://electrek.co/2026/06/11/byds-luxury-ev-roadster-leaks-1500-hp-headed-overseas/",
-          "source": "Electrek",
-          "published": "2026-06-11T18:57:26+00:00"
         }
       ]
     },
@@ -586,10 +580,10 @@
       "count": 25,
       "items": [
         {
-          "title": "이스라엘 엘모, 로봇용 새 모션 컨트롤러·서보 드라이브 출시",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47010",
+          "title": "AI 이후, 부는 어디로 이동하는가",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47015",
           "source": "로봇신문",
-          "published": "2026-06-21T20:10:13+00:00"
+          "published": "2026-06-22T01:15:56+00:00"
         },
         {
           "title": "Güdel to show grinding beyond stationary robots with vertical, horizontal motion at Automate 2026",
