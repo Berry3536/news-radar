@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T03:57:30.422576+00:00",
+  "generated_at": "2026-06-21T09:46:26.567656+00:00",
   "categories": [
     {
       "key": "ev",
@@ -251,8 +251,26 @@
     {
       "key": "battery",
       "label": "배터리",
-      "count": 35,
+      "count": 38,
       "items": [
+        {
+          "title": "BYD Battery Production Ramps Up In Brazil",
+          "link": "https://cleantechnica.com/2026/06/20/byd-battery-production-ramps-up-in-brazil/",
+          "source": "CleanTechnica",
+          "published": "2026-06-21T03:57:47+00:00"
+        },
+        {
+          "title": "India Needs 10 GWh of Battery Storage Now to Stop Coal’s Inflexibility Wasting Clean Power",
+          "link": "https://cleantechnica.com/2026/06/20/india-needs-10-gwh-of-battery-storage-now-to-stop-coals-inflexibility-wasting-clean-power/",
+          "source": "CleanTechnica",
+          "published": "2026-06-21T03:53:44+00:00"
+        },
+        {
+          "title": "Perovskite-Silicon Solar Cells Meet Matrix Shingled Interconnection Collaboration between Oxford PV & Fraunhofer ISE",
+          "link": "https://cleantechnica.com/2026/06/20/perovskite-silicon-solar-cells-meet-matrix-shingled-interconnection-collaboration-between-oxford-pv-fraunhofer-ise/",
+          "source": "CleanTechnica",
+          "published": "2026-06-21T03:50:01+00:00"
+        },
         {
           "title": "As Kenya’s Electric Motorcycle Ecosystem Grows, Local Firms Are Starting to Specialise and Forge Interesting Partnerships With Large Global Firms",
           "link": "https://cleantechnica.com/2026/06/20/as-kenyas-electric-motorcycle-ecosystem-grows-local-firms-are-starting-to-specialise-and-forge-interesting-partnerships-with-large-global-firms/",
@@ -722,247 +740,13 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 40,
+      "count": 1,
       "items": [
         {
-          "title": "한은의 '반도체 보너스발 인플레 경고'...CNBC \"유례없는 규모\" 조명",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211952",
+          "title": "손으로 작동하는 '크랭크GPT'...\"AI 답변 받으려면 직접 전력 생산\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211953",
           "source": "AI타임스",
-          "published": "2026-06-21T12:14:20+00:00"
-        },
-        {
-          "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
-          "link": "https://arxiv.org/abs/2606.19464",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
-          "link": "https://arxiv.org/abs/2606.19469",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "Diffusion Language Models: An Experimental Analysis",
-          "link": "https://arxiv.org/abs/2606.19475",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
-          "link": "https://arxiv.org/abs/2606.19494",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
-          "link": "https://arxiv.org/abs/2606.19501",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
-          "link": "https://arxiv.org/abs/2606.19509",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "REVEAL++: Differentiable Phenotypic Grouping for Vision-Language Retinal Modeling of Alzheimer's Disease Risk",
-          "link": "https://arxiv.org/abs/2606.19522",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "Emergent Alignment",
-          "link": "https://arxiv.org/abs/2606.19527",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "ITNet: A Learnable Integral Transform That Subsumes Convolution, Attention, and Recurrence",
-          "link": "https://arxiv.org/abs/2606.19538",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "Uncertainty Decomposition for Clarification Seeking in LLM Agents",
-          "link": "https://arxiv.org/abs/2606.19559",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "Analyzing the Narration Gap in LLM-Solver Loops",
-          "link": "https://arxiv.org/abs/2606.19588",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
-          "link": "https://arxiv.org/abs/2606.19602",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "Which Pairs to Compare for LLM Post-Training?",
-          "link": "https://arxiv.org/abs/2606.19607",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "Toten: Knowledge-Based Ontological Tokenization Of Physical Quantities And Technical Notation In Brazilian Portuguese",
-          "link": "https://arxiv.org/abs/2606.19626",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "AI4SE and SE4AI Exploration: A Decade Looking Back and Forward",
-          "link": "https://arxiv.org/abs/2606.19630",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation",
-          "link": "https://arxiv.org/abs/2606.19651",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "Denoising Implicit Feedback for Cold-start Recommendation",
-          "link": "https://arxiv.org/abs/2606.19658",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "Exit-and-Join Dynamics for Decentralized Coalition Formation",
-          "link": "https://arxiv.org/abs/2606.19683",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents",
-          "link": "https://arxiv.org/abs/2606.19704",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "GLARE: A Natural Language Interface for Querying Global Explanations",
-          "link": "https://arxiv.org/abs/2606.19735",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks",
-          "link": "https://arxiv.org/abs/2606.19741",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "A Comparative Study of Pretrained Transformer Models for Quranic ASR: Speech Representations, Label Formats, and Dataset Composition",
-          "link": "https://arxiv.org/abs/2606.19747",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "Benchmarking Agentic Review Systems",
-          "link": "https://arxiv.org/abs/2606.19749",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "Grounded Inference: Principles for Deterministically Encapsulated Generative Models",
-          "link": "https://arxiv.org/abs/2606.19753",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "Optimal Scheduling in a Question-Answering Forum of Knowledge Workers",
-          "link": "https://arxiv.org/abs/2606.19759",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "Beyond Entropy: Learning from Token-Level Distributional Deviations for LLM Reasoning",
-          "link": "https://arxiv.org/abs/2606.19771",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "AgentFinVQA: A Deployable Multi-Agent Pipeline for Auditable Financial Chart QA",
-          "link": "https://arxiv.org/abs/2606.19782",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "ORAgentBench: Can LLM Agents Solve Challenging Operations Research Tasks End to End?",
-          "link": "https://arxiv.org/abs/2606.19787",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "CombEval: A Framework for Evaluating Combinatorial Counting in Large Language Models",
-          "link": "https://arxiv.org/abs/2606.19788",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "Think Again or Think Longer? Selective Verification for Budget-Aware Reasoning",
-          "link": "https://arxiv.org/abs/2606.19808",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "Human-on-the-Loop Orchestration for AI-Assisted Legal Discovery",
-          "link": "https://arxiv.org/abs/2606.19812",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "TelcoAgent: A Scalable 5G Multi-KPM Forecasting With 3GPP-Grounded Explainability",
-          "link": "https://arxiv.org/abs/2606.19821",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "A Systematic Evaluation of Black-Box Uncertainty Estimation Methods for Large Language Models",
-          "link": "https://arxiv.org/abs/2606.19868",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "MetaResearcher: Scaling Deep Research via Self-Reflective Reinforcement Learning in Adversarial Virtual Environments",
-          "link": "https://arxiv.org/abs/2606.19893",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "Multi-Agent Transactive Memory",
-          "link": "https://arxiv.org/abs/2606.19911",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "eCNNTO: A Highly Generalizable ConvNet for Accelerating Topology Optimization",
-          "link": "https://arxiv.org/abs/2606.19921",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "The Tao of Agency: Autotelic AI, Embedded Agency and Dissolution of the Self",
-          "link": "https://arxiv.org/abs/2606.19924",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "PhysDrift: Bridging the Embodiment Gap in Humanoid Co-Speech Motion Generation",
-          "link": "https://arxiv.org/abs/2606.19935",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
-        },
-        {
-          "title": "Advancing DialNav through Automatic Embodied Dialog Augmentation",
-          "link": "https://arxiv.org/abs/2606.19948",
-          "source": "arXiv cs.AI",
-          "published": "2026-06-20T04:00:00+00:00"
+          "published": "2026-06-21T17:48:07+00:00"
         }
       ]
     }
