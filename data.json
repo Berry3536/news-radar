@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-06-21T19:26:46.830494+00:00",
+  "generated_at": "2026-06-22T03:58:53.024486+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Electric cars win again at Pike’s Peak as Super Mustang Mach-E gets its revenge",
+          "link": "https://electrek.co/2026/06/21/electric-cars-win-at-pikes-peak-as-the-super-mustang-mach-e-gets-its-revenge/",
+          "source": "Electrek",
+          "published": "2026-06-21T23:19:55+00:00"
+        },
+        {
+          "title": "This zinc mine needed a truck no one made, so they made it themselves",
+          "link": "https://electrek.co/2026/06/21/this-zinc-mine-needed-a-truck-no-one-made-so-they-made-their-own/",
+          "source": "Electrek",
+          "published": "2026-06-21T21:57:22+00:00"
+        },
         {
           "title": "Tesla plans to sell modular AI data center hardware called ‘Megapod’",
           "link": "https://electrek.co/2026/06/21/tesla-megapod-ai-data-center-hardware/",
@@ -233,18 +245,6 @@
           "link": "https://insideevs.com/news/799157/general-motors-silicon-anodes-solid-state-batteries/",
           "source": "InsideEVs",
           "published": "2026-06-18T14:34:23+00:00"
-        },
-        {
-          "title": "E-bike motor king Bosch launches its first hub motor for electric bicycles",
-          "link": "https://electrek.co/2026/06/18/e-bike-motor-king-bosch-launches-its-first-hub-motor-for-electric-bicycles/",
-          "source": "Electrek",
-          "published": "2026-06-18T14:26:39+00:00"
-        },
-        {
-          "title": "Tesla loses its head of quality to Stellantis",
-          "link": "https://electrek.co/2026/06/18/tesla-head-of-quality-kahiree-gans-returns-stellantis/",
-          "source": "Electrek",
-          "published": "2026-06-18T14:12:15+00:00"
         }
       ]
     },
@@ -253,6 +253,18 @@
       "label": "배터리",
       "count": 37,
       "items": [
+        {
+          "title": "The EV Battery Call Is Coming From Inside The House",
+          "link": "https://cleantechnica.com/2026/06/21/ev-battery-solid-state-lithium-metal-quantumscape-manufacturing/",
+          "source": "CleanTechnica",
+          "published": "2026-06-22T02:56:44+00:00"
+        },
+        {
+          "title": "This zinc mine needed a truck no one made, so they made it themselves",
+          "link": "https://electrek.co/2026/06/21/this-zinc-mine-needed-a-truck-no-one-made-so-they-made-their-own/",
+          "source": "Electrek",
+          "published": "2026-06-21T21:57:22+00:00"
+        },
         {
           "title": "From labs to logistics: China tests sodium batteries in HD trucks",
           "link": "https://electrek.co/2026/06/21/from-labs-to-logistics-china-tests-sodium-batteries-in-hd-trucks/",
@@ -380,12 +392,6 @@
           "published": "2026-06-18T08:18:27+00:00"
         },
         {
-          "title": "How Can Europe Reduce Its Strategic Dependencies by Boosting Recycling?",
-          "link": "https://cleantechnica.com/2026/06/17/how-can-europe-reduce-its-strategic-dependencies-by-boosting-recycling/",
-          "source": "CleanTechnica",
-          "published": "2026-06-18T03:40:02+00:00"
-        },
-        {
           "title": "BLUETTI’s $2.2M-crowdfunded FridgePower dedicated fridge backup arrives at retail",
           "link": "https://electrek.co/2026/06/17/bluetti-fridgepower-fridge-outages-retail/",
           "source": "Electrek",
@@ -468,12 +474,6 @@
           "link": "https://electrek.co/2026/06/11/solid-state-batteries-now-powering-evs-in-real-world/",
           "source": "Electrek",
           "published": "2026-06-12T00:38:04+00:00"
-        },
-        {
-          "title": "Georgia is about to have the biggest solar cell factory in US history",
-          "link": "https://electrek.co/2026/06/11/georgia-is-about-to-have-the-biggest-solar-cell-factory-in-us-history/",
-          "source": "Electrek",
-          "published": "2026-06-11T20:54:01+00:00"
         }
       ]
     },
@@ -737,10 +737,10 @@
       "count": 1,
       "items": [
         {
-          "title": "'최초·최다 AI 더빙' 허드슨에이아이 “에이전틱 더빙 시대 열 것”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211946",
+          "title": "KAIST, 고령자·장애인 옷 입혀주는 로봇 기술로 ICRA 최우수 논문상 수상",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211968",
           "source": "AI타임스",
-          "published": "2026-06-21T20:00:38+00:00"
+          "published": "2026-06-22T12:40:46+00:00"
         }
       ]
     }
