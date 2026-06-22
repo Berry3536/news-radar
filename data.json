@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T16:51:36.152450+00:00",
+  "generated_at": "2026-06-22T20:43:47.379450+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,13 +7,43 @@
       "count": 40,
       "items": [
         {
+          "title": "Hyundai is discounting EVs because who wants to pay for gas these days",
+          "link": "https://electrek.co/2026/06/22/hyundai-discounting-evs-gas/",
+          "source": "Electrek",
+          "published": "2026-06-22T19:29:58+00:00"
+        },
+        {
+          "title": "Rivian Has A Bold Plan For You To Skip The Repair Shop",
+          "link": "https://insideevs.com/news/799432/rivian-80-percent-service-home/",
+          "source": "InsideEVs",
+          "published": "2026-06-22T19:14:50+00:00"
+        },
+        {
+          "title": "Early Prime flash sales on EcoFlow + Anker SOLIX power stations, Gotrax electric dirt bike for kids $484 low, tool lows, more",
+          "link": "https://electrek.co/2026/06/22/early-prime-flash-sales-ecoflow-anker-solix-power-stations-gotrax-electric-dirt-bike-more/",
+          "source": "Electrek",
+          "published": "2026-06-22T18:00:00+00:00"
+        },
+        {
+          "title": "Gazelle unveils stylish e-bike powered by Bosch’s new hub motor",
+          "link": "https://electrek.co/2026/06/22/gazelle-unveils-stylish-e-bike-powered-by-boschs-new-hub-motor/",
+          "source": "Electrek",
+          "published": "2026-06-22T17:57:09+00:00"
+        },
+        {
+          "title": "New solid-state battery electrolyte retains over 84% of its capacity after 350 cycles",
+          "link": "https://electrek.co/2026/06/22/solid-state-battery-electrolyte-retains-84-capacity-after-350-cycles/",
+          "source": "Electrek",
+          "published": "2026-06-22T17:18:16+00:00"
+        },
+        {
           "title": "3분기 출시 예정, 미리 보는 더 뉴 메르세데스-벤츠 S 클래스",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43979",
           "source": "모터그래프",
           "published": "2026-06-22T17:01:30+00:00"
         },
         {
-          "title": "This Xiaomi Was Slow Around The Nuburgring. It Also Had No Driver",
+          "title": "A Driverless Xiaomi Electric SUV Just Lapped The Ring. We Have Questions",
           "link": "https://insideevs.com/news/799478/xiaomi-yu7-nurburgring-driverless-lap/",
           "source": "InsideEVs",
           "published": "2026-06-22T16:50:48+00:00"
@@ -215,36 +245,6 @@
           "link": "https://electrek.co/2026/06/19/colombia-announces-750-mile-electric-truck-corridor-linking-bogota-to-cartagena/",
           "source": "Electrek",
           "published": "2026-06-19T12:09:38+00:00"
-        },
-        {
-          "title": "The New Chevy Bolt Was Driven Until It Died. Here’s What Its Battery Buffer Looks Like",
-          "link": "https://insideevs.com/news/799204/new-chevy-bolt-ev-battery-buffer-reserve-range/",
-          "source": "InsideEVs",
-          "published": "2026-06-19T12:00:00+00:00"
-        },
-        {
-          "title": "Dacia’s Tiny EV Keeps Its Name, But Not Much Else",
-          "link": "https://insideevs.com/news/799262/dacia-new-ev-spring-confirmed/",
-          "source": "InsideEVs",
-          "published": "2026-06-19T10:36:50+00:00"
-        },
-        {
-          "title": "The Mercedes VLE Is A Brave Gamble. Will It Pay Off?",
-          "link": "https://insideevs.com/reviews/799181/mercedes-vle-first-drive/",
-          "source": "InsideEVs",
-          "published": "2026-06-19T07:00:00+00:00"
-        },
-        {
-          "title": "Volvo just made public EV charging a lot less annoying",
-          "link": "https://electrek.co/2026/06/18/volvo-public-ev-charging-ex90-ex60/",
-          "source": "Electrek",
-          "published": "2026-06-18T22:46:06+00:00"
-        },
-        {
-          "title": "Tesla HW3 claim grows to 7,000 owners, gets law firm backing for collective action",
-          "link": "https://electrek.co/2026/06/18/tesla-hw3-claim-netherlands-7000-owners-kennedy-van-der-laan/",
-          "source": "Electrek",
-          "published": "2026-06-18T22:17:38+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 38,
       "items": [
+        {
+          "title": "New solid-state battery electrolyte retains over 84% of its capacity after 350 cycles",
+          "link": "https://electrek.co/2026/06/22/solid-state-battery-electrolyte-retains-84-capacity-after-350-cycles/",
+          "source": "Electrek",
+          "published": "2026-06-22T17:18:16+00:00"
+        },
         {
           "title": "Octopus and CATL unveil a giant EV truck battery-swapping network",
           "link": "https://electrek.co/2026/06/22/octopus-and-catl-unveil-a-giant-ev-truck-battery-swapping-network/",
@@ -474,20 +480,20 @@
           "link": "https://electrek.co/2026/06/14/scania-scores-105-unit-electric-semi-truck-deal-video/",
           "source": "Electrek",
           "published": "2026-06-14T19:25:08+00:00"
-        },
-        {
-          "title": "Podcast: Rivian R2 first drive, BYD goes nuts on flash charging, Donut Lab’s miracle battery is dead, and more",
-          "link": "https://electrek.co/2026/06/12/podcast-rivian-r2-first-drive-byd-goes-nuts-on-flash-charging-donut-labs-miracle-battery-is-dead-and-more/",
-          "source": "Electrek",
-          "published": "2026-06-12T19:52:09+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 15,
+      "count": 16,
       "items": [
+        {
+          "title": "Gazelle unveils stylish e-bike powered by Bosch’s new hub motor",
+          "link": "https://electrek.co/2026/06/22/gazelle-unveils-stylish-e-bike-powered-by-boschs-new-hub-motor/",
+          "source": "Electrek",
+          "published": "2026-06-22T17:57:09+00:00"
+        },
         {
           "title": "금호타이어, 현대 N 페스티벌 2라운드 포디엄 석권",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43976",
@@ -586,6 +592,24 @@
       "count": 25,
       "items": [
         {
+          "title": "How Intrinsic eliminates manual robot coding",
+          "link": "https://www.therobotreport.com/how-intrinsic-eliminates-manual-robot-coding/",
+          "source": "The Robot Report",
+          "published": "2026-06-22T19:17:05+00:00"
+        },
+        {
+          "title": "Bear Robotics acquires Kinisi Robotics to boost its physical AI capabilities",
+          "link": "https://www.therobotreport.com/bear-robotics-acquires-kinisi-robotics-to-boost-its-physical-ai-capabilities/",
+          "source": "The Robot Report",
+          "published": "2026-06-22T19:13:14+00:00"
+        },
+        {
+          "title": "Eclipse Automation launches RealitySync simulation platform",
+          "link": "https://www.therobotreport.com/eclipse-automation-launches-realitysync-simulation-platform/",
+          "source": "The Robot Report",
+          "published": "2026-06-22T18:42:47+00:00"
+        },
+        {
           "title": "미래 융합인재들의 축제 ‘2026 월드 스팀 올림피아드’ 성황리 개최",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47031",
           "source": "로봇신문",
@@ -676,28 +700,10 @@
           "published": "2026-06-17T14:00:43+00:00"
         },
         {
-          "title": "Autonomique deploys semi-humanoid robots and AI at Canadian Tier 1",
-          "link": "https://www.therobotreport.com/autonomique-deploys-semi-humanoid-robots-canadian-tier-1/",
-          "source": "The Robot Report",
-          "published": "2026-06-17T14:00:34+00:00"
-        },
-        {
-          "title": "Sanctuary AI validates physical AI performance at Tier 1 automotive supplier",
-          "link": "https://www.therobotreport.com/sanctuary-ai-validates-physical-ai-performance-tier-1-automotive-supplier/",
-          "source": "The Robot Report",
-          "published": "2026-06-17T13:00:54+00:00"
-        },
-        {
           "title": "The Secret to Marathon-Winning Humanoid Robots",
           "link": "https://spectrum.ieee.org/china-humanoid-robot-marathon",
           "source": "IEEE Spectrum",
           "published": "2026-06-17T12:19:27+00:00"
-        },
-        {
-          "title": "Pegasus Tech Ventures launches $60M fund for physical AI startups",
-          "link": "https://www.therobotreport.com/pegasus-tech-ventures-launches-60m-fund-physical-ai-startups/",
-          "source": "The Robot Report",
-          "published": "2026-06-16T19:22:47+00:00"
         },
         {
           "title": "Visual Language Models Train Robots to Read Human Emotions",
