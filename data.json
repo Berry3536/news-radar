@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-06-22T03:58:53.024486+00:00",
+  "generated_at": "2026-06-22T11:49:31.699316+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "3분기 출시 예정, 미리 보는 더 뉴 메르세데스-벤츠 S 클래스",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43979",
+          "source": "모터그래프",
+          "published": "2026-06-22T17:01:30+00:00"
+        },
+        {
+          "title": "Tesla FSD Finally Reached Europe. Now Speed Limits May Slow Its Expansion",
+          "link": "https://insideevs.com/news/799424/sweden-questions-tesla-fsd-europe/",
+          "source": "InsideEVs",
+          "published": "2026-06-22T11:42:41+00:00"
+        },
+        {
+          "title": "Xiaomi YU7 GT sets another Nurburgring record – with nobody in the driver’s seat",
+          "link": "https://electrek.co/2026/06/22/xiaomi-yu7-gt-sets-another-nurburgring-record-with-nobody-in-the-drivers-seat/",
+          "source": "Electrek",
+          "published": "2026-06-22T10:01:11+00:00"
+        },
+        {
+          "title": "Europe is betting big on a battery that runs for four days",
+          "link": "https://electrek.co/2026/06/22/europe-is-betting-big-on-a-battery-that-runs-for-four-days/",
+          "source": "Electrek",
+          "published": "2026-06-22T07:01:00+00:00"
+        },
         {
           "title": "Electric cars win again at Pike’s Peak as Super Mustang Mach-E gets its revenge",
           "link": "https://electrek.co/2026/06/21/electric-cars-win-at-pikes-peak-as-the-super-mustang-mach-e-gets-its-revenge/",
@@ -101,12 +125,6 @@
           "link": "https://electrek.co/2026/06/19/bmw-opens-i3-orders-months-early-demand-surges/",
           "source": "Electrek",
           "published": "2026-06-19T17:23:34+00:00"
-        },
-        {
-          "title": "인사이드 노이어 클라쎄-EP.4 미래를 달리는 가장 BMW다운 방법",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43954",
-          "source": "모터그래프",
-          "published": "2026-06-19T17:11:16+00:00"
         },
         {
           "title": "Jeep’s off-road EV goes on sale for $67,000, but its range is a bit disappointing",
@@ -227,24 +245,6 @@
           "link": "https://electrek.co/2026/06/18/ford-mustang-mach-e-on-borrowed-time-more-affordable-evs-roll-in/",
           "source": "Electrek",
           "published": "2026-06-18T16:30:12+00:00"
-        },
-        {
-          "title": "Tesla teases new FSD features — but it’s still not the self-driving promised",
-          "link": "https://electrek.co/2026/06/18/tesla-fsd-parking-preferences-grok-voice-control/",
-          "source": "Electrek",
-          "published": "2026-06-18T16:08:44+00:00"
-        },
-        {
-          "title": "Volkswagen’s new EV hot hatch captured for the first time, but it’s not the ID. Polo GTI",
-          "link": "https://electrek.co/2026/06/18/volkswagens-ev-hot-hatch-captured-first-time-not-polo/",
-          "source": "Electrek",
-          "published": "2026-06-18T14:34:46+00:00"
-        },
-        {
-          "title": "Forget Solid-State. This EV Battery Breakthrough Is Ready To Upend The Market Now",
-          "link": "https://insideevs.com/news/799157/general-motors-silicon-anodes-solid-state-batteries/",
-          "source": "InsideEVs",
-          "published": "2026-06-18T14:34:23+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 37,
       "items": [
+        {
+          "title": "Europe is betting big on a battery that runs for four days",
+          "link": "https://electrek.co/2026/06/22/europe-is-betting-big-on-a-battery-that-runs-for-four-days/",
+          "source": "Electrek",
+          "published": "2026-06-22T07:01:00+00:00"
+        },
         {
           "title": "The EV Battery Call Is Coming From Inside The House",
           "link": "https://cleantechnica.com/2026/06/21/ev-battery-solid-state-lithium-metal-quantumscape-manufacturing/",
@@ -468,12 +474,6 @@
           "link": "https://electrek.co/2026/06/12/podcast-rivian-r2-first-drive-byd-goes-nuts-on-flash-charging-donut-labs-miracle-battery-is-dead-and-more/",
           "source": "Electrek",
           "published": "2026-06-12T19:52:09+00:00"
-        },
-        {
-          "title": "Solid-state batteries are now powering EVs in the real world",
-          "link": "https://electrek.co/2026/06/11/solid-state-batteries-now-powering-evs-in-real-world/",
-          "source": "Electrek",
-          "published": "2026-06-12T00:38:04+00:00"
         }
       ]
     },
@@ -483,16 +483,16 @@
       "count": 15,
       "items": [
         {
+          "title": "금호타이어, 현대 N 페스티벌 2라운드 포디엄 석권",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43976",
+          "source": "모터그래프",
+          "published": "2026-06-22T17:01:30+00:00"
+        },
+        {
           "title": "The wait is over: Royal Enfield’s first electric motorcycle begins deliveries",
           "link": "https://electrek.co/2026/06/21/the-wait-is-over-royal-enfields-first-electric-motorcycle-begins-deliveries/",
           "source": "Electrek",
           "published": "2026-06-21T11:47:46+00:00"
-        },
-        {
-          "title": "인사이드 노이어 클라쎄-EP.4 미래를 달리는 가장 BMW다운 방법",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43954",
-          "source": "모터그래프",
-          "published": "2026-06-19T17:11:16+00:00"
         },
         {
           "title": "Wheel-E Podcast: New Gazelle, Specialized e-bikes, Ukrainian e-motos, more",
@@ -580,10 +580,10 @@
       "count": 25,
       "items": [
         {
-          "title": "AI 이후, 부는 어디로 이동하는가",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47015",
+          "title": "미래 융합인재들의 축제 ‘2026 월드 스팀 올림피아드’ 성황리 개최",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47031",
           "source": "로봇신문",
-          "published": "2026-06-22T01:15:56+00:00"
+          "published": "2026-06-22T17:39:25+00:00"
         },
         {
           "title": "Güdel to show grinding beyond stationary robots with vertical, horizontal motion at Automate 2026",
@@ -737,10 +737,10 @@
       "count": 1,
       "items": [
         {
-          "title": "KAIST, 고령자·장애인 옷 입혀주는 로봇 기술로 ICRA 최우수 논문상 수상",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211968",
+          "title": "앤트로픽 \"클로드 오퍼스 4.7, 인간보다 37배 빠르게 로봇 제어 수행\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211969",
           "source": "AI타임스",
-          "published": "2026-06-22T12:40:46+00:00"
+          "published": "2026-06-22T18:15:51+00:00"
         }
       ]
     }
