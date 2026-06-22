@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T11:49:31.699316+00:00",
+  "generated_at": "2026-06-22T16:51:36.152450+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,48 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43979",
           "source": "모터그래프",
           "published": "2026-06-22T17:01:30+00:00"
+        },
+        {
+          "title": "This Xiaomi Was Slow Around The Nuburgring. It Also Had No Driver",
+          "link": "https://insideevs.com/news/799478/xiaomi-yu7-nurburgring-driverless-lap/",
+          "source": "InsideEVs",
+          "published": "2026-06-22T16:50:48+00:00"
+        },
+        {
+          "title": "Lucid Lays Off 18% Of Its Workers And Cuts Production At Arizona Plant",
+          "link": "https://insideevs.com/news/799466/lucid-layoffs-midsize-ev-platform-restructuring/",
+          "source": "InsideEVs",
+          "published": "2026-06-22T15:32:26+00:00"
+        },
+        {
+          "title": "Lucid lays off 18% of staff, its second deep cut in four months",
+          "link": "https://electrek.co/2026/06/22/lucid-lays-off-18-percent-second-cut-four-months/",
+          "source": "Electrek",
+          "published": "2026-06-22T14:48:36+00:00"
+        },
+        {
+          "title": "Kia’s electric van is becoming so popular that supply is now being rationed",
+          "link": "https://electrek.co/2026/06/22/kias-ev-van-is-becoming-so-popular-that-supply-is-being-rationed/",
+          "source": "Electrek",
+          "published": "2026-06-22T14:41:42+00:00"
+        },
+        {
+          "title": "PowerSled saves fuel while bringing portable power to job sites",
+          "link": "https://electrek.co/2026/06/22/powersled-saves-fuel-while-bringing-portable-power-to-job-sites/",
+          "source": "Electrek",
+          "published": "2026-06-22T14:16:01+00:00"
+        },
+        {
+          "title": "Octopus and CATL unveil a giant EV truck battery-swapping network",
+          "link": "https://electrek.co/2026/06/22/octopus-and-catl-unveil-a-giant-ev-truck-battery-swapping-network/",
+          "source": "Electrek",
+          "published": "2026-06-22T14:06:19+00:00"
+        },
+        {
+          "title": "Chinese sodium-ion battery matches Tesla on build quality, teardown finds",
+          "link": "https://electrek.co/2026/06/22/chinese-sodium-ion-battery-matches-tesla-build-quality/",
+          "source": "Electrek",
+          "published": "2026-06-22T13:05:26+00:00"
         },
         {
           "title": "Tesla FSD Finally Reached Europe. Now Speed Limits May Slow Its Expansion",
@@ -203,56 +245,26 @@
           "link": "https://electrek.co/2026/06/18/tesla-hw3-claim-netherlands-7000-owners-kennedy-van-der-laan/",
           "source": "Electrek",
           "published": "2026-06-18T22:17:38+00:00"
-        },
-        {
-          "title": "Subaru announces 2027 Solterra EV prices remain under $40,000 after a major upgrade",
-          "link": "https://electrek.co/2026/06/18/subaru-announces-2027-solterra-ev-prices-remain-under-40000/",
-          "source": "Electrek",
-          "published": "2026-06-18T21:00:28+00:00"
-        },
-        {
-          "title": "California solar is crushing natural gas this year",
-          "link": "https://electrek.co/2026/06/18/california-solar-is-crushing-natural-gas-this-year/",
-          "source": "Electrek",
-          "published": "2026-06-18T20:14:39+00:00"
-        },
-        {
-          "title": "Honda and QuantumScape (QS) team up to make ‘game-changing’ solid-state batteries",
-          "link": "https://electrek.co/2026/06/18/honda-quantumscape-qs-team-up-solid-state-batteries/",
-          "source": "Electrek",
-          "published": "2026-06-18T18:10:44+00:00"
-        },
-        {
-          "title": "Heybike sale up to $1,000 e-bike savings from $999, Anker SOLIX 24-hour flash sale on 508Wh to 7,680Wh power stations, Hiboy, more",
-          "link": "https://electrek.co/2026/06/18/heybike-e-bike-savings-from-999-anker-solix-508wh-to-7680wh-power-stations-hiboy-more/",
-          "source": "Electrek",
-          "published": "2026-06-18T18:00:00+00:00"
-        },
-        {
-          "title": "Honda Has A New Partner For Solid-State EV Batteries",
-          "link": "https://insideevs.com/news/799184/honda-quantumscape-solid-state-batteries/",
-          "source": "InsideEVs",
-          "published": "2026-06-18T17:28:27+00:00"
-        },
-        {
-          "title": "Sweden tells EU to reject Tesla ‘FSD’ unless speeding is removed",
-          "link": "https://electrek.co/2026/06/18/sweden-tesla-fsd-speeding-eu-vote/",
-          "source": "Electrek",
-          "published": "2026-06-18T16:50:50+00:00"
-        },
-        {
-          "title": "The Ford Mustang Mach-e is on borrowed time as more affordable EVs roll in",
-          "link": "https://electrek.co/2026/06/18/ford-mustang-mach-e-on-borrowed-time-more-affordable-evs-roll-in/",
-          "source": "Electrek",
-          "published": "2026-06-18T16:30:12+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 37,
+      "count": 38,
       "items": [
+        {
+          "title": "Octopus and CATL unveil a giant EV truck battery-swapping network",
+          "link": "https://electrek.co/2026/06/22/octopus-and-catl-unveil-a-giant-ev-truck-battery-swapping-network/",
+          "source": "Electrek",
+          "published": "2026-06-22T14:06:19+00:00"
+        },
+        {
+          "title": "Chinese sodium-ion battery matches Tesla on build quality, teardown finds",
+          "link": "https://electrek.co/2026/06/22/chinese-sodium-ion-battery-matches-tesla-build-quality/",
+          "source": "Electrek",
+          "published": "2026-06-22T13:05:26+00:00"
+        },
         {
           "title": "Europe is betting big on a battery that runs for four days",
           "link": "https://electrek.co/2026/06/22/europe-is-betting-big-on-a-battery-that-runs-for-four-days/",
@@ -374,12 +386,6 @@
           "published": "2026-06-18T17:00:28+00:00"
         },
         {
-          "title": "Ford Pitches New LFP Battery, With Rivian Breathing Down Its Neck",
-          "link": "https://cleantechnica.com/2026/06/18/ford-affordable-lfp-ev-battery-hiring-jobs-prismatic/",
-          "source": "CleanTechnica",
-          "published": "2026-06-18T16:03:06+00:00"
-        },
-        {
           "title": "Forget Solid-State. This EV Battery Breakthrough Is Ready To Upend The Market Now",
           "link": "https://insideevs.com/news/799157/general-motors-silicon-anodes-solid-state-batteries/",
           "source": "InsideEVs",
@@ -489,6 +495,12 @@
           "published": "2026-06-22T17:01:30+00:00"
         },
         {
+          "title": "Lucid lays off 18% of staff, its second deep cut in four months",
+          "link": "https://electrek.co/2026/06/22/lucid-lays-off-18-percent-second-cut-four-months/",
+          "source": "Electrek",
+          "published": "2026-06-22T14:48:36+00:00"
+        },
+        {
           "title": "The wait is over: Royal Enfield’s first electric motorcycle begins deliveries",
           "link": "https://electrek.co/2026/06/21/the-wait-is-over-royal-enfields-first-electric-motorcycle-begins-deliveries/",
           "source": "Electrek",
@@ -565,12 +577,6 @@
           "link": "https://electrek.co/2026/06/13/this-electric-car-company-just-produced-its-one-millionth-electric-motorcycle/",
           "source": "Electrek",
           "published": "2026-06-13T10:50:56+00:00"
-        },
-        {
-          "title": "BMW’s menacing new EV concept offers an early look at the first electric M3 [Images]",
-          "link": "https://electrek.co/2026/06/12/bmws-menacing-ev-concept-reveals-m3-ev-design-images/",
-          "source": "Electrek",
-          "published": "2026-06-12T14:57:21+00:00"
         }
       ]
     },
@@ -584,6 +590,18 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47031",
           "source": "로봇신문",
           "published": "2026-06-22T17:39:25+00:00"
+        },
+        {
+          "title": "NVIDIA releases Halos, a full-stack safety system for robotics",
+          "link": "https://www.therobotreport.com/nvidia-releases-halos-a-full-stack-safety-system-for-robotics/",
+          "source": "The Robot Report",
+          "published": "2026-06-22T15:01:24+00:00"
+        },
+        {
+          "title": "Cobot’s Proxie Gen 2 robot adds autotasking, mobile manipulation",
+          "link": "https://www.therobotreport.com/cobots-proxie-gen-2-robot-adds-autotasking-mobile-manipulation/",
+          "source": "The Robot Report",
+          "published": "2026-06-22T12:59:51+00:00"
         },
         {
           "title": "Güdel to show grinding beyond stationary robots with vertical, horizontal motion at Automate 2026",
@@ -680,18 +698,6 @@
           "link": "https://www.therobotreport.com/pegasus-tech-ventures-launches-60m-fund-physical-ai-startups/",
           "source": "The Robot Report",
           "published": "2026-06-16T19:22:47+00:00"
-        },
-        {
-          "title": "Kawasaki Robotics to debut RL030N physical AI platform at Automate",
-          "link": "https://www.therobotreport.com/kawasaki-robotics-debut-rl030n-physical-ai-platform-automate/",
-          "source": "The Robot Report",
-          "published": "2026-06-16T13:59:25+00:00"
-        },
-        {
-          "title": "Genesis AI launches Eno general-purpose robot",
-          "link": "https://www.therobotreport.com/genesis-ai-launches-eno-general-purpose-robot/",
-          "source": "The Robot Report",
-          "published": "2026-06-16T12:59:29+00:00"
         },
         {
           "title": "Visual Language Models Train Robots to Read Human Emotions",
