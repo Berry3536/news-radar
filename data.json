@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T09:34:52.133834+00:00",
+  "generated_at": "2026-06-23T14:43:41.432002+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,30 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=43985",
           "source": "모터그래프",
           "published": "2026-06-23T17:27:48+00:00"
+        },
+        {
+          "title": "Nissan is ditching plans to launch another major EV, and this one could be a big deal",
+          "link": "https://electrek.co/2026/06/23/nissan-ditching-plans-launch-another-major-ev/",
+          "source": "Electrek",
+          "published": "2026-06-23T14:25:10+00:00"
+        },
+        {
+          "title": "Prime Day 2026 Green Deals: EVs, power stations, tools, smart devices, and much more",
+          "link": "https://electrek.co/2026/06/23/prime-day-2026-green-deals-evs-power-stations-tools-smart-devices-and-much-more/",
+          "source": "Electrek",
+          "published": "2026-06-23T14:24:04+00:00"
+        },
+        {
+          "title": "Tesla, NatPower strike $5B deal for 25 GWh of Megapack storage",
+          "link": "https://electrek.co/2026/06/23/tesla-natpower-megapack-25-gwh-europe/",
+          "source": "Electrek",
+          "published": "2026-06-23T14:00:31+00:00"
+        },
+        {
+          "title": "This Ex-Rental Tesla's Battery Was Heavily Degraded. Then The Decline Slowed",
+          "link": "https://insideevs.com/news/799560/ex-rental-tesla-batter-degraded/",
+          "source": "InsideEVs",
+          "published": "2026-06-23T11:55:13+00:00"
         },
         {
           "title": "The Kia PV5 is getting a bigger sibling: Here’s our first look at the PV7 [Video]",
@@ -221,38 +245,26 @@
           "link": "https://electrek.co/2026/06/19/telo-confirms-400-kw-sustained-charging-tiny-electric-truck/",
           "source": "Electrek",
           "published": "2026-06-19T15:50:01+00:00"
-        },
-        {
-          "title": "Maserati boosts Folgore EV range by up to 85 km in 2026 refresh",
-          "link": "https://electrek.co/2026/06/19/maserati-folgore-ev-range-improvement-2026-refresh/",
-          "source": "Electrek",
-          "published": "2026-06-19T15:09:31+00:00"
-        },
-        {
-          "title": "Meet Honda’s new $25,000 electric hot hatch",
-          "link": "https://electrek.co/2026/06/19/honda-launches-super-n-electric-hot-hatch-for-25000/",
-          "source": "Electrek",
-          "published": "2026-06-19T14:24:37+00:00"
-        },
-        {
-          "title": "Who's Winning The Robotaxi Race? It's... Complicated",
-          "link": "https://insideevs.com/features/799180/robotaxi-market-update-summer-2026/",
-          "source": "InsideEVs",
-          "published": "2026-06-19T14:02:00+00:00"
-        },
-        {
-          "title": "Portable power: new Mitsubishi eK Cross pairs 1500 W plug with sub-$12K price",
-          "link": "https://electrek.co/2026/06/19/portable-power-new-mitsubishi-ek-cross-pairs-1500-w-plug-with-sub-12k-price/",
-          "source": "Electrek",
-          "published": "2026-06-19T13:53:25+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 37,
+      "count": 38,
       "items": [
+        {
+          "title": "Tesla, NatPower strike $5B deal for 25 GWh of Megapack storage",
+          "link": "https://electrek.co/2026/06/23/tesla-natpower-megapack-25-gwh-europe/",
+          "source": "Electrek",
+          "published": "2026-06-23T14:00:31+00:00"
+        },
+        {
+          "title": "This Ex-Rental Tesla's Battery Was Heavily Degraded. Then The Decline Slowed",
+          "link": "https://insideevs.com/news/799560/ex-rental-tesla-batter-degraded/",
+          "source": "InsideEVs",
+          "published": "2026-06-23T11:55:13+00:00"
+        },
         {
           "title": "Jackery Launches Latest, Versatile HomePower Batteries",
           "link": "https://cleantechnica.com/2026/06/23/jackery-launches-latest-versatile-homepower-batteries/",
@@ -408,12 +420,6 @@
           "link": "https://electrek.co/2026/06/17/bluetti-fridgepower-fridge-outages-retail/",
           "source": "Electrek",
           "published": "2026-06-17T23:00:00+00:00"
-        },
-        {
-          "title": "The 2027 Porsche Taycan Gets Fake Gear Shifts And A Bigger Standard Battery",
-          "link": "https://insideevs.com/news/799071/porsche-taycan-fake-gear-shifts/",
-          "source": "InsideEVs",
-          "published": "2026-06-17T22:23:31+00:00"
         },
         {
           "title": "Electrify America opens its biggest battery-backed charging station",
@@ -577,13 +583,19 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 25,
+      "count": 23,
       "items": [
         {
-          "title": "LG화학, R&D에 15조 투입…반도체·모빌리티·로봇 소재 집중 육성",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47059",
+          "title": "휴머노이드의 무덤",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47063",
           "source": "로봇신문",
-          "published": "2026-06-23T17:21:59+00:00"
+          "published": "2026-06-23T23:04:53+00:00"
+        },
+        {
+          "title": "Why physical AI 2.0 needs a reality check",
+          "link": "https://www.therobotreport.com/why-physical-ai-2-0-needs-reality-check/",
+          "source": "The Robot Report",
+          "published": "2026-06-23T12:31:23+00:00"
         },
         {
           "title": "FORT and NVIDIA launch AI-driven Outside-In Safety blueprint",
@@ -682,12 +694,6 @@
           "published": "2026-06-18T12:30:22+00:00"
         },
         {
-          "title": "Evaluating humanoids for surface finishing applications",
-          "link": "https://www.therobotreport.com/evaluating-humanoids-for-surface-finishing-applications/",
-          "source": "The Robot Report",
-          "published": "2026-06-17T16:02:57+00:00"
-        },
-        {
           "title": "The Secret to Marathon-Winning Humanoid Robots",
           "link": "https://spectrum.ieee.org/china-humanoid-robot-marathon",
           "source": "IEEE Spectrum",
@@ -716,18 +722,6 @@
           "link": "https://content.knowledgehub.wiley.com/wellness-robots-and-the-path-to-full-autonomy-a-new-paradigm-in-ai-powered-senior-care/",
           "source": "IEEE Spectrum",
           "published": "2026-06-11T10:00:01+00:00"
-        },
-        {
-          "title": "Beyond Dexterity: Why Contact May Define the Next Era of Robotics",
-          "link": "https://spectrum.ieee.org/agilink-contact-intelligence-robot-manipulation",
-          "source": "IEEE Spectrum",
-          "published": "2026-06-09T12:51:03+00:00"
-        },
-        {
-          "title": "How JPL Keeps the 13-Year-Old Curiosity Rover Doing Science",
-          "link": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
-          "source": "IEEE Spectrum",
-          "published": "2026-06-09T12:00:02+00:00"
         }
       ]
     },
@@ -737,10 +731,10 @@
       "count": 1,
       "items": [
         {
-          "title": "엔비디아, 로봇 전용 안전 시스템 ‘할로스’ 공개…“인간과 로봇의 안전한 협업”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212022",
+          "title": "알리바바, 비디오 생성 모델 ‘해피호스 1.1’ 출시...기업용 API 시장 정조준",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212011",
           "source": "AI타임스",
-          "published": "2026-06-23T18:30:43+00:00"
+          "published": "2026-06-23T19:11:10+00:00"
         }
       ]
     }
