@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-06-22T20:43:47.379450+00:00",
+  "generated_at": "2026-06-23T02:57:15.185287+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "The Kia PV5 is getting a bigger sibling: Here’s our first look at the PV7 [Video]",
+          "link": "https://electrek.co/2026/06/22/kia-pv5-bigger-sibling-first-look-pv7-video/",
+          "source": "Electrek",
+          "published": "2026-06-22T21:33:05+00:00"
+        },
+        {
+          "title": "NHTSA probes fatal Tesla crash into Texas home that killed woman",
+          "link": "https://electrek.co/2026/06/22/nhtsa-tesla-katy-crash-federal-investigation/",
+          "source": "Electrek",
+          "published": "2026-06-22T20:56:09+00:00"
+        },
         {
           "title": "Hyundai is discounting EVs because who wants to pay for gas these days",
           "link": "https://electrek.co/2026/06/22/hyundai-discounting-evs-gas/",
@@ -233,25 +245,13 @@
           "link": "https://electrek.co/2026/06/19/portable-power-new-mitsubishi-ek-cross-pairs-1500-w-plug-with-sub-12k-price/",
           "source": "Electrek",
           "published": "2026-06-19T13:53:25+00:00"
-        },
-        {
-          "title": "Wheel-E Podcast: New Gazelle, Specialized e-bikes, Ukrainian e-motos, more",
-          "link": "https://electrek.co/2026/06/19/wheel-e-podcast-new-gazelle-specialized-e-bikes-ukrainian-e-motos-more/",
-          "source": "Electrek",
-          "published": "2026-06-19T12:43:15+00:00"
-        },
-        {
-          "title": "Colombia announces 750 mile electric truck corridor linking Bogotá to Cartagena",
-          "link": "https://electrek.co/2026/06/19/colombia-announces-750-mile-electric-truck-corridor-linking-bogota-to-cartagena/",
-          "source": "Electrek",
-          "published": "2026-06-19T12:09:38+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 38,
+      "count": 37,
       "items": [
         {
           "title": "New solid-state battery electrolyte retains over 84% of its capacity after 350 cycles",
@@ -386,12 +386,6 @@
           "published": "2026-06-18T17:28:27+00:00"
         },
         {
-          "title": "20 New Fast Chargers With Energy Storage Installed In Santa Barbara",
-          "link": "https://cleantechnica.com/2026/06/18/20-new-fast-chargers-with-energy-storage-installed-in-santa-barbara/",
-          "source": "CleanTechnica",
-          "published": "2026-06-18T17:00:28+00:00"
-        },
-        {
           "title": "Forget Solid-State. This EV Battery Breakthrough Is Ready To Upend The Market Now",
           "link": "https://insideevs.com/news/799157/general-motors-silicon-anodes-solid-state-batteries/",
           "source": "InsideEVs",
@@ -486,7 +480,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 16,
+      "count": 15,
       "items": [
         {
           "title": "Gazelle unveils stylish e-bike powered by Bosch’s new hub motor",
@@ -577,12 +571,6 @@
           "link": "https://electrek.co/2026/06/14/what-is-a-125cc-electric-motorcycle-and-why-are-they-so-important-right-now/",
           "source": "Electrek",
           "published": "2026-06-15T05:47:39+00:00"
-        },
-        {
-          "title": "This electric car company just produced its one millionth electric motorcycle",
-          "link": "https://electrek.co/2026/06/13/this-electric-car-company-just-produced-its-one-millionth-electric-motorcycle/",
-          "source": "Electrek",
-          "published": "2026-06-13T10:50:56+00:00"
         }
       ]
     },
@@ -591,6 +579,12 @@
       "label": "로봇",
       "count": 25,
       "items": [
+        {
+          "title": "FORT and NVIDIA launch AI-driven Outside-In Safety blueprint",
+          "link": "https://www.therobotreport.com/fort-and-nvidia-launch-ai-driven-outside-in-safety-blueprint/",
+          "source": "The Robot Report",
+          "published": "2026-06-22T22:38:31+00:00"
+        },
         {
           "title": "How Intrinsic eliminates manual robot coding",
           "link": "https://www.therobotreport.com/how-intrinsic-eliminates-manual-robot-coding/",
@@ -694,12 +688,6 @@
           "published": "2026-06-17T16:02:57+00:00"
         },
         {
-          "title": "Fennec Engineering earns T2 qualification for Advanced Safety Acceleration Platform",
-          "link": "https://www.therobotreport.com/fennec-engineering-earns-t2-qualification-advanced-safety-acceleration-platform/",
-          "source": "The Robot Report",
-          "published": "2026-06-17T14:00:43+00:00"
-        },
-        {
           "title": "The Secret to Marathon-Winning Humanoid Robots",
           "link": "https://spectrum.ieee.org/china-humanoid-robot-marathon",
           "source": "IEEE Spectrum",
@@ -749,10 +737,10 @@
       "count": 1,
       "items": [
         {
-          "title": "앤트로픽 \"클로드 오퍼스 4.7, 인간보다 37배 빠르게 로봇 제어 수행\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211969",
+          "title": "[6월22일] \"내 치즈를 옮긴 것은 챗GPT\"… 종이책에서 AI로 이동하는 '조언 산업'",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211972",
           "source": "AI타임스",
-          "published": "2026-06-22T18:15:51+00:00"
+          "published": "2026-06-23T07:00:00+00:00"
         }
       ]
     }
