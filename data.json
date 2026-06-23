@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-06-23T02:57:15.185287+00:00",
+  "generated_at": "2026-06-23T09:34:52.133834+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "벤틀리모터스, 연례 한정판 뮬리너 콜렉션 비스포크 시리즈",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43985",
+          "source": "모터그래프",
+          "published": "2026-06-23T17:27:48+00:00"
+        },
         {
           "title": "The Kia PV5 is getting a bigger sibling: Here’s our first look at the PV7 [Video]",
           "link": "https://electrek.co/2026/06/22/kia-pv5-bigger-sibling-first-look-pv7-video/",
@@ -47,12 +53,6 @@
           "link": "https://electrek.co/2026/06/22/solid-state-battery-electrolyte-retains-84-capacity-after-350-cycles/",
           "source": "Electrek",
           "published": "2026-06-22T17:18:16+00:00"
-        },
-        {
-          "title": "3분기 출시 예정, 미리 보는 더 뉴 메르세데스-벤츠 S 클래스",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43979",
-          "source": "모터그래프",
-          "published": "2026-06-22T17:01:30+00:00"
         },
         {
           "title": "A Driverless Xiaomi Electric SUV Just Lapped The Ring. We Have Questions",
@@ -254,6 +254,18 @@
       "count": 37,
       "items": [
         {
+          "title": "Jackery Launches Latest, Versatile HomePower Batteries",
+          "link": "https://cleantechnica.com/2026/06/23/jackery-launches-latest-versatile-homepower-batteries/",
+          "source": "CleanTechnica",
+          "published": "2026-06-23T05:46:07+00:00"
+        },
+        {
+          "title": "Prototyping Data Tools With AI, A Case Study: Solar + Battery Atlas",
+          "link": "https://cleantechnica.com/2026/06/22/prototyping-data-tools-with-ai-a-case-study-solar-battery-atlas/",
+          "source": "CleanTechnica",
+          "published": "2026-06-23T03:41:24+00:00"
+        },
+        {
           "title": "New solid-state battery electrolyte retains over 84% of its capacity after 350 cycles",
           "link": "https://electrek.co/2026/06/22/solid-state-battery-electrolyte-retains-84-capacity-after-350-cycles/",
           "source": "Electrek",
@@ -360,18 +372,6 @@
           "link": "https://cleantechnica.com/2026/06/19/ev-battery-supply-chain-us-graphite-alaska-ohio/",
           "source": "CleanTechnica",
           "published": "2026-06-19T04:53:03+00:00"
-        },
-        {
-          "title": "Clean Energy Groups Challenge Utility Commission Cancellation of N.C. Solar Development",
-          "link": "https://cleantechnica.com/2026/06/18/clean-energy-groups-challenge-utility-commission-cancellation-of-n-c-solar-development/",
-          "source": "CleanTechnica",
-          "published": "2026-06-19T00:20:51+00:00"
-        },
-        {
-          "title": "BYD Datang Flagship SUV Launch Impresses",
-          "link": "https://cleantechnica.com/2026/06/18/byd-datang-flagship-suv-launch-impresses/",
-          "source": "CleanTechnica",
-          "published": "2026-06-18T21:48:15+00:00"
         },
         {
           "title": "Honda and QuantumScape (QS) team up to make ‘game-changing’ solid-state batteries",
@@ -483,16 +483,16 @@
       "count": 15,
       "items": [
         {
+          "title": "벤틀리모터스, 연례 한정판 뮬리너 콜렉션 비스포크 시리즈",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43985",
+          "source": "모터그래프",
+          "published": "2026-06-23T17:27:48+00:00"
+        },
+        {
           "title": "Gazelle unveils stylish e-bike powered by Bosch’s new hub motor",
           "link": "https://electrek.co/2026/06/22/gazelle-unveils-stylish-e-bike-powered-by-boschs-new-hub-motor/",
           "source": "Electrek",
           "published": "2026-06-22T17:57:09+00:00"
-        },
-        {
-          "title": "금호타이어, 현대 N 페스티벌 2라운드 포디엄 석권",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43976",
-          "source": "모터그래프",
-          "published": "2026-06-22T17:01:30+00:00"
         },
         {
           "title": "Lucid lays off 18% of staff, its second deep cut in four months",
@@ -580,6 +580,12 @@
       "count": 25,
       "items": [
         {
+          "title": "LG화학, R&D에 15조 투입…반도체·모빌리티·로봇 소재 집중 육성",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47059",
+          "source": "로봇신문",
+          "published": "2026-06-23T17:21:59+00:00"
+        },
+        {
           "title": "FORT and NVIDIA launch AI-driven Outside-In Safety blueprint",
           "link": "https://www.therobotreport.com/fort-and-nvidia-launch-ai-driven-outside-in-safety-blueprint/",
           "source": "The Robot Report",
@@ -602,12 +608,6 @@
           "link": "https://www.therobotreport.com/eclipse-automation-launches-realitysync-simulation-platform/",
           "source": "The Robot Report",
           "published": "2026-06-22T18:42:47+00:00"
-        },
-        {
-          "title": "미래 융합인재들의 축제 ‘2026 월드 스팀 올림피아드’ 성황리 개최",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47031",
-          "source": "로봇신문",
-          "published": "2026-06-22T17:39:25+00:00"
         },
         {
           "title": "NVIDIA releases Halos, a full-stack safety system for robotics",
@@ -737,10 +737,10 @@
       "count": 1,
       "items": [
         {
-          "title": "[6월22일] \"내 치즈를 옮긴 것은 챗GPT\"… 종이책에서 AI로 이동하는 '조언 산업'",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211972",
+          "title": "엔비디아, 로봇 전용 안전 시스템 ‘할로스’ 공개…“인간과 로봇의 안전한 협업”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212022",
           "source": "AI타임스",
-          "published": "2026-06-23T07:00:00+00:00"
+          "published": "2026-06-23T18:30:43+00:00"
         }
       ]
     }
