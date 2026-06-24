@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-06-23T19:59:55.254836+00:00",
+  "generated_at": "2026-06-24T02:58:04.859529+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Interview: we meet with Port of Long Beach CEO Dr. Noel Hacegaba",
+          "link": "https://electrek.co/2026/06/23/interview-we-meet-with-port-of-long-beach-ceo-dr-noel-hacegaba/",
+          "source": "Electrek",
+          "published": "2026-06-24T00:13:55+00:00"
+        },
+        {
+          "title": "BYD is unleashing its full brand power overseas, from luxury EVs to a plug-in pickup",
+          "link": "https://electrek.co/2026/06/23/byd-unleashes-brand-power-overseas-luxury-evs-pickup/",
+          "source": "Electrek",
+          "published": "2026-06-23T22:47:43+00:00"
+        },
+        {
+          "title": "Volkswagen’s new electric hot hatch breaks cover, but it’s not the ID. Polo GTI",
+          "link": "https://electrek.co/2026/06/23/volkswagens-new-electric-hot-hatch-breaks-cover/",
+          "source": "Electrek",
+          "published": "2026-06-23T21:18:03+00:00"
+        },
         {
           "title": "Lucid Gravity GT 2026 Review: drives like a dream with best efficiency and massive range",
           "link": "https://electrek.co/2026/06/23/lucid-gravity-2026-review/",
@@ -227,31 +245,13 @@
           "link": "https://electrek.co/2026/06/21/the-wait-is-over-royal-enfields-first-electric-motorcycle-begins-deliveries/",
           "source": "Electrek",
           "published": "2026-06-21T11:47:46+00:00"
-        },
-        {
-          "title": "Tesla driver says it was on Autopilot before fatal Texas home crash",
-          "link": "https://electrek.co/2026/06/20/tesla-autopilot-katy-texas-home-crash-woman-killed/",
-          "source": "Electrek",
-          "published": "2026-06-21T01:47:23+00:00"
-        },
-        {
-          "title": "The Volvo EX60 And EX90 Get An Important EV Fast-Charging Upgrade",
-          "link": "https://insideevs.com/news/799188/volvo-ex60-ex90-ev-plug-and-charge/",
-          "source": "InsideEVs",
-          "published": "2026-06-20T14:00:00+00:00"
-        },
-        {
-          "title": "A Tesla Model Y Battery Test Looked Bad. Then The Degradation Almost Stopped",
-          "link": "https://insideevs.com/news/799342/tesla-model-y-lfp-degradation/",
-          "source": "InsideEVs",
-          "published": "2026-06-20T12:22:40+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 36,
+      "count": 34,
       "items": [
         {
           "title": "Monarc Tracer redefines commuter e-bikes with dual batteries, premium tech, and a 5-year warranty",
@@ -362,12 +362,6 @@
           "published": "2026-06-20T12:22:40+00:00"
         },
         {
-          "title": "ABB Solar & Storage Power Move — New High-Efficiency Power Conversion Solutions for Solar & Storage",
-          "link": "https://cleantechnica.com/2026/06/19/abb-solar-storage-power-move-new-high-efficiency-power-conversion-solutions-for-solar-storage/",
-          "source": "CleanTechnica",
-          "published": "2026-06-19T23:07:26+00:00"
-        },
-        {
           "title": "400 hp Mercedes-Benz VLE 300 combines limo luxury with lots of legroom",
           "link": "https://electrek.co/2026/06/19/400-hp-mercedes-benz-vle-300-combines-limo-luxury-with-lots-of-legroom/",
           "source": "Electrek",
@@ -462,19 +456,13 @@
           "link": "https://electrek.co/2026/06/15/bmw-ix3-range-monster-ix5-may-top-500-miles/",
           "source": "Electrek",
           "published": "2026-06-15T17:53:27+00:00"
-        },
-        {
-          "title": "Tesla Cybercab full specs revealed: 3,113 lbs, 219 HP, 48 kWh",
-          "link": "https://electrek.co/2026/06/15/tesla-cybercab-epa-specs-curb-weight-battery-motor-power/",
-          "source": "Electrek",
-          "published": "2026-06-15T16:38:02+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 13,
+      "count": 12,
       "items": [
         {
           "title": "벤틀리모터스, 연례 한정판 뮬리너 콜렉션 비스포크 시리즈",
@@ -547,12 +535,6 @@
           "link": "https://electrek.co/2026/06/16/tesla-home-heat-pump-drew-baglino-sadi-robots/",
           "source": "Electrek",
           "published": "2026-06-16T13:21:09+00:00"
-        },
-        {
-          "title": "Tesla Cybercab full specs revealed: 3,113 lbs, 219 HP, 48 kWh",
-          "link": "https://electrek.co/2026/06/15/tesla-cybercab-epa-specs-curb-weight-battery-motor-power/",
-          "source": "Electrek",
-          "published": "2026-06-15T16:38:02+00:00"
         }
       ]
     },
@@ -562,10 +544,22 @@
       "count": 23,
       "items": [
         {
+          "title": "Deep dive into ARM’s physical AI and robotics strategies with Drew Henry",
+          "link": "https://www.therobotreport.com/deep-dive-into-arms-physical-ai-and-robotics-strategies-with-drew-henry/",
+          "source": "The Robot Report",
+          "published": "2026-06-24T00:12:04+00:00"
+        },
+        {
           "title": "휴머노이드의 무덤",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47063",
           "source": "로봇신문",
           "published": "2026-06-23T23:04:53+00:00"
+        },
+        {
+          "title": "ExRobotics launches UL-certified inspection robot for hazardous environments",
+          "link": "https://www.therobotreport.com/exrobotics-launches-ul-certified-inspection-robot-for-hazardous-environments/",
+          "source": "The Robot Report",
+          "published": "2026-06-23T23:00:45+00:00"
         },
         {
           "title": "Vention collaborates with FANUC and Universal Robots on software-defined automation",
@@ -658,18 +652,6 @@
           "published": "2026-06-19T10:00:00+00:00"
         },
         {
-          "title": "RealSense unveils AI-native D585 Pro depth camera for robots",
-          "link": "https://www.therobotreport.com/realsense-unveils-ai-native-d585-pro-depth-camera-for-robots/",
-          "source": "The Robot Report",
-          "published": "2026-06-18T13:10:02+00:00"
-        },
-        {
-          "title": "Kinova launches KIMA medical robotic arm",
-          "link": "https://www.therobotreport.com/kinova-launches-kima-medical-robotic-arm/",
-          "source": "The Robot Report",
-          "published": "2026-06-18T12:45:06+00:00"
-        },
-        {
           "title": "The Secret to Marathon-Winning Humanoid Robots",
           "link": "https://spectrum.ieee.org/china-humanoid-robot-marathon",
           "source": "IEEE Spectrum",
@@ -707,10 +689,10 @@
       "count": 1,
       "items": [
         {
-          "title": "팀스파르타 “교육·구축·컨설팅까지…AX ‘엔드투엔드’ 책임진다”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212031",
+          "title": "중국 '라인샤인', 세계 슈퍼컴 1위 탈환…\"알맹이 없는 AI 경쟁력 과시용\" 지적도",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212037",
           "source": "AI타임스",
-          "published": "2026-06-24T02:00:23+00:00"
+          "published": "2026-06-24T11:00:13+00:00"
         }
       ]
     }
