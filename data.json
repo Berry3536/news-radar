@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-06-24T02:58:04.859529+00:00",
+  "generated_at": "2026-06-24T09:23:54.661657+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "압도적 존재감 강조한 BMW 7시리즈 블랙 트림",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43989",
+          "source": "모터그래프",
+          "published": "2026-06-24T16:59:21+00:00"
+        },
+        {
+          "title": "DJI’s e-bike motors expand past eMTBs with new electric SUV bike",
+          "link": "https://electrek.co/2026/06/23/djis-e-bike-motors-expand-past-emtbs-with-new-electric-suv-bike/",
+          "source": "Electrek",
+          "published": "2026-06-24T05:42:45+00:00"
+        },
         {
           "title": "Interview: we meet with Port of Long Beach CEO Dr. Noel Hacegaba",
           "link": "https://electrek.co/2026/06/23/interview-we-meet-with-port-of-long-beach-ceo-dr-noel-hacegaba/",
@@ -65,12 +77,6 @@
           "link": "https://electrek.co/2026/06/23/dhl-vela-cargo-wind-powered-ships-atlantic/",
           "source": "Electrek",
           "published": "2026-06-23T17:34:27+00:00"
-        },
-        {
-          "title": "벤틀리모터스, 연례 한정판 뮬리너 콜렉션 비스포크 시리즈",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43985",
-          "source": "모터그래프",
-          "published": "2026-06-23T17:27:48+00:00"
         },
         {
           "title": "Rivian Discontinues Its Cheapest R1T And R1S As R2 Rolls Out",
@@ -239,12 +245,6 @@
           "link": "https://electrek.co/2026/06/21/from-labs-to-logistics-china-tests-sodium-batteries-in-hd-trucks/",
           "source": "Electrek",
           "published": "2026-06-21T13:27:38+00:00"
-        },
-        {
-          "title": "The wait is over: Royal Enfield’s first electric motorcycle begins deliveries",
-          "link": "https://electrek.co/2026/06/21/the-wait-is-over-royal-enfields-first-electric-motorcycle-begins-deliveries/",
-          "source": "Electrek",
-          "published": "2026-06-21T11:47:46+00:00"
         }
       ]
     },
@@ -462,13 +462,19 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 12,
+      "count": 13,
       "items": [
         {
-          "title": "벤틀리모터스, 연례 한정판 뮬리너 콜렉션 비스포크 시리즈",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43985",
+          "title": "인제스피디움, 대회 공식 트로피 공개",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=43991",
           "source": "모터그래프",
-          "published": "2026-06-23T17:27:48+00:00"
+          "published": "2026-06-24T16:58:02+00:00"
+        },
+        {
+          "title": "DJI’s e-bike motors expand past eMTBs with new electric SUV bike",
+          "link": "https://electrek.co/2026/06/23/djis-e-bike-motors-expand-past-emtbs-with-new-electric-suv-bike/",
+          "source": "Electrek",
+          "published": "2026-06-24T05:42:45+00:00"
         },
         {
           "title": "Gazelle unveils stylish e-bike powered by Bosch’s new hub motor",
@@ -544,16 +550,16 @@
       "count": 23,
       "items": [
         {
+          "title": "시스윈로보틱스, 자율이동로봇 상설 시연장 구축",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47082",
+          "source": "로봇신문",
+          "published": "2026-06-24T17:35:03+00:00"
+        },
+        {
           "title": "Deep dive into ARM’s physical AI and robotics strategies with Drew Henry",
           "link": "https://www.therobotreport.com/deep-dive-into-arms-physical-ai-and-robotics-strategies-with-drew-henry/",
           "source": "The Robot Report",
           "published": "2026-06-24T00:12:04+00:00"
-        },
-        {
-          "title": "휴머노이드의 무덤",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47063",
-          "source": "로봇신문",
-          "published": "2026-06-23T23:04:53+00:00"
         },
         {
           "title": "ExRobotics launches UL-certified inspection robot for hazardous environments",
@@ -686,13 +692,247 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 1,
+      "count": 40,
       "items": [
         {
-          "title": "중국 '라인샤인', 세계 슈퍼컴 1위 탈환…\"알맹이 없는 AI 경쟁력 과시용\" 지적도",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212037",
+          "title": "\"미소스가 미국 정부 기밀 시스템서 취약점 발견\"…규제 논란도 확산",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212070",
           "source": "AI타임스",
-          "published": "2026-06-24T11:00:13+00:00"
+          "published": "2026-06-24T17:02:29+00:00"
+        },
+        {
+          "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+          "link": "https://arxiv.org/abs/2606.23927",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+          "link": "https://arxiv.org/abs/2606.23938",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Critique of Agent Model",
+          "link": "https://arxiv.org/abs/2606.23991",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+          "link": "https://arxiv.org/abs/2606.24010",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+          "link": "https://arxiv.org/abs/2606.24014",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?",
+          "link": "https://arxiv.org/abs/2606.24026",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Breaking the Filter Bubble: A Semantic Pareto-DQN Framework for Multi-Objective Recommendation",
+          "link": "https://arxiv.org/abs/2606.24042",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Ensemble Feature Selection and Harris Hawks Optimization for Explainable Mental Health Risk Prediction in Female Sex Workers",
+          "link": "https://arxiv.org/abs/2606.24047",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
+          "link": "https://arxiv.org/abs/2606.24064",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers",
+          "link": "https://arxiv.org/abs/2606.24099",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
+          "link": "https://arxiv.org/abs/2606.24112",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "VeryTrace: Verifying Reasoning Traces through Compilable Formalism and Structured Verification",
+          "link": "https://arxiv.org/abs/2606.24124",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "OmniPath: A Multi-Modal Agentic Framework for Auditing Wheelchair Accessibility",
+          "link": "https://arxiv.org/abs/2606.24129",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "T2D-Bench: Evidence-Gated Evaluation of LLM Outputs for Type 2 Diabetes Using a Multi-Layer Clinical-Lifestyle Knowledge Graph",
+          "link": "https://arxiv.org/abs/2606.24145",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "The Geometry Behind Diffusion and Flow Matching: Gradient Flows and Geodesics in Wasserstein Space",
+          "link": "https://arxiv.org/abs/2606.24157",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "An Introduction to Causal Reinforcement Learning",
+          "link": "https://arxiv.org/abs/2606.24160",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Data Scale, Not Latency, Shapes Cross-Lingual Encoder Transfer in Streaming ASR",
+          "link": "https://arxiv.org/abs/2606.24169",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Navigating User Behavior toward Personalized Multimodal Generation",
+          "link": "https://arxiv.org/abs/2606.24196",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Exploring the relationship between human-centric AI and firm idiosyncratic risks",
+          "link": "https://arxiv.org/abs/2606.24224",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "FlowR2A: Learning Reward-to-Action Distribution for Multimodal Driving Planning",
+          "link": "https://arxiv.org/abs/2606.24231",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "SP-Mind: An Autonomous Reasoning Agent for Spatial Proteomics Analysis",
+          "link": "https://arxiv.org/abs/2606.24235",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Towards Federated Long-Tailed Graph Learning: An Energy-Guided Dual Decoupling Approach",
+          "link": "https://arxiv.org/abs/2606.24237",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Probing the Misaligned Thinking Process of Language Models",
+          "link": "https://arxiv.org/abs/2606.24251",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Tractable Reasoning and Conjunctive Query Answering for Defeasible DL-Lite under Rational Closure",
+          "link": "https://arxiv.org/abs/2606.24279",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "LemonHarness Technical Report",
+          "link": "https://arxiv.org/abs/2606.24311",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Prob-BBDM: a Probabilistic Brownian Bridge Diffusion Model for MRI sequence image-to-image translation",
+          "link": "https://arxiv.org/abs/2606.24313",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "MVG-KAN: Multi-View Geo-Wind Guided KAN for PM$_{2.5}$ Forecasting",
+          "link": "https://arxiv.org/abs/2606.24347",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Accelerating Disaggregated RL for Visual Generative LLMs with Diffusion-Based Parallelism and Trainer-Assisted Generation",
+          "link": "https://arxiv.org/abs/2606.24369",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "When Helpfulness Overrides Causal Caution: Context-Dependent Suppression and Recovery in LLMs",
+          "link": "https://arxiv.org/abs/2606.24370",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "PHANTOM: A Large-Scale Dataset of Multimodal Adversarial Attacks for Vision-Language Models",
+          "link": "https://arxiv.org/abs/2606.24388",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Age of LLM: A Strategic 1v1 Benchmark for Reasoning, Diplomacy and Reliability of Large Language Models under Fog of War",
+          "link": "https://arxiv.org/abs/2606.24391",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "ATRIA: Adaptive Traceable ECG Reporting with Iterative Agents",
+          "link": "https://arxiv.org/abs/2606.24392",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Cycle-Consistent Neural Explanation of Formal Verification Certificates",
+          "link": "https://arxiv.org/abs/2606.24414",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Agentic AI for Bilevel Long-Term Optimization of Policy-Driven Physical Layer Systems",
+          "link": "https://arxiv.org/abs/2606.24416",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Can Aggregate Invariants Accelerate Continuous Subgraph Matching? Limits, Laws, and a Dynamic Spectral Index",
+          "link": "https://arxiv.org/abs/2606.24421",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "ReM-MoA: Reasoning Memory Sustains Mixture-of-Agents Scaling",
+          "link": "https://arxiv.org/abs/2606.24437",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "Bayesian control for coding agents",
+          "link": "https://arxiv.org/abs/2606.24453",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "CompressKV: Semantic-Retrieval-Guided KV-Cache Compression for Resource-Efficient Long-Context LLM Inference",
+          "link": "https://arxiv.org/abs/2606.24467",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
+        },
+        {
+          "title": "The Latent Bridge: A Continuous Slow-Fast Channel for Real-Time Game Agents",
+          "link": "https://arxiv.org/abs/2606.24470",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-24T04:00:00+00:00"
         }
       ]
     }
