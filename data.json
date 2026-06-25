@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-06-24T19:43:03.594758+00:00",
+  "generated_at": "2026-06-25T02:57:26.174265+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Which portable power station is right for you? Bluetti’s battery guide breaks it down",
+          "link": "https://electrek.co/2026/06/24/which-portable-power-station-right-bluettis-battery-guide-breaks-down/",
+          "source": "Electrek",
+          "published": "2026-06-24T23:00:00+00:00"
+        },
+        {
+          "title": "America’s most affordable new car is THIS electric pickup, but Ford is catching up",
+          "link": "https://electrek.co/2026/06/24/americas-most-affordable-new-car-is-this-electric-pickup-but-ford-is-catching-up/",
+          "source": "Electrek",
+          "published": "2026-06-24T22:00:42+00:00"
+        },
+        {
+          "title": "Kia will present three new PV5 variants at BIMOS this week, including a 7-seater",
+          "link": "https://electrek.co/2026/06/24/kia-prepares-three-pv5-models-bimos-7-seater/",
+          "source": "Electrek",
+          "published": "2026-06-24T21:55:41+00:00"
+        },
+        {
+          "title": "Tesla, Sunrun team up on 16 GW virtual power plant for data centers",
+          "link": "https://electrek.co/2026/06/24/tesla-sunrun-16gw-vpp-data-centers/",
+          "source": "Electrek",
+          "published": "2026-06-24T19:48:01+00:00"
+        },
         {
           "title": "Hyundai and Kia test the ‘world’s first’ in-car sanitization tech in the PV5",
           "link": "https://electrek.co/2026/06/24/hyundai-kia-test-worlds-first-in-car-sanitization-tech-in-pv5/",
@@ -221,38 +245,32 @@
           "link": "https://electrek.co/2026/06/22/nhtsa-tesla-katy-crash-federal-investigation/",
           "source": "Electrek",
           "published": "2026-06-22T20:56:09+00:00"
-        },
-        {
-          "title": "Hyundai is discounting EVs because who wants to pay for gas these days",
-          "link": "https://electrek.co/2026/06/22/hyundai-discounting-evs-gas/",
-          "source": "Electrek",
-          "published": "2026-06-22T19:29:58+00:00"
-        },
-        {
-          "title": "Rivian Has A Bold Plan For You To Skip The Repair Shop",
-          "link": "https://insideevs.com/news/799432/rivian-80-percent-service-home/",
-          "source": "InsideEVs",
-          "published": "2026-06-22T19:14:50+00:00"
-        },
-        {
-          "title": "Early Prime flash sales on EcoFlow + Anker SOLIX power stations, Gotrax electric dirt bike for kids $484 low, tool lows, more",
-          "link": "https://electrek.co/2026/06/22/early-prime-flash-sales-ecoflow-anker-solix-power-stations-gotrax-electric-dirt-bike-more/",
-          "source": "Electrek",
-          "published": "2026-06-22T18:00:00+00:00"
-        },
-        {
-          "title": "Gazelle unveils stylish e-bike powered by Bosch’s new hub motor",
-          "link": "https://electrek.co/2026/06/22/gazelle-unveils-stylish-e-bike-powered-by-boschs-new-hub-motor/",
-          "source": "Electrek",
-          "published": "2026-06-22T17:57:09+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 32,
+      "count": 31,
       "items": [
+        {
+          "title": "Which portable power station is right for you? Bluetti’s battery guide breaks it down",
+          "link": "https://electrek.co/2026/06/24/which-portable-power-station-right-bluettis-battery-guide-breaks-down/",
+          "source": "Electrek",
+          "published": "2026-06-24T23:00:00+00:00"
+        },
+        {
+          "title": "California Challenges Shady Offshore Wind Cancellations",
+          "link": "https://cleantechnica.com/2026/06/24/california-challenges-shady-offshore-wind-cancellations/",
+          "source": "CleanTechnica",
+          "published": "2026-06-24T21:48:49+00:00"
+        },
+        {
+          "title": "Tesla, Sunrun team up on 16 GW virtual power plant for data centers",
+          "link": "https://electrek.co/2026/06/24/tesla-sunrun-16gw-vpp-data-centers/",
+          "source": "Electrek",
+          "published": "2026-06-24T19:48:01+00:00"
+        },
         {
           "title": "Toyota scrapped the flagship Lexus EV, but a successor just got the green light",
           "link": "https://electrek.co/2026/06/24/toyota-scraps-new-lexus-ev-successor-gets-green-light/",
@@ -350,24 +368,6 @@
           "published": "2026-06-21T13:27:38+00:00"
         },
         {
-          "title": "BYD Battery Production Ramps Up In Brazil",
-          "link": "https://cleantechnica.com/2026/06/20/byd-battery-production-ramps-up-in-brazil/",
-          "source": "CleanTechnica",
-          "published": "2026-06-21T03:57:47+00:00"
-        },
-        {
-          "title": "India Needs 10 GWh of Battery Storage Now to Stop Coal’s Inflexibility Wasting Clean Power",
-          "link": "https://cleantechnica.com/2026/06/20/india-needs-10-gwh-of-battery-storage-now-to-stop-coals-inflexibility-wasting-clean-power/",
-          "source": "CleanTechnica",
-          "published": "2026-06-21T03:53:44+00:00"
-        },
-        {
-          "title": "Perovskite-Silicon Solar Cells Meet Matrix Shingled Interconnection Collaboration between Oxford PV & Fraunhofer ISE",
-          "link": "https://cleantechnica.com/2026/06/20/perovskite-silicon-solar-cells-meet-matrix-shingled-interconnection-collaboration-between-oxford-pv-fraunhofer-ise/",
-          "source": "CleanTechnica",
-          "published": "2026-06-21T03:50:01+00:00"
-        },
-        {
           "title": "A Tesla Model Y Battery Test Looked Bad. Then The Degradation Almost Stopped",
           "link": "https://insideevs.com/news/799342/tesla-model-y-lfp-degradation/",
           "source": "InsideEVs",
@@ -438,12 +438,6 @@
           "link": "https://electrek.co/2026/06/16/home-solar-in-rural-america-a-storm-just-took-out-your-power-now-what/",
           "source": "Electrek",
           "published": "2026-06-16T23:36:05+00:00"
-        },
-        {
-          "title": "Bluetti 2,016Wh+ FridgePower station exclusive launch deals from $807, Segway Xyber e-bike + extra battery $1,400 off at low, more",
-          "link": "https://electrek.co/2026/06/16/bluetti-2016wh-fridgepower-station-exclusive-launch-segway-xyber-e-bike-extra-battery-more/",
-          "source": "Electrek",
-          "published": "2026-06-16T18:00:00+00:00"
         }
       ]
     },
@@ -526,16 +520,22 @@
       "count": 23,
       "items": [
         {
+          "title": "KAIST, 뇌 신호로 로봇 움직이는 '뇌-로봇 플랫폼' 개발 나섰다",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47087",
+          "source": "로봇신문",
+          "published": "2026-06-25T11:15:03+00:00"
+        },
+        {
+          "title": "Reservoir acquires Contain to scale agtech startups",
+          "link": "https://www.therobotreport.com/reservoir-acquires-contain-to-scale-agtech-startups/",
+          "source": "The Robot Report",
+          "published": "2026-06-24T19:07:40+00:00"
+        },
+        {
           "title": "FAULHABER focuses on torque, noise, and power with new GPT gearheads",
           "link": "https://www.therobotreport.com/faulhaber-focuses-torque-noise-power-new-gpt-gearheads/",
           "source": "The Robot Report",
           "published": "2026-06-24T18:12:38+00:00"
-        },
-        {
-          "title": "시스윈로보틱스, 자율이동로봇 상설 시연장 구축",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47082",
-          "source": "로봇신문",
-          "published": "2026-06-24T17:35:03+00:00"
         },
         {
           "title": "Humanoid maker Agility Robotics to go public through SPAC merger",
@@ -616,12 +616,6 @@
           "published": "2026-06-22T12:59:51+00:00"
         },
         {
-          "title": "Güdel to show grinding beyond stationary robots with vertical, horizontal motion at Automate 2026",
-          "link": "https://www.therobotreport.com/gudel-to-showcase-grinding-beyond-stationary-robots-integrated-vertical-horizontal-motion-automate/",
-          "source": "The Robot Report",
-          "published": "2026-06-21T12:30:43+00:00"
-        },
-        {
           "title": "Video Friday: Do Robots Even Need Legs?",
           "link": "https://spectrum.ieee.org/video-friday-agentic-ai-robot",
           "source": "IEEE Spectrum",
@@ -671,10 +665,10 @@
       "count": 40,
       "items": [
         {
-          "title": "\"미소스가 미국 정부 기밀 시스템서 취약점 발견\"…규제 논란도 확산",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212070",
+          "title": "\"AI 경량화 기술 우주로 간다\"...노타, 우주의약 제조 플랫폼 개발 합류",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212091",
           "source": "AI타임스",
-          "published": "2026-06-24T17:02:29+00:00"
+          "published": "2026-06-25T11:55:20+00:00"
         },
         {
           "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
