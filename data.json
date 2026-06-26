@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T09:21:14.127635+00:00",
+  "generated_at": "2026-06-26T14:20:18.149370+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,30 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44011",
           "source": "모터그래프",
           "published": "2026-06-26T17:03:15+00:00"
+        },
+        {
+          "title": "Tesla settles lawsuit over fatal ‘Full Self-Driving’ pedestrian crash",
+          "link": "https://electrek.co/2026/06/26/tesla-fsd-pedestrian-death-settlement/",
+          "source": "Electrek",
+          "published": "2026-06-26T13:58:56+00:00"
+        },
+        {
+          "title": "Kia reveals three new PV5 electric vans, including a 7-seater [Images]",
+          "link": "https://electrek.co/2026/06/26/kia-reveals-three-new-pv5-electric-vans-images/",
+          "source": "Electrek",
+          "published": "2026-06-26T13:38:41+00:00"
+        },
+        {
+          "title": "Tesla Semi slides on ice and impressively regains control",
+          "link": "https://electrek.co/2026/06/26/tesla-semi-stability-control-ice-video/",
+          "source": "Electrek",
+          "published": "2026-06-26T13:32:42+00:00"
+        },
+        {
+          "title": "VW could cut 100,000 jobs and close 4 factories in a radical shake-up",
+          "link": "https://electrek.co/2026/06/26/vw-could-cut-100000-jobs-and-close-4-factories-in-a-radical-shake-up/",
+          "source": "Electrek",
+          "published": "2026-06-26T12:46:07+00:00"
         },
         {
           "title": "Subaru’s new top-selling EV delivers over 300 miles of range for just $35,000",
@@ -139,12 +163,6 @@
           "published": "2026-06-24T22:00:42+00:00"
         },
         {
-          "title": "Kia will present three new PV5 variants at BIMOS this week, including a 7-seater",
-          "link": "https://electrek.co/2026/06/24/kia-prepares-three-pv5-models-bimos-7-seater/",
-          "source": "Electrek",
-          "published": "2026-06-24T21:55:41+00:00"
-        },
-        {
           "title": "Tesla, Sunrun team up on 16 GW virtual power plant for data centers",
           "link": "https://electrek.co/2026/06/24/tesla-sunrun-16gw-vpp-data-centers/",
           "source": "Electrek",
@@ -227,24 +245,6 @@
           "link": "https://insideevs.com/news/799667/slate-truck-lfp-battery-range/",
           "source": "InsideEVs",
           "published": "2026-06-24T12:01:00+00:00"
-        },
-        {
-          "title": "Slate's $24,950 EV Truck Will Test What America Really Wants",
-          "link": "https://insideevs.com/news/799661/slate-truck-pricing-official-2026/",
-          "source": "InsideEVs",
-          "published": "2026-06-24T12:01:00+00:00"
-        },
-        {
-          "title": "Utah’s largest solar + battery storage project is officially online",
-          "link": "https://electrek.co/2026/06/24/utahs-largest-solar-battery-storage-project-is-officially-online/",
-          "source": "Electrek",
-          "published": "2026-06-24T11:25:40+00:00"
-        },
-        {
-          "title": "DJI’s e-bike motors expand past eMTBs with new electric SUV bike",
-          "link": "https://electrek.co/2026/06/23/djis-e-bike-motors-expand-past-emtbs-with-new-electric-suv-bike/",
-          "source": "Electrek",
-          "published": "2026-06-24T05:42:45+00:00"
         }
       ]
     },
@@ -444,13 +444,19 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 11,
+      "count": 12,
       "items": [
         {
           "title": "[2026 부산모빌리쇼] 이네오스 그레나디어, 스페셜 에디션 그레이캡 최초 공개",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44016",
           "source": "모터그래프",
           "published": "2026-06-26T16:54:22+00:00"
+        },
+        {
+          "title": "Tesla Semi slides on ice and impressively regains control",
+          "link": "https://electrek.co/2026/06/26/tesla-semi-stability-control-ice-video/",
+          "source": "Electrek",
+          "published": "2026-06-26T13:32:42+00:00"
         },
         {
           "title": "Range Rover’s first EV will beat its gas counterpart, but it may cost over $150,000",
