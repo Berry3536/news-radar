@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T19:56:54.156460+00:00",
+  "generated_at": "2026-06-26T03:28:14.668092+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,13 +7,19 @@
       "count": 40,
       "items": [
         {
+          "title": "Subaru’s new top-selling EV delivers over 300 miles of range for just $35,000",
+          "link": "https://electrek.co/2026/06/25/subarus-new-top-selling-ev-300-miles-range-for-35k/",
+          "source": "Electrek",
+          "published": "2026-06-25T21:01:22+00:00"
+        },
+        {
           "title": "Range Rover’s first EV will beat its gas counterpart, but it may cost over $150,000",
           "link": "https://electrek.co/2026/06/25/range-rovers-ev-beat-gas-model-cost-150000/",
           "source": "Electrek",
           "published": "2026-06-25T19:15:06+00:00"
         },
         {
-          "title": "McMurtry teases production version of its bonkers, record-breaking electric fan car",
+          "title": "McMurtry teases its record-shattering electric ‘fan car’ ahead of production",
           "link": "https://electrek.co/2026/06/25/mcmurtry-teases-production-version-of-its-bonkers-record-breaking-electric-fan-car/",
           "source": "Electrek",
           "published": "2026-06-25T18:59:27+00:00"
@@ -115,7 +121,7 @@
           "published": "2026-06-25T11:41:37+00:00"
         },
         {
-          "title": "Rad Power Bikes’ new owner just bought QuietKat, creating a three-brand e-bike portfolio",
+          "title": "Rad Power Bikes’ new owner shows off e-bike portfolio at Eurobike",
           "link": "https://electrek.co/2026/06/24/rad-power-bikes-new-owner-just-bought-quietkat-creating-a-three-brand-e-bike-portfolio/",
           "source": "Electrek",
           "published": "2026-06-25T06:15:06+00:00"
@@ -239,20 +245,20 @@
           "link": "https://electrek.co/2026/06/23/djis-e-bike-motors-expand-past-emtbs-with-new-electric-suv-bike/",
           "source": "Electrek",
           "published": "2026-06-24T05:42:45+00:00"
-        },
-        {
-          "title": "Interview: we meet with Port of Long Beach CEO Dr. Noel Hacegaba",
-          "link": "https://electrek.co/2026/06/23/interview-we-meet-with-port-of-long-beach-ceo-dr-noel-hacegaba/",
-          "source": "Electrek",
-          "published": "2026-06-24T00:13:55+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 30,
+      "count": 31,
       "items": [
+        {
+          "title": "Anker SOLIX S2000 Review — CleanTechnica Tested",
+          "link": "https://cleantechnica.com/2026/06/25/anker-solix-s2000-review-cleantechnica-tested/",
+          "source": "CleanTechnica",
+          "published": "2026-06-25T20:39:56+00:00"
+        },
         {
           "title": "CATL chief: solid-state batteries at ‘level 4 of 9,’ no leap until 2030",
           "link": "https://electrek.co/2026/06/25/catl-solid-state-battery-level-4-2030/",
@@ -514,10 +520,16 @@
       "count": 22,
       "items": [
         {
-          "title": "브릴스, 코스닥 상장 예비심사 통과",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47105",
+          "title": "[부고] 박재흥 서울대 교수 본인상",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47108",
           "source": "로봇신문",
-          "published": "2026-06-25T22:07:25+00:00"
+          "published": "2026-06-26T09:56:45+00:00"
+        },
+        {
+          "title": "Hirebotics offers no-code, explosion-proof cobot for painting",
+          "link": "https://www.therobotreport.com/hirebotics-offers-no-code-explosion-proof-cobot-for-painting/",
+          "source": "The Robot Report",
+          "published": "2026-06-25T19:41:33+00:00"
         },
         {
           "title": "Robust.AI chooses Aptiv PULSE sensor for Gen 3 Carter mobile robot",
@@ -604,12 +616,6 @@
           "published": "2026-06-22T19:13:14+00:00"
         },
         {
-          "title": "Eclipse Automation launches RealitySync simulation platform",
-          "link": "https://www.therobotreport.com/eclipse-automation-launches-realitysync-simulation-platform/",
-          "source": "The Robot Report",
-          "published": "2026-06-22T18:42:47+00:00"
-        },
-        {
           "title": "Video Friday: Do Robots Even Need Legs?",
           "link": "https://spectrum.ieee.org/video-friday-agentic-ai-robot",
           "source": "IEEE Spectrum",
@@ -653,10 +659,10 @@
       "count": 40,
       "items": [
         {
-          "title": "“단순 B2B SaaS의 시대는 끝나”...플로우, 'AI 워크 에이전트' 승부",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212121",
+          "title": "애플, 고성능 M6 건너뛰고 ‘온디바이스 AI 특화’ M7 칩 체제 조기 전환",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212132",
           "source": "AI타임스",
-          "published": "2026-06-25T19:25:12+00:00"
+          "published": "2026-06-26T11:57:57+00:00"
         },
         {
           "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
