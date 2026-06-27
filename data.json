@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T02:52:12.984762+00:00",
+  "generated_at": "2026-06-27T08:33:10.324519+00:00",
   "categories": [
     {
       "key": "ev",
@@ -251,8 +251,20 @@
     {
       "key": "battery",
       "label": "배터리",
-      "count": 26,
+      "count": 28,
       "items": [
+        {
+          "title": "The Limitations Of Powered Trailers That Nobody Thinks About",
+          "link": "https://cleantechnica.com/2026/06/26/the-limitations-of-powered-trailers-that-nobody-thinks-about/",
+          "source": "CleanTechnica",
+          "published": "2026-06-27T03:50:43+00:00"
+        },
+        {
+          "title": "CATL — 36 Battery Swap Stations for Hong Kong, 3000 Total This Year",
+          "link": "https://cleantechnica.com/2026/06/26/catl-36-battery-swap-stations-for-hong-kong-3000-total-this-year/",
+          "source": "CleanTechnica",
+          "published": "2026-06-27T03:41:20+00:00"
+        },
         {
           "title": "Octopus Energy Partners With DTEK To Bring Solar & Battery Storage To Ukraine",
           "link": "https://cleantechnica.com/2026/06/26/octopus-energy-partners-with-dtek-to-bring-solar-battery-storage-to-ukraine/",
@@ -629,244 +641,244 @@
       "count": 40,
       "items": [
         {
-          "title": "‘뇌’ 신호로 로봇 제어하는 플랫폼 개발 나선 카이스트",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212174",
+          "title": "바이두, '언리미티드 OCR' 공개… \"메모리 한계 깨고 수십 페이지 문서도 한 번에\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212177",
           "source": "AI타임스",
-          "published": "2026-06-27T06:00:00+00:00"
+          "published": "2026-06-27T13:45:19+00:00"
         },
         {
           "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
           "link": "https://arxiv.org/abs/2606.26155",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
           "link": "https://arxiv.org/abs/2606.26158",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Refusal Lives Downstream of Persona in Chat Models",
           "link": "https://arxiv.org/abs/2606.26161",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
           "link": "https://arxiv.org/abs/2606.26173",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
           "link": "https://arxiv.org/abs/2606.26203",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
           "link": "https://arxiv.org/abs/2606.26205",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Accelerating Skill Assessment in Chess: A Drift-Diffusion-Enhanced Elo Rating System",
           "link": "https://arxiv.org/abs/2606.26267",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
           "link": "https://arxiv.org/abs/2606.26298",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "COrigami: An AI Pipeline for Co-Designing Flat-Foldable Visually Recognisable Origami",
           "link": "https://arxiv.org/abs/2606.26299",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
           "link": "https://arxiv.org/abs/2606.26300",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?",
           "link": "https://arxiv.org/abs/2606.26346",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "What We are Missing in Multimodal LLM Evaluation?",
           "link": "https://arxiv.org/abs/2606.26348",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "OpenFinGym: A Verifiable Multi-Task Gym Environment for Evaluating Quant Agents",
           "link": "https://arxiv.org/abs/2606.26350",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Instruction Bleed: Cross-Module Interference in Prompt-Composed Agentic Systems",
           "link": "https://arxiv.org/abs/2606.26356",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Accelerating Returns and the Qualitative Engine for Science",
           "link": "https://arxiv.org/abs/2606.26359",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Narration-of-Thought: Inference-Time Scaffolding for Defeasible Ethical Reasoning in Large Language Models",
           "link": "https://arxiv.org/abs/2606.26366",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Geometry-Aware MCTS for Extremal Problems in Combinatorial Geometry",
           "link": "https://arxiv.org/abs/2606.26399",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "When Agents Meet Electric Bus Fleet Operations: Pricing Behavior, Trade-offs, and Policy Implications in an Aggregator Framework",
           "link": "https://arxiv.org/abs/2606.26400",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Unbiased Canonical Set-Valued Oracles Via Lattice Theory",
           "link": "https://arxiv.org/abs/2606.26418",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Estimating Uncertainty in Classifier Performance with Applications to Large Language Models and Nested Data",
           "link": "https://arxiv.org/abs/2606.26422",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Data-driven Machine Learning Cannot Reach Symbolic-level Logical Reasoning -- The Limit of the Scaling Law",
           "link": "https://arxiv.org/abs/2606.26454",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation",
           "link": "https://arxiv.org/abs/2606.26458",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "auto-psych: Automating the science of mind using agent-driven theory discovery and experimentation",
           "link": "https://arxiv.org/abs/2606.26460",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Clinical Harness for Governable Medical AI Skill Ecosystems",
           "link": "https://arxiv.org/abs/2606.26494",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Humans Disengage, Reasoning Models Persist: Separating Difficulty Registration from Deliberation Allocation",
           "link": "https://arxiv.org/abs/2606.26502",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "NeuraDock Visual Cognitive Load Agent Tutorial: A Quality-Gated Open-Source EEG Workflow for Alpha Dynamics and Real-Time Applications",
           "link": "https://arxiv.org/abs/2606.26518",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Boundary-Aware Context Grounding for A Low-Channel EEG Agent",
           "link": "https://arxiv.org/abs/2606.26519",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Radical AI Interpretability",
           "link": "https://arxiv.org/abs/2606.26523",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "PMDformer: Patch-Mean Decoupling Information Transformer for Long-term Forecasting",
           "link": "https://arxiv.org/abs/2606.26549",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Explainable Ensemble-Based Machine Learning Models for Detecting the Presence of Cirrhosis in Hepatitis C Patients",
           "link": "https://arxiv.org/abs/2606.26561",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "EvoOptiGraph: Weakness-Driven Coevolution via Graph-Based Structural Generation for Optimization Modeling",
           "link": "https://arxiv.org/abs/2606.26578",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "A Multi-Level Validation and Traceability Framework for AI-Generated Telescope Scheduling Decisions",
           "link": "https://arxiv.org/abs/2606.26585",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Content-Based Smart E-Mail Dispatcher Using Large Language Models",
           "link": "https://arxiv.org/abs/2606.26593",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "LLM-based Models for Detecting Emerging Topics in Service Feedback",
           "link": "https://arxiv.org/abs/2606.26595",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Autoformalization of Agent Instructions into Policy-as-Code",
           "link": "https://arxiv.org/abs/2606.26649",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "SKILL-DISCO: Distilling and Compiling Agent Traces into Reusable Procedural Skills",
           "link": "https://arxiv.org/abs/2606.26669",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "NebulaExp-8B: An Empirical Post-Training Pipeline via Full-Scale Ablation Research",
           "link": "https://arxiv.org/abs/2606.26671",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Do Safety Guardrails Need to Reason? LeanGuard: A Fast and Light Approach for Robust Moderation",
           "link": "https://arxiv.org/abs/2606.26686",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         },
         {
           "title": "Kalman Prototypical Networks for Few-shot Fault Detection in Combined Cycle Gas Turbines",
           "link": "https://arxiv.org/abs/2606.26710",
           "source": "arXiv cs.AI",
-          "published": "2026-06-26T04:00:00+00:00"
+          "published": "2026-06-27T04:00:00+00:00"
         }
       ]
     }
