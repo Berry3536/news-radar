@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-06-27T13:27:27.715262+00:00",
+  "generated_at": "2026-06-27T19:17:18.088250+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "VIDEO: The New Xiaomi SU7 Is Very Much Ready For Europe",
+          "link": "https://insideevs.com/reviews/799960/su7-video-update-watch-xiaomi/",
+          "source": "InsideEVs",
+          "published": "2026-06-27T14:05:00+00:00"
+        },
         {
           "title": "Mercedes posts Tesla-like efficiency hauling 36 tons through a German winter",
           "link": "https://electrek.co/2026/06/27/mercedes-posts-tesla-like-efficiency-hauling-36-tons-through-a-german-winter/",
@@ -239,20 +245,20 @@
           "link": "https://electrek.co/2026/06/24/rad-power-bikes-new-owner-just-bought-quietkat-creating-a-three-brand-e-bike-portfolio/",
           "source": "Electrek",
           "published": "2026-06-25T06:15:06+00:00"
-        },
-        {
-          "title": "Which portable power station is right for you? Bluetti’s battery guide breaks it down",
-          "link": "https://electrek.co/2026/06/24/which-portable-power-station-right-bluettis-battery-guide-breaks-down/",
-          "source": "Electrek",
-          "published": "2026-06-24T23:00:00+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 28,
+      "count": 29,
       "items": [
+        {
+          "title": "Energy Storage Emerges As The Great Equalizer, Trump Or No Trump",
+          "link": "https://cleantechnica.com/2026/06/27/energy-storage-sodium-ion-salt-battery-us-coalition/",
+          "source": "CleanTechnica",
+          "published": "2026-06-27T16:59:14+00:00"
+        },
         {
           "title": "The Limitations Of Powered Trailers That Nobody Thinks About",
           "link": "https://cleantechnica.com/2026/06/26/the-limitations-of-powered-trailers-that-nobody-thinks-about/",
