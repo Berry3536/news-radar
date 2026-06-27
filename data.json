@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-06-26T19:43:44.222260+00:00",
+  "generated_at": "2026-06-27T02:52:12.984762+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Tesla (TSLA) Q2 2026 delivery consensus: 406,000 vehicles expected",
+          "link": "https://electrek.co/2026/06/26/tesla-q2-2026-delivery-consensus-406000/",
+          "source": "Electrek",
+          "published": "2026-06-26T21:44:01+00:00"
+        },
+        {
+          "title": "The Jeep Recon EV goes on sale for $67,000 with a limited range",
+          "link": "https://electrek.co/2026/06/26/jeep-recon-ev-on-sale-67000-with-limited-range/",
+          "source": "Electrek",
+          "published": "2026-06-26T21:20:30+00:00"
+        },
+        {
+          "title": "BYD’s pickup spotted in China with a different look",
+          "link": "https://electrek.co/2026/06/26/byds-pickup-spotted-china-different-look/",
+          "source": "Electrek",
+          "published": "2026-06-26T20:06:14+00:00"
+        },
         {
           "title": "Podcast: Slate’s $25,000 electric pickup, Polestar banned from US, Tesla FSD crash, and more",
           "link": "https://electrek.co/2026/06/26/podcast-slates-25000-electric-pickup-polestar-banned-from-us-tesla-fsd-crash-and-more/",
@@ -227,32 +245,20 @@
           "link": "https://electrek.co/2026/06/24/tesla-sunrun-16gw-vpp-data-centers/",
           "source": "Electrek",
           "published": "2026-06-24T19:48:01+00:00"
-        },
-        {
-          "title": "Hyundai and Kia test the ‘world’s first’ in-car sanitization tech in the PV5",
-          "link": "https://electrek.co/2026/06/24/hyundai-kia-test-worlds-first-in-car-sanitization-tech-in-pv5/",
-          "source": "Electrek",
-          "published": "2026-06-24T18:38:09+00:00"
-        },
-        {
-          "title": "Prime Day-2 Deals: Bluetti Prime Day Sale with exclusive new power station lows, Segway Navimow X4 robot mower lows, more",
-          "link": "https://electrek.co/2026/06/24/bluetti-prime-day-power-stations-segway-navimow-robot-mower-more/",
-          "source": "Electrek",
-          "published": "2026-06-24T18:00:00+00:00"
-        },
-        {
-          "title": "China’s EV exports smash another record as Southeast Asia goes electric",
-          "link": "https://electrek.co/2026/06/24/china-ev-exports-southeast-asia/",
-          "source": "Electrek",
-          "published": "2026-06-24T17:38:45+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 27,
+      "count": 26,
       "items": [
+        {
+          "title": "Octopus Energy Partners With DTEK To Bring Solar & Battery Storage To Ukraine",
+          "link": "https://cleantechnica.com/2026/06/26/octopus-energy-partners-with-dtek-to-bring-solar-battery-storage-to-ukraine/",
+          "source": "CleanTechnica",
+          "published": "2026-06-26T23:14:03+00:00"
+        },
         {
           "title": "Sleek, Futuristic “Atlas” Car Recharges Self With Built-In Solar Cells",
           "link": "https://cleantechnica.com/2026/06/26/solar-ev-aptera-us-startup-range-miles-autocycle/",
@@ -338,12 +344,6 @@
           "published": "2026-06-23T17:42:32+00:00"
         },
         {
-          "title": "Australian Mine Goes 155 Hours Powered 100% By Renewables",
-          "link": "https://cleantechnica.com/2026/06/23/australian-mine-goes-155-hours-powered-100-by-renewables/",
-          "source": "CleanTechnica",
-          "published": "2026-06-23T16:58:49+00:00"
-        },
-        {
           "title": "Tesla, NatPower strike $5B deal for 25 GWh of Megapack storage",
           "link": "https://electrek.co/2026/06/23/tesla-natpower-megapack-25-gwh-europe/",
           "source": "Electrek",
@@ -408,12 +408,6 @@
           "link": "https://electrek.co/2026/06/18/honda-quantumscape-qs-team-up-solid-state-batteries/",
           "source": "Electrek",
           "published": "2026-06-18T18:10:44+00:00"
-        },
-        {
-          "title": "California VPP is rolling out a $6,000 rebate for new home batteries",
-          "link": "https://electrek.co/2026/06/18/california-vpp-is-rolling-out-a-6000-rebate-for-new-home-batteries/",
-          "source": "Electrek",
-          "published": "2026-06-18T11:51:27+00:00"
         }
       ]
     },
@@ -499,7 +493,7 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 20,
+      "count": 21,
       "items": [
         {
           "title": "General Intuition raises $320M to use video game data to train robots",
@@ -512,6 +506,12 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47131",
           "source": "로봇신문",
           "published": "2026-06-26T17:51:12+00:00"
+        },
+        {
+          "title": "Video Friday: Give Robots a Hand",
+          "link": "https://spectrum.ieee.org/video-friday-robot-grippers",
+          "source": "IEEE Spectrum",
+          "published": "2026-06-26T16:30:01+00:00"
         },
         {
           "title": "Orbbec shows AI-powered vision systems at Automate 2026",
@@ -629,10 +629,10 @@
       "count": 40,
       "items": [
         {
-          "title": "앤트로픽, 'AI 비용 과다 청구' 논란…\"실패한 작업도 돈 받았다\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212155",
+          "title": "‘뇌’ 신호로 로봇 제어하는 플랫폼 개발 나선 카이스트",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212174",
           "source": "AI타임스",
-          "published": "2026-06-26T18:15:15+00:00"
+          "published": "2026-06-27T06:00:00+00:00"
         },
         {
           "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
