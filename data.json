@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-06-27T08:33:10.324519+00:00",
+  "generated_at": "2026-06-27T13:27:27.715262+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Mercedes posts Tesla-like efficiency hauling 36 tons through a German winter",
+          "link": "https://electrek.co/2026/06/27/mercedes-posts-tesla-like-efficiency-hauling-36-tons-through-a-german-winter/",
+          "source": "Electrek",
+          "published": "2026-06-27T12:48:45+00:00"
+        },
+        {
+          "title": "Is The $25K Slate Truck Just Too Basic? I Rode In One To Find Out.",
+          "link": "https://insideevs.com/features/799969/slate-ev-first-ride-impressions/",
+          "source": "InsideEVs",
+          "published": "2026-06-27T12:00:00+00:00"
+        },
         {
           "title": "Tesla (TSLA) Q2 2026 delivery consensus: 406,000 vehicles expected",
           "link": "https://electrek.co/2026/06/26/tesla-q2-2026-delivery-consensus-406000/",
@@ -233,18 +245,6 @@
           "link": "https://electrek.co/2026/06/24/which-portable-power-station-right-bluettis-battery-guide-breaks-down/",
           "source": "Electrek",
           "published": "2026-06-24T23:00:00+00:00"
-        },
-        {
-          "title": "America’s most affordable new car is THIS electric pickup, but Ford is catching up",
-          "link": "https://electrek.co/2026/06/24/americas-most-affordable-new-car-is-this-electric-pickup-but-ford-is-catching-up/",
-          "source": "Electrek",
-          "published": "2026-06-24T22:00:42+00:00"
-        },
-        {
-          "title": "Tesla, Sunrun team up on 16 GW virtual power plant for data centers",
-          "link": "https://electrek.co/2026/06/24/tesla-sunrun-16gw-vpp-data-centers/",
-          "source": "Electrek",
-          "published": "2026-06-24T19:48:01+00:00"
         }
       ]
     },
@@ -505,8 +505,20 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 21,
+      "count": 20,
       "items": [
+        {
+          "title": "We know how to build smarter robots. Now, we need to learn smarter ways to test them",
+          "link": "https://www.therobotreport.com/we-know-how-to-build-smarter-robots-now-we-need-to-learn-smarter-ways-to-test-them/",
+          "source": "The Robot Report",
+          "published": "2026-06-27T13:00:47+00:00"
+        },
+        {
+          "title": "How compact cobot integration enhances autonomous mobile robot applications",
+          "link": "https://www.therobotreport.com/how-compact-cobot-integration-enhances-autonomous-mobile-robot-applications/",
+          "source": "The Robot Report",
+          "published": "2026-06-27T12:35:55+00:00"
+        },
         {
           "title": "General Intuition raises $320M to use video game data to train robots",
           "link": "https://www.therobotreport.com/general-intuition-raises-320m-uses-video-game-data-train-robots/",
@@ -598,18 +610,6 @@
           "published": "2026-06-23T17:09:52+00:00"
         },
         {
-          "title": "Why physical AI 2.0 needs a reality check",
-          "link": "https://www.therobotreport.com/why-physical-ai-2-0-needs-reality-check/",
-          "source": "The Robot Report",
-          "published": "2026-06-23T12:31:23+00:00"
-        },
-        {
-          "title": "FORT and NVIDIA launch AI-driven Outside-In Safety blueprint",
-          "link": "https://www.therobotreport.com/fort-and-nvidia-launch-ai-driven-outside-in-safety-blueprint/",
-          "source": "The Robot Report",
-          "published": "2026-06-22T22:38:31+00:00"
-        },
-        {
           "title": "Video Friday: Do Robots Even Need Legs?",
           "link": "https://spectrum.ieee.org/video-friday-agentic-ai-robot",
           "source": "IEEE Spectrum",
@@ -626,12 +626,6 @@
           "link": "https://spectrum.ieee.org/china-humanoid-robot-marathon",
           "source": "IEEE Spectrum",
           "published": "2026-06-17T12:19:27+00:00"
-        },
-        {
-          "title": "Visual Language Models Train Robots to Read Human Emotions",
-          "link": "https://spectrum.ieee.org/robot-emotions-visual-language-models",
-          "source": "IEEE Spectrum",
-          "published": "2026-06-13T13:00:01+00:00"
         }
       ]
     },
@@ -641,10 +635,10 @@
       "count": 40,
       "items": [
         {
-          "title": "바이두, '언리미티드 OCR' 공개… \"메모리 한계 깨고 수십 페이지 문서도 한 번에\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212177",
+          "title": "스와치, '앱 디자인 도용' 책임으로 삼성에 2600억 손배 청구",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212188",
           "source": "AI타임스",
-          "published": "2026-06-27T13:45:19+00:00"
+          "published": "2026-06-27T21:23:38+00:00"
         },
         {
           "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
