@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T03:34:27.471110+00:00",
+  "generated_at": "2026-06-28T08:48:14.659597+00:00",
   "categories": [
     {
       "key": "ev",
@@ -251,8 +251,14 @@
     {
       "key": "battery",
       "label": "배터리",
-      "count": 29,
+      "count": 30,
       "items": [
+        {
+          "title": "Aptera Proved Its Solar Generation, Now It Needs To Prove Its Efficiency",
+          "link": "https://cleantechnica.com/2026/06/27/aptera-proved-its-solar-generation-now-it-needs-to-prove-its-efficiency/",
+          "source": "CleanTechnica",
+          "published": "2026-06-28T03:59:42+00:00"
+        },
         {
           "title": "Energy Storage Emerges As The Great Equalizer, Trump Or No Trump",
           "link": "https://cleantechnica.com/2026/06/27/energy-storage-sodium-ion-salt-battery-us-coalition/",
@@ -641,10 +647,10 @@
       "count": 1,
       "items": [
         {
-          "title": "KAIST, AI의 '디지털 연령차별' 정량 분석...",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212190",
+          "title": "장시간 컴퓨터 사용 능력 벤치마크 'OS월드 2.0' 공개…클로드 오퍼스 4.8 최고점",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212199",
           "source": "AI타임스",
-          "published": "2026-06-28T12:00:00+00:00"
+          "published": "2026-06-28T14:02:03+00:00"
         }
       ]
     }
