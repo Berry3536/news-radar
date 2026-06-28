@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-06-28T08:48:14.659597+00:00",
+  "generated_at": "2026-06-28T13:41:12.180222+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Leading electric dirt bike Stark Varg lets owners download a new trick",
+          "link": "https://electrek.co/2026/06/28/leading-electric-dirt-bike-stark-varg-lets-owners-download-a-new-trick/",
+          "source": "Electrek",
+          "published": "2026-06-28T13:39:37+00:00"
+        },
+        {
+          "title": "This Chinese SUV Sold 100,000 Units In Seven Months For A Good Reason",
+          "link": "https://insideevs.com/reviews/799953/nio-es8-drive-review-2026/",
+          "source": "InsideEVs",
+          "published": "2026-06-28T12:00:00+00:00"
+        },
         {
           "title": "VIDEO: The New Xiaomi SU7 Is Very Much Ready For Europe",
           "link": "https://insideevs.com/reviews/799960/su7-video-update-watch-xiaomi/",
@@ -233,25 +245,13 @@
           "link": "https://electrek.co/2026/06/25/amble-unveils-street-legal-electric-buggy-but-its-not-a-car/",
           "source": "Electrek",
           "published": "2026-06-25T13:00:00+00:00"
-        },
-        {
-          "title": "The Production McMurtry Speirling Will Not Look Like The Prototypes",
-          "link": "https://insideevs.com/news/799784/mcmurtry-speirling-production-model-teaser/",
-          "source": "InsideEVs",
-          "published": "2026-06-25T11:41:37+00:00"
-        },
-        {
-          "title": "Rad Power Bikes’ new owner shows off e-bike portfolio at Eurobike",
-          "link": "https://electrek.co/2026/06/24/rad-power-bikes-new-owner-just-bought-quietkat-creating-a-three-brand-e-bike-portfolio/",
-          "source": "Electrek",
-          "published": "2026-06-25T06:15:06+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 30,
+      "count": 29,
       "items": [
         {
           "title": "Aptera Proved Its Solar Generation, Now It Needs To Prove Its Efficiency",
@@ -330,12 +330,6 @@
           "link": "https://electrek.co/2026/06/24/which-portable-power-station-right-bluettis-battery-guide-breaks-down/",
           "source": "Electrek",
           "published": "2026-06-24T23:00:00+00:00"
-        },
-        {
-          "title": "California Challenges Shady Offshore Wind Cancellations",
-          "link": "https://cleantechnica.com/2026/06/24/california-challenges-shady-offshore-wind-cancellations/",
-          "source": "CleanTechnica",
-          "published": "2026-06-24T21:48:49+00:00"
         },
         {
           "title": "Tesla, Sunrun team up on 16 GW virtual power plant for data centers",
@@ -438,8 +432,14 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 12,
+      "count": 13,
       "items": [
+        {
+          "title": "Leading electric dirt bike Stark Varg lets owners download a new trick",
+          "link": "https://electrek.co/2026/06/28/leading-electric-dirt-bike-stark-varg-lets-owners-download-a-new-trick/",
+          "source": "Electrek",
+          "published": "2026-06-28T13:39:37+00:00"
+        },
         {
           "title": "[2026 부산모빌리쇼] 이네오스 그레나디어, 스페셜 에디션 그레이캡 최초 공개",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44016",
@@ -520,6 +520,18 @@
       "count": 20,
       "items": [
         {
+          "title": "“비디오 게임 데이터로 로봇 훈련”…제너럴 인튜이션, 4900억원 유치",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47141",
+          "source": "로봇신문",
+          "published": "2026-06-28T20:11:38+00:00"
+        },
+        {
+          "title": "AGIBOT produces 15,000th robot, marking a milestone in embodied AI deployment",
+          "link": "https://www.therobotreport.com/agibot-produces-15000th-robot-marking-milestone-embodied-ai-deployment/",
+          "source": "The Robot Report",
+          "published": "2026-06-28T09:00:12+00:00"
+        },
+        {
           "title": "We know how to build smarter robots. Now, we need to learn smarter ways to test them",
           "link": "https://www.therobotreport.com/we-know-how-to-build-smarter-robots-now-we-need-to-learn-smarter-ways-to-test-them/",
           "source": "The Robot Report",
@@ -536,12 +548,6 @@
           "link": "https://www.therobotreport.com/general-intuition-raises-320m-uses-video-game-data-train-robots/",
           "source": "The Robot Report",
           "published": "2026-06-26T18:38:36+00:00"
-        },
-        {
-          "title": "퍼씨엠, 'MELSOFT 제미나이' 기반 기계설계 분야 DX·피지컬 AI 비전 제시",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47131",
-          "source": "로봇신문",
-          "published": "2026-06-26T17:51:12+00:00"
         },
         {
           "title": "Video Friday: Give Robots a Hand",
@@ -616,12 +622,6 @@
           "published": "2026-06-23T19:49:36+00:00"
         },
         {
-          "title": "CreateMe partners with Avalo and Laguna Fabrics to bring resilience to apparel supply chains",
-          "link": "https://www.therobotreport.com/createme-partners-with-avalo-and-laguna-fabrics-to-bring-resilience-to-apparel-supply-chains/",
-          "source": "The Robot Report",
-          "published": "2026-06-23T17:09:52+00:00"
-        },
-        {
           "title": "Video Friday: Do Robots Even Need Legs?",
           "link": "https://spectrum.ieee.org/video-friday-agentic-ai-robot",
           "source": "IEEE Spectrum",
@@ -647,10 +647,10 @@
       "count": 1,
       "items": [
         {
-          "title": "장시간 컴퓨터 사용 능력 벤치마크 'OS월드 2.0' 공개…클로드 오퍼스 4.8 최고점",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212199",
+          "title": "국내 AI 업계, 마누스 외면… \"중국산 거부감보다 대체재 풍부\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212196",
           "source": "AI타임스",
-          "published": "2026-06-28T14:02:03+00:00"
+          "published": "2026-06-28T21:08:34+00:00"
         }
       ]
     }
