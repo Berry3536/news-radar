@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T13:41:12.180222+00:00",
+  "generated_at": "2026-06-28T19:16:00.002825+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,7 +7,19 @@
       "count": 40,
       "items": [
         {
-          "title": "Leading electric dirt bike Stark Varg lets owners download a new trick",
+          "title": "Zero emission truck deployments SURGED up 37% in 2025 as momentum builds",
+          "link": "https://electrek.co/2026/06/28/zero-emission-truck-deployments-surged-up-37-in-2025-as-momentum-builds/",
+          "source": "Electrek",
+          "published": "2026-06-28T17:55:12+00:00"
+        },
+        {
+          "title": "Survey Sunday: with nearly a trillion dollars, will Elon try to make things right?",
+          "link": "https://electrek.co/2026/06/28/survey-sunday-with-nearly-a-trillion-dollars-will-elon-try-to-make-things-right/",
+          "source": "Electrek",
+          "published": "2026-06-28T16:13:23+00:00"
+        },
+        {
+          "title": "Popular electric dirt bike Stark Varg lets owners download a new trick",
           "link": "https://electrek.co/2026/06/28/leading-electric-dirt-bike-stark-varg-lets-owners-download-a-new-trick/",
           "source": "Electrek",
           "published": "2026-06-28T13:39:37+00:00"
@@ -233,18 +245,6 @@
           "link": "https://electrek.co/2026/06/25/tesla-giga-berlin-1000-hires-europe-demand/",
           "source": "Electrek",
           "published": "2026-06-25T14:04:52+00:00"
-        },
-        {
-          "title": "The U.S. Strongarms Polestar Out Of The American EV Market",
-          "link": "https://insideevs.com/news/799796/polestar-exits-us-market-authorization-denied/",
-          "source": "InsideEVs",
-          "published": "2026-06-25T13:40:07+00:00"
-        },
-        {
-          "title": "Amble unveils fun-looking, street-legal 40 MPH ‘electric buggy’",
-          "link": "https://electrek.co/2026/06/25/amble-unveils-street-legal-electric-buggy-but-its-not-a-car/",
-          "source": "Electrek",
-          "published": "2026-06-25T13:00:00+00:00"
         }
       ]
     },
@@ -432,10 +432,10 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 13,
+      "count": 12,
       "items": [
         {
-          "title": "Leading electric dirt bike Stark Varg lets owners download a new trick",
+          "title": "Popular electric dirt bike Stark Varg lets owners download a new trick",
           "link": "https://electrek.co/2026/06/28/leading-electric-dirt-bike-stark-varg-lets-owners-download-a-new-trick/",
           "source": "Electrek",
           "published": "2026-06-28T13:39:37+00:00"
@@ -505,12 +505,6 @@
           "link": "https://electrek.co/2026/06/18/sweden-tesla-fsd-speeding-eu-vote/",
           "source": "Electrek",
           "published": "2026-06-18T16:50:50+00:00"
-        },
-        {
-          "title": "E-bike motor king Bosch launches its first hub motor for electric bicycles",
-          "link": "https://electrek.co/2026/06/18/e-bike-motor-king-bosch-launches-its-first-hub-motor-for-electric-bicycles/",
-          "source": "Electrek",
-          "published": "2026-06-18T14:26:39+00:00"
         }
       ]
     },
@@ -520,10 +514,10 @@
       "count": 20,
       "items": [
         {
-          "title": "“비디오 게임 데이터로 로봇 훈련”…제너럴 인튜이션, 4900억원 유치",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47141",
+          "title": "금주의 로봇 캘린더(2026. 6. 29 ~ 7. 5)",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47143",
           "source": "로봇신문",
-          "published": "2026-06-28T20:11:38+00:00"
+          "published": "2026-06-28T23:32:13+00:00"
         },
         {
           "title": "AGIBOT produces 15,000th robot, marking a milestone in embodied AI deployment",
@@ -647,10 +641,10 @@
       "count": 1,
       "items": [
         {
-          "title": "국내 AI 업계, 마누스 외면… \"중국산 거부감보다 대체재 풍부\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212196",
+          "title": "김준기 래블업 CTO “풀스택 AI 인프라로 GPU 한계 넘는다”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212203",
           "source": "AI타임스",
-          "published": "2026-06-28T21:08:34+00:00"
+          "published": "2026-06-29T02:50:53+00:00"
         }
       ]
     }
