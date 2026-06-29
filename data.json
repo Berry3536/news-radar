@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-06-29T03:39:08.304217+00:00",
+  "generated_at": "2026-06-29T10:52:59.664472+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "[2026 부산모빌리티쇼] 램 1500 부산 최초 공개",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44021",
+          "source": "모터그래프",
+          "published": "2026-06-29T17:02:44+00:00"
+        },
         {
           "title": "Controversial Ferrari Luce EV is an instant sellout in China",
           "link": "https://electrek.co/2026/06/28/controversial-ferrari-luce-ev-is-an-instant-sellout-in-china/",
@@ -107,12 +113,6 @@
           "link": "https://insideevs.com/news/799725/slate-ev-hundreds-of-accessories/",
           "source": "InsideEVs",
           "published": "2026-06-26T17:17:13+00:00"
-        },
-        {
-          "title": "[2026 부산모빌리티쇼] 현대차, 8세대 아반떼 세계 최초 공개",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44011",
-          "source": "모터그래프",
-          "published": "2026-06-26T17:03:15+00:00"
         },
         {
           "title": "Shell Built A Tiny EV With Hyper-Fast Charging And A New Cooling System",
@@ -441,16 +441,16 @@
       "count": 12,
       "items": [
         {
+          "title": "[2026 부산모빌리티쇼] 램 1500 부산 최초 공개",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44021",
+          "source": "모터그래프",
+          "published": "2026-06-29T17:02:44+00:00"
+        },
+        {
           "title": "Popular electric dirt bike Stark Varg lets owners download a new trick",
           "link": "https://electrek.co/2026/06/28/leading-electric-dirt-bike-stark-varg-lets-owners-download-a-new-trick/",
           "source": "Electrek",
           "published": "2026-06-28T13:39:37+00:00"
-        },
-        {
-          "title": "[2026 부산모빌리쇼] 이네오스 그레나디어, 스페셜 에디션 그레이캡 최초 공개",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44016",
-          "source": "모터그래프",
-          "published": "2026-06-26T16:54:22+00:00"
         },
         {
           "title": "Tesla Semi slides on ice and impressively regains control",
@@ -520,10 +520,10 @@
       "count": 20,
       "items": [
         {
-          "title": "금주의 로봇 캘린더(2026. 6. 29 ~ 7. 5)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47143",
+          "title": "라이노스, 키논로보틱스와 파트너십 체결…대형 청소로봇 C55 국내 출시",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47164",
           "source": "로봇신문",
-          "published": "2026-06-28T23:32:13+00:00"
+          "published": "2026-06-29T18:31:49+00:00"
         },
         {
           "title": "AGIBOT produces 15,000th robot, marking a milestone in embodied AI deployment",
@@ -644,13 +644,247 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 1,
+      "count": 40,
       "items": [
         {
-          "title": "'램마겟돈'의 진짜 피해자는 중소기업과 소비자…\"예전 가격은 다시 없을 것\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212225",
+          "title": "정부, 서남권 메모리 팹에 800조 쏟는다...'메가 프로젝트' 전격 가동",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212241",
           "source": "AI타임스",
-          "published": "2026-06-29T12:33:42+00:00"
+          "published": "2026-06-29T16:49:45+00:00"
+        },
+        {
+          "title": "AI-Model Network: Concept, Current State and Future",
+          "link": "https://arxiv.org/abs/2606.27382",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+          "link": "https://arxiv.org/abs/2606.27443",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
+          "link": "https://arxiv.org/abs/2606.27483",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models",
+          "link": "https://arxiv.org/abs/2606.27593",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums",
+          "link": "https://arxiv.org/abs/2606.27619",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "MER-R1: Multimodal Emotion Reasoning via Slow-Fast Thinking Synergy",
+          "link": "https://arxiv.org/abs/2606.27652",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation",
+          "link": "https://arxiv.org/abs/2606.27736",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework",
+          "link": "https://arxiv.org/abs/2606.27757",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "Understanding Rollout Error in Graph World Models",
+          "link": "https://arxiv.org/abs/2606.27780",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
+          "link": "https://arxiv.org/abs/2606.27806",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "ATOD: Annealed Turn-aware On-policy Distillation for Multi-turn Autonomous Agents",
+          "link": "https://arxiv.org/abs/2606.27814",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning",
+          "link": "https://arxiv.org/abs/2606.27826",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "Verifiable Geometry Problem Solving: Solver-Driven Autoformalization and Theorem Proposing",
+          "link": "https://arxiv.org/abs/2606.27926",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "RelBall: Relation Ball with Quaternion Rotation for Knowledge Graph Completion",
+          "link": "https://arxiv.org/abs/2606.27967",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "Lifted Causal Inference",
+          "link": "https://arxiv.org/abs/2606.28024",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "JD Oxygen AI Item Center (Oxygen AIIC) V1: An Industrial-Scale LLM/VLM-Centric Solution for Item Understanding, Management, and Applications",
+          "link": "https://arxiv.org/abs/2606.28070",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "Ontology-Guided Evidence Path Inference for Multi-hop Knowledge Graph Question Answering",
+          "link": "https://arxiv.org/abs/2606.28076",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "AI-Driven Synthesis for High-Tech System Design: Automating Innovation",
+          "link": "https://arxiv.org/abs/2606.28126",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "Tandem Reinforcement Learning with Verifiable Rewards",
+          "link": "https://arxiv.org/abs/2606.28166",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "Agent-Native Immune System: Architecture, Taxonomy, and Engineering",
+          "link": "https://arxiv.org/abs/2606.28270",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "DataStates-LLM: Scalable Checkpointing for Transformer Models Using Composable State Providers",
+          "link": "https://arxiv.org/abs/2601.16956",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "Position: The Term \"Machine Unlearning\" Is Overused in LLMs",
+          "link": "https://arxiv.org/abs/2606.27379",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "OverFlowLight: Real-Time Gridlock Prevention and Traffic Signal Optimization for Urban Intersections",
+          "link": "https://arxiv.org/abs/2606.27381",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "CalBrief: A Pilot Diagnostic Benchmark for Evidence-Calibrated Scientific Briefing with Large Language Models",
+          "link": "https://arxiv.org/abs/2606.27383",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "Agentic Publication Protocol: An Attempt to Modernize Scientific Publication",
+          "link": "https://arxiv.org/abs/2606.27386",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "SidConArena: An Environment Evaluating Agents in Open-Ended,Positive-Sum Bargaining Game",
+          "link": "https://arxiv.org/abs/2606.27397",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "Automated brain tumor detection in MRI images using CNN and ResNet architectures",
+          "link": "https://arxiv.org/abs/2606.27405",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "Towards Evaluation of Implicit Software World Models in Coding LLMs",
+          "link": "https://arxiv.org/abs/2606.27406",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "Compression-Driven Anomaly Detection in Brain MRI Using an Interpretable Quantum Autoencoder",
+          "link": "https://arxiv.org/abs/2606.27411",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "Not All Relations Rotate Alike: Transformation-Aware Decoupling for Viewpoint-Robust 3D Scene Graph Generation",
+          "link": "https://arxiv.org/abs/2606.27412",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "GRAFT: Biological Graph and Hypergraph Benchmarks for Linked Gene Expression and Phenotypic Trait Prediction in Arabidopsis thaliana",
+          "link": "https://arxiv.org/abs/2606.27413",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents",
+          "link": "https://arxiv.org/abs/2606.27472",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "Speculative Refinement: A Hybrid Autoregressive Diffusion Decoding Strategy and Its Behavior Across Benchmarks",
+          "link": "https://arxiv.org/abs/2606.27474",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "DMV-Bench: Diagnosing Long-Horizon Multimodal Agents' Visual Memory with Incidental Cue Injection",
+          "link": "https://arxiv.org/abs/2606.27499",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge",
+          "link": "https://arxiv.org/abs/2606.27527",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "The Context-Ready Transformer",
+          "link": "https://arxiv.org/abs/2606.27538",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "Benchmarking Multi-Modal Graph-based Social Media Popularity Prediction",
+          "link": "https://arxiv.org/abs/2606.27539",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "On the Inseparability of Instructions and Data in Shared-Embedding Sequence Models",
+          "link": "https://arxiv.org/abs/2606.27567",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
+        },
+        {
+          "title": "hia-gat: A Heterogeneous Interaction-Aware Graph Attention Network For Frame-Level Traffic Conflict Risk Prediction On Freeways",
+          "link": "https://arxiv.org/abs/2606.27577",
+          "source": "arXiv cs.AI",
+          "published": "2026-06-29T04:00:00+00:00"
         }
       ]
     }
