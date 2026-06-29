@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T15:41:48.380794+00:00",
+  "generated_at": "2026-06-29T19:53:40.629325+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,46 @@
       "count": 40,
       "items": [
         {
+          "title": "Ford’s $30,000 EV pickup caught testing again",
+          "link": "https://electrek.co/2026/06/29/fords-30000-ev-pickup-caught-testing-again/",
+          "source": "Electrek",
+          "published": "2026-06-29T19:23:41+00:00"
+        },
+        {
+          "title": "New Tesla ‘Full Self-Driving’ class action hilariously cites Electrek",
+          "link": "https://electrek.co/2026/06/29/tesla-fsd-class-action-quotes-electrek/",
+          "source": "Electrek",
+          "published": "2026-06-29T19:08:59+00:00"
+        },
+        {
+          "title": "Lectric 4th of July e-bike Sale, EcoFlow extended Prime Day power station sale flash offers at up to 61% off, Greenworks batteries, more",
+          "link": "https://electrek.co/2026/06/29/lectric-4th-of-july-e-bike-sale-ecoflow-extended-prime-day-power-station-sale-greenworks-more/",
+          "source": "Electrek",
+          "published": "2026-06-29T18:00:00+00:00"
+        },
+        {
+          "title": "Kia reveals PV5 prices in Canada as a new affordable EV option",
+          "link": "https://electrek.co/2026/06/29/kia-reveals-pv5-prices-canada-another-affordable-ev/",
+          "source": "Electrek",
+          "published": "2026-06-29T17:39:35+00:00"
+        },
+        {
           "title": "[2026 부산모빌리티쇼] 램 1500 부산 최초 공개",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44021",
           "source": "모터그래프",
           "published": "2026-06-29T17:02:44+00:00"
+        },
+        {
+          "title": "DeSantis vetoes unanimous e-bike safety bill for the most Florida reason ever",
+          "link": "https://electrek.co/2026/06/29/desantis-vetoes-unanimous-e-bike-safety-bill-for-the-most-florida-reason-ever/",
+          "source": "Electrek",
+          "published": "2026-06-29T16:42:05+00:00"
+        },
+        {
+          "title": "BMW’s new iX5 leaks ahead of its debut with a unique look [Images]",
+          "link": "https://electrek.co/2026/06/29/bmw-ix5-leaks-with-unique-look-images/",
+          "source": "Electrek",
+          "published": "2026-06-29T16:07:45+00:00"
         },
         {
           "title": "Toyota points to high gas prices as sales in China plunge 30%, dragging down global results",
@@ -19,7 +55,7 @@
           "published": "2026-06-29T14:30:22+00:00"
         },
         {
-          "title": "New study shows how many millions would be saved by quicker EV adoption",
+          "title": "Millions of lives would be saved by quicker electric car adoption, study says",
           "link": "https://electrek.co/2026/06/29/new-study-shows-how-many-millions-would-be-saved-by-quicker-ev-adoption/",
           "source": "Electrek",
           "published": "2026-06-29T14:00:00+00:00"
@@ -209,42 +245,6 @@
           "link": "https://electrek.co/2026/06/25/range-rovers-ev-beat-gas-model-cost-150000/",
           "source": "Electrek",
           "published": "2026-06-25T19:15:06+00:00"
-        },
-        {
-          "title": "McMurtry teases its record-shattering electric ‘fan car’ ahead of production",
-          "link": "https://electrek.co/2026/06/25/mcmurtry-teases-production-version-of-its-bonkers-record-breaking-electric-fan-car/",
-          "source": "Electrek",
-          "published": "2026-06-25T18:59:27+00:00"
-        },
-        {
-          "title": "Prime Day-3 Deals: ECOVACS LiDAR Pro robot mowers back at lows, Jackery Prime Day power station sale + new releases, more",
-          "link": "https://electrek.co/2026/06/25/prime-day-3-ecovacs-lidar-pro-robot-mowers-jackery-prime-day-power-station-sale-more/",
-          "source": "Electrek",
-          "published": "2026-06-25T18:00:00+00:00"
-        },
-        {
-          "title": "Polestar barred from US over the Chinese connected vehicle rule, a dangerous precedent",
-          "link": "https://electrek.co/2026/06/25/polestar-us-connected-vehicle-rule-europe/",
-          "source": "Electrek",
-          "published": "2026-06-25T17:45:04+00:00"
-        },
-        {
-          "title": "Toyota is recalling over 20,000 EVs, including Lexus and Subaru models",
-          "link": "https://electrek.co/2026/06/25/toyota-recalls-over-20000-evs-lexus-subaru/",
-          "source": "Electrek",
-          "published": "2026-06-25T17:19:13+00:00"
-        },
-        {
-          "title": "Teslas Will Now Deploy Their Airbags Before Crashes Happen Thanks To Cameras",
-          "link": "https://insideevs.com/news/799705/tesla-camera-airbag-deploy-early/",
-          "source": "InsideEVs",
-          "published": "2026-06-25T17:19:02+00:00"
-        },
-        {
-          "title": "How Hankook Is Making EV Tires Better",
-          "link": "https://insideevs.com/news/799176/hankook-demo-days/",
-          "source": "InsideEVs",
-          "published": "2026-06-25T16:28:41+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 30,
       "items": [
+        {
+          "title": "Lectric 4th of July e-bike Sale, EcoFlow extended Prime Day power station sale flash offers at up to 61% off, Greenworks batteries, more",
+          "link": "https://electrek.co/2026/06/29/lectric-4th-of-july-e-bike-sale-ecoflow-extended-prime-day-power-station-sale-greenworks-more/",
+          "source": "Electrek",
+          "published": "2026-06-29T18:00:00+00:00"
+        },
         {
           "title": "There’s a new e-bike motor and fast charging battery company in town",
           "link": "https://electrek.co/2026/06/29/theres-a-new-e-bike-motor-and-fast-charging-battery-company-in-town/",
@@ -318,12 +324,6 @@
           "link": "https://cleantechnica.com/2026/06/25/litime-brings-off-grid-lifepo4-battery-solutions-for-reliable-low-maintenance-outdoor-security-monitoring/",
           "source": "CleanTechnica",
           "published": "2026-06-26T03:50:21+00:00"
-        },
-        {
-          "title": "Anker SOLIX S2000 Review — CleanTechnica Tested",
-          "link": "https://cleantechnica.com/2026/06/25/anker-solix-s2000-review-cleantechnica-tested/",
-          "source": "CleanTechnica",
-          "published": "2026-06-25T20:39:56+00:00"
         },
         {
           "title": "CATL chief: solid-state batteries at ‘level 4 of 9,’ no leap until 2030",
@@ -438,7 +438,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 11,
+      "count": 10,
       "items": [
         {
           "title": "[2026 부산모빌리티쇼] 램 1500 부산 최초 공개",
@@ -499,12 +499,6 @@
           "link": "https://electrek.co/2026/06/21/the-wait-is-over-royal-enfields-first-electric-motorcycle-begins-deliveries/",
           "source": "Electrek",
           "published": "2026-06-21T11:47:46+00:00"
-        },
-        {
-          "title": "Wheel-E Podcast: New Gazelle, Specialized e-bikes, Ukrainian e-motos, more",
-          "link": "https://electrek.co/2026/06/19/wheel-e-podcast-new-gazelle-specialized-e-bikes-ukrainian-e-motos-more/",
-          "source": "Electrek",
-          "published": "2026-06-19T12:43:15+00:00"
         }
       ]
     },
@@ -518,6 +512,24 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47165",
           "source": "로봇신문",
           "published": "2026-06-29T19:53:29+00:00"
+        },
+        {
+          "title": "BMW Group deploys Figure 03 humanoid after tests with previous version",
+          "link": "https://www.therobotreport.com/bmw-group-deploys-figure-03-humanoid-after-tests-previous-version/",
+          "source": "The Robot Report",
+          "published": "2026-06-29T17:45:53+00:00"
+        },
+        {
+          "title": "MBody AI expands service robotics operations to eleven states and Canada",
+          "link": "https://www.therobotreport.com/mbody-ai-expands-service-robotics-operations-eleven-states-canada/",
+          "source": "The Robot Report",
+          "published": "2026-06-29T15:41:42+00:00"
+        },
+        {
+          "title": "Advantages of hypoid gearing over worm, bevel and bevel-planetary",
+          "link": "https://www.therobotreport.com/advantages-of-hypoid-gearing-over-worm-bevel-and-bevel-planetary/",
+          "source": "The Robot Report",
+          "published": "2026-06-29T15:36:18+00:00"
         },
         {
           "title": "AGIBOT produces 15,000th robot, marking a milestone in embodied AI deployment",
@@ -596,24 +608,6 @@
           "link": "https://www.therobotreport.com/mantis-robotics-launches-dual-arm-fenceless-robot/",
           "source": "The Robot Report",
           "published": "2026-06-24T12:30:07+00:00"
-        },
-        {
-          "title": "Deep dive into Arm’s physical AI and robotics strategies with Drew Henry",
-          "link": "https://www.therobotreport.com/deep-dive-into-arms-physical-ai-and-robotics-strategies-with-drew-henry/",
-          "source": "The Robot Report",
-          "published": "2026-06-24T00:12:04+00:00"
-        },
-        {
-          "title": "ExRobotics launches UL-certified inspection robot for hazardous environments",
-          "link": "https://www.therobotreport.com/exrobotics-launches-ul-certified-inspection-robot-for-hazardous-environments/",
-          "source": "The Robot Report",
-          "published": "2026-06-23T23:00:45+00:00"
-        },
-        {
-          "title": "Vention collaborates with FANUC and Universal Robots on software-defined automation",
-          "link": "https://www.therobotreport.com/vention-collaborates-with-fanuc-universal-robots-software-defined-automation/",
-          "source": "The Robot Report",
-          "published": "2026-06-23T19:49:36+00:00"
         },
         {
           "title": "Video Friday: Do Robots Even Need Legs?",
