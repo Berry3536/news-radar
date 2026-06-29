@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-06-28T19:16:00.002825+00:00",
+  "generated_at": "2026-06-29T03:39:08.304217+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Controversial Ferrari Luce EV is an instant sellout in China",
+          "link": "https://electrek.co/2026/06/28/controversial-ferrari-luce-ev-is-an-instant-sellout-in-china/",
+          "source": "Electrek",
+          "published": "2026-06-28T19:27:52+00:00"
+        },
         {
           "title": "Zero emission truck deployments SURGED up 37% in 2025 as momentum builds",
           "link": "https://electrek.co/2026/06/28/zero-emission-truck-deployments-surged-up-37-in-2025-as-momentum-builds/",
@@ -239,20 +245,20 @@
           "link": "https://electrek.co/2026/06/25/byd-making-public-ev-charging-parking-easier/",
           "source": "Electrek",
           "published": "2026-06-25T14:21:47+00:00"
-        },
-        {
-          "title": "Tesla to hire 1,000 more Giga Berlin workers as Europe demand returns",
-          "link": "https://electrek.co/2026/06/25/tesla-giga-berlin-1000-hires-europe-demand/",
-          "source": "Electrek",
-          "published": "2026-06-25T14:04:52+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 29,
+      "count": 30,
       "items": [
+        {
+          "title": "Exploring How to Get More Solar & Batteries at Apartment Buildings",
+          "link": "https://cleantechnica.com/2026/06/28/exploring-how-to-get-more-solar-batteries-at-apartment-buildings/",
+          "source": "CleanTechnica",
+          "published": "2026-06-29T03:17:41+00:00"
+        },
         {
           "title": "Aptera Proved Its Solar Generation, Now It Needs To Prove Its Efficiency",
           "link": "https://cleantechnica.com/2026/06/27/aptera-proved-its-solar-generation-now-it-needs-to-prove-its-efficiency/",
@@ -641,10 +647,10 @@
       "count": 1,
       "items": [
         {
-          "title": "김준기 래블업 CTO “풀스택 AI 인프라로 GPU 한계 넘는다”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212203",
+          "title": "'램마겟돈'의 진짜 피해자는 중소기업과 소비자…\"예전 가격은 다시 없을 것\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212225",
           "source": "AI타임스",
-          "published": "2026-06-29T02:50:53+00:00"
+          "published": "2026-06-29T12:33:42+00:00"
         }
       ]
     }
