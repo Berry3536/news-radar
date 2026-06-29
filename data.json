@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T10:52:59.664472+00:00",
+  "generated_at": "2026-06-29T15:41:48.380794+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,36 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44021",
           "source": "모터그래프",
           "published": "2026-06-29T17:02:44+00:00"
+        },
+        {
+          "title": "Toyota points to high gas prices as sales in China plunge 30%, dragging down global results",
+          "link": "https://electrek.co/2026/06/29/toyota-high-gas-prices-sales-china-plunge-30/",
+          "source": "Electrek",
+          "published": "2026-06-29T14:30:22+00:00"
+        },
+        {
+          "title": "New study shows how many millions would be saved by quicker EV adoption",
+          "link": "https://electrek.co/2026/06/29/new-study-shows-how-many-millions-would-be-saved-by-quicker-ev-adoption/",
+          "source": "Electrek",
+          "published": "2026-06-29T14:00:00+00:00"
+        },
+        {
+          "title": "There’s a new e-bike motor and fast charging battery company in town",
+          "link": "https://electrek.co/2026/06/29/theres-a-new-e-bike-motor-and-fast-charging-battery-company-in-town/",
+          "source": "Electrek",
+          "published": "2026-06-29T13:48:22+00:00"
+        },
+        {
+          "title": "Tesla starts FSD v14 ‘Lite’ rollout to HW3 cars",
+          "link": "https://electrek.co/2026/06/29/tesla-fsd-v14-lite-hw3-rollout/",
+          "source": "Electrek",
+          "published": "2026-06-29T13:41:01+00:00"
+        },
+        {
+          "title": "Tesla batteries stolen from Giga Nevada 11+ times since December",
+          "link": "https://electrek.co/2026/06/29/tesla-batteries-stolen-giga-nevada/",
+          "source": "Electrek",
+          "published": "2026-06-29T13:03:56+00:00"
         },
         {
           "title": "Controversial Ferrari Luce EV is an instant sellout in China",
@@ -215,36 +245,6 @@
           "link": "https://insideevs.com/news/799176/hankook-demo-days/",
           "source": "InsideEVs",
           "published": "2026-06-25T16:28:41+00:00"
-        },
-        {
-          "title": "The Lexus ES EV barely beat its range estimate in the real world, but falls short of rivals",
-          "link": "https://electrek.co/2026/06/25/lexus-es-ev-beat-range-estimate-falls-short-of-rivals/",
-          "source": "Electrek",
-          "published": "2026-06-25T16:02:50+00:00"
-        },
-        {
-          "title": "Europe and North Africa are getting their first undersea power link",
-          "link": "https://electrek.co/2026/06/25/europe-and-north-africa-are-getting-their-first-undersea-power-link/",
-          "source": "Electrek",
-          "published": "2026-06-25T16:02:18+00:00"
-        },
-        {
-          "title": "CATL chief: solid-state batteries at ‘level 4 of 9,’ no leap until 2030",
-          "link": "https://electrek.co/2026/06/25/catl-solid-state-battery-level-4-2030/",
-          "source": "Electrek",
-          "published": "2026-06-25T15:27:07+00:00"
-        },
-        {
-          "title": "Avinox shows off wild new gearbox motor concept as it expands across the e-bike industry",
-          "link": "https://electrek.co/2026/06/25/avinox-shows-off-wild-new-gearbox-motor-concept-as-it-expands-across-the-e-bike-industry/",
-          "source": "Electrek",
-          "published": "2026-06-25T15:16:32+00:00"
-        },
-        {
-          "title": "BYD is making public EV charging and parking a whole lot easier",
-          "link": "https://electrek.co/2026/06/25/byd-making-public-ev-charging-parking-easier/",
-          "source": "Electrek",
-          "published": "2026-06-25T14:21:47+00:00"
         }
       ]
     },
@@ -253,6 +253,18 @@
       "label": "배터리",
       "count": 30,
       "items": [
+        {
+          "title": "There’s a new e-bike motor and fast charging battery company in town",
+          "link": "https://electrek.co/2026/06/29/theres-a-new-e-bike-motor-and-fast-charging-battery-company-in-town/",
+          "source": "Electrek",
+          "published": "2026-06-29T13:48:22+00:00"
+        },
+        {
+          "title": "Tesla batteries stolen from Giga Nevada 11+ times since December",
+          "link": "https://electrek.co/2026/06/29/tesla-batteries-stolen-giga-nevada/",
+          "source": "Electrek",
+          "published": "2026-06-29T13:03:56+00:00"
+        },
         {
           "title": "Exploring How to Get More Solar & Batteries at Apartment Buildings",
           "link": "https://cleantechnica.com/2026/06/28/exploring-how-to-get-more-solar-batteries-at-apartment-buildings/",
@@ -324,12 +336,6 @@
           "link": "https://electrek.co/2026/06/25/amble-unveils-street-legal-electric-buggy-but-its-not-a-car/",
           "source": "Electrek",
           "published": "2026-06-25T13:00:00+00:00"
-        },
-        {
-          "title": "Charging Solutions for Heavy-Duty Electric Trucks",
-          "link": "https://cleantechnica.com/2026/06/24/charging-solutions-for-heavy-duty-electric-trucks/",
-          "source": "CleanTechnica",
-          "published": "2026-06-25T03:59:56+00:00"
         },
         {
           "title": "Which portable power station is right for you? Bluetti’s battery guide breaks it down",
@@ -426,25 +432,25 @@
           "link": "https://electrek.co/2026/06/19/telo-confirms-400-kw-sustained-charging-tiny-electric-truck/",
           "source": "Electrek",
           "published": "2026-06-19T15:50:01+00:00"
-        },
-        {
-          "title": "Honda and QuantumScape (QS) team up to make ‘game-changing’ solid-state batteries",
-          "link": "https://electrek.co/2026/06/18/honda-quantumscape-qs-team-up-solid-state-batteries/",
-          "source": "Electrek",
-          "published": "2026-06-18T18:10:44+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 12,
+      "count": 11,
       "items": [
         {
           "title": "[2026 부산모빌리티쇼] 램 1500 부산 최초 공개",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44021",
           "source": "모터그래프",
           "published": "2026-06-29T17:02:44+00:00"
+        },
+        {
+          "title": "There’s a new e-bike motor and fast charging battery company in town",
+          "link": "https://electrek.co/2026/06/29/theres-a-new-e-bike-motor-and-fast-charging-battery-company-in-town/",
+          "source": "Electrek",
+          "published": "2026-06-29T13:48:22+00:00"
         },
         {
           "title": "Popular electric dirt bike Stark Varg lets owners download a new trick",
@@ -499,18 +505,6 @@
           "link": "https://electrek.co/2026/06/19/wheel-e-podcast-new-gazelle-specialized-e-bikes-ukrainian-e-motos-more/",
           "source": "Electrek",
           "published": "2026-06-19T12:43:15+00:00"
-        },
-        {
-          "title": "Heybike sale up to $1,000 e-bike savings from $999, Anker SOLIX 24-hour flash sale on 508Wh to 7,680Wh power stations, Hiboy, more",
-          "link": "https://electrek.co/2026/06/18/heybike-e-bike-savings-from-999-anker-solix-508wh-to-7680wh-power-stations-hiboy-more/",
-          "source": "Electrek",
-          "published": "2026-06-18T18:00:00+00:00"
-        },
-        {
-          "title": "Sweden tells EU to reject Tesla ‘FSD’ unless speeding is removed",
-          "link": "https://electrek.co/2026/06/18/sweden-tesla-fsd-speeding-eu-vote/",
-          "source": "Electrek",
-          "published": "2026-06-18T16:50:50+00:00"
         }
       ]
     },
@@ -520,10 +514,10 @@
       "count": 20,
       "items": [
         {
-          "title": "라이노스, 키논로보틱스와 파트너십 체결…대형 청소로봇 C55 국내 출시",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47164",
+          "title": "AI 자율주행로봇의 항공기 정밀검사 허용된다",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47165",
           "source": "로봇신문",
-          "published": "2026-06-29T18:31:49+00:00"
+          "published": "2026-06-29T19:53:29+00:00"
         },
         {
           "title": "AGIBOT produces 15,000th robot, marking a milestone in embodied AI deployment",
