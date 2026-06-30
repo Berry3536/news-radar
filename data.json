@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-06-29T19:53:40.629325+00:00",
+  "generated_at": "2026-06-30T03:26:29.498136+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "How a gas plant helped fast-track 270 MW of new solar",
+          "link": "https://electrek.co/2026/06/29/how-a-gas-plant-helped-fast-track-270-mw-of-new-solar/",
+          "source": "Electrek",
+          "published": "2026-06-29T22:51:13+00:00"
+        },
+        {
+          "title": "Drivers Are Not Happy With Their Cars' Screens",
+          "link": "https://insideevs.com/news/800105/drivers-infotainment-screen-connectivity-issues/",
+          "source": "InsideEVs",
+          "published": "2026-06-29T21:16:53+00:00"
+        },
+        {
+          "title": "Toyota blames high gas prices as global sales fall again, while EV sales jump 170%",
+          "link": "https://electrek.co/2026/06/29/toyota-blames-gas-prices-global-sales-fall-ev-sales-jump-170/",
+          "source": "Electrek",
+          "published": "2026-06-29T20:45:18+00:00"
+        },
+        {
+          "title": "The US’s largest transformer factory is coming for the AI power boom",
+          "link": "https://electrek.co/2026/06/29/us-largest-transformer-factory-is-coming-for-the-ai-power-boom/",
+          "source": "Electrek",
+          "published": "2026-06-29T20:35:14+00:00"
+        },
         {
           "title": "Ford’s $30,000 EV pickup caught testing again",
           "link": "https://electrek.co/2026/06/29/fords-30000-ev-pickup-caught-testing-again/",
@@ -47,12 +71,6 @@
           "link": "https://electrek.co/2026/06/29/bmw-ix5-leaks-with-unique-look-images/",
           "source": "Electrek",
           "published": "2026-06-29T16:07:45+00:00"
-        },
-        {
-          "title": "Toyota points to high gas prices as sales in China plunge 30%, dragging down global results",
-          "link": "https://electrek.co/2026/06/29/toyota-high-gas-prices-sales-china-plunge-30/",
-          "source": "Electrek",
-          "published": "2026-06-29T14:30:22+00:00"
         },
         {
           "title": "Millions of lives would be saved by quicker electric car adoption, study says",
@@ -227,31 +245,13 @@
           "link": "https://electrek.co/2026/06/26/tesla-semi-stability-control-ice-video/",
           "source": "Electrek",
           "published": "2026-06-26T13:32:42+00:00"
-        },
-        {
-          "title": "VW could cut 100,000 jobs and close 4 factories in a radical shake-up",
-          "link": "https://electrek.co/2026/06/26/vw-could-cut-100000-jobs-and-close-4-factories-in-a-radical-shake-up/",
-          "source": "Electrek",
-          "published": "2026-06-26T12:46:07+00:00"
-        },
-        {
-          "title": "Subaru’s new top-selling EV delivers over 300 miles of range for just $35,000",
-          "link": "https://electrek.co/2026/06/25/subarus-new-top-selling-ev-300-miles-range-for-35k/",
-          "source": "Electrek",
-          "published": "2026-06-25T21:01:22+00:00"
-        },
-        {
-          "title": "Range Rover’s first EV will beat its gas counterpart, but it may cost over $150,000",
-          "link": "https://electrek.co/2026/06/25/range-rovers-ev-beat-gas-model-cost-150000/",
-          "source": "Electrek",
-          "published": "2026-06-25T19:15:06+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 30,
+      "count": 28,
       "items": [
         {
           "title": "Lectric 4th of July e-bike Sale, EcoFlow extended Prime Day power station sale flash offers at up to 61% off, Greenworks batteries, more",
@@ -318,12 +318,6 @@
           "link": "https://cleantechnica.com/2026/06/25/sunrun-renew-home-tesla-team-up-to-deliver-more-than-16-gigawatts-of-fast-flexible-power-for-data-centers-and-large-loads/",
           "source": "CleanTechnica",
           "published": "2026-06-26T03:59:19+00:00"
-        },
-        {
-          "title": "LiTime Brings Off-Grid LiFePO4 Battery Solutions for Reliable, Low-Maintenance Outdoor Security Monitoring",
-          "link": "https://cleantechnica.com/2026/06/25/litime-brings-off-grid-lifepo4-battery-solutions-for-reliable-low-maintenance-outdoor-security-monitoring/",
-          "source": "CleanTechnica",
-          "published": "2026-06-26T03:50:21+00:00"
         },
         {
           "title": "CATL chief: solid-state batteries at ‘level 4 of 9,’ no leap until 2030",
@@ -426,12 +420,6 @@
           "link": "https://electrek.co/2026/06/19/400-hp-mercedes-benz-vle-300-combines-limo-luxury-with-lots-of-legroom/",
           "source": "Electrek",
           "published": "2026-06-19T18:12:49+00:00"
-        },
-        {
-          "title": "Telo confirms 400 kW sustained charging for its tiny electric truck",
-          "link": "https://electrek.co/2026/06/19/telo-confirms-400-kw-sustained-charging-tiny-electric-truck/",
-          "source": "Electrek",
-          "published": "2026-06-19T15:50:01+00:00"
         }
       ]
     },
@@ -507,6 +495,12 @@
       "label": "로봇",
       "count": 20,
       "items": [
+        {
+          "title": "Insights behind Kinisi’s acquisition by Bear Robotics",
+          "link": "https://www.therobotreport.com/insights-behind-kinisi-acquisition-by-bear-robotics/",
+          "source": "The Robot Report",
+          "published": "2026-06-29T22:29:11+00:00"
+        },
         {
           "title": "AI 자율주행로봇의 항공기 정밀검사 허용된다",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47165",
@@ -604,12 +598,6 @@
           "published": "2026-06-24T13:26:36+00:00"
         },
         {
-          "title": "Mantis Robotics launches dual-arm, fenceless robot",
-          "link": "https://www.therobotreport.com/mantis-robotics-launches-dual-arm-fenceless-robot/",
-          "source": "The Robot Report",
-          "published": "2026-06-24T12:30:07+00:00"
-        },
-        {
           "title": "Video Friday: Do Robots Even Need Legs?",
           "link": "https://spectrum.ieee.org/video-friday-agentic-ai-robot",
           "source": "IEEE Spectrum",
@@ -635,10 +623,10 @@
       "count": 40,
       "items": [
         {
-          "title": "정부, 서남권 메모리 팹에 800조 쏟는다...'메가 프로젝트' 전격 가동",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212241",
+          "title": "리벨리온, 'AI 최적화' 스퀴즈비츠 인수...\"풀스택 AI 인프라 완성\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212260",
           "source": "AI타임스",
-          "published": "2026-06-29T16:49:45+00:00"
+          "published": "2026-06-30T11:24:03+00:00"
         },
         {
           "title": "AI-Model Network: Concept, Current State and Future",
