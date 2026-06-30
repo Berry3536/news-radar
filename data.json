@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T14:13:38.260201+00:00",
+  "generated_at": "2026-06-30T19:52:06.896753+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,100 @@
       "count": 40,
       "items": [
         {
+          "title": "Someone Keeps Stealing Entire Truckloads Of Tesla Batteries",
+          "link": "https://insideevs.com/news/800187/tesla-gigafactory-batteries-stolen-trucks/",
+          "source": "InsideEVs",
+          "published": "2026-06-30T19:37:01+00:00"
+        },
+        {
+          "title": "Tesla Starts Testing Steering-Wheel-Free Cybercab On Austin Streets. Can It Match Waymo?",
+          "link": "https://insideevs.com/news/800217/tesla-cybercab-test/",
+          "source": "InsideEVs",
+          "published": "2026-06-30T18:53:22+00:00"
+        },
+        {
+          "title": "Solar gets railed: clever Swiss pilot proves PV panels and trains can coexist",
+          "link": "https://electrek.co/2026/06/30/solar-gets-railed-clever-swiss-pilot-proves-pv-panels-and-trains-can-coexist/",
+          "source": "Electrek",
+          "published": "2026-06-30T18:46:21+00:00"
+        },
+        {
+          "title": "Tesla poaches 17-year Intel veteran to lead its ‘Terafab’ chip plant",
+          "link": "https://electrek.co/2026/06/30/tesla-intel-veteran-terafab-director/",
+          "source": "Electrek",
+          "published": "2026-06-30T18:31:24+00:00"
+        },
+        {
+          "title": "California's New EV Incentive Is Almost Here—With Special Benefits For Rivian And Lucid",
+          "link": "https://insideevs.com/news/800208/california-ev-credit-rivian-lucid/",
+          "source": "InsideEVs",
+          "published": "2026-06-30T18:27:59+00:00"
+        },
+        {
+          "title": "Electrify America is adding NACS chargers to more of its busiest stations",
+          "link": "https://electrek.co/2026/06/30/electrify-america-nacs-chargers/",
+          "source": "Electrek",
+          "published": "2026-06-30T18:13:22+00:00"
+        },
+        {
+          "title": "BYD’s flagship electric SUV is so smooth that it won an anti-motion-sickness certification",
+          "link": "https://electrek.co/2026/06/30/byds-flagship-electric-suv-wins-anti-motion-sickness-certification/",
+          "source": "Electrek",
+          "published": "2026-06-30T18:02:06+00:00"
+        },
+        {
+          "title": "Tenways Wayfarer cruiser e-bike bundle at new $1,649 low ($827 off), Jackery July 4th power station sale, Aiper, Greenworks, more",
+          "link": "https://electrek.co/2026/06/30/tenways-wayfarer-cruiser-e-bike-jackery-july-4th-power-station-sale-aiper-greenworks-more/",
+          "source": "Electrek",
+          "published": "2026-06-30T18:00:00+00:00"
+        },
+        {
           "title": "현대자동차의 미래 서비스 철학이 담긴 '수원하이테크센터' 오픈",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44028",
           "source": "모터그래프",
           "published": "2026-06-30T17:04:32+00:00"
+        },
+        {
+          "title": "The BMW iX5 sets the benchmark with 525 miles of range, fast charging [Images]",
+          "link": "https://electrek.co/2026/06/30/bmw-ix5-sets-benchmark-with-525-miles-range-images/",
+          "source": "Electrek",
+          "published": "2026-06-30T16:50:54+00:00"
+        },
+        {
+          "title": "You can now check when you’ll be able to order your Rivian R2",
+          "link": "https://electrek.co/2026/06/30/you-can-now-check-when-youll-be-able-to-order-your-rivian-r2/",
+          "source": "Electrek",
+          "published": "2026-06-30T16:33:16+00:00"
+        },
+        {
+          "title": "Another day, another illegal billion-dollar bribe to raise your electricity prices",
+          "link": "https://electrek.co/2026/06/30/another-day-another-illegal-billion-dollar-bribe-to-raise-your-electricity-prices/",
+          "source": "Electrek",
+          "published": "2026-06-30T15:50:00+00:00"
+        },
+        {
+          "title": "BMW iX5 Blows Away The Competition With 460-kW Charging, 435-Mile Range",
+          "link": "https://insideevs.com/news/800125/bmw-ix5-neue-klasse-ev-electric-suv/",
+          "source": "InsideEVs",
+          "published": "2026-06-30T15:01:00+00:00"
+        },
+        {
+          "title": "Tesla begins ‘engineering tests’ of first production Cybercab in Austin",
+          "link": "https://electrek.co/2026/06/30/tesla-cybercab-engineering-tests-austin/",
+          "source": "Electrek",
+          "published": "2026-06-30T14:56:45+00:00"
+        },
+        {
+          "title": "Jeep scraps two EVs in Europe, but three new SUVs are on the way",
+          "link": "https://electrek.co/2026/06/30/jeep-scraps-two-evs-europe-three-new-suvs/",
+          "source": "Electrek",
+          "published": "2026-06-30T14:27:08+00:00"
+        },
+        {
+          "title": "Beachman unveils new Aviator electric bike lineup, with upcoming 125cc-equivalent model",
+          "link": "https://electrek.co/2026/06/30/beachman-unveils-new-aviator-electric-bike-lineup-with-upcoming-125cc-equivalent-model/",
+          "source": "Electrek",
+          "published": "2026-06-30T14:15:26+00:00"
         },
         {
           "title": "An App Flagged This Tesla Battery As Degraded. The Car Said It Was Worse",
@@ -155,104 +245,26 @@
           "link": "https://insideevs.com/features/799969/slate-ev-first-ride-impressions/",
           "source": "InsideEVs",
           "published": "2026-06-27T12:00:00+00:00"
-        },
-        {
-          "title": "Tesla (TSLA) Q2 2026 delivery consensus: 406,000 vehicles expected",
-          "link": "https://electrek.co/2026/06/26/tesla-q2-2026-delivery-consensus-406000/",
-          "source": "Electrek",
-          "published": "2026-06-26T21:44:01+00:00"
-        },
-        {
-          "title": "The Jeep Recon EV goes on sale for $67,000 with a limited range",
-          "link": "https://electrek.co/2026/06/26/jeep-recon-ev-on-sale-67000-with-limited-range/",
-          "source": "Electrek",
-          "published": "2026-06-26T21:20:30+00:00"
-        },
-        {
-          "title": "BYD’s pickup spotted in China with a different look",
-          "link": "https://electrek.co/2026/06/26/byds-pickup-spotted-china-different-look/",
-          "source": "Electrek",
-          "published": "2026-06-26T20:06:14+00:00"
-        },
-        {
-          "title": "Podcast: Slate’s $25,000 electric pickup, Polestar banned from US, Tesla FSD crash, and more",
-          "link": "https://electrek.co/2026/06/26/podcast-slates-25000-electric-pickup-polestar-banned-from-us-tesla-fsd-crash-and-more/",
-          "source": "Electrek",
-          "published": "2026-06-26T19:29:42+00:00"
-        },
-        {
-          "title": "Slate’s electric truck can still dip under $20,000 — but only for some",
-          "link": "https://electrek.co/2026/06/26/slate-truck-under-20000-state-incentives/",
-          "source": "Electrek",
-          "published": "2026-06-26T18:16:34+00:00"
-        },
-        {
-          "title": "Final Prime Day Deals: Segway GT3 Pro superscooter first discount, EcoFlow 3,600Wh power station at $1,399 2026 low, more",
-          "link": "https://electrek.co/2026/06/26/final-prime-day-segway-gt3-pro-superscooter-ecoflow-3600wh-power-station-more/",
-          "source": "Electrek",
-          "published": "2026-06-26T18:00:00+00:00"
-        },
-        {
-          "title": "GM’s new EV platform is expected to debut in the next-gen Chevy Equinox",
-          "link": "https://electrek.co/2026/06/26/gm-plans-new-ev-platform-debut-next-gen-chevy-equinox/",
-          "source": "Electrek",
-          "published": "2026-06-26T17:52:12+00:00"
-        },
-        {
-          "title": "This Canadian team has raced solar cars since 1992, and they’re bringing their best yet to the 2026 Electrek American Solar Challenge",
-          "link": "https://electrek.co/2026/06/26/this-canadian-team-has-raced-solar-cars-since-1992-and-theyre-bringing-their-best-yet-to-the-2026-electrek-american-solar-challenge/",
-          "source": "Electrek",
-          "published": "2026-06-26T17:27:23+00:00"
-        },
-        {
-          "title": "Slate's Cheap EV Pickup Is Surprisingly Easy To Make Expensive",
-          "link": "https://insideevs.com/news/799725/slate-ev-hundreds-of-accessories/",
-          "source": "InsideEVs",
-          "published": "2026-06-26T17:17:13+00:00"
-        },
-        {
-          "title": "Shell Built A Tiny EV With Hyper-Fast Charging And A New Cooling System",
-          "link": "https://insideevs.com/news/799823/shell-ev-battery-coolant-direct/",
-          "source": "InsideEVs",
-          "published": "2026-06-26T16:30:26+00:00"
-        },
-        {
-          "title": "PODCAST: The $25K Slate Truck Is Here. What's Next?",
-          "link": "https://insideevs.com/features/799942/slate-truck-pricing-explained-podcast/",
-          "source": "InsideEVs",
-          "published": "2026-06-26T16:04:56+00:00"
-        },
-        {
-          "title": "Hyundai’s small electric SUV just got a little more upscale",
-          "link": "https://electrek.co/2026/06/26/hyundais-small-electric-suv-more-upscale/",
-          "source": "Electrek",
-          "published": "2026-06-26T15:46:57+00:00"
-        },
-        {
-          "title": "EIA: Renewables just hit 30% of US electricity generation",
-          "link": "https://electrek.co/2026/06/26/eia-renewables-30-percent-us-electricity-generation/",
-          "source": "Electrek",
-          "published": "2026-06-26T15:36:24+00:00"
-        },
-        {
-          "title": "Prime Day 2026 Green Deals: EVs, power stations, tools, smart devices, and much more",
-          "link": "https://electrek.co/2026/06/26/prime-day-2026-green-deals-evs-power-stations-tools-smart-devices-and-much-more/",
-          "source": "Electrek",
-          "published": "2026-06-26T15:26:07+00:00"
-        },
-        {
-          "title": "Tesla settles lawsuit over fatal ‘Full Self-Driving’ pedestrian crash",
-          "link": "https://electrek.co/2026/06/26/tesla-fsd-pedestrian-death-settlement/",
-          "source": "Electrek",
-          "published": "2026-06-26T13:58:56+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 30,
+      "count": 26,
       "items": [
+        {
+          "title": "Someone Keeps Stealing Entire Truckloads Of Tesla Batteries",
+          "link": "https://insideevs.com/news/800187/tesla-gigafactory-batteries-stolen-trucks/",
+          "source": "InsideEVs",
+          "published": "2026-06-30T19:37:01+00:00"
+        },
+        {
+          "title": "BMW iX5 Blows Away The Competition With 460-kW Charging, 435-Mile Range",
+          "link": "https://insideevs.com/news/800125/bmw-ix5-neue-klasse-ev-electric-suv/",
+          "source": "InsideEVs",
+          "published": "2026-06-30T15:01:00+00:00"
+        },
         {
           "title": "An App Flagged This Tesla Battery As Degraded. The Car Said It Was Worse",
           "link": "https://insideevs.com/news/800168/tesla-demo-car-battery-test/",
@@ -326,18 +338,6 @@
           "published": "2026-06-26T23:14:03+00:00"
         },
         {
-          "title": "Sleek, Futuristic “Atlas” Car Recharges Self With Built-In Solar Cells",
-          "link": "https://cleantechnica.com/2026/06/26/solar-ev-aptera-us-startup-range-miles-autocycle/",
-          "source": "CleanTechnica",
-          "published": "2026-06-26T14:49:54+00:00"
-        },
-        {
-          "title": "Sunrun, Renew Home, & Tesla Team Up to Deliver More Than 16 Gigawatts of Fast, Flexible Power for Data Centers and Large Loads",
-          "link": "https://cleantechnica.com/2026/06/25/sunrun-renew-home-tesla-team-up-to-deliver-more-than-16-gigawatts-of-fast-flexible-power-for-data-centers-and-large-loads/",
-          "source": "CleanTechnica",
-          "published": "2026-06-26T03:59:19+00:00"
-        },
-        {
           "title": "CATL chief: solid-state batteries at ‘level 4 of 9,’ no leap until 2030",
           "link": "https://electrek.co/2026/06/25/catl-solid-state-battery-level-4-2030/",
           "source": "Electrek",
@@ -366,12 +366,6 @@
           "link": "https://electrek.co/2026/06/24/toyota-scraps-new-lexus-ev-successor-gets-green-light/",
           "source": "Electrek",
           "published": "2026-06-24T14:36:30+00:00"
-        },
-        {
-          "title": "Why The Slate Truck Will Use LFP Batteries After All",
-          "link": "https://insideevs.com/news/799667/slate-truck-lfp-battery-range/",
-          "source": "InsideEVs",
-          "published": "2026-06-24T12:01:00+00:00"
         },
         {
           "title": "Utah’s largest solar + battery storage project is officially online",
@@ -414,24 +408,6 @@
           "link": "https://electrek.co/2026/06/22/europe-is-betting-big-on-a-battery-that-runs-for-four-days/",
           "source": "Electrek",
           "published": "2026-06-22T07:01:00+00:00"
-        },
-        {
-          "title": "This zinc mine needed a truck no one made, so they made it themselves",
-          "link": "https://electrek.co/2026/06/21/this-zinc-mine-needed-a-truck-no-one-made-so-they-made-their-own/",
-          "source": "Electrek",
-          "published": "2026-06-21T21:57:22+00:00"
-        },
-        {
-          "title": "From labs to logistics: China tests sodium batteries in HD trucks",
-          "link": "https://electrek.co/2026/06/21/from-labs-to-logistics-china-tests-sodium-batteries-in-hd-trucks/",
-          "source": "Electrek",
-          "published": "2026-06-21T13:27:38+00:00"
-        },
-        {
-          "title": "400 hp Mercedes-Benz VLE 300 combines limo luxury with lots of legroom",
-          "link": "https://electrek.co/2026/06/19/400-hp-mercedes-benz-vle-300-combines-limo-luxury-with-lots-of-legroom/",
-          "source": "Electrek",
-          "published": "2026-06-19T18:12:49+00:00"
         }
       ]
     },
@@ -445,6 +421,12 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44029",
           "source": "모터그래프",
           "published": "2026-06-30T17:02:23+00:00"
+        },
+        {
+          "title": "Beachman unveils new Aviator electric bike lineup, with upcoming 125cc-equivalent model",
+          "link": "https://electrek.co/2026/06/30/beachman-unveils-new-aviator-electric-bike-lineup-with-upcoming-125cc-equivalent-model/",
+          "source": "Electrek",
+          "published": "2026-06-30T14:15:26+00:00"
         },
         {
           "title": "There’s a new e-bike motor and fast charging battery company in town",
@@ -493,12 +475,6 @@
           "link": "https://electrek.co/2026/06/22/lucid-lays-off-18-percent-second-cut-four-months/",
           "source": "Electrek",
           "published": "2026-06-22T14:48:36+00:00"
-        },
-        {
-          "title": "The wait is over: Royal Enfield’s first electric motorcycle begins deliveries",
-          "link": "https://electrek.co/2026/06/21/the-wait-is-over-royal-enfields-first-electric-motorcycle-begins-deliveries/",
-          "source": "Electrek",
-          "published": "2026-06-21T11:47:46+00:00"
         }
       ]
     },
@@ -508,10 +484,10 @@
       "count": 20,
       "items": [
         {
-          "title": "레인보우로보틱스 ‘세종 시대’ 개막…“글로벌 도약의 꿈 키운다”",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47181",
+          "title": "유비테크, 바이오닉 휴머노이드 로봇 'U1' 시리즈 공개",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47182",
           "source": "로봇신문",
-          "published": "2026-06-30T19:44:39+00:00"
+          "published": "2026-07-01T01:23:12+00:00"
         },
         {
           "title": "Queue raises funding to build fully autonomous pharmacy",
