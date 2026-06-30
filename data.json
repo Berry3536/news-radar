@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T09:30:02.724747+00:00",
+  "generated_at": "2026-06-30T14:13:38.260201+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,12 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44028",
           "source": "모터그래프",
           "published": "2026-06-30T17:04:32+00:00"
+        },
+        {
+          "title": "An App Flagged This Tesla Battery As Degraded. The Car Said It Was Worse",
+          "link": "https://insideevs.com/news/800168/tesla-demo-car-battery-test/",
+          "source": "InsideEVs",
+          "published": "2026-06-30T12:20:51+00:00"
         },
         {
           "title": "New CPSC rule could dramatically change e-bikes in the US",
@@ -239,12 +245,6 @@
           "link": "https://electrek.co/2026/06/26/tesla-fsd-pedestrian-death-settlement/",
           "source": "Electrek",
           "published": "2026-06-26T13:58:56+00:00"
-        },
-        {
-          "title": "Kia reveals three new PV5 electric vans, including a 7-seater [Images]",
-          "link": "https://electrek.co/2026/06/26/kia-reveals-three-new-pv5-electric-vans-images/",
-          "source": "Electrek",
-          "published": "2026-06-26T13:38:41+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 30,
       "items": [
+        {
+          "title": "An App Flagged This Tesla Battery As Degraded. The Car Said It Was Worse",
+          "link": "https://insideevs.com/news/800168/tesla-demo-car-battery-test/",
+          "source": "InsideEVs",
+          "published": "2026-06-30T12:20:51+00:00"
+        },
         {
           "title": "New CPSC rule could dramatically change e-bikes in the US",
           "link": "https://electrek.co/2026/06/29/new-cpsc-rule-could-dramatically-change-e-bikes-in-the-us/",
@@ -386,12 +392,6 @@
           "published": "2026-06-23T14:00:31+00:00"
         },
         {
-          "title": "This Ex-Rental Tesla's Battery Was Heavily Degraded. Then The Decline Slowed",
-          "link": "https://insideevs.com/news/799560/ex-rental-tesla-batter-degraded/",
-          "source": "InsideEVs",
-          "published": "2026-06-23T11:55:13+00:00"
-        },
-        {
           "title": "New solid-state battery electrolyte retains over 84% of its capacity after 350 cycles",
           "link": "https://electrek.co/2026/06/22/solid-state-battery-electrolyte-retains-84-capacity-after-350-cycles/",
           "source": "Electrek",
@@ -508,10 +508,28 @@
       "count": 20,
       "items": [
         {
-          "title": "오늘의 로봇 기업 주식 시세(2026-06-30)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47178",
+          "title": "레인보우로보틱스 ‘세종 시대’ 개막…“글로벌 도약의 꿈 키운다”",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47181",
           "source": "로봇신문",
-          "published": "2026-06-30T15:39:57+00:00"
+          "published": "2026-06-30T19:44:39+00:00"
+        },
+        {
+          "title": "Queue raises funding to build fully autonomous pharmacy",
+          "link": "https://www.therobotreport.com/queue-raises-funding-fully-autonomous-pharmacy/",
+          "source": "The Robot Report",
+          "published": "2026-06-30T13:00:33+00:00"
+        },
+        {
+          "title": "Soft, robotic cells from morph embed physical AI into hardware",
+          "link": "https://www.therobotreport.com/soft-robotic-cells-from-morph-embed-physical-ai-into-hardware/",
+          "source": "The Robot Report",
+          "published": "2026-06-30T12:30:35+00:00"
+        },
+        {
+          "title": "Sonair ADAR One 3D ultrasonic sensor is now safety-certified",
+          "link": "https://www.therobotreport.com/sonair-3d-ultrasonic-sensor-is-now-safety-certified/",
+          "source": "The Robot Report",
+          "published": "2026-06-30T09:55:46+00:00"
         },
         {
           "title": "Insights behind Kinisi’s acquisition by Bear Robotics",
@@ -590,24 +608,6 @@
           "link": "https://www.therobotreport.com/arm-institute-launches-physical-ai-focused-expansion-roboticscareer-org/",
           "source": "The Robot Report",
           "published": "2026-06-25T12:30:20+00:00"
-        },
-        {
-          "title": "Reservoir acquires Contain to scale agtech startups",
-          "link": "https://www.therobotreport.com/reservoir-acquires-contain-to-scale-agtech-startups/",
-          "source": "The Robot Report",
-          "published": "2026-06-24T19:07:40+00:00"
-        },
-        {
-          "title": "FAULHABER focuses on torque, noise, and power with new GPT gearheads",
-          "link": "https://www.therobotreport.com/faulhaber-focuses-torque-noise-power-new-gpt-gearheads/",
-          "source": "The Robot Report",
-          "published": "2026-06-24T18:12:38+00:00"
-        },
-        {
-          "title": "Humanoid maker Agility Robotics to go public through SPAC merger",
-          "link": "https://www.therobotreport.com/humanoid-maker-agility-robotics-go-public-through-spac-merger/",
-          "source": "The Robot Report",
-          "published": "2026-06-24T13:26:36+00:00"
         },
         {
           "title": "Video Friday: Do Robots Even Need Legs?",
