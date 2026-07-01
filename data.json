@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T09:41:11.290195+00:00",
+  "generated_at": "2026-07-01T14:29:43.965787+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,30 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44038",
           "source": "모터그래프",
           "published": "2026-07-01T18:04:21+00:00"
+        },
+        {
+          "title": "Kia’s midsize electric SUV gains AWD and a special new ‘Storm’ edition",
+          "link": "https://electrek.co/2026/07/01/kias-midsize-ev-suv-gains-awd-special-storm-edition/",
+          "source": "Electrek",
+          "published": "2026-07-01T14:16:18+00:00"
+        },
+        {
+          "title": "Cybertruck failure kills home charging, and Tesla is avoiding a recall",
+          "link": "https://electrek.co/2026/07/01/tesla-cybertruck-pcs-failures-no-recall/",
+          "source": "Electrek",
+          "published": "2026-07-01T13:51:26+00:00"
+        },
+        {
+          "title": "BYD set to crush Tesla again in Q2 EV sales with 557,000 deliveries",
+          "link": "https://electrek.co/2026/07/01/byd-tesla-q2-2026-bev-sales/",
+          "source": "Electrek",
+          "published": "2026-07-01T13:18:14+00:00"
+        },
+        {
+          "title": "Charge your EV at home and get paid up to CA$350 a year in Canada",
+          "link": "https://electrek.co/2026/07/01/charge-your-ev-at-home-and-get-paid-up-to-ca350-a-year-in-canada-chargelab/",
+          "source": "Electrek",
+          "published": "2026-07-01T12:00:00+00:00"
         },
         {
           "title": "Rivian R2 spotted with LiDAR near HQ, looks better than most LiDARs",
@@ -221,30 +245,6 @@
           "link": "https://electrek.co/2026/06/29/theres-a-new-e-bike-motor-and-fast-charging-battery-company-in-town/",
           "source": "Electrek",
           "published": "2026-06-29T13:48:22+00:00"
-        },
-        {
-          "title": "Tesla starts FSD v14 ‘Lite’ rollout to HW3 cars",
-          "link": "https://electrek.co/2026/06/29/tesla-fsd-v14-lite-hw3-rollout/",
-          "source": "Electrek",
-          "published": "2026-06-29T13:41:01+00:00"
-        },
-        {
-          "title": "Tesla batteries stolen from Giga Nevada 11+ times since December",
-          "link": "https://electrek.co/2026/06/29/tesla-batteries-stolen-giga-nevada/",
-          "source": "Electrek",
-          "published": "2026-06-29T13:03:56+00:00"
-        },
-        {
-          "title": "Zero emission truck deployments SURGED up 37% in 2025 as momentum builds",
-          "link": "https://electrek.co/2026/06/28/zero-emission-truck-deployments-surged-up-37-in-2025-as-momentum-builds/",
-          "source": "Electrek",
-          "published": "2026-06-28T17:55:12+00:00"
-        },
-        {
-          "title": "Survey Sunday: with nearly a trillion dollars, will Elon try to make things right?",
-          "link": "https://electrek.co/2026/06/28/survey-sunday-with-nearly-a-trillion-dollars-will-elon-try-to-make-things-right/",
-          "source": "Electrek",
-          "published": "2026-06-28T16:13:23+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 22,
       "items": [
+        {
+          "title": "BYD set to crush Tesla again in Q2 EV sales with 557,000 deliveries",
+          "link": "https://electrek.co/2026/07/01/byd-tesla-q2-2026-bev-sales/",
+          "source": "Electrek",
+          "published": "2026-07-01T13:18:14+00:00"
+        },
         {
           "title": "Someone Keeps Stealing Entire Truckloads Of Tesla Batteries",
           "link": "https://insideevs.com/news/800187/tesla-gigafactory-batteries-stolen-trucks/",
@@ -378,19 +384,13 @@
           "link": "https://electrek.co/2026/06/22/solid-state-battery-electrolyte-retains-84-capacity-after-350-cycles/",
           "source": "Electrek",
           "published": "2026-06-22T17:18:16+00:00"
-        },
-        {
-          "title": "Octopus and CATL unveil a giant EV truck battery-swapping network",
-          "link": "https://electrek.co/2026/06/22/octopus-and-catl-unveil-a-giant-ev-truck-battery-swapping-network/",
-          "source": "Electrek",
-          "published": "2026-06-22T14:06:19+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 10,
+      "count": 9,
       "items": [
         {
           "title": "BMW 그룹 코리아, 수도방위사령부 군사경찰단 모터사이클 훈련 지원",
@@ -445,25 +445,25 @@
           "link": "https://electrek.co/2026/06/22/gazelle-unveils-stylish-e-bike-powered-by-boschs-new-hub-motor/",
           "source": "Electrek",
           "published": "2026-06-22T17:57:09+00:00"
-        },
-        {
-          "title": "Lucid lays off 18% of staff, its second deep cut in four months",
-          "link": "https://electrek.co/2026/06/22/lucid-lays-off-18-percent-second-cut-four-months/",
-          "source": "Electrek",
-          "published": "2026-06-22T14:48:36+00:00"
         }
       ]
     },
     {
       "key": "robot",
       "label": "로봇",
-      "count": 20,
+      "count": 19,
       "items": [
         {
-          "title": "대구시, 첨단 로봇 공동 연구개발 참여기업 모집…“미래 로봇시장 선점”",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47206",
+          "title": "인천시, 로보컵 2026서 ‘로봇 서비스 기반 미래 주거 모델' 첫선",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47207",
           "source": "로봇신문",
-          "published": "2026-07-01T17:42:51+00:00"
+          "published": "2026-07-01T20:33:51+00:00"
+        },
+        {
+          "title": "Apptronik unveils Apollo 2 and a flagship data collection and training facility",
+          "link": "https://www.therobotreport.com/apptronik-unveils-apollo-2-flagship-data-collection-training-facility/",
+          "source": "The Robot Report",
+          "published": "2026-07-01T12:30:31+00:00"
         },
         {
           "title": "X Square Robot brings its valuation to $2.8B with four consecutive funding rounds",
@@ -556,12 +556,6 @@
           "published": "2026-06-25T19:41:33+00:00"
         },
         {
-          "title": "Robust.AI chooses Aptiv PULSE sensor for Gen 3 Carter mobile robot",
-          "link": "https://www.therobotreport.com/robust-ai-chooses-aptiv-pulse-sensor-for-gen-3-carter-mobile-robot/",
-          "source": "The Robot Report",
-          "published": "2026-06-25T19:18:25+00:00"
-        },
-        {
           "title": "Video Friday: Do Robots Even Need Legs?",
           "link": "https://spectrum.ieee.org/video-friday-agentic-ai-robot",
           "source": "IEEE Spectrum",
@@ -572,12 +566,6 @@
           "link": "https://spectrum.ieee.org/amazon-astro-robot-sound",
           "source": "IEEE Spectrum",
           "published": "2026-06-19T10:00:00+00:00"
-        },
-        {
-          "title": "The Secret to Marathon-Winning Humanoid Robots",
-          "link": "https://spectrum.ieee.org/china-humanoid-robot-marathon",
-          "source": "IEEE Spectrum",
-          "published": "2026-06-17T12:19:27+00:00"
         }
       ]
     },
