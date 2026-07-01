@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T14:29:43.965787+00:00",
+  "generated_at": "2026-07-01T19:50:43.864961+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,52 @@
       "count": 40,
       "items": [
         {
+          "title": "Toyota’s electric SUV clears 17,500 sales, outpacing the Land Cruiser and key EV rivals",
+          "link": "https://electrek.co/2026/07/01/toyotas-electric-suv-tops-17500-sales-outpaces-key-ev-rivals/",
+          "source": "Electrek",
+          "published": "2026-07-01T19:34:47+00:00"
+        },
+        {
+          "title": "Slate Has No Plans To Sell Its Cheap EV Pickup In Canada",
+          "link": "https://insideevs.com/news/800303/slate-no-canada-sales-usa/",
+          "source": "InsideEVs",
+          "published": "2026-07-01T18:31:36+00:00"
+        },
+        {
+          "title": "Sicily is now home to Italy’s largest solar farm",
+          "link": "https://electrek.co/2026/07/01/sicily-is-now-home-to-italys-largest-solar-farm/",
+          "source": "Electrek",
+          "published": "2026-07-01T18:09:53+00:00"
+        },
+        {
           "title": "제네시스, 2027 GV70, GV70 그래파이트 패키지 출시",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44038",
           "source": "모터그래프",
           "published": "2026-07-01T18:04:21+00:00"
+        },
+        {
+          "title": "Tesla Semi involved in first fatal crash, killing 2 in Nevada",
+          "link": "https://electrek.co/2026/07/01/tesla-semi-first-fatal-crash-nevada/",
+          "source": "Electrek",
+          "published": "2026-07-01T18:02:31+00:00"
+        },
+        {
+          "title": "Juiced Scrambler e-bikes at new lows from $1,694, Baseus X1 Pro solar security camera $140, Greenworks 80V CrossoverZ bundle, more",
+          "link": "https://electrek.co/2026/07/01/juiced-scrambler-e-bikes-baseus-x1-pro-solar-security-camera-greenworks-80v-crossoverz-more/",
+          "source": "Electrek",
+          "published": "2026-07-01T18:00:00+00:00"
+        },
+        {
+          "title": "Chevy Equinox EV sales slide 41%, but the new Bolt and Cadillac EVs pick up the slack",
+          "link": "https://electrek.co/2026/07/01/chevy-equinox-ev-sales-fall-41-new-bolt-picks-up-slack/",
+          "source": "Electrek",
+          "published": "2026-07-01T17:07:18+00:00"
+        },
+        {
+          "title": "Hyundai sold over 20,000 IONIQ 5 EVs in the first half of 2026, and IONIQ 9 sales are up 380%",
+          "link": "https://electrek.co/2026/07/01/hyundai-ioniq-5-sales-top-20000-ioniq-9-up-380-h1-2026/",
+          "source": "Electrek",
+          "published": "2026-07-01T15:51:26+00:00"
         },
         {
           "title": "Kia’s midsize electric SUV gains AWD and a special new ‘Storm’ edition",
@@ -203,48 +245,6 @@
           "link": "https://electrek.co/2026/06/29/fords-30000-ev-pickup-caught-testing-again/",
           "source": "Electrek",
           "published": "2026-06-29T19:23:41+00:00"
-        },
-        {
-          "title": "New Tesla ‘Full Self-Driving’ class action hilariously cites Electrek",
-          "link": "https://electrek.co/2026/06/29/tesla-fsd-class-action-quotes-electrek/",
-          "source": "Electrek",
-          "published": "2026-06-29T19:08:59+00:00"
-        },
-        {
-          "title": "Lectric 4th of July e-bike Sale, EcoFlow extended Prime Day power station sale flash offers at up to 61% off, Greenworks batteries, more",
-          "link": "https://electrek.co/2026/06/29/lectric-4th-of-july-e-bike-sale-ecoflow-extended-prime-day-power-station-sale-greenworks-more/",
-          "source": "Electrek",
-          "published": "2026-06-29T18:00:00+00:00"
-        },
-        {
-          "title": "Kia reveals PV5 prices in Canada as a new affordable EV option",
-          "link": "https://electrek.co/2026/06/29/kia-reveals-pv5-prices-canada-another-affordable-ev/",
-          "source": "Electrek",
-          "published": "2026-06-29T17:39:35+00:00"
-        },
-        {
-          "title": "DeSantis vetoes unanimous e-bike safety bill for the most Florida reason ever",
-          "link": "https://electrek.co/2026/06/29/desantis-vetoes-unanimous-e-bike-safety-bill-for-the-most-florida-reason-ever/",
-          "source": "Electrek",
-          "published": "2026-06-29T16:42:05+00:00"
-        },
-        {
-          "title": "BMW’s new iX5 leaks ahead of its debut with a unique look [Images]",
-          "link": "https://electrek.co/2026/06/29/bmw-ix5-leaks-with-unique-look-images/",
-          "source": "Electrek",
-          "published": "2026-06-29T16:07:45+00:00"
-        },
-        {
-          "title": "Millions of lives would be saved by quicker electric car adoption, study says",
-          "link": "https://electrek.co/2026/06/29/new-study-shows-how-many-millions-would-be-saved-by-quicker-ev-adoption/",
-          "source": "Electrek",
-          "published": "2026-06-29T14:00:00+00:00"
-        },
-        {
-          "title": "There’s a new e-bike motor and fast charging battery company in town",
-          "link": "https://electrek.co/2026/06/29/theres-a-new-e-bike-motor-and-fast-charging-battery-company-in-town/",
-          "source": "Electrek",
-          "published": "2026-06-29T13:48:22+00:00"
         }
       ]
     },
@@ -253,6 +253,18 @@
       "label": "배터리",
       "count": 22,
       "items": [
+        {
+          "title": "Juiced Scrambler e-bikes at new lows from $1,694, Baseus X1 Pro solar security camera $140, Greenworks 80V CrossoverZ bundle, more",
+          "link": "https://electrek.co/2026/07/01/juiced-scrambler-e-bikes-baseus-x1-pro-solar-security-camera-greenworks-80v-crossoverz-more/",
+          "source": "Electrek",
+          "published": "2026-07-01T18:00:00+00:00"
+        },
+        {
+          "title": "AVILOO Launches UK Used EV Battery Warranty",
+          "link": "https://cleantechnica.com/2026/07/01/aviloo-launches-uk-used-ev-battery-warranty/",
+          "source": "CleanTechnica",
+          "published": "2026-07-01T16:48:48+00:00"
+        },
         {
           "title": "BYD set to crush Tesla again in Q2 EV sales with 557,000 deliveries",
           "link": "https://electrek.co/2026/07/01/byd-tesla-q2-2026-bev-sales/",
@@ -326,12 +338,6 @@
           "published": "2026-06-27T16:59:14+00:00"
         },
         {
-          "title": "The Limitations Of Powered Trailers That Nobody Thinks About",
-          "link": "https://cleantechnica.com/2026/06/26/the-limitations-of-powered-trailers-that-nobody-thinks-about/",
-          "source": "CleanTechnica",
-          "published": "2026-06-27T03:50:43+00:00"
-        },
-        {
           "title": "CATL chief: solid-state batteries at ‘level 4 of 9,’ no leap until 2030",
           "link": "https://electrek.co/2026/06/25/catl-solid-state-battery-level-4-2030/",
           "source": "Electrek",
@@ -378,20 +384,26 @@
           "link": "https://electrek.co/2026/06/23/tesla-natpower-megapack-25-gwh-europe/",
           "source": "Electrek",
           "published": "2026-06-23T14:00:31+00:00"
-        },
-        {
-          "title": "New solid-state battery electrolyte retains over 84% of its capacity after 350 cycles",
-          "link": "https://electrek.co/2026/06/22/solid-state-battery-electrolyte-retains-84-capacity-after-350-cycles/",
-          "source": "Electrek",
-          "published": "2026-06-22T17:18:16+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 9,
+      "count": 10,
       "items": [
+        {
+          "title": "Juiced Scrambler e-bikes at new lows from $1,694, Baseus X1 Pro solar security camera $140, Greenworks 80V CrossoverZ bundle, more",
+          "link": "https://electrek.co/2026/07/01/juiced-scrambler-e-bikes-baseus-x1-pro-solar-security-camera-greenworks-80v-crossoverz-more/",
+          "source": "Electrek",
+          "published": "2026-07-01T18:00:00+00:00"
+        },
+        {
+          "title": "Hyundai sold over 20,000 IONIQ 5 EVs in the first half of 2026, and IONIQ 9 sales are up 380%",
+          "link": "https://electrek.co/2026/07/01/hyundai-ioniq-5-sales-top-20000-ioniq-9-up-380-h1-2026/",
+          "source": "Electrek",
+          "published": "2026-07-01T15:51:26+00:00"
+        },
         {
           "title": "BMW 그룹 코리아, 수도방위사령부 군사경찰단 모터사이클 훈련 지원",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44029",
@@ -439,12 +451,6 @@
           "link": "https://electrek.co/2026/06/23/djis-e-bike-motors-expand-past-emtbs-with-new-electric-suv-bike/",
           "source": "Electrek",
           "published": "2026-06-24T05:42:45+00:00"
-        },
-        {
-          "title": "Gazelle unveils stylish e-bike powered by Bosch’s new hub motor",
-          "link": "https://electrek.co/2026/06/22/gazelle-unveils-stylish-e-bike-powered-by-boschs-new-hub-motor/",
-          "source": "Electrek",
-          "published": "2026-06-22T17:57:09+00:00"
         }
       ]
     },
@@ -458,6 +464,18 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47207",
           "source": "로봇신문",
           "published": "2026-07-01T20:33:51+00:00"
+        },
+        {
+          "title": "In Robotics, Ruggedization Is No Longer Optional",
+          "link": "https://www.therobotreport.com/in-robotics-ruggedization-is-no-longer-optional/",
+          "source": "The Robot Report",
+          "published": "2026-07-01T18:44:05+00:00"
+        },
+        {
+          "title": "Top 10 robotics developments of June 2026",
+          "link": "https://www.therobotreport.com/top-10-robotic-stories-june-2026/",
+          "source": "The Robot Report",
+          "published": "2026-07-01T16:10:57+00:00"
         },
         {
           "title": "Apptronik unveils Apollo 2 and a flagship data collection and training facility",
@@ -542,18 +560,6 @@
           "link": "https://spectrum.ieee.org/video-friday-robot-grippers",
           "source": "IEEE Spectrum",
           "published": "2026-06-26T16:30:01+00:00"
-        },
-        {
-          "title": "Orbbec shows AI-powered vision systems at Automate 2026",
-          "link": "https://www.therobotreport.com/orbbec-shows-ai-powered-vision-systems-automate-2026/",
-          "source": "The Robot Report",
-          "published": "2026-06-26T13:54:35+00:00"
-        },
-        {
-          "title": "Hirebotics offers no-code, explosion-proof cobot for painting",
-          "link": "https://www.therobotreport.com/hirebotics-offers-no-code-explosion-proof-cobot-for-painting/",
-          "source": "The Robot Report",
-          "published": "2026-06-25T19:41:33+00:00"
         },
         {
           "title": "Video Friday: Do Robots Even Need Legs?",
