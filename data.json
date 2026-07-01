@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-06-30T19:52:06.896753+00:00",
+  "generated_at": "2026-07-01T03:35:28.882965+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Genesis confirms the GV90 launch date as its ultra-luxe SUV nears arrival",
+          "link": "https://electrek.co/2026/06/30/genesis-confirms-gv90-launch-date-debut/",
+          "source": "Electrek",
+          "published": "2026-06-30T21:37:14+00:00"
+        },
+        {
+          "title": "Controversial Ferrari Luce EV is an instant sellout in China [update]",
+          "link": "https://electrek.co/2026/06/30/controversial-ferrari-luce-ev-is-an-instant-sellout-in-china/",
+          "source": "Electrek",
+          "published": "2026-06-30T20:55:00+00:00"
+        },
+        {
+          "title": "$383 million port and freight infrastructure grant to create 22,000 clean jobs",
+          "link": "https://electrek.co/2026/06/30/383-million-port-and-freight-infrastructure-grant-to-create-22000-clean-jobs/",
+          "source": "Electrek",
+          "published": "2026-06-30T20:29:42+00:00"
+        },
+        {
+          "title": "Big Short’s Michael Burry discloses new Tesla (TSLA) position",
+          "link": "https://electrek.co/2026/06/30/michael-burry-tesla-short-416/",
+          "source": "Electrek",
+          "published": "2026-06-30T20:24:37+00:00"
+        },
+        {
+          "title": "The Chevy Blazer EV avoids a price hike for 2027 despite a few upgrades",
+          "link": "https://electrek.co/2026/06/30/chevy-blazer-ev-avoids-price-hike-2027-despite-upgrades/",
+          "source": "Electrek",
+          "published": "2026-06-30T20:09:38+00:00"
+        },
         {
           "title": "Someone Keeps Stealing Entire Truckloads Of Tesla Batteries",
           "link": "https://insideevs.com/news/800187/tesla-gigafactory-batteries-stolen-trucks/",
@@ -199,12 +229,6 @@
           "published": "2026-06-29T13:03:56+00:00"
         },
         {
-          "title": "Controversial Ferrari Luce EV is an instant sellout in China",
-          "link": "https://electrek.co/2026/06/28/controversial-ferrari-luce-ev-is-an-instant-sellout-in-china/",
-          "source": "Electrek",
-          "published": "2026-06-28T19:27:52+00:00"
-        },
-        {
           "title": "Zero emission truck deployments SURGED up 37% in 2025 as momentum builds",
           "link": "https://electrek.co/2026/06/28/zero-emission-truck-deployments-surged-up-37-in-2025-as-momentum-builds/",
           "source": "Electrek",
@@ -221,37 +245,13 @@
           "link": "https://electrek.co/2026/06/28/leading-electric-dirt-bike-stark-varg-lets-owners-download-a-new-trick/",
           "source": "Electrek",
           "published": "2026-06-28T13:39:37+00:00"
-        },
-        {
-          "title": "This Chinese SUV Sold 100,000 Units In Seven Months For A Good Reason",
-          "link": "https://insideevs.com/reviews/799953/nio-es8-drive-review-2026/",
-          "source": "InsideEVs",
-          "published": "2026-06-28T12:00:00+00:00"
-        },
-        {
-          "title": "VIDEO: The New Xiaomi SU7 Is Very Much Ready For Europe",
-          "link": "https://insideevs.com/reviews/799960/su7-video-update-watch-xiaomi/",
-          "source": "InsideEVs",
-          "published": "2026-06-27T14:05:00+00:00"
-        },
-        {
-          "title": "Mercedes posts Tesla-like efficiency hauling 36 tons through a German winter",
-          "link": "https://electrek.co/2026/06/27/mercedes-posts-tesla-like-efficiency-hauling-36-tons-through-a-german-winter/",
-          "source": "Electrek",
-          "published": "2026-06-27T12:48:45+00:00"
-        },
-        {
-          "title": "Is The $25K Slate Truck Just Too Basic? I Rode In One To Find Out.",
-          "link": "https://insideevs.com/features/799969/slate-ev-first-ride-impressions/",
-          "source": "InsideEVs",
-          "published": "2026-06-27T12:00:00+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 26,
+      "count": 23,
       "items": [
         {
           "title": "Someone Keeps Stealing Entire Truckloads Of Tesla Batteries",
@@ -326,18 +326,6 @@
           "published": "2026-06-27T03:50:43+00:00"
         },
         {
-          "title": "CATL — 36 Battery Swap Stations for Hong Kong, 3000 Total This Year",
-          "link": "https://cleantechnica.com/2026/06/26/catl-36-battery-swap-stations-for-hong-kong-3000-total-this-year/",
-          "source": "CleanTechnica",
-          "published": "2026-06-27T03:41:20+00:00"
-        },
-        {
-          "title": "Octopus Energy Partners With DTEK To Bring Solar & Battery Storage To Ukraine",
-          "link": "https://cleantechnica.com/2026/06/26/octopus-energy-partners-with-dtek-to-bring-solar-battery-storage-to-ukraine/",
-          "source": "CleanTechnica",
-          "published": "2026-06-26T23:14:03+00:00"
-        },
-        {
           "title": "CATL chief: solid-state batteries at ‘level 4 of 9,’ no leap until 2030",
           "link": "https://electrek.co/2026/06/25/catl-solid-state-battery-level-4-2030/",
           "source": "Electrek",
@@ -402,12 +390,6 @@
           "link": "https://electrek.co/2026/06/22/chinese-sodium-ion-battery-matches-tesla-build-quality/",
           "source": "Electrek",
           "published": "2026-06-22T13:05:26+00:00"
-        },
-        {
-          "title": "Europe is betting big on a battery that runs for four days",
-          "link": "https://electrek.co/2026/06/22/europe-is-betting-big-on-a-battery-that-runs-for-four-days/",
-          "source": "Electrek",
-          "published": "2026-06-22T07:01:00+00:00"
         }
       ]
     },
@@ -484,10 +466,16 @@
       "count": 20,
       "items": [
         {
-          "title": "유비테크, 바이오닉 휴머노이드 로봇 'U1' 시리즈 공개",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47182",
+          "title": "클로봇, GPR 기반 AI 지하구조물 점검 주행 로봇 시스템 개발 과제 선정",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47189",
           "source": "로봇신문",
-          "published": "2026-07-01T01:23:12+00:00"
+          "published": "2026-07-01T09:47:34+00:00"
+        },
+        {
+          "title": "X Square Robot brings its valuation to $2.8B with four consecutive funding rounds",
+          "link": "https://www.therobotreport.com/x-square-robot-brings-valuation-2-8b-four-consecutive-funding-rounds/",
+          "source": "The Robot Report",
+          "published": "2026-06-30T19:49:05+00:00"
         },
         {
           "title": "Queue raises funding to build fully autonomous pharmacy",
@@ -580,12 +568,6 @@
           "published": "2026-06-25T19:18:25+00:00"
         },
         {
-          "title": "ARM Institute expands RoboticsCareer.org into physical AI",
-          "link": "https://www.therobotreport.com/arm-institute-launches-physical-ai-focused-expansion-roboticscareer-org/",
-          "source": "The Robot Report",
-          "published": "2026-06-25T12:30:20+00:00"
-        },
-        {
           "title": "Video Friday: Do Robots Even Need Legs?",
           "link": "https://spectrum.ieee.org/video-friday-agentic-ai-robot",
           "source": "IEEE Spectrum",
@@ -611,10 +593,10 @@
       "count": 40,
       "items": [
         {
-          "title": "커서, iOS 모바일 앱 출시...스마트폰으로 AI 코딩 에이전트 실시간 제어",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212262",
+          "title": "[6월30일] 프로토타입 90개 만든 AI...이제 인간 경쟁력은 '선택'",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212264",
           "source": "AI타임스",
-          "published": "2026-06-30T18:18:05+00:00"
+          "published": "2026-07-01T07:00:00+00:00"
         },
         {
           "title": "Recursive Self-Evolving Agents via Held-Out Selection",
