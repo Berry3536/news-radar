@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T13:54:02.608122+00:00",
+  "generated_at": "2026-07-02T19:20:37.640593+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,82 @@
       "count": 40,
       "items": [
         {
+          "title": "Tesla launches Model Y L in US — 6 seats, 325 miles, $61,990",
+          "link": "https://electrek.co/2026/07/02/tesla-model-y-l-us-launch-61990/",
+          "source": "Electrek",
+          "published": "2026-07-02T18:07:59+00:00"
+        },
+        {
           "title": "7,790만 원부터 시작, 플래그십 전기 퍼포먼스 SUV 폴스타 3",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44046",
           "source": "모터그래프",
           "published": "2026-07-02T18:01:35+00:00"
+        },
+        {
+          "title": "Velotric + Heybike July 4th e-bike sales with up to $828 savings, Samsung Bespoke AI ventless washer/dryer $1,850, Greenworks, more",
+          "link": "https://electrek.co/2026/07/02/velotric-heybike-july-4th-e-bike-sales-samsung-bespoke-ai-ventless-washer-dryer-greenworks-more/",
+          "source": "Electrek",
+          "published": "2026-07-02T18:00:00+00:00"
+        },
+        {
+          "title": "Kia axed its affordable EV, but a replacement is set to go on sale soon",
+          "link": "https://electrek.co/2026/07/02/kia-axed-affordable-ev-replacement-will-go-on-sale-soon/",
+          "source": "Electrek",
+          "published": "2026-07-02T17:39:47+00:00"
+        },
+        {
+          "title": "Hydrogen for heavy trucks is dead, says world’s 2nd-largest oil company",
+          "link": "https://electrek.co/2026/07/02/hydrogen-for-heavy-trucks-is-dead-says-worlds-2nd-largest-oil-company/",
+          "source": "Electrek",
+          "published": "2026-07-02T17:09:53+00:00"
+        },
+        {
+          "title": "Lucid Just Had A Big Executive Shakeup. Here's What You Need To Know",
+          "link": "https://insideevs.com/news/800467/lucid-cfo-leadership-changes-ceo/",
+          "source": "InsideEVs",
+          "published": "2026-07-02T16:31:39+00:00"
+        },
+        {
+          "title": "Tesla Sales Roared Back In Q2, After Months Of Downward Spiraling",
+          "link": "https://insideevs.com/news/800470/tesla-record-ev-sales-second-quarter/",
+          "source": "InsideEVs",
+          "published": "2026-07-02T16:08:51+00:00"
+        },
+        {
+          "title": "Rivian Just Had A Great Quarter. And The R2 Craze Is Just Getting Started",
+          "link": "https://insideevs.com/news/800466/rivian-q2-2026-sales/",
+          "source": "InsideEVs",
+          "published": "2026-07-02T15:54:57+00:00"
+        },
+        {
+          "title": "The Jeep Recon EV will launch in Europe, plus a new China-made SUV and more",
+          "link": "https://electrek.co/2026/07/02/jeep-recon-ev-launch-europe-plus-china-made-suv/",
+          "source": "Electrek",
+          "published": "2026-07-02T15:54:54+00:00"
+        },
+        {
+          "title": "Elon Musk shuts down ‘4D chess’ theory on Tesla Optimus production",
+          "link": "https://electrek.co/2026/07/02/musk-shuts-down-optimus-4d-chess-theory/",
+          "source": "Electrek",
+          "published": "2026-07-02T15:26:37+00:00"
+        },
+        {
+          "title": "Toyota is paying up after canceled flagship EV triggers ‘unprecedented’ shock",
+          "link": "https://electrek.co/2026/07/02/toyota-pays-up-after-canceled-ev-triggers-unprecedented-shock/",
+          "source": "Electrek",
+          "published": "2026-07-02T14:43:54+00:00"
+        },
+        {
+          "title": "Lucid overhauls its entire C-suite under new CEO after 18% layoffs",
+          "link": "https://electrek.co/2026/07/02/lucid-c-suite-overhaul-napoli/",
+          "source": "Electrek",
+          "published": "2026-07-02T14:33:57+00:00"
+        },
+        {
+          "title": "Yadea shows off full-suspension commuter e-bike at Eurobike 2026",
+          "link": "https://electrek.co/2026/07/02/yadea-shows-off-full-suspension-commuter-e-bike-at-eurobike-2026/",
+          "source": "Electrek",
+          "published": "2026-07-02T14:09:59+00:00"
         },
         {
           "title": "Tesla (TSLA) Q2 2026 deliveries jump 25% to 480,126, beating estimates",
@@ -25,7 +97,7 @@
           "published": "2026-07-02T13:00:00+00:00"
         },
         {
-          "title": "This $1.4 Million EV Hits 60 In 1.55 Seconds. Now You Can Buy One.",
+          "title": "This $1.4 Million EV Has A Weird Trick To Hit 60 MPH In 1.55 Seconds",
           "link": "https://insideevs.com/news/800326/mcmurtry-speirling-pure-production-model/",
           "source": "InsideEVs",
           "published": "2026-07-02T13:00:00+00:00"
@@ -173,88 +245,22 @@
           "link": "https://insideevs.com/news/800217/tesla-cybercab-test/",
           "source": "InsideEVs",
           "published": "2026-06-30T18:53:22+00:00"
-        },
-        {
-          "title": "Solar gets railed: clever Swiss pilot proves PV panels and trains can coexist",
-          "link": "https://electrek.co/2026/06/30/solar-gets-railed-clever-swiss-pilot-proves-pv-panels-and-trains-can-coexist/",
-          "source": "Electrek",
-          "published": "2026-06-30T18:46:21+00:00"
-        },
-        {
-          "title": "Tesla poaches 17-year Intel veteran to lead its ‘Terafab’ chip plant",
-          "link": "https://electrek.co/2026/06/30/tesla-intel-veteran-terafab-director/",
-          "source": "Electrek",
-          "published": "2026-06-30T18:31:24+00:00"
-        },
-        {
-          "title": "California's New EV Incentive Is Almost Here—With Special Benefits For Rivian And Lucid",
-          "link": "https://insideevs.com/news/800208/california-ev-credit-rivian-lucid/",
-          "source": "InsideEVs",
-          "published": "2026-06-30T18:27:59+00:00"
-        },
-        {
-          "title": "Electrify America is adding NACS chargers to more of its busiest stations",
-          "link": "https://electrek.co/2026/06/30/electrify-america-nacs-chargers/",
-          "source": "Electrek",
-          "published": "2026-06-30T18:13:22+00:00"
-        },
-        {
-          "title": "BYD’s flagship electric SUV is so smooth that it won an anti-motion-sickness certification",
-          "link": "https://electrek.co/2026/06/30/byds-flagship-electric-suv-wins-anti-motion-sickness-certification/",
-          "source": "Electrek",
-          "published": "2026-06-30T18:02:06+00:00"
-        },
-        {
-          "title": "Tenways Wayfarer cruiser e-bike bundle at new $1,649 low ($827 off), Jackery July 4th power station sale, Aiper, Greenworks, more",
-          "link": "https://electrek.co/2026/06/30/tenways-wayfarer-cruiser-e-bike-jackery-july-4th-power-station-sale-aiper-greenworks-more/",
-          "source": "Electrek",
-          "published": "2026-06-30T18:00:00+00:00"
-        },
-        {
-          "title": "The BMW iX5 sets the benchmark with 525 miles of range, fast charging [Images]",
-          "link": "https://electrek.co/2026/06/30/bmw-ix5-sets-benchmark-with-525-miles-range-images/",
-          "source": "Electrek",
-          "published": "2026-06-30T16:50:54+00:00"
-        },
-        {
-          "title": "You can now check when you’ll be able to order your Rivian R2",
-          "link": "https://electrek.co/2026/06/30/you-can-now-check-when-youll-be-able-to-order-your-rivian-r2/",
-          "source": "Electrek",
-          "published": "2026-06-30T16:33:16+00:00"
-        },
-        {
-          "title": "Another day, another illegal billion-dollar bribe to raise your electricity prices",
-          "link": "https://electrek.co/2026/06/30/another-day-another-illegal-billion-dollar-bribe-to-raise-your-electricity-prices/",
-          "source": "Electrek",
-          "published": "2026-06-30T15:50:00+00:00"
-        },
-        {
-          "title": "BMW iX5 Blows Away The Competition With 460-kW Charging, 435-Mile Range",
-          "link": "https://insideevs.com/news/800125/bmw-ix5-neue-klasse-ev-electric-suv/",
-          "source": "InsideEVs",
-          "published": "2026-06-30T15:01:00+00:00"
-        },
-        {
-          "title": "Tesla begins ‘engineering tests’ of first production Cybercab in Austin",
-          "link": "https://electrek.co/2026/06/30/tesla-cybercab-engineering-tests-austin/",
-          "source": "Electrek",
-          "published": "2026-06-30T14:56:45+00:00"
-        },
-        {
-          "title": "Jeep scraps two EVs in Europe, but three new SUVs are on the way",
-          "link": "https://electrek.co/2026/06/30/jeep-scraps-two-evs-europe-three-new-suvs/",
-          "source": "Electrek",
-          "published": "2026-06-30T14:27:08+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 22,
+      "count": 21,
       "items": [
         {
-          "title": "This $1.4 Million EV Hits 60 In 1.55 Seconds. Now You Can Buy One.",
+          "title": "Hydrogen for heavy trucks is dead, says world’s 2nd-largest oil company",
+          "link": "https://electrek.co/2026/07/02/hydrogen-for-heavy-trucks-is-dead-says-worlds-2nd-largest-oil-company/",
+          "source": "Electrek",
+          "published": "2026-07-02T17:09:53+00:00"
+        },
+        {
+          "title": "This $1.4 Million EV Has A Weird Trick To Hit 60 MPH In 1.55 Seconds",
           "link": "https://insideevs.com/news/800326/mcmurtry-speirling-pure-production-model/",
           "source": "InsideEVs",
           "published": "2026-07-02T13:00:00+00:00"
@@ -344,12 +350,6 @@
           "published": "2026-06-29T13:03:56+00:00"
         },
         {
-          "title": "Exploring How to Get More Solar & Batteries at Apartment Buildings",
-          "link": "https://cleantechnica.com/2026/06/28/exploring-how-to-get-more-solar-batteries-at-apartment-buildings/",
-          "source": "CleanTechnica",
-          "published": "2026-06-29T03:17:41+00:00"
-        },
-        {
           "title": "CATL chief: solid-state batteries at ‘level 4 of 9,’ no leap until 2030",
           "link": "https://electrek.co/2026/06/25/catl-solid-state-battery-level-4-2030/",
           "source": "Electrek",
@@ -378,12 +378,6 @@
           "link": "https://electrek.co/2026/06/24/toyota-scraps-new-lexus-ev-successor-gets-green-light/",
           "source": "Electrek",
           "published": "2026-06-24T14:36:30+00:00"
-        },
-        {
-          "title": "Utah’s largest solar + battery storage project is officially online",
-          "link": "https://electrek.co/2026/06/24/utahs-largest-solar-battery-storage-project-is-officially-online/",
-          "source": "Electrek",
-          "published": "2026-06-24T11:25:40+00:00"
         }
       ]
     },
@@ -397,6 +391,12 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44051",
           "source": "모터그래프",
           "published": "2026-07-02T18:01:10+00:00"
+        },
+        {
+          "title": "Yadea shows off full-suspension commuter e-bike at Eurobike 2026",
+          "link": "https://electrek.co/2026/07/02/yadea-shows-off-full-suspension-commuter-e-bike-at-eurobike-2026/",
+          "source": "Electrek",
+          "published": "2026-07-02T14:09:59+00:00"
         },
         {
           "title": "Juiced Scrambler e-bikes at new lows from $1,694, Baseus X1 Pro solar security camera $140, Greenworks 80V CrossoverZ bundle, more",
@@ -445,12 +445,6 @@
           "link": "https://electrek.co/2026/06/25/avinox-shows-off-wild-new-gearbox-motor-concept-as-it-expands-across-the-e-bike-industry/",
           "source": "Electrek",
           "published": "2026-06-25T15:16:32+00:00"
-        },
-        {
-          "title": "DJI’s e-bike motors expand past eMTBs with new electric SUV bike",
-          "link": "https://electrek.co/2026/06/23/djis-e-bike-motors-expand-past-emtbs-with-new-electric-suv-bike/",
-          "source": "Electrek",
-          "published": "2026-06-24T05:42:45+00:00"
         }
       ]
     },
@@ -466,6 +460,12 @@
           "published": "2026-07-02T21:35:11+00:00"
         },
         {
+          "title": "Automate 2026 show recap",
+          "link": "https://www.therobotreport.com/automate-2026-show-recap/",
+          "source": "The Robot Report",
+          "published": "2026-07-02T16:35:58+00:00"
+        },
+        {
           "title": "Why you should combine robot dexterity with mechanical positioning for complex assembly operations",
           "link": "https://www.therobotreport.com/why-you-should-combine-robot-dexterity-with-mechanical-positioning-for-complex-assembly-operations/",
           "source": "The Robot Report",
@@ -476,12 +476,6 @@
           "link": "https://www.therobotreport.com/luxonis-closes-series-a-round-to-scale-physical-ai-perception-layer/",
           "source": "The Robot Report",
           "published": "2026-07-02T12:00:32+00:00"
-        },
-        {
-          "title": "Blattner awards Built Robotics $75M contract for physical AI to help meet energy demand",
-          "link": "https://www.therobotreport.com/blattner-awards-built-robotics-75m-contract-meet-energy-demands/",
-          "source": "The Robot Report",
-          "published": "2026-07-02T11:06:20+00:00"
         },
         {
           "title": "In Robotics, Ruggedization Is No Longer Optional",
