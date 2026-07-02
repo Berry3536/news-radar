@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-07-02T08:52:21.984589+00:00",
+  "generated_at": "2026-07-02T13:54:02.608122+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "7,790만 원부터 시작, 플래그십 전기 퍼포먼스 SUV 폴스타 3",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44046",
+          "source": "모터그래프",
+          "published": "2026-07-02T18:01:35+00:00"
+        },
+        {
+          "title": "Tesla (TSLA) Q2 2026 deliveries jump 25% to 480,126, beating estimates",
+          "link": "https://electrek.co/2026/07/02/tesla-q2-2026-deliveries-480126/",
+          "source": "Electrek",
+          "published": "2026-07-02T13:52:36+00:00"
+        },
+        {
+          "title": "This electric race car can drive upside down and can be yours for a cool $1.3m",
+          "link": "https://electrek.co/2026/07/02/this-electric-race-car-can-drive-upside-down-and-can-be-yours-for-a-cool-1-3m/",
+          "source": "Electrek",
+          "published": "2026-07-02T13:00:00+00:00"
+        },
+        {
+          "title": "This $1.4 Million EV Hits 60 In 1.55 Seconds. Now You Can Buy One.",
+          "link": "https://insideevs.com/news/800326/mcmurtry-speirling-pure-production-model/",
+          "source": "InsideEVs",
+          "published": "2026-07-02T13:00:00+00:00"
+        },
+        {
+          "title": "Rivian tops Q2 delivery numbers and raises full-year 2026 outlook",
+          "link": "https://electrek.co/2026/07/02/rivian-tops-q2-delivery-numbers-and-raises-full-year-2026-outlook/",
+          "source": "Electrek",
+          "published": "2026-07-02T12:30:01+00:00"
+        },
         {
           "title": "E-bikes bring both bad and good, but one greatly outweighs the other",
           "link": "https://electrek.co/2026/07/01/e-bikes-bring-both-bad-and-good-but-one-greatly-outweighs-the-other/",
@@ -47,12 +77,6 @@
           "link": "https://electrek.co/2026/07/01/sicily-is-now-home-to-italys-largest-solar-farm/",
           "source": "Electrek",
           "published": "2026-07-01T18:09:53+00:00"
-        },
-        {
-          "title": "제네시스, 2027 GV70, GV70 그래파이트 패키지 출시",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44038",
-          "source": "모터그래프",
-          "published": "2026-07-01T18:04:21+00:00"
         },
         {
           "title": "Tesla Semi involved in first fatal crash, killing 2 in Nevada",
@@ -221,38 +245,26 @@
           "link": "https://electrek.co/2026/06/30/jeep-scraps-two-evs-europe-three-new-suvs/",
           "source": "Electrek",
           "published": "2026-06-30T14:27:08+00:00"
-        },
-        {
-          "title": "Beachman unveils new Aviator electric bike lineup, with upcoming 125cc-equivalent model",
-          "link": "https://electrek.co/2026/06/30/beachman-unveils-new-aviator-electric-bike-lineup-with-upcoming-125cc-equivalent-model/",
-          "source": "Electrek",
-          "published": "2026-06-30T14:15:26+00:00"
-        },
-        {
-          "title": "An App Flagged This Tesla Battery As Degraded. The Car Said It Was Worse",
-          "link": "https://insideevs.com/news/800168/tesla-demo-car-battery-test/",
-          "source": "InsideEVs",
-          "published": "2026-06-30T12:20:51+00:00"
-        },
-        {
-          "title": "New CPSC rule could dramatically change e-bikes in the US",
-          "link": "https://electrek.co/2026/06/29/new-cpsc-rule-could-dramatically-change-e-bikes-in-the-us/",
-          "source": "Electrek",
-          "published": "2026-06-30T05:40:46+00:00"
-        },
-        {
-          "title": "How a gas plant helped fast-track 270 MW of new solar",
-          "link": "https://electrek.co/2026/06/29/how-a-gas-plant-helped-fast-track-270-mw-of-new-solar/",
-          "source": "Electrek",
-          "published": "2026-06-29T22:51:13+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 21,
+      "count": 22,
       "items": [
+        {
+          "title": "This $1.4 Million EV Hits 60 In 1.55 Seconds. Now You Can Buy One.",
+          "link": "https://insideevs.com/news/800326/mcmurtry-speirling-pure-production-model/",
+          "source": "InsideEVs",
+          "published": "2026-07-02T13:00:00+00:00"
+        },
+        {
+          "title": "New “Air” Battery Makes Larger Electric Aircraft Possible",
+          "link": "https://cleantechnica.com/2026/07/02/electric-aircraft-new-battery-lithium-air-solid-state/",
+          "source": "CleanTechnica",
+          "published": "2026-07-02T12:17:48+00:00"
+        },
         {
           "title": "E-bikes bring both bad and good, but one greatly outweighs the other",
           "link": "https://electrek.co/2026/07/01/e-bikes-bring-both-bad-and-good-but-one-greatly-outweighs-the-other/",
@@ -372,12 +384,6 @@
           "link": "https://electrek.co/2026/06/24/utahs-largest-solar-battery-storage-project-is-officially-online/",
           "source": "Electrek",
           "published": "2026-06-24T11:25:40+00:00"
-        },
-        {
-          "title": "Monarc Tracer redefines commuter e-bikes with dual batteries, premium tech, and a 5-year warranty",
-          "link": "https://electrek.co/2026/06/23/monarc-tracer/",
-          "source": "Electrek",
-          "published": "2026-06-23T17:42:32+00:00"
         }
       ]
     },
@@ -386,6 +392,12 @@
       "label": "모터",
       "count": 10,
       "items": [
+        {
+          "title": "역대 가장 빠른 우루스, 람보르기니 우루스 SE 퍼포만테",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44051",
+          "source": "모터그래프",
+          "published": "2026-07-02T18:01:10+00:00"
+        },
         {
           "title": "Juiced Scrambler e-bikes at new lows from $1,694, Baseus X1 Pro solar security camera $140, Greenworks 80V CrossoverZ bundle, more",
           "link": "https://electrek.co/2026/07/01/juiced-scrambler-e-bikes-baseus-x1-pro-solar-security-camera-greenworks-80v-crossoverz-more/",
@@ -397,12 +409,6 @@
           "link": "https://electrek.co/2026/07/01/hyundai-ioniq-5-sales-top-20000-ioniq-9-up-380-h1-2026/",
           "source": "Electrek",
           "published": "2026-07-01T15:51:26+00:00"
-        },
-        {
-          "title": "BMW 그룹 코리아, 수도방위사령부 군사경찰단 모터사이클 훈련 지원",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44029",
-          "source": "모터그래프",
-          "published": "2026-06-30T17:02:23+00:00"
         },
         {
           "title": "Beachman unveils new Aviator electric bike lineup, with upcoming 125cc-equivalent model",
@@ -454,10 +460,28 @@
       "count": 19,
       "items": [
         {
-          "title": "오늘의 로봇 기업 주식 시세(2026-07-02)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47214",
+          "title": "'로보컵 2026 인천’ 공식 개막…“미래 로봇기술 연계의 장 활짝”",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47223",
           "source": "로봇신문",
-          "published": "2026-07-02T15:36:56+00:00"
+          "published": "2026-07-02T21:35:11+00:00"
+        },
+        {
+          "title": "Why you should combine robot dexterity with mechanical positioning for complex assembly operations",
+          "link": "https://www.therobotreport.com/why-you-should-combine-robot-dexterity-with-mechanical-positioning-for-complex-assembly-operations/",
+          "source": "The Robot Report",
+          "published": "2026-07-02T12:36:09+00:00"
+        },
+        {
+          "title": "Luxonis closes Series A round to scale physical AI perception layer",
+          "link": "https://www.therobotreport.com/luxonis-closes-series-a-round-to-scale-physical-ai-perception-layer/",
+          "source": "The Robot Report",
+          "published": "2026-07-02T12:00:32+00:00"
+        },
+        {
+          "title": "Blattner awards Built Robotics $75M contract for physical AI to help meet energy demand",
+          "link": "https://www.therobotreport.com/blattner-awards-built-robotics-75m-contract-meet-energy-demands/",
+          "source": "The Robot Report",
+          "published": "2026-07-02T11:06:20+00:00"
         },
         {
           "title": "In Robotics, Ruggedization Is No Longer Optional",
@@ -532,24 +556,6 @@
           "published": "2026-06-28T09:00:12+00:00"
         },
         {
-          "title": "We know how to build smarter robots. Now, we need to learn smarter ways to test them",
-          "link": "https://www.therobotreport.com/we-know-how-to-build-smarter-robots-now-we-need-to-learn-smarter-ways-to-test-them/",
-          "source": "The Robot Report",
-          "published": "2026-06-27T13:00:47+00:00"
-        },
-        {
-          "title": "How compact cobot integration enhances autonomous mobile robot applications",
-          "link": "https://www.therobotreport.com/how-compact-cobot-integration-enhances-autonomous-mobile-robot-applications/",
-          "source": "The Robot Report",
-          "published": "2026-06-27T12:35:55+00:00"
-        },
-        {
-          "title": "General Intuition raises $320M to use video game data to train robots",
-          "link": "https://www.therobotreport.com/general-intuition-raises-320m-uses-video-game-data-train-robots/",
-          "source": "The Robot Report",
-          "published": "2026-06-26T18:38:36+00:00"
-        },
-        {
           "title": "Video Friday: Give Robots a Hand",
           "link": "https://spectrum.ieee.org/video-friday-robot-grippers",
           "source": "IEEE Spectrum",
@@ -575,10 +581,10 @@
       "count": 40,
       "items": [
         {
-          "title": "메타, 치솟는 메모리 가격에 구형 ‘DDR4 재활용’으로 돌파",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212356",
+          "title": "메타, 스페이스X처럼 남는 AI 컴퓨팅 자원 판매...\"자체 AI 수요 부진 타개\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212338",
           "source": "AI타임스",
-          "published": "2026-07-02T17:20:24+00:00"
+          "published": "2026-07-02T18:26:29+00:00"
         },
         {
           "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
