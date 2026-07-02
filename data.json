@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-07-01T19:50:43.864961+00:00",
+  "generated_at": "2026-07-02T03:20:36.702961+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Subaru’s new EVs are already outselling the Solterra",
+          "link": "https://electrek.co/2026/07/01/subarus-new-evs-outselling-solterra/",
+          "source": "Electrek",
+          "published": "2026-07-01T21:37:44+00:00"
+        },
+        {
+          "title": "Kempower + PowerUp kick off a 12-site EV fast charging rollout",
+          "link": "https://electrek.co/2026/07/01/kempower-powerup-kick-off-a-12-site-ev-fast-charging-rollout/",
+          "source": "Electrek",
+          "published": "2026-07-01T21:03:52+00:00"
+        },
+        {
+          "title": "Ford’s $30,000 EV pickup captured testing again as new details emerge",
+          "link": "https://electrek.co/2026/07/01/fords-30000-ev-pickup-captured-again-new-details-emerge/",
+          "source": "Electrek",
+          "published": "2026-07-01T20:51:04+00:00"
+        },
         {
           "title": "Toyota’s electric SUV clears 17,500 sales, outpacing the Land Cruiser and key EV rivals",
           "link": "https://electrek.co/2026/07/01/toyotas-electric-suv-tops-17500-sales-outpaces-key-ev-rivals/",
@@ -227,32 +245,20 @@
           "link": "https://insideevs.com/news/800105/drivers-infotainment-screen-connectivity-issues/",
           "source": "InsideEVs",
           "published": "2026-06-29T21:16:53+00:00"
-        },
-        {
-          "title": "Toyota blames high gas prices as global sales fall again, while EV sales jump 170%",
-          "link": "https://electrek.co/2026/06/29/toyota-blames-gas-prices-global-sales-fall-ev-sales-jump-170/",
-          "source": "Electrek",
-          "published": "2026-06-29T20:45:18+00:00"
-        },
-        {
-          "title": "The US’s largest transformer factory is coming for the AI power boom",
-          "link": "https://electrek.co/2026/06/29/us-largest-transformer-factory-is-coming-for-the-ai-power-boom/",
-          "source": "Electrek",
-          "published": "2026-06-29T20:35:14+00:00"
-        },
-        {
-          "title": "Ford’s $30,000 EV pickup caught testing again",
-          "link": "https://electrek.co/2026/06/29/fords-30000-ev-pickup-caught-testing-again/",
-          "source": "Electrek",
-          "published": "2026-06-29T19:23:41+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 22,
+      "count": 20,
       "items": [
+        {
+          "title": "Firmus Secures 600 MW Energy Supply Agreement in South Australia, Linked to 1.2 GW of New Renewable Generation & Battery Storage",
+          "link": "https://cleantechnica.com/2026/07/01/firmus-secures-600-mw-energy-supply-agreement-in-south-australia-linked-to-1-2-gw-of-new-renewable-generation-battery-storage/",
+          "source": "CleanTechnica",
+          "published": "2026-07-02T01:41:36+00:00"
+        },
         {
           "title": "Juiced Scrambler e-bikes at new lows from $1,694, Baseus X1 Pro solar security camera $140, Greenworks 80V CrossoverZ bundle, more",
           "link": "https://electrek.co/2026/07/01/juiced-scrambler-e-bikes-baseus-x1-pro-solar-security-camera-greenworks-80v-crossoverz-more/",
@@ -326,18 +332,6 @@
           "published": "2026-06-29T03:17:41+00:00"
         },
         {
-          "title": "Aptera Proved Its Solar Generation, Now It Needs To Prove Its Efficiency",
-          "link": "https://cleantechnica.com/2026/06/27/aptera-proved-its-solar-generation-now-it-needs-to-prove-its-efficiency/",
-          "source": "CleanTechnica",
-          "published": "2026-06-28T03:59:42+00:00"
-        },
-        {
-          "title": "Energy Storage Emerges As The Great Equalizer, Trump Or No Trump",
-          "link": "https://cleantechnica.com/2026/06/27/energy-storage-sodium-ion-salt-battery-us-coalition/",
-          "source": "CleanTechnica",
-          "published": "2026-06-27T16:59:14+00:00"
-        },
-        {
           "title": "CATL chief: solid-state batteries at ‘level 4 of 9,’ no leap until 2030",
           "link": "https://electrek.co/2026/06/25/catl-solid-state-battery-level-4-2030/",
           "source": "Electrek",
@@ -378,12 +372,6 @@
           "link": "https://electrek.co/2026/06/23/monarc-tracer/",
           "source": "Electrek",
           "published": "2026-06-23T17:42:32+00:00"
-        },
-        {
-          "title": "Tesla, NatPower strike $5B deal for 25 GWh of Megapack storage",
-          "link": "https://electrek.co/2026/06/23/tesla-natpower-megapack-25-gwh-europe/",
-          "source": "Electrek",
-          "published": "2026-06-23T14:00:31+00:00"
         }
       ]
     },
@@ -581,10 +569,10 @@
       "count": 40,
       "items": [
         {
-          "title": "메이투안, 코딩 모델 '롱캣-2.0' 출시...\"중국산 칩으로 고성능 달성\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212307",
+          "title": "[7월1일] \"AI 시대 최대 리스크는 기술이 아닌 불평등\"…다시 거론된 '엥겔스의 정체'",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212308",
           "source": "AI타임스",
-          "published": "2026-07-01T18:25:57+00:00"
+          "published": "2026-07-02T07:00:00+00:00"
         },
         {
           "title": "What Drives Interactive Improvement from Feedback?",
