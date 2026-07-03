@@ -1,11 +1,65 @@
 {
-  "generated_at": "2026-07-02T19:20:37.640593+00:00",
+  "generated_at": "2026-07-03T02:43:28.017789+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Tesla caps employee AI spending at $200/week except for Grok",
+          "link": "https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/",
+          "source": "Electrek",
+          "published": "2026-07-03T00:34:03+00:00"
+        },
+        {
+          "title": "Polestar EVs Are A Whopping $25,000 Off After The Brand Got Kicked Out Of America",
+          "link": "https://insideevs.com/news/800504/polestar-3-deals-banned-america/",
+          "source": "InsideEVs",
+          "published": "2026-07-03T00:10:41+00:00"
+        },
+        {
+          "title": "Iberdrola kicks off its first large-scale battery project in the US",
+          "link": "https://electrek.co/2026/07/02/iberdrola-kicks-off-its-first-large-scale-battery-project-in-the-us/",
+          "source": "Electrek",
+          "published": "2026-07-02T22:33:31+00:00"
+        },
+        {
+          "title": "The Hyundai IONIQ 3 is the affordable electric hatch we want but can’t have",
+          "link": "https://electrek.co/2026/07/02/hyundai-ioniq-3-electric-hatch-we-want-but-cant-have/",
+          "source": "Electrek",
+          "published": "2026-07-02T21:39:54+00:00"
+        },
+        {
+          "title": "‘World’s largest’ second-life EV battery factory opens in just six weeks",
+          "link": "https://electrek.co/2026/07/02/worlds-largest-second-life-ev-battery-factory-opens-in-just-six-weeks/",
+          "source": "Electrek",
+          "published": "2026-07-02T20:50:35+00:00"
+        },
+        {
+          "title": "Polestar EVs are a smoking deal at $25k off now that they’re banned in the US",
+          "link": "https://electrek.co/2026/07/02/polestar-4s-are-a-smoking-deal-at-25k-off-now-that-theyre-banned-in-the-us/",
+          "source": "Electrek",
+          "published": "2026-07-02T20:19:26+00:00"
+        },
+        {
+          "title": "This Is Tesla's New, Bigger Model Y For The U.S.",
+          "link": "https://insideevs.com/news/800498/tesla-model-y-l-us/",
+          "source": "InsideEVs",
+          "published": "2026-07-02T20:11:00+00:00"
+        },
+        {
+          "title": "BYD Reclaimed The EV Sales Crown Despite Tesla's Huge Quarter",
+          "link": "https://insideevs.com/news/800489/byd-tesla-ev-crown-quarter/",
+          "source": "InsideEVs",
+          "published": "2026-07-02T19:50:20+00:00"
+        },
+        {
+          "title": "Subaru’s 375-hp AWD Trailseeker EV starts under $40,000",
+          "link": "https://electrek.co/2026/07/02/subarus-375-hp-awd-trailseeker-ev-starts-under-40000/",
+          "source": "Electrek",
+          "published": "2026-07-02T19:35:19+00:00"
+        },
         {
           "title": "Tesla launches Model Y L in US — 6 seats, 325 miles, $61,990",
           "link": "https://electrek.co/2026/07/02/tesla-model-y-l-us-launch-61990/",
@@ -191,68 +245,32 @@
           "link": "https://electrek.co/2026/07/01/byd-tesla-q2-2026-bev-sales/",
           "source": "Electrek",
           "published": "2026-07-01T13:18:14+00:00"
-        },
-        {
-          "title": "Charge your EV at home and get paid up to CA$350 a year in Canada",
-          "link": "https://electrek.co/2026/07/01/charge-your-ev-at-home-and-get-paid-up-to-ca350-a-year-in-canada-chargelab/",
-          "source": "Electrek",
-          "published": "2026-07-01T12:00:00+00:00"
-        },
-        {
-          "title": "Rivian R2 spotted with LiDAR near HQ, looks better than most LiDARs",
-          "link": "https://electrek.co/2026/06/30/rivian-r2-spotted-with-lidar-near-hq-looks-better-than-most-lidars/",
-          "source": "Electrek",
-          "published": "2026-07-01T04:22:04+00:00"
-        },
-        {
-          "title": "Genesis confirms the GV90 launch date as its ultra-luxe SUV nears arrival",
-          "link": "https://electrek.co/2026/06/30/genesis-confirms-gv90-launch-date-debut/",
-          "source": "Electrek",
-          "published": "2026-06-30T21:37:14+00:00"
-        },
-        {
-          "title": "Controversial Ferrari Luce EV is an instant sellout in China [update]",
-          "link": "https://electrek.co/2026/06/30/controversial-ferrari-luce-ev-is-an-instant-sellout-in-china/",
-          "source": "Electrek",
-          "published": "2026-06-30T20:55:00+00:00"
-        },
-        {
-          "title": "$383 million port and freight infrastructure grant to create 22,000 clean jobs",
-          "link": "https://electrek.co/2026/06/30/383-million-port-and-freight-infrastructure-grant-to-create-22000-clean-jobs/",
-          "source": "Electrek",
-          "published": "2026-06-30T20:29:42+00:00"
-        },
-        {
-          "title": "Big Short’s Michael Burry discloses new Tesla (TSLA) position",
-          "link": "https://electrek.co/2026/06/30/michael-burry-tesla-short-416/",
-          "source": "Electrek",
-          "published": "2026-06-30T20:24:37+00:00"
-        },
-        {
-          "title": "The Chevy Blazer EV avoids a price hike for 2027 despite a few upgrades",
-          "link": "https://electrek.co/2026/06/30/chevy-blazer-ev-avoids-price-hike-2027-despite-upgrades/",
-          "source": "Electrek",
-          "published": "2026-06-30T20:09:38+00:00"
-        },
-        {
-          "title": "Someone Keeps Stealing Entire Truckloads Of Tesla Batteries",
-          "link": "https://insideevs.com/news/800187/tesla-gigafactory-batteries-stolen-trucks/",
-          "source": "InsideEVs",
-          "published": "2026-06-30T19:37:01+00:00"
-        },
-        {
-          "title": "Tesla Starts Testing Steering-Wheel-Free Cybercab On Austin Streets. Can It Match Waymo?",
-          "link": "https://insideevs.com/news/800217/tesla-cybercab-test/",
-          "source": "InsideEVs",
-          "published": "2026-06-30T18:53:22+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 21,
+      "count": 23,
       "items": [
+        {
+          "title": "Residential Batteries Are Becoming An Active Grid Management Tool",
+          "link": "https://cleantechnica.com/2026/07/02/residential-batteries-are-becoming-an-active-grid-management-tool/",
+          "source": "CleanTechnica",
+          "published": "2026-07-03T01:01:41+00:00"
+        },
+        {
+          "title": "Iberdrola kicks off its first large-scale battery project in the US",
+          "link": "https://electrek.co/2026/07/02/iberdrola-kicks-off-its-first-large-scale-battery-project-in-the-us/",
+          "source": "Electrek",
+          "published": "2026-07-02T22:33:31+00:00"
+        },
+        {
+          "title": "‘World’s largest’ second-life EV battery factory opens in just six weeks",
+          "link": "https://electrek.co/2026/07/02/worlds-largest-second-life-ev-battery-factory-opens-in-just-six-weeks/",
+          "source": "Electrek",
+          "published": "2026-07-02T20:50:35+00:00"
+        },
         {
           "title": "Hydrogen for heavy trucks is dead, says world’s 2nd-largest oil company",
           "link": "https://electrek.co/2026/07/02/hydrogen-for-heavy-trucks-is-dead-says-worlds-2nd-largest-oil-company/",
@@ -372,12 +390,6 @@
           "link": "https://electrek.co/2026/06/24/tesla-sunrun-16gw-vpp-data-centers/",
           "source": "Electrek",
           "published": "2026-06-24T19:48:01+00:00"
-        },
-        {
-          "title": "Toyota scrapped the flagship Lexus EV, but a successor just got the green light",
-          "link": "https://electrek.co/2026/06/24/toyota-scraps-new-lexus-ev-successor-gets-green-light/",
-          "source": "Electrek",
-          "published": "2026-06-24T14:36:30+00:00"
         }
       ]
     },
@@ -575,10 +587,10 @@
       "count": 40,
       "items": [
         {
-          "title": "메타, 스페이스X처럼 남는 AI 컴퓨팅 자원 판매...\"자체 AI 수요 부진 타개\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212338",
+          "title": "앤트로픽, 자체 AI 칩 개발 착수…삼성전자에 제조 맡기나",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212377",
           "source": "AI타임스",
-          "published": "2026-07-02T18:26:29+00:00"
+          "published": "2026-07-03T10:54:45+00:00"
         },
         {
           "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
