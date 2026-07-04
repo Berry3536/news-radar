@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-07-03T19:17:21.576461+00:00",
+  "generated_at": "2026-07-04T02:39:20.815764+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "The DC metro area is getting its first en-route electric bus chargers",
+          "link": "https://electrek.co/2026/07/03/the-dc-metro-area-is-getting-its-first-en-route-electric-bus-chargers/",
+          "source": "Electrek",
+          "published": "2026-07-03T21:01:56+00:00"
+        },
         {
           "title": "Podcast: Tesla Model YL, Q2 deliveries, BMW iX5, and more",
           "link": "https://electrek.co/2026/07/03/podcast-tesla-model-yl-q2-deliveries-bmw-ix5-and-more/",
@@ -239,20 +245,20 @@
           "link": "https://insideevs.com/news/800326/mcmurtry-speirling-pure-production-model/",
           "source": "InsideEVs",
           "published": "2026-07-02T13:00:00+00:00"
-        },
-        {
-          "title": "Rivian tops Q2 delivery numbers and raises full-year 2026 outlook",
-          "link": "https://electrek.co/2026/07/02/rivian-tops-q2-delivery-numbers-and-raises-full-year-2026-outlook/",
-          "source": "Electrek",
-          "published": "2026-07-02T12:30:01+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 21,
+      "count": 20,
       "items": [
+        {
+          "title": "Vatrer LFP Battery Transforms EZ Go Golf Cart",
+          "link": "https://cleantechnica.com/2026/07/03/vatrer-lfp-battery-transforms-ez-go-golf-cart/",
+          "source": "CleanTechnica",
+          "published": "2026-07-03T23:34:31+00:00"
+        },
         {
           "title": "UK EV registrations hit 30% share in June as Tesla rebounds 42%",
           "link": "https://electrek.co/2026/07/03/uk-ev-registrations-june-2026-30-percent-share/",
@@ -350,12 +356,6 @@
           "published": "2026-06-30T05:40:46+00:00"
         },
         {
-          "title": "Jackery SolarVault 3 Taps Balcony Solar Potential At InterSolar Europe",
-          "link": "https://cleantechnica.com/2026/06/29/jackery-solarvault-3-taps-balcony-solar-potential-at-intersolar-europe/",
-          "source": "CleanTechnica",
-          "published": "2026-06-30T03:29:31+00:00"
-        },
-        {
           "title": "Lectric 4th of July e-bike Sale, EcoFlow extended Prime Day power station sale flash offers at up to 61% off, Greenworks batteries, more",
           "link": "https://electrek.co/2026/06/29/lectric-4th-of-july-e-bike-sale-ecoflow-extended-prime-day-power-station-sale-greenworks-more/",
           "source": "Electrek",
@@ -372,12 +372,6 @@
           "link": "https://electrek.co/2026/06/29/tesla-batteries-stolen-giga-nevada/",
           "source": "Electrek",
           "published": "2026-06-29T13:03:56+00:00"
-        },
-        {
-          "title": "CATL chief: solid-state batteries at ‘level 4 of 9,’ no leap until 2030",
-          "link": "https://electrek.co/2026/06/25/catl-solid-state-battery-level-4-2030/",
-          "source": "Electrek",
-          "published": "2026-06-25T15:27:07+00:00"
         }
       ]
     },
@@ -563,10 +557,10 @@
       "count": 40,
       "items": [
         {
-          "title": "구글, 차세대 '제미나이 플래시' 테스트 중...LM 아레나서 포착",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212397",
+          "title": "알리바바, 직원 '클로드 코드' 사용 금지...'중국 사용자 비밀 추적' 여파",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212423",
           "source": "AI타임스",
-          "published": "2026-07-03T18:24:16+00:00"
+          "published": "2026-07-04T11:31:00+00:00"
         },
         {
           "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
