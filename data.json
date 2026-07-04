@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-07-04T08:33:28.694132+00:00",
+  "generated_at": "2026-07-04T13:18:56.561560+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "GM is flooding dealers with Bolt EVs – is that part of the plan?",
+          "link": "https://electrek.co/2026/07/04/gm-is-flooding-dealers-with-bolt-evs-is-that-part-of-the-plan/",
+          "source": "Electrek",
+          "published": "2026-07-04T13:16:53+00:00"
+        },
         {
           "title": "The DC metro area is getting its first en-route electric bus chargers",
           "link": "https://electrek.co/2026/07/03/the-dc-metro-area-is-getting-its-first-en-route-electric-bus-chargers/",
@@ -239,12 +245,6 @@
           "link": "https://electrek.co/2026/07/02/this-electric-race-car-can-drive-upside-down-and-can-be-yours-for-a-cool-1-3m/",
           "source": "Electrek",
           "published": "2026-07-02T13:00:00+00:00"
-        },
-        {
-          "title": "This $1.4 Million EV Has A Weird Trick To Hit 60 MPH In 1.55 Seconds",
-          "link": "https://insideevs.com/news/800326/mcmurtry-speirling-pure-production-model/",
-          "source": "InsideEVs",
-          "published": "2026-07-02T13:00:00+00:00"
         }
       ]
     },
@@ -442,6 +442,12 @@
       "count": 18,
       "items": [
         {
+          "title": "Context is king: How Avride uses cloud VLMs as a safety net for delivery robots",
+          "link": "https://www.therobotreport.com/how-avride-uses-cloud-vlms-safety-net-delivery-robots/",
+          "source": "The Robot Report",
+          "published": "2026-07-04T12:30:37+00:00"
+        },
+        {
           "title": "\"휴머노이드는 왜 춤을 추었나\"",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47251",
           "source": "로봇신문",
@@ -538,12 +544,6 @@
           "published": "2026-06-29T15:41:42+00:00"
         },
         {
-          "title": "Advantages of hypoid gearing over worm, bevel and bevel-planetary",
-          "link": "https://www.therobotreport.com/advantages-of-hypoid-gearing-over-worm-bevel-and-bevel-planetary/",
-          "source": "The Robot Report",
-          "published": "2026-06-29T15:36:18+00:00"
-        },
-        {
           "title": "Video Friday: Give Robots a Hand",
           "link": "https://spectrum.ieee.org/video-friday-robot-grippers",
           "source": "IEEE Spectrum",
@@ -557,10 +557,10 @@
       "count": 1,
       "items": [
         {
-          "title": "[AI 이슈트렌드] 월드컵 32강 탈락 속 '호남 반도체 투자' 논란 주목",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212430",
+          "title": "'AI 토큰 지출' 지표 첫 하락세…AI 거품 붕괴 vs 수요 조정 의견 맞서",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212434",
           "source": "AI타임스",
-          "published": "2026-07-04T16:32:26+00:00"
+          "published": "2026-07-04T20:40:28+00:00"
         }
       ]
     }
