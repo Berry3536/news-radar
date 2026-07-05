@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T08:49:29.295199+00:00",
+  "generated_at": "2026-07-05T13:25:12.713466+00:00",
   "categories": [
     {
       "key": "ev",
@@ -460,16 +460,22 @@
       "count": 18,
       "items": [
         {
+          "title": "‘로보컵 2026 인천’ 나흘간 이어진 열전의 순간들",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47266",
+          "source": "로봇신문",
+          "published": "2026-07-05T20:51:07+00:00"
+        },
+        {
+          "title": "Humanoid says KinetIQ Ascend reinforcement learning approaches human-level dexterity",
+          "link": "https://www.therobotreport.com/humanoid-announces-kinetiq-ascend-reinforcement-learning-approach/",
+          "source": "The Robot Report",
+          "published": "2026-07-05T12:30:20+00:00"
+        },
+        {
           "title": "Context is king: How Avride uses cloud VLMs as a safety net for delivery robots",
           "link": "https://www.therobotreport.com/how-avride-uses-cloud-vlms-safety-net-delivery-robots/",
           "source": "The Robot Report",
           "published": "2026-07-04T12:30:37+00:00"
-        },
-        {
-          "title": "\"휴머노이드는 왜 춤을 추었나\"",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47251",
-          "source": "로봇신문",
-          "published": "2026-07-03T16:55:53+00:00"
         },
         {
           "title": "Video Friday: An Earthbound Mars Rover for the Moon",
@@ -556,12 +562,6 @@
           "published": "2026-06-29T17:45:53+00:00"
         },
         {
-          "title": "MBody AI expands service robotics operations to eleven states and Canada",
-          "link": "https://www.therobotreport.com/mbody-ai-expands-service-robotics-operations-eleven-states-canada/",
-          "source": "The Robot Report",
-          "published": "2026-06-29T15:41:42+00:00"
-        },
-        {
           "title": "Video Friday: Give Robots a Hand",
           "link": "https://spectrum.ieee.org/video-friday-robot-grippers",
           "source": "IEEE Spectrum",
@@ -575,10 +575,10 @@
       "count": 1,
       "items": [
         {
-          "title": "\"모델 다변화는 성공, 거버넌스는 낙제점\"…기업 AI '통제 격차' 본격화",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212446",
+          "title": "씽크포비엘 “GPU보다 부족한 건 AI 신뢰성 전문가…규제는 발전과 동일 선상”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212448",
           "source": "AI타임스",
-          "published": "2026-07-05T17:16:07+00:00"
+          "published": "2026-07-05T19:42:13+00:00"
         }
       ]
     }
