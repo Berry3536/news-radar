@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T19:07:42.395611+00:00",
+  "generated_at": "2026-07-05T02:50:13.464974+00:00",
   "categories": [
     {
       "key": "ev",
@@ -251,8 +251,20 @@
     {
       "key": "battery",
       "label": "배터리",
-      "count": 21,
+      "count": 23,
       "items": [
+        {
+          "title": "Electric School Buses Put Batteries To Work To Stabilize Grids",
+          "link": "https://cleantechnica.com/2026/07/04/electric-school-buses-put-batteries-to-work-to-stabilize-grids/",
+          "source": "CleanTechnica",
+          "published": "2026-07-05T00:52:09+00:00"
+        },
+        {
+          "title": "For The US Auto Market, What Is The Next Step, Battery Electric Vehicles Or Hybrids?",
+          "link": "https://cleantechnica.com/2026/07/04/for-the-us-auto-market-what-is-the-next-step-battery-electric-vehicles-or-hybrids/",
+          "source": "CleanTechnica",
+          "published": "2026-07-05T00:44:06+00:00"
+        },
         {
           "title": "CATL is building more than 200 battery swap stations EVERY MONTH",
           "link": "https://electrek.co/2026/07/04/catl-is-building-more-than-200-battery-swap-stations-every-month/",
