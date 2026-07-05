@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-07-05T13:25:12.713466+00:00",
+  "generated_at": "2026-07-05T19:13:42.489144+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "This 2023 Tesla Model 3 Has The 'Durable' Battery. It Still Degraded",
+          "link": "https://insideevs.com/news/800649/model-3-island-maui-battery/",
+          "source": "InsideEVs",
+          "published": "2026-07-05T15:59:57+00:00"
+        },
+        {
+          "title": "The grid was melting down in last week’s heat – until EVs came to the rescue",
+          "link": "https://electrek.co/2026/07/05/the-grid-was-melting-down-in-last-weeks-heat-until-evs-came-to-the-rescue/",
+          "source": "Electrek",
+          "published": "2026-07-05T14:53:09+00:00"
+        },
+        {
+          "title": "Hurricanes, heat domes, and holding up the grid with home batteries [update]",
+          "link": "https://electrek.co/2026/07/05/hurricanes-heat-domes-and-holding-up-the-grid-with-home-batteries/",
+          "source": "Electrek",
+          "published": "2026-07-05T12:20:00+00:00"
+        },
         {
           "title": "Kalmar is building – and selling! – these massive electric reach stackers in China",
           "link": "https://electrek.co/2026/07/04/kalmar-is-building-and-selling-these-massive-electric-reach-stackers-in-china/",
@@ -227,32 +245,38 @@
           "link": "https://electrek.co/2026/07/02/musk-shuts-down-optimus-4d-chess-theory/",
           "source": "Electrek",
           "published": "2026-07-02T15:26:37+00:00"
-        },
-        {
-          "title": "Toyota is paying up after canceled flagship EV triggers ‘unprecedented’ shock",
-          "link": "https://electrek.co/2026/07/02/toyota-pays-up-after-canceled-ev-triggers-unprecedented-shock/",
-          "source": "Electrek",
-          "published": "2026-07-02T14:43:54+00:00"
-        },
-        {
-          "title": "Lucid overhauls its entire C-suite under new CEO after 18% layoffs",
-          "link": "https://electrek.co/2026/07/02/lucid-c-suite-overhaul-napoli/",
-          "source": "Electrek",
-          "published": "2026-07-02T14:33:57+00:00"
-        },
-        {
-          "title": "Yadea shows off full-suspension commuter e-bike at Eurobike 2026",
-          "link": "https://electrek.co/2026/07/02/yadea-shows-off-full-suspension-commuter-e-bike-at-eurobike-2026/",
-          "source": "Electrek",
-          "published": "2026-07-02T14:09:59+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 23,
+      "count": 26,
       "items": [
+        {
+          "title": "This 2023 Tesla Model 3 Has The 'Durable' Battery. It Still Degraded",
+          "link": "https://insideevs.com/news/800649/model-3-island-maui-battery/",
+          "source": "InsideEVs",
+          "published": "2026-07-05T15:59:57+00:00"
+        },
+        {
+          "title": "Battery Swapping Is Finally Coming To The USA, Two Wheels At A Time",
+          "link": "https://cleantechnica.com/2026/07/05/battery-swapping-us-e-bikes-honda-nyc/",
+          "source": "CleanTechnica",
+          "published": "2026-07-05T15:57:12+00:00"
+        },
+        {
+          "title": "The grid was melting down in last week’s heat – until EVs came to the rescue",
+          "link": "https://electrek.co/2026/07/05/the-grid-was-melting-down-in-last-weeks-heat-until-evs-came-to-the-rescue/",
+          "source": "Electrek",
+          "published": "2026-07-05T14:53:09+00:00"
+        },
+        {
+          "title": "Hurricanes, heat domes, and holding up the grid with home batteries [update]",
+          "link": "https://electrek.co/2026/07/05/hurricanes-heat-domes-and-holding-up-the-grid-with-home-batteries/",
+          "source": "Electrek",
+          "published": "2026-07-05T12:20:00+00:00"
+        },
         {
           "title": "Electric School Buses Put Batteries To Work To Stabilize Grids",
           "link": "https://cleantechnica.com/2026/07/04/electric-school-buses-put-batteries-to-work-to-stabilize-grids/",
@@ -336,12 +360,6 @@
           "link": "https://electrek.co/2026/07/01/juiced-scrambler-e-bikes-baseus-x1-pro-solar-security-camera-greenworks-80v-crossoverz-more/",
           "source": "Electrek",
           "published": "2026-07-01T18:00:00+00:00"
-        },
-        {
-          "title": "AVILOO Launches UK Used EV Battery Warranty",
-          "link": "https://cleantechnica.com/2026/07/01/aviloo-launches-uk-used-ev-battery-warranty/",
-          "source": "CleanTechnica",
-          "published": "2026-07-01T16:48:48+00:00"
         },
         {
           "title": "BYD set to crush Tesla again in Q2 EV sales with 557,000 deliveries",
