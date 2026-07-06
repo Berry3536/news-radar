@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T15:25:55.694361+00:00",
+  "generated_at": "2026-07-06T19:52:18.974571+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,58 @@
       "count": 40,
       "items": [
         {
+          "title": "Tesla app code reveals cabin camera will verify driver before FSD",
+          "link": "https://electrek.co/2026/07/06/tesla-cabin-camera-fsd-identity-check/",
+          "source": "Electrek",
+          "published": "2026-07-06T19:36:17+00:00"
+        },
+        {
+          "title": "Kia is killing off its flagship sedan as it shifts to more efficient, lower-cost EVs",
+          "link": "https://electrek.co/2026/07/06/kia-killing-off-flagship-sedan-lower-cost-evs/",
+          "source": "Electrek",
+          "published": "2026-07-06T19:34:28+00:00"
+        },
+        {
+          "title": "Tesla Cybercab: mass-producing a car it can’t sell or drive itself",
+          "link": "https://electrek.co/2026/07/06/tesla-cybercab-production-before-autonomy/",
+          "source": "Electrek",
+          "published": "2026-07-06T18:29:40+00:00"
+        },
+        {
+          "title": "Amazon slashes $410+ off Worx 1/4-acre robot mower, 50% drop on Anker SOLIX S2000 power station, Autel level 2 EV charger $909, more",
+          "link": "https://electrek.co/2026/07/06/green-deals-jul-6/",
+          "source": "Electrek",
+          "published": "2026-07-06T18:00:00+00:00"
+        },
+        {
+          "title": "GM halts shipments and recalls nearly 15,000 Cadillac electric SUVs",
+          "link": "https://electrek.co/2026/07/06/gm-halts-shipments-recalls-nearly-15000-cadillac-electric-suvs/",
+          "source": "Electrek",
+          "published": "2026-07-06T17:59:12+00:00"
+        },
+        {
+          "title": "Jasion Hunter Pro review: A folding fat tire full-suspension e-bike for cheap",
+          "link": "https://electrek.co/2026/07/06/jasion-hunter-pro-review-a-folding-fat-tire-full-suspension-e-bike-for-cheap/",
+          "source": "Electrek",
+          "published": "2026-07-06T17:58:29+00:00"
+        },
+        {
+          "title": "Skip The Rivian R2 Waitlist For Just $20,000 Over Sticker Price",
+          "link": "https://insideevs.com/news/800759/rivian-r2-used-first-80k/",
+          "source": "InsideEVs",
+          "published": "2026-07-06T17:34:39+00:00"
+        },
+        {
           "title": "BMW 코리아, 7월 온라인 한정 에디션은 순수 전기 라인업",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44069",
           "source": "모터그래프",
           "published": "2026-07-06T17:02:28+00:00"
+        },
+        {
+          "title": "Hyundai’s electric SUVs are winning over buyers, and it’s easy to see why",
+          "link": "https://electrek.co/2026/07/06/hyundais-evs-winning-over-buyers/",
+          "source": "Electrek",
+          "published": "2026-07-06T17:01:15+00:00"
         },
         {
           "title": "BYD’s flagship electric sedan receives 65,000 locked-in orders",
@@ -197,62 +245,20 @@
           "link": "https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/",
           "source": "Electrek",
           "published": "2026-07-03T00:34:03+00:00"
-        },
-        {
-          "title": "Polestar EVs Are A Whopping $25,000 Off After The Brand Got Kicked Out Of America",
-          "link": "https://insideevs.com/news/800504/polestar-3-deals-banned-america/",
-          "source": "InsideEVs",
-          "published": "2026-07-03T00:10:41+00:00"
-        },
-        {
-          "title": "Iberdrola kicks off its first large-scale battery project in the US",
-          "link": "https://electrek.co/2026/07/02/iberdrola-kicks-off-its-first-large-scale-battery-project-in-the-us/",
-          "source": "Electrek",
-          "published": "2026-07-02T22:33:31+00:00"
-        },
-        {
-          "title": "The Hyundai IONIQ 3 is the affordable electric hatch we want but can’t have",
-          "link": "https://electrek.co/2026/07/02/hyundai-ioniq-3-electric-hatch-we-want-but-cant-have/",
-          "source": "Electrek",
-          "published": "2026-07-02T21:39:54+00:00"
-        },
-        {
-          "title": "‘World’s largest’ second-life EV battery factory opens in just six weeks",
-          "link": "https://electrek.co/2026/07/02/worlds-largest-second-life-ev-battery-factory-opens-in-just-six-weeks/",
-          "source": "Electrek",
-          "published": "2026-07-02T20:50:35+00:00"
-        },
-        {
-          "title": "Polestar EVs are a smoking deal at $25k off now that they’re banned in the US",
-          "link": "https://electrek.co/2026/07/02/polestar-4s-are-a-smoking-deal-at-25k-off-now-that-theyre-banned-in-the-us/",
-          "source": "Electrek",
-          "published": "2026-07-02T20:19:26+00:00"
-        },
-        {
-          "title": "This Is Tesla's New, Bigger Model Y For The U.S.",
-          "link": "https://insideevs.com/news/800498/tesla-model-y-l-us/",
-          "source": "InsideEVs",
-          "published": "2026-07-02T20:11:00+00:00"
-        },
-        {
-          "title": "BYD Reclaimed The EV Sales Crown Despite Tesla's Huge Quarter",
-          "link": "https://insideevs.com/news/800489/byd-tesla-ev-crown-quarter/",
-          "source": "InsideEVs",
-          "published": "2026-07-02T19:50:20+00:00"
-        },
-        {
-          "title": "Tesla launches Model Y L in US — 6 seats, 325 miles, $61,990",
-          "link": "https://electrek.co/2026/07/02/tesla-model-y-l-us-launch-61990/",
-          "source": "Electrek",
-          "published": "2026-07-02T18:07:59+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 28,
+      "count": 26,
       "items": [
+        {
+          "title": "Jasion Hunter Pro review: A folding fat tire full-suspension e-bike for cheap",
+          "link": "https://electrek.co/2026/07/06/jasion-hunter-pro-review-a-folding-fat-tire-full-suspension-e-bike-for-cheap/",
+          "source": "Electrek",
+          "published": "2026-07-06T17:58:29+00:00"
+        },
         {
           "title": "Future Proof Shipping Wasn’t Future Proof For Hydrogen Cargo",
           "link": "https://cleantechnica.com/2026/07/06/future-proof-shipping-hydrogen-cargo/",
@@ -350,22 +356,10 @@
           "published": "2026-07-02T13:00:00+00:00"
         },
         {
-          "title": "New “Air” Battery Makes Larger Electric Aircraft Possible",
-          "link": "https://cleantechnica.com/2026/07/02/electric-aircraft-new-battery-lithium-air-solid-state/",
-          "source": "CleanTechnica",
-          "published": "2026-07-02T12:17:48+00:00"
-        },
-        {
           "title": "E-bikes bring both bad and good, but one greatly outweighs the other",
           "link": "https://electrek.co/2026/07/01/e-bikes-bring-both-bad-and-good-but-one-greatly-outweighs-the-other/",
           "source": "Electrek",
           "published": "2026-07-02T06:23:18+00:00"
-        },
-        {
-          "title": "Firmus Secures 600 MW Energy Supply Agreement in South Australia, Linked to 1.2 GW of New Renewable Generation & Battery Storage",
-          "link": "https://cleantechnica.com/2026/07/01/firmus-secures-600-mw-energy-supply-agreement-in-south-australia-linked-to-1-2-gw-of-new-renewable-generation-battery-storage/",
-          "source": "CleanTechnica",
-          "published": "2026-07-02T01:41:36+00:00"
         },
         {
           "title": "Juiced Scrambler e-bikes at new lows from $1,694, Baseus X1 Pro solar security camera $140, Greenworks 80V CrossoverZ bundle, more",
@@ -390,12 +384,6 @@
           "link": "https://insideevs.com/news/800125/bmw-ix5-neue-klasse-ev-electric-suv/",
           "source": "InsideEVs",
           "published": "2026-06-30T15:01:00+00:00"
-        },
-        {
-          "title": "An App Flagged This Tesla Battery As Degraded. The Car Said It Was Worse",
-          "link": "https://insideevs.com/news/800168/tesla-demo-car-battery-test/",
-          "source": "InsideEVs",
-          "published": "2026-06-30T12:20:51+00:00"
         },
         {
           "title": "New CPSC rule could dramatically change e-bikes in the US",
@@ -428,6 +416,12 @@
       "label": "모터",
       "count": 8,
       "items": [
+        {
+          "title": "Jasion Hunter Pro review: A folding fat tire full-suspension e-bike for cheap",
+          "link": "https://electrek.co/2026/07/06/jasion-hunter-pro-review-a-folding-fat-tire-full-suspension-e-bike-for-cheap/",
+          "source": "Electrek",
+          "published": "2026-07-06T17:58:29+00:00"
+        },
         {
           "title": "F1 도전하는 2008년생 이규호, GB3 3라운드 레이스2 5위",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44067",
@@ -469,20 +463,20 @@
           "link": "https://electrek.co/2026/06/28/leading-electric-dirt-bike-stark-varg-lets-owners-download-a-new-trick/",
           "source": "Electrek",
           "published": "2026-06-28T13:39:37+00:00"
-        },
-        {
-          "title": "Tesla Semi slides on ice and impressively regains control",
-          "link": "https://electrek.co/2026/06/26/tesla-semi-stability-control-ice-video/",
-          "source": "Electrek",
-          "published": "2026-06-26T13:32:42+00:00"
         }
       ]
     },
     {
       "key": "robot",
       "label": "로봇",
-      "count": 18,
+      "count": 19,
       "items": [
+        {
+          "title": "Quantum Systems raises $1.2B to expand drone production and deployments",
+          "link": "https://www.therobotreport.com/quantum-systems-raises-1-2b-expand-drone-production-deployments/",
+          "source": "The Robot Report",
+          "published": "2026-07-06T18:29:07+00:00"
+        },
         {
           "title": "서울대 로보틱스 연구소, 국가연구소(NRL 2.0) 선정",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47293",
@@ -506,6 +500,12 @@
           "link": "https://www.therobotreport.com/how-avride-uses-cloud-vlms-safety-net-delivery-robots/",
           "source": "The Robot Report",
           "published": "2026-07-04T12:30:37+00:00"
+        },
+        {
+          "title": "Japan Pioneered Humanoid Robots—Can It Now Catch China?",
+          "link": "https://spectrum.ieee.org/humanoid-robots-japan",
+          "source": "IEEE Spectrum",
+          "published": "2026-07-04T11:00:01+00:00"
         },
         {
           "title": "Video Friday: An Earthbound Mars Rover for the Moon",
@@ -578,12 +578,6 @@
           "link": "https://www.therobotreport.com/sonair-3d-ultrasonic-sensor-is-now-safety-certified/",
           "source": "The Robot Report",
           "published": "2026-06-30T09:55:46+00:00"
-        },
-        {
-          "title": "Insights behind Kinisi’s acquisition by Bear Robotics",
-          "link": "https://www.therobotreport.com/insights-behind-kinisi-acquisition-by-bear-robotics/",
-          "source": "The Robot Report",
-          "published": "2026-06-29T22:29:11+00:00"
         },
         {
           "title": "Video Friday: Give Robots a Hand",
