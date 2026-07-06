@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T10:14:27.314237+00:00",
+  "generated_at": "2026-07-06T15:25:55.694361+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,36 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44069",
           "source": "모터그래프",
           "published": "2026-07-06T17:02:28+00:00"
+        },
+        {
+          "title": "BYD’s flagship electric sedan receives 65,000 locked-in orders",
+          "link": "https://electrek.co/2026/07/06/byds-flagship-electric-sedan-receives-65000-locked-in-orders/",
+          "source": "Electrek",
+          "published": "2026-07-06T14:35:27+00:00"
+        },
+        {
+          "title": "After EV Batteries, China Wants To Dominate Car Brains Too",
+          "link": "https://insideevs.com/news/800737/chinese-carmakers-ai-chips-manufacturing/",
+          "source": "InsideEVs",
+          "published": "2026-07-06T14:06:53+00:00"
+        },
+        {
+          "title": "Tesla driver caught asleep at 100 km/h — how monitoring failed",
+          "link": "https://electrek.co/2026/07/06/tesla-driver-asleep-monitoring-gap/",
+          "source": "Electrek",
+          "published": "2026-07-06T14:03:39+00:00"
+        },
+        {
+          "title": "Lawsuit claims Boeing-backed Wisk rushed eVTOL software testing",
+          "link": "https://electrek.co/2026/07/06/whistleblower-claims-boeing-backed-wisk-rushed-testing-now-theres-a-lawsuit/",
+          "source": "Electrek",
+          "published": "2026-07-06T13:11:19+00:00"
+        },
+        {
+          "title": "Cadillac Recalls 14,000 Vistiq EVs Over Child-Trapping Risk",
+          "link": "https://insideevs.com/news/800711/cadillac-vistiq-recall-seat-trap/",
+          "source": "InsideEVs",
+          "published": "2026-07-06T11:54:22+00:00"
         },
         {
           "title": "Here are the best electric bikes you can buy at every price level in July 2026",
@@ -215,44 +245,26 @@
           "link": "https://electrek.co/2026/07/02/tesla-model-y-l-us-launch-61990/",
           "source": "Electrek",
           "published": "2026-07-02T18:07:59+00:00"
-        },
-        {
-          "title": "Velotric + Heybike July 4th e-bike sales with up to $828 savings, Samsung Bespoke AI ventless washer/dryer $1,850, Greenworks, more",
-          "link": "https://electrek.co/2026/07/02/velotric-heybike-july-4th-e-bike-sales-samsung-bespoke-ai-ventless-washer-dryer-greenworks-more/",
-          "source": "Electrek",
-          "published": "2026-07-02T18:00:00+00:00"
-        },
-        {
-          "title": "Kia axed its affordable EV, but a replacement is set to go on sale soon",
-          "link": "https://electrek.co/2026/07/02/kia-axed-affordable-ev-replacement-will-go-on-sale-soon/",
-          "source": "Electrek",
-          "published": "2026-07-02T17:39:47+00:00"
-        },
-        {
-          "title": "Hydrogen for heavy trucks is dead, says world’s 2nd-largest oil company",
-          "link": "https://electrek.co/2026/07/02/hydrogen-for-heavy-trucks-is-dead-says-worlds-2nd-largest-oil-company/",
-          "source": "Electrek",
-          "published": "2026-07-02T17:09:53+00:00"
-        },
-        {
-          "title": "Lucid Just Had A Big Executive Shakeup. Here's What You Need To Know",
-          "link": "https://insideevs.com/news/800467/lucid-cfo-leadership-changes-ceo/",
-          "source": "InsideEVs",
-          "published": "2026-07-02T16:31:39+00:00"
-        },
-        {
-          "title": "Tesla Sales Roared Back In Q2, After Months Of Downward Spiraling",
-          "link": "https://insideevs.com/news/800470/tesla-record-ev-sales-second-quarter/",
-          "source": "InsideEVs",
-          "published": "2026-07-02T16:08:51+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 26,
+      "count": 28,
       "items": [
+        {
+          "title": "Future Proof Shipping Wasn’t Future Proof For Hydrogen Cargo",
+          "link": "https://cleantechnica.com/2026/07/06/future-proof-shipping-hydrogen-cargo/",
+          "source": "CleanTechnica",
+          "published": "2026-07-06T14:52:52+00:00"
+        },
+        {
+          "title": "After EV Batteries, China Wants To Dominate Car Brains Too",
+          "link": "https://insideevs.com/news/800737/chinese-carmakers-ai-chips-manufacturing/",
+          "source": "InsideEVs",
+          "published": "2026-07-06T14:06:53+00:00"
+        },
         {
           "title": "This 2023 Tesla Model 3 Has The 'Durable' Battery. It Still Degraded",
           "link": "https://insideevs.com/news/800649/model-3-island-maui-battery/",
@@ -414,7 +426,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 9,
+      "count": 8,
       "items": [
         {
           "title": "F1 도전하는 2008년생 이규호, GB3 3라운드 레이스2 5위",
@@ -463,12 +475,6 @@
           "link": "https://electrek.co/2026/06/26/tesla-semi-stability-control-ice-video/",
           "source": "Electrek",
           "published": "2026-06-26T13:32:42+00:00"
-        },
-        {
-          "title": "Range Rover’s first EV will beat its gas counterpart, but it may cost over $150,000",
-          "link": "https://electrek.co/2026/06/25/range-rovers-ev-beat-gas-model-cost-150000/",
-          "source": "Electrek",
-          "published": "2026-06-25T19:15:06+00:00"
         }
       ]
     },
@@ -482,6 +488,12 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47293",
           "source": "로봇신문",
           "published": "2026-07-06T17:51:05+00:00"
+        },
+        {
+          "title": "RoboBusiness 2026 call for speakers closes soon",
+          "link": "https://www.therobotreport.com/robobusiness-2026-opens-call-for-speakers/",
+          "source": "The Robot Report",
+          "published": "2026-07-06T13:26:34+00:00"
         },
         {
           "title": "Humanoid says KinetIQ Ascend reinforcement learning approaches human-level dexterity",
@@ -572,12 +584,6 @@
           "link": "https://www.therobotreport.com/insights-behind-kinisi-acquisition-by-bear-robotics/",
           "source": "The Robot Report",
           "published": "2026-06-29T22:29:11+00:00"
-        },
-        {
-          "title": "BMW Group deploys Figure 03 humanoid after tests with previous version",
-          "link": "https://www.therobotreport.com/bmw-group-deploys-figure-03-humanoid-after-tests-previous-version/",
-          "source": "The Robot Report",
-          "published": "2026-06-29T17:45:53+00:00"
         },
         {
           "title": "Video Friday: Give Robots a Hand",
