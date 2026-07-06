@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-07-06T02:56:47.977541+00:00",
+  "generated_at": "2026-07-06T10:14:27.314237+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "BMW 코리아, 7월 온라인 한정 에디션은 순수 전기 라인업",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44069",
+          "source": "모터그래프",
+          "published": "2026-07-06T17:02:28+00:00"
+        },
+        {
+          "title": "Here are the best electric bikes you can buy at every price level in July 2026",
+          "link": "https://electrek.co/2026/07/06/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/",
+          "source": "Electrek",
+          "published": "2026-07-06T09:38:00+00:00"
+        },
+        {
+          "title": "Walmart’s EV Charging Network Shows No Signs Of Slowing Down",
+          "link": "https://insideevs.com/news/800682/walmart-ev-charging-network-no-slowing-down/",
+          "source": "InsideEVs",
+          "published": "2026-07-06T08:28:49+00:00"
+        },
+        {
+          "title": "Rivian R2 70-MPH Highway Range Test: Does It Live Up To The Hype?",
+          "link": "https://insideevs.com/news/800671/rivian-r2-70-mph-highway-range-test/",
+          "source": "InsideEVs",
+          "published": "2026-07-06T07:23:55+00:00"
+        },
         {
           "title": "This 2023 Tesla Model 3 Has The 'Durable' Battery. It Still Degraded",
           "link": "https://insideevs.com/news/800649/model-3-island-maui-battery/",
@@ -59,12 +83,6 @@
           "link": "https://electrek.co/2026/07/03/hyundai-ioniq-5-remains-top-selling-ev-sales-top-20000/",
           "source": "Electrek",
           "published": "2026-07-03T18:10:24+00:00"
-        },
-        {
-          "title": "운전의 즐거움을 향한 순수함, 미드십을 알려주마!",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44054",
-          "source": "모터그래프",
-          "published": "2026-07-03T17:16:19+00:00"
         },
         {
           "title": "Volkswagen’s next electric SUV is almost here, and it’s not just a rebadged ID.4 [Images]",
@@ -227,24 +245,6 @@
           "link": "https://insideevs.com/news/800470/tesla-record-ev-sales-second-quarter/",
           "source": "InsideEVs",
           "published": "2026-07-02T16:08:51+00:00"
-        },
-        {
-          "title": "Rivian Just Had A Great Quarter. And The R2 Craze Is Just Getting Started",
-          "link": "https://insideevs.com/news/800466/rivian-q2-2026-sales/",
-          "source": "InsideEVs",
-          "published": "2026-07-02T15:54:57+00:00"
-        },
-        {
-          "title": "The Jeep Recon EV will launch in Europe, plus a new China-made SUV and more",
-          "link": "https://electrek.co/2026/07/02/jeep-recon-ev-launch-europe-plus-china-made-suv/",
-          "source": "Electrek",
-          "published": "2026-07-02T15:54:54+00:00"
-        },
-        {
-          "title": "Elon Musk shuts down ‘4D chess’ theory on Tesla Optimus production",
-          "link": "https://electrek.co/2026/07/02/musk-shuts-down-optimus-4d-chess-theory/",
-          "source": "Electrek",
-          "published": "2026-07-02T15:26:37+00:00"
         }
       ]
     },
@@ -417,10 +417,10 @@
       "count": 9,
       "items": [
         {
-          "title": "한성모터스, 여름 맞이 감사 캠페인",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44058",
+          "title": "F1 도전하는 2008년생 이규호, GB3 3라운드 레이스2 5위",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44067",
           "source": "모터그래프",
-          "published": "2026-07-03T17:15:02+00:00"
+          "published": "2026-07-06T17:02:04+00:00"
         },
         {
           "title": "Wheel-E Podcast: Gazelle’s Bosch hub motor bikes, Eurobike, more",
@@ -478,10 +478,10 @@
       "count": 18,
       "items": [
         {
-          "title": "‘로보컵 2026 인천’ 나흘간 이어진 열전의 순간들",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47266",
+          "title": "서울대 로보틱스 연구소, 국가연구소(NRL 2.0) 선정",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47293",
           "source": "로봇신문",
-          "published": "2026-07-05T20:51:07+00:00"
+          "published": "2026-07-06T17:51:05+00:00"
         },
         {
           "title": "Humanoid says KinetIQ Ascend reinforcement learning approaches human-level dexterity",
@@ -593,10 +593,10 @@
       "count": 1,
       "items": [
         {
-          "title": "이스트소프트, AX 사업 성장으로 올해 수주 100억 돌파 전망",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212450",
+          "title": "메타 AI, '예약 작업' 도입 준비…챗봇 넘어 '에이전트'로 진화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212456",
           "source": "AI타임스",
-          "published": "2026-07-06T11:40:17+00:00"
+          "published": "2026-07-06T18:37:29+00:00"
         }
       ]
     }
