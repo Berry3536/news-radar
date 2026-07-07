@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-07-06T19:52:18.974571+00:00",
+  "generated_at": "2026-07-07T02:51:00.503688+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Tesla in-cabin camera fails to prevent 60 mph naps as Wisk Aero faces lawsuit",
+          "link": "https://electrek.co/2026/07/06/tesla-in-cabin-camera-fails-to-prevent-60-mph-naps-as-wisk-aero-faces-lawsuit/",
+          "source": "Electrek",
+          "published": "2026-07-07T01:50:00+00:00"
+        },
+        {
+          "title": "Mercedes' New Production Plan Could Make The 'Baby' G-Class EV Far Cheaper",
+          "link": "https://insideevs.com/news/800760/mercedes-g-class-baby-hungary/",
+          "source": "InsideEVs",
+          "published": "2026-07-06T23:03:14+00:00"
+        },
+        {
+          "title": "The Polestar 4 Is $25,000 Off. It's A Great Deal On A Car I Love",
+          "link": "https://insideevs.com/news/800784/polestar-4-very-good-discount/",
+          "source": "InsideEVs",
+          "published": "2026-07-06T22:11:24+00:00"
+        },
+        {
+          "title": "BMW’s iX4 EV captured with a new look as its debut nears [Images]",
+          "link": "https://electrek.co/2026/07/06/bmw-ix4-ev-spotted-new-look-debut-nears-images/",
+          "source": "Electrek",
+          "published": "2026-07-06T21:32:19+00:00"
+        },
         {
           "title": "Tesla app code reveals cabin camera will verify driver before FSD",
           "link": "https://electrek.co/2026/07/06/tesla-cabin-camera-fsd-identity-check/",
@@ -221,37 +245,13 @@
           "link": "https://electrek.co/2026/07/03/first-ever-volvo-a30-electric-articulated-haul-trucks-get-to-work/",
           "source": "Electrek",
           "published": "2026-07-03T12:31:54+00:00"
-        },
-        {
-          "title": "How America’s Policy Whiplash Derailed The EV Transition",
-          "link": "https://insideevs.com/news/800503/us-ev-sales-2030-bnef/",
-          "source": "InsideEVs",
-          "published": "2026-07-03T12:00:00+00:00"
-        },
-        {
-          "title": "The coolest e-bikes (and things) we saw at Eurobike 2026",
-          "link": "https://electrek.co/2026/07/03/the-coolest-e-bikes-and-things-we-saw-at-eurobike-2026/",
-          "source": "Electrek",
-          "published": "2026-07-03T11:14:45+00:00"
-        },
-        {
-          "title": "The Hyundai Ioniq 5 Is Now America's Best-Selling EV That Isn't A Tesla",
-          "link": "https://insideevs.com/news/800493/ioniq-5-sales-tesla-rivian/",
-          "source": "InsideEVs",
-          "published": "2026-07-03T11:00:00+00:00"
-        },
-        {
-          "title": "Tesla caps employee AI spending at $200/week except for Grok",
-          "link": "https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/",
-          "source": "Electrek",
-          "published": "2026-07-03T00:34:03+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 26,
+      "count": 25,
       "items": [
         {
           "title": "Jasion Hunter Pro review: A folding fat tire full-suspension e-bike for cheap",
@@ -380,12 +380,6 @@
           "published": "2026-06-30T19:37:01+00:00"
         },
         {
-          "title": "BMW iX5 Blows Away The Competition With 460-kW Charging, 435-Mile Range",
-          "link": "https://insideevs.com/news/800125/bmw-ix5-neue-klasse-ev-electric-suv/",
-          "source": "InsideEVs",
-          "published": "2026-06-30T15:01:00+00:00"
-        },
-        {
           "title": "New CPSC rule could dramatically change e-bikes in the US",
           "link": "https://electrek.co/2026/06/29/new-cpsc-rule-could-dramatically-change-e-bikes-in-the-us/",
           "source": "Electrek",
@@ -471,6 +465,18 @@
       "label": "로봇",
       "count": 19,
       "items": [
+        {
+          "title": "Kraken Robotics acquires Covelya Group for $615M",
+          "link": "https://www.therobotreport.com/kraken-robotics-acquires-covelya-group-for-615m/",
+          "source": "The Robot Report",
+          "published": "2026-07-06T21:00:54+00:00"
+        },
+        {
+          "title": "Boston Dynamics brings its legged robots to the FIFA World Cup",
+          "link": "https://www.therobotreport.com/boston-dynamics-brings-its-legged-robots-to-the-fifa-world-cup/",
+          "source": "The Robot Report",
+          "published": "2026-07-06T20:45:48+00:00"
+        },
         {
           "title": "Quantum Systems raises $1.2B to expand drone production and deployments",
           "link": "https://www.therobotreport.com/quantum-systems-raises-1-2b-expand-drone-production-deployments/",
@@ -568,18 +574,6 @@
           "published": "2026-06-30T13:00:33+00:00"
         },
         {
-          "title": "Soft, robotic cells from morph embed physical AI into hardware",
-          "link": "https://www.therobotreport.com/soft-robotic-cells-from-morph-embed-physical-ai-into-hardware/",
-          "source": "The Robot Report",
-          "published": "2026-06-30T12:30:35+00:00"
-        },
-        {
-          "title": "Sonair ADAR One 3D ultrasonic sensor is now safety-certified",
-          "link": "https://www.therobotreport.com/sonair-3d-ultrasonic-sensor-is-now-safety-certified/",
-          "source": "The Robot Report",
-          "published": "2026-06-30T09:55:46+00:00"
-        },
-        {
           "title": "Video Friday: Give Robots a Hand",
           "link": "https://spectrum.ieee.org/video-friday-robot-grippers",
           "source": "IEEE Spectrum",
@@ -593,10 +587,10 @@
       "count": 1,
       "items": [
         {
-          "title": "메타 AI, '예약 작업' 도입 준비…챗봇 넘어 '에이전트'로 진화",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212456",
+          "title": "[7월6일] AI의 숨은 청구서…데이터센터 밖에서 더 커지는 환경 비용",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212455",
           "source": "AI타임스",
-          "published": "2026-07-06T18:37:29+00:00"
+          "published": "2026-07-07T07:00:00+00:00"
         }
       ]
     }
