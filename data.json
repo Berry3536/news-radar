@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-07-07T02:51:00.503688+00:00",
+  "generated_at": "2026-07-07T09:36:46.566134+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "궁극의 안식처, 아메리칸 럭셔리 SUV, 올 뉴 링컨 내비게이터",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44075",
+          "source": "모터그래프",
+          "published": "2026-07-07T16:56:32+00:00"
+        },
+        {
+          "title": "The Alpine A110 EV Has One Job: Prove Electric Sports Cars Can Be Light",
+          "link": "https://insideevs.com/news/800823/alpine-a110-future-mule-goodwood/",
+          "source": "InsideEVs",
+          "published": "2026-07-07T09:35:15+00:00"
+        },
+        {
+          "title": "Volvo Is Bringing Native Apple Music To Over Two Million Cars",
+          "link": "https://insideevs.com/news/800822/volvo-cars-native-apple-music-software-update/",
+          "source": "InsideEVs",
+          "published": "2026-07-07T09:25:43+00:00"
+        },
+        {
+          "title": "The New Polestar 4 Wagon Is Actually Called The ‘SUV’",
+          "link": "https://insideevs.com/news/800811/new-polestar-4-suv/",
+          "source": "InsideEVs",
+          "published": "2026-07-07T08:05:33+00:00"
+        },
+        {
+          "title": "Canada’s Latest EV Is A 1960s Cafe Racer With Pedals",
+          "link": "https://insideevs.com/news/800793/canada-ev-e-bike-beachman-aviator/",
+          "source": "InsideEVs",
+          "published": "2026-07-07T06:17:44+00:00"
+        },
         {
           "title": "Tesla in-cabin camera fails to prevent 60 mph naps as Wisk Aero faces lawsuit",
           "link": "https://electrek.co/2026/07/06/tesla-in-cabin-camera-fails-to-prevent-60-mph-naps-as-wisk-aero-faces-lawsuit/",
@@ -71,12 +101,6 @@
           "link": "https://insideevs.com/news/800759/rivian-r2-used-first-80k/",
           "source": "InsideEVs",
           "published": "2026-07-06T17:34:39+00:00"
-        },
-        {
-          "title": "BMW 코리아, 7월 온라인 한정 에디션은 순수 전기 라인업",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44069",
-          "source": "모터그래프",
-          "published": "2026-07-06T17:02:28+00:00"
         },
         {
           "title": "Hyundai’s electric SUVs are winning over buyers, and it’s easy to see why",
@@ -221,38 +245,20 @@
           "link": "https://electrek.co/2026/07/03/tesla-robotaxi-miami-service-area-map/",
           "source": "Electrek",
           "published": "2026-07-03T14:02:11+00:00"
-        },
-        {
-          "title": "Tesla driver charged with manslaughter in Katy crash was Googling ‘FSD too timid’",
-          "link": "https://electrek.co/2026/07/03/tesla-fsd-driver-manslaughter-katy-crash/",
-          "source": "Electrek",
-          "published": "2026-07-03T13:37:45+00:00"
-        },
-        {
-          "title": "Subaru’s new Trailseeker EV starts at $40,000",
-          "link": "https://electrek.co/2026/07/03/subaru-reveals-2027-trailseeker-ev-prices-start-40000/",
-          "source": "Electrek",
-          "published": "2026-07-03T13:12:16+00:00"
-        },
-        {
-          "title": "Wheel-E Podcast: Gazelle’s Bosch hub motor bikes, Eurobike, more",
-          "link": "https://electrek.co/2026/07/03/wheel-e-podcast-gazelles-bosch-hub-motor-bikes-eurobike-more/",
-          "source": "Electrek",
-          "published": "2026-07-03T12:49:46+00:00"
-        },
-        {
-          "title": "First-ever Volvo A30 Electric articulated haul trucks get to work",
-          "link": "https://electrek.co/2026/07/03/first-ever-volvo-a30-electric-articulated-haul-trucks-get-to-work/",
-          "source": "Electrek",
-          "published": "2026-07-03T12:31:54+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 25,
+      "count": 24,
       "items": [
+        {
+          "title": "Grenergy Launches A Reverse Energy Auction In Chile",
+          "link": "https://cleantechnica.com/2026/07/06/grenergy-launches-a-reverse-energy-auction-in-chile/",
+          "source": "CleanTechnica",
+          "published": "2026-07-07T03:50:40+00:00"
+        },
         {
           "title": "Jasion Hunter Pro review: A folding fat tire full-suspension e-bike for cheap",
           "link": "https://electrek.co/2026/07/06/jasion-hunter-pro-review-a-folding-fat-tire-full-suspension-e-bike-for-cheap/",
@@ -350,12 +356,6 @@
           "published": "2026-07-02T17:09:53+00:00"
         },
         {
-          "title": "This $1.4 Million EV Has A Weird Trick To Hit 60 MPH In 1.55 Seconds",
-          "link": "https://insideevs.com/news/800326/mcmurtry-speirling-pure-production-model/",
-          "source": "InsideEVs",
-          "published": "2026-07-02T13:00:00+00:00"
-        },
-        {
           "title": "E-bikes bring both bad and good, but one greatly outweighs the other",
           "link": "https://electrek.co/2026/07/01/e-bikes-bring-both-bad-and-good-but-one-greatly-outweighs-the-other/",
           "source": "Electrek",
@@ -372,12 +372,6 @@
           "link": "https://electrek.co/2026/07/01/byd-tesla-q2-2026-bev-sales/",
           "source": "Electrek",
           "published": "2026-07-01T13:18:14+00:00"
-        },
-        {
-          "title": "Someone Keeps Stealing Entire Truckloads Of Tesla Batteries",
-          "link": "https://insideevs.com/news/800187/tesla-gigafactory-batteries-stolen-trucks/",
-          "source": "InsideEVs",
-          "published": "2026-06-30T19:37:01+00:00"
         },
         {
           "title": "New CPSC rule could dramatically change e-bikes in the US",
@@ -411,16 +405,16 @@
       "count": 8,
       "items": [
         {
+          "title": "벤틀리모터스, 첫 순수 전기차 모델명 토르칼",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44074",
+          "source": "모터그래프",
+          "published": "2026-07-07T16:54:11+00:00"
+        },
+        {
           "title": "Jasion Hunter Pro review: A folding fat tire full-suspension e-bike for cheap",
           "link": "https://electrek.co/2026/07/06/jasion-hunter-pro-review-a-folding-fat-tire-full-suspension-e-bike-for-cheap/",
           "source": "Electrek",
           "published": "2026-07-06T17:58:29+00:00"
-        },
-        {
-          "title": "F1 도전하는 2008년생 이규호, GB3 3라운드 레이스2 5위",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44067",
-          "source": "모터그래프",
-          "published": "2026-07-06T17:02:04+00:00"
         },
         {
           "title": "Wheel-E Podcast: Gazelle’s Bosch hub motor bikes, Eurobike, more",
@@ -466,6 +460,12 @@
       "count": 19,
       "items": [
         {
+          "title": "세계 최대 AI·로봇 올림픽 '로보컵 2026 인천' 성황리 폐막",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47313",
+          "source": "로봇신문",
+          "published": "2026-07-07T18:08:27+00:00"
+        },
+        {
           "title": "Kraken Robotics acquires Covelya Group for $615M",
           "link": "https://www.therobotreport.com/kraken-robotics-acquires-covelya-group-for-615m/",
           "source": "The Robot Report",
@@ -482,12 +482,6 @@
           "link": "https://www.therobotreport.com/quantum-systems-raises-1-2b-expand-drone-production-deployments/",
           "source": "The Robot Report",
           "published": "2026-07-06T18:29:07+00:00"
-        },
-        {
-          "title": "서울대 로보틱스 연구소, 국가연구소(NRL 2.0) 선정",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47293",
-          "source": "로봇신문",
-          "published": "2026-07-06T17:51:05+00:00"
         },
         {
           "title": "RoboBusiness 2026 call for speakers closes soon",
@@ -584,13 +578,247 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 1,
+      "count": 40,
       "items": [
         {
-          "title": "[7월6일] AI의 숨은 청구서…데이터센터 밖에서 더 커지는 환경 비용",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212455",
+          "title": "앤드로픽 \"클로드 내부서 인간 '의식' 닮은 생각 공간 발견\"…'J-스페이스' 포착",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212502",
           "source": "AI타임스",
-          "published": "2026-07-07T07:00:00+00:00"
+          "published": "2026-07-07T18:16:28+00:00"
+        },
+        {
+          "title": "iFLYTEK-Embodied-Omni Technical Report",
+          "link": "https://arxiv.org/abs/2607.02542",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
+          "link": "https://arxiv.org/abs/2607.02672",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
+          "link": "https://arxiv.org/abs/2607.02686",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Automated Data Readiness for Scientific AI",
+          "link": "https://arxiv.org/abs/2607.02771",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery",
+          "link": "https://arxiv.org/abs/2607.02807",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Object-Centric Environment Modeling for Agentic Tasks",
+          "link": "https://arxiv.org/abs/2607.02846",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "MedCalc-Pro: Solving Complex Medical Calculations with LLM Agents",
+          "link": "https://arxiv.org/abs/2607.02879",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models",
+          "link": "https://arxiv.org/abs/2607.02914",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "VERITAS: Towards a General-Purpose Replication Tool for Scientific Research",
+          "link": "https://arxiv.org/abs/2607.02931",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "A Sliding-Window-Based Reinforcement Learning for Dynamic Assembly Flow Shop Scheduling with Multi-Product Delivery",
+          "link": "https://arxiv.org/abs/2607.02941",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Evaluating Generative Agents with Actions Grounded in Socially Distributed Task Environments using Incognita",
+          "link": "https://arxiv.org/abs/2607.02975",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Reinforcement Learning for Evidence-Seeking Diagnostic Reasoning with Large Language Models",
+          "link": "https://arxiv.org/abs/2607.02983",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Beyond Forecasting: The Belief-to-Trade Layer in Prediction-Market Agents",
+          "link": "https://arxiv.org/abs/2607.03015",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Human-Centric Reflective Architecture for Human-AI Collaborative Decision-Making",
+          "link": "https://arxiv.org/abs/2607.03025",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Silicon Sampling via Cross-Survey Transfer",
+          "link": "https://arxiv.org/abs/2607.03091",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "APeB: Benchmarking Personalization Ability of Large Language Model Agents",
+          "link": "https://arxiv.org/abs/2607.03162",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Organizational Memory for Agentic Business Process Execution",
+          "link": "https://arxiv.org/abs/2607.03228",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Embodied Operators and Benchmarking: Toward Reusable and Deployable Embodied Intelligence Systems",
+          "link": "https://arxiv.org/abs/2607.03283",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Reflective Dialogue or Prompt Refinement? Effects of Tutor Scaffolding on Students' Independent LLM Use for Programming",
+          "link": "https://arxiv.org/abs/2607.03303",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "When Aggregate Alignment Misleads: Auditing Policy Repair Without Per-State Expert Actions",
+          "link": "https://arxiv.org/abs/2607.03386",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "From Mobile Data to Business Insights: An End-to-End Analytics Framework for Large-Scale Urban Mobility Analysis and Decision Support",
+          "link": "https://arxiv.org/abs/2607.03394",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Efficient bias mitigation in T2I diffusion models using Concept Graphs",
+          "link": "https://arxiv.org/abs/2607.03397",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Personalized Causal Recourse: A Human-In-The-Loop Approach",
+          "link": "https://arxiv.org/abs/2607.03425",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Demonstrating Generalization Failures via Mixtures of Conditional Policies",
+          "link": "https://arxiv.org/abs/2607.03478",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "MentalThink: Shaping Thoughts in Mental SVG World",
+          "link": "https://arxiv.org/abs/2607.03530",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Applying Answer Set Programming with Fuzzy Membership Functions: a Case Study",
+          "link": "https://arxiv.org/abs/2607.03550",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "How to Avoid Debate: Scalable AI Safety via Doubly-Efficient Interactive Proofs",
+          "link": "https://arxiv.org/abs/2607.03561",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "The Role of Rigor in Artificial Intelligence",
+          "link": "https://arxiv.org/abs/2607.03634",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Robust Feasible Route Construction through Collaborative Partition Optimization",
+          "link": "https://arxiv.org/abs/2607.03694",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Agent Reinforcement Learning via Pivotal-Aware Self-Feedback Retry",
+          "link": "https://arxiv.org/abs/2607.03702",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Explainable Reinforcement Learning for Adaptive Traffic Signal Control",
+          "link": "https://arxiv.org/abs/2607.03703",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Can Conversational Temporal Dynamics Improve Depression Detection in Dyads? A Preliminary Investigation in Multi-Modality Perspectives",
+          "link": "https://arxiv.org/abs/2607.03744",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Bridging Interleaved Multi-Modal Reasoning as a Unified Decision Process",
+          "link": "https://arxiv.org/abs/2607.03748",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Folding, Reasoning, and Scaling with Open-source Drug Discovery Engine",
+          "link": "https://arxiv.org/abs/2607.03787",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Evaluating LLM Uncertainty in Long-Form Generation Using Deterministic Ground Truth",
+          "link": "https://arxiv.org/abs/2607.03870",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Harness-Aware Self-Evolving: Co-Evolving Model Weights, Harness, and Task Solutions",
+          "link": "https://arxiv.org/abs/2607.03935",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Online Linear Programming for Multi-Objective Routing in LLM Serving",
+          "link": "https://arxiv.org/abs/2607.03948",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "Explainable AI for Screening Abuse-Related Trauma in Bangladeshi Children: A Training-Free Multimodal Framework Evaluated on Noise-Aware Synthetic Data",
+          "link": "https://arxiv.org/abs/2607.04010",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
+        },
+        {
+          "title": "What is Left for Us? Second Scholarship Against the Degradation of Research by AI",
+          "link": "https://arxiv.org/abs/2607.04049",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-07T04:00:00+00:00"
         }
       ]
     }
