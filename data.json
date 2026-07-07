@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T14:27:01.434569+00:00",
+  "generated_at": "2026-07-07T19:51:27.485199+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,70 @@
       "count": 40,
       "items": [
         {
+          "title": "ChargePoint adds 200+ new EV charging ports in the Southeast",
+          "link": "https://electrek.co/2026/07/07/chargepoint-adds-200-new-ev-charging-ports-in-the-southeast/",
+          "source": "Electrek",
+          "published": "2026-07-07T19:46:36+00:00"
+        },
+        {
+          "title": "Fiat's $13,995 EV For America Is Cute, But Barely A Car",
+          "link": "https://insideevs.com/news/800902/topolino-usa-launch-fiat-ev/",
+          "source": "InsideEVs",
+          "published": "2026-07-07T19:45:14+00:00"
+        },
+        {
+          "title": "Anker SOLIX F3800 power station exclusive $1,615 in Summer Power Sale, ECOVACS pool cleaner $299 low, Greenworks, more",
+          "link": "https://electrek.co/2026/07/07/anker-solix-f3800-power-station-ecovacs-pool-cleaner-greenworks-more/",
+          "source": "Electrek",
+          "published": "2026-07-07T18:01:47+00:00"
+        },
+        {
+          "title": "This tiny EV is now on sale in the US for less than $14,000",
+          "link": "https://electrek.co/2026/07/07/tiny-ev-on-sale-less-than-14000/",
+          "source": "Electrek",
+          "published": "2026-07-07T17:52:59+00:00"
+        },
+        {
+          "title": "I’ve Seen More Improvement In Two Years Of Reviewing EVs Than I Did In A Decade Testing Gas Cars",
+          "link": "https://insideevs.com/features/800779/evs-improving-faster-than-gas/",
+          "source": "InsideEVs",
+          "published": "2026-07-07T17:42:53+00:00"
+        },
+        {
+          "title": "Someone is trying to flip a new Rivian R2 for $80,000 — $20K over MSRP",
+          "link": "https://electrek.co/2026/07/07/rivian-r2-flip-80000-over-sticker/",
+          "source": "Electrek",
+          "published": "2026-07-07T17:28:37+00:00"
+        },
+        {
+          "title": "Tesla launches startup challenge to scale Giga Berlin battery cells",
+          "link": "https://electrek.co/2026/07/07/tesla-giga-berlin-cell-giga-challenge/",
+          "source": "Electrek",
+          "published": "2026-07-07T16:58:57+00:00"
+        },
+        {
           "title": "궁극의 안식처, 아메리칸 럭셔리 SUV, 올 뉴 링컨 내비게이터",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44075",
           "source": "모터그래프",
           "published": "2026-07-07T16:56:32+00:00"
+        },
+        {
+          "title": "Ford’s $30,000 EV pickup makes this full-size SUV look massive",
+          "link": "https://electrek.co/2026/07/07/fords-30000-ev-pickup-makes-full-size-suv-look-massive/",
+          "source": "Electrek",
+          "published": "2026-07-07T16:14:09+00:00"
+        },
+        {
+          "title": "Ford is recalling over 42,000 Mustang Mach-E EVs",
+          "link": "https://electrek.co/2026/07/07/ford-recalling-over-42000-mustang-mach-e-evs/",
+          "source": "Electrek",
+          "published": "2026-07-07T15:34:22+00:00"
+        },
+        {
+          "title": "Ex-Tesla Optimus scientist unveils European humanoid robot startup",
+          "link": "https://electrek.co/2026/07/07/tesla-optimus-scientist-uma-humanoid-robot/",
+          "source": "Electrek",
+          "published": "2026-07-07T14:56:32+00:00"
         },
         {
           "title": "Kia’s EV push is paying off with a full lineup from entry-level electric SUVs to vans",
@@ -185,74 +245,20 @@
           "link": "https://insideevs.com/news/800671/rivian-r2-70-mph-highway-range-test/",
           "source": "InsideEVs",
           "published": "2026-07-06T07:23:55+00:00"
-        },
-        {
-          "title": "This 2023 Tesla Model 3 Has The 'Durable' Battery. It Still Degraded",
-          "link": "https://insideevs.com/news/800649/model-3-island-maui-battery/",
-          "source": "InsideEVs",
-          "published": "2026-07-05T15:59:57+00:00"
-        },
-        {
-          "title": "The grid was melting down in last week’s heat – until EVs came to the rescue",
-          "link": "https://electrek.co/2026/07/05/the-grid-was-melting-down-in-last-weeks-heat-until-evs-came-to-the-rescue/",
-          "source": "Electrek",
-          "published": "2026-07-05T14:53:09+00:00"
-        },
-        {
-          "title": "Hurricanes, heat domes, and holding up the grid with home batteries [update]",
-          "link": "https://electrek.co/2026/07/05/hurricanes-heat-domes-and-holding-up-the-grid-with-home-batteries/",
-          "source": "Electrek",
-          "published": "2026-07-05T12:20:00+00:00"
-        },
-        {
-          "title": "Kalmar is building – and selling! – these massive electric reach stackers in China",
-          "link": "https://electrek.co/2026/07/04/kalmar-is-building-and-selling-these-massive-electric-reach-stackers-in-china/",
-          "source": "Electrek",
-          "published": "2026-07-04T17:56:36+00:00"
-        },
-        {
-          "title": "CATL is building more than 200 battery swap stations EVERY MONTH",
-          "link": "https://electrek.co/2026/07/04/catl-is-building-more-than-200-battery-swap-stations-every-month/",
-          "source": "Electrek",
-          "published": "2026-07-04T14:40:54+00:00"
-        },
-        {
-          "title": "GM is flooding dealers with Bolt EVs – is that part of the plan?",
-          "link": "https://electrek.co/2026/07/04/gm-is-flooding-dealers-with-bolt-evs-is-that-part-of-the-plan/",
-          "source": "Electrek",
-          "published": "2026-07-04T13:16:53+00:00"
-        },
-        {
-          "title": "The DC metro area is getting its first en-route electric bus chargers",
-          "link": "https://electrek.co/2026/07/03/the-dc-metro-area-is-getting-its-first-en-route-electric-bus-chargers/",
-          "source": "Electrek",
-          "published": "2026-07-03T21:01:56+00:00"
-        },
-        {
-          "title": "Podcast: Tesla Model YL, Q2 deliveries, BMW iX5, and more",
-          "link": "https://electrek.co/2026/07/03/podcast-tesla-model-yl-q2-deliveries-bmw-ix5-and-more/",
-          "source": "Electrek",
-          "published": "2026-07-03T18:58:10+00:00"
-        },
-        {
-          "title": "The Hyundai IONIQ 5 remains a top-selling EV as sales cross 20,000 in the first half of 2026",
-          "link": "https://electrek.co/2026/07/03/hyundai-ioniq-5-remains-top-selling-ev-sales-top-20000/",
-          "source": "Electrek",
-          "published": "2026-07-03T18:10:24+00:00"
-        },
-        {
-          "title": "Volkswagen’s next electric SUV is almost here, and it’s not just a rebadged ID.4 [Images]",
-          "link": "https://electrek.co/2026/07/03/volkswagens-next-ev-suv-not-just-rebadged-id-4-images/",
-          "source": "Electrek",
-          "published": "2026-07-03T17:10:07+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 24,
+      "count": 23,
       "items": [
+        {
+          "title": "Tesla launches startup challenge to scale Giga Berlin battery cells",
+          "link": "https://electrek.co/2026/07/07/tesla-giga-berlin-cell-giga-challenge/",
+          "source": "Electrek",
+          "published": "2026-07-07T16:58:57+00:00"
+        },
         {
           "title": "Grenergy Launches A Reverse Energy Auction In Chile",
           "link": "https://cleantechnica.com/2026/07/06/grenergy-launches-a-reverse-energy-auction-in-chile/",
@@ -332,12 +338,6 @@
           "published": "2026-07-03T15:21:34+00:00"
         },
         {
-          "title": "Residential Batteries Are Becoming An Active Grid Management Tool",
-          "link": "https://cleantechnica.com/2026/07/02/residential-batteries-are-becoming-an-active-grid-management-tool/",
-          "source": "CleanTechnica",
-          "published": "2026-07-03T01:01:41+00:00"
-        },
-        {
           "title": "Iberdrola kicks off its first large-scale battery project in the US",
           "link": "https://electrek.co/2026/07/02/iberdrola-kicks-off-its-first-large-scale-battery-project-in-the-us/",
           "source": "Electrek",
@@ -390,19 +390,13 @@
           "link": "https://electrek.co/2026/06/29/theres-a-new-e-bike-motor-and-fast-charging-battery-company-in-town/",
           "source": "Electrek",
           "published": "2026-06-29T13:48:22+00:00"
-        },
-        {
-          "title": "Tesla batteries stolen from Giga Nevada 11+ times since December",
-          "link": "https://electrek.co/2026/06/29/tesla-batteries-stolen-giga-nevada/",
-          "source": "Electrek",
-          "published": "2026-06-29T13:03:56+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 8,
+      "count": 7,
       "items": [
         {
           "title": "벤틀리모터스, 첫 순수 전기차 모델명 토르칼",
@@ -445,12 +439,6 @@
           "link": "https://electrek.co/2026/06/29/theres-a-new-e-bike-motor-and-fast-charging-battery-company-in-town/",
           "source": "Electrek",
           "published": "2026-06-29T13:48:22+00:00"
-        },
-        {
-          "title": "Popular electric dirt bike Stark Varg lets owners download a new trick",
-          "link": "https://electrek.co/2026/06/28/leading-electric-dirt-bike-stark-varg-lets-owners-download-a-new-trick/",
-          "source": "Electrek",
-          "published": "2026-06-28T13:39:37+00:00"
         }
       ]
     },
@@ -470,6 +458,12 @@
           "link": "https://www.therobotreport.com/tesollo-initiates-ipo-process-developing-humanoid-hands/",
           "source": "The Robot Report",
           "published": "2026-07-07T13:17:40+00:00"
+        },
+        {
+          "title": "HIVE brings in $15M to build physical AI for industrial machines",
+          "link": "https://www.therobotreport.com/hive-brings-in-15m-to-build-physical-ai-for-industrial-machines/",
+          "source": "The Robot Report",
+          "published": "2026-07-07T06:55:51+00:00"
         },
         {
           "title": "Kraken Robotics acquires Covelya Group for $615M",
@@ -560,12 +554,6 @@
           "link": "https://www.therobotreport.com/apptronik-unveils-apollo-2-flagship-data-collection-training-facility/",
           "source": "The Robot Report",
           "published": "2026-07-01T12:30:31+00:00"
-        },
-        {
-          "title": "X Square Robot brings its valuation to $2.8B with four consecutive funding rounds",
-          "link": "https://www.therobotreport.com/x-square-robot-brings-valuation-2-8b-four-consecutive-funding-rounds/",
-          "source": "The Robot Report",
-          "published": "2026-06-30T19:49:05+00:00"
         },
         {
           "title": "Video Friday: Give Robots a Hand",
