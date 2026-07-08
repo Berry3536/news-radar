@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-07-07T19:51:27.485199+00:00",
+  "generated_at": "2026-07-08T02:28:12.514752+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Inside Lectron’s factory in China: how its EV chargers are made",
+          "link": "https://electrek.co/2026/07/07/i-toured-lectron-factory-in-china-heres-what-i-learned/",
+          "source": "Electrek",
+          "published": "2026-07-07T22:17:08+00:00"
+        },
+        {
+          "title": "Another Chinese EV Player Just Landed In North America",
+          "link": "https://insideevs.com/news/800900/leapmotor-mexico-sales-stellantis-chinese/",
+          "source": "InsideEVs",
+          "published": "2026-07-07T21:32:01+00:00"
+        },
+        {
+          "title": "Kia’s next electric van looks even bigger in person [Video]",
+          "link": "https://electrek.co/2026/07/07/kias-next-electric-van-looks-even-bigger-in-person-video/",
+          "source": "Electrek",
+          "published": "2026-07-07T21:06:24+00:00"
+        },
+        {
+          "title": "Why BMW Isn't Giving Up On Hydrogen Cars",
+          "link": "https://insideevs.com/news/800754/bmw-ix5-hydrogen-energy-storage-solution/",
+          "source": "InsideEVs",
+          "published": "2026-07-07T20:25:37+00:00"
+        },
+        {
+          "title": "This Flaw Keeps Sabotaging Solid-State Batteries. Scientists Found A Solution",
+          "link": "https://insideevs.com/news/800908/new-solid-state-battery-study-dendrite-formation/",
+          "source": "InsideEVs",
+          "published": "2026-07-07T20:21:46+00:00"
+        },
+        {
+          "title": "BYD’s electric GT resurfaces after its first public sighting",
+          "link": "https://electrek.co/2026/07/07/byds-electric-gt-resurfaces-after-first-public-sighting/",
+          "source": "Electrek",
+          "published": "2026-07-07T19:51:53+00:00"
+        },
         {
           "title": "ChargePoint adds 200+ new EV charging ports in the Southeast",
           "link": "https://electrek.co/2026/07/07/chargepoint-adds-200-new-ev-charging-ports-in-the-southeast/",
@@ -209,50 +245,26 @@
           "link": "https://insideevs.com/news/800737/chinese-carmakers-ai-chips-manufacturing/",
           "source": "InsideEVs",
           "published": "2026-07-06T14:06:53+00:00"
-        },
-        {
-          "title": "Tesla driver caught asleep at 100 km/h — how monitoring failed",
-          "link": "https://electrek.co/2026/07/06/tesla-driver-asleep-monitoring-gap/",
-          "source": "Electrek",
-          "published": "2026-07-06T14:03:39+00:00"
-        },
-        {
-          "title": "Lawsuit claims Boeing-backed Wisk rushed eVTOL software testing",
-          "link": "https://electrek.co/2026/07/06/whistleblower-claims-boeing-backed-wisk-rushed-testing-now-theres-a-lawsuit/",
-          "source": "Electrek",
-          "published": "2026-07-06T13:11:19+00:00"
-        },
-        {
-          "title": "Cadillac Recalls 14,000 Vistiq EVs Over Child-Trapping Risk",
-          "link": "https://insideevs.com/news/800711/cadillac-vistiq-recall-seat-trap/",
-          "source": "InsideEVs",
-          "published": "2026-07-06T11:54:22+00:00"
-        },
-        {
-          "title": "Here are the best electric bikes you can buy at every price level in July 2026",
-          "link": "https://electrek.co/2026/07/06/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/",
-          "source": "Electrek",
-          "published": "2026-07-06T09:38:00+00:00"
-        },
-        {
-          "title": "Walmart’s EV Charging Network Shows No Signs Of Slowing Down",
-          "link": "https://insideevs.com/news/800682/walmart-ev-charging-network-no-slowing-down/",
-          "source": "InsideEVs",
-          "published": "2026-07-06T08:28:49+00:00"
-        },
-        {
-          "title": "Rivian R2 70-MPH Highway Range Test: Does It Live Up To The Hype?",
-          "link": "https://insideevs.com/news/800671/rivian-r2-70-mph-highway-range-test/",
-          "source": "InsideEVs",
-          "published": "2026-07-06T07:23:55+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 23,
+      "count": 24,
       "items": [
+        {
+          "title": "Why BMW Isn't Giving Up On Hydrogen Cars",
+          "link": "https://insideevs.com/news/800754/bmw-ix5-hydrogen-energy-storage-solution/",
+          "source": "InsideEVs",
+          "published": "2026-07-07T20:25:37+00:00"
+        },
+        {
+          "title": "This Flaw Keeps Sabotaging Solid-State Batteries. Scientists Found A Solution",
+          "link": "https://insideevs.com/news/800908/new-solid-state-battery-study-dendrite-formation/",
+          "source": "InsideEVs",
+          "published": "2026-07-07T20:21:46+00:00"
+        },
         {
           "title": "Tesla launches startup challenge to scale Giga Berlin battery cells",
           "link": "https://electrek.co/2026/07/07/tesla-giga-berlin-cell-giga-challenge/",
@@ -384,12 +396,6 @@
           "link": "https://electrek.co/2026/06/29/lectric-4th-of-july-e-bike-sale-ecoflow-extended-prime-day-power-station-sale-greenworks-more/",
           "source": "Electrek",
           "published": "2026-06-29T18:00:00+00:00"
-        },
-        {
-          "title": "There’s a new e-bike motor and fast charging battery company in town",
-          "link": "https://electrek.co/2026/06/29/theres-a-new-e-bike-motor-and-fast-charging-battery-company-in-town/",
-          "source": "Electrek",
-          "published": "2026-06-29T13:48:22+00:00"
         }
       ]
     },
@@ -398,6 +404,12 @@
       "label": "모터",
       "count": 7,
       "items": [
+        {
+          "title": "Another Chinese EV Player Just Landed In North America",
+          "link": "https://insideevs.com/news/800900/leapmotor-mexico-sales-stellantis-chinese/",
+          "source": "InsideEVs",
+          "published": "2026-07-07T21:32:01+00:00"
+        },
         {
           "title": "벤틀리모터스, 첫 순수 전기차 모델명 토르칼",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44074",
@@ -433,12 +445,6 @@
           "link": "https://electrek.co/2026/06/30/beachman-unveils-new-aviator-electric-bike-lineup-with-upcoming-125cc-equivalent-model/",
           "source": "Electrek",
           "published": "2026-06-30T14:15:26+00:00"
-        },
-        {
-          "title": "There’s a new e-bike motor and fast charging battery company in town",
-          "link": "https://electrek.co/2026/06/29/theres-a-new-e-bike-motor-and-fast-charging-battery-company-in-town/",
-          "source": "Electrek",
-          "published": "2026-06-29T13:48:22+00:00"
         }
       ]
     },
@@ -447,6 +453,12 @@
       "label": "로봇",
       "count": 19,
       "items": [
+        {
+          "title": "ABB Robotics includes vSLAM navigation in F712 autonomous forklift",
+          "link": "https://www.therobotreport.com/abb-robotics-includes-vslam-navigation-f712-autonomous-forklift/",
+          "source": "The Robot Report",
+          "published": "2026-07-07T20:24:24+00:00"
+        },
         {
           "title": "세계 최대 AI·로봇 올림픽 '로보컵 2026 인천' 성황리 폐막",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47313",
@@ -550,12 +562,6 @@
           "published": "2026-07-01T16:10:57+00:00"
         },
         {
-          "title": "Apptronik unveils Apollo 2 and a flagship data collection and training facility",
-          "link": "https://www.therobotreport.com/apptronik-unveils-apollo-2-flagship-data-collection-training-facility/",
-          "source": "The Robot Report",
-          "published": "2026-07-01T12:30:31+00:00"
-        },
-        {
           "title": "Video Friday: Give Robots a Hand",
           "link": "https://spectrum.ieee.org/video-friday-robot-grippers",
           "source": "IEEE Spectrum",
@@ -569,10 +575,10 @@
       "count": 40,
       "items": [
         {
-          "title": "업스테이지 \"솔라 오픈 2로 3D 게임까지 빌드\"...자체 모델 성능 입증",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212517",
+          "title": "비드래프트, LLM 추론 가속 엔진 ‘VKAE’ 리더보드·통합 컨테이너 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212528",
           "source": "AI타임스",
-          "published": "2026-07-07T19:06:53+00:00"
+          "published": "2026-07-08T11:24:20+00:00"
         },
         {
           "title": "iFLYTEK-Embodied-Omni Technical Report",
