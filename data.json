@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T08:24:04.021799+00:00",
+  "generated_at": "2026-07-08T13:58:58.613904+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,24 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44092",
           "source": "모터그래프",
           "published": "2026-07-08T16:58:06+00:00"
+        },
+        {
+          "title": "Tesla launches ‘Tesla Home’ with Opticaster AI to cut power bills",
+          "link": "https://electrek.co/2026/07/08/tesla-home-opticaster-ai-energy-platform/",
+          "source": "Electrek",
+          "published": "2026-07-08T13:19:13+00:00"
+        },
+        {
+          "title": "Ford Recalls 43,000 Mustang Mach-E EVs Over Diffs That May Go ‘Bang’",
+          "link": "https://insideevs.com/news/800947/ford-mustang-mach-e-recall-rear-differential/",
+          "source": "InsideEVs",
+          "published": "2026-07-08T09:20:01+00:00"
+        },
+        {
+          "title": "Lucid Is Slashing $10,000 Off The Gravity And Air EVs—If You’re Ready To Compromise",
+          "link": "https://insideevs.com/news/800939/lucid-10000-discount-evs/",
+          "source": "InsideEVs",
+          "published": "2026-07-08T08:29:07+00:00"
         },
         {
           "title": "Voltpost’s Lamppost EV Chargers Are Coming To A Parking Spot Near You",
@@ -227,31 +245,13 @@
           "link": "https://electrek.co/2026/07/06/gm-halts-shipments-recalls-nearly-15000-cadillac-electric-suvs/",
           "source": "Electrek",
           "published": "2026-07-06T17:59:12+00:00"
-        },
-        {
-          "title": "Jasion Hunter Pro review: A folding fat tire full-suspension e-bike for cheap",
-          "link": "https://electrek.co/2026/07/06/jasion-hunter-pro-review-a-folding-fat-tire-full-suspension-e-bike-for-cheap/",
-          "source": "Electrek",
-          "published": "2026-07-06T17:58:29+00:00"
-        },
-        {
-          "title": "Skip The Rivian R2 Waitlist For Just $20,000 Over Sticker Price",
-          "link": "https://insideevs.com/news/800759/rivian-r2-used-first-80k/",
-          "source": "InsideEVs",
-          "published": "2026-07-06T17:34:39+00:00"
-        },
-        {
-          "title": "Hyundai’s electric SUVs are winning over buyers, and it’s easy to see why",
-          "link": "https://electrek.co/2026/07/06/hyundais-evs-winning-over-buyers/",
-          "source": "Electrek",
-          "published": "2026-07-06T17:01:15+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 24,
+      "count": 23,
       "items": [
         {
           "title": "CleanPeak Energy & Western Sydney International Airport Partner on 100% Renewable Electricity Deal",
@@ -300,12 +300,6 @@
           "link": "https://insideevs.com/news/800737/chinese-carmakers-ai-chips-manufacturing/",
           "source": "InsideEVs",
           "published": "2026-07-06T14:06:53+00:00"
-        },
-        {
-          "title": "This 2023 Tesla Model 3 Has The 'Durable' Battery. It Still Degraded",
-          "link": "https://insideevs.com/news/800649/model-3-island-maui-battery/",
-          "source": "InsideEVs",
-          "published": "2026-07-05T15:59:57+00:00"
         },
         {
           "title": "Battery Swapping Is Finally Coming To The USA, Two Wheels At A Time",
@@ -460,10 +454,10 @@
       "count": 20,
       "items": [
         {
-          "title": "오늘의 로봇 기업 주식 시세(2026-07-08)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47323",
+          "title": "나우로보틱스, APR 이어 AHC까지…K-뷰티 로봇 자동화 레퍼런스 확대",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47335",
           "source": "로봇신문",
-          "published": "2026-07-08T15:39:03+00:00"
+          "published": "2026-07-08T17:56:33+00:00"
         },
         {
           "title": "ABB Robotics includes vSLAM navigation in F712 autonomous forklift",
@@ -587,10 +581,10 @@
       "count": 40,
       "items": [
         {
-          "title": "과기부, ‘실무진 즉시 활용 가능’ AI 보안 위협 대응 가이드 발간",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212554",
+          "title": "MS, 엑셀·아웃룩에 자체 'MAI' 모델 도입...오픈AI·앤트로픽 의존도 낮춘다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212531",
           "source": "AI타임스",
-          "published": "2026-07-08T17:20:24+00:00"
+          "published": "2026-07-08T18:06:46+00:00"
         },
         {
           "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
