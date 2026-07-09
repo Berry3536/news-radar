@@ -1,11 +1,53 @@
 {
-  "generated_at": "2026-07-08T19:21:14.850873+00:00",
+  "generated_at": "2026-07-09T02:43:41.350692+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "You Think Your Electric Lawnmower is Eco Friendly? Volkswagen Just Replaced Its Lawnmowers With Sheep",
+          "link": "https://insideevs.com/news/801045/volkswagen-replaces-lawnmowers-with-sheep/",
+          "source": "InsideEVs",
+          "published": "2026-07-08T21:32:01+00:00"
+        },
+        {
+          "title": "BYD's PHEV Pickup Just Landed In The U.K. But Americans Still Can't Have It",
+          "link": "https://insideevs.com/news/801041/byd-shark-phev-pickup-uk/",
+          "source": "InsideEVs",
+          "published": "2026-07-08T21:27:34+00:00"
+        },
+        {
+          "title": "Volkswagen put 100 sheep to work under 31,000 solar panels",
+          "link": "https://electrek.co/2026/07/08/volkswagen-put-100-sheep-to-work-under-31000-solar-panels/",
+          "source": "Electrek",
+          "published": "2026-07-08T21:12:34+00:00"
+        },
+        {
+          "title": "Kia’s electric hatch gains AWD and nearly 350 miles of range",
+          "link": "https://electrek.co/2026/07/08/kias-electric-hatch-gains-awd-nearly-350-miles-range/",
+          "source": "Electrek",
+          "published": "2026-07-08T21:05:20+00:00"
+        },
+        {
+          "title": "This New CATL Battery For Delivery Vans Can Recharge In 7 Minutes",
+          "link": "https://insideevs.com/news/801042/catl-commercial-ev-battery-fast-charging/",
+          "source": "InsideEVs",
+          "published": "2026-07-08T20:18:46+00:00"
+        },
+        {
+          "title": "What I saw inside Lectron’s EV charger factory in China",
+          "link": "https://electrek.co/2026/07/08/i-toured-lectron-factory-in-china-heres-what-i-learned/",
+          "source": "Electrek",
+          "published": "2026-07-08T19:33:27+00:00"
+        },
+        {
+          "title": "Sunrun wants to pay you to turn your home into an AI data center",
+          "link": "https://electrek.co/2026/07/08/sunrun-wants-to-pay-you-to-turn-your-home-into-an-ai-data-center/",
+          "source": "Electrek",
+          "published": "2026-07-08T19:27:36+00:00"
+        },
         {
           "title": "Ford admits its $30K midsize EV pickup is actually ‘small’",
           "link": "https://electrek.co/2026/07/08/ford-admits-30k-midsize-ev-pickup-is-small/",
@@ -101,12 +143,6 @@
           "link": "https://electrek.co/2026/07/08/ariel-rider-launches-outrageous-new-mudd-72v-bike-with-65-mph-top-speed/",
           "source": "Electrek",
           "published": "2026-07-08T07:00:59+00:00"
-        },
-        {
-          "title": "Inside Lectron’s factory in China: how its EV chargers are made",
-          "link": "https://electrek.co/2026/07/07/i-toured-lectron-factory-in-china-heres-what-i-learned/",
-          "source": "Electrek",
-          "published": "2026-07-07T22:17:08+00:00"
         },
         {
           "title": "Another Chinese EV Player Just Landed In North America",
@@ -209,50 +245,20 @@
           "link": "https://electrek.co/2026/07/07/rivian-75-million-share-offering-r2/",
           "source": "Electrek",
           "published": "2026-07-07T13:06:33+00:00"
-        },
-        {
-          "title": "More US cities are getting Voltpost’s lamppost EV chargers",
-          "link": "https://electrek.co/2026/07/07/us-cities-voltpost-lamppost-ev-chargers/",
-          "source": "Electrek",
-          "published": "2026-07-07T13:00:00+00:00"
-        },
-        {
-          "title": "Canada scores fresh Lotus EVs in first canola-for-cars deal",
-          "link": "https://electrek.co/2026/07/07/canada-scores-fresh-lotus-evs-in-first-canola-for-cars-deal/",
-          "source": "Electrek",
-          "published": "2026-07-07T11:26:41+00:00"
-        },
-        {
-          "title": "The Rivian R2 Can Charge From 10-80% Even Quicker Than Rivian Claims. If You Know This Trick.",
-          "link": "https://insideevs.com/news/800786/rivian-r2-charging-speed-tested/",
-          "source": "InsideEVs",
-          "published": "2026-07-07T11:00:00+00:00"
-        },
-        {
-          "title": "The Alpine A110 EV Has One Job: Prove Electric Sports Cars Can Be Light",
-          "link": "https://insideevs.com/news/800823/alpine-a110-future-mule-goodwood/",
-          "source": "InsideEVs",
-          "published": "2026-07-07T09:35:15+00:00"
-        },
-        {
-          "title": "Volvo Is Bringing Native Apple Music To Over Two Million Cars",
-          "link": "https://insideevs.com/news/800822/volvo-cars-native-apple-music-software-update/",
-          "source": "InsideEVs",
-          "published": "2026-07-07T09:25:43+00:00"
-        },
-        {
-          "title": "The New Polestar 4 Wagon Is Actually Called The ‘SUV’",
-          "link": "https://insideevs.com/news/800811/new-polestar-4-suv/",
-          "source": "InsideEVs",
-          "published": "2026-07-07T08:05:33+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 23,
+      "count": 21,
       "items": [
+        {
+          "title": "This New CATL Battery For Delivery Vans Can Recharge In 7 Minutes",
+          "link": "https://insideevs.com/news/801042/catl-commercial-ev-battery-fast-charging/",
+          "source": "InsideEVs",
+          "published": "2026-07-08T20:18:46+00:00"
+        },
         {
           "title": "Lectric XP4 750 e-bike gets FREE $498 flash sale cargo bundle, Navee Summer EV Sale, EGO Select Cut + Touch Drive mower $599, more",
           "link": "https://electrek.co/2026/07/08/lectric-xp4-750-e-bike-navee-summer-ev-sale-ego-select-cut-touch-drive-mower-more/",
@@ -308,12 +314,6 @@
           "published": "2026-07-06T14:52:52+00:00"
         },
         {
-          "title": "After EV Batteries, China Wants To Dominate Car Brains Too",
-          "link": "https://insideevs.com/news/800737/chinese-carmakers-ai-chips-manufacturing/",
-          "source": "InsideEVs",
-          "published": "2026-07-06T14:06:53+00:00"
-        },
-        {
           "title": "Battery Swapping Is Finally Coming To The USA, Two Wheels At A Time",
           "link": "https://cleantechnica.com/2026/07/05/battery-swapping-us-e-bikes-honda-nyc/",
           "source": "CleanTechnica",
@@ -330,18 +330,6 @@
           "link": "https://electrek.co/2026/07/05/hurricanes-heat-domes-and-holding-up-the-grid-with-home-batteries/",
           "source": "Electrek",
           "published": "2026-07-05T12:20:00+00:00"
-        },
-        {
-          "title": "Electric School Buses Put Batteries To Work To Stabilize Grids",
-          "link": "https://cleantechnica.com/2026/07/04/electric-school-buses-put-batteries-to-work-to-stabilize-grids/",
-          "source": "CleanTechnica",
-          "published": "2026-07-05T00:52:09+00:00"
-        },
-        {
-          "title": "For The US Auto Market, What Is The Next Step, Battery Electric Vehicles Or Hybrids?",
-          "link": "https://cleantechnica.com/2026/07/04/for-the-us-auto-market-what-is-the-next-step-battery-electric-vehicles-or-hybrids/",
-          "source": "CleanTechnica",
-          "published": "2026-07-05T00:44:06+00:00"
         },
         {
           "title": "CATL is building more than 200 battery swap stations EVERY MONTH",
@@ -454,10 +442,22 @@
       "count": 20,
       "items": [
         {
-          "title": "나우로보틱스, APR 이어 AHC까지…K-뷰티 로봇 자동화 레퍼런스 확대",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47335",
+          "title": "DS증권 \"현대차그룹 휴머노이드 경쟁력, 테슬라와 격차 생각보다 작다\"",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47337",
           "source": "로봇신문",
-          "published": "2026-07-08T17:56:33+00:00"
+          "published": "2026-07-09T10:25:34+00:00"
+        },
+        {
+          "title": "Tickets, geofences, and 1M miles: The new reality of California AV compliance",
+          "link": "https://www.therobotreport.com/tickets-geofences-1m-miles-new-reality-california-av-compliance/",
+          "source": "The Robot Report",
+          "published": "2026-07-08T23:48:11+00:00"
+        },
+        {
+          "title": "NVIDIA and Hugging Face bring new models and frameworks to LeRobot",
+          "link": "https://www.therobotreport.com/nvidia-hugging-face-bring-new-models-frameworks-lerobot/",
+          "source": "The Robot Report",
+          "published": "2026-07-08T22:49:50+00:00"
         },
         {
           "title": "ENCY Software and Stäubli Robotics partner to simplify robot programming",
@@ -556,18 +556,6 @@
           "published": "2026-07-02T12:36:09+00:00"
         },
         {
-          "title": "Luxonis closes Series A round to scale physical AI perception layer",
-          "link": "https://www.therobotreport.com/luxonis-closes-series-a-round-to-scale-physical-ai-perception-layer/",
-          "source": "The Robot Report",
-          "published": "2026-07-02T12:00:32+00:00"
-        },
-        {
-          "title": "In Robotics, Ruggedization Is No Longer Optional",
-          "link": "https://www.therobotreport.com/in-robotics-ruggedization-is-no-longer-optional/",
-          "source": "The Robot Report",
-          "published": "2026-07-01T18:44:05+00:00"
-        },
-        {
           "title": "Video Friday: Give Robots a Hand",
           "link": "https://spectrum.ieee.org/video-friday-robot-grippers",
           "source": "IEEE Spectrum",
@@ -581,10 +569,10 @@
       "count": 40,
       "items": [
         {
-          "title": "MS, 엑셀·아웃룩에 자체 'MAI' 모델 도입...오픈AI·앤트로픽 의존도 낮춘다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212531",
+          "title": "[7월8일] \"최고 모델이 공짜\"…오픈AI·앤트로픽이 무료 토큰 경쟁에 나선 이유",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212534",
           "source": "AI타임스",
-          "published": "2026-07-08T18:06:46+00:00"
+          "published": "2026-07-09T07:00:00+00:00"
         },
         {
           "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
