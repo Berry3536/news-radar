@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T09:34:22.931950+00:00",
+  "generated_at": "2026-07-09T14:53:12.262946+00:00",
   "categories": [
     {
       "key": "ev",
@@ -13,7 +13,37 @@
           "published": "2026-07-09T17:15:48+00:00"
         },
         {
-          "title": "Ford’s $30,000 Electric Pickup Isn’t Actually Mid-Size, The Automaker Confirms",
+          "title": "BYD reveals prices for its new 1,500+ luxury EV sports car start at nearly $200K [Images]",
+          "link": "https://electrek.co/2026/07/09/byd-reveals-prices-luxury-ev-sports-car-start-at-nearly-200k/",
+          "source": "Electrek",
+          "published": "2026-07-09T14:46:30+00:00"
+        },
+        {
+          "title": "Trek targets the fat tire e-bike boom with its new throttle-enabled Borrego+",
+          "link": "https://electrek.co/2026/07/09/trek-targets-the-fat-tire-e-bike-boom-with-its-new-throttle-enabled-borrego/",
+          "source": "Electrek",
+          "published": "2026-07-09T14:00:00+00:00"
+        },
+        {
+          "title": "Xiaomi says Sky Nomad is a series, not a new brand, teases SUV",
+          "link": "https://electrek.co/2026/07/09/xiaomi-sky-nomad-series-first-look/",
+          "source": "Electrek",
+          "published": "2026-07-09T12:52:33+00:00"
+        },
+        {
+          "title": "The New Mercedes-AMG CLA EV’s Huge Power Comes From Three Tiny Motors",
+          "link": "https://insideevs.com/news/801128/mercedes-amg-cla-45-axial-flux-motors/",
+          "source": "InsideEVs",
+          "published": "2026-07-09T12:36:50+00:00"
+        },
+        {
+          "title": "The BMW iX3 Just Aced Euro NCAP’s Newer, Stricter Safety Tests",
+          "link": "https://insideevs.com/news/801112/bmw-ix3-euro-ncap-crash-test/",
+          "source": "InsideEVs",
+          "published": "2026-07-09T11:15:58+00:00"
+        },
+        {
+          "title": "Ford’s $30,000 Electric Pickup's Size, Explained",
           "link": "https://insideevs.com/news/801084/ford-affordable-electric-pickup-size-small/",
           "source": "InsideEVs",
           "published": "2026-07-09T08:21:57+00:00"
@@ -97,7 +127,7 @@
           "published": "2026-07-08T17:32:21+00:00"
         },
         {
-          "title": "The Cadillac Optiq Is Getting A China-Developed EV Platform: Report",
+          "title": "The Cadillac Optiq Is Getting A China-Developed EV Platform (Update)",
           "link": "https://insideevs.com/news/801012/cadillac-optiq-saic-gm-xiao-yao-ev-platform/",
           "source": "InsideEVs",
           "published": "2026-07-08T16:00:57+00:00"
@@ -215,36 +245,6 @@
           "link": "https://electrek.co/2026/07/07/rivian-r2-flip-80000-over-sticker/",
           "source": "Electrek",
           "published": "2026-07-07T17:28:37+00:00"
-        },
-        {
-          "title": "Tesla launches startup challenge to scale Giga Berlin battery cells",
-          "link": "https://electrek.co/2026/07/07/tesla-giga-berlin-cell-giga-challenge/",
-          "source": "Electrek",
-          "published": "2026-07-07T16:58:57+00:00"
-        },
-        {
-          "title": "Ford’s $30,000 EV pickup makes this full-size SUV look massive",
-          "link": "https://electrek.co/2026/07/07/fords-30000-ev-pickup-makes-full-size-suv-look-massive/",
-          "source": "Electrek",
-          "published": "2026-07-07T16:14:09+00:00"
-        },
-        {
-          "title": "Ford is recalling over 42,000 Mustang Mach-E EVs",
-          "link": "https://electrek.co/2026/07/07/ford-recalling-over-42000-mustang-mach-e-evs/",
-          "source": "Electrek",
-          "published": "2026-07-07T15:34:22+00:00"
-        },
-        {
-          "title": "Ex-Tesla Optimus scientist unveils European humanoid robot startup",
-          "link": "https://electrek.co/2026/07/07/tesla-optimus-scientist-uma-humanoid-robot/",
-          "source": "Electrek",
-          "published": "2026-07-07T14:56:32+00:00"
-        },
-        {
-          "title": "Kia’s EV push is paying off with a full lineup from entry-level electric SUVs to vans",
-          "link": "https://electrek.co/2026/07/07/kias-ev-push-paying-off-full-lineup-suvs-to-vans/",
-          "source": "Electrek",
-          "published": "2026-07-07T14:14:11+00:00"
         }
       ]
     },
@@ -384,13 +384,19 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 8,
+      "count": 9,
       "items": [
         {
           "title": "글로벌 베스트셀러, 메르세데스-벤츠 일렉트릭 GLC 사전 계약 시작",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44095",
           "source": "모터그래프",
           "published": "2026-07-09T17:10:48+00:00"
+        },
+        {
+          "title": "The New Mercedes-AMG CLA EV’s Huge Power Comes From Three Tiny Motors",
+          "link": "https://insideevs.com/news/801128/mercedes-amg-cla-45-axial-flux-motors/",
+          "source": "InsideEVs",
+          "published": "2026-07-09T12:36:50+00:00"
         },
         {
           "title": "BYD’s first pickup goes on sale for $63,000 in the UK, with more EV range than the Ford Ranger",
@@ -446,6 +452,12 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47355",
           "source": "로봇신문",
           "published": "2026-07-09T18:01:01+00:00"
+        },
+        {
+          "title": "Beyond da Vinci: Why versatile humanoid robots are the next frontier in surgery",
+          "link": "https://www.therobotreport.com/beyond-da-vinci-why-versatile-humanoid-robots-are-next-frontier-surgery/",
+          "source": "The Robot Report",
+          "published": "2026-07-09T12:30:47+00:00"
         },
         {
           "title": "Tickets, geofences, and 1M miles: The new reality of California AV compliance",
@@ -550,12 +562,6 @@
           "published": "2026-07-02T16:35:58+00:00"
         },
         {
-          "title": "Why you should combine robot dexterity with mechanical positioning for complex assembly operations",
-          "link": "https://www.therobotreport.com/why-you-should-combine-robot-dexterity-with-mechanical-positioning-for-complex-assembly-operations/",
-          "source": "The Robot Report",
-          "published": "2026-07-02T12:36:09+00:00"
-        },
-        {
           "title": "Video Friday: Give Robots a Hand",
           "link": "https://spectrum.ieee.org/video-friday-robot-grippers",
           "source": "IEEE Spectrum",
@@ -569,10 +575,10 @@
       "count": 40,
       "items": [
         {
-          "title": "퍼플렉시티, AI 코딩 시장 노린다...'프로젝트 전담' 자율 AI 도구 구축 중",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212590",
+          "title": "미니맥스, 2.7조 매개변수 차세대 LLM 개발…중국 역대 최대 규모",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212584",
           "source": "AI타임스",
-          "published": "2026-07-09T18:09:49+00:00"
+          "published": "2026-07-09T18:55:27+00:00"
         },
         {
           "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
