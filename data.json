@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T09:30:43.059271+00:00",
+  "generated_at": "2026-07-10T14:19:54.142770+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,24 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44113",
           "source": "모터그래프",
           "published": "2026-07-10T18:28:02+00:00"
+        },
+        {
+          "title": "BYD wins 11.3 GWh battery deal for world’s largest solar+storage",
+          "link": "https://electrek.co/2026/07/10/byd-masdar-11-gwh-rtc-storage-abu-dhabi/",
+          "source": "Electrek",
+          "published": "2026-07-10T13:25:23+00:00"
+        },
+        {
+          "title": "Americans Just Aren’t Buying Audi EVs",
+          "link": "https://insideevs.com/news/801269/audi-usa-ev-sales-q2-h1-2026/",
+          "source": "InsideEVs",
+          "published": "2026-07-10T12:25:06+00:00"
+        },
+        {
+          "title": "This EV Supercar Packs 1,582 HP And 1.5-Megawatt Charging",
+          "link": "https://insideevs.com/news/801243/denza-z-electric-supercar-specs/",
+          "source": "InsideEVs",
+          "published": "2026-07-10T10:51:12+00:00"
         },
         {
           "title": "Buying A Ford EV Still Comes With A Free Home Charger",
@@ -227,32 +245,26 @@
           "link": "https://electrek.co/2026/07/08/china-is-bringing-buttons-back-to-cars-ending-trend-led-by-tesla/",
           "source": "Electrek",
           "published": "2026-07-08T18:36:37+00:00"
-        },
-        {
-          "title": "The EU Wants To Use Satellites To Automatically Prevent Your Car From Speeding: Report",
-          "link": "https://insideevs.com/news/801020/eu-mulling-satellite-speed-limits/",
-          "source": "InsideEVs",
-          "published": "2026-07-08T18:03:25+00:00"
-        },
-        {
-          "title": "Lectric XP4 750 e-bike gets FREE $498 flash sale cargo bundle, Navee Summer EV Sale, EGO Select Cut + Touch Drive mower $599, more",
-          "link": "https://electrek.co/2026/07/08/lectric-xp4-750-e-bike-navee-summer-ev-sale-ego-select-cut-touch-drive-mower-more/",
-          "source": "Electrek",
-          "published": "2026-07-08T18:00:00+00:00"
-        },
-        {
-          "title": "Xiaomi makes Sky Nomad official: new EREV brand to take on Li Auto",
-          "link": "https://electrek.co/2026/07/08/xiaomi-sky-nomad-erev-brand-official/",
-          "source": "Electrek",
-          "published": "2026-07-08T17:44:46+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 24,
+      "count": 26,
       "items": [
+        {
+          "title": "California School District Jumps Into Solar, Storage, & Electric Buses",
+          "link": "https://cleantechnica.com/2026/07/10/california-school-district-jumps-into-solar-storage-electric-buses/",
+          "source": "CleanTechnica",
+          "published": "2026-07-10T13:53:15+00:00"
+        },
+        {
+          "title": "BYD wins 11.3 GWh battery deal for world’s largest solar+storage",
+          "link": "https://electrek.co/2026/07/10/byd-masdar-11-gwh-rtc-storage-abu-dhabi/",
+          "source": "Electrek",
+          "published": "2026-07-10T13:25:23+00:00"
+        },
         {
           "title": "Yamaha launches sporty Aerox-E electric scooter with removable batteries",
           "link": "https://electrek.co/2026/07/10/yamaha-launches-sporty-aerox-e-electric-scooter-with-removable-batteries/",
@@ -463,13 +475,19 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 20,
+      "count": 21,
       "items": [
         {
           "title": "한국공학대 ‘제2회 ICROS 2026 4족보행로봇 경진대회’ 대상 수상",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47377",
           "source": "로봇신문",
           "published": "2026-07-10T17:47:39+00:00"
+        },
+        {
+          "title": "Ground Robots Inherit the Kill Zone",
+          "link": "https://spectrum.ieee.org/ukraine-ground-drones",
+          "source": "IEEE Spectrum",
+          "published": "2026-07-10T11:00:01+00:00"
         },
         {
           "title": "ForSight Robotics’ road to performing a fully robotic cataract surgery",
