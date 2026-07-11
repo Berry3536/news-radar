@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-07-10T19:23:36.615399+00:00",
+  "generated_at": "2026-07-11T02:26:03.829499+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "UNIGRID’s sodium-ion home battery debuts in Europe, US is next",
+          "link": "https://electrek.co/2026/07/10/unigrid-sodium-ion-home-battery-debuts-in-europe-us/",
+          "source": "Electrek",
+          "published": "2026-07-10T22:50:13+00:00"
+        },
+        {
+          "title": "Musk tells Tesla staff to switch to Grok — a model he admits is worse",
+          "link": "https://electrek.co/2026/07/10/musk-tells-tesla-staff-switch-grok/",
+          "source": "Electrek",
+          "published": "2026-07-10T21:14:06+00:00"
+        },
+        {
+          "title": "BYD’s $10,000 Seagull EV revealed with a longer body and more upgrades",
+          "link": "https://electrek.co/2026/07/10/byds-10k-seagull-ev-revealed-longer-body-more-upgrades/",
+          "source": "Electrek",
+          "published": "2026-07-10T20:50:45+00:00"
+        },
+        {
+          "title": "The SkyNomad N90 Is Xiaomi’s Gas-Burning Adventure Rig",
+          "link": "https://insideevs.com/news/801336/xiaomi-skynomad-n90-erev-china/",
+          "source": "InsideEVs",
+          "published": "2026-07-10T20:13:54+00:00"
+        },
+        {
+          "title": "Podcast: Rivian goes to market, Xiaomi goes big, and a $14,000 tiny EV in the US",
+          "link": "https://electrek.co/2026/07/10/podcast-rivian-goes-to-market-xiaomi-goes-big-and-a-14000-tiny-ev-in-the-us/",
+          "source": "Electrek",
+          "published": "2026-07-10T19:53:18+00:00"
+        },
         {
           "title": "These are the top 10 best-selling EVs in the US so far in 2026",
           "link": "https://electrek.co/2026/07/10/top-10-best-selling-evs-us-first-half-2026/",
@@ -215,36 +245,6 @@
           "link": "https://insideevs.com/news/801150/toyota-highlander-ev-launch-delayed/",
           "source": "InsideEVs",
           "published": "2026-07-09T15:17:21+00:00"
-        },
-        {
-          "title": "BYD reveals prices for its new 1,500hp+ luxury EV sports car start at nearly $200K [Images]",
-          "link": "https://electrek.co/2026/07/09/byd-reveals-prices-luxury-ev-sports-car-start-at-nearly-200k/",
-          "source": "Electrek",
-          "published": "2026-07-09T14:46:30+00:00"
-        },
-        {
-          "title": "Trek targets the fat tire e-bike boom with its new throttle-enabled Borrego+",
-          "link": "https://electrek.co/2026/07/09/trek-targets-the-fat-tire-e-bike-boom-with-its-new-throttle-enabled-borrego/",
-          "source": "Electrek",
-          "published": "2026-07-09T14:00:00+00:00"
-        },
-        {
-          "title": "Xiaomi says Sky Nomad is a series, not a new brand, teases SUV",
-          "link": "https://electrek.co/2026/07/09/xiaomi-sky-nomad-series-first-look/",
-          "source": "Electrek",
-          "published": "2026-07-09T12:52:33+00:00"
-        },
-        {
-          "title": "The New Mercedes-AMG CLA EV’s Huge Power Comes From Three Tiny Motors",
-          "link": "https://insideevs.com/news/801128/mercedes-amg-cla-45-axial-flux-motors/",
-          "source": "InsideEVs",
-          "published": "2026-07-09T12:36:50+00:00"
-        },
-        {
-          "title": "The BMW iX3 Just Aced Euro NCAP’s Newer, Stricter Safety Tests",
-          "link": "https://insideevs.com/news/801112/bmw-ix3-euro-ncap-crash-test/",
-          "source": "InsideEVs",
-          "published": "2026-07-09T11:15:58+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 26,
       "items": [
+        {
+          "title": "UNIGRID’s sodium-ion home battery debuts in Europe, US is next",
+          "link": "https://electrek.co/2026/07/10/unigrid-sodium-ion-home-battery-debuts-in-europe-us/",
+          "source": "Electrek",
+          "published": "2026-07-10T22:50:13+00:00"
+        },
         {
           "title": "Lectric XP4 750, Xpress 2, Xpeak2 e-bikes get up to $464 savings, EcoFlow 716Wh RIVER 2 Pro 700 bundle new $369 low, EGO, more",
           "link": "https://electrek.co/2026/07/10/lectric-xp4-750-xpress-2-xpeak2-e-bikes-ecoflow-716wh-river-2-pro-700-bundle-ego-more/",
@@ -402,20 +408,20 @@
           "link": "https://electrek.co/2026/07/02/hydrogen-for-heavy-trucks-is-dead-says-worlds-2nd-largest-oil-company/",
           "source": "Electrek",
           "published": "2026-07-02T17:09:53+00:00"
-        },
-        {
-          "title": "E-bikes bring both bad and good, but one greatly outweighs the other",
-          "link": "https://electrek.co/2026/07/01/e-bikes-bring-both-bad-and-good-but-one-greatly-outweighs-the-other/",
-          "source": "Electrek",
-          "published": "2026-07-02T06:23:18+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 9,
+      "count": 10,
       "items": [
+        {
+          "title": "BYD’s $10,000 Seagull EV revealed with a longer body and more upgrades",
+          "link": "https://electrek.co/2026/07/10/byds-10k-seagull-ev-revealed-longer-body-more-upgrades/",
+          "source": "Electrek",
+          "published": "2026-07-10T20:50:45+00:00"
+        },
         {
           "title": "These are the top 10 best-selling EVs in the US so far in 2026",
           "link": "https://electrek.co/2026/07/10/top-10-best-selling-evs-us-first-half-2026/",
@@ -477,6 +483,24 @@
       "label": "로봇",
       "count": 21,
       "items": [
+        {
+          "title": "How Path Robotics uses AI to optimize robotic welding",
+          "link": "https://www.therobotreport.com/how-path-robotics-uses-ai-optimize-robotic-welding/",
+          "source": "The Robot Report",
+          "published": "2026-07-10T23:02:23+00:00"
+        },
+        {
+          "title": "XTEND secures U.S. patent for autonomous navigation technology",
+          "link": "https://www.therobotreport.com/xtend-secures-u-s-patent-autonomous-navigation-technology/",
+          "source": "The Robot Report",
+          "published": "2026-07-10T21:31:28+00:00"
+        },
+        {
+          "title": "AI² Robotics raises $735M at $3B valuation for wheeled humanoid robots",
+          "link": "https://www.therobotreport.com/ai%c2%b2-robotics-raises-735m-3b-valuation-wheeled-humanoid-robots/",
+          "source": "The Robot Report",
+          "published": "2026-07-10T19:44:55+00:00"
+        },
         {
           "title": "한국공학대 ‘제2회 ICROS 2026 4족보행로봇 경진대회’ 대상 수상",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47377",
@@ -574,24 +598,6 @@
           "published": "2026-07-06T20:45:48+00:00"
         },
         {
-          "title": "Quantum Systems raises $1.2B to expand drone production and deployments",
-          "link": "https://www.therobotreport.com/quantum-systems-raises-1-2b-expand-drone-production-deployments/",
-          "source": "The Robot Report",
-          "published": "2026-07-06T18:29:07+00:00"
-        },
-        {
-          "title": "RoboBusiness 2026 call for speakers closes soon",
-          "link": "https://www.therobotreport.com/robobusiness-2026-opens-call-for-speakers/",
-          "source": "The Robot Report",
-          "published": "2026-07-06T13:26:34+00:00"
-        },
-        {
-          "title": "Humanoid says KinetIQ Ascend reinforcement learning approaches human-level dexterity",
-          "link": "https://www.therobotreport.com/humanoid-announces-kinetiq-ascend-reinforcement-learning-approach/",
-          "source": "The Robot Report",
-          "published": "2026-07-05T12:30:20+00:00"
-        },
-        {
           "title": "Japan Pioneered Humanoid Robots—Can It Now Catch China?",
           "link": "https://spectrum.ieee.org/humanoid-robots-japan",
           "source": "IEEE Spectrum",
@@ -611,10 +617,10 @@
       "count": 40,
       "items": [
         {
-          "title": "\"내 클로드 사용 습관 분석한다\"…앤트로픽, '리플렉트' 기능 베타 출시",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212615",
+          "title": "[AI 이슈트렌드] 한화오션 수주 불발 속 반도체주 변동·장윤기 유착 의혹 주목",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212654",
           "source": "AI타임스",
-          "published": "2026-07-10T18:20:20+00:00"
+          "published": "2026-07-11T11:08:14+00:00"
         },
         {
           "title": "Context Graphs for Proactive Enterprise Agents",
