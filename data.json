@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-07-11T07:51:13.096302+00:00",
+  "generated_at": "2026-07-11T13:13:04.014047+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Can You Extend An EV's Range With Portable Battery Banks? This Guy Is Trying It.",
+          "link": "https://insideevs.com/news/801327/extend-range-ev-battery-pack/",
+          "source": "InsideEVs",
+          "published": "2026-07-11T12:00:00+00:00"
+        },
+        {
+          "title": "Another state adds a way to report reckless e-bike and e-scooter riders",
+          "link": "https://electrek.co/2026/07/11/another-state-adds-a-way-to-report-reckless-e-bike-and-e-scooter-riders/",
+          "source": "Electrek",
+          "published": "2026-07-11T09:06:49+00:00"
+        },
         {
           "title": "UNIGRID’s sodium-ion home battery debuts in Europe, US is next",
           "link": "https://electrek.co/2026/07/10/unigrid-sodium-ion-home-battery-debuts-in-europe-us/",
@@ -233,26 +245,20 @@
           "link": "https://electrek.co/2026/07/09/new-jersey-bill-tesla-camera-robotaxi/",
           "source": "Electrek",
           "published": "2026-07-09T16:45:54+00:00"
-        },
-        {
-          "title": "Don't Get Too Rowdy In A Waymo, Kids, Or This Could Happen To You",
-          "link": "https://insideevs.com/news/801056/waymo-fireworks-turned-in-cops/",
-          "source": "InsideEVs",
-          "published": "2026-07-09T16:18:13+00:00"
-        },
-        {
-          "title": "Toyota Delays 2027 Highlander EV As Demand For Gas Model Remains Robust",
-          "link": "https://insideevs.com/news/801150/toyota-highlander-ev-launch-delayed/",
-          "source": "InsideEVs",
-          "published": "2026-07-09T15:17:21+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 26,
+      "count": 27,
       "items": [
+        {
+          "title": "Can You Extend An EV's Range With Portable Battery Banks? This Guy Is Trying It.",
+          "link": "https://insideevs.com/news/801327/extend-range-ev-battery-pack/",
+          "source": "InsideEVs",
+          "published": "2026-07-11T12:00:00+00:00"
+        },
         {
           "title": "UNIGRID’s sodium-ion home battery debuts in Europe, US is next",
           "link": "https://electrek.co/2026/07/10/unigrid-sodium-ion-home-battery-debuts-in-europe-us/",
@@ -414,7 +420,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 10,
+      "count": 9,
       "items": [
         {
           "title": "BYD’s $10,000 Seagull EV revealed with a longer body and more upgrades",
@@ -439,12 +445,6 @@
           "link": "https://electrek.co/2026/07/10/yamaha-launches-sporty-aerox-e-electric-scooter-with-removable-batteries/",
           "source": "Electrek",
           "published": "2026-07-10T07:57:19+00:00"
-        },
-        {
-          "title": "The New Mercedes-AMG CLA EV’s Huge Power Comes From Three Tiny Motors",
-          "link": "https://insideevs.com/news/801128/mercedes-amg-cla-45-axial-flux-motors/",
-          "source": "InsideEVs",
-          "published": "2026-07-09T12:36:50+00:00"
         },
         {
           "title": "BYD’s first pickup goes on sale for $63,000 in the UK, with more EV range than the Ford Ranger",
@@ -483,6 +483,12 @@
       "label": "로봇",
       "count": 21,
       "items": [
+        {
+          "title": "Why robotics teams need virtual gyms before deployment",
+          "link": "https://www.therobotreport.com/why-robotics-teams-need-virtual-gyms-before-deployment/",
+          "source": "The Robot Report",
+          "published": "2026-07-11T12:36:16+00:00"
+        },
         {
           "title": "How Path Robotics uses AI to optimize robotic welding",
           "link": "https://www.therobotreport.com/how-path-robotics-uses-ai-optimize-robotic-welding/",
@@ -592,12 +598,6 @@
           "published": "2026-07-06T21:00:54+00:00"
         },
         {
-          "title": "Boston Dynamics brings its legged robots to the FIFA World Cup",
-          "link": "https://www.therobotreport.com/boston-dynamics-brings-its-legged-robots-to-the-fifa-world-cup/",
-          "source": "The Robot Report",
-          "published": "2026-07-06T20:45:48+00:00"
-        },
-        {
           "title": "Japan Pioneered Humanoid Robots—Can It Now Catch China?",
           "link": "https://spectrum.ieee.org/humanoid-robots-japan",
           "source": "IEEE Spectrum",
@@ -617,10 +617,10 @@
       "count": 1,
       "items": [
         {
-          "title": "캐릭터닷AI, '마이크로드라마' 공개…대화형 AI서 엔터테인먼트 플랫폼으로 진화",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212661",
+          "title": "\"여러 모델 섞어 써도 한계 명확\"…통념 깨진 '오케스트레이션' 효과",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212625",
           "source": "AI타임스",
-          "published": "2026-07-11T15:51:58+00:00"
+          "published": "2026-07-11T17:04:28+00:00"
         }
       ]
     }
