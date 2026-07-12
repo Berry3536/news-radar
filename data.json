@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-07-12T08:12:57.452080+00:00",
+  "generated_at": "2026-07-12T13:14:20.739007+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "BMW's U.S. Sales Are Up. But Its EVs Are Struggling",
+          "link": "https://insideevs.com/news/801304/bmw-q2-2026-sales-us/",
+          "source": "InsideEVs",
+          "published": "2026-07-12T13:00:00+00:00"
+        },
+        {
+          "title": "What's It Like To Live With A (Mostly) Free Fiat 500e For Two Years? These YouTubers Found Out",
+          "link": "https://insideevs.com/features/801338/fiat-500e-owner-review/",
+          "source": "InsideEVs",
+          "published": "2026-07-12T12:00:00+00:00"
+        },
         {
           "title": "Tesla claims Cybercab driving employees at Giga Texas — in a parking lot",
           "link": "https://electrek.co/2026/07/11/tesla-cybercab-giga-texas-parking-lot/",
@@ -233,18 +245,6 @@
           "link": "https://insideevs.com/features/801039/why-nissan-leaf-scared-everyone/",
           "source": "InsideEVs",
           "published": "2026-07-09T18:06:43+00:00"
-        },
-        {
-          "title": "EcoFlow 3,072Wh DELTA 3 Ultra power station $1,299 in Outdoor Season Sale, Velotric Discover 2 e-bike $1,799, more",
-          "link": "https://electrek.co/2026/07/09/ecoflow-3072wh-delta-3-ultra-power-station-velotric-discover-2-e-bike-more/",
-          "source": "Electrek",
-          "published": "2026-07-09T18:00:00+00:00"
-        },
-        {
-          "title": "I Saw Scout's New Trucks Up Close. They Could Be Worth The Wait",
-          "link": "https://insideevs.com/news/800910/scout-traveler-terra-first-look-impressions/",
-          "source": "InsideEVs",
-          "published": "2026-07-09T16:59:06+00:00"
         }
       ]
     },
@@ -478,6 +478,18 @@
       "count": 21,
       "items": [
         {
+          "title": "야스카와 아메리카, ISO 27001 고객 정보보안 인증 획득",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47387",
+          "source": "로봇신문",
+          "published": "2026-07-12T19:44:39+00:00"
+        },
+        {
+          "title": "STEM education in the classroom, introducing BotBall",
+          "link": "https://www.therobotreport.com/stem-education-classroom-introducing-botball/",
+          "source": "The Robot Report",
+          "published": "2026-07-12T10:00:26+00:00"
+        },
+        {
           "title": "Are suppliers ready for new robot safety standards?",
           "link": "https://www.therobotreport.com/are-suppliers-ready-for-new-robot-safety-standards/",
           "source": "The Robot Report",
@@ -506,12 +518,6 @@
           "link": "https://www.therobotreport.com/ai%c2%b2-robotics-raises-735m-3b-valuation-wheeled-humanoid-robots/",
           "source": "The Robot Report",
           "published": "2026-07-10T19:44:55+00:00"
-        },
-        {
-          "title": "한국공학대 ‘제2회 ICROS 2026 4족보행로봇 경진대회’ 대상 수상",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47377",
-          "source": "로봇신문",
-          "published": "2026-07-10T17:47:39+00:00"
         },
         {
           "title": "Video Friday: A World Cup for Robots",
@@ -586,12 +592,6 @@
           "published": "2026-07-07T13:17:40+00:00"
         },
         {
-          "title": "HIVE brings in $15M to build physical AI for industrial machines",
-          "link": "https://www.therobotreport.com/hive-brings-in-15m-to-build-physical-ai-for-industrial-machines/",
-          "source": "The Robot Report",
-          "published": "2026-07-07T06:55:51+00:00"
-        },
-        {
           "title": "Japan Pioneered Humanoid Robots—Can It Now Catch China?",
           "link": "https://spectrum.ieee.org/humanoid-robots-japan",
           "source": "IEEE Spectrum",
@@ -611,10 +611,10 @@
       "count": 1,
       "items": [
         {
-          "title": "트럼프 행정부, 중국산 오픈소스 AI 규제 '행정명령' 검토",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212674",
+          "title": "\"오픈AI 의존도 낮춘다더니\"...MS, 권장 모델로 'GPT-5.6' 채택",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212678",
           "source": "AI타임스",
-          "published": "2026-07-12T12:57:09+00:00"
+          "published": "2026-07-12T18:25:43+00:00"
         }
       ]
     }
