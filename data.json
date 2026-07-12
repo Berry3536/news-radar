@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-07-11T18:58:33.971374+00:00",
+  "generated_at": "2026-07-12T02:30:47.918786+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Tesla claims Cybercab driving employees at Giga Texas — in a parking lot",
+          "link": "https://electrek.co/2026/07/11/tesla-cybercab-giga-texas-parking-lot/",
+          "source": "Electrek",
+          "published": "2026-07-11T20:33:48+00:00"
+        },
         {
           "title": "Toyota's EV Sales Have More Than Doubled This Year",
           "link": "https://insideevs.com/news/801340/toyota-ev-sales-doubled-2026/",
@@ -239,20 +245,20 @@
           "link": "https://insideevs.com/news/800910/scout-traveler-terra-first-look-impressions/",
           "source": "InsideEVs",
           "published": "2026-07-09T16:59:06+00:00"
-        },
-        {
-          "title": "MG is launching its first PHEV with semi-solid-state batteries in 2027",
-          "link": "https://electrek.co/2026/07/09/mg-launch-first-phev-with-semi-solid-state-batteries-2027/",
-          "source": "Electrek",
-          "published": "2026-07-09T16:51:15+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 26,
+      "count": 27,
       "items": [
+        {
+          "title": "Cinergy Mobile Power Debuts Smart, Clean Mobile Energy Solutions for South Africa’s Film and Live Events Industries",
+          "link": "https://cleantechnica.com/2026/07/11/cinergy-mobile-power-debuts-smart-clean-mobile-energy-solutions-for-south-africas-film-and-live-events-industries/",
+          "source": "CleanTechnica",
+          "published": "2026-07-11T23:53:07+00:00"
+        },
         {
           "title": "Can You Extend An EV's Range With Portable Battery Banks? This Guy Is Trying It.",
           "link": "https://insideevs.com/news/801327/extend-range-ev-battery-pack/",
@@ -414,7 +420,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 9,
+      "count": 8,
       "items": [
         {
           "title": "BYD’s $10,000 Seagull EV revealed with a longer body and more upgrades",
@@ -463,12 +469,6 @@
           "link": "https://electrek.co/2026/07/03/wheel-e-podcast-gazelles-bosch-hub-motor-bikes-eurobike-more/",
           "source": "Electrek",
           "published": "2026-07-03T12:49:46+00:00"
-        },
-        {
-          "title": "Yadea shows off full-suspension commuter e-bike at Eurobike 2026",
-          "link": "https://electrek.co/2026/07/02/yadea-shows-off-full-suspension-commuter-e-bike-at-eurobike-2026/",
-          "source": "Electrek",
-          "published": "2026-07-02T14:09:59+00:00"
         }
       ]
     },
@@ -611,10 +611,10 @@
       "count": 1,
       "items": [
         {
-          "title": "\"여러 모델 섞어 써도 한계 명확\"…통념 깨진 '오케스트레이션' 효과",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212625",
+          "title": "머스크 \"애플 소송은 사기의 새 차원\" vs 알트먼 \"최고 벤치마크는 머스크의 집착\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212675",
           "source": "AI타임스",
-          "published": "2026-07-11T17:04:28+00:00"
+          "published": "2026-07-12T10:53:21+00:00"
         }
       ]
     }
