@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-07-12T19:01:33.807714+00:00",
+  "generated_at": "2026-07-13T02:32:17.158826+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Mercedes AMG CLA 45 arrives in Goodwood with 680 hp and three axial-flux motors",
+          "link": "https://electrek.co/2026/07/12/mercedes-amg-cla-45-arrives-in-goodwood-with-680-hp-and-three-axial-flux-motors/",
+          "source": "Electrek",
+          "published": "2026-07-13T00:36:38+00:00"
+        },
+        {
+          "title": "Volvo Electric semi trucks charge up American Truck Simulator",
+          "link": "https://electrek.co/2026/07/12/volvo-electric-semi-trucks-charge-up-american-truck-simulator/",
+          "source": "Electrek",
+          "published": "2026-07-12T23:29:54+00:00"
+        },
         {
           "title": "This Chinese Micro EV Makes The Fiat Topolino Look Bare-Bones",
           "link": "https://insideevs.com/news/801381/astraux-al7-well-equipped-microcar/",
@@ -233,18 +245,6 @@
           "link": "https://electrek.co/2026/07/09/trump-clean-energy-rollbacks-erase-68b-in-us-investment/",
           "source": "Electrek",
           "published": "2026-07-09T19:23:39+00:00"
-        },
-        {
-          "title": "BYD launches the Dolphin G plug-in hatch with 65 miles of EV range for $32,000",
-          "link": "https://electrek.co/2026/07/09/byd-launches-dolphin-g-phev-65-miles-ev-range-for-32000/",
-          "source": "Electrek",
-          "published": "2026-07-09T19:20:39+00:00"
-        },
-        {
-          "title": "Mercedes EV Sales Jumped 50% In Q2. That's Mostly Thanks To Europe",
-          "link": "https://insideevs.com/news/801155/mercedes-q2-2026-ev-sales/",
-          "source": "InsideEVs",
-          "published": "2026-07-09T19:10:58+00:00"
         }
       ]
     },
@@ -420,8 +420,14 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 9,
+      "count": 10,
       "items": [
+        {
+          "title": "Mercedes AMG CLA 45 arrives in Goodwood with 680 hp and three axial-flux motors",
+          "link": "https://electrek.co/2026/07/12/mercedes-amg-cla-45-arrives-in-goodwood-with-680-hp-and-three-axial-flux-motors/",
+          "source": "Electrek",
+          "published": "2026-07-13T00:36:38+00:00"
+        },
         {
           "title": "VMAX launches new full-suspension VX2 Lite e-scooter for a mere $799",
           "link": "https://electrek.co/2026/07/12/vmax-launches-new-full-suspension-vx2-lite-e-scooter-for-a-mere-799/",
@@ -484,10 +490,10 @@
       "count": 21,
       "items": [
         {
-          "title": "[Books] 중국 AI 마케팅",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47388",
+          "title": "“네이처가 기록한 첫 휴머노이드 수술, 그 손끝은 리브스메드 ‘아티센셜’”",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47390",
           "source": "로봇신문",
-          "published": "2026-07-13T02:26:54+00:00"
+          "published": "2026-07-13T10:16:06+00:00"
         },
         {
           "title": "STEM education in the classroom, introducing BotBall",
