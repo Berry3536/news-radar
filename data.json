@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-07-13T02:32:17.158826+00:00",
+  "generated_at": "2026-07-13T09:21:03.367264+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "보증 기간 끝난 수입차, 가장 많이 찾은 부품은?",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44115",
+          "source": "모터그래프",
+          "published": "2026-07-13T17:49:31+00:00"
+        },
+        {
+          "title": "The Dead Fisker Ocean May Finally Get Hands-Free Driving—With An Asterisk",
+          "link": "https://insideevs.com/news/801422/fisker-ocean-dead-ev-hands-free-driving/",
+          "source": "InsideEVs",
+          "published": "2026-07-13T08:54:58+00:00"
+        },
+        {
+          "title": "See How Tesla Tore Down The Model S Factory To Build Robots Instead",
+          "link": "https://insideevs.com/news/801412/tesla-model-s-model-x-factory-teardown/",
+          "source": "InsideEVs",
+          "published": "2026-07-13T07:30:24+00:00"
+        },
         {
           "title": "Mercedes AMG CLA 45 arrives in Goodwood with 680 hp and three axial-flux motors",
           "link": "https://electrek.co/2026/07/12/mercedes-amg-cla-45-arrives-in-goodwood-with-680-hp-and-three-axial-flux-motors/",
@@ -107,12 +125,6 @@
           "link": "https://electrek.co/2026/07/10/xiaomi-skynomad-n90-erev-suv/",
           "source": "Electrek",
           "published": "2026-07-10T18:34:09+00:00"
-        },
-        {
-          "title": "자동차 본질에 집중한 SUV, 토요타 RAV4",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44113",
-          "source": "모터그래프",
-          "published": "2026-07-10T18:28:02+00:00"
         },
         {
           "title": "What's The Best EV We've Ever Tested?",
@@ -233,25 +245,13 @@
           "link": "https://electrek.co/2026/07/09/solaredge-says-its-new-lego-like-home-battery-installs-in-under-30-minutes/",
           "source": "Electrek",
           "published": "2026-07-09T20:39:43+00:00"
-        },
-        {
-          "title": "China’s giant Gobi solar plant runs after dark on salt, not batteries",
-          "link": "https://electrek.co/2026/07/09/china-hami-solar-molten-salt-storage/",
-          "source": "Electrek",
-          "published": "2026-07-09T19:53:16+00:00"
-        },
-        {
-          "title": "Trump clean energy rollbacks erase $68B in US investment",
-          "link": "https://electrek.co/2026/07/09/trump-clean-energy-rollbacks-erase-68b-in-us-investment/",
-          "source": "Electrek",
-          "published": "2026-07-09T19:23:39+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 27,
+      "count": 26,
       "items": [
         {
           "title": "Cinergy Mobile Power Debuts Smart, Clean Mobile Energy Solutions for South Africa’s Film and Live Events Industries",
@@ -324,12 +324,6 @@
           "link": "https://electrek.co/2026/07/09/trump-clean-energy-rollbacks-erase-68b-in-us-investment/",
           "source": "Electrek",
           "published": "2026-07-09T19:23:39+00:00"
-        },
-        {
-          "title": "Everyone Is Afraid Of EV Battery Degradation. It's All The Nissan Leaf's Fault",
-          "link": "https://insideevs.com/features/801039/why-nissan-leaf-scared-everyone/",
-          "source": "InsideEVs",
-          "published": "2026-07-09T18:06:43+00:00"
         },
         {
           "title": "EcoFlow 3,072Wh DELTA 3 Ultra power station $1,299 in Outdoor Season Sale, Velotric Discover 2 e-bike $1,799, more",
@@ -423,6 +417,12 @@
       "count": 10,
       "items": [
         {
+          "title": "전기차 기술, 보이는 게 다가 아니다!",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44122",
+          "source": "모터그래프",
+          "published": "2026-07-13T17:49:11+00:00"
+        },
+        {
           "title": "Mercedes AMG CLA 45 arrives in Goodwood with 680 hp and three axial-flux motors",
           "link": "https://electrek.co/2026/07/12/mercedes-amg-cla-45-arrives-in-goodwood-with-680-hp-and-three-axial-flux-motors/",
           "source": "Electrek",
@@ -445,12 +445,6 @@
           "link": "https://electrek.co/2026/07/10/top-10-best-selling-evs-us-first-half-2026/",
           "source": "Electrek",
           "published": "2026-07-10T18:44:58+00:00"
-        },
-        {
-          "title": "SQDA 모터스, 아주자동차대학교와 자동차 산업 전문인재 양성 맞손",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44110",
-          "source": "모터그래프",
-          "published": "2026-07-10T18:26:50+00:00"
         },
         {
           "title": "Yamaha launches sporty Aerox-E electric scooter with removable batteries",
@@ -490,10 +484,10 @@
       "count": 21,
       "items": [
         {
-          "title": "“네이처가 기록한 첫 휴머노이드 수술, 그 손끝은 리브스메드 ‘아티센셜’”",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47390",
+          "title": "테슬라 옵티머스 핵심 개발자, 유럽 휴머노이드 스타트업 'UMA' 설립",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47400",
           "source": "로봇신문",
-          "published": "2026-07-13T10:16:06+00:00"
+          "published": "2026-07-13T17:51:43+00:00"
         },
         {
           "title": "STEM education in the classroom, introducing BotBall",
@@ -620,13 +614,247 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 1,
+      "count": 40,
       "items": [
         {
-          "title": "\"오픈AI 의존도 낮춘다더니\"...MS, 권장 모델로 'GPT-5.6' 채택",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212678",
+          "title": "\"비폭력 시대 끝났다\"…강경 반AI 지도자 잠적에 오픈AI '안전 비상'",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212710",
           "source": "AI타임스",
-          "published": "2026-07-12T18:25:43+00:00"
+          "published": "2026-07-13T17:58:27+00:00"
+        },
+        {
+          "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+          "link": "https://arxiv.org/abs/2607.08773",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
+          "link": "https://arxiv.org/abs/2607.08774",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+          "link": "https://arxiv.org/abs/2607.08894",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+          "link": "https://arxiv.org/abs/2607.08964",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game",
+          "link": "https://arxiv.org/abs/2607.08986",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning",
+          "link": "https://arxiv.org/abs/2607.09059",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
+          "link": "https://arxiv.org/abs/2607.09076",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "L-MAD: A Systematic Evaluation of Multi-Agent Debate Structures in Legal Reasoning",
+          "link": "https://arxiv.org/abs/2607.09099",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation",
+          "link": "https://arxiv.org/abs/2607.09142",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling",
+          "link": "https://arxiv.org/abs/2607.09153",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift",
+          "link": "https://arxiv.org/abs/2607.09175",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents",
+          "link": "https://arxiv.org/abs/2607.09195",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "OpenProver: Agentic and Interactive Theorem Proving with Lean 4",
+          "link": "https://arxiv.org/abs/2607.09217",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making",
+          "link": "https://arxiv.org/abs/2607.09322",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks",
+          "link": "https://arxiv.org/abs/2607.09330",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "Fictional Worldbuilding: Multi-Agent LLM Collaboration with Hierarchical Context Compression and Iterative Review",
+          "link": "https://arxiv.org/abs/2607.09403",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "How Does Bayesian Causal Discovery Fail? Characterising Structural Consequences in Linear Gaussian Networks under Latent Confounding",
+          "link": "https://arxiv.org/abs/2607.09449",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "ProofCouncil: An LLM Agent for Solving Open Mathematical Problems",
+          "link": "https://arxiv.org/abs/2607.09474",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "Ceci n'est pas une pipe: AI systems as semantic abstractions",
+          "link": "https://arxiv.org/abs/2607.09489",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "Multimodal Reward Hacking in Reinforcement Learning",
+          "link": "https://arxiv.org/abs/2607.09492",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "Shared Selective Persistent Memory for Agentic LLM Systems",
+          "link": "https://arxiv.org/abs/2607.09493",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "SAGEAgent: A Self-Evolving Agent for Cost-Aware Modality Acquisition in Multimodal Survival Prediction",
+          "link": "https://arxiv.org/abs/2607.09521",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "Beyond Fixed Representations: The Vocabulary and Verifier Gaps in Open-Ended AI",
+          "link": "https://arxiv.org/abs/2607.09560",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "Knowledge Graphs and Explainable AI as Complementary Resources for Urban Mining",
+          "link": "https://arxiv.org/abs/2607.09578",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "TrustX Agent Risk Classification Framework (ARC): Risk-Tiering Internally Created Agentic AI Systems",
+          "link": "https://arxiv.org/abs/2607.09586",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation",
+          "link": "https://arxiv.org/abs/2607.09600",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI",
+          "link": "https://arxiv.org/abs/2607.09649",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "Minimal Decision Dynamics and Contextual Probability: A Quantum Tug-of-War Model",
+          "link": "https://arxiv.org/abs/2601.10034",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "REFORGE: A Method for Benchmarking LLMs' Reverse Engineering Capabilities in Decompiled Binary Function Naming",
+          "link": "https://arxiv.org/abs/2607.07738",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions",
+          "link": "https://arxiv.org/abs/2607.08776",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "iLENS: Interpretable LLM-Guided Mixture-of-Experts for Neuroimaging Survival Analysis",
+          "link": "https://arxiv.org/abs/2607.08778",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "Signed Symmetric Quantization for Few-Bit Integers",
+          "link": "https://arxiv.org/abs/2607.08779",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "Sticky Routing: Training MoE Models for Memory-Efficient Inference",
+          "link": "https://arxiv.org/abs/2607.08780",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "Reward Transport: Property Control in Flow Matching via Noise-Space Alignment",
+          "link": "https://arxiv.org/abs/2607.08781",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "Director: Accelerating Distributed MoE Serving via Online Proactive Expert Placement",
+          "link": "https://arxiv.org/abs/2607.08782",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "LieBN: Batch Normalization over Lie Groups",
+          "link": "https://arxiv.org/abs/2607.08783",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "HERO: A Heterogeneity-Aware Benchmark Library for Federated Continual Learning",
+          "link": "https://arxiv.org/abs/2607.08784",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "DaDaDa: A Dataset for Data Pricing in Data Marketplaces",
+          "link": "https://arxiv.org/abs/2607.08785",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
+        },
+        {
+          "title": "Accelerating GPU Inference of Large Language Models with Moderately Unstructured Sparse Weight Matrices",
+          "link": "https://arxiv.org/abs/2607.08786",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-13T04:00:00+00:00"
         }
       ]
     }
