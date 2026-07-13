@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T09:21:03.367264+00:00",
+  "generated_at": "2026-07-13T14:29:41.922403+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,36 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44115",
           "source": "모터그래프",
           "published": "2026-07-13T17:49:31+00:00"
+        },
+        {
+          "title": "A $5M startup claims rare earth-free electric motor breakthrough",
+          "link": "https://electrek.co/2026/07/13/vimag-labs-magnet-free-ev-motor-patent/",
+          "source": "Electrek",
+          "published": "2026-07-13T13:59:20+00:00"
+        },
+        {
+          "title": "Samsung’s Texas fab enters production for Tesla’s AI5 chip on 2nm",
+          "link": "https://electrek.co/2026/07/13/samsung-taylor-fab-tesla-ai5-chip-2nm/",
+          "source": "Electrek",
+          "published": "2026-07-13T13:09:22+00:00"
+        },
+        {
+          "title": "Germany wants rental e-scooter companies to pay for accidents",
+          "link": "https://electrek.co/2026/07/13/germany-wants-rental-e-scooter-companies-to-pay-for-accidents/",
+          "source": "Electrek",
+          "published": "2026-07-13T12:10:00+00:00"
+        },
+        {
+          "title": "Vanlife: Vantrack promises a Kia PV5 camper you can actually buy",
+          "link": "https://electrek.co/2026/07/13/vanlife-vantrack-promises-a-kia-pv5-camper-you-can-actually-buy/",
+          "source": "Electrek",
+          "published": "2026-07-13T12:01:37+00:00"
+        },
+        {
+          "title": "Waze Is Supercharging Destination Search With Gemini AI",
+          "link": "https://insideevs.com/news/801441/waze-ai-destination-search-motorcycle-mode/",
+          "source": "InsideEVs",
+          "published": "2026-07-13T11:44:48+00:00"
         },
         {
           "title": "The Dead Fisker Ocean May Finally Get Hands-Free Driving—With An Asterisk",
@@ -215,36 +245,6 @@
           "link": "https://electrek.co/2026/07/09/global-ev-sales-hit-2-million-in-june-and-the-us-falls-further-behind/",
           "source": "Electrek",
           "published": "2026-07-09T23:54:41+00:00"
-        },
-        {
-          "title": "Feds Are Looking to Remove a Major Roadblock for Driverless Robotaxis: The Steering Wheel",
-          "link": "https://insideevs.com/news/801185/feds-end-driverless-steering-wheels/",
-          "source": "InsideEVs",
-          "published": "2026-07-09T22:40:32+00:00"
-        },
-        {
-          "title": "Hyundai launches affordable EV deals with 0% APR and up to $10,000 off",
-          "link": "https://electrek.co/2026/07/09/hyundai-launches-ev-deals-0-apr-up-to-10000-off/",
-          "source": "Electrek",
-          "published": "2026-07-09T21:48:50+00:00"
-        },
-        {
-          "title": "MG Wants To Out-Mini Mini With Its New Electric Concept",
-          "link": "https://insideevs.com/news/801160/mg-go-concept-mg2-preview/",
-          "source": "InsideEVs",
-          "published": "2026-07-09T21:27:45+00:00"
-        },
-        {
-          "title": "New Jersey Law Would Outlaw Tesla's Camera-Based Robotaxi Tech",
-          "link": "https://insideevs.com/news/801178/new-jersey-bill-bans-tesla/",
-          "source": "InsideEVs",
-          "published": "2026-07-09T20:44:36+00:00"
-        },
-        {
-          "title": "SolarEdge says its new ‘Lego-like’ home battery installs in under 30 minutes",
-          "link": "https://electrek.co/2026/07/09/solaredge-says-its-new-lego-like-home-battery-installs-in-under-30-minutes/",
-          "source": "Electrek",
-          "published": "2026-07-09T20:39:43+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 26,
       "items": [
+        {
+          "title": "Perovskite Solar Cells Will Make Solar Power Even Cheaper",
+          "link": "https://cleantechnica.com/2026/07/13/perovskite-solar-cells-us-startups-uk-japan-australia/",
+          "source": "CleanTechnica",
+          "published": "2026-07-13T12:52:46+00:00"
+        },
         {
           "title": "Cinergy Mobile Power Debuts Smart, Clean Mobile Energy Solutions for South Africa’s Film and Live Events Industries",
           "link": "https://cleantechnica.com/2026/07/11/cinergy-mobile-power-debuts-smart-clean-mobile-energy-solutions-for-south-africas-film-and-live-events-industries/",
@@ -402,25 +408,31 @@
           "link": "https://electrek.co/2026/07/02/worlds-largest-second-life-ev-battery-factory-opens-in-just-six-weeks/",
           "source": "Electrek",
           "published": "2026-07-02T20:50:35+00:00"
-        },
-        {
-          "title": "Hydrogen for heavy trucks is dead, says world’s 2nd-largest oil company",
-          "link": "https://electrek.co/2026/07/02/hydrogen-for-heavy-trucks-is-dead-says-worlds-2nd-largest-oil-company/",
-          "source": "Electrek",
-          "published": "2026-07-02T17:09:53+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 10,
+      "count": 12,
       "items": [
         {
           "title": "전기차 기술, 보이는 게 다가 아니다!",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44122",
           "source": "모터그래프",
           "published": "2026-07-13T17:49:11+00:00"
+        },
+        {
+          "title": "A $5M startup claims rare earth-free electric motor breakthrough",
+          "link": "https://electrek.co/2026/07/13/vimag-labs-magnet-free-ev-motor-patent/",
+          "source": "Electrek",
+          "published": "2026-07-13T13:59:20+00:00"
+        },
+        {
+          "title": "Waze Is Supercharging Destination Search With Gemini AI",
+          "link": "https://insideevs.com/news/801441/waze-ai-destination-search-motorcycle-mode/",
+          "source": "InsideEVs",
+          "published": "2026-07-13T11:44:48+00:00"
         },
         {
           "title": "Mercedes AMG CLA 45 arrives in Goodwood with 680 hp and three axial-flux motors",
@@ -488,6 +500,12 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47400",
           "source": "로봇신문",
           "published": "2026-07-13T17:51:43+00:00"
+        },
+        {
+          "title": "The Robot Report parent company, WTWH Media, rebrands as Arrowfly",
+          "link": "https://www.therobotreport.com/the-robot-report-parent-company-wtwh-media-rebrands-as-arrowfly/",
+          "source": "The Robot Report",
+          "published": "2026-07-13T12:04:39+00:00"
         },
         {
           "title": "STEM education in the classroom, introducing BotBall",
@@ -592,12 +610,6 @@
           "published": "2026-07-07T19:02:42+00:00"
         },
         {
-          "title": "Tesollo initiates IPO process while developing humanoid hands",
-          "link": "https://www.therobotreport.com/tesollo-initiates-ipo-process-developing-humanoid-hands/",
-          "source": "The Robot Report",
-          "published": "2026-07-07T13:17:40+00:00"
-        },
-        {
           "title": "Japan Pioneered Humanoid Robots—Can It Now Catch China?",
           "link": "https://spectrum.ieee.org/humanoid-robots-japan",
           "source": "IEEE Spectrum",
@@ -617,10 +629,10 @@
       "count": 40,
       "items": [
         {
-          "title": "\"비폭력 시대 끝났다\"…강경 반AI 지도자 잠적에 오픈AI '안전 비상'",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212710",
+          "title": "프롬프트·카르파시 루프 넘어 AI가 연구 방법 바꾸는 '이중 루프' 시대 개막",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212703",
           "source": "AI타임스",
-          "published": "2026-07-13T17:58:27+00:00"
+          "published": "2026-07-13T19:00:45+00:00"
         },
         {
           "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
