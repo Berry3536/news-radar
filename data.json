@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T13:28:21.312371+00:00",
+  "generated_at": "2026-07-14T19:15:34.573227+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,82 @@
       "count": 40,
       "items": [
         {
+          "title": "Aptera announces nationwide repair network for its upcoming solar electric car",
+          "link": "https://electrek.co/2026/07/14/aptera-announces-nationwide-repair-network-for-its-upcoming-solar-electric-car/",
+          "source": "Electrek",
+          "published": "2026-07-14T19:03:13+00:00"
+        },
+        {
+          "title": "Nearly 10,000 EVs Were Tested For Battery Degradation. These 2 Models Won Out.",
+          "link": "https://insideevs.com/news/801624/sweden-batter-degradation-group-test/",
+          "source": "InsideEVs",
+          "published": "2026-07-14T19:01:49+00:00"
+        },
+        {
+          "title": "Lucid (LCID) stock halted, crashes 40% on bankruptcy report it denies",
+          "link": "https://electrek.co/2026/07/14/lucid-lcid-bankruptcy-report-denied/",
+          "source": "Electrek",
+          "published": "2026-07-14T18:48:42+00:00"
+        },
+        {
+          "title": "Exclusive: We Finally Know The Slate Truck's Destination Fee. Here's The Final Price",
+          "link": "https://insideevs.com/news/801631/slate-truck-price-destination-fee/",
+          "source": "InsideEVs",
+          "published": "2026-07-14T18:41:24+00:00"
+        },
+        {
+          "title": "BYD says demand is ‘booming’ for the new Denza Z EV as global pre-orders top 1,000",
+          "link": "https://electrek.co/2026/07/14/byd-denza-z-ev-booming-demand-pre-orders-top-1000/",
+          "source": "Electrek",
+          "published": "2026-07-14T18:32:48+00:00"
+        },
+        {
+          "title": "Segway Myon smart e-bike first discount to $1,550, ECOVACS Goat O1000 RTK robot mower bundle $699, Lectric, Bluetti, more",
+          "link": "https://electrek.co/2026/07/14/segway-myon-smart-e-bike-first-discount-to-1550-ecovacs-goat-o1000-rtk-robot-mower-bundle-699-lectric-bluetti-more/",
+          "source": "Electrek",
+          "published": "2026-07-14T18:00:00+00:00"
+        },
+        {
           "title": "BMW 코리아 순수 전기차 라인업, 최대 400만 원 전기차 보조금 받는다",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44130",
           "source": "모터그래프",
           "published": "2026-07-14T17:05:14+00:00"
+        },
+        {
+          "title": "The Company Behind TikTok Could Get Into The Autonomous Car Race: Report",
+          "link": "https://insideevs.com/news/801592/tikotk-bytedance-autonomous-car-game/",
+          "source": "InsideEVs",
+          "published": "2026-07-14T16:49:45+00:00"
+        },
+        {
+          "title": "Toyota is now among the top 5 EV sellers in the US, but it’s still taking its foot off the gas",
+          "link": "https://electrek.co/2026/07/14/toyota-ranks-top-5-ev-sellers-us/",
+          "source": "Electrek",
+          "published": "2026-07-14T16:35:08+00:00"
+        },
+        {
+          "title": "Pebble Flow electric RV towed by TELO’s MINI-sized electric truck",
+          "link": "https://electrek.co/2026/07/14/pebble-flow-telo-mt1-electric-truck-tow/",
+          "source": "Electrek",
+          "published": "2026-07-14T16:10:02+00:00"
+        },
+        {
+          "title": "Walmart EV Charger Deployments Exploded In Q2. Only Tesla Installed More Plugs",
+          "link": "https://insideevs.com/news/801603/walmart-q2-ev-fast-charging-growth/",
+          "source": "InsideEVs",
+          "published": "2026-07-14T15:24:48+00:00"
+        },
+        {
+          "title": "These Volkswagen EVs could soon disappear, including Audi and Porsche models",
+          "link": "https://electrek.co/2026/07/14/volkswagen-evs-soon-disappear/",
+          "source": "Electrek",
+          "published": "2026-07-14T14:30:10+00:00"
+        },
+        {
+          "title": "Tesla moves to guarantee resale value for buyers after price cuts",
+          "link": "https://electrek.co/2026/07/14/tesla-guarantee-resale-value-buyers-price-cuts/",
+          "source": "Electrek",
+          "published": "2026-07-14T13:32:32+00:00"
         },
         {
           "title": "This New EV Range Extender Skips Gas And Packs A New Kind Of Generator",
@@ -173,86 +245,32 @@
           "link": "https://electrek.co/2026/07/13/samsung-taylor-fab-tesla-ai5-chip-2nm/",
           "source": "Electrek",
           "published": "2026-07-13T13:09:22+00:00"
-        },
-        {
-          "title": "Germany wants rental e-scooter companies to pay for accidents",
-          "link": "https://electrek.co/2026/07/13/germany-wants-rental-e-scooter-companies-to-pay-for-accidents/",
-          "source": "Electrek",
-          "published": "2026-07-13T12:10:00+00:00"
-        },
-        {
-          "title": "Vanlife: Vantrack promises a Kia PV5 camper you can actually buy",
-          "link": "https://electrek.co/2026/07/13/vanlife-vantrack-promises-a-kia-pv5-camper-you-can-actually-buy/",
-          "source": "Electrek",
-          "published": "2026-07-13T12:01:37+00:00"
-        },
-        {
-          "title": "Waze Is Supercharging Destination Search With Gemini AI",
-          "link": "https://insideevs.com/news/801441/waze-ai-destination-search-motorcycle-mode/",
-          "source": "InsideEVs",
-          "published": "2026-07-13T11:44:48+00:00"
-        },
-        {
-          "title": "The Fisker Ocean May Finally Get Hands-Free Driving Even Though The Company Is Dead",
-          "link": "https://insideevs.com/news/801422/fisker-ocean-dead-ev-hands-free-driving/",
-          "source": "InsideEVs",
-          "published": "2026-07-13T08:54:58+00:00"
-        },
-        {
-          "title": "See How Tesla Tore Down The Model S Factory To Build Robots Instead",
-          "link": "https://insideevs.com/news/801412/tesla-model-s-model-x-factory-teardown/",
-          "source": "InsideEVs",
-          "published": "2026-07-13T07:30:24+00:00"
-        },
-        {
-          "title": "Mercedes AMG CLA 45 arrives in Goodwood with 680 hp and three axial-flux motors",
-          "link": "https://electrek.co/2026/07/12/mercedes-amg-cla-45-arrives-in-goodwood-with-680-hp-and-three-axial-flux-motors/",
-          "source": "Electrek",
-          "published": "2026-07-13T00:36:38+00:00"
-        },
-        {
-          "title": "Volvo Electric semi trucks charge up American Truck Simulator",
-          "link": "https://electrek.co/2026/07/12/volvo-electric-semi-trucks-charge-up-american-truck-simulator/",
-          "source": "Electrek",
-          "published": "2026-07-12T23:29:54+00:00"
-        },
-        {
-          "title": "This Chinese Micro EV Makes The Fiat Topolino Look Bare-Bones",
-          "link": "https://insideevs.com/news/801381/astraux-al7-well-equipped-microcar/",
-          "source": "InsideEVs",
-          "published": "2026-07-12T16:47:58+00:00"
-        },
-        {
-          "title": "VMAX launches new full-suspension VX2 Lite e-scooter for a mere $799",
-          "link": "https://electrek.co/2026/07/12/vmax-launches-new-full-suspension-vx2-lite-e-scooter-for-a-mere-799/",
-          "source": "Electrek",
-          "published": "2026-07-12T13:43:00+00:00"
-        },
-        {
-          "title": "BMW's U.S. Sales Are Up. But Its EVs Are Struggling",
-          "link": "https://insideevs.com/news/801304/bmw-q2-2026-sales-us/",
-          "source": "InsideEVs",
-          "published": "2026-07-12T13:00:00+00:00"
-        },
-        {
-          "title": "What's It Like To Live With A (Mostly) Free Fiat 500e For Two Years? These YouTubers Found Out",
-          "link": "https://insideevs.com/features/801338/fiat-500e-owner-review/",
-          "source": "InsideEVs",
-          "published": "2026-07-12T12:00:00+00:00"
-        },
-        {
-          "title": "Tesla claims Cybercab driving employees at Giga Texas — in a parking lot",
-          "link": "https://electrek.co/2026/07/11/tesla-cybercab-giga-texas-parking-lot/",
-          "source": "Electrek",
-          "published": "2026-07-11T20:33:48+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 30,
+      "count": 31,
       "items": [
+        {
+          "title": "Nearly 10,000 EVs Were Tested For Battery Degradation. These 2 Models Won Out.",
+          "link": "https://insideevs.com/news/801624/sweden-batter-degradation-group-test/",
+          "source": "InsideEVs",
+          "published": "2026-07-14T19:01:49+00:00"
+        },
+        {
+          "title": "Insane “Gigascale” 5.2GW, 19GWh Solar + Storage Project Moves Forward",
+          "link": "https://cleantechnica.com/2026/07/14/insane-gigascale-5-2gw-19gwh-solar-storage-project-moves-forward/",
+          "source": "CleanTechnica",
+          "published": "2026-07-14T18:46:33+00:00"
+        },
+        {
+          "title": "Segway Myon smart e-bike first discount to $1,550, ECOVACS Goat O1000 RTK robot mower bundle $699, Lectric, Bluetti, more",
+          "link": "https://electrek.co/2026/07/14/segway-myon-smart-e-bike-first-discount-to-1550-ecovacs-goat-o1000-rtk-robot-mower-bundle-699-lectric-bluetti-more/",
+          "source": "Electrek",
+          "published": "2026-07-14T18:00:00+00:00"
+        },
         {
           "title": "Are the EV Tariffs Working? Western Carmakers Shifted Production to EU, but Chinese Brands Continue to Grow — Analysis",
           "link": "https://cleantechnica.com/2026/07/13/are-the-ev-tariffs-working-western-carmakers-shifted-production-to-eu-but-chinese-brands-continue-to-grow-analysis/",
@@ -306,12 +324,6 @@
           "link": "https://cleantechnica.com/2026/07/11/cinergy-mobile-power-debuts-smart-clean-mobile-energy-solutions-for-south-africas-film-and-live-events-industries/",
           "source": "CleanTechnica",
           "published": "2026-07-11T23:53:07+00:00"
-        },
-        {
-          "title": "This YouTuber Put Extra Batteries In His F-150 EV's Bed To Boost Range",
-          "link": "https://insideevs.com/news/801327/extend-range-ev-battery-pack/",
-          "source": "InsideEVs",
-          "published": "2026-07-11T12:00:00+00:00"
         },
         {
           "title": "UNIGRID’s sodium-ion home battery debuts in Europe, US is next",
@@ -426,20 +438,20 @@
           "link": "https://electrek.co/2026/07/04/catl-is-building-more-than-200-battery-swap-stations-every-month/",
           "source": "Electrek",
           "published": "2026-07-04T14:40:54+00:00"
-        },
-        {
-          "title": "UK EV registrations hit 30% share in June as Tesla rebounds 42%",
-          "link": "https://electrek.co/2026/07/03/uk-ev-registrations-june-2026-30-percent-share/",
-          "source": "Electrek",
-          "published": "2026-07-03T15:21:34+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 13,
+      "count": 14,
       "items": [
+        {
+          "title": "BYD says demand is ‘booming’ for the new Denza Z EV as global pre-orders top 1,000",
+          "link": "https://electrek.co/2026/07/14/byd-denza-z-ev-booming-demand-pre-orders-top-1000/",
+          "source": "Electrek",
+          "published": "2026-07-14T18:32:48+00:00"
+        },
         {
           "title": "This New EV Range Extender Skips Gas And Packs A New Kind Of Generator",
           "link": "https://insideevs.com/news/801593/horse-d20-methanol-ev-range-extender/",
@@ -523,7 +535,7 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 21,
+      "count": 22,
       "items": [
         {
           "title": "‘제6회 대한민국 드론·UAM 박람회’ 인천 송도컨벤시아서 15일 개막",
@@ -548,6 +560,12 @@
           "link": "https://www.therobotreport.com/the-robot-report-parent-company-wtwh-media-rebrands-as-arrowfly/",
           "source": "The Robot Report",
           "published": "2026-07-13T12:04:39+00:00"
+        },
+        {
+          "title": "Building a Foundation Stack for General-Purpose Robots",
+          "link": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
+          "source": "IEEE Spectrum",
+          "published": "2026-07-13T10:19:51+00:00"
         },
         {
           "title": "STEM education in the classroom, introducing BotBall",
