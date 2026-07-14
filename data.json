@@ -1,11 +1,53 @@
 {
-  "generated_at": "2026-07-13T19:20:11.605354+00:00",
+  "generated_at": "2026-07-14T02:11:45.555649+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "EV sales are normalizing in the US – and TAKING OFF everywhere else",
+          "link": "https://electrek.co/2026/07/13/ev-sales-are-normalizing-in-the-us-and-taking-off-everywhere-else/",
+          "source": "Electrek",
+          "published": "2026-07-14T00:39:28+00:00"
+        },
+        {
+          "title": "California's $3,500 EV Rebate Program Starts 'Later This Summer'",
+          "link": "https://insideevs.com/news/801512/california-ev-rebate-3500-2026/",
+          "source": "InsideEVs",
+          "published": "2026-07-13T22:58:02+00:00"
+        },
+        {
+          "title": "BYD's New Electric Supercar Costs $190,000 In Europe. Will Customers Show Up?",
+          "link": "https://insideevs.com/news/801513/denza-uk-price-z-supercar/",
+          "source": "InsideEVs",
+          "published": "2026-07-13T22:12:26+00:00"
+        },
+        {
+          "title": "BYD’s 1,500+ hp EV supercar is cheaper and faster than a Porsche 911 Turbo S [Images]",
+          "link": "https://electrek.co/2026/07/13/byds-ev-supercar-cheaper-faster-than-porsche-911-turbo-s/",
+          "source": "Electrek",
+          "published": "2026-07-13T21:19:25+00:00"
+        },
+        {
+          "title": "Hyundai's Got An Awesome-Looking $30,000 EV. But It's Not For You",
+          "link": "https://insideevs.com/news/801511/ioniq-3-looks-incredible/",
+          "source": "InsideEVs",
+          "published": "2026-07-13T20:50:37+00:00"
+        },
+        {
+          "title": "Hyundai recalls a whopping 14 IONIQ 5 and Kia EVs, warning owners to park outside",
+          "link": "https://electrek.co/2026/07/13/hyundai-recalls-whopping-14-ioniq-5-kia-evs/",
+          "source": "Electrek",
+          "published": "2026-07-13T19:53:23+00:00"
+        },
+        {
+          "title": "Apple's Self-Driving Car Program Failed. But It Still Made Your iPhone Better",
+          "link": "https://insideevs.com/news/801492/apple-car-created-apple-ai/",
+          "source": "InsideEVs",
+          "published": "2026-07-13T19:31:23+00:00"
+        },
         {
           "title": "Owning An EV Is Way Better: My 2-Year Chevy Blazer EV Owner Review",
           "link": "https://insideevs.com/reviews/801489/2025-chevrolet-blazer-ev-long-term-wrap-up/",
@@ -203,56 +245,32 @@
           "link": "https://insideevs.com/news/801336/xiaomi-skynomad-n90-erev-china/",
           "source": "InsideEVs",
           "published": "2026-07-10T20:13:54+00:00"
-        },
-        {
-          "title": "Podcast: Rivian goes to market, Xiaomi goes big, and a $14,000 tiny EV in the US",
-          "link": "https://electrek.co/2026/07/10/podcast-rivian-goes-to-market-xiaomi-goes-big-and-a-14000-tiny-ev-in-the-us/",
-          "source": "Electrek",
-          "published": "2026-07-10T19:53:18+00:00"
-        },
-        {
-          "title": "These are the top 10 best-selling EVs in the US so far in 2026",
-          "link": "https://electrek.co/2026/07/10/top-10-best-selling-evs-us-first-half-2026/",
-          "source": "Electrek",
-          "published": "2026-07-10T18:44:58+00:00"
-        },
-        {
-          "title": "Xiaomi reveals SkyNomad N90: a living room on wheels",
-          "link": "https://electrek.co/2026/07/10/xiaomi-skynomad-n90-erev-suv/",
-          "source": "Electrek",
-          "published": "2026-07-10T18:34:09+00:00"
-        },
-        {
-          "title": "What's The Best EV We've Ever Tested?",
-          "link": "https://insideevs.com/features/801321/insideevs-best-evs-weve-tested/",
-          "source": "InsideEVs",
-          "published": "2026-07-10T18:07:06+00:00"
-        },
-        {
-          "title": "Lectric XP4 750, Xpress 2, Xpeak2 e-bikes get up to $464 savings, EcoFlow 716Wh RIVER 2 Pro 700 bundle new $369 low, EGO, more",
-          "link": "https://electrek.co/2026/07/10/lectric-xp4-750-xpress-2-xpeak2-e-bikes-ecoflow-716wh-river-2-pro-700-bundle-ego-more/",
-          "source": "Electrek",
-          "published": "2026-07-10T18:00:00+00:00"
-        },
-        {
-          "title": "The Rivian R2 Is Getting Launch Mode. It'll Be Quicker Than A Tesla Model Y Performance",
-          "link": "https://insideevs.com/news/801188/rivian-r2-launch-mode-video/",
-          "source": "InsideEVs",
-          "published": "2026-07-10T17:15:20+00:00"
-        },
-        {
-          "title": "Volkswagen’s EV van makes a surprise comeback in the US as the ID.4 goes on hiatus",
-          "link": "https://electrek.co/2026/07/10/vws-ev-van-makes-comeback-us-id-4-goes-on-hiatus/",
-          "source": "Electrek",
-          "published": "2026-07-10T16:47:16+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 28,
+      "count": 30,
       "items": [
+        {
+          "title": "Are the EV Tariffs Working? Western Carmakers Shifted Production to EU, but Chinese Brands Continue to Grow — Analysis",
+          "link": "https://cleantechnica.com/2026/07/13/are-the-ev-tariffs-working-western-carmakers-shifted-production-to-eu-but-chinese-brands-continue-to-grow-analysis/",
+          "source": "CleanTechnica",
+          "published": "2026-07-14T00:02:02+00:00"
+        },
+        {
+          "title": "My 12 Year EV Saga … Finishing with FSD V14, the Ultimate Driving Machine",
+          "link": "https://cleantechnica.com/2026/07/13/my-12-year-ev-saga-finishing-with-fsd-v14-the-ultimate-driving-machine/",
+          "source": "CleanTechnica",
+          "published": "2026-07-13T21:38:52+00:00"
+        },
+        {
+          "title": "Hyundai recalls a whopping 14 IONIQ 5 and Kia EVs, warning owners to park outside",
+          "link": "https://electrek.co/2026/07/13/hyundai-recalls-whopping-14-ioniq-5-kia-evs/",
+          "source": "Electrek",
+          "published": "2026-07-13T19:53:23+00:00"
+        },
         {
           "title": "ENGWE 150-mile L16 Utility e-bike from $899, Segway Xyber e-bike + extra battery $1,400 off, Navimow i215 LiDAR robot, more",
           "link": "https://electrek.co/2026/07/13/engwe-l16-utility-e-bike-segway-xyber-e-bike-extra-battery-navimow-i215-lidar-robot-more/",
@@ -368,12 +386,6 @@
           "published": "2026-07-09T16:51:15+00:00"
         },
         {
-          "title": "Is Tesla In A Lose-Lose Situation With Autonomous Driving?",
-          "link": "https://cleantechnica.com/2026/07/09/is-tesla-in-a-lose-lose-situation-with-autonomous-driving/",
-          "source": "CleanTechnica",
-          "published": "2026-07-09T15:38:52+00:00"
-        },
-        {
           "title": "Lectric XP4 750 e-bike gets FREE $498 flash sale cargo bundle, Navee Summer EV Sale, EGO Select Cut + Touch Drive mower $599, more",
           "link": "https://electrek.co/2026/07/08/lectric-xp4-750-e-bike-navee-summer-ev-sale-ego-select-cut-touch-drive-mower-more/",
           "source": "Electrek",
@@ -426,7 +438,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 12,
+      "count": 11,
       "items": [
         {
           "title": "전기차 기술, 보이는 게 다가 아니다!",
@@ -493,12 +505,6 @@
           "link": "https://electrek.co/2026/07/06/jasion-hunter-pro-review-a-folding-fat-tire-full-suspension-e-bike-for-cheap/",
           "source": "Electrek",
           "published": "2026-07-06T17:58:29+00:00"
-        },
-        {
-          "title": "Wheel-E Podcast: Gazelle’s Bosch hub motor bikes, Eurobike, more",
-          "link": "https://electrek.co/2026/07/03/wheel-e-podcast-gazelles-bosch-hub-motor-bikes-eurobike-more/",
-          "source": "Electrek",
-          "published": "2026-07-03T12:49:46+00:00"
         }
       ]
     },
@@ -507,6 +513,18 @@
       "label": "로봇",
       "count": 21,
       "items": [
+        {
+          "title": "Ondas acquires DZYNE for $875.8M, expanding its defense capabilities",
+          "link": "https://www.therobotreport.com/ondas-acquires-dzyne-875-8m-expanding-its-defense-capabilities/",
+          "source": "The Robot Report",
+          "published": "2026-07-13T22:16:05+00:00"
+        },
+        {
+          "title": "Yaskawa America gets information security certification",
+          "link": "https://www.therobotreport.com/yaskawa-america-gets-information-seccurity-certification/",
+          "source": "The Robot Report",
+          "published": "2026-07-13T19:55:06+00:00"
+        },
         {
           "title": "테슬라 옵티머스 핵심 개발자, 유럽 휴머노이드 스타트업 'UMA' 설립",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47400",
@@ -604,18 +622,6 @@
           "published": "2026-07-08T22:49:50+00:00"
         },
         {
-          "title": "ENCY Software and Stäubli Robotics partner to simplify robot programming",
-          "link": "https://www.therobotreport.com/ency-software-staubli-robotics-partner-simplify-robot-programming/",
-          "source": "The Robot Report",
-          "published": "2026-07-08T15:02:53+00:00"
-        },
-        {
-          "title": "ABB Robotics includes vSLAM navigation in F712 autonomous forklift",
-          "link": "https://www.therobotreport.com/abb-robotics-includes-vslam-navigation-f712-autonomous-forklift/",
-          "source": "The Robot Report",
-          "published": "2026-07-07T20:24:24+00:00"
-        },
-        {
           "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
           "link": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda",
           "source": "IEEE Spectrum",
@@ -641,10 +647,10 @@
       "count": 40,
       "items": [
         {
-          "title": "'카르파시 루프' 넘어 AI가 연구 방법 바꾸는 '이중 루프' 시대 개막",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212703",
+          "title": "[7월13일] 서울 ICML 화두는 '재귀적 자기 개선'…\"AI 연구자의 정체성 위기\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212694",
           "source": "AI타임스",
-          "published": "2026-07-13T19:00:45+00:00"
+          "published": "2026-07-14T07:00:00+00:00"
         },
         {
           "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
