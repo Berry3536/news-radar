@@ -1,11 +1,53 @@
 {
-  "generated_at": "2026-07-14T07:59:01.832790+00:00",
+  "generated_at": "2026-07-14T13:28:21.312371+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "BMW 코리아 순수 전기차 라인업, 최대 400만 원 전기차 보조금 받는다",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44130",
+          "source": "모터그래프",
+          "published": "2026-07-14T17:05:14+00:00"
+        },
+        {
+          "title": "This New EV Range Extender Skips Gas And Packs A New Kind Of Generator",
+          "link": "https://insideevs.com/news/801593/horse-d20-methanol-ev-range-extender/",
+          "source": "InsideEVs",
+          "published": "2026-07-14T13:25:14+00:00"
+        },
+        {
+          "title": "US EV fast charging has entered ‘Charging 2.0’ – here’s what that means",
+          "link": "https://electrek.co/2026/07/14/us-ev-charging-has-entered-charging-2-0-heres-what-that-means/",
+          "source": "Electrek",
+          "published": "2026-07-14T12:00:00+00:00"
+        },
+        {
+          "title": "Why America Built Fewer EV Fast-Charging Stations In Q2",
+          "link": "https://insideevs.com/news/801501/us-public-ev-fast-charging-growth-q2/",
+          "source": "InsideEVs",
+          "published": "2026-07-14T12:00:00+00:00"
+        },
+        {
+          "title": "This Tiny Electric Kia Camper Somehow Sleeps Four",
+          "link": "https://insideevs.com/news/801581/kia-pv5-lightcamp-camper-conversion/",
+          "source": "InsideEVs",
+          "published": "2026-07-14T11:54:09+00:00"
+        },
+        {
+          "title": "Rivian's Electric Van Outsold Its Rivals Combined—By 70%",
+          "link": "https://insideevs.com/news/801568/rivian-van-best-selling-q2-2026/",
+          "source": "InsideEVs",
+          "published": "2026-07-14T10:12:20+00:00"
+        },
+        {
+          "title": "Momentum’s new Vida E+ EX commuter e-bike adds cruise control, throttle, and more",
+          "link": "https://electrek.co/2026/07/14/momentums-new-vida-e-ex-commuter-e-bike-adds-cruise-control-throttle-and-more/",
+          "source": "Electrek",
+          "published": "2026-07-14T10:00:00+00:00"
+        },
         {
           "title": "Subaru’s Best-Selling EV Faced The 70 MPH Highway Range Test. Here’s How It Performed",
           "link": "https://insideevs.com/news/801543/2026-subaru-uncharted-70-mph-range-test/",
@@ -83,12 +125,6 @@
           "link": "https://electrek.co/2026/07/13/tesla-wheelchair-accessible-robotaxi/",
           "source": "Electrek",
           "published": "2026-07-13T17:57:55+00:00"
-        },
-        {
-          "title": "보증 기간 끝난 수입차, 가장 많이 찾는 부품은?",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44115",
-          "source": "모터그래프",
-          "published": "2026-07-13T17:49:31+00:00"
         },
         {
           "title": "Tesla Pulled Off A Shocker Second Quarter. Can It Keep Sales Up?",
@@ -209,42 +245,6 @@
           "link": "https://electrek.co/2026/07/11/tesla-cybercab-giga-texas-parking-lot/",
           "source": "Electrek",
           "published": "2026-07-11T20:33:48+00:00"
-        },
-        {
-          "title": "Toyota's EV Sales Have More Than Doubled This Year",
-          "link": "https://insideevs.com/news/801340/toyota-ev-sales-doubled-2026/",
-          "source": "InsideEVs",
-          "published": "2026-07-11T14:00:00+00:00"
-        },
-        {
-          "title": "This YouTuber Put Extra Batteries In His F-150 EV's Bed To Boost Range",
-          "link": "https://insideevs.com/news/801327/extend-range-ev-battery-pack/",
-          "source": "InsideEVs",
-          "published": "2026-07-11T12:00:00+00:00"
-        },
-        {
-          "title": "Another state adds a way to report reckless e-bike and e-scooter riders",
-          "link": "https://electrek.co/2026/07/11/another-state-adds-a-way-to-report-reckless-e-bike-and-e-scooter-riders/",
-          "source": "Electrek",
-          "published": "2026-07-11T09:06:49+00:00"
-        },
-        {
-          "title": "UNIGRID’s sodium-ion home battery debuts in Europe, US is next",
-          "link": "https://electrek.co/2026/07/10/unigrid-sodium-ion-home-battery-debuts-in-europe-us/",
-          "source": "Electrek",
-          "published": "2026-07-10T22:50:13+00:00"
-        },
-        {
-          "title": "Musk tells Tesla staff to switch to Grok — a model he admits is worse",
-          "link": "https://electrek.co/2026/07/10/musk-tells-tesla-staff-switch-grok/",
-          "source": "Electrek",
-          "published": "2026-07-10T21:14:06+00:00"
-        },
-        {
-          "title": "BYD’s $10,000 Seagull EV revealed with a longer body and more upgrades",
-          "link": "https://electrek.co/2026/07/10/byds-10k-seagull-ev-revealed-longer-body-more-upgrades/",
-          "source": "Electrek",
-          "published": "2026-07-10T20:50:45+00:00"
         }
       ]
     },
@@ -438,8 +438,20 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 11,
+      "count": 13,
       "items": [
+        {
+          "title": "This New EV Range Extender Skips Gas And Packs A New Kind Of Generator",
+          "link": "https://insideevs.com/news/801593/horse-d20-methanol-ev-range-extender/",
+          "source": "InsideEVs",
+          "published": "2026-07-14T13:25:14+00:00"
+        },
+        {
+          "title": "Momentum’s new Vida E+ EX commuter e-bike adds cruise control, throttle, and more",
+          "link": "https://electrek.co/2026/07/14/momentums-new-vida-e-ex-commuter-e-bike-adds-cruise-control-throttle-and-more/",
+          "source": "Electrek",
+          "published": "2026-07-14T10:00:00+00:00"
+        },
         {
           "title": "전기차 기술, 보이는 게 다가 아니다!",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44122",
@@ -514,10 +526,10 @@
       "count": 21,
       "items": [
         {
-          "title": "오늘의 로봇 기업 주식 시세(2026-07-14)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47421",
+          "title": "‘제6회 대한민국 드론·UAM 박람회’ 인천 송도컨벤시아서 15일 개막",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47430",
           "source": "로봇신문",
-          "published": "2026-07-14T15:43:28+00:00"
+          "published": "2026-07-14T17:51:10+00:00"
         },
         {
           "title": "Ondas acquires DZYNE for $875.8M, expanding its defense capabilities",
@@ -647,10 +659,10 @@
       "count": 40,
       "items": [
         {
-          "title": "순천대, ‘목포 본부·의대 배치안’ 거부… “순천에는 의대 없이 병원·캠퍼스만 남아”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212745",
+          "title": "오픈AI '코덱스' 활성 사용자 700만 돌파...'GPT-5.6' 출시 효과 톡톡",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212728",
           "source": "AI타임스",
-          "published": "2026-07-14T16:24:36+00:00"
+          "published": "2026-07-14T19:31:17+00:00"
         },
         {
           "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
