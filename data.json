@@ -1,11 +1,53 @@
 {
-  "generated_at": "2026-07-14T19:15:34.573227+00:00",
+  "generated_at": "2026-07-15T02:09:55.701541+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Elon Musk quietly buys a $1 billion gas turbine company to power Grok",
+          "link": "https://electrek.co/2026/07/14/musk-buys-gas-turbine-company-apr-energy-grok/",
+          "source": "Electrek",
+          "published": "2026-07-14T23:32:50+00:00"
+        },
+        {
+          "title": "BYD’s new Qin Max EV with Flash Charging spotted for the first time",
+          "link": "https://electrek.co/2026/07/14/byd-qin-max-ev-with-flash-charging-spotted-first-time/",
+          "source": "Electrek",
+          "published": "2026-07-14T21:34:12+00:00"
+        },
+        {
+          "title": "EV prices just fell again – here’s what US buyers paid in June",
+          "link": "https://electrek.co/2026/07/14/ev-prices-just-fell-again-heres-what-us-buyers-paid-in-june/",
+          "source": "Electrek",
+          "published": "2026-07-14T21:05:05+00:00"
+        },
+        {
+          "title": "Nissan recalls nearly 4,000 new Leaf EVs after CR test finds seat belt issue",
+          "link": "https://electrek.co/2026/07/14/nissan-recalls-nearly-4000-new-leaf-evs-seat-belt-issue/",
+          "source": "Electrek",
+          "published": "2026-07-14T20:37:08+00:00"
+        },
+        {
+          "title": "'Completely False': Lucid Denies Report That It's Weighing Bankruptcy After Shares Crash",
+          "link": "https://insideevs.com/news/801645/lucid-stock-crash-bankruptcy-rumor/",
+          "source": "InsideEVs",
+          "published": "2026-07-14T20:33:03+00:00"
+        },
+        {
+          "title": "'We Will Not Survive': Toyota Boss Wants Japanese Automakers To Team Up To Beat Chinese EVs",
+          "link": "https://insideevs.com/news/801643/toyota-koji-sato-japan-rival-chinese-ev/",
+          "source": "InsideEVs",
+          "published": "2026-07-14T20:11:49+00:00"
+        },
+        {
+          "title": "ChargePoint is bringing ultra-fast EV chargers to 12 busy highway travel plazas",
+          "link": "https://electrek.co/2026/07/14/chargepoint-ultra-fast-ev-chargers-12-highway-travel-plazas-onvo/",
+          "source": "Electrek",
+          "published": "2026-07-14T19:20:26+00:00"
+        },
         {
           "title": "Aptera announces nationwide repair network for its upcoming solar electric car",
           "link": "https://electrek.co/2026/07/14/aptera-announces-nationwide-repair-network-for-its-upcoming-solar-electric-car/",
@@ -203,56 +245,26 @@
           "link": "https://insideevs.com/news/801344/tesla-q2-sales-explained-2026/",
           "source": "InsideEVs",
           "published": "2026-07-13T17:44:00+00:00"
-        },
-        {
-          "title": "The Lexus LFA electric supercar debuts with a fake V-8 roar [Video]",
-          "link": "https://electrek.co/2026/07/13/lexus-lfa-electric-supercar-debuts-with-fake-v-8-roar-video/",
-          "source": "Electrek",
-          "published": "2026-07-13T17:31:29+00:00"
-        },
-        {
-          "title": "BYD reveals new Qin Max EV with Flash Charging aimed at young buyers",
-          "link": "https://electrek.co/2026/07/13/byd-reveals-new-qin-max-ev-flash-charging/",
-          "source": "Electrek",
-          "published": "2026-07-13T16:24:51+00:00"
-        },
-        {
-          "title": "Tesla Semi adds another fleet as Paper Transport starts Chicago pilot",
-          "link": "https://electrek.co/2026/07/13/paper-transport-tesla-semi-chicago-pilot/",
-          "source": "Electrek",
-          "published": "2026-07-13T15:49:07+00:00"
-        },
-        {
-          "title": "After 87,000 Miles, This 2022 Tesla Model Y Didn’t Just Lose Range. It Charges Slower Too",
-          "link": "https://insideevs.com/news/801469/tesla-model-y-adac-test/",
-          "source": "InsideEVs",
-          "published": "2026-07-13T15:05:34+00:00"
-        },
-        {
-          "title": "Hyundai’s electric hatch starts at under $30,000, and interest is already sky-high",
-          "link": "https://electrek.co/2026/07/13/hyundais-ev-hatch-starts-at-30k-interest-is-sky-high/",
-          "source": "Electrek",
-          "published": "2026-07-13T14:59:13+00:00"
-        },
-        {
-          "title": "A $5M startup claims rare earth-free electric motor breakthrough",
-          "link": "https://electrek.co/2026/07/13/vimag-labs-magnet-free-ev-motor-patent/",
-          "source": "Electrek",
-          "published": "2026-07-13T13:59:20+00:00"
-        },
-        {
-          "title": "Samsung’s Texas fab enters production for Tesla’s AI5 chip on 2nm",
-          "link": "https://electrek.co/2026/07/13/samsung-taylor-fab-tesla-ai5-chip-2nm/",
-          "source": "Electrek",
-          "published": "2026-07-13T13:09:22+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 31,
+      "count": 29,
       "items": [
+        {
+          "title": "Cypress Creek & Google Break Ground on America’s Largest Solar Project",
+          "link": "https://cleantechnica.com/2026/07/14/cypress-creek-google-break-ground-on-americas-largest-solar-project/",
+          "source": "CleanTechnica",
+          "published": "2026-07-15T01:23:18+00:00"
+        },
+        {
+          "title": "The 10 Top Battery Integrators in the World",
+          "link": "https://cleantechnica.com/2026/07/14/the-10-top-battery-integrators-in-the-world/",
+          "source": "CleanTechnica",
+          "published": "2026-07-15T00:20:09+00:00"
+        },
         {
           "title": "Nearly 10,000 EVs Were Tested For Battery Degradation. These 2 Models Won Out.",
           "link": "https://insideevs.com/news/801624/sweden-batter-degradation-group-test/",
@@ -338,24 +350,6 @@
           "published": "2026-07-10T18:00:00+00:00"
         },
         {
-          "title": "Volvo’s Electric Truck Is Moving Faster Than Its Hydrogen Strategy",
-          "link": "https://cleantechnica.com/2026/07/10/volvo-electric-truck-hydrogen-strategy/",
-          "source": "CleanTechnica",
-          "published": "2026-07-10T14:19:16+00:00"
-        },
-        {
-          "title": "UNDP & TAILG Sign MOU for a Green, Low-Carbon Mobility Project to Advance Sustainable Development in Africa & Beyond",
-          "link": "https://cleantechnica.com/2026/07/10/undp-tailg-sign-mou-for-a-green-low-carbon-mobility-project-to-advance-sustainable-development-in-africa-beyond/",
-          "source": "CleanTechnica",
-          "published": "2026-07-10T14:18:14+00:00"
-        },
-        {
-          "title": "California School District Jumps Into Solar, Storage, & Electric Buses",
-          "link": "https://cleantechnica.com/2026/07/10/california-school-district-jumps-into-solar-storage-electric-buses/",
-          "source": "CleanTechnica",
-          "published": "2026-07-10T13:53:15+00:00"
-        },
-        {
           "title": "BYD wins 11.3 GWh battery deal for world’s largest solar+storage",
           "link": "https://electrek.co/2026/07/10/byd-masdar-11-gwh-rtc-storage-abu-dhabi/",
           "source": "Electrek",
@@ -432,12 +426,6 @@
           "link": "https://electrek.co/2026/07/05/hurricanes-heat-domes-and-holding-up-the-grid-with-home-batteries/",
           "source": "Electrek",
           "published": "2026-07-05T12:20:00+00:00"
-        },
-        {
-          "title": "CATL is building more than 200 battery swap stations EVERY MONTH",
-          "link": "https://electrek.co/2026/07/04/catl-is-building-more-than-200-battery-swap-stations-every-month/",
-          "source": "Electrek",
-          "published": "2026-07-04T14:40:54+00:00"
         }
       ]
     },
@@ -537,6 +525,18 @@
       "label": "로봇",
       "count": 22,
       "items": [
+        {
+          "title": "Key to Humanoid Progress: Managing the Power Behind the Robots",
+          "link": "https://www.therobotreport.com/key-to-humanoid-progress-managing-the-power-behind-the-robots/",
+          "source": "The Robot Report",
+          "published": "2026-07-14T21:38:28+00:00"
+        },
+        {
+          "title": "NVIDIA shares how to evaluate general-purpose robot policies for real-world deployment",
+          "link": "https://www.therobotreport.com/nvidia-shares-how-evaluate-general-purpose-robot-policies-real-world-deployment/",
+          "source": "The Robot Report",
+          "published": "2026-07-14T20:08:27+00:00"
+        },
         {
           "title": "‘제6회 대한민국 드론·UAM 박람회’ 인천 송도컨벤시아서 15일 개막",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47430",
@@ -640,18 +640,6 @@
           "published": "2026-07-09T12:30:47+00:00"
         },
         {
-          "title": "Tickets, geofences, and 1M miles: The new reality of California AV compliance",
-          "link": "https://www.therobotreport.com/tickets-geofences-1m-miles-new-reality-california-av-compliance/",
-          "source": "The Robot Report",
-          "published": "2026-07-08T23:48:11+00:00"
-        },
-        {
-          "title": "NVIDIA and Hugging Face bring new models and frameworks to LeRobot",
-          "link": "https://www.therobotreport.com/nvidia-hugging-face-bring-new-models-frameworks-lerobot/",
-          "source": "The Robot Report",
-          "published": "2026-07-08T22:49:50+00:00"
-        },
-        {
           "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
           "link": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda",
           "source": "IEEE Spectrum",
@@ -677,10 +665,10 @@
       "count": 40,
       "items": [
         {
-          "title": "오픈AI '코덱스' 활성 사용자 700만 돌파...'GPT-5.6' 출시 효과 톡톡",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212728",
+          "title": "[7월14일] 'AI 2027'은 경고였다…이번에는 \"2040년까지 초지능 개발을 멈추자\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212739",
           "source": "AI타임스",
-          "published": "2026-07-14T19:31:17+00:00"
+          "published": "2026-07-15T07:00:00+00:00"
         },
         {
           "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
