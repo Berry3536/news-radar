@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T08:08:41.641038+00:00",
+  "generated_at": "2026-07-16T13:44:38.037406+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,18 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44142",
           "source": "모터그래프",
           "published": "2026-07-16T17:02:31+00:00"
+        },
+        {
+          "title": "Hyundai’s IONIQ 5 N EV just got much cheaper with a huge $6,300 price cut",
+          "link": "https://electrek.co/2026/07/16/hyundai-ioniq-5-n-ev-cheaper-6300-price-cut/",
+          "source": "Electrek",
+          "published": "2026-07-16T13:39:02+00:00"
+        },
+        {
+          "title": "Infinite Machine Olto review: A strange ‘e-bike’ or an urban transportation revolution?",
+          "link": "https://electrek.co/2026/07/16/infinite-machine-olto-review-a-strange-e-bike-or-an-urban-transportation-revolution/",
+          "source": "Electrek",
+          "published": "2026-07-16T12:32:54+00:00"
         },
         {
           "title": "Toyota And BMW Are Testing Renewable Gas As An Alternative To EVs",
@@ -53,12 +65,6 @@
           "link": "https://insideevs.com/news/801765/hyundai-sk-on-ev-battery-plant-georgia/",
           "source": "InsideEVs",
           "published": "2026-07-15T19:06:03+00:00"
-        },
-        {
-          "title": "Hyundai cuts IONIQ 5 N EV prices by $6,300",
-          "link": "https://electrek.co/2026/07/15/hyundai-cuts-ioniq-5-n-ev-prices-by-6300/",
-          "source": "Electrek",
-          "published": "2026-07-15T18:44:48+00:00"
         },
         {
           "title": "Exclusive two-day-only 58% savings on EcoFlow and Jackery power stations from $95, Aiper HydroComm 5-in-1 pool monitor, more",
@@ -239,12 +245,6 @@
           "link": "https://insideevs.com/news/801631/slate-truck-price-destination-fee/",
           "source": "InsideEVs",
           "published": "2026-07-14T18:41:24+00:00"
-        },
-        {
-          "title": "BYD says demand is ‘booming’ for the new Denza Z EV as global pre-orders top 1,000",
-          "link": "https://electrek.co/2026/07/14/byd-denza-z-ev-booming-demand-pre-orders-top-1000/",
-          "source": "Electrek",
-          "published": "2026-07-14T18:32:48+00:00"
         }
       ]
     },
@@ -526,10 +526,22 @@
       "count": 22,
       "items": [
         {
-          "title": "주간 로봇 기업 주가 동향(07/13 ~ 07/16)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47453",
+          "title": "스웨덴 코그니보틱스, 'HKM1800' 로봇으로 EU자금 110억원 유치",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47470",
           "source": "로봇신문",
-          "published": "2026-07-16T15:39:41+00:00"
+          "published": "2026-07-16T17:46:36+00:00"
+        },
+        {
+          "title": "Xpanner rolls out X1 Panel Lift for automated solar panel installation",
+          "link": "https://www.therobotreport.com/xpanner-rolls-out-x1-panel-lift-automated-solar-panel-installation/",
+          "source": "The Robot Report",
+          "published": "2026-07-16T13:08:40+00:00"
+        },
+        {
+          "title": "Lockheed Martin taps Machina’s robots for mission-critical missile parts",
+          "link": "https://www.therobotreport.com/lockheed-martin-taps-machinas-robots-for-mission-critical-missile-parts/",
+          "source": "The Robot Report",
+          "published": "2026-07-16T12:30:12+00:00"
         },
         {
           "title": "Walden Robotics launches at $1.1B valuation for general-purpose robots",
@@ -616,18 +628,6 @@
           "published": "2026-07-10T23:02:23+00:00"
         },
         {
-          "title": "XTEND secures U.S. patent for autonomous navigation technology",
-          "link": "https://www.therobotreport.com/xtend-secures-u-s-patent-autonomous-navigation-technology/",
-          "source": "The Robot Report",
-          "published": "2026-07-10T21:31:28+00:00"
-        },
-        {
-          "title": "AI² Robotics raises $735M at $3B valuation for wheeled humanoid robots",
-          "link": "https://www.therobotreport.com/ai%c2%b2-robotics-raises-735m-3b-valuation-wheeled-humanoid-robots/",
-          "source": "The Robot Report",
-          "published": "2026-07-10T19:44:55+00:00"
-        },
-        {
           "title": "Video Friday: A World Cup for Robots",
           "link": "https://spectrum.ieee.org/video-friday-robot-world-cup",
           "source": "IEEE Spectrum",
@@ -665,10 +665,10 @@
       "count": 40,
       "items": [
         {
-          "title": "순천, 젖소 농가 브루셀라 발생…17두 살처분",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212862",
+          "title": "\"사기 돕고, 평가 속이고\"…앤트로픽, 최첨단 AI '탈선 위험' 경고",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212837",
           "source": "AI타임스",
-          "published": "2026-07-16T16:50:35+00:00"
+          "published": "2026-07-16T18:39:40+00:00"
         },
         {
           "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
