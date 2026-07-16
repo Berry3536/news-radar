@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-07-15T19:06:23.241892+00:00",
+  "generated_at": "2026-07-16T02:23:10.035729+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Energy business, used car business, and plain ol’ business business",
+          "link": "https://electrek.co/2026/07/15/energy-business-used-car-business-and-plain-ol-business-business/",
+          "source": "Electrek",
+          "published": "2026-07-16T00:17:47+00:00"
+        },
+        {
+          "title": "Solar just became Europe’s biggest source of electricity – here’s the milestone it hit",
+          "link": "https://electrek.co/2026/07/15/solar-just-became-europes-biggest-source-of-electricity-heres-the-milestone-it-hit/",
+          "source": "Electrek",
+          "published": "2026-07-15T21:36:11+00:00"
+        },
+        {
+          "title": "Volvo wants to launch two new EVs in the US priced around $50,000, and they are not SUVs",
+          "link": "https://electrek.co/2026/07/15/volvo-shake-things-up-two-new-50000-evs/",
+          "source": "Electrek",
+          "published": "2026-07-15T21:06:19+00:00"
+        },
+        {
+          "title": "Lamborghini says EV tech ‘not mature enough,’ pushes first EV past 2030",
+          "link": "https://electrek.co/2026/07/15/lamborghini-ev-not-mature-enough/",
+          "source": "Electrek",
+          "published": "2026-07-15T19:40:49+00:00"
+        },
         {
           "title": "Hyundai’s $5 Billion EV Battery Plant In Georgia Powers Up",
           "link": "https://insideevs.com/news/801765/hyundai-sk-on-ev-battery-plant-georgia/",
@@ -37,7 +61,7 @@
           "published": "2026-07-15T17:50:11+00:00"
         },
         {
-          "title": "The Chip Is A $15,000 25-MPH EV That Makes Driving Optional",
+          "title": "EV Startup Reveals $15,000 25-MPH Car That You'll Never Have To Park",
           "link": "https://insideevs.com/news/801772/chip-motors-ev-remote-driving-2026/",
           "source": "InsideEVs",
           "published": "2026-07-15T17:19:01+00:00"
@@ -91,7 +115,7 @@
           "published": "2026-07-15T13:53:21+00:00"
         },
         {
-          "title": "LFP Wins This Tesla Model 3 Battery Degradation Comparison",
+          "title": "This Tesla Model 3 Battery Chemistry Ages Better Than The Rest",
           "link": "https://insideevs.com/news/801724/tesla-model-3-lpf-degradation/",
           "source": "InsideEVs",
           "published": "2026-07-15T12:37:27+00:00"
@@ -221,37 +245,13 @@
           "link": "https://insideevs.com/news/801592/tikotk-bytedance-autonomous-car-game/",
           "source": "InsideEVs",
           "published": "2026-07-14T16:49:45+00:00"
-        },
-        {
-          "title": "Toyota is now among the top 5 EV sellers in the US, but it’s still taking its foot off the gas",
-          "link": "https://electrek.co/2026/07/14/toyota-ranks-top-5-ev-sellers-us/",
-          "source": "Electrek",
-          "published": "2026-07-14T16:35:08+00:00"
-        },
-        {
-          "title": "Pebble Flow electric RV towed by TELO’s MINI-sized electric truck",
-          "link": "https://electrek.co/2026/07/14/pebble-flow-telo-mt1-electric-truck-tow/",
-          "source": "Electrek",
-          "published": "2026-07-14T16:10:02+00:00"
-        },
-        {
-          "title": "Walmart EV Charger Deployments Exploded In Q2. Only Tesla Installed More Plugs",
-          "link": "https://insideevs.com/news/801603/walmart-q2-ev-fast-charging-growth/",
-          "source": "InsideEVs",
-          "published": "2026-07-14T15:24:48+00:00"
-        },
-        {
-          "title": "These Volkswagen EVs could soon disappear, including Audi and Porsche models",
-          "link": "https://electrek.co/2026/07/14/volkswagen-evs-soon-disappear/",
-          "source": "Electrek",
-          "published": "2026-07-14T14:30:10+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 31,
+      "count": 30,
       "items": [
         {
           "title": "Hyundai’s $5 Billion EV Battery Plant In Georgia Powers Up",
@@ -272,7 +272,7 @@
           "published": "2026-07-15T17:01:32+00:00"
         },
         {
-          "title": "LFP Wins This Tesla Model 3 Battery Degradation Comparison",
+          "title": "This Tesla Model 3 Battery Chemistry Ages Better Than The Rest",
           "link": "https://insideevs.com/news/801724/tesla-model-3-lpf-degradation/",
           "source": "InsideEVs",
           "published": "2026-07-15T12:37:27+00:00"
@@ -362,12 +362,6 @@
           "published": "2026-07-13T12:52:46+00:00"
         },
         {
-          "title": "Cinergy Mobile Power Debuts Smart, Clean Mobile Energy Solutions for South Africa’s Film and Live Events Industries",
-          "link": "https://cleantechnica.com/2026/07/11/cinergy-mobile-power-debuts-smart-clean-mobile-energy-solutions-for-south-africas-film-and-live-events-industries/",
-          "source": "CleanTechnica",
-          "published": "2026-07-11T23:53:07+00:00"
-        },
-        {
           "title": "UNIGRID’s sodium-ion home battery debuts in Europe, US is next",
           "link": "https://electrek.co/2026/07/10/unigrid-sodium-ion-home-battery-debuts-in-europe-us/",
           "source": "Electrek",
@@ -447,7 +441,7 @@
       "count": 13,
       "items": [
         {
-          "title": "The Chip Is A $15,000 25-MPH EV That Makes Driving Optional",
+          "title": "EV Startup Reveals $15,000 25-MPH Car That You'll Never Have To Park",
           "link": "https://insideevs.com/news/801772/chip-motors-ev-remote-driving-2026/",
           "source": "InsideEVs",
           "published": "2026-07-15T17:19:01+00:00"
@@ -531,6 +525,12 @@
       "label": "로봇",
       "count": 22,
       "items": [
+        {
+          "title": "Walden Robotics launches at $1.1B valuation for general-purpose robots",
+          "link": "https://www.therobotreport.com/walden-robotics-launches-1-1b-valuation-general-purpose-robots/",
+          "source": "The Robot Report",
+          "published": "2026-07-15T20:04:03+00:00"
+        },
         {
           "title": "Agility outlines six recommendations for U.S. humanoid robot policies",
           "link": "https://www.therobotreport.com/agility-outlines-six-recommendations-for-u-s-humanoid-robot-policies/",
@@ -640,12 +640,6 @@
           "published": "2026-07-10T11:00:01+00:00"
         },
         {
-          "title": "ForSight Robotics’ road to performing a fully robotic cataract surgery",
-          "link": "https://www.therobotreport.com/forsight-robotics-road-to-performing-a-fully-robotic-cataracts-surgery/",
-          "source": "The Robot Report",
-          "published": "2026-07-09T21:14:06+00:00"
-        },
-        {
           "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
           "link": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda",
           "source": "IEEE Spectrum",
@@ -671,10 +665,10 @@
       "count": 40,
       "items": [
         {
-          "title": "오픈AI ‘GPT-5.6 솔’, 사용자 파일 무단 삭제...'선 넘은 자율성' 논란",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212778",
+          "title": "[7월15일] 구글의 차례가 왔다…시장이 '제미나이 3.5 프로'를 기다리는 이유",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212785",
           "source": "AI타임스",
-          "published": "2026-07-15T18:14:14+00:00"
+          "published": "2026-07-16T07:00:00+00:00"
         },
         {
           "title": "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets",
