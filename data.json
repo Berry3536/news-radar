@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-07-16T19:05:36.324926+00:00",
+  "generated_at": "2026-07-17T02:26:02.915137+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Tesla finally launches a bike — but it’s not what fans wanted",
+          "link": "https://electrek.co/2026/07/16/tesla-balance-bike-kids-225/",
+          "source": "Electrek",
+          "published": "2026-07-17T00:31:20+00:00"
+        },
+        {
+          "title": "Launch Mode Actually Makes The 2026 Tesla Model Y Performance Slower",
+          "link": "https://insideevs.com/news/801923/tesla-model-y-performance-launch/",
+          "source": "InsideEVs",
+          "published": "2026-07-16T22:21:13+00:00"
+        },
+        {
+          "title": "The BMW iX4 looks more like a grand tourer than an SUV [Images]",
+          "link": "https://electrek.co/2026/07/16/bmw-ix4-looks-more-like-gt-than-suv-images/",
+          "source": "Electrek",
+          "published": "2026-07-16T21:30:34+00:00"
+        },
+        {
+          "title": "Tesla (TSLA) shareholders are begging Musk to explain missed goals",
+          "link": "https://electrek.co/2026/07/16/tesla-shareholder-questions-q2-2026-earnings/",
+          "source": "Electrek",
+          "published": "2026-07-16T20:45:06+00:00"
+        },
+        {
+          "title": "Kia EV2 Long Range goes on sale with 281 miles of range, plus GT and Black-Line trims",
+          "link": "https://electrek.co/2026/07/16/kia-ev2-long-range-on-sale-281-miles-of-range/",
+          "source": "Electrek",
+          "published": "2026-07-16T19:55:02+00:00"
+        },
+        {
+          "title": "I Used To Hate Giant EVs Like The Cadillac Escalade IQL. Then I Drove One",
+          "link": "https://insideevs.com/reviews/801911/cadillac-escalade-iql-review/",
+          "source": "InsideEVs",
+          "published": "2026-07-16T19:42:09+00:00"
+        },
         {
           "title": "Xpeng’s new L03 undercuts Tesla Model Y by up to $10,000 in Europe",
           "link": "https://electrek.co/2026/07/16/xpeng-l03-pricing-tesla-model-y-europe/",
@@ -73,8 +109,8 @@
           "published": "2026-07-16T13:57:30+00:00"
         },
         {
-          "title": "Hyundai’s IONIQ 5 N EV just got much cheaper with a huge $6,300 price cut",
-          "link": "https://electrek.co/2026/07/16/hyundai-ioniq-5-n-ev-cheaper-6300-price-cut/",
+          "title": "Hyundai IONIQ 5 N EV gets a big $6,300 price cut and new features",
+          "link": "https://electrek.co/2026/07/16/hyundai-ioniq-5-n-ev-6300-price-cut-new-features/",
           "source": "Electrek",
           "published": "2026-07-16T13:39:02+00:00"
         },
@@ -209,50 +245,38 @@
           "link": "https://insideevs.com/news/801721/volkswagen-id-cross-cheapest-ev-suv/",
           "source": "InsideEVs",
           "published": "2026-07-15T12:12:38+00:00"
-        },
-        {
-          "title": "America Lost Over 111,000 Jobs Due To Trump's Clean Energy Pullback",
-          "link": "https://insideevs.com/news/801646/trump-rollbacks-end-energy-programs/",
-          "source": "InsideEVs",
-          "published": "2026-07-15T12:00:00+00:00"
-        },
-        {
-          "title": "New normal? The US has suffered a major power outage EVERY month of 2026",
-          "link": "https://electrek.co/2026/07/15/new-normal-the-us-has-suffered-a-major-power-outage-every-month-of-2026/",
-          "source": "Electrek",
-          "published": "2026-07-15T11:33:06+00:00"
-        },
-        {
-          "title": "Tern redesigns famous HSD cargo e-bike, making it smarter, stronger, and even more family-friendly",
-          "link": "https://electrek.co/2026/07/15/tern-redesigns-famous-hsd-cargo-e-bike-making-it-smarter-stronger-and-even-more-family-friendly/",
-          "source": "Electrek",
-          "published": "2026-07-15T10:00:00+00:00"
-        },
-        {
-          "title": "BMW Recalls 30,000 PHEVs, Tells Owners To Park Outside—But It's Not Because Of The Battery",
-          "link": "https://insideevs.com/news/801677/bmw-phev-recall-us-3-series-5-series-7-series/",
-          "source": "InsideEVs",
-          "published": "2026-07-15T08:08:58+00:00"
-        },
-        {
-          "title": "Aptera Won't Build A Service Network. Here's What Owners Will Get Instead",
-          "link": "https://insideevs.com/news/801672/aptera-solar-ev-service-network/",
-          "source": "InsideEVs",
-          "published": "2026-07-15T07:23:36+00:00"
-        },
-        {
-          "title": "Elon Musk quietly buys a $1 billion gas turbine company to power Grok",
-          "link": "https://electrek.co/2026/07/14/musk-buys-gas-turbine-company-apr-energy-grok/",
-          "source": "Electrek",
-          "published": "2026-07-14T23:32:50+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 32,
+      "count": 35,
       "items": [
+        {
+          "title": "From Mine to Megawatt: How NLR Is Securing Critical Mineral Supply Chains for the Power Grid",
+          "link": "https://cleantechnica.com/2026/07/16/from-mine-to-megawatt-how-nlr-is-securing-critical-mineral-supply-chains-for-the-power-grid/",
+          "source": "CleanTechnica",
+          "published": "2026-07-16T20:17:21+00:00"
+        },
+        {
+          "title": "NLR Battery Innovation Awarded NASA’s Invention of the Year",
+          "link": "https://cleantechnica.com/2026/07/16/nlr-battery-innovation-awarded-nasas-invention-of-the-year-2/",
+          "source": "CleanTechnica",
+          "published": "2026-07-16T20:04:20+00:00"
+        },
+        {
+          "title": "Kia EV2 Long Range goes on sale with 281 miles of range, plus GT and Black-Line trims",
+          "link": "https://electrek.co/2026/07/16/kia-ev2-long-range-on-sale-281-miles-of-range/",
+          "source": "Electrek",
+          "published": "2026-07-16T19:55:02+00:00"
+        },
+        {
+          "title": "China’s Electric Truck Moment Has Arrived — And It’s About To Hit Global Diesel Demand",
+          "link": "https://cleantechnica.com/2026/07/16/chinas-electric-truck-moment-has-arrived-and-its-about-to-hit-global-diesel-demand/",
+          "source": "CleanTechnica",
+          "published": "2026-07-16T19:20:20+00:00"
+        },
         {
           "title": "Segway Max G3 e-scooter at $1,000 2026 low, EcoFlow dual-bundle power station flash sale, Tapo solar security camera 3-pack low, more",
           "link": "https://electrek.co/2026/07/16/segway-max-g3-electric-scooter-ecoflow-power-station-tapo-solar-security-camera-more/",
@@ -374,12 +398,6 @@
           "published": "2026-07-13T15:49:07+00:00"
         },
         {
-          "title": "Ballard’s GeoPura Deal Turns Private Hydrogen Losses Into Public Dilution",
-          "link": "https://cleantechnica.com/2026/07/13/ballard-geopura-deal-losses-dilution/",
-          "source": "CleanTechnica",
-          "published": "2026-07-13T14:35:42+00:00"
-        },
-        {
           "title": "UNIGRID’s sodium-ion home battery debuts in Europe, US is next",
           "link": "https://electrek.co/2026/07/10/unigrid-sodium-ion-home-battery-debuts-in-europe-us/",
           "source": "Electrek",
@@ -450,8 +468,14 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 14,
+      "count": 15,
       "items": [
+        {
+          "title": "Tesla finally launches a bike — but it’s not what fans wanted",
+          "link": "https://electrek.co/2026/07/16/tesla-balance-bike-kids-225/",
+          "source": "Electrek",
+          "published": "2026-07-17T00:31:20+00:00"
+        },
         {
           "title": "Chip Motors unveils $15,000 electric ‘life utility vehicle’",
           "link": "https://electrek.co/2026/07/16/chip-motors-15000-electric-luv-25-mph/",
@@ -689,10 +713,10 @@
       "count": 40,
       "items": [
         {
-          "title": "\"사기 돕고, 평가 속이고\"…앤트로픽, 최첨단 AI '탈선 위험' 경고",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212837",
+          "title": "일본, 엔비디아 '루빈'으로 국가 AI 인프라 구축…'피지컬 AI' 승부",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212885",
           "source": "AI타임스",
-          "published": "2026-07-16T18:39:40+00:00"
+          "published": "2026-07-17T11:22:46+00:00"
         },
         {
           "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
