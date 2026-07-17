@@ -1,11 +1,53 @@
 {
-  "generated_at": "2026-07-17T08:05:35.992497+00:00",
+  "generated_at": "2026-07-17T13:22:03.893898+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "피렐리, 나폴리 페데리코 2세 대학교-메가라이드 그룹 라이드센스 지분 24.99% 인수",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44154",
+          "source": "모터그래프",
+          "published": "2026-07-17T18:22:38+00:00"
+        },
+        {
+          "title": "Wheel-E Podcast: New Tern HSD, 65 MPH ‘e-bike’, Segway Xaber review, more",
+          "link": "https://electrek.co/2026/07/17/wheel-e-podcast-new-tern-hsd-65-mph-e-bike-segway-xaber-review-more/",
+          "source": "Electrek",
+          "published": "2026-07-17T12:43:28+00:00"
+        },
+        {
+          "title": "Mick Murray’s hybrid haulers move more freight with fewer fumes",
+          "link": "https://electrek.co/2026/07/17/mick-murrays-hybrid-haulers-move-more-freight-with-fewer-fumes/",
+          "source": "Electrek",
+          "published": "2026-07-17T12:39:34+00:00"
+        },
+        {
+          "title": "Segway Xaber review: The mall-cop company just built a better Sur Ron for less money",
+          "link": "https://electrek.co/2026/07/17/segway-xaber-review-the-mall-cop-company-just-built-a-better-sur-ron-for-less-money/",
+          "source": "Electrek",
+          "published": "2026-07-17T12:37:05+00:00"
+        },
+        {
+          "title": "MG Is Putting Semi-Solid Batteries In Its Next Plug-In Hybrids",
+          "link": "https://insideevs.com/news/801989/mg-semi-solid-state-phev/",
+          "source": "InsideEVs",
+          "published": "2026-07-17T11:37:16+00:00"
+        },
+        {
+          "title": "GM Wants To Lower EV Owners’ Energy Bills With Smarter Home Charging",
+          "link": "https://insideevs.com/news/801983/gm-energy-weave-grid-ev-managed-charging/",
+          "source": "InsideEVs",
+          "published": "2026-07-17T09:29:58+00:00"
+        },
+        {
+          "title": "The Most Important Range Rover EV Is Coming Sooner Than We Thought",
+          "link": "https://insideevs.com/news/801973/range-rover-sport-ev-specs-battery-range/",
+          "source": "InsideEVs",
+          "published": "2026-07-17T08:38:31+00:00"
+        },
         {
           "title": "This Tiny New EV Motor Cuts Weight And Size For Impressive Efficiency",
           "link": "https://insideevs.com/news/801961/geely-thunder-ev-drive-efficiency/",
@@ -71,12 +113,6 @@
           "link": "https://electrek.co/2026/07/16/honda-is-officially-pulling-the-plug-on-its-only-ev/",
           "source": "Electrek",
           "published": "2026-07-16T17:18:14+00:00"
-        },
-        {
-          "title": "포르쉐 시작과 전설, 미래, 10월 포르쉐 바이브 서울에서 만나요~",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44142",
-          "source": "모터그래프",
-          "published": "2026-07-16T17:02:31+00:00"
         },
         {
           "title": "Volvo delivers first EX60 EVs, a ‘game changer’ with 500+ miles range and fast charging",
@@ -209,50 +245,20 @@
           "link": "https://electrek.co/2026/07/15/kia-reveals-another-low-cost-ev/",
           "source": "Electrek",
           "published": "2026-07-15T16:10:43+00:00"
-        },
-        {
-          "title": "Someone Is Already Trying To Flip One Of The Last Tesla Model S's Built. The Price Is... Ambitious",
-          "link": "https://insideevs.com/news/801723/tesla-model-s-signature-flip/",
-          "source": "InsideEVs",
-          "published": "2026-07-15T15:28:13+00:00"
-        },
-        {
-          "title": "GMC marks 25 years of Hummer with limited ‘ICON’ EV as sales sink 55%",
-          "link": "https://electrek.co/2026/07/15/gmc-hummer-ev-icon-25/",
-          "source": "Electrek",
-          "published": "2026-07-15T15:00:02+00:00"
-        },
-        {
-          "title": "Volkswagen’s new affordable electric SUV debuts with 265 miles of range [Images]",
-          "link": "https://electrek.co/2026/07/15/volkswagens-new-affordable-ev-suv-debuts-with-265-miles-range/",
-          "source": "Electrek",
-          "published": "2026-07-15T13:59:06+00:00"
-        },
-        {
-          "title": "Someone is flipping Tesla Model S Signature for $260,000 — $100K+ markup",
-          "link": "https://electrek.co/2026/07/15/tesla-model-s-signature-flip-260k/",
-          "source": "Electrek",
-          "published": "2026-07-15T13:53:21+00:00"
-        },
-        {
-          "title": "This Tesla Model 3 Battery Chemistry Ages Better Than The Rest",
-          "link": "https://insideevs.com/news/801724/tesla-model-3-lpf-degradation/",
-          "source": "InsideEVs",
-          "published": "2026-07-15T12:37:27+00:00"
-        },
-        {
-          "title": "Electric thunder down under: Volvo FH Electric gets to work in Australia",
-          "link": "https://electrek.co/2026/07/15/electric-thunder-down-under-volvo-fh-electric-gets-to-work-in-australia/",
-          "source": "Electrek",
-          "published": "2026-07-15T12:17:57+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 34,
+      "count": 35,
       "items": [
+        {
+          "title": "MG Is Putting Semi-Solid Batteries In Its Next Plug-In Hybrids",
+          "link": "https://insideevs.com/news/801989/mg-semi-solid-state-phev/",
+          "source": "InsideEVs",
+          "published": "2026-07-17T11:37:16+00:00"
+        },
         {
           "title": "China’s Batteries Move Beyond Capacity Scale-up: Utility-Scale Storage Could Have Shifted 23 TWh More Clean Power in 2025",
           "link": "https://cleantechnica.com/2026/07/16/chinas-batteries-move-beyond-capacity-scale-up-utility-scale-storage-could-have-shifted-23-twh-more-clean-power-in-2025/",
@@ -462,8 +468,26 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 16,
+      "count": 17,
       "items": [
+        {
+          "title": "4기통 터보 421마력, 숫자 너머의 우아함, 메르세데스-AMG SL 43",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44150",
+          "source": "모터그래프",
+          "published": "2026-07-17T18:16:48+00:00"
+        },
+        {
+          "title": "Segway Xaber review: The mall-cop company just built a better Sur Ron for less money",
+          "link": "https://electrek.co/2026/07/17/segway-xaber-review-the-mall-cop-company-just-built-a-better-sur-ron-for-less-money/",
+          "source": "Electrek",
+          "published": "2026-07-17T12:37:05+00:00"
+        },
+        {
+          "title": "GM Wants To Lower EV Owners’ Energy Bills With Smarter Home Charging",
+          "link": "https://insideevs.com/news/801983/gm-energy-weave-grid-ev-managed-charging/",
+          "source": "InsideEVs",
+          "published": "2026-07-17T09:29:58+00:00"
+        },
         {
           "title": "This Tiny New EV Motor Cuts Weight And Size For Impressive Efficiency",
           "link": "https://insideevs.com/news/801961/geely-thunder-ev-drive-efficiency/",
@@ -493,12 +517,6 @@
           "link": "https://insideevs.com/news/801772/chip-motors-ev-remote-driving-2026/",
           "source": "InsideEVs",
           "published": "2026-07-15T17:19:01+00:00"
-        },
-        {
-          "title": "드디어 돌아온 정통 후륜구동 쿠페, 메르세데스-AMG GT 43",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44139",
-          "source": "모터그래프",
-          "published": "2026-07-15T17:01:28+00:00"
         },
         {
           "title": "BYD says demand is ‘booming’ for the new Denza Z EV as global pre-orders top 1,000",
@@ -553,12 +571,6 @@
           "link": "https://electrek.co/2026/07/08/byds-pickup-priced-from-63000-in-uk-with-56-miles-ev-range/",
           "source": "Electrek",
           "published": "2026-07-08T14:51:36+00:00"
-        },
-        {
-          "title": "Ariel Rider launches outrageous new MUDD 72V bike with 65 MPH top speed",
-          "link": "https://electrek.co/2026/07/08/ariel-rider-launches-outrageous-new-mudd-72v-bike-with-65-mph-top-speed/",
-          "source": "Electrek",
-          "published": "2026-07-08T07:00:59+00:00"
         }
       ]
     },
@@ -568,16 +580,22 @@
       "count": 23,
       "items": [
         {
+          "title": "엔비디아-도요타, 피지컬 AI 협력 강화…\"차량 넘어 로봇·스마트시티까지\"",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47465",
+          "source": "로봇신문",
+          "published": "2026-07-17T20:04:33+00:00"
+        },
+        {
+          "title": "With new funding, Monumental plans to bring its construction robots to the U.S.",
+          "link": "https://www.therobotreport.com/with-new-funding-monumental-plans-bring-construction-robots-u-s/",
+          "source": "The Robot Report",
+          "published": "2026-07-17T12:30:10+00:00"
+        },
+        {
           "title": "TerraFirma raises $115M to build robotic infrastructure for construction",
           "link": "https://www.therobotreport.com/terrafirma-raises-115m-build-robotic-infrastructure-construction/",
           "source": "The Robot Report",
           "published": "2026-07-16T18:51:40+00:00"
-        },
-        {
-          "title": "스웨덴 코그니보틱스, 'HKM1800' 로봇으로 EU자금 110억원 유치",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47470",
-          "source": "로봇신문",
-          "published": "2026-07-16T17:46:36+00:00"
         },
         {
           "title": "How to Make an Invisible Drone",
@@ -670,12 +688,6 @@
           "published": "2026-07-11T13:30:02+00:00"
         },
         {
-          "title": "Why robotics teams need virtual gyms before deployment",
-          "link": "https://www.therobotreport.com/why-robotics-teams-need-virtual-gyms-before-deployment/",
-          "source": "The Robot Report",
-          "published": "2026-07-11T12:36:16+00:00"
-        },
-        {
           "title": "Video Friday: A World Cup for Robots",
           "link": "https://spectrum.ieee.org/video-friday-robot-world-cup",
           "source": "IEEE Spectrum",
@@ -713,10 +725,10 @@
       "count": 40,
       "items": [
         {
-          "title": "중국 메모리 대표 CXMT, 상하이 IPO 청약 212대 1 기록...14조 뭉칫돈 몰려",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212892",
+          "title": "젠슨 황, 일본서도 만찬 소통...이번엔 '단팥빵·모츠나베'가 주인공",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212895",
           "source": "AI타임스",
-          "published": "2026-07-17T13:49:50+00:00"
+          "published": "2026-07-17T21:22:56+00:00"
         },
         {
           "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
