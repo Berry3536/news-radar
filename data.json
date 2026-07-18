@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T02:10:51.820292+00:00",
+  "generated_at": "2026-07-18T07:44:26.572983+00:00",
   "categories": [
     {
       "key": "ev",
@@ -251,7 +251,7 @@
     {
       "key": "battery",
       "label": "배터리",
-      "count": 33,
+      "count": 32,
       "items": [
         {
           "title": "EcoFlow brings back Prime Day power station pricing in sale from $169, Segway Xafari e-bike $1,550 low, EGO Multi-Head, more",
@@ -366,12 +366,6 @@
           "link": "https://cleantechnica.com/2026/07/14/cypress-creek-google-break-ground-on-americas-largest-solar-project/",
           "source": "CleanTechnica",
           "published": "2026-07-15T01:23:18+00:00"
-        },
-        {
-          "title": "The 10 Top Battery Integrators in the World",
-          "link": "https://cleantechnica.com/2026/07/14/the-10-top-battery-integrators-in-the-world/",
-          "source": "CleanTechnica",
-          "published": "2026-07-15T00:20:09+00:00"
         },
         {
           "title": "Segway Myon smart e-bike first discount to $1,550, ECOVACS Goat O1000 RTK robot mower bundle $699, Lectric, Bluetti, more",
@@ -719,244 +713,244 @@
       "count": 40,
       "items": [
         {
-          "title": "메타, 앤트로픽과 15조 AI 인프라 임대 논의…클라우드 진출 눈앞",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212896",
+          "title": "딥시크, 기업가치 77조 달해...공식 문서로 몸값 처음 확인",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212901",
           "source": "AI타임스",
-          "published": "2026-07-18T06:45:57+00:00"
+          "published": "2026-07-18T16:34:04+00:00"
         },
         {
           "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
           "link": "https://arxiv.org/abs/2607.14093",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
           "link": "https://arxiv.org/abs/2607.14095",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "IMEX Interaction-Based Model Explanation",
           "link": "https://arxiv.org/abs/2607.14096",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
           "link": "https://arxiv.org/abs/2607.14097",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
           "link": "https://arxiv.org/abs/2607.14115",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "Interpretable Language Model for Closed-Loop Type 1 Diabetes Control",
           "link": "https://arxiv.org/abs/2607.14126",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "Human AI Construction of Bayesian Networks for Operational Decision Support -- A Virtual Survey Approach",
           "link": "https://arxiv.org/abs/2607.14141",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "Capability from Access Structure, Not Scale: Lower Bounds and Pre-Registered Tests for Hybrid Sequence Models",
           "link": "https://arxiv.org/abs/2607.14144",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability",
           "link": "https://arxiv.org/abs/2607.14145",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "Enhancing Small Language Models Reasoning through Knowledge Graph Grounding",
           "link": "https://arxiv.org/abs/2607.14149",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "Orchestrating Power Grid Studies with Multi-Agent AI and MCP Servers",
           "link": "https://arxiv.org/abs/2607.14158",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "MemoHarness: Agent Harnesses That Learn from Experience",
           "link": "https://arxiv.org/abs/2607.14159",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "When a Verified World Model Still Loses: Play-Adequacy vs Prediction-Accuracy in LLM-Synthesized Code World Models",
           "link": "https://arxiv.org/abs/2607.14169",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System",
           "link": "https://arxiv.org/abs/2607.14178",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination",
           "link": "https://arxiv.org/abs/2607.14187",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "How Artificial Intelligence LLM Engines Shape the Global Conflict Information Environment",
           "link": "https://arxiv.org/abs/2607.14197",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "Align AI to Dynamic Human-AI Workflows",
           "link": "https://arxiv.org/abs/2607.14240",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "The Steering Budget: Examples beat Knobs",
           "link": "https://arxiv.org/abs/2607.14246",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "Automatic Hard Example Synthesis with Multi-Level Agentic Data Curation",
           "link": "https://arxiv.org/abs/2607.14256",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "AI Agents Do Not Fail Alone:The Context Fails First",
           "link": "https://arxiv.org/abs/2607.14275",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)",
           "link": "https://arxiv.org/abs/2607.14301",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "Tracing LLM Behavior to the Training Data with Empirical Next-Token Distributions",
           "link": "https://arxiv.org/abs/2607.14306",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "Traccia: An OpenTelemetry-Based Governance Platform for AI Systems",
           "link": "https://arxiv.org/abs/2607.14309",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "CIPHER: A Decoupled Exploration-Selection Framework for Test-Time Scaling of Data Science Agents",
           "link": "https://arxiv.org/abs/2607.14386",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving",
           "link": "https://arxiv.org/abs/2607.14387",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "A Comparative Analysis of Machine Learning Models for Long and Short-Term Forecasting of the Egyptian Stock Market: A Focus on EGX30",
           "link": "https://arxiv.org/abs/2607.14391",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "CatalogAgent: A Supervisor-mediated Self-Learning System Enabling Context Engineering for GenAI Models",
           "link": "https://arxiv.org/abs/2607.14396",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "Instrument Effects in Language-Model Honesty Evaluation: An Auditable Single-System Demonstration",
           "link": "https://arxiv.org/abs/2607.14399",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "Reward-Free Evolving Agents via Pairwise Validator",
           "link": "https://arxiv.org/abs/2607.14408",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "CausalGraphX: A Counterfactual Graph Neural Network Framework for Explainable Systemic Risk Assessment",
           "link": "https://arxiv.org/abs/2607.14416",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "Per-Token Fixed-Point Convergence in Depth-Recurrent Transformers",
           "link": "https://arxiv.org/abs/2607.14427",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "Tactile: Giving Computer-Using Agents Hands and Feet",
           "link": "https://arxiv.org/abs/2607.14443",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "Step-Level Preference Learning for Generative Agents in Social Simulations",
           "link": "https://arxiv.org/abs/2607.14485",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "SAGA: Schema-Aware Grounding for Agentic Text-to-SPARQL Generation",
           "link": "https://arxiv.org/abs/2607.14494",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "Contextualized Evaluation of Vision Language Models through Dynamic, Multi-turn Interactions",
           "link": "https://arxiv.org/abs/2607.14499",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "VLT: A Vision-Language-Time Series Multimodal Foundation Model for Industrial Intelligence",
           "link": "https://arxiv.org/abs/2607.14510",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning",
           "link": "https://arxiv.org/abs/2607.14512",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays",
           "link": "https://arxiv.org/abs/2607.14524",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
           "title": "Are LLM-Generated GPU Kernels Production-Ready? A Trace-Driven Benchmark and Optimization Agent",
           "link": "https://arxiv.org/abs/2607.14541",
           "source": "arXiv cs.AI",
-          "published": "2026-07-17T04:00:00+00:00"
+          "published": "2026-07-18T04:00:00+00:00"
         }
       ]
     }
