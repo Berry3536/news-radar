@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-07-18T13:08:06.228922+00:00",
+  "generated_at": "2026-07-18T18:59:44.392764+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "This Suzuki’s Engine Blew Up. The Owner Converted It Into An EV In Just Five Days",
+          "link": "https://insideevs.com/news/801873/suzuki-suv-ev-conversion-fast-cheap/",
+          "source": "InsideEVs",
+          "published": "2026-07-18T14:00:00+00:00"
+        },
         {
           "title": "New HMP Flash brings affordable 75 MPH electric scooters to the US",
           "link": "https://electrek.co/2026/07/18/new-hmp-flash-brings-affordable-75-mph-electric-scooters-to-the-us/",
@@ -239,20 +245,32 @@
           "link": "https://electrek.co/2026/07/16/xpeng-l03-google-maps-auto-sdk/",
           "source": "Electrek",
           "published": "2026-07-16T14:53:30+00:00"
-        },
-        {
-          "title": "Range Rover’s smaller, more affordable electric SUV makes first public appearance [Images]",
-          "link": "https://electrek.co/2026/07/16/range-rover-sport-electric-first-public-appearance-images/",
-          "source": "Electrek",
-          "published": "2026-07-16T14:32:44+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 31,
+      "count": 34,
       "items": [
+        {
+          "title": "Philippines Logistics Firm Sees Swappable Battery Scooters As The Next Milestone In Last-Mile Deliveries",
+          "link": "https://cleantechnica.com/2026/07/18/philippines-logistics-firm-sees-swappable-battery-scooters-as-the-next-milestone-in-last-mile-deliveries/",
+          "source": "CleanTechnica",
+          "published": "2026-07-18T15:54:03+00:00"
+        },
+        {
+          "title": "Radar EV Pickup Sales More Than Double in Philippines as Electric Trucks Gain Traction",
+          "link": "https://cleantechnica.com/2026/07/18/radar-ev-pickup-sales-more-than-double-in-philippines-as-electric-trucks-gain-traction/",
+          "source": "CleanTechnica",
+          "published": "2026-07-18T14:30:56+00:00"
+        },
+        {
+          "title": "Philippines Energy Company Junk Coal Plant & Break Ground on Latest BESS",
+          "link": "https://cleantechnica.com/2026/07/18/philippines-energy-company-junk-coal-plant-break-ground-on-latest-bess/",
+          "source": "CleanTechnica",
+          "published": "2026-07-18T13:11:34+00:00"
+        },
         {
           "title": "EcoFlow brings back Prime Day power station pricing in sale from $169, Segway Xafari e-bike $1,550 low, EGO Multi-Head, more",
           "link": "https://electrek.co/2026/07/17/ecoflow-prime-day-power-station-pricing-segway-xafari-e-bike-ego-multi-head-more/",
