@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-07-18T07:44:26.572983+00:00",
+  "generated_at": "2026-07-18T13:08:06.228922+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "New HMP Flash brings affordable 75 MPH electric scooters to the US",
+          "link": "https://electrek.co/2026/07/18/new-hmp-flash-brings-affordable-75-mph-electric-scooters-to-the-us/",
+          "source": "Electrek",
+          "published": "2026-07-18T13:07:26+00:00"
+        },
+        {
+          "title": "Trump’s dumb idea to tariff Canada over smoke could set a useful precedent",
+          "link": "https://electrek.co/2026/07/18/trumps-dumb-idea-to-tariff-canada-over-smoke-could-set-a-useful-precedent/",
+          "source": "Electrek",
+          "published": "2026-07-18T13:00:00+00:00"
+        },
+        {
+          "title": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla",
+          "link": "https://insideevs.com/news/802044/xpeng-mona-l03-europe-launch/",
+          "source": "InsideEVs",
+          "published": "2026-07-18T12:00:00+00:00"
+        },
         {
           "title": "Toyota Is Paying EV Drivers $3,000 To Switch To A bZ",
           "link": "https://insideevs.com/news/802060/toyota-bz-3000-conquest-cash/",
@@ -227,31 +245,13 @@
           "link": "https://electrek.co/2026/07/16/range-rover-sport-electric-first-public-appearance-images/",
           "source": "Electrek",
           "published": "2026-07-16T14:32:44+00:00"
-        },
-        {
-          "title": "CATL’s 30-year sodium-ion battery takes over grid storage",
-          "link": "https://electrek.co/2026/07/16/catl-sodium-ion-15000-cycle-grid-storage/",
-          "source": "Electrek",
-          "published": "2026-07-16T13:57:30+00:00"
-        },
-        {
-          "title": "Hyundai IONIQ 5 N EV gets a big $6,300 price cut and new features",
-          "link": "https://electrek.co/2026/07/16/hyundai-ioniq-5-n-ev-6300-price-cut-new-features/",
-          "source": "Electrek",
-          "published": "2026-07-16T13:39:02+00:00"
-        },
-        {
-          "title": "Infinite Machine Olto review: A strange ‘e-bike’ or an urban transportation revolution?",
-          "link": "https://electrek.co/2026/07/16/infinite-machine-olto-review-a-strange-e-bike-or-an-urban-transportation-revolution/",
-          "source": "Electrek",
-          "published": "2026-07-16T12:32:54+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 32,
+      "count": 31,
       "items": [
         {
           "title": "EcoFlow brings back Prime Day power station pricing in sale from $169, Segway Xafari e-bike $1,550 low, EGO Multi-Head, more",
@@ -362,12 +362,6 @@
           "published": "2026-07-15T11:33:06+00:00"
         },
         {
-          "title": "Cypress Creek & Google Break Ground on America’s Largest Solar Project",
-          "link": "https://cleantechnica.com/2026/07/14/cypress-creek-google-break-ground-on-americas-largest-solar-project/",
-          "source": "CleanTechnica",
-          "published": "2026-07-15T01:23:18+00:00"
-        },
-        {
           "title": "Segway Myon smart e-bike first discount to $1,550, ECOVACS Goat O1000 RTK robot mower bundle $699, Lectric, Bluetti, more",
           "link": "https://electrek.co/2026/07/14/segway-myon-smart-e-bike-first-discount-to-1550-ecovacs-goat-o1000-rtk-robot-mower-bundle-699-lectric-bluetti-more/",
           "source": "Electrek",
@@ -450,8 +444,14 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 17,
+      "count": 18,
       "items": [
+        {
+          "title": "New HMP Flash brings affordable 75 MPH electric scooters to the US",
+          "link": "https://electrek.co/2026/07/18/new-hmp-flash-brings-affordable-75-mph-electric-scooters-to-the-us/",
+          "source": "Electrek",
+          "published": "2026-07-18T13:07:26+00:00"
+        },
         {
           "title": "4기통 터보 421마력, 숫자 너머의 우아함, 메르세데스-AMG SL 43",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44150",
@@ -559,8 +559,14 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 24,
+      "count": 23,
       "items": [
+        {
+          "title": "Palm Garden AI develops Coherence Guard relational decision layer for human-facing robots",
+          "link": "https://www.therobotreport.com/palm-garden-ai-develops-coherence-guard-relational-decision-layer-human-facing-robots/",
+          "source": "The Robot Report",
+          "published": "2026-07-18T12:30:20+00:00"
+        },
         {
           "title": "엔비디아-도요타, 피지컬 AI 협력 강화…\"차량 넘어 로봇·스마트시티까지\"",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47465",
@@ -670,12 +676,6 @@
           "published": "2026-07-13T19:55:06+00:00"
         },
         {
-          "title": "The Robot Report parent company, WTWH Media, rebrands as Arrowfly",
-          "link": "https://www.therobotreport.com/the-robot-report-parent-company-wtwh-media-rebrands-as-arrowfly/",
-          "source": "The Robot Report",
-          "published": "2026-07-13T12:04:39+00:00"
-        },
-        {
           "title": "Building a Foundation Stack for General-Purpose Robots",
           "link": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
           "source": "IEEE Spectrum",
@@ -698,12 +698,6 @@
           "link": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda",
           "source": "IEEE Spectrum",
           "published": "2026-07-07T19:02:42+00:00"
-        },
-        {
-          "title": "Japan Pioneered Humanoid Robots—Can It Now Catch China?",
-          "link": "https://spectrum.ieee.org/humanoid-robots-japan",
-          "source": "IEEE Spectrum",
-          "published": "2026-07-04T11:00:01+00:00"
         }
       ]
     },
@@ -713,10 +707,10 @@
       "count": 40,
       "items": [
         {
-          "title": "딥시크, 기업가치 77조 달해...공식 문서로 몸값 처음 확인",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212901",
+          "title": "애플-엔비디아, 시총 1위 두고 '초박빙' 접전…장중 한때 애플 선두 탈환",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212906",
           "source": "AI타임스",
-          "published": "2026-07-18T16:34:04+00:00"
+          "published": "2026-07-18T18:38:22+00:00"
         },
         {
           "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
