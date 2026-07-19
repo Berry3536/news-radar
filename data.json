@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-07-19T13:12:23.691698+00:00",
+  "generated_at": "2026-07-19T19:02:09.293516+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Bentley's EV Will Use an Orchestra to Replicate the Sound of a V8",
+          "link": "https://insideevs.com/news/801933/bentley-orchestra-replicate-v8-ev/",
+          "source": "InsideEVs",
+          "published": "2026-07-19T14:00:00+00:00"
+        },
         {
           "title": "Ferrari Is Auctioning Off The First Example Of its First Electric Car. How Much Do You Think It'll Fetch?",
           "link": "https://insideevs.com/news/802055/ferrari-luce-ev-auction-million/",
@@ -239,20 +245,20 @@
           "link": "https://electrek.co/2026/07/16/segway-max-g3-electric-scooter-ecoflow-power-station-tapo-solar-security-camera-more/",
           "source": "Electrek",
           "published": "2026-07-16T18:00:00+00:00"
-        },
-        {
-          "title": "Honda is officially pulling the plug on its only EV in the US",
-          "link": "https://electrek.co/2026/07/16/honda-is-officially-pulling-the-plug-on-its-only-ev/",
-          "source": "Electrek",
-          "published": "2026-07-16T17:18:14+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 36,
+      "count": 37,
       "items": [
+        {
+          "title": "ASEAN Shifts Focus to Battery Manufacturing, Scaling EV Adoption, and Grid Integration",
+          "link": "https://cleantechnica.com/2026/07/19/asean-shifts-focus-to-battery-manufacturing-scaling-ev-adoption-and-grid-integration/",
+          "source": "CleanTechnica",
+          "published": "2026-07-19T14:49:04+00:00"
+        },
         {
           "title": "Ferrari Is Auctioning Off The First Example Of its First Electric Car. How Much Do You Think It'll Fetch?",
           "link": "https://insideevs.com/news/802055/ferrari-luce-ev-auction-million/",
@@ -586,10 +592,10 @@
       "count": 23,
       "items": [
         {
-          "title": "獨 소우-유로드라이브, 68km 구간서 단일 컨베이어로 모래 이송",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47480",
+          "title": "WRO 홍콩 내셔널 파이널서 한국 대표팀 쾌거… ‘드림 포텐셜’ 주니어 전체 2위",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47487",
           "source": "로봇신문",
-          "published": "2026-07-19T20:21:47+00:00"
+          "published": "2026-07-19T23:02:10+00:00"
         },
         {
           "title": "How to avoid the teleoperation trap in robotics development",
