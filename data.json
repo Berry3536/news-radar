@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-07-19T08:12:16.143604+00:00",
+  "generated_at": "2026-07-19T13:12:23.691698+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Ferrari Is Auctioning Off The First Example Of its First Electric Car. How Much Do You Think It'll Fetch?",
+          "link": "https://insideevs.com/news/802055/ferrari-luce-ev-auction-million/",
+          "source": "InsideEVs",
+          "published": "2026-07-19T12:00:00+00:00"
+        },
         {
           "title": "New 6 passenger, 780-mile PHEV from GM has North America written all over it",
           "link": "https://electrek.co/2026/07/18/new-6-passenger-780-mile-phev-from-gm-has-north-america-written-all-over-it/",
@@ -239,20 +245,20 @@
           "link": "https://electrek.co/2026/07/16/honda-is-officially-pulling-the-plug-on-its-only-ev/",
           "source": "Electrek",
           "published": "2026-07-16T17:18:14+00:00"
-        },
-        {
-          "title": "Volvo delivers first EX60 EVs, a ‘game changer’ with 500+ miles range and fast charging",
-          "link": "https://electrek.co/2026/07/16/volvo-delivers-first-ex60-evs-game-changer-500-mi-range/",
-          "source": "Electrek",
-          "published": "2026-07-16T16:07:32+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 35,
+      "count": 36,
       "items": [
+        {
+          "title": "Ferrari Is Auctioning Off The First Example Of its First Electric Car. How Much Do You Think It'll Fetch?",
+          "link": "https://insideevs.com/news/802055/ferrari-luce-ev-auction-million/",
+          "source": "InsideEVs",
+          "published": "2026-07-19T12:00:00+00:00"
+        },
         {
           "title": "LiuGong brings electric heavy equipment options to North America [video]",
           "link": "https://electrek.co/2026/07/18/liugong-brings-electric-heavy-equipment-options-to-north-america-video/",
@@ -468,7 +474,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 18,
+      "count": 17,
       "items": [
         {
           "title": "New HMP Flash brings affordable 75 MPH electric scooters to the US",
@@ -523,12 +529,6 @@
           "link": "https://insideevs.com/news/801796/dongfeng-canada-china-nammi-box/",
           "source": "InsideEVs",
           "published": "2026-07-16T14:54:24+00:00"
-        },
-        {
-          "title": "EV Startup Reveals $15,000 25-MPH Car That You'll Never Have To Park",
-          "link": "https://insideevs.com/news/801772/chip-motors-ev-remote-driving-2026/",
-          "source": "InsideEVs",
-          "published": "2026-07-15T17:19:01+00:00"
         },
         {
           "title": "BYD says demand is ‘booming’ for the new Denza Z EV as global pre-orders top 1,000",
@@ -586,16 +586,22 @@
       "count": 23,
       "items": [
         {
+          "title": "獨 소우-유로드라이브, 68km 구간서 단일 컨베이어로 모래 이송",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47480",
+          "source": "로봇신문",
+          "published": "2026-07-19T20:21:47+00:00"
+        },
+        {
+          "title": "How to avoid the teleoperation trap in robotics development",
+          "link": "https://www.therobotreport.com/how-to-avoid-teleoperation-trap-robotics-development/",
+          "source": "The Robot Report",
+          "published": "2026-07-19T12:30:25+00:00"
+        },
+        {
           "title": "Palm Garden AI develops Coherence Guard relational decision layer for human-facing robots",
           "link": "https://www.therobotreport.com/palm-garden-ai-develops-coherence-guard-relational-decision-layer-human-facing-robots/",
           "source": "The Robot Report",
           "published": "2026-07-18T12:30:20+00:00"
-        },
-        {
-          "title": "엔비디아-도요타, 피지컬 AI 협력 강화…\"차량 넘어 로봇·스마트시티까지\"",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47465",
-          "source": "로봇신문",
-          "published": "2026-07-17T20:04:33+00:00"
         },
         {
           "title": "Founder of Maximo discusses how robotics is accelerating solar construction",
@@ -694,12 +700,6 @@
           "published": "2026-07-13T22:16:05+00:00"
         },
         {
-          "title": "Yaskawa America gets information security certification",
-          "link": "https://www.therobotreport.com/yaskawa-america-gets-information-seccurity-certification/",
-          "source": "The Robot Report",
-          "published": "2026-07-13T19:55:06+00:00"
-        },
-        {
           "title": "Building a Foundation Stack for General-Purpose Robots",
           "link": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
           "source": "IEEE Spectrum",
@@ -731,10 +731,10 @@
       "count": 1,
       "items": [
         {
-          "title": "\"엔비디아 내부서도 GPU 확보 전쟁...젠슨 황이 직접 중재\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212914",
+          "title": "씽킹AI, 한국 진출 후 보폭 확대…고객사 60곳 확보·기능 고도화 가속",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212915",
           "source": "AI타임스",
-          "published": "2026-07-19T16:35:35+00:00"
+          "published": "2026-07-19T18:32:17+00:00"
         }
       ]
     }
