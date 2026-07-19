@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-07-18T18:59:44.392764+00:00",
+  "generated_at": "2026-07-19T02:28:03.205379+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "New 6 passenger, 780-mile PHEV from GM has North America written all over it",
+          "link": "https://electrek.co/2026/07/18/new-6-passenger-780-mile-phev-from-gm-has-north-america-written-all-over-it/",
+          "source": "Electrek",
+          "published": "2026-07-19T00:05:03+00:00"
+        },
+        {
+          "title": "LiuGong brings electric heavy equipment options to North America [video]",
+          "link": "https://electrek.co/2026/07/18/liugong-brings-electric-heavy-equipment-options-to-north-america-video/",
+          "source": "Electrek",
+          "published": "2026-07-18T20:50:45+00:00"
+        },
+        {
+          "title": "Honda goes all-in on EVs in a multibillion dollar market: commercial lawnmowers",
+          "link": "https://electrek.co/2026/07/18/honda-goes-all-in-on-evs-in-a-multibillion-dollar-market-commercial-lawnmowers/",
+          "source": "Electrek",
+          "published": "2026-07-18T19:56:41+00:00"
+        },
         {
           "title": "This Suzuki’s Engine Blew Up. The Owner Converted It Into An EV In Just Five Days",
           "link": "https://insideevs.com/news/801873/suzuki-suv-ev-conversion-fast-cheap/",
@@ -227,32 +245,20 @@
           "link": "https://electrek.co/2026/07/16/volvo-delivers-first-ex60-evs-game-changer-500-mi-range/",
           "source": "Electrek",
           "published": "2026-07-16T16:07:32+00:00"
-        },
-        {
-          "title": "Chip Motors unveils $15,000 electric ‘life utility vehicle’",
-          "link": "https://electrek.co/2026/07/16/chip-motors-15000-electric-luv-25-mph/",
-          "source": "Electrek",
-          "published": "2026-07-16T15:42:24+00:00"
-        },
-        {
-          "title": "Americans Can't Have These Affordable Chinese EVs. But They're Coming To Canada",
-          "link": "https://insideevs.com/news/801796/dongfeng-canada-china-nammi-box/",
-          "source": "InsideEVs",
-          "published": "2026-07-16T14:54:24+00:00"
-        },
-        {
-          "title": "XPeng L03 ships Google Maps Auto SDK — a first for an APAC automaker",
-          "link": "https://electrek.co/2026/07/16/xpeng-l03-google-maps-auto-sdk/",
-          "source": "Electrek",
-          "published": "2026-07-16T14:53:30+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 34,
+      "count": 35,
       "items": [
+        {
+          "title": "LiuGong brings electric heavy equipment options to North America [video]",
+          "link": "https://electrek.co/2026/07/18/liugong-brings-electric-heavy-equipment-options-to-north-america-video/",
+          "source": "Electrek",
+          "published": "2026-07-18T20:50:45+00:00"
+        },
         {
           "title": "Philippines Logistics Firm Sees Swappable Battery Scooters As The Next Milestone In Last-Mile Deliveries",
           "link": "https://cleantechnica.com/2026/07/18/philippines-logistics-firm-sees-swappable-battery-scooters-as-the-next-milestone-in-last-mile-deliveries/",
@@ -725,10 +731,10 @@
       "count": 40,
       "items": [
         {
-          "title": "애플-엔비디아, 시총 1위 두고 '초박빙' 접전…장중 한때 애플 선두 탈환",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212906",
+          "title": "순천, ‘탄소모아 탄탄e’ 운영...연 최대 20만원 포인트",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212861",
           "source": "AI타임스",
-          "published": "2026-07-18T18:38:22+00:00"
+          "published": "2026-07-19T09:25:00+00:00"
         },
         {
           "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
