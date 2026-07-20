@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T08:53:26.666689+00:00",
+  "generated_at": "2026-07-20T14:00:02.241412+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,30 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44155",
           "source": "모터그래프",
           "published": "2026-07-20T17:13:18+00:00"
+        },
+        {
+          "title": "The 2027 BMW i5 Gets More Range Just As The Tesla Model S Fades Away",
+          "link": "https://insideevs.com/news/802185/2027-bmw-i5-range-increase/",
+          "source": "InsideEVs",
+          "published": "2026-07-20T13:37:46+00:00"
+        },
+        {
+          "title": "Tesla remote operator crashed a ‘Robotaxi’ in Houston, NHTSA data shows",
+          "link": "https://electrek.co/2026/07/20/tesla-robotaxi-remote-operator-crash-houston/",
+          "source": "Electrek",
+          "published": "2026-07-20T13:15:01+00:00"
+        },
+        {
+          "title": "Pilot's EV Charging Network Isn't Slowing Down. It Just Hit 300 Locations",
+          "link": "https://insideevs.com/news/802174/pilot-flying-j-ev-chargers-expansion-2026/",
+          "source": "InsideEVs",
+          "published": "2026-07-20T12:29:29+00:00"
+        },
+        {
+          "title": "EVs Just Beat Gas And Diesel In Europe’s Biggest Car Market For The First Time",
+          "link": "https://insideevs.com/news/802162/evs-outsold-gas-hybrid-diesel-germany/",
+          "source": "InsideEVs",
+          "published": "2026-07-20T10:09:33+00:00"
         },
         {
           "title": "Chinese Wuling Bingo could come to North America as an entry-level Chevy EV",
@@ -221,38 +245,20 @@
           "link": "https://insideevs.com/news/801923/tesla-model-y-performance-launch/",
           "source": "InsideEVs",
           "published": "2026-07-16T22:21:13+00:00"
-        },
-        {
-          "title": "The BMW iX4 looks more like a grand tourer than an SUV [Images]",
-          "link": "https://electrek.co/2026/07/16/bmw-ix4-looks-more-like-gt-than-suv-images/",
-          "source": "Electrek",
-          "published": "2026-07-16T21:30:34+00:00"
-        },
-        {
-          "title": "Tesla (TSLA) shareholders are begging Musk to explain missed goals",
-          "link": "https://electrek.co/2026/07/16/tesla-shareholder-questions-q2-2026-earnings/",
-          "source": "Electrek",
-          "published": "2026-07-16T20:45:06+00:00"
-        },
-        {
-          "title": "Kia EV2 Long Range goes on sale with 281 miles of range, plus GT and Black-Line trims",
-          "link": "https://electrek.co/2026/07/16/kia-ev2-long-range-on-sale-281-miles-of-range/",
-          "source": "Electrek",
-          "published": "2026-07-16T19:55:02+00:00"
-        },
-        {
-          "title": "I Used To Hate Giant EVs Like The Cadillac Escalade IQL. Then I Drove One",
-          "link": "https://insideevs.com/reviews/801911/cadillac-escalade-iql-review/",
-          "source": "InsideEVs",
-          "published": "2026-07-16T19:42:09+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 33,
+      "count": 34,
       "items": [
+        {
+          "title": "Cradle-to-Crisis Approach Improves Battery Safety & Performance",
+          "link": "https://cleantechnica.com/2026/07/20/cradle-to-crisis-approach-improves-battery-safety-performance/",
+          "source": "CleanTechnica",
+          "published": "2026-07-20T11:00:47+00:00"
+        },
         {
           "title": "ASEAN Shifts Focus to Battery Manufacturing, Scaling EV Adoption, and Grid Integration",
           "link": "https://cleantechnica.com/2026/07/19/asean-shifts-focus-to-battery-manufacturing-scaling-ev-adoption-and-grid-integration/",
@@ -456,7 +462,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 17,
+      "count": 16,
       "items": [
         {
           "title": "제네시스 스튜디오 하남에서 열리는 제네시스 마그마 X GMR 특별전",
@@ -505,12 +511,6 @@
           "link": "https://electrek.co/2026/07/16/chip-motors-15000-electric-luv-25-mph/",
           "source": "Electrek",
           "published": "2026-07-16T15:42:24+00:00"
-        },
-        {
-          "title": "Americans Can't Have These Affordable Chinese EVs. But They're Coming To Canada",
-          "link": "https://insideevs.com/news/801796/dongfeng-canada-china-nammi-box/",
-          "source": "InsideEVs",
-          "published": "2026-07-16T14:54:24+00:00"
         },
         {
           "title": "BYD says demand is ‘booming’ for the new Denza Z EV as global pre-orders top 1,000",
@@ -568,10 +568,10 @@
       "count": 23,
       "items": [
         {
-          "title": "오늘의 로봇 기업 주식 시세(2026-07-20)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47497",
+          "title": "한국로봇산업진흥원, 대구 시작으로 전국 로봇산업 현장 찾는다",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47502",
           "source": "로봇신문",
-          "published": "2026-07-20T15:50:46+00:00"
+          "published": "2026-07-20T18:02:22+00:00"
         },
         {
           "title": "How to avoid the teleoperation trap in robotics development",
@@ -713,10 +713,10 @@
       "count": 40,
       "items": [
         {
-          "title": "넘즈에이아이, ‘정형 데이터 파운데이션 모델’로 40억 시드 투자 유치",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212957",
+          "title": "[기고] 슈퍼브에이아이 “피지컬 AI 데이터 팩토리, '몇 개 짓느냐'보다 '어떻게 돌리느냐'”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212953",
           "source": "AI타임스",
-          "published": "2026-07-20T17:46:09+00:00"
+          "published": "2026-07-20T18:05:00+00:00"
         },
         {
           "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
