@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-07-20T02:43:16.886411+00:00",
+  "generated_at": "2026-07-20T08:53:26.666689+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "제네시스 스튜디오 하남에서 열리는 제네시스 마그마 X GMR 특별전",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44155",
+          "source": "모터그래프",
+          "published": "2026-07-20T17:13:18+00:00"
+        },
         {
           "title": "Chinese Wuling Bingo could come to North America as an entry-level Chevy EV",
           "link": "https://electrek.co/2026/07/19/chinese-wuling-bingo-could-come-to-north-america-as-an-entry-level-chevy-ev/",
@@ -107,12 +113,6 @@
           "link": "https://insideevs.com/features/802053/ev-winners-losers-sales-2026/",
           "source": "InsideEVs",
           "published": "2026-07-17T18:42:28+00:00"
-        },
-        {
-          "title": "피렐리, 나폴리 페데리코 2세 대학교-메가라이드 그룹 라이드센스 지분 24.99% 인수",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44154",
-          "source": "모터그래프",
-          "published": "2026-07-17T18:22:38+00:00"
         },
         {
           "title": "Toyota is offering $3,000 if you trade in your old EV for its new electric SUV",
@@ -251,7 +251,7 @@
     {
       "key": "battery",
       "label": "배터리",
-      "count": 35,
+      "count": 33,
       "items": [
         {
           "title": "ASEAN Shifts Focus to Battery Manufacturing, Scaling EV Adoption, and Grid Integration",
@@ -368,18 +368,6 @@
           "published": "2026-07-16T13:57:30+00:00"
         },
         {
-          "title": "World’s Largest Integrated Solar & Battery Storage Project Inaugurated in the Philippines",
-          "link": "https://cleantechnica.com/2026/07/16/worlds-largest-integrated-solar-battery-storage-project-inaugurated-in-the-philippines/",
-          "source": "CleanTechnica",
-          "published": "2026-07-16T13:41:23+00:00"
-        },
-        {
-          "title": "Hyundai’s $5 Billion EV Battery Plant In Georgia Powers Up",
-          "link": "https://insideevs.com/news/801765/hyundai-sk-on-ev-battery-plant-georgia/",
-          "source": "InsideEVs",
-          "published": "2026-07-15T19:06:03+00:00"
-        },
-        {
           "title": "Hyundai opens $5 billion battery plant as it pushes to become America’s #2 EV brand",
           "link": "https://electrek.co/2026/07/15/hyundai-opens-5b-battery-plant-push-for-americas-2-ev-brand/",
           "source": "Electrek",
@@ -471,16 +459,16 @@
       "count": 17,
       "items": [
         {
+          "title": "제네시스 스튜디오 하남에서 열리는 제네시스 마그마 X GMR 특별전",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44155",
+          "source": "모터그래프",
+          "published": "2026-07-20T17:13:18+00:00"
+        },
+        {
           "title": "New HMP Flash brings affordable 75 MPH electric scooters to the US",
           "link": "https://electrek.co/2026/07/18/new-hmp-flash-brings-affordable-75-mph-electric-scooters-to-the-us/",
           "source": "Electrek",
           "published": "2026-07-18T13:07:26+00:00"
-        },
-        {
-          "title": "4기통 터보 421마력, 숫자 너머의 우아함, 메르세데스-AMG SL 43",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44150",
-          "source": "모터그래프",
-          "published": "2026-07-17T18:16:48+00:00"
         },
         {
           "title": "In the birthplace of the car, EVs are now king: BEVs outsell gas cars in Germany",
@@ -580,10 +568,10 @@
       "count": 23,
       "items": [
         {
-          "title": "WRO 홍콩 내셔널 파이널서 한국 대표팀 쾌거… ‘드림 포텐셜’ 주니어 전체 2위",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47487",
+          "title": "오늘의 로봇 기업 주식 시세(2026-07-20)",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47497",
           "source": "로봇신문",
-          "published": "2026-07-19T23:02:10+00:00"
+          "published": "2026-07-20T15:50:46+00:00"
         },
         {
           "title": "How to avoid the teleoperation trap in robotics development",
@@ -722,13 +710,247 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 1,
+      "count": 40,
       "items": [
         {
-          "title": "알리바바, 2.4조 매개변수 '큐원3.8' 공개...\"페이블 5 이어 세계 2위\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212918",
+          "title": "넘즈에이아이, ‘정형 데이터 파운데이션 모델’로 40억 시드 투자 유치",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212957",
           "source": "AI타임스",
-          "published": "2026-07-20T08:00:42+00:00"
+          "published": "2026-07-20T17:46:09+00:00"
+        },
+        {
+          "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+          "link": "https://arxiv.org/abs/2607.15280",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
+          "link": "https://arxiv.org/abs/2607.15281",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "Cura 1T: Specialized Model for Agentic Healthcare",
+          "link": "https://arxiv.org/abs/2607.15314",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
+          "link": "https://arxiv.org/abs/2607.15367",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
+          "link": "https://arxiv.org/abs/2607.15388",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings",
+          "link": "https://arxiv.org/abs/2607.15418",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "Do Coding Agents Need Executable World Models, Simplification, and Verification to Solve ARC-AGI-3?",
+          "link": "https://arxiv.org/abs/2607.15439",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "Beyond a Joke: Multi-Angle Reasoning for Detecting and Explaining Harmful Humor in Memes",
+          "link": "https://arxiv.org/abs/2607.15442",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "From Black Box to Executable Logic: Explainable Reinforcement Learning through Prolog Expert Systems",
+          "link": "https://arxiv.org/abs/2607.15459",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "A Critical Analysis of Trustworthy AI Tools, Mark Frameworks, and the Implementation Chasms",
+          "link": "https://arxiv.org/abs/2607.15480",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "Logic, Optimization, and Artificial Intelligence",
+          "link": "https://arxiv.org/abs/2607.15532",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction",
+          "link": "https://arxiv.org/abs/2607.15550",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "MGDT: MLLM-Guided Diffusion Transformer with Relation-Adaptive Mixture-of-Experts for Multimodal Knowledge Graph Completion",
+          "link": "https://arxiv.org/abs/2607.15592",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "Neuro-Symbolic AI for LEED compliance: Document-Centric Benchmarking, Deterministic Numeric Checking, and When Multimodal Hurts",
+          "link": "https://arxiv.org/abs/2607.15647",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "ToolVerse: Unlocking Massive Environments and Long-Horizon Tasks for Agentic Reinforcement Learning",
+          "link": "https://arxiv.org/abs/2607.15660",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation",
+          "link": "https://arxiv.org/abs/2607.15686",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "Behavioral Controllability of Agentic Models for Information Extraction: From Fixed Workflows to Reflective Agents",
+          "link": "https://arxiv.org/abs/2607.15715",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "NeurOWL: An LLM-Based Neural-symbolic Framework for Incomplete OWL Ontology Reasoning",
+          "link": "https://arxiv.org/abs/2607.15776",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "AgentFAIR: A Multi-Agent Collaborative Framework for FAIRness Evaluation of Geospatial Datasets",
+          "link": "https://arxiv.org/abs/2607.15781",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "Knowledge-Centric Agents for Workflow Generation",
+          "link": "https://arxiv.org/abs/2607.15845",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "DSWorld: A Data Science World Model for Efficient Autonomous Agents",
+          "link": "https://arxiv.org/abs/2607.15901",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "A Formally Grounded ODRL Evaluator: Implementation and Comparison",
+          "link": "https://arxiv.org/abs/2607.15987",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "Closing the AI Trust Gap: The Case for Independent Certification for Trustworthy AI",
+          "link": "https://arxiv.org/abs/2607.15992",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery",
+          "link": "https://arxiv.org/abs/2607.16038",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "Harmonizing AI Safety Thresholds",
+          "link": "https://arxiv.org/abs/2607.16112",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "CRAFT: Clustering Rubrics to Diagnose Weak LLM Capabilities and Generate Targeted Fine-Tuning Data",
+          "link": "https://arxiv.org/abs/2607.16122",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "Empathy as Predictive Misalignment Tolerance: A Co-Regulation Framework and the Regime Structure of Dialogue Repair",
+          "link": "https://arxiv.org/abs/2607.15282",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "How Does Empowering Users with Greater System Control Affect News Filter Bubbles?",
+          "link": "https://arxiv.org/abs/2607.15284",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "Structure of the Circular-Dyadic Convolution Error",
+          "link": "https://arxiv.org/abs/2607.15293",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "AV-JEPA: Extending LeJEPA to Audio-Visual Self-Supervised Learning",
+          "link": "https://arxiv.org/abs/2607.15295",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "Data-driven Video Codec with Implicit Neural Representations",
+          "link": "https://arxiv.org/abs/2607.15298",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "Lazy Arithmetic using Systolic Arrays for Closing the Verification Gap on Embedded Systems",
+          "link": "https://arxiv.org/abs/2607.15328",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "Large Language Models as Unified Multimodal Learners for Clinical Prediction",
+          "link": "https://arxiv.org/abs/2607.15380",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "Partial Information Decomposition as a Multi-Contrast 3D MRI Selection Strategy for Resource-Constrained Deep Neural Network Training in Brain Tumor Segmentation",
+          "link": "https://arxiv.org/abs/2607.15396",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "AI Trading: Evaluating Large Language Models for Technical Market Analysis",
+          "link": "https://arxiv.org/abs/2607.15414",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "Coercion and Deception in AI-to-AI Management: An Agentic Benchmark of Unprompted Escalation",
+          "link": "https://arxiv.org/abs/2607.15434",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "Design-Based Supervised Learning with Noisy Human Labels",
+          "link": "https://arxiv.org/abs/2607.15455",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "FLINT: Fingerprinting Federated Learning Architectures from 5G PHY-Layer Side Channels",
+          "link": "https://arxiv.org/abs/2607.15469",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
+        },
+        {
+          "title": "Verbalizable Representations Form a Global Workspace in Language Models",
+          "link": "https://arxiv.org/abs/2607.15495",
+          "source": "arXiv cs.AI",
+          "published": "2026-07-20T04:00:00+00:00"
         }
       ]
     }
