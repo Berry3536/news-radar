@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-07-19T19:02:09.293516+00:00",
+  "generated_at": "2026-07-20T02:43:16.886411+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Chinese Wuling Bingo could come to North America as an entry-level Chevy EV",
+          "link": "https://electrek.co/2026/07/19/chinese-wuling-bingo-could-come-to-north-america-as-an-entry-level-chevy-ev/",
+          "source": "Electrek",
+          "published": "2026-07-19T22:28:34+00:00"
+        },
+        {
+          "title": "Survey Sunday: is Slate Auto’s affordable electric truck going to make it?",
+          "link": "https://electrek.co/2026/07/19/survey-sunday-is-slate-autos-affordable-electric-truck-going-to-make-it/",
+          "source": "Electrek",
+          "published": "2026-07-19T21:20:04+00:00"
+        },
+        {
+          "title": "Pilot hits new EV milestone with 300th DC fast charging location",
+          "link": "https://electrek.co/2026/07/19/pilot-hits-new-ev-milestone-with-300th-dc-fast-charging-location/",
+          "source": "Electrek",
+          "published": "2026-07-19T20:27:32+00:00"
+        },
         {
           "title": "Bentley's EV Will Use an Orchestra to Replicate the Sound of a V8",
           "link": "https://insideevs.com/news/801933/bentley-orchestra-replicate-v8-ev/",
@@ -227,31 +245,13 @@
           "link": "https://insideevs.com/reviews/801911/cadillac-escalade-iql-review/",
           "source": "InsideEVs",
           "published": "2026-07-16T19:42:09+00:00"
-        },
-        {
-          "title": "Xpeng’s new L03 undercuts Tesla Model Y by up to $10,000 in Europe",
-          "link": "https://electrek.co/2026/07/16/xpeng-l03-pricing-tesla-model-y-europe/",
-          "source": "Electrek",
-          "published": "2026-07-16T18:13:41+00:00"
-        },
-        {
-          "title": "Honda Just Axed Its Last EV In The U.S.",
-          "link": "https://insideevs.com/news/801921/honda-prologue-discontinued-ev-2026/",
-          "source": "InsideEVs",
-          "published": "2026-07-16T18:05:17+00:00"
-        },
-        {
-          "title": "Segway Max G3 e-scooter at $1,000 2026 low, EcoFlow dual-bundle power station flash sale, Tapo solar security camera 3-pack low, more",
-          "link": "https://electrek.co/2026/07/16/segway-max-g3-electric-scooter-ecoflow-power-station-tapo-solar-security-camera-more/",
-          "source": "Electrek",
-          "published": "2026-07-16T18:00:00+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 37,
+      "count": 35,
       "items": [
         {
           "title": "ASEAN Shifts Focus to Battery Manufacturing, Scaling EV Adoption, and Grid Integration",
@@ -462,18 +462,6 @@
           "link": "https://electrek.co/2026/07/09/trump-clean-energy-rollbacks-erase-68b-in-us-investment/",
           "source": "Electrek",
           "published": "2026-07-09T19:23:39+00:00"
-        },
-        {
-          "title": "EcoFlow 3,072Wh DELTA 3 Ultra power station $1,299 in Outdoor Season Sale, Velotric Discover 2 e-bike $1,799, more",
-          "link": "https://electrek.co/2026/07/09/ecoflow-3072wh-delta-3-ultra-power-station-velotric-discover-2-e-bike-more/",
-          "source": "Electrek",
-          "published": "2026-07-09T18:00:00+00:00"
-        },
-        {
-          "title": "MG is launching its first PHEV with semi-solid-state batteries in 2027",
-          "link": "https://electrek.co/2026/07/09/mg-launch-first-phev-with-semi-solid-state-batteries-2027/",
-          "source": "Electrek",
-          "published": "2026-07-09T16:51:15+00:00"
         }
       ]
     },
@@ -737,10 +725,10 @@
       "count": 1,
       "items": [
         {
-          "title": "씽킹AI, 한국 진출 후 보폭 확대…고객사 60곳 확보·기능 고도화 가속",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212915",
+          "title": "알리바바, 2.4조 매개변수 '큐원3.8' 공개...\"페이블 5 이어 세계 2위\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212918",
           "source": "AI타임스",
-          "published": "2026-07-19T18:32:17+00:00"
+          "published": "2026-07-20T08:00:42+00:00"
         }
       ]
     }
