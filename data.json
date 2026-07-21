@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T08:23:58.305891+00:00",
+  "generated_at": "2026-07-21T13:43:08.657118+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,12 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44171",
           "source": "모터그래프",
           "published": "2026-07-21T17:02:51+00:00"
+        },
+        {
+          "title": "Volkswagen enters the smart e-bike game with radar, cameras, HUD glasses, and more",
+          "link": "https://electrek.co/2026/07/21/volkswagen-enters-the-smart-e-bike-game-with-radar-cameras-hud-glasses-and-more/",
+          "source": "Electrek",
+          "published": "2026-07-21T12:53:33+00:00"
         },
         {
           "title": "Polestar Won't Appeal Its U.S. Ban. Now Dealers Are Left Holding The Bag",
@@ -239,20 +245,20 @@
           "link": "https://insideevs.com/news/802050/california-ev-tax-credit-brands/",
           "source": "InsideEVs",
           "published": "2026-07-17T19:10:59+00:00"
-        },
-        {
-          "title": "The Winners And Losers In EVs In 2026 So Far",
-          "link": "https://insideevs.com/features/802053/ev-winners-losers-sales-2026/",
-          "source": "InsideEVs",
-          "published": "2026-07-17T18:42:28+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 28,
+      "count": 29,
       "items": [
+        {
+          "title": "Volkswagen enters the smart e-bike game with radar, cameras, HUD glasses, and more",
+          "link": "https://electrek.co/2026/07/21/volkswagen-enters-the-smart-e-bike-game-with-radar-cameras-hud-glasses-and-more/",
+          "source": "Electrek",
+          "published": "2026-07-21T12:53:33+00:00"
+        },
         {
           "title": "Hyundai’s $5B battery plant opens with enough capacity to power 300,000 EVs a year",
           "link": "https://electrek.co/2026/07/20/hyundais-5b-battery-plant-opens-capacity-300k-evs/",
@@ -426,8 +432,14 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 16,
+      "count": 15,
       "items": [
+        {
+          "title": "Volkswagen enters the smart e-bike game with radar, cameras, HUD glasses, and more",
+          "link": "https://electrek.co/2026/07/21/volkswagen-enters-the-smart-e-bike-game-with-radar-cameras-hud-glasses-and-more/",
+          "source": "Electrek",
+          "published": "2026-07-21T12:53:33+00:00"
+        },
         {
           "title": "America’s First UL-Certified Plug-In Balcony Solar Microinverter Is Here",
           "link": "https://insideevs.com/news/802258/plug-in-balcony-solar-microinverter-ul-certified/",
@@ -463,12 +475,6 @@
           "link": "https://electrek.co/2026/07/17/segway-xaber-review-the-mall-cop-company-just-built-a-better-sur-ron-for-less-money/",
           "source": "Electrek",
           "published": "2026-07-17T12:37:05+00:00"
-        },
-        {
-          "title": "GM Wants To Lower EV Owners’ Energy Bills With Smarter Home Charging",
-          "link": "https://insideevs.com/news/801983/gm-energy-weave-grid-ev-managed-charging/",
-          "source": "InsideEVs",
-          "published": "2026-07-17T09:29:58+00:00"
         },
         {
           "title": "Tesla finally launches a bike — but it’s not what fans wanted",
@@ -517,12 +523,6 @@
           "link": "https://electrek.co/2026/07/10/byds-10k-seagull-ev-revealed-longer-body-more-upgrades/",
           "source": "Electrek",
           "published": "2026-07-10T20:50:45+00:00"
-        },
-        {
-          "title": "These are the top 10 best-selling EVs in the US so far in 2026",
-          "link": "https://electrek.co/2026/07/10/top-10-best-selling-evs-us-first-half-2026/",
-          "source": "Electrek",
-          "published": "2026-07-10T18:44:58+00:00"
         }
       ]
     },
@@ -532,10 +532,16 @@
       "count": 23,
       "items": [
         {
-          "title": "오늘의 로봇 기업 주식 시세(2026-07-21)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47516",
+          "title": "韓 덕산코트랜-中 시스모, 공조 시스템 관리 휴머노이드 개발 협력",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47522",
           "source": "로봇신문",
-          "published": "2026-07-21T15:37:28+00:00"
+          "published": "2026-07-21T17:46:50+00:00"
+        },
+        {
+          "title": "Friction is key to making better robot world models",
+          "link": "https://www.therobotreport.com/friction-is-key-to-making-better-robot-world-models/",
+          "source": "The Robot Report",
+          "published": "2026-07-21T12:19:30+00:00"
         },
         {
           "title": "Building robots for unpredictable, infrastructure-free environments",
@@ -640,12 +646,6 @@
           "published": "2026-07-15T18:58:29+00:00"
         },
         {
-          "title": "Vicarious Surgical board seeks to dissolve company",
-          "link": "https://www.therobotreport.com/vicarious-surgical-board-seeks-to-dissolve-company/",
-          "source": "The Robot Report",
-          "published": "2026-07-15T18:43:48+00:00"
-        },
-        {
           "title": "Building a Foundation Stack for General-Purpose Robots",
           "link": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
           "source": "IEEE Spectrum",
@@ -677,10 +677,10 @@
       "count": 40,
       "items": [
         {
-          "title": "AI 네이티브 스타트업, 임직원 25% 적고 더 수평적...\"직원 4명이 75만명 커버\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212989",
+          "title": "전 국민 무료 '모두의 AI' 윤곽...\"개발 기간·운영비·수익 모델은 숙제\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213013",
           "source": "AI타임스",
-          "published": "2026-07-21T16:49:57+00:00"
+          "published": "2026-07-21T20:31:16+00:00"
         },
         {
           "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
