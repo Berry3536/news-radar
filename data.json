@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-07-20T19:40:49.740127+00:00",
+  "generated_at": "2026-07-21T02:26:57.626439+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Tesla puts Starlink antenna in Cybercab",
+          "link": "https://electrek.co/2026/07/20/tesla-starlink-cybercab-integration-why/",
+          "source": "Electrek",
+          "published": "2026-07-21T00:25:21+00:00"
+        },
+        {
+          "title": "The Hyundai IONIQ 5 is flying off dealer lots, and it’s getting harder to find",
+          "link": "https://electrek.co/2026/07/20/hyundai-ioniq-5-selling-fast-dealers-running-out/",
+          "source": "Electrek",
+          "published": "2026-07-20T21:39:42+00:00"
+        },
+        {
+          "title": "PSA: Don't Use An Old Charging Adapter For Your Rivian R2. It May Melt",
+          "link": "https://insideevs.com/news/802239/rivian-r2-melted-charging-adapter/",
+          "source": "InsideEVs",
+          "published": "2026-07-20T21:29:14+00:00"
+        },
+        {
+          "title": "The US’s first UL 3700 balcony solar microinverter is here",
+          "link": "https://electrek.co/2026/07/20/us-first-ul-3700-balcony-solar-microinverter-hoymiles/",
+          "source": "Electrek",
+          "published": "2026-07-20T20:38:08+00:00"
+        },
+        {
+          "title": "Tesla ‘Full Self-Driving’ got me a speeding ticket, and Tesla killed the fix",
+          "link": "https://electrek.co/2026/07/20/tesla-fsd-speeding-ticket-removed-speed-setting/",
+          "source": "Electrek",
+          "published": "2026-07-20T20:01:16+00:00"
+        },
+        {
+          "title": "I Was Going To Go Back To Gas. Here’s Why I Just Couldn’t Give Up My EV",
+          "link": "https://insideevs.com/reviews/802230/why-i-wont-go-back-to-gas/",
+          "source": "InsideEVs",
+          "published": "2026-07-20T20:00:47+00:00"
+        },
         {
           "title": "Hyundai’s $5B battery plant opens with enough capacity to power 300,000 EVs a year",
           "link": "https://electrek.co/2026/07/20/hyundais-5b-battery-plant-opens-capacity-300k-evs/",
@@ -209,49 +245,13 @@
           "link": "https://electrek.co/2026/07/17/ecoflow-prime-day-power-station-pricing-segway-xafari-e-bike-ego-multi-head-more/",
           "source": "Electrek",
           "published": "2026-07-17T18:00:00+00:00"
-        },
-        {
-          "title": "In the birthplace of the car, EVs are now king: BEVs outsell gas cars in Germany",
-          "link": "https://electrek.co/2026/07/17/in-the-birthplace-of-the-automobile-electric-cars-are-now-king/",
-          "source": "Electrek",
-          "published": "2026-07-17T17:53:49+00:00"
-        },
-        {
-          "title": "'Completely Insane': China Has 650 New Car Models So Far This Year",
-          "link": "https://insideevs.com/news/801909/china-650-new-car-models/",
-          "source": "InsideEVs",
-          "published": "2026-07-17T16:58:40+00:00"
-        },
-        {
-          "title": "BYD unveils its latest luxury EV with sleek fastback styling and 570 miles of range",
-          "link": "https://electrek.co/2026/07/17/byd-unveils-new-luxury-ev-1200-hp-570-miles-range/",
-          "source": "Electrek",
-          "published": "2026-07-17T16:03:45+00:00"
-        },
-        {
-          "title": "BYD Wants To Overtake Toyota, And It Says It Doesn't Need America To Do It",
-          "link": "https://insideevs.com/news/801940/byd-toyota-domination-goal-sales/",
-          "source": "InsideEVs",
-          "published": "2026-07-17T15:39:22+00:00"
-        },
-        {
-          "title": "How getting a Garmin watch changed my e-biking (and my fitness lifestyle)",
-          "link": "https://electrek.co/2026/07/17/how-getting-a-garmin-watch-changed-my-e-biking-and-my-fitness-lifestyle/",
-          "source": "Electrek",
-          "published": "2026-07-17T14:17:07+00:00"
-        },
-        {
-          "title": "Volkswagen’s new ID. Polo EV secured 25,000 orders in weeks — Now, it’s even cheaper",
-          "link": "https://electrek.co/2026/07/17/volkswagen-id-polo-ev-orders-hit-25000-in-weeks-cheaper-version-launches/",
-          "source": "Electrek",
-          "published": "2026-07-17T14:16:02+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 30,
+      "count": 28,
       "items": [
         {
           "title": "Hyundai’s $5B battery plant opens with enough capacity to power 300,000 EVs a year",
@@ -362,12 +362,6 @@
           "published": "2026-07-17T11:37:16+00:00"
         },
         {
-          "title": "China’s Batteries Move Beyond Capacity Scale-up: Utility-Scale Storage Could Have Shifted 23 TWh More Clean Power in 2025",
-          "link": "https://cleantechnica.com/2026/07/16/chinas-batteries-move-beyond-capacity-scale-up-utility-scale-storage-could-have-shifted-23-twh-more-clean-power-in-2025/",
-          "source": "CleanTechnica",
-          "published": "2026-07-17T03:11:29+00:00"
-        },
-        {
           "title": "Kia EV2 Long Range goes on sale with 281 miles of range, plus GT and Black-Line trims",
           "link": "https://electrek.co/2026/07/16/kia-ev2-long-range-on-sale-281-miles-of-range/",
           "source": "Electrek",
@@ -426,20 +420,20 @@
           "link": "https://electrek.co/2026/07/10/unigrid-sodium-ion-home-battery-debuts-in-europe-us/",
           "source": "Electrek",
           "published": "2026-07-10T22:50:13+00:00"
-        },
-        {
-          "title": "Lectric XP4 750, Xpress 2, Xpeak2 e-bikes get up to $464 savings, EcoFlow 716Wh RIVER 2 Pro 700 bundle new $369 low, EGO, more",
-          "link": "https://electrek.co/2026/07/10/lectric-xp4-750-xpress-2-xpeak2-e-bikes-ecoflow-716wh-river-2-pro-700-bundle-ego-more/",
-          "source": "Electrek",
-          "published": "2026-07-10T18:00:00+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 15,
+      "count": 16,
       "items": [
+        {
+          "title": "The US’s first UL 3700 balcony solar microinverter is here",
+          "link": "https://electrek.co/2026/07/20/us-first-ul-3700-balcony-solar-microinverter-hoymiles/",
+          "source": "Electrek",
+          "published": "2026-07-20T20:38:08+00:00"
+        },
         {
           "title": "제네시스 스튜디오 하남에서 열리는 제네시스 마그마 X GMR 특별전",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44155",
@@ -683,10 +677,10 @@
       "count": 40,
       "items": [
         {
-          "title": "[기고] 슈퍼브에이아이 “피지컬 AI 데이터 팩토리, '몇 개 짓느냐'보다 '어떻게 돌리느냐'”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212953",
+          "title": "[7월20일] 오픈AI는 왜 유명 작가를 불러 한 시간 동안 '쓴소리'를 들었을까",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212931",
           "source": "AI타임스",
-          "published": "2026-07-20T18:05:00+00:00"
+          "published": "2026-07-21T07:00:00+00:00"
         },
         {
           "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
