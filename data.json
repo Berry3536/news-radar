@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T08:23:59.479413+00:00",
+  "generated_at": "2026-07-22T13:45:44.736346+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,24 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44181",
           "source": "모터그래프",
           "published": "2026-07-22T17:03:34+00:00"
+        },
+        {
+          "title": "Exclusive: Segway teases more electric bikes, including a street-legal next-gen Xyber",
+          "link": "https://electrek.co/2026/07/22/exclusive-segway-teases-more-electric-bikes-including-a-street-legal-next-gen-xyber/",
+          "source": "Electrek",
+          "published": "2026-07-22T13:00:00+00:00"
+        },
+        {
+          "title": "Electric, autonomous, and there’s 800 of them: inside this week’s BIGGEST deal",
+          "link": "https://electrek.co/2026/07/22/electric-autonomous-and-theres-800-of-them-inside-this-weeks-biggest-deal/",
+          "source": "Electrek",
+          "published": "2026-07-22T12:27:42+00:00"
+        },
+        {
+          "title": "Battery Startup Raises $300 Million Promising 20% More EV Range",
+          "link": "https://insideevs.com/news/802397/sila-silicon-anode-lithium-ion/",
+          "source": "InsideEVs",
+          "published": "2026-07-22T08:53:06+00:00"
         },
         {
           "title": "Electrek Formula Sun Grand Prix 2026: Day 1 results and gallery",
@@ -227,32 +245,20 @@
           "link": "https://electrek.co/2026/07/20/fords-new-ev-pickup-caught-at-tesla-supercharger/",
           "source": "Electrek",
           "published": "2026-07-20T17:58:52+00:00"
-        },
-        {
-          "title": "Principia is here to win, and it won’t hesitate to help others do the same",
-          "link": "https://electrek.co/2026/07/20/principia-is-here-to-win-and-it-wont-hesitate-to-help-others-do-the-same/",
-          "source": "Electrek",
-          "published": "2026-07-20T16:54:22+00:00"
-        },
-        {
-          "title": "Will we soon see sodium-ion batteries on electric bikes?",
-          "link": "https://electrek.co/2026/07/20/will-we-soon-see-sodium-ion-batteries-on-electric-bikes/",
-          "source": "Electrek",
-          "published": "2026-07-20T16:44:52+00:00"
-        },
-        {
-          "title": "Genesis may bring a more affordable luxury EV to the mass market",
-          "link": "https://electrek.co/2026/07/20/genesis-more-affordable-luxury-ev-mass-market/",
-          "source": "Electrek",
-          "published": "2026-07-20T16:42:15+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 31,
+      "count": 29,
       "items": [
+        {
+          "title": "Battery Startup Raises $300 Million Promising 20% More EV Range",
+          "link": "https://insideevs.com/news/802397/sila-silicon-anode-lithium-ion/",
+          "source": "InsideEVs",
+          "published": "2026-07-22T08:53:06+00:00"
+        },
         {
           "title": "The Next Wave Of Perovskite Solar Cell Innovation: See-Through Solar Windows",
           "link": "https://cleantechnica.com/2026/07/22/perovskite-solar-cells-invisible-solar-power-window-glass/",
@@ -338,12 +344,6 @@
           "published": "2026-07-19T14:49:04+00:00"
         },
         {
-          "title": "Ferrari Is Auctioning Off The First Example Of its First Electric Car. How Much Do You Think It'll Fetch?",
-          "link": "https://insideevs.com/news/802055/ferrari-luce-ev-auction-million/",
-          "source": "InsideEVs",
-          "published": "2026-07-19T12:00:00+00:00"
-        },
-        {
           "title": "LiuGong brings electric heavy equipment options to North America [video]",
           "link": "https://electrek.co/2026/07/18/liugong-brings-electric-heavy-equipment-options-to-north-america-video/",
           "source": "Electrek",
@@ -360,12 +360,6 @@
           "link": "https://cleantechnica.com/2026/07/18/radar-ev-pickup-sales-more-than-double-in-philippines-as-electric-trucks-gain-traction/",
           "source": "CleanTechnica",
           "published": "2026-07-18T14:30:56+00:00"
-        },
-        {
-          "title": "Philippines Energy Company Junk Coal Plant & Break Ground on Latest BESS",
-          "link": "https://cleantechnica.com/2026/07/18/philippines-energy-company-junk-coal-plant-break-ground-on-latest-bess/",
-          "source": "CleanTechnica",
-          "published": "2026-07-18T13:11:34+00:00"
         },
         {
           "title": "EcoFlow brings back Prime Day power station pricing in sale from $169, Segway Xafari e-bike $1,550 low, EGO Multi-Head, more",
@@ -432,12 +426,6 @@
           "link": "https://electrek.co/2026/07/13/engwe-l16-utility-e-bike-segway-xyber-e-bike-extra-battery-navimow-i215-lidar-robot-more/",
           "source": "Electrek",
           "published": "2026-07-13T18:00:00+00:00"
-        },
-        {
-          "title": "Tesla Semi adds another fleet as Paper Transport starts Chicago pilot",
-          "link": "https://electrek.co/2026/07/13/paper-transport-tesla-semi-chicago-pilot/",
-          "source": "Electrek",
-          "published": "2026-07-13T15:49:07+00:00"
         }
       ]
     },
@@ -520,10 +508,10 @@
       "count": 22,
       "items": [
         {
-          "title": "오늘의 로봇 기업 주식 시세(2026-07-22)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47526",
+          "title": "인천대, 피지컬 AI 선도하는 인재 양성 허브 구축 추진",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47545",
           "source": "로봇신문",
-          "published": "2026-07-22T15:37:12+00:00"
+          "published": "2026-07-22T17:31:49+00:00"
         },
         {
           "title": "U.K.-based Humanoid secures $152M in Series A funding",
@@ -659,10 +647,10 @@
       "count": 40,
       "items": [
         {
-          "title": "FT \"삼성전자, 프랑스 미스트랄에 최대 1조6000억원 투자 논의\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213055",
+          "title": "머스크 \"차세대 모델은 매개변수 2조개...'키미' 능가할 것\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213047",
           "source": "AI타임스",
-          "published": "2026-07-22T17:17:32+00:00"
+          "published": "2026-07-22T18:37:40+00:00"
         },
         {
           "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
