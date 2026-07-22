@@ -1,11 +1,71 @@
 {
-  "generated_at": "2026-07-21T19:17:17.322966+00:00",
+  "generated_at": "2026-07-22T02:25:02.121843+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Electrek Formula Sun Grand Prix 2026: Day 1 results and gallery",
+          "link": "https://electrek.co/2026/07/21/electrek-formula-sun-grand-prix-2026-day-1-results-and-gallery/",
+          "source": "Electrek",
+          "published": "2026-07-22T02:24:01+00:00"
+        },
+        {
+          "title": "I Sat In The New Electric Range Rover GT. It Skips A Big Thing I Hate In Luxury EVs",
+          "link": "https://insideevs.com/news/802286/range-rover-gt-electric-ev-interior/",
+          "source": "InsideEVs",
+          "published": "2026-07-21T23:01:00+00:00"
+        },
+        {
+          "title": "GM just added ChargePoint to its EV apps",
+          "link": "https://electrek.co/2026/07/21/gm-just-added-chargepoint-to-its-ev-apps/",
+          "source": "Electrek",
+          "published": "2026-07-21T21:50:26+00:00"
+        },
+        {
+          "title": "BYD Wants To Take the World's Fastest Car Record... From Itself",
+          "link": "https://insideevs.com/news/802361/byd-wants-break-speed-record/",
+          "source": "InsideEVs",
+          "published": "2026-07-21T21:36:19+00:00"
+        },
+        {
+          "title": "Kia PV5 High Roof spotted in public for the first time [Video]",
+          "link": "https://electrek.co/2026/07/21/kia-pv5-high-roof-spotted-first-time-video/",
+          "source": "Electrek",
+          "published": "2026-07-21T20:46:43+00:00"
+        },
+        {
+          "title": "NHTSA targets Tesla’s ‘Radar Saves Us’ document in FSD crash probe",
+          "link": "https://electrek.co/2026/07/21/nhtsa-tesla-radar-saves-us-document-fsd-probe/",
+          "source": "Electrek",
+          "published": "2026-07-21T20:37:53+00:00"
+        },
+        {
+          "title": "EVs Just Hit 25% Market Share In Europe",
+          "link": "https://insideevs.com/news/802351/europe-ev-sales-half-year/",
+          "source": "InsideEVs",
+          "published": "2026-07-21T20:23:31+00:00"
+        },
+        {
+          "title": "Idaho just switched on a big solar farm – and a much larger one is next",
+          "link": "https://electrek.co/2026/07/21/idaho-just-switched-on-a-big-solar-farm-and-a-much-larger-one-is-next/",
+          "source": "Electrek",
+          "published": "2026-07-21T20:16:26+00:00"
+        },
+        {
+          "title": "Tesla (TSLA) Q2 2026 earnings preview: strong deliveries, murky profits",
+          "link": "https://electrek.co/2026/07/21/tesla-tsla-q2-2026-earnings-preview/",
+          "source": "Electrek",
+          "published": "2026-07-21T19:27:45+00:00"
+        },
+        {
+          "title": "Tesla Has To Fix Its Super-Bright Headlights. A New Law Could Change Things For Good.",
+          "link": "https://insideevs.com/news/802339/tesla-headlights-lights-act-congress/",
+          "source": "InsideEVs",
+          "published": "2026-07-21T19:21:03+00:00"
+        },
         {
           "title": "Tesla Is Actually Doing Pretty Well In California Again",
           "link": "https://insideevs.com/news/802336/tesla-california-sales-increase-2026/",
@@ -37,7 +97,7 @@
           "published": "2026-07-21T17:52:52+00:00"
         },
         {
-          "title": "The reality TV guy at the DOT has a new plan to kill cyclists and worsen traffic",
+          "title": "Cyclist deaths are at a 40 year high. The feds want to kill more AND worsen traffic.",
           "link": "https://electrek.co/2026/07/21/the-reality-tv-guy-at-the-dot-has-a-new-plan-to-kill-cyclists-and-make-traffic-worse/",
           "source": "Electrek",
           "published": "2026-07-21T17:50:33+00:00"
@@ -185,66 +245,6 @@
           "link": "https://electrek.co/2026/07/20/genesis-more-affordable-luxury-ev-mass-market/",
           "source": "Electrek",
           "published": "2026-07-20T16:42:15+00:00"
-        },
-        {
-          "title": "Toyota’s next-gen Corolla EV takes center stage as a ‘sense of crisis’ reshapes the company",
-          "link": "https://electrek.co/2026/07/20/toyota-next-gen-corolla-ev-crisis-grows/",
-          "source": "Electrek",
-          "published": "2026-07-20T15:01:15+00:00"
-        },
-        {
-          "title": "Florida AG asks court to erase Tesla’s $243M Autopilot crash verdict",
-          "link": "https://electrek.co/2026/07/20/florida-ag-tesla-243m-autopilot-verdict/",
-          "source": "Electrek",
-          "published": "2026-07-20T14:20:41+00:00"
-        },
-        {
-          "title": "Order up: Janus Electric set to convert 67 diesel trucks to battery-swap EVs",
-          "link": "https://electrek.co/2026/07/20/order-up-janus-electric-set-to-convert-67-diesel-trucks-to-battery-swap-evs/",
-          "source": "Electrek",
-          "published": "2026-07-20T14:15:00+00:00"
-        },
-        {
-          "title": "The 2027 BMW i5 Gets More Range Just As The Tesla Model S Fades Away",
-          "link": "https://insideevs.com/news/802185/2027-bmw-i5-range-increase/",
-          "source": "InsideEVs",
-          "published": "2026-07-20T13:37:46+00:00"
-        },
-        {
-          "title": "Tesla remote operator crashed a ‘Robotaxi’ in Houston, NHTSA data shows",
-          "link": "https://electrek.co/2026/07/20/tesla-robotaxi-remote-operator-crash-houston/",
-          "source": "Electrek",
-          "published": "2026-07-20T13:15:01+00:00"
-        },
-        {
-          "title": "Pilot's EV Charging Network Isn't Slowing Down. It Just Hit 300 Locations",
-          "link": "https://insideevs.com/news/802174/pilot-flying-j-ev-chargers-expansion-2026/",
-          "source": "InsideEVs",
-          "published": "2026-07-20T12:29:29+00:00"
-        },
-        {
-          "title": "EVs Just Beat Gas And Diesel In Europe’s Biggest Car Market For The First Time",
-          "link": "https://insideevs.com/news/802162/evs-outsold-gas-hybrid-diesel-germany/",
-          "source": "InsideEVs",
-          "published": "2026-07-20T10:09:33+00:00"
-        },
-        {
-          "title": "Chinese Wuling Bingo could come to North America as an entry-level Chevy EV",
-          "link": "https://electrek.co/2026/07/19/chinese-wuling-bingo-could-come-to-north-america-as-an-entry-level-chevy-ev/",
-          "source": "Electrek",
-          "published": "2026-07-19T22:28:34+00:00"
-        },
-        {
-          "title": "Survey Sunday: is Slate Auto’s affordable electric truck going to make it?",
-          "link": "https://electrek.co/2026/07/19/survey-sunday-is-slate-autos-affordable-electric-truck-going-to-make-it/",
-          "source": "Electrek",
-          "published": "2026-07-19T21:20:04+00:00"
-        },
-        {
-          "title": "Pilot hits new EV milestone with 300th DC fast charging location",
-          "link": "https://electrek.co/2026/07/19/pilot-hits-new-ev-milestone-with-300th-dc-fast-charging-location/",
-          "source": "Electrek",
-          "published": "2026-07-19T20:27:32+00:00"
         }
       ]
     },
@@ -426,7 +426,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 13,
+      "count": 11,
       "items": [
         {
           "title": "Volkswagen enters the smart e-bike game with radar, cameras, HUD glasses, and more",
@@ -493,18 +493,6 @@
           "link": "https://electrek.co/2026/07/14/momentums-new-vida-e-ex-commuter-e-bike-adds-cruise-control-throttle-and-more/",
           "source": "Electrek",
           "published": "2026-07-14T10:00:00+00:00"
-        },
-        {
-          "title": "A $5M startup claims rare earth-free electric motor breakthrough",
-          "link": "https://electrek.co/2026/07/13/vimag-labs-magnet-free-ev-motor-patent/",
-          "source": "Electrek",
-          "published": "2026-07-13T13:59:20+00:00"
-        },
-        {
-          "title": "Mercedes AMG CLA 45 arrives in Goodwood with 680 hp and three axial-flux motors",
-          "link": "https://electrek.co/2026/07/12/mercedes-amg-cla-45-arrives-in-goodwood-with-680-hp-and-three-axial-flux-motors/",
-          "source": "Electrek",
-          "published": "2026-07-13T00:36:38+00:00"
         }
       ]
     },
@@ -518,6 +506,24 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47523",
           "source": "로봇신문",
           "published": "2026-07-22T01:14:46+00:00"
+        },
+        {
+          "title": "U.K.-based Humanoid secures $152M in Series A funding",
+          "link": "https://www.therobotreport.com/uk-based-humanoid-secures-152m-in-series-a-funding/",
+          "source": "The Robot Report",
+          "published": "2026-07-21T23:43:12+00:00"
+        },
+        {
+          "title": "Vicarious Surgical officially shutting down",
+          "link": "https://www.therobotreport.com/vicarious-surgical-officially-shutting-down/",
+          "source": "The Robot Report",
+          "published": "2026-07-21T23:12:18+00:00"
+        },
+        {
+          "title": "Generative Bionics unveils humanoid robot with full-body tactile sensing",
+          "link": "https://www.therobotreport.com/generative-bionics-unveils-humanoid-robot-with-full-body-tactile-sensing/",
+          "source": "The Robot Report",
+          "published": "2026-07-21T19:44:26+00:00"
         },
         {
           "title": "MISUMI Americas releases reshoring report, supports manufacturing training bill",
@@ -610,24 +616,6 @@
           "published": "2026-07-16T16:09:21+00:00"
         },
         {
-          "title": "Xpanner rolls out X1 Panel Lift for automated solar panel installation",
-          "link": "https://www.therobotreport.com/xpanner-rolls-out-x1-panel-lift-automated-solar-panel-installation/",
-          "source": "The Robot Report",
-          "published": "2026-07-16T13:08:40+00:00"
-        },
-        {
-          "title": "Lockheed Martin taps Machina’s robots for mission-critical missile parts",
-          "link": "https://www.therobotreport.com/lockheed-martin-taps-machinas-robots-for-mission-critical-missile-parts/",
-          "source": "The Robot Report",
-          "published": "2026-07-16T12:30:12+00:00"
-        },
-        {
-          "title": "Walden Robotics launches at $1.1B valuation for general-purpose robots",
-          "link": "https://www.therobotreport.com/walden-robotics-launches-1-1b-valuation-general-purpose-robots/",
-          "source": "The Robot Report",
-          "published": "2026-07-15T20:04:03+00:00"
-        },
-        {
           "title": "Building a Foundation Stack for General-Purpose Robots",
           "link": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
           "source": "IEEE Spectrum",
@@ -653,10 +641,10 @@
       "count": 40,
       "items": [
         {
-          "title": "전 국민 무료 '모두의 AI' 윤곽...\"개발 기간·운영비·수익 모델은 숙제\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213013",
+          "title": "[7월21일] AI가 부활시킨 '테일러리즘 2.0'...다음 경쟁력은 직원의 '암묵적 지식'",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212976",
           "source": "AI타임스",
-          "published": "2026-07-21T20:31:16+00:00"
+          "published": "2026-07-22T07:00:00+00:00"
         },
         {
           "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
