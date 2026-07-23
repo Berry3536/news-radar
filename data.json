@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T08:25:14.204146+00:00",
+  "generated_at": "2026-07-23T13:50:45.309754+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,18 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44198",
           "source": "모터그래프",
           "published": "2026-07-23T17:00:44+00:00"
+        },
+        {
+          "title": "The Next-Gen Chevy Equinox EV Is Coming In 2028: Report",
+          "link": "https://insideevs.com/news/802543/next-gen-chevy-equinox-ev/",
+          "source": "InsideEVs",
+          "published": "2026-07-23T12:36:56+00:00"
+        },
+        {
+          "title": "Tesla Sold 25% More Cars In Q2. Its Operating Profit Still Plummeted",
+          "link": "https://insideevs.com/news/802523/tesla-q2-2026-earnings-report/",
+          "source": "InsideEVs",
+          "published": "2026-07-23T10:52:08+00:00"
         },
         {
           "title": "IEA: Global power demand is surging – and renewables are passing coal",
@@ -233,18 +245,6 @@
           "link": "https://electrek.co/2026/07/21/the-reality-tv-guy-at-the-dot-has-a-new-plan-to-kill-cyclists-and-make-traffic-worse/",
           "source": "Electrek",
           "published": "2026-07-21T17:50:33+00:00"
-        },
-        {
-          "title": "This huge US e-waste deal could unlock rare earths for EVs",
-          "link": "https://electrek.co/2026/07/21/this-huge-us-e-waste-deal-could-unlock-rare-earths-for-evs/",
-          "source": "Electrek",
-          "published": "2026-07-21T16:30:00+00:00"
-        },
-        {
-          "title": "BYD unveils its latest luxury EV with sleek fastback styling and 570 miles of range",
-          "link": "https://electrek.co/2026/07/21/byd-unveils-new-luxury-ev-1200-hp-570-miles-range/",
-          "source": "Electrek",
-          "published": "2026-07-21T15:43:15+00:00"
         }
       ]
     },
@@ -496,10 +496,10 @@
       "count": 22,
       "items": [
         {
-          "title": "오늘의 로봇 기업 주식 시세(2026-07-23)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47549",
+          "title": "중기부, 국내 최초 스마트제조기술산업 특수분류 제정",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47566",
           "source": "로봇신문",
-          "published": "2026-07-23T15:38:23+00:00"
+          "published": "2026-07-23T18:16:15+00:00"
         },
         {
           "title": "Report shares the state of physical AI and robotics",
@@ -635,10 +635,10 @@
       "count": 40,
       "items": [
         {
-          "title": "일레븐랩스, AI 음악생성기 ‘보컬’·‘레퍼런스’ 공개…”내 목소리로 노래 만든다”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213109",
+          "title": "중국 샤오홍슈, IMO 만점 AI 'dots-note-3.0' 공개…세계 최초 42점 획득",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213095",
           "source": "AI타임스",
-          "published": "2026-07-23T17:18:52+00:00"
+          "published": "2026-07-23T18:45:03+00:00"
         },
         {
           "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
