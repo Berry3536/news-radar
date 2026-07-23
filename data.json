@@ -1,11 +1,65 @@
 {
-  "generated_at": "2026-07-22T19:12:55.673163+00:00",
+  "generated_at": "2026-07-23T02:29:52.706987+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Deliveries, automation, and the gateway drug to electrification with BIG JOE",
+          "link": "https://electrek.co/2026/07/22/deliveries-automation-and-the-gateway-drug-to-electrification-with-big-joe/",
+          "source": "Electrek",
+          "published": "2026-07-23T01:08:51+00:00"
+        },
+        {
+          "title": "Tesla still has no real plan for Hardware 3 owners promised FSD",
+          "link": "https://electrek.co/2026/07/22/tesla-hardware-3-fsd-no-plan-musk-earnings-call/",
+          "source": "Electrek",
+          "published": "2026-07-23T00:56:15+00:00"
+        },
+        {
+          "title": "Elon Musk hints at Tesla (TSLA)-SpaceX merger on earnings call",
+          "link": "https://electrek.co/2026/07/22/elon-musk-hints-tesla-spacex-merger-earnings-call/",
+          "source": "Electrek",
+          "published": "2026-07-23T00:26:31+00:00"
+        },
+        {
+          "title": "Ford Just Made It Easier To Back Up Your House With An F-150 Hybrid Or Lightning",
+          "link": "https://insideevs.com/news/802486/ford-truck-backup-power/",
+          "source": "InsideEVs",
+          "published": "2026-07-22T22:54:53+00:00"
+        },
+        {
+          "title": "Tesla says ‘Robotaxi’ is expanding — its own chart shows it’s not",
+          "link": "https://electrek.co/2026/07/22/tesla-robotaxi-growth-flat-own-chart-q2-2026/",
+          "source": "Electrek",
+          "published": "2026-07-22T20:56:01+00:00"
+        },
+        {
+          "title": "Subaru is delaying the 3-row Getaway EV, following Toyota",
+          "link": "https://electrek.co/2026/07/22/subaru-delaying-3-row-getaway-ev-following-toyota/",
+          "source": "Electrek",
+          "published": "2026-07-22T20:45:13+00:00"
+        },
+        {
+          "title": "Tesla Is Recalling 15 Cars For Being Too Canadian",
+          "link": "https://insideevs.com/news/802480/tesla-recalls-15-canadian-models/",
+          "source": "InsideEVs",
+          "published": "2026-07-22T20:21:46+00:00"
+        },
+        {
+          "title": "Tesla (TSLA) releases Q2 2026 financial results: record revenue, big profit miss",
+          "link": "https://electrek.co/2026/07/22/tesla-tsla-q2-2026-financial-results/",
+          "source": "Electrek",
+          "published": "2026-07-22T20:13:32+00:00"
+        },
+        {
+          "title": "Ford F-150 electric trucks can now power a home’s electrical panel",
+          "link": "https://electrek.co/2026/07/22/ford-f-150-electric-trucks-can-now-power-home-electrical-panel/",
+          "source": "Electrek",
+          "published": "2026-07-22T20:01:42+00:00"
+        },
         {
           "title": "France won’t approve Tesla ‘FSD’ yet, wants EU-wide sign-off first",
           "link": "https://electrek.co/2026/07/22/france-tesla-fsd-approval-tabarot-speeding/",
@@ -191,68 +245,20 @@
           "link": "https://electrek.co/2026/07/21/tesla-2026-summer-update-release-notes/",
           "source": "Electrek",
           "published": "2026-07-21T15:34:43+00:00"
-        },
-        {
-          "title": "I Drove Jeep’s First Proper Hybrid. It Feels More Like A Toyota, And That's Not A Coincidence",
-          "link": "https://insideevs.com/reviews/802028/2026-jeep-cherokee-hybrid-review-toyota-suv/",
-          "source": "InsideEVs",
-          "published": "2026-07-21T15:30:43+00:00"
-        },
-        {
-          "title": "Tesla adds Robotaxi in Tampa and Orlando as Austin stalls at 17 cars",
-          "link": "https://electrek.co/2026/07/21/tesla-robotaxi-tampa-orlando-austin-fleet-stalls/",
-          "source": "Electrek",
-          "published": "2026-07-21T14:39:28+00:00"
-        },
-        {
-          "title": "Audi’s most affordable EV revealed with over 400 miles of range [Video]",
-          "link": "https://electrek.co/2026/07/21/audis-most-affordable-ev-revealed-400-miles-range-video/",
-          "source": "Electrek",
-          "published": "2026-07-21T14:36:04+00:00"
-        },
-        {
-          "title": "Used EV Values Are Actually Rising. Why That's Good And Bad News.",
-          "link": "https://insideevs.com/news/802240/used-ev-depreciation-reversing-gas-prices/",
-          "source": "InsideEVs",
-          "published": "2026-07-21T14:33:17+00:00"
-        },
-        {
-          "title": "Volkswagen enters the smart e-bike game with radar, cameras, HUD glasses, and more",
-          "link": "https://electrek.co/2026/07/21/volkswagen-enters-the-smart-e-bike-game-with-radar-cameras-hud-glasses-and-more/",
-          "source": "Electrek",
-          "published": "2026-07-21T12:53:33+00:00"
-        },
-        {
-          "title": "Polestar Won't Appeal Its U.S. Ban. Now Dealers Are Left Holding The Bag",
-          "link": "https://insideevs.com/news/802268/polestar-us-ban-no-appeal-dealers/",
-          "source": "InsideEVs",
-          "published": "2026-07-21T08:12:02+00:00"
-        },
-        {
-          "title": "America’s First UL-Certified Plug-In Balcony Solar Microinverter Is Here",
-          "link": "https://insideevs.com/news/802258/plug-in-balcony-solar-microinverter-ul-certified/",
-          "source": "InsideEVs",
-          "published": "2026-07-21T07:11:54+00:00"
-        },
-        {
-          "title": "Tesla puts Starlink antenna in Cybercab",
-          "link": "https://electrek.co/2026/07/20/tesla-starlink-cybercab-integration-why/",
-          "source": "Electrek",
-          "published": "2026-07-21T00:25:21+00:00"
-        },
-        {
-          "title": "The Hyundai IONIQ 5 is flying off dealer lots, and it’s getting harder to find",
-          "link": "https://electrek.co/2026/07/20/hyundai-ioniq-5-selling-fast-dealers-running-out/",
-          "source": "Electrek",
-          "published": "2026-07-20T21:39:42+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 28,
+      "count": 29,
       "items": [
+        {
+          "title": "Deliveries, automation, and the gateway drug to electrification with BIG JOE",
+          "link": "https://electrek.co/2026/07/22/deliveries-automation-and-the-gateway-drug-to-electrification-with-big-joe/",
+          "source": "Electrek",
+          "published": "2026-07-23T01:08:51+00:00"
+        },
         {
           "title": "Hooking Up Your House To An EV Is Getting Loads Easier",
           "link": "https://cleantechnica.com/2026/07/22/ev-batteries-vehicle-home-emergency-backup-power-ford/",
@@ -426,7 +432,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 11,
+      "count": 10,
       "items": [
         {
           "title": "GM 한국사업장, 2026년 KSQI 자동차 A/S 부문 8년 연속 1위 등극",
@@ -487,12 +493,6 @@
           "link": "https://electrek.co/2026/07/14/byd-denza-z-ev-booming-demand-pre-orders-top-1000/",
           "source": "Electrek",
           "published": "2026-07-14T18:32:48+00:00"
-        },
-        {
-          "title": "Momentum’s new Vida E+ EX commuter e-bike adds cruise control, throttle, and more",
-          "link": "https://electrek.co/2026/07/14/momentums-new-vida-e-ex-commuter-e-bike-adds-cruise-control-throttle-and-more/",
-          "source": "Electrek",
-          "published": "2026-07-14T10:00:00+00:00"
         }
       ]
     },
@@ -501,6 +501,12 @@
       "label": "로봇",
       "count": 22,
       "items": [
+        {
+          "title": "Report shares the state of physical AI and robotics",
+          "link": "https://www.therobotreport.com/physical-ai-and-robotics/",
+          "source": "The Robot Report",
+          "published": "2026-07-22T20:48:30+00:00"
+        },
         {
           "title": "인천대, 피지컬 AI 선도하는 인재 양성 허브 구축 추진",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47545",
@@ -604,12 +610,6 @@
           "published": "2026-07-17T16:00:01+00:00"
         },
         {
-          "title": "With new funding, Monumental plans to bring its construction robots to the U.S.",
-          "link": "https://www.therobotreport.com/with-new-funding-monumental-plans-bring-construction-robots-u-s/",
-          "source": "The Robot Report",
-          "published": "2026-07-17T12:30:10+00:00"
-        },
-        {
           "title": "How to Make an Invisible Drone",
           "link": "https://spectrum.ieee.org/invisible-spinning-drone",
           "source": "IEEE Spectrum",
@@ -641,10 +641,10 @@
       "count": 40,
       "items": [
         {
-          "title": "머스크 \"차세대 모델은 매개변수 2조개...'키미' 능가할 것\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213047",
+          "title": "과기부 “미소스·GPT 잡을 국산 AI 보안 모델 개발 본격화”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213073",
           "source": "AI타임스",
-          "published": "2026-07-22T18:37:40+00:00"
+          "published": "2026-07-23T11:03:36+00:00"
         },
         {
           "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
