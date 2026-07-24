@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T08:23:21.177589+00:00",
+  "generated_at": "2026-07-24T13:38:32.255963+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,24 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44190",
           "source": "모터그래프",
           "published": "2026-07-24T17:03:33+00:00"
+        },
+        {
+          "title": "NHTSA denies Tesla door-release defect petition, opens new door rules",
+          "link": "https://electrek.co/2026/07/24/nhtsa-denies-tesla-door-release-defect-petition-opens-rulemaking/",
+          "source": "Electrek",
+          "published": "2026-07-24T13:16:56+00:00"
+        },
+        {
+          "title": "Aurora's New Autonomous Truck Hardware Is Designed To Last One Million Miles",
+          "link": "https://insideevs.com/news/802649/aurora-driver-2-autonomous-truck/",
+          "source": "InsideEVs",
+          "published": "2026-07-24T10:39:03+00:00"
+        },
+        {
+          "title": "Volkswagen's Cheapest EVs Are Already A Hit: 70,000 Orders And Counting",
+          "link": "https://insideevs.com/news/802637/vw-id-polo-id-cross-skoda-epiq-cupra-raval-sales/",
+          "source": "InsideEVs",
+          "published": "2026-07-24T09:22:55+00:00"
         },
         {
           "title": "This is the new 18-in-1 electric vehicle you can build yourself",
@@ -227,24 +245,6 @@
           "link": "https://electrek.co/2026/07/22/tesla-adas-crashes-record-207-one-month/",
           "source": "Electrek",
           "published": "2026-07-22T17:02:39+00:00"
-        },
-        {
-          "title": "Hyundai’s new patent points to an upcoming off-road electric SUV",
-          "link": "https://electrek.co/2026/07/22/hyundai-patent-off-road-electric-suv/",
-          "source": "Electrek",
-          "published": "2026-07-22T16:22:18+00:00"
-        },
-        {
-          "title": "This country went 100% electric vehicles overnight with a drastic approach",
-          "link": "https://electrek.co/2026/07/22/laos-bans-gas-diesel-car-imports-ev/",
-          "source": "Electrek",
-          "published": "2026-07-22T14:30:31+00:00"
-        },
-        {
-          "title": "Range Rover’s next EV is unlike anything the luxury brand has built before [Images]",
-          "link": "https://electrek.co/2026/07/22/range-rovers-next-ev-unlike-anything-its-ever-built-images/",
-          "source": "Electrek",
-          "published": "2026-07-22T14:26:56+00:00"
         }
       ]
     },
@@ -487,13 +487,19 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 22,
+      "count": 21,
       "items": [
         {
-          "title": "주간 로봇 기업 주가 동향(07/20 ~ 07/24)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47574",
+          "title": "美 메드트로닉, 수술로봇용 AI 컴퓨팅 플랫폼 공개",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47594",
           "source": "로봇신문",
-          "published": "2026-07-24T16:03:16+00:00"
+          "published": "2026-07-24T17:15:52+00:00"
+        },
+        {
+          "title": "NEURA Robotics establishes NEURA Gym RWTH Aachen to train physical AI",
+          "link": "https://www.therobotreport.com/neura-robotics-establishes-neura-gym-rwth-aachen-train-physical-ai/",
+          "source": "The Robot Report",
+          "published": "2026-07-24T12:30:42+00:00"
         },
         {
           "title": "Holiday Robotics raises $105M for its FRIDAY wheeled humanoid",
@@ -580,12 +586,6 @@
           "published": "2026-07-20T17:53:58+00:00"
         },
         {
-          "title": "AGIBOT unveils four embodied AI products for real-world operations at WAIC",
-          "link": "https://www.therobotreport.com/agibot-unveils-four-embodied-ai-products-real-world-operations-waic/",
-          "source": "The Robot Report",
-          "published": "2026-07-20T15:18:07+00:00"
-        },
-        {
           "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
           "link": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
           "source": "IEEE Spectrum",
@@ -614,12 +614,6 @@
           "link": "https://spectrum.ieee.org/video-friday-robot-world-cup",
           "source": "IEEE Spectrum",
           "published": "2026-07-10T16:00:01+00:00"
-        },
-        {
-          "title": "Ground Robots Inherit the Kill Zone",
-          "link": "https://spectrum.ieee.org/ukraine-ground-drones",
-          "source": "IEEE Spectrum",
-          "published": "2026-07-10T11:00:01+00:00"
         }
       ]
     },
@@ -629,10 +623,10 @@
       "count": 40,
       "items": [
         {
-          "title": "인텔, 15년 만에 최대 매출 성장률…에이전트 확산에 CPU 수요 급증",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213140",
+          "title": "오픈AI, 데스크톱 앱에 'GPT-라이브' 음성 제어 도입",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213129",
           "source": "AI타임스",
-          "published": "2026-07-24T16:30:40+00:00"
+          "published": "2026-07-24T18:50:18+00:00"
         },
         {
           "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
