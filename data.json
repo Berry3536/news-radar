@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-07-23T19:11:34.690393+00:00",
+  "generated_at": "2026-07-24T02:26:55.699177+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "This is the new 18-in-1 electric vehicle you can build yourself",
+          "link": "https://electrek.co/2026/07/23/this-is-the-new-18-in-1-electric-vehicle-you-can-build-yourself/",
+          "source": "Electrek",
+          "published": "2026-07-24T00:29:00+00:00"
+        },
+        {
+          "title": "NEVI gets real in Illinois as first federally funded EV chargers go online",
+          "link": "https://electrek.co/2026/07/23/nevi-gets-real-in-illinois-as-first-federally-funded-ev-chargers-go-online/",
+          "source": "Electrek",
+          "published": "2026-07-23T21:57:15+00:00"
+        },
+        {
+          "title": "The new Hyundai Kona leaks with a tougher look and a surprise inside",
+          "link": "https://electrek.co/2026/07/23/new-hyundai-kona-leaks-with-tougher-look-surprise-inside/",
+          "source": "Electrek",
+          "published": "2026-07-23T21:14:39+00:00"
+        },
+        {
+          "title": "I Think The Hyundai Ioniq 9 Is The Best Three-Row EV Value. But That Might Not Be Enough",
+          "link": "https://insideevs.com/reviews/802603/hyundai-ioniq-9-ev-review-2026/",
+          "source": "InsideEVs",
+          "published": "2026-07-23T20:44:51+00:00"
+        },
+        {
+          "title": "A Bill Taking Aim At Chinese Cars In America Just Advanced In The Senate. It Could Hit Mercedes Too",
+          "link": "https://insideevs.com/news/802474/senate-bill-chinese-car-crackdown/",
+          "source": "InsideEVs",
+          "published": "2026-07-23T19:53:54+00:00"
+        },
+        {
+          "title": "Schneider Electric’s upgraded app-free EV charger now has NACS",
+          "link": "https://electrek.co/2026/07/23/schneider-electrics-upgraded-app-free-ev-charger-now-has-nacs/",
+          "source": "Electrek",
+          "published": "2026-07-23T19:43:52+00:00"
+        },
         {
           "title": "BYD launches the Denza Z9 GT EV in Europe and the UK at over 3X the price",
           "link": "https://electrek.co/2026/07/23/byd-launches-denza-z9-gt-ev-europe-the-uk-3x-price/",
@@ -61,8 +97,8 @@
           "published": "2026-07-23T16:10:48+00:00"
         },
         {
-          "title": "Ford will build the new Bronco and an electric crossover with China’s help",
-          "link": "https://electrek.co/2026/07/23/ford-build-new-bronco-ev-crossover-with-chinas-help/",
+          "title": "Ford is building an electric crossover with China’s help, plus a new Bronco is coming",
+          "link": "https://electrek.co/2026/07/23/ford-build-ev-crossover-chinas-help-plus-new-bronco-coming/",
           "source": "Electrek",
           "published": "2026-07-23T15:39:39+00:00"
         },
@@ -209,50 +245,20 @@
           "link": "https://electrek.co/2026/07/22/range-rovers-next-ev-unlike-anything-its-ever-built-images/",
           "source": "Electrek",
           "published": "2026-07-22T14:26:56+00:00"
-        },
-        {
-          "title": "Exclusive: Segway teases more electric bikes, including a street-legal next-gen Xyber",
-          "link": "https://electrek.co/2026/07/22/exclusive-segway-teases-more-electric-bikes-including-a-street-legal-next-gen-xyber/",
-          "source": "Electrek",
-          "published": "2026-07-22T13:00:00+00:00"
-        },
-        {
-          "title": "Electric, autonomous, and there’s 800 of them: inside this week’s BIGGEST deal",
-          "link": "https://electrek.co/2026/07/22/electric-autonomous-and-theres-800-of-them-inside-this-weeks-biggest-deal/",
-          "source": "Electrek",
-          "published": "2026-07-22T12:27:42+00:00"
-        },
-        {
-          "title": "Battery Startup Raises $300 Million Promising 20% More EV Range",
-          "link": "https://insideevs.com/news/802397/sila-silicon-anode-lithium-ion/",
-          "source": "InsideEVs",
-          "published": "2026-07-22T08:53:06+00:00"
-        },
-        {
-          "title": "Electrek Formula Sun Grand Prix 2026: Day 1 results and gallery",
-          "link": "https://electrek.co/2026/07/21/electrek-formula-sun-grand-prix-2026-day-1-results-and-gallery/",
-          "source": "Electrek",
-          "published": "2026-07-22T02:24:01+00:00"
-        },
-        {
-          "title": "I Sat In The New Electric Range Rover GT. It Skips A Big Thing I Hate In Luxury EVs",
-          "link": "https://insideevs.com/news/802286/range-rover-gt-electric-ev-interior/",
-          "source": "InsideEVs",
-          "published": "2026-07-21T23:01:00+00:00"
-        },
-        {
-          "title": "GM just added ChargePoint to its EV apps",
-          "link": "https://electrek.co/2026/07/21/gm-just-added-chargepoint-to-its-ev-apps/",
-          "source": "Electrek",
-          "published": "2026-07-21T21:50:26+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 31,
+      "count": 29,
       "items": [
+        {
+          "title": "Renewables Provide More Than 30% of US Electricity",
+          "link": "https://cleantechnica.com/2026/07/23/renewables-provide-more-than-30-of-us-electricity/",
+          "source": "CleanTechnica",
+          "published": "2026-07-24T02:05:53+00:00"
+        },
         {
           "title": "NIO Launches the ES8 Five-Seat Version",
           "link": "https://cleantechnica.com/2026/07/23/nio-launches-the-es8-five-seat-version/",
@@ -368,28 +374,10 @@
           "published": "2026-07-20T16:44:52+00:00"
         },
         {
-          "title": "Long Beach Says Zero-Emission. Its Capital Plan Says Electric.",
-          "link": "https://cleantechnica.com/2026/07/20/long-beach-zero-emission-port-electrification/",
-          "source": "CleanTechnica",
-          "published": "2026-07-20T15:29:31+00:00"
-        },
-        {
-          "title": "US Startup Pitches Green Hydrogen And Solar Power For Off-Grid Reliability",
-          "link": "https://cleantechnica.com/2026/07/20/green-hydrogen-ev-charging-offgrid-us-innovation-startups/",
-          "source": "CleanTechnica",
-          "published": "2026-07-20T14:46:45+00:00"
-        },
-        {
           "title": "Order up: Janus Electric set to convert 67 diesel trucks to battery-swap EVs",
           "link": "https://electrek.co/2026/07/20/order-up-janus-electric-set-to-convert-67-diesel-trucks-to-battery-swap-evs/",
           "source": "Electrek",
           "published": "2026-07-20T14:15:00+00:00"
-        },
-        {
-          "title": "Cradle-to-Crisis Approach Improves Battery Safety & Performance",
-          "link": "https://cleantechnica.com/2026/07/20/cradle-to-crisis-approach-improves-battery-safety-performance/",
-          "source": "CleanTechnica",
-          "published": "2026-07-20T11:00:47+00:00"
         },
         {
           "title": "LiuGong brings electric heavy equipment options to North America [video]",
@@ -444,7 +432,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 9,
+      "count": 8,
       "items": [
         {
           "title": "기아 스포티지, 독일 전문지 준중형 SUV 비교 평가 종합 1위",
@@ -457,12 +445,6 @@
           "link": "https://electrek.co/2026/07/21/volkswagen-enters-the-smart-e-bike-game-with-radar-cameras-hud-glasses-and-more/",
           "source": "Electrek",
           "published": "2026-07-21T12:53:33+00:00"
-        },
-        {
-          "title": "America’s First UL-Compliant Plug-In Balcony Solar Microinverter Is Here",
-          "link": "https://insideevs.com/news/802258/plug-in-balcony-solar-microinverter-ul/",
-          "source": "InsideEVs",
-          "published": "2026-07-21T07:11:54+00:00"
         },
         {
           "title": "The US’s first UL 3700 balcony solar microinverter is here",
@@ -507,6 +489,12 @@
       "label": "로봇",
       "count": 22,
       "items": [
+        {
+          "title": "Holiday Robotics raises $105M for its FRIDAY wheeled humanoid",
+          "link": "https://www.therobotreport.com/holiday-robotics-raises-105m-wheeled-humanoid-friday/",
+          "source": "The Robot Report",
+          "published": "2026-07-23T20:45:47+00:00"
+        },
         {
           "title": "Uber co-founder raises $1.7B for new robotics startup ATOMS",
           "link": "https://www.therobotreport.com/uber-co-founder-raises-1-7b-for-new-robotics-startup-atoms/",
@@ -598,12 +586,6 @@
           "published": "2026-07-20T15:18:07+00:00"
         },
         {
-          "title": "How to avoid the teleoperation trap in robotics development",
-          "link": "https://www.therobotreport.com/how-to-avoid-teleoperation-trap-robotics-development/",
-          "source": "The Robot Report",
-          "published": "2026-07-19T12:30:25+00:00"
-        },
-        {
           "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
           "link": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
           "source": "IEEE Spectrum",
@@ -647,10 +629,10 @@
       "count": 40,
       "items": [
         {
-          "title": "중국 샤오홍슈, IMO 만점 AI 'dots-note-3.0' 공개…세계 최초 42점 획득",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213095",
+          "title": "KAIST-엔비디아, AI공동연구소 설립…”컴퓨팅 자원 740억 규모 지원”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213123",
           "source": "AI타임스",
-          "published": "2026-07-23T18:45:03+00:00"
+          "published": "2026-07-24T08:58:31+00:00"
         },
         {
           "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
