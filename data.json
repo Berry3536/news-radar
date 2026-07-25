@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-07-25T08:02:27.248368+00:00",
+  "generated_at": "2026-07-25T13:19:04.081064+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Another state may legalize electric motorbikes up to 30 and 40 mph under sweeping new micromobility bill",
+          "link": "https://electrek.co/2026/07/25/another-state-may-legalize-electric-motorbikes-up-to-30-and-40-mph-under-sweeping-new-micromobility-bill/",
+          "source": "Electrek",
+          "published": "2026-07-25T13:03:00+00:00"
+        },
+        {
+          "title": "EV Drivers Are Happier With Their Cars Than Gas Car Owners: Study",
+          "link": "https://insideevs.com/news/802719/ev-buyers-happy-jd-power-survey/",
+          "source": "InsideEVs",
+          "published": "2026-07-25T13:00:00+00:00"
+        },
+        {
+          "title": "A BMW iX3 Charged For Just 15 Minutes. Here's How Far It Drove On The Highway",
+          "link": "https://insideevs.com/news/802668/bmw-ix3-road-trip-challenge/",
+          "source": "InsideEVs",
+          "published": "2026-07-25T12:00:00+00:00"
+        },
+        {
+          "title": "The Tesla Model Y Has Changed A Surprising Amount In 6 Years",
+          "link": "https://insideevs.com/features/802718/tesla-model-y-years-compared/",
+          "source": "InsideEVs",
+          "published": "2026-07-25T11:00:00+00:00"
+        },
         {
           "title": "Musk says Tesla to ‘open source’ Model S and X, but prior release makes us skeptical",
           "link": "https://electrek.co/2026/07/24/tesla-open-source-model-s-x-roadster-release-audit/",
@@ -221,37 +245,13 @@
           "link": "https://electrek.co/2026/07/23/i-love-e-bikes-but-do-they-always-need-pedals/",
           "source": "Electrek",
           "published": "2026-07-23T16:15:17+00:00"
-        },
-        {
-          "title": "Ford Is Switching To Apple Maps For Its Next-Gen EV Navigation",
-          "link": "https://insideevs.com/news/802576/ford-ev-apple-maps-navigation/",
-          "source": "InsideEVs",
-          "published": "2026-07-23T16:10:48+00:00"
-        },
-        {
-          "title": "Ford is building an electric crossover with China’s help, plus a new Bronco is coming",
-          "link": "https://electrek.co/2026/07/23/ford-build-ev-crossover-chinas-help-plus-new-bronco-coming/",
-          "source": "Electrek",
-          "published": "2026-07-23T15:39:39+00:00"
-        },
-        {
-          "title": "Subaru's Biggest EV Yet Just Got Delayed",
-          "link": "https://insideevs.com/news/802574/2027-subaru-getaway-ev-delay/",
-          "source": "InsideEVs",
-          "published": "2026-07-23T15:28:27+00:00"
-        },
-        {
-          "title": "Tesla (TSLA) crashes 12%, sheds $140B as Elon Musk’s ‘just trust me’ doesn’t hold anymore",
-          "link": "https://electrek.co/2026/07/23/tesla-tsla-crashes-12-q2-2026-earnings-miss/",
-          "source": "Electrek",
-          "published": "2026-07-23T14:30:55+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 31,
+      "count": 30,
       "items": [
         {
           "title": "CS PowerTech Launches Best In Class PV HJT Solar Cell Factory",
@@ -350,12 +350,6 @@
           "published": "2026-07-22T14:34:52+00:00"
         },
         {
-          "title": "Battery Startup Raises $300 Million Promising 20% More EV Range",
-          "link": "https://insideevs.com/news/802397/sila-silicon-anode-lithium-ion/",
-          "source": "InsideEVs",
-          "published": "2026-07-22T08:53:06+00:00"
-        },
-        {
           "title": "The Next Wave Of Perovskite Solar Cell Innovation: See-Through Solar Windows",
           "link": "https://cleantechnica.com/2026/07/22/perovskite-solar-cells-invisible-solar-power-window-glass/",
           "source": "CleanTechnica",
@@ -444,8 +438,14 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 7,
+      "count": 8,
       "items": [
+        {
+          "title": "Another state may legalize electric motorbikes up to 30 and 40 mph under sweeping new micromobility bill",
+          "link": "https://electrek.co/2026/07/25/another-state-may-legalize-electric-motorbikes-up-to-30-and-40-mph-under-sweeping-new-micromobility-bill/",
+          "source": "Electrek",
+          "published": "2026-07-25T13:03:00+00:00"
+        },
         {
           "title": "올해 굿우드는 컨텐츠 부자 벤틀리의 독무대",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44205",
@@ -629,10 +629,10 @@
       "count": 1,
       "items": [
         {
-          "title": "삼성SDS, 앤트로픽과 파트너십 체결...\"국내 엔터프라이즈 시장 공략\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213172",
+          "title": "\"국산 칩 안 쓰면 반역자\"…중국, AI 기업들에 '강력 경고'",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213176",
           "source": "AI타임스",
-          "published": "2026-07-25T16:09:17+00:00"
+          "published": "2026-07-25T18:28:44+00:00"
         }
       ]
     }
