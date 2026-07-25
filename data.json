@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-07-24T19:20:50.350494+00:00",
+  "generated_at": "2026-07-25T02:25:25.242766+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Musk says Tesla to ‘open source’ Model S and X, but prior release makes us skeptical",
+          "link": "https://electrek.co/2026/07/24/tesla-open-source-model-s-x-roadster-release-audit/",
+          "source": "Electrek",
+          "published": "2026-07-24T23:38:20+00:00"
+        },
+        {
+          "title": "Tesla’s Controversial Door Handles Could Trigger New Safety Rules",
+          "link": "https://insideevs.com/news/802695/tesla-door-handles-recall-nhtsa/",
+          "source": "InsideEVs",
+          "published": "2026-07-24T22:32:50+00:00"
+        },
+        {
+          "title": "A 1.2 GW solar farm is rising at a Texas coal site – but coal is staying",
+          "link": "https://electrek.co/2026/07/24/a-1-2-gw-solar-farm-is-rising-at-a-texas-coal-site-but-coal-is-staying/",
+          "source": "Electrek",
+          "published": "2026-07-24T22:25:17+00:00"
+        },
+        {
+          "title": "Audi’s most affordable EV revealed with over 400 miles of range [Video]",
+          "link": "https://electrek.co/2026/07/24/audis-most-affordable-ev-revealed-400-miles-range-video/",
+          "source": "Electrek",
+          "published": "2026-07-24T20:27:07+00:00"
+        },
+        {
+          "title": "Podcast: TSLA earnings debacle, FSD ticket, Toyota finally waking up? FSGP, more",
+          "link": "https://electrek.co/2026/07/24/podcast-tsla-earnings-debacle-fsd-ticket-toyota-finally-waking-up-fsgp-more/",
+          "source": "Electrek",
+          "published": "2026-07-24T19:23:44+00:00"
+        },
         {
           "title": "The Used EV Market Just Got Weirder",
           "link": "https://insideevs.com/features/802702/used-ev-honda-prologue-podcast/",
@@ -215,36 +245,6 @@
           "link": "https://electrek.co/2026/07/23/tesla-tsla-crashes-12-q2-2026-earnings-miss/",
           "source": "Electrek",
           "published": "2026-07-23T14:30:55+00:00"
-        },
-        {
-          "title": "The Volvo EX60's Excellent Range Somehow Got Even Better",
-          "link": "https://insideevs.com/news/802557/2027-volvo-ex60-epa-range-higher/",
-          "source": "InsideEVs",
-          "published": "2026-07-23T14:10:14+00:00"
-        },
-        {
-          "title": "Ford’s $30,000 electric pickup will have Apple Maps built in with EV routing and more",
-          "link": "https://electrek.co/2026/07/23/fords-30000-pickup-apple-maps-built-in-ev-routing/",
-          "source": "Electrek",
-          "published": "2026-07-23T14:09:44+00:00"
-        },
-        {
-          "title": "Tesla swapped a solar owner’s lease contract for the Book of Enoch",
-          "link": "https://electrek.co/2026/07/23/tesla-solar-lease-contract-book-of-enoch/",
-          "source": "Electrek",
-          "published": "2026-07-23T13:56:31+00:00"
-        },
-        {
-          "title": "The Next-Gen Chevy Equinox EV Is Coming In 2028: Report",
-          "link": "https://insideevs.com/news/802543/next-gen-chevy-equinox-ev/",
-          "source": "InsideEVs",
-          "published": "2026-07-23T12:36:56+00:00"
-        },
-        {
-          "title": "Tesla Sold 25% More Cars In Q2. Its Operating Profit Still Plummeted",
-          "link": "https://insideevs.com/news/802523/tesla-q2-2026-earnings-report/",
-          "source": "InsideEVs",
-          "published": "2026-07-23T10:52:08+00:00"
         }
       ]
     },
@@ -253,6 +253,18 @@
       "label": "배터리",
       "count": 31,
       "items": [
+        {
+          "title": "CS PowerTech Launches Best In Class PV HJT Solar Cell Factory",
+          "link": "https://cleantechnica.com/2026/07/24/cs-powertech-launches-best-in-class-pv-hjt-solar-cell-factory/",
+          "source": "CleanTechnica",
+          "published": "2026-07-25T01:22:47+00:00"
+        },
+        {
+          "title": "Trump Administration Admits Retaliatory Grant Cancellations",
+          "link": "https://cleantechnica.com/2026/07/24/trump-administration-admits-retaliatory-grant-cancellations/",
+          "source": "CleanTechnica",
+          "published": "2026-07-25T00:55:40+00:00"
+        },
         {
           "title": "Massachusetts EV Owners Will Earn Money By Selling Battery Power",
           "link": "https://insideevs.com/news/802693/massachusetts-ev-owners-v2g-pilot-program/",
@@ -356,22 +368,10 @@
           "published": "2026-07-22T03:04:58+00:00"
         },
         {
-          "title": "Isuzu to Use Swappable Battery Tech for Yokohama’s Garbage Collection Route",
-          "link": "https://cleantechnica.com/2026/07/21/isuzu-to-use-swappable-battery-tech-for-yokohamas-garbage-collection-route/",
-          "source": "CleanTechnica",
-          "published": "2026-07-22T02:53:07+00:00"
-        },
-        {
           "title": "Roborock RockMaw X120H LiDAR AWD robot mower $699 off launch, Bluetti Member Day power station sale, Velotric e-bikes, more",
           "link": "https://electrek.co/2026/07/21/roborock-rockmaw-x120h-lidar-awd-robot-mower-bluetti-power-station-sale-velotric-e-bikes-more/",
           "source": "Electrek",
           "published": "2026-07-21T18:00:00+00:00"
-        },
-        {
-          "title": "35.5%! LONGi Once Again Breaks World Record for Crystalline Silicon-Perovskite Tandem Solar Cell Efficiency",
-          "link": "https://cleantechnica.com/2026/07/21/35-5-longi-once-again-breaks-world-record-for-crystalline-silicon-perovskite-tandem-solar-cell-efficiency/",
-          "source": "CleanTechnica",
-          "published": "2026-07-21T17:53:34+00:00"
         },
         {
           "title": "Volkswagen enters the smart e-bike game with radar, cameras, HUD glasses, and more",
@@ -444,7 +444,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 8,
+      "count": 7,
       "items": [
         {
           "title": "올해 굿우드는 컨텐츠 부자 벤틀리의 독무대",
@@ -487,12 +487,6 @@
           "link": "https://electrek.co/2026/07/16/tesla-balance-bike-kids-225/",
           "source": "Electrek",
           "published": "2026-07-17T00:31:20+00:00"
-        },
-        {
-          "title": "Chip Motors unveils $15,000 electric ‘life utility vehicle’",
-          "link": "https://electrek.co/2026/07/16/chip-motors-15000-electric-luv-25-mph/",
-          "source": "Electrek",
-          "published": "2026-07-16T15:42:24+00:00"
         }
       ]
     },
@@ -635,10 +629,10 @@
       "count": 40,
       "items": [
         {
-          "title": "오픈AI, 데스크톱 앱에 'GPT-라이브' 음성 제어 도입",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213129",
+          "title": "앤드류 응, 대화 대신 결과물 만드는 오픈소스 AI '오픈워커' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213135",
           "source": "AI타임스",
-          "published": "2026-07-24T18:50:18+00:00"
+          "published": "2026-07-25T10:33:21+00:00"
         },
         {
           "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
