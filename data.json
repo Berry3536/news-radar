@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-07-26T08:22:24.558981+00:00",
+  "generated_at": "2026-07-26T13:14:51.913748+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Met police break their own record for seizing illegal e-bikes",
+          "link": "https://electrek.co/2026/07/26/met-police-break-their-own-record-for-seizing-illegal-e-bikes/",
+          "source": "Electrek",
+          "published": "2026-07-26T11:00:27+00:00"
+        },
         {
           "title": "Another day at the office: Fortescue CEO test drives 150 ton haul truck [video]",
           "link": "https://electrek.co/2026/07/25/another-day-at-the-office-fortescue-ceo-test-drives-150-ton-haul-truck-video/",
@@ -239,19 +245,13 @@
           "link": "https://electrek.co/2026/07/23/schneider-electrics-upgraded-app-free-ev-charger-now-has-nacs/",
           "source": "Electrek",
           "published": "2026-07-23T19:43:52+00:00"
-        },
-        {
-          "title": "BYD launches the Denza Z9 GT EV in Europe and the UK at over 3X the price",
-          "link": "https://electrek.co/2026/07/23/byd-launches-denza-z9-gt-ev-europe-the-uk-3x-price/",
-          "source": "Electrek",
-          "published": "2026-07-23T18:29:21+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 28,
+      "count": 27,
       "items": [
         {
           "title": "Another day at the office: Fortescue CEO test drives 150 ton haul truck [video]",
@@ -350,12 +350,6 @@
           "published": "2026-07-23T01:08:51+00:00"
         },
         {
-          "title": "Hooking Up Your House To An EV Is Getting Loads Easier",
-          "link": "https://cleantechnica.com/2026/07/22/ev-batteries-vehicle-home-emergency-backup-power-ford/",
-          "source": "CleanTechnica",
-          "published": "2026-07-22T18:00:18+00:00"
-        },
-        {
           "title": "Anker SOLIX Summer Camp power station sale with exclusive savings from $189, HiEHA CarPlay SU8 2.0 e-bike low, EcoFlow, more",
           "link": "https://electrek.co/2026/07/22/anker-solix-summer-camp-power-station-sale-hieha-carplay-su8-2-0-e-bike-ecoflow-more/",
           "source": "Electrek",
@@ -426,7 +420,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 7,
+      "count": 6,
       "items": [
         {
           "title": "Another state may legalize electric motorbikes up to 30 and 40 mph under sweeping new micromobility bill",
@@ -463,20 +457,32 @@
           "link": "https://electrek.co/2026/07/17/in-the-birthplace-of-the-automobile-electric-cars-are-now-king/",
           "source": "Electrek",
           "published": "2026-07-17T17:53:49+00:00"
-        },
-        {
-          "title": "Segway Xaber review: The mall-cop company just built a better Sur Ron for less money",
-          "link": "https://electrek.co/2026/07/17/segway-xaber-review-the-mall-cop-company-just-built-a-better-sur-ron-for-less-money/",
-          "source": "Electrek",
-          "published": "2026-07-17T12:37:05+00:00"
         }
       ]
     },
     {
       "key": "robot",
       "label": "로봇",
-      "count": 21,
+      "count": 22,
       "items": [
+        {
+          "title": "로보블럭시스템 “직충돌 요격드론 중심 K-대드론 방어체계 구축한다”",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47607",
+          "source": "로봇신문",
+          "published": "2026-07-26T20:35:52+00:00"
+        },
+        {
+          "title": "Optical Tech Would Update a Robot’s AI on the Fly",
+          "link": "https://spectrum.ieee.org/ai-in-robotics",
+          "source": "IEEE Spectrum",
+          "published": "2026-07-26T13:00:01+00:00"
+        },
+        {
+          "title": "Magmotor makes motors for a changing world for 150+ years",
+          "link": "https://www.therobotreport.com/magmotor-makes-motors-changing-world-150-years/",
+          "source": "The Robot Report",
+          "published": "2026-07-26T12:30:51+00:00"
+        },
         {
           "title": "Photos: First look at J&J’s Ottava surgical robot",
           "link": "https://www.therobotreport.com/photos-first-look-at-jjs-ottava-surgical-robot/",
@@ -488,12 +494,6 @@
           "link": "https://www.therobotreport.com/generalists-gen-1-foundation-model-now-supports-a-range-of-robot-end-effectors/",
           "source": "The Robot Report",
           "published": "2026-07-24T18:23:42+00:00"
-        },
-        {
-          "title": "美 메드트로닉, 수술로봇용 AI 컴퓨팅 플랫폼 공개",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47594",
-          "source": "로봇신문",
-          "published": "2026-07-24T17:15:52+00:00"
         },
         {
           "title": "How time series databases unlock real-time data for robotics",
@@ -572,12 +572,6 @@
           "link": "https://www.therobotreport.com/misumi-americas-releases-reshoring-report-supports-manufacturing-training-bill/",
           "source": "The Robot Report",
           "published": "2026-07-21T13:00:59+00:00"
-        },
-        {
-          "title": "Friction is key to making better robot world models",
-          "link": "https://www.therobotreport.com/friction-is-key-to-making-better-robot-world-models/",
-          "source": "The Robot Report",
-          "published": "2026-07-21T12:19:30+00:00"
         },
         {
           "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
