@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-07-27T02:40:13.612820+00:00",
+  "generated_at": "2026-07-27T09:45:57.644826+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "포르쉐 911 카레라, 한국타이어 벤투스 S1 에보 Z 신는다!",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44209",
+          "source": "모터그래프",
+          "published": "2026-07-27T17:01:57+00:00"
+        },
+        {
+          "title": "Something Doesn’t Add Up About The Rivian R2’s EPA Efficiency Rating",
+          "link": "https://insideevs.com/news/802795/rivian-r2-model-y-efficiency/",
+          "source": "InsideEVs",
+          "published": "2026-07-27T09:07:59+00:00"
+        },
+        {
+          "title": "China's BMW iX5 Has More Of Everything, Including A Huge TV In The Back",
+          "link": "https://insideevs.com/news/802797/bmw-ix5-long-wheelbase-china-tv-features/",
+          "source": "InsideEVs",
+          "published": "2026-07-27T09:06:25+00:00"
+        },
         {
           "title": "Kalmar Ottawa electric yard truck gets to work in Canada",
           "link": "https://electrek.co/2026/07/26/kalmar-ottawa-electric-yard-truck-gets-to-work-in-canada/",
@@ -151,12 +169,6 @@
           "published": "2026-07-24T17:09:39+00:00"
         },
         {
-          "title": "특별한 안목을 가진 사람들을 위한 럭셔리, BMW 알피나",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44190",
-          "source": "모터그래프",
-          "published": "2026-07-24T17:03:33+00:00"
-        },
-        {
           "title": "After canceling EVs, Honda laughably tells EV owners to buy a gas guzzler instead",
           "link": "https://electrek.co/2026/07/24/after-canceling-evs-honda-laughably-tells-ev-owners-to-buy-a-gas-guzzler-instead/",
           "source": "Electrek",
@@ -233,18 +245,6 @@
           "link": "https://electrek.co/2026/07/23/new-hyundai-kona-leaks-with-tougher-look-surprise-inside/",
           "source": "Electrek",
           "published": "2026-07-23T21:14:39+00:00"
-        },
-        {
-          "title": "I Think The Hyundai Ioniq 9 Is The Best Three-Row EV Value. But That Might Not Be Enough",
-          "link": "https://insideevs.com/reviews/802603/hyundai-ioniq-9-ev-review-2026/",
-          "source": "InsideEVs",
-          "published": "2026-07-23T20:44:51+00:00"
-        },
-        {
-          "title": "A Bill Taking Aim At Chinese Cars In America Just Advanced In The Senate. It Could Hit Mercedes Too",
-          "link": "https://insideevs.com/news/802474/senate-bill-chinese-car-crackdown/",
-          "source": "InsideEVs",
-          "published": "2026-07-23T19:53:54+00:00"
         }
       ]
     },
@@ -429,16 +429,16 @@
       "count": 6,
       "items": [
         {
+          "title": "포르쉐 911 카레라, 한국타이어 벤투스 S1 에보 Z 신는다!",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44209",
+          "source": "모터그래프",
+          "published": "2026-07-27T17:01:57+00:00"
+        },
+        {
           "title": "Another state may legalize electric motorbikes up to 30 and 40 mph under sweeping new micromobility bill",
           "link": "https://electrek.co/2026/07/25/another-state-may-legalize-electric-motorbikes-up-to-30-and-40-mph-under-sweeping-new-micromobility-bill/",
           "source": "Electrek",
           "published": "2026-07-25T13:03:00+00:00"
-        },
-        {
-          "title": "올해 굿우드는 컨텐츠 부자 벤틀리의 독무대",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44205",
-          "source": "모터그래프",
-          "published": "2026-07-24T16:59:11+00:00"
         },
         {
           "title": "Volkswagen enters the smart e-bike game with radar, cameras, HUD glasses, and more",
@@ -472,10 +472,10 @@
       "count": 22,
       "items": [
         {
-          "title": "로보블럭시스템 “직충돌 요격드론 중심 K-대드론 방어체계 구축한다”",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47607",
+          "title": "中 휴머노이드 기업 애지봇, 홍콩증시 상장 절차 개시",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47627",
           "source": "로봇신문",
-          "published": "2026-07-26T20:35:52+00:00"
+          "published": "2026-07-27T15:50:07+00:00"
         },
         {
           "title": "Optical Tech Would Update a Robot’s AI on the Fly",
@@ -608,13 +608,247 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 1,
+      "count": 40,
       "items": [
         {
-          "title": "KAIST, ICML서 최우수논문상…‘세상 원리 이론화’하는 AI 선보여",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213205",
+          "title": "중국 CXMT, 상하이 증시 상장 첫날 466% 폭등…중국 시총 1위 등극",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213229",
           "source": "AI타임스",
-          "published": "2026-07-27T11:31:17+00:00"
+          "published": "2026-07-27T18:05:12+00:00"
+        },
+        {
+          "title": "Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees",
+          "link": "https://arxiv.org/abs/2607.21623",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "On the Depth Scalability of Logic Gate Networks",
+          "link": "https://arxiv.org/abs/2607.21633",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "MotifRole-Diff: Risk-Optimal Role-Aware Corruption for Masked Molecular Graph Diffusion",
+          "link": "https://arxiv.org/abs/2607.21634",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Toward User-Conditioned Evaluation of Personal LLM Agents under Temporal Interventions",
+          "link": "https://arxiv.org/abs/2607.21635",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Measuring the Dependency Gap: Diagnosing Inter-Column Fidelity in Tabular Generative Models",
+          "link": "https://arxiv.org/abs/2607.21636",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Quasi-Monte Carlo Initialization for Meta-Reinforcement Learning",
+          "link": "https://arxiv.org/abs/2607.21637",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Toward Goal-Agnostic Joint-Embedding Predictive Control of Partial Differential Equations",
+          "link": "https://arxiv.org/abs/2607.21644",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Multi-Horizon Consistency as Geometry: When Latent Dynamics Contract, and When They Do Not",
+          "link": "https://arxiv.org/abs/2607.21645",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Adjustment Speed as a Safety Constraint for Nonstationary Reinforcement Learning",
+          "link": "https://arxiv.org/abs/2607.21646",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "A Drift Stable Quantum Federated Learning for Intelligent Services",
+          "link": "https://arxiv.org/abs/2607.21647",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Shallower ReLU Network Representations via Exact Linear Algebra",
+          "link": "https://arxiv.org/abs/2607.21651",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning",
+          "link": "https://arxiv.org/abs/2607.21653",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Physically Constrained Federated Additive Models for O-RAN SLA-Risk Prediction",
+          "link": "https://arxiv.org/abs/2607.21665",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Neural Feature Governance: Extending Atom Prevalence",
+          "link": "https://arxiv.org/abs/2607.21671",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Self-Poisoning in Adaptive Out-of-Distribution Detection: A Sharp-Threshold Theory and Certified Label-Free Calibration",
+          "link": "https://arxiv.org/abs/2607.21673",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Encoding Invisible Causation for Bridge Diagnostic Agents: Triple-Guided Retrieval-Augmented Fine-Tuning with QLoRA",
+          "link": "https://arxiv.org/abs/2607.21680",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "CARNet Cycle-Conditioned Core Aggregation and Redistribution for Multivariate Time Series Forecasting",
+          "link": "https://arxiv.org/abs/2607.21681",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Learning What Matters: Supervising Sparse Attention Routing with Causal Evidence Sets",
+          "link": "https://arxiv.org/abs/2607.21692",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "An Introduction to Bayesian and Frequentist Simulation-Based Inference with Machine Learning",
+          "link": "https://arxiv.org/abs/2607.21702",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "A Defense of the Quadratic Model",
+          "link": "https://arxiv.org/abs/2607.21716",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "RED-PIM: Reducing Data Movement for Transformers using Processing-in-Memory",
+          "link": "https://arxiv.org/abs/2607.21731",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Parameter-free Adaptive Sparse Attention via Compression-Based Content Selection",
+          "link": "https://arxiv.org/abs/2607.21752",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Smart predict-then-robustly-optimize",
+          "link": "https://arxiv.org/abs/2607.21773",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Physiological Signals as a Forensic Modality for Talking-Face Deepfake Detection",
+          "link": "https://arxiv.org/abs/2607.21776",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Bounding the Causal Impact of ML-assisted Decision-Making via Counterfactual Correctness",
+          "link": "https://arxiv.org/abs/2607.21806",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Data eccentricity, asymptotics of Gaussian RBF reproducing kernel Hilbert space, and kernel PCA",
+          "link": "https://arxiv.org/abs/2607.21823",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "A Graph-Based Control Interface for Traffic Signals on Heterogeneous Road Networks",
+          "link": "https://arxiv.org/abs/2607.21831",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Searching the Space of Feed-Forward Neural-Network Weight-Update Rules with Fixed Depth Symbolic Regression",
+          "link": "https://arxiv.org/abs/2607.21855",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "LeAct: Learning to Reason from Expert Actions",
+          "link": "https://arxiv.org/abs/2607.21856",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Scaling Laws for Classical Machine Learning on Tabular Data: A Benchmark Study",
+          "link": "https://arxiv.org/abs/2607.21866",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Variance-Reduced Q-Learning over Static and Time-Varying Networks",
+          "link": "https://arxiv.org/abs/2607.21876",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Remedying Coarsening-Based GNN Training under Heterophily via Adaptive Complementary Enhancement",
+          "link": "https://arxiv.org/abs/2607.21885",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "MissHyper: Restoring Clinical Synchronicity in Missingness-Guided Hypergraph Forecasting",
+          "link": "https://arxiv.org/abs/2607.21922",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "RIS-Kernel: A Model-Agnostic Architecture for Long-Context LLM Inference via Sparse Attention",
+          "link": "https://arxiv.org/abs/2607.21927",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "LatentFlow: Visual Analytics for Latent Space Analysis in Molecular Graph Neural Networks",
+          "link": "https://arxiv.org/abs/2607.21941",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Multi-Agent Debate and Visual Information Extraction for SeePhys Pro: A 1st-Place Technical Report from ICML 2026 AI4Math Track 3 Challenge",
+          "link": "https://arxiv.org/abs/2607.21946",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "MA-DAR: Manifold-Aligned Dynamic Adaptive Routing for Continual Temporal Knowledge Graph Reasoning",
+          "link": "https://arxiv.org/abs/2607.21949",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Teaching LLMs to Self-Evolve: Cultivating Core Meta-Skills with Reinforcement Learning",
+          "link": "https://arxiv.org/abs/2607.21971",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "On the Convergence of Stochastic Low-Rank Adaptation",
+          "link": "https://arxiv.org/abs/2607.21975",
+          "source": "arXiv cs.LG",
+          "published": "2026-07-27T04:00:00+00:00"
         }
       ]
     }
