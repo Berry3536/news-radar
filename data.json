@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T08:29:20.023525+00:00",
+  "generated_at": "2026-07-28T13:59:55.949213+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,24 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44217",
           "source": "모터그래프",
           "published": "2026-07-28T17:00:06+00:00"
+        },
+        {
+          "title": "Tesla buys the entire output of a new 140 MW Texas solar farm",
+          "link": "https://electrek.co/2026/07/28/tesla-buys-texas-solar-farm-output-zelestra/",
+          "source": "Electrek",
+          "published": "2026-07-28T13:53:29+00:00"
+        },
+        {
+          "title": "Tesla sues Cybertruck supplier amid standoff keeping production hostage",
+          "link": "https://electrek.co/2026/07/28/tesla-sues-cybertruck-supplier-angstrom-tooling/",
+          "source": "Electrek",
+          "published": "2026-07-28T13:00:05+00:00"
+        },
+        {
+          "title": "E-quipment highlight: SANY SKT145Ei cabless, autonomous haul truck [video]",
+          "link": "https://electrek.co/2026/07/28/e-quipment-highlight-sany-skt145ei-cabless-autonomous-haul-truck-video/",
+          "source": "Electrek",
+          "published": "2026-07-28T11:42:57+00:00"
         },
         {
           "title": "Forget what you read on Facebook: 94% of EV drivers won’t go back to gas",
@@ -227,24 +245,6 @@
           "link": "https://insideevs.com/news/802695/tesla-door-handles-recall-nhtsa/",
           "source": "InsideEVs",
           "published": "2026-07-24T22:32:50+00:00"
-        },
-        {
-          "title": "A 1.2 GW solar farm is rising at a Texas coal site – but coal is staying",
-          "link": "https://electrek.co/2026/07/24/a-1-2-gw-solar-farm-is-rising-at-a-texas-coal-site-but-coal-is-staying/",
-          "source": "Electrek",
-          "published": "2026-07-24T22:25:17+00:00"
-        },
-        {
-          "title": "Audi’s most affordable EV revealed with over 400 miles of range [Video]",
-          "link": "https://electrek.co/2026/07/24/audis-most-affordable-ev-revealed-400-miles-range-video/",
-          "source": "Electrek",
-          "published": "2026-07-24T20:27:07+00:00"
-        },
-        {
-          "title": "Podcast: TSLA earnings debacle, FSD ticket, Toyota finally waking up? FSGP, more",
-          "link": "https://electrek.co/2026/07/24/podcast-tsla-earnings-debacle-fsd-ticket-toyota-finally-waking-up-fsgp-more/",
-          "source": "Electrek",
-          "published": "2026-07-24T19:23:44+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 25,
       "items": [
+        {
+          "title": "CATL Net Profit Jumps 42%",
+          "link": "https://cleantechnica.com/2026/07/28/catl-net-profit-jumps-42/",
+          "source": "CleanTechnica",
+          "published": "2026-07-28T13:50:55+00:00"
+        },
         {
           "title": "Hybrid Sales Rise While Battery Electric Sales Remain Lower After Tax Credit Expiration",
           "link": "https://cleantechnica.com/2026/07/27/hybrid-sales-rise-while-battery-electric-sales-remain-lower-after-tax-credit-expiration/",
@@ -336,12 +342,6 @@
           "link": "https://insideevs.com/news/802602/rivian-r2-battery-suspension/",
           "source": "InsideEVs",
           "published": "2026-07-24T15:01:01+00:00"
-        },
-        {
-          "title": "Renewables Provide More Than 30% of US Electricity",
-          "link": "https://cleantechnica.com/2026/07/23/renewables-provide-more-than-30-of-us-electricity/",
-          "source": "CleanTechnica",
-          "published": "2026-07-24T02:05:53+00:00"
         },
         {
           "title": "Massachusetts wants to pay EV drivers for their battery power",
@@ -442,10 +442,16 @@
       "count": 21,
       "items": [
         {
-          "title": "오늘의 로봇 기업 주식 시세(2026-07-28)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47639",
+          "title": "싱가포르 로피디아, 로봇 데이터 수집 확대 자금 320억원 유치",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47647",
           "source": "로봇신문",
-          "published": "2026-07-28T15:42:25+00:00"
+          "published": "2026-07-28T17:46:10+00:00"
+        },
+        {
+          "title": "How Integrated Actuators Improve Humanoid Robot Joint Performance and System Integration",
+          "link": "https://www.therobotreport.com/how-integrated-actuators-improve-humanoid-robot-joint-performance-and-system-integration/",
+          "source": "The Robot Report",
+          "published": "2026-07-28T13:25:37+00:00"
         },
         {
           "title": "NORD expands compact NORDAC VFD family to 200 hp",
@@ -544,12 +550,6 @@
           "published": "2026-07-21T23:43:12+00:00"
         },
         {
-          "title": "Vicarious Surgical officially shutting down",
-          "link": "https://www.therobotreport.com/vicarious-surgical-officially-shutting-down/",
-          "source": "The Robot Report",
-          "published": "2026-07-21T23:12:18+00:00"
-        },
-        {
           "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
           "link": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
           "source": "IEEE Spectrum",
@@ -575,10 +575,10 @@
       "count": 40,
       "items": [
         {
-          "title": "구글 'AI 개요', 1년 만에 검색 비중 15%→43% 급증",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213264",
+          "title": "'오픈소스 지지' 홀로 불참한 앤트로픽…“개방형 모델 금지 주장한 적 없다” 반박",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213257",
           "source": "AI타임스",
-          "published": "2026-07-28T17:14:29+00:00"
+          "published": "2026-07-28T18:16:55+00:00"
         },
         {
           "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
