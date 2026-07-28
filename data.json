@@ -1,11 +1,53 @@
 {
-  "generated_at": "2026-07-27T19:23:20.773478+00:00",
+  "generated_at": "2026-07-28T02:14:30.627092+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Forget what you read on Facebook: 94% of EV drivers won’t go back to gas",
+          "link": "https://electrek.co/2026/07/27/forget-what-you-read-on-facebook-94-of-ev-drivers-wont-go-back-to-gas/",
+          "source": "Electrek",
+          "published": "2026-07-28T01:36:16+00:00"
+        },
+        {
+          "title": "BMW is finally making the electric convertible we’ve been waiting for",
+          "link": "https://electrek.co/2026/07/27/bmw-i4-electric-convertible-2028/",
+          "source": "Electrek",
+          "published": "2026-07-28T00:46:57+00:00"
+        },
+        {
+          "title": "Now Bojangles wants EV drivers to fast charge while they eat",
+          "link": "https://electrek.co/2026/07/27/now-bojangles-wants-ev-drivers-to-fast-charge-while-they-eat/",
+          "source": "Electrek",
+          "published": "2026-07-27T22:20:54+00:00"
+        },
+        {
+          "title": "Meta is backing 10 gas plants to power data centers – and just quit a global renewables pledge",
+          "link": "https://electrek.co/2026/07/27/meta-is-backing-10-gas-plants-and-just-quit-a-global-renewables-pledge/",
+          "source": "Electrek",
+          "published": "2026-07-27T21:33:44+00:00"
+        },
+        {
+          "title": "BYD’s new flagship EV breaks cover for the first time with over 1,000 km of range [Video]",
+          "link": "https://electrek.co/2026/07/27/byd-reveals-new-flagship-ev-range-1008-km-video/",
+          "source": "Electrek",
+          "published": "2026-07-27T20:58:03+00:00"
+        },
+        {
+          "title": "BMW Is Finally Planning An Electric Convertible: Report",
+          "link": "https://insideevs.com/news/802883/electric-bmw-i4-convertible/",
+          "source": "InsideEVs",
+          "published": "2026-07-27T20:57:29+00:00"
+        },
+        {
+          "title": "Things Are Getting Really, Really Bad At Porsche. That's Not Good For EV Fans",
+          "link": "https://insideevs.com/news/802875/porsche-financial-troubles/",
+          "source": "InsideEVs",
+          "published": "2026-07-27T19:55:38+00:00"
+        },
         {
           "title": "The Rivian R2 Is A Charging Beast. But It's 'Just Fine' At Road Tripping",
           "link": "https://insideevs.com/news/802873/rivian-r2-charging-test/",
@@ -203,55 +245,13 @@
           "link": "https://electrek.co/2026/07/24/podcast-tsla-earnings-debacle-fsd-ticket-toyota-finally-waking-up-fsgp-more/",
           "source": "Electrek",
           "published": "2026-07-24T19:23:44+00:00"
-        },
-        {
-          "title": "The Used EV Market Just Got Weirder",
-          "link": "https://insideevs.com/features/802702/used-ev-honda-prologue-podcast/",
-          "source": "InsideEVs",
-          "published": "2026-07-24T19:16:18+00:00"
-        },
-        {
-          "title": "Results are in! These teams are moving on to the 2026 Electrek American Solar Challenge",
-          "link": "https://electrek.co/2026/07/24/results-are-in-these-teams-are-moving-on-to-the-2026-electrek-american-solar-challenge/",
-          "source": "Electrek",
-          "published": "2026-07-24T18:36:04+00:00"
-        },
-        {
-          "title": "Volvo trademark reveals EX50 EV name: Here’s what we know so far",
-          "link": "https://electrek.co/2026/07/24/volvo-trademark-reveals-ex50-ev-name/",
-          "source": "Electrek",
-          "published": "2026-07-24T18:23:23+00:00"
-        },
-        {
-          "title": "Massachusetts EV Owners Will Earn Money By Selling Battery Power",
-          "link": "https://insideevs.com/news/802693/massachusetts-ev-owners-v2g-pilot-program/",
-          "source": "InsideEVs",
-          "published": "2026-07-24T18:13:09+00:00"
-        },
-        {
-          "title": "Lectric Christmas in July e-bike sale with up to $733 savings, Best Buy Black Friday in July appliance sale, Jackery, EGO, more",
-          "link": "https://electrek.co/2026/07/24/lectric-christmas-in-july-e-bike-sale-best-buy-black-friday-in-july-appliance-sale-jackery-ego-more/",
-          "source": "Electrek",
-          "published": "2026-07-24T18:00:00+00:00"
-        },
-        {
-          "title": "Specialized just unveiled a new full-suspension e-bike, and here’s why it costs $13k",
-          "link": "https://electrek.co/2026/07/24/specialized-just-unveiled-a-new-full-suspension-e-bike-and-heres-why-it-costs-13k/",
-          "source": "Electrek",
-          "published": "2026-07-24T17:23:31+00:00"
-        },
-        {
-          "title": "Tesla Now Has Nearly 1.5 Million FSD Subscribers",
-          "link": "https://insideevs.com/news/802547/tesla-fsd-subscription-half/",
-          "source": "InsideEVs",
-          "published": "2026-07-24T17:09:39+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 26,
+      "count": 24,
       "items": [
         {
           "title": "The Rivian R2 Is A Charging Beast. But It's 'Just Fine' At Road Tripping",
@@ -338,12 +338,6 @@
           "published": "2026-07-24T02:05:53+00:00"
         },
         {
-          "title": "NIO Launches the ES8 Five-Seat Version",
-          "link": "https://cleantechnica.com/2026/07/23/nio-launches-the-es8-five-seat-version/",
-          "source": "CleanTechnica",
-          "published": "2026-07-23T18:41:08+00:00"
-        },
-        {
           "title": "Massachusetts wants to pay EV drivers for their battery power",
           "link": "https://electrek.co/2026/07/23/massachusetts-ev-drivers-battery-power-v2g/",
           "source": "Electrek",
@@ -402,19 +396,13 @@
           "link": "https://electrek.co/2026/07/20/order-up-janus-electric-set-to-convert-67-diesel-trucks-to-battery-swap-evs/",
           "source": "Electrek",
           "published": "2026-07-20T14:15:00+00:00"
-        },
-        {
-          "title": "LiuGong brings electric heavy equipment options to North America [video]",
-          "link": "https://electrek.co/2026/07/18/liugong-brings-electric-heavy-equipment-options-to-north-america-video/",
-          "source": "Electrek",
-          "published": "2026-07-18T20:50:45+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 5,
+      "count": 4,
       "items": [
         {
           "title": "포르쉐 911 카레라, 한국타이어 벤투스 S1 에보 Z 신는다!",
@@ -439,12 +427,6 @@
           "link": "https://electrek.co/2026/07/20/us-first-ul-3700-balcony-solar-microinverter-hoymiles/",
           "source": "Electrek",
           "published": "2026-07-20T20:38:08+00:00"
-        },
-        {
-          "title": "New HMP Flash brings affordable 75 MPH electric scooters to the US",
-          "link": "https://electrek.co/2026/07/18/new-hmp-flash-brings-affordable-75-mph-electric-scooters-to-the-us/",
-          "source": "Electrek",
-          "published": "2026-07-18T13:07:26+00:00"
         }
       ]
     },
@@ -464,6 +446,12 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47627",
           "source": "로봇신문",
           "published": "2026-07-27T15:50:07+00:00"
+        },
+        {
+          "title": "Kraken Technology raises Series B funding for autonomous vessels",
+          "link": "https://www.therobotreport.com/kraken-technology-raises-series-b-funding-autonomous-vessels/",
+          "source": "The Robot Report",
+          "published": "2026-07-27T14:02:10+00:00"
         },
         {
           "title": "Optical Tech Would Update a Robot’s AI on the Fly",
@@ -556,12 +544,6 @@
           "published": "2026-07-21T23:12:18+00:00"
         },
         {
-          "title": "Generative Bionics unveils humanoid robot with full-body tactile sensing",
-          "link": "https://www.therobotreport.com/generative-bionics-unveils-humanoid-robot-with-full-body-tactile-sensing/",
-          "source": "The Robot Report",
-          "published": "2026-07-21T19:44:26+00:00"
-        },
-        {
           "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
           "link": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
           "source": "IEEE Spectrum",
@@ -587,10 +569,10 @@
       "count": 40,
       "items": [
         {
-          "title": "중국 CXMT, 상하이 증시 상장 첫날 466% 폭등…중국 시총 1위 등극",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213229",
+          "title": "국산 AI모델, 이제 국민이 직접 평가…”독파모 평가단 200명 공모”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213239",
           "source": "AI타임스",
-          "published": "2026-07-27T18:05:12+00:00"
+          "published": "2026-07-28T10:53:06+00:00"
         },
         {
           "title": "Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees",
