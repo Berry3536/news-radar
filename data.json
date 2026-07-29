@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-07-28T19:18:41.590924+00:00",
+  "generated_at": "2026-07-29T02:24:26.590964+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Kia’s vehicles are about to get a smart upgrade, starting in 2027",
+          "link": "https://electrek.co/2026/07/28/kias-vehicles-smart-upgrade-2027/",
+          "source": "Electrek",
+          "published": "2026-07-28T21:09:49+00:00"
+        },
+        {
+          "title": "Vermont’s largest energy source is now a virtual power plant",
+          "link": "https://electrek.co/2026/07/28/vermonts-largest-energy-source-is-now-a-virtual-power-plant/",
+          "source": "Electrek",
+          "published": "2026-07-28T20:51:59+00:00"
+        },
+        {
+          "title": "Tesla self-driving manager describes scary conditions in robotaxi testing",
+          "link": "https://electrek.co/2026/07/28/tesla-self-driving-manager-rolling-hazards-lawsuit/",
+          "source": "Electrek",
+          "published": "2026-07-28T20:49:43+00:00"
+        },
+        {
+          "title": "You’ve heard of shared e-bikes. Now check out Veo’s new shared e-trike",
+          "link": "https://electrek.co/2026/07/28/youve-heard-of-shared-e-bikes-now-check-out-veos-new-shared-e-trike/",
+          "source": "Electrek",
+          "published": "2026-07-28T20:48:23+00:00"
+        },
+        {
+          "title": "We Finally Know More About The Cheap Mitsubishi Eclipse EV Coming This Fall",
+          "link": "https://insideevs.com/news/803019/mitsubishi-eclipse-sportback-battery-specs/",
+          "source": "InsideEVs",
+          "published": "2026-07-28T20:39:35+00:00"
+        },
         {
           "title": "Mercedes’ new GLA EV leaks a day ahead of its official debut",
           "link": "https://electrek.co/2026/07/28/mercedes-new-gla-ev-leaks-day-ahead-of-debut/",
@@ -215,43 +245,13 @@
           "link": "https://electrek.co/2026/07/27/musk-tesla-semi-self-driving-year-truckers-jobs-safe/",
           "source": "Electrek",
           "published": "2026-07-27T10:41:09+00:00"
-        },
-        {
-          "title": "VW Wants Higher Tariffs After Chinese PHEVs Overtake Its Best-Seller in Europe",
-          "link": "https://insideevs.com/news/802809/vw-phev-eu-tariff-demand-sales-drop/",
-          "source": "InsideEVs",
-          "published": "2026-07-27T10:38:49+00:00"
-        },
-        {
-          "title": "Something Doesn’t Add Up About The Rivian R2’s EPA Efficiency Rating",
-          "link": "https://insideevs.com/news/802795/rivian-r2-model-y-efficiency/",
-          "source": "InsideEVs",
-          "published": "2026-07-27T09:07:59+00:00"
-        },
-        {
-          "title": "China's BMW iX5 Has More Of Everything, Including A Huge TV In The Back",
-          "link": "https://insideevs.com/news/802797/bmw-ix5-long-wheelbase-china-tv-features/",
-          "source": "InsideEVs",
-          "published": "2026-07-27T09:06:25+00:00"
-        },
-        {
-          "title": "Kalmar Ottawa electric yard truck gets to work in Canada",
-          "link": "https://electrek.co/2026/07/26/kalmar-ottawa-electric-yard-truck-gets-to-work-in-canada/",
-          "source": "Electrek",
-          "published": "2026-07-26T13:57:27+00:00"
-        },
-        {
-          "title": "Met police break their own record for seizing illegal e-bikes",
-          "link": "https://electrek.co/2026/07/26/met-police-break-their-own-record-for-seizing-illegal-e-bikes/",
-          "source": "Electrek",
-          "published": "2026-07-26T11:00:27+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 24,
+      "count": 23,
       "items": [
         {
           "title": "Greenworks 80V CrossoverT riding mower with 600W turbo charger $1,200 off, Camplux 3.5kW to 27kW water heaters, more",
@@ -338,12 +338,6 @@
           "published": "2026-07-25T01:22:47+00:00"
         },
         {
-          "title": "Trump Administration Admits Retaliatory Grant Cancellations",
-          "link": "https://cleantechnica.com/2026/07/24/trump-administration-admits-retaliatory-grant-cancellations/",
-          "source": "CleanTechnica",
-          "published": "2026-07-25T00:55:40+00:00"
-        },
-        {
           "title": "Massachusetts EV Owners Will Earn Money By Selling Battery Power",
           "link": "https://insideevs.com/news/802693/massachusetts-ev-owners-v2g-pilot-program/",
           "source": "InsideEVs",
@@ -402,7 +396,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 4,
+      "count": 3,
       "items": [
         {
           "title": "제네시스 마그마 레이싱, 르망 24시간 완주의 숨은 조력자들",
@@ -421,12 +415,6 @@
           "link": "https://electrek.co/2026/07/21/volkswagen-enters-the-smart-e-bike-game-with-radar-cameras-hud-glasses-and-more/",
           "source": "Electrek",
           "published": "2026-07-21T12:53:33+00:00"
-        },
-        {
-          "title": "The US’s first UL 3700 balcony solar microinverter is here",
-          "link": "https://electrek.co/2026/07/20/us-first-ul-3700-balcony-solar-microinverter-hoymiles/",
-          "source": "Electrek",
-          "published": "2026-07-20T20:38:08+00:00"
         }
       ]
     },
@@ -436,10 +424,22 @@
       "count": 22,
       "items": [
         {
-          "title": "싱가포르 로피디아, 로봇 데이터 수집 확대 자금 320억원 유치",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47647",
+          "title": "“AI 안전·보안 위한 개방형 생태계 구축”…'오픈 시큐어 AI 얼라이언스' 출범",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47651",
           "source": "로봇신문",
-          "published": "2026-07-28T17:46:10+00:00"
+          "published": "2026-07-29T10:36:13+00:00"
+        },
+        {
+          "title": "Registration is open for RoboBusiness 2026",
+          "link": "https://www.therobotreport.com/registration-is-open-for-robobusiness-2026/",
+          "source": "The Robot Report",
+          "published": "2026-07-28T20:54:46+00:00"
+        },
+        {
+          "title": "ENvue Medical develops robotic feeding tube placement system",
+          "link": "https://www.therobotreport.com/envue-medical-develops-robotic-feeding-tube-placement-system/",
+          "source": "The Robot Report",
+          "published": "2026-07-28T19:00:55+00:00"
         },
         {
           "title": "Robot Finger Feels in Color",
@@ -454,7 +454,7 @@
           "published": "2026-07-28T14:59:58+00:00"
         },
         {
-          "title": "How integrated actuators improve humanoid robot joint performance and systemintegration",
+          "title": "How integrated actuators improve humanoid robot joint performance and system integration",
           "link": "https://www.therobotreport.com/how-integrated-actuators-improve-humanoid-robot-joint-performance-and-system-integration/",
           "source": "The Robot Report",
           "published": "2026-07-28T13:25:37+00:00"
@@ -538,18 +538,6 @@
           "published": "2026-07-23T15:55:39+00:00"
         },
         {
-          "title": "Report shares the state of physical AI and robotics",
-          "link": "https://www.therobotreport.com/physical-ai-and-robotics/",
-          "source": "The Robot Report",
-          "published": "2026-07-22T20:48:30+00:00"
-        },
-        {
-          "title": "Medtronic to launch AI compute platform for the operating room",
-          "link": "https://www.therobotreport.com/medtronic-launch-ai-compute-platform-operating-room/",
-          "source": "The Robot Report",
-          "published": "2026-07-22T17:22:00+00:00"
-        },
-        {
           "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
           "link": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
           "source": "IEEE Spectrum",
@@ -575,10 +563,10 @@
       "count": 40,
       "items": [
         {
-          "title": "'오픈소스 지지' 홀로 불참한 앤트로픽…“개방형 모델 금지 주장한 적 없다” 반박",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213257",
+          "title": "[7월28일] \"모델이 문제인가, 샌드박스가 문제인가\"...오픈AI 해킹 사건이 낳은 AI 안전 논쟁",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213256",
           "source": "AI타임스",
-          "published": "2026-07-28T18:16:55+00:00"
+          "published": "2026-07-29T07:00:00+00:00"
         },
         {
           "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
