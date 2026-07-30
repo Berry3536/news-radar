@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-07-29T19:11:15.220944+00:00",
+  "generated_at": "2026-07-30T02:06:23.231593+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "The Next Miata Will Be Ready To Go Electric: Mazda CEO",
+          "link": "https://insideevs.com/news/803155/mazda-miata-ready-for-electric/",
+          "source": "InsideEVs",
+          "published": "2026-07-29T22:15:00+00:00"
+        },
+        {
+          "title": "Trump feds use a solar review to approve the first AI data center on public land",
+          "link": "https://electrek.co/2026/07/29/trump-feds-solar-review-ai-data-center-public-land-boulder-city-nevada/",
+          "source": "Electrek",
+          "published": "2026-07-29T22:03:08+00:00"
+        },
+        {
+          "title": "Now You Can Take More Video Calls From Your Tesla",
+          "link": "https://insideevs.com/news/803123/tesla-video-meeting-integration-update/",
+          "source": "InsideEVs",
+          "published": "2026-07-29T22:01:32+00:00"
+        },
+        {
+          "title": "Ferrari Luce Reviews Are In And Sorry, But It Actually Seems Pretty Great",
+          "link": "https://insideevs.com/news/803144/ferrari-luce-reviews-are-good/",
+          "source": "InsideEVs",
+          "published": "2026-07-29T20:23:08+00:00"
+        },
+        {
+          "title": "The new Mercedes GLA EV is bigger, smarter, and has a range of over 400 miles",
+          "link": "https://electrek.co/2026/07/29/new-mercedes-gla-ev-bigger-400-miles-range/",
+          "source": "Electrek",
+          "published": "2026-07-29T19:53:51+00:00"
+        },
         {
           "title": "The 2027 Cadillac Lyriq gains a key upgrade for $200 more",
           "link": "https://electrek.co/2026/07/29/2027-cadillac-lyriq-key-upgrade-200-more/",
@@ -31,7 +61,7 @@
           "published": "2026-07-29T17:44:24+00:00"
         },
         {
-          "title": "They Tested A Rivian R2 At Until It Died. Here's How Far It Went At 70 MPH",
+          "title": "Rivian R2 Range Tested Until It Died: Here's How Far It Went At 70 MPH",
           "link": "https://insideevs.com/news/803120/rivian-r2-range-test-highway/",
           "source": "InsideEVs",
           "published": "2026-07-29T17:40:45+00:00"
@@ -215,43 +245,13 @@
           "link": "https://electrek.co/2026/07/27/forget-what-you-read-on-facebook-94-of-ev-drivers-wont-go-back-to-gas/",
           "source": "Electrek",
           "published": "2026-07-28T01:36:16+00:00"
-        },
-        {
-          "title": "BMW is finally making the electric convertible we’ve been waiting for",
-          "link": "https://electrek.co/2026/07/27/bmw-i4-electric-convertible-2028/",
-          "source": "Electrek",
-          "published": "2026-07-28T00:46:57+00:00"
-        },
-        {
-          "title": "Now Bojangles wants EV drivers to fast charge while they eat",
-          "link": "https://electrek.co/2026/07/27/now-bojangles-wants-ev-drivers-to-fast-charge-while-they-eat/",
-          "source": "Electrek",
-          "published": "2026-07-27T22:20:54+00:00"
-        },
-        {
-          "title": "Meta is backing 10 gas plants to power data centers – and just quit a global renewables pledge",
-          "link": "https://electrek.co/2026/07/27/meta-is-backing-10-gas-plants-and-just-quit-a-global-renewables-pledge/",
-          "source": "Electrek",
-          "published": "2026-07-27T21:33:44+00:00"
-        },
-        {
-          "title": "BYD’s new flagship EV breaks cover for the first time with over 1,000 km of range [Video]",
-          "link": "https://electrek.co/2026/07/27/byd-reveals-new-flagship-ev-range-1008-km-video/",
-          "source": "Electrek",
-          "published": "2026-07-27T20:58:03+00:00"
-        },
-        {
-          "title": "BMW Is Finally Planning An Electric Convertible: Report",
-          "link": "https://insideevs.com/news/802883/electric-bmw-i4-convertible/",
-          "source": "InsideEVs",
-          "published": "2026-07-27T20:57:29+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 22,
+      "count": 21,
       "items": [
         {
           "title": "Yozma IN 10 and IN 10 Pro electric mini dirt bikes get up to $595 exclusive savings, EGO 880 CFM blower + 2x batteries, Hiboy, more",
@@ -350,12 +350,6 @@
           "published": "2026-07-25T15:58:36+00:00"
         },
         {
-          "title": "Another Coal Power Plant Bites The Dust (Shhh! Don’t Tell Trump!)",
-          "link": "https://cleantechnica.com/2026/07/25/coal-replaced-solar-batteries-clean-energy-transmission/",
-          "source": "CleanTechnica",
-          "published": "2026-07-25T14:04:54+00:00"
-        },
-        {
           "title": "Lectric Christmas in July e-bike sale with up to $733 savings, Best Buy Black Friday in July appliance sale, Jackery, EGO, more",
           "link": "https://electrek.co/2026/07/24/lectric-christmas-in-july-e-bike-sale-best-buy-black-friday-in-july-appliance-sale-jackery-ego-more/",
           "source": "Electrek",
@@ -422,6 +416,12 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47667",
           "source": "로봇신문",
           "published": "2026-07-29T17:45:21+00:00"
+        },
+        {
+          "title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence",
+          "link": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/",
+          "source": "The Robot Report",
+          "published": "2026-07-29T14:53:15+00:00"
         },
         {
           "title": "Experts react to FCC limits on U.S. imports of new humanoid and mobile robots",
@@ -526,12 +526,6 @@
           "published": "2026-07-23T18:53:11+00:00"
         },
         {
-          "title": "AMD unveils Kria module for real-time control, unified memory for robots",
-          "link": "https://www.therobotreport.com/amd-unveils-kria-module-real-time-control-unified-memory-robots/",
-          "source": "The Robot Report",
-          "published": "2026-07-23T18:30:56+00:00"
-        },
-        {
           "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
           "link": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
           "source": "IEEE Spectrum",
@@ -557,10 +551,10 @@
       "count": 40,
       "items": [
         {
-          "title": "버그 탐지 넘어 암호 분석까지…'미소스', 알고리즘 취약점 찾았다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213293",
+          "title": "[7월29일] '앙숙' 오픈AI와 앤트로픽, 왜 \"AI 개발 속도 늦추자\"고 입을 모았나",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213292",
           "source": "AI타임스",
-          "published": "2026-07-29T18:24:59+00:00"
+          "published": "2026-07-30T07:00:00+00:00"
         },
         {
           "title": "Do Models Fake Alignment Without Clear Consequences?",
