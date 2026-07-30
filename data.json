@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T08:21:27.089992+00:00",
+  "generated_at": "2026-07-30T13:52:33.763715+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,24 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44241",
           "source": "모터그래프",
           "published": "2026-07-30T17:04:04+00:00"
+        },
+        {
+          "title": "Tesla hits 10 million vehicles — but its EV growth has stalled",
+          "link": "https://electrek.co/2026/07/30/tesla-10-millionth-vehicle-ev-growth-stalled/",
+          "source": "Electrek",
+          "published": "2026-07-30T13:36:51+00:00"
+        },
+        {
+          "title": "Plug-in port: Brazilian Port of Santos electrifies DP World terminal",
+          "link": "https://electrek.co/2026/07/30/plug-in-port-brazilian-port-of-santos-electrifies-dp-world-terminal/",
+          "source": "Electrek",
+          "published": "2026-07-30T12:06:28+00:00"
+        },
+        {
+          "title": "Even China’s Truck Makers Are Building EVs In Europe Now",
+          "link": "https://insideevs.com/news/803228/chinese-truck-makers-europe-assembly/",
+          "source": "InsideEVs",
+          "published": "2026-07-30T11:10:49+00:00"
         },
         {
           "title": "Dongfeng Just Unveiled A 1.5 MW EV Charger To Take On BYD. And It’s Just Getting Started",
@@ -227,32 +245,20 @@
           "link": "https://electrek.co/2026/07/28/byd-launches-worlds-first-sdv-kei-ev-starting-at-13000/",
           "source": "Electrek",
           "published": "2026-07-28T14:35:20+00:00"
-        },
-        {
-          "title": "Mitsubishi’s ‘all-new’ Eclipse Sportback EV is a rebadged Nissan Leaf",
-          "link": "https://electrek.co/2026/07/28/mitsubishi-eclipse-sportback-ev-rebadged-nissan-leaf/",
-          "source": "Electrek",
-          "published": "2026-07-28T14:30:31+00:00"
-        },
-        {
-          "title": "Yamaha is preparing to launch another electric scooter, design filings show",
-          "link": "https://electrek.co/2026/07/28/yamaha-is-preparing-to-launch-another-electric-scooter-design-filings-show/",
-          "source": "Electrek",
-          "published": "2026-07-28T13:56:00+00:00"
-        },
-        {
-          "title": "Tesla buys the entire output of a new 140 MW Texas solar farm",
-          "link": "https://electrek.co/2026/07/28/tesla-buys-texas-solar-farm-output-zelestra/",
-          "source": "Electrek",
-          "published": "2026-07-28T13:53:29+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 23,
+      "count": 24,
       "items": [
+        {
+          "title": "Plug-in port: Brazilian Port of Santos electrifies DP World terminal",
+          "link": "https://electrek.co/2026/07/30/plug-in-port-brazilian-port-of-santos-electrifies-dp-world-terminal/",
+          "source": "Electrek",
+          "published": "2026-07-30T12:06:28+00:00"
+        },
         {
           "title": "Dongfeng Just Unveiled A 1.5 MW EV Charger To Take On BYD. And It’s Just Getting Started",
           "link": "https://insideevs.com/news/803195/dongfeng-15-mw-ev-charger/",
@@ -424,10 +430,10 @@
       "count": 22,
       "items": [
         {
-          "title": "오늘의 로봇 기업 주식 시세(2026-07-30)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47683",
+          "title": "DS투자증권 \"현대차, 피지컬 AI 윤곽은 하반기부터 구체화\"",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47679",
           "source": "로봇신문",
-          "published": "2026-07-30T15:37:11+00:00"
+          "published": "2026-07-30T16:02:51+00:00"
         },
         {
           "title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence",
@@ -563,10 +569,10 @@
       "count": 40,
       "items": [
         {
-          "title": "구글, 노벨상 AI '알파폴드' 개발팀 해체...'제미나이' 중심 체제로 전환",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213364",
+          "title": "건강 문제로 싱킹 머신즈 떠난 릴리안 웽...오픈AI서 '재귀적 자기개선' 맡는다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213347",
           "source": "AI타임스",
-          "published": "2026-07-30T16:58:41+00:00"
+          "published": "2026-07-30T18:21:46+00:00"
         },
         {
           "title": "Do Models Fake Alignment Without Clear Consequences?",
