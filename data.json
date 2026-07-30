@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-07-30T02:06:23.231593+00:00",
+  "generated_at": "2026-07-30T08:21:27.089992+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "한국인 최초 F1에 도전하는 이규호, 이번 주 GB3 실버스톤 출격",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44241",
+          "source": "모터그래프",
+          "published": "2026-07-30T17:04:04+00:00"
+        },
+        {
+          "title": "Dongfeng Just Unveiled A 1.5 MW EV Charger To Take On BYD. And It’s Just Getting Started",
+          "link": "https://insideevs.com/news/803195/dongfeng-15-mw-ev-charger/",
+          "source": "InsideEVs",
+          "published": "2026-07-30T08:16:12+00:00"
+        },
+        {
+          "title": "Genesis' First Performance Model Is Here. It Costs $71,495",
+          "link": "https://insideevs.com/news/803177/2027-genesis-gv60-magma-pricing/",
+          "source": "InsideEVs",
+          "published": "2026-07-30T06:46:48+00:00"
+        },
+        {
+          "title": "IEA: Global EV sales jump 35% in Q2 and 50 countries set records",
+          "link": "https://electrek.co/2026/07/29/477795/",
+          "source": "Electrek",
+          "published": "2026-07-30T05:00:00+00:00"
+        },
         {
           "title": "The Next Miata Will Be Ready To Go Electric: Mazda CEO",
           "link": "https://insideevs.com/news/803155/mazda-miata-ready-for-electric/",
@@ -65,12 +89,6 @@
           "link": "https://insideevs.com/news/803120/rivian-r2-range-test-highway/",
           "source": "InsideEVs",
           "published": "2026-07-29T17:40:45+00:00"
-        },
-        {
-          "title": "디 올 뉴 아반떼 테크 데이를 통해 본 첨단 기술의 대중화",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44235",
-          "source": "모터그래프",
-          "published": "2026-07-29T16:59:40+00:00"
         },
         {
           "title": "Two solid-state EV battery leaders are joining forces to scale the ‘breakthrough’ tech",
@@ -227,32 +245,26 @@
           "link": "https://electrek.co/2026/07/28/tesla-buys-texas-solar-farm-output-zelestra/",
           "source": "Electrek",
           "published": "2026-07-28T13:53:29+00:00"
-        },
-        {
-          "title": "Tesla sues Cybertruck supplier amid standoff keeping production hostage",
-          "link": "https://electrek.co/2026/07/28/tesla-sues-cybertruck-supplier-angstrom-tooling/",
-          "source": "Electrek",
-          "published": "2026-07-28T13:00:05+00:00"
-        },
-        {
-          "title": "E-quipment highlight: SANY SKT145Ei cabless, autonomous haul truck [video]",
-          "link": "https://electrek.co/2026/07/28/e-quipment-highlight-sany-skt145ei-cabless-autonomous-haul-truck-video/",
-          "source": "Electrek",
-          "published": "2026-07-28T11:42:57+00:00"
-        },
-        {
-          "title": "Forget what you read on Facebook: 94% of EV drivers won’t go back to gas",
-          "link": "https://electrek.co/2026/07/27/forget-what-you-read-on-facebook-94-of-ev-drivers-wont-go-back-to-gas/",
-          "source": "Electrek",
-          "published": "2026-07-28T01:36:16+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 21,
+      "count": 23,
       "items": [
+        {
+          "title": "Dongfeng Just Unveiled A 1.5 MW EV Charger To Take On BYD. And It’s Just Getting Started",
+          "link": "https://insideevs.com/news/803195/dongfeng-15-mw-ev-charger/",
+          "source": "InsideEVs",
+          "published": "2026-07-30T08:16:12+00:00"
+        },
+        {
+          "title": "Tesla & ContourGlobal Sign Long-Term Power Agreement Covering 1 Terawatt-Hour/Year for Sterling Renewable Project",
+          "link": "https://cleantechnica.com/2026/07/29/tesla-contourglobal-sign-long-term-power-agreement-covering-1-terawatt-hour-year-for-sterling-renewable-project/",
+          "source": "CleanTechnica",
+          "published": "2026-07-30T02:29:07+00:00"
+        },
         {
           "title": "Yozma IN 10 and IN 10 Pro electric mini dirt bikes get up to $595 exclusive savings, EGO 880 CFM blower + 2x batteries, Hiboy, more",
           "link": "https://electrek.co/2026/07/29/yozma-in-10-and-in-10-pro-electric-mini-dirt-bikes-ego-880-cfm-blower-hiboy-more/",
@@ -387,16 +399,16 @@
       "count": 3,
       "items": [
         {
+          "title": "한국인 최초 F1에 도전하는 이규호, 이번 주 GB3 실버스톤 출격",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44241",
+          "source": "모터그래프",
+          "published": "2026-07-30T17:04:04+00:00"
+        },
+        {
           "title": "Huffy’s kids’ e-bike makes a compelling case for pedal-assisted riding",
           "link": "https://electrek.co/2026/07/29/huffys-kids-e-bike-makes-a-compelling-case-for-pedal-assisted-riding/",
           "source": "Electrek",
           "published": "2026-07-29T14:45:00+00:00"
-        },
-        {
-          "title": "제네시스 마그마 레이싱, 르망 24시간 완주의 숨은 조력자들",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44217",
-          "source": "모터그래프",
-          "published": "2026-07-28T17:00:06+00:00"
         },
         {
           "title": "Another state may legalize electric motorbikes up to 30 and 40 mph under sweeping new micromobility bill",
@@ -412,10 +424,10 @@
       "count": 22,
       "items": [
         {
-          "title": "“제주 하늘 떠오른 UAM”…제주 서비스 모델, 국토부 쇼케이스서 첫선",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47667",
+          "title": "오늘의 로봇 기업 주식 시세(2026-07-30)",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47683",
           "source": "로봇신문",
-          "published": "2026-07-29T17:45:21+00:00"
+          "published": "2026-07-30T15:37:11+00:00"
         },
         {
           "title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence",
@@ -551,244 +563,244 @@
       "count": 40,
       "items": [
         {
-          "title": "[7월29일] '앙숙' 오픈AI와 앤트로픽, 왜 \"AI 개발 속도 늦추자\"고 입을 모았나",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213292",
+          "title": "구글, 노벨상 AI '알파폴드' 개발팀 해체...'제미나이' 중심 체제로 전환",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213364",
           "source": "AI타임스",
-          "published": "2026-07-30T07:00:00+00:00"
+          "published": "2026-07-30T16:58:41+00:00"
         },
         {
           "title": "Do Models Fake Alignment Without Clear Consequences?",
           "link": "https://arxiv.org/abs/2607.24758",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
           "link": "https://arxiv.org/abs/2607.24759",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
           "link": "https://arxiv.org/abs/2607.24762",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
           "link": "https://arxiv.org/abs/2607.24763",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
           "link": "https://arxiv.org/abs/2607.24764",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
           "link": "https://arxiv.org/abs/2607.24766",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "PATHFinder Agent for Tailored Prenatal Care",
           "link": "https://arxiv.org/abs/2607.24768",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
           "link": "https://arxiv.org/abs/2607.24769",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop",
           "link": "https://arxiv.org/abs/2607.24770",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "RoCo-ACE: Rollout-Conditioned Online Distillation for Retention-Aware Knowledge Injection",
           "link": "https://arxiv.org/abs/2607.24771",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation",
           "link": "https://arxiv.org/abs/2607.24772",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations",
           "link": "https://arxiv.org/abs/2607.24773",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear Radiation Forecasting",
           "link": "https://arxiv.org/abs/2607.24774",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "Steering topology distributions for unified generative design of architected metamaterials",
           "link": "https://arxiv.org/abs/2607.24777",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "HOBA: Hierarchical On-Policy Bidding Agents for Adaptive Online Advertising",
           "link": "https://arxiv.org/abs/2607.24779",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "LivingArena: Do LLMs Know What Other LLMs Don't? Peer-Probing as Scalable Evaluation",
           "link": "https://arxiv.org/abs/2607.24780",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "Personalization, Personas, and Forecasting in Value Alignment",
           "link": "https://arxiv.org/abs/2607.24782",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "Unified Semantic Modeling Framework for Large-Scale Job Understanding at LinkedIn",
           "link": "https://arxiv.org/abs/2607.24783",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "On the Use of LLMs for Specialised Terminology: A Good Alternative to Corpora?",
           "link": "https://arxiv.org/abs/2607.24784",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "SpecPrefetch: Parameter-Efficient Expert Prefetching for Sparse MoE Foundation Models",
           "link": "https://arxiv.org/abs/2607.24787",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "GLIDE: Guided Layerwise Hybrid Attention for Efficient LLM Inference",
           "link": "https://arxiv.org/abs/2607.24788",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "A GAN-Based Framework for Robust Data Synthesis in Satellite Internet Observations",
           "link": "https://arxiv.org/abs/2607.24790",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "Reasoning with Memory: A Temporal Granularity-Adaptive Framework for Training-Free Long Video Understanding",
           "link": "https://arxiv.org/abs/2607.24794",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "When Shortest Isn't Safest: A Design Science Approach to Senior-Friendly Pedestrian Routing",
           "link": "https://arxiv.org/abs/2607.24795",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "RRS-10K: A Multitask Vision-Language Model Benchmark for Rare Remote Sensing Image Interpretation",
           "link": "https://arxiv.org/abs/2607.24810",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "Aletheia: An Offline-First Clinical Decision Support System for Differential Diagnosis in Low-Resource Healthcare Settings",
           "link": "https://arxiv.org/abs/2607.24814",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "AdaKP: Online Adaptive Knowledge-Point Selection for Reasoning-Oriented Reinforcement Learning",
           "link": "https://arxiv.org/abs/2607.24833",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "MusiChat: Vibe Composing for Music Creation",
           "link": "https://arxiv.org/abs/2607.24873",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "Understanding Semantic IDs: From Item Representation to Item Selection in Generative Recommendation",
           "link": "https://arxiv.org/abs/2607.24995",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "Localized Anomaly Detection via Differentiable D-vine Copulas",
           "link": "https://arxiv.org/abs/2607.25020",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "Chart-Supported or Model-Supplied? Examining MLLM-Generated Claims for Accessible Visualization",
           "link": "https://arxiv.org/abs/2607.25021",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "SAFAARI: Schema-Aware Framework for Accelerated Advertiser Response Intelligence",
           "link": "https://arxiv.org/abs/2607.25042",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "CogEEGAgent: Toward Autonomous Cognitive EEG Analysis with Grounded Execution and Selection-Aware Verification",
           "link": "https://arxiv.org/abs/2607.25045",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "Psychological Influences of Conversational AI: Research and Design Directions for Reducing Harm and Promoting Well-Being",
           "link": "https://arxiv.org/abs/2607.25057",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "Similar Models Learn Differently: Final-Window Pretraining Shapes Post-Training Beyond SFT",
           "link": "https://arxiv.org/abs/2607.25063",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "Addressable Recall Compaction for Long Context-Window Control in AI Agents",
           "link": "https://arxiv.org/abs/2607.25066",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "How Often Should a Recommender Call an LLM? Value-Weighted Routing, Monitoring, and Seasonal Robustness",
           "link": "https://arxiv.org/abs/2607.25068",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "Towards an Agent Operating System - Lessons from Classical and Cloud OS",
           "link": "https://arxiv.org/abs/2607.25076",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         },
         {
           "title": "PLATO: Pointer Learner for Agent and Task Openness",
           "link": "https://arxiv.org/abs/2607.25082",
           "source": "arXiv cs.AI",
-          "published": "2026-07-29T04:00:00+00:00"
+          "published": "2026-07-30T04:00:00+00:00"
         }
       ]
     }
