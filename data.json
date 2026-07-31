@@ -1,11 +1,53 @@
 {
-  "generated_at": "2026-07-30T19:21:13.412109+00:00",
+  "generated_at": "2026-07-31T02:34:01.072160+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Tesla weighs selling China business to clear path for SpaceX merger",
+          "link": "https://electrek.co/2026/07/30/tesla-weighs-selling-china-business-spacex-merger/",
+          "source": "Electrek",
+          "published": "2026-07-31T02:04:12+00:00"
+        },
+        {
+          "title": "The PJM grid’s largest battery is now under construction in Ohio",
+          "link": "https://electrek.co/2026/07/30/pjm-grid-largest-battery-is-now-under-construction-in-ohio/",
+          "source": "Electrek",
+          "published": "2026-07-30T22:55:14+00:00"
+        },
+        {
+          "title": "Juiced Scrambler: Testing the best bang-for-your-buck moto-style e-bike",
+          "link": "https://electrek.co/2026/07/30/juiced-scrambler-testing-the-best-bang-for-your-buck-moto-style-e-bike/",
+          "source": "Electrek",
+          "published": "2026-07-30T21:40:06+00:00"
+        },
+        {
+          "title": "A new Zipcar pilot pairs shared EVs with off-grid solar charging",
+          "link": "https://electrek.co/2026/07/30/a-new-zipcar-pilot-pairs-shared-evs-with-off-grid-solar-charging/",
+          "source": "Electrek",
+          "published": "2026-07-30T21:11:38+00:00"
+        },
+        {
+          "title": "The Kia EV3 will go on sale soon, with production set to begin in Mexico next week",
+          "link": "https://electrek.co/2026/07/30/kia-ev3-production-mexico-us/",
+          "source": "Electrek",
+          "published": "2026-07-30T21:07:17+00:00"
+        },
+        {
+          "title": "This Quad-Motor Electric Land Rover Defender Restomod Has More Range Than Some Teslas",
+          "link": "https://insideevs.com/news/803290/electric-land-rover-defender-restomod/",
+          "source": "InsideEVs",
+          "published": "2026-07-30T20:55:52+00:00"
+        },
+        {
+          "title": "Rivian (RIVN) Q2 2026 earnings: revenue up 27%, gross margins soaring",
+          "link": "https://electrek.co/2026/07/30/rivian-rivn-q2-2026-earnings-r2-deliveries-revenue-up-27/",
+          "source": "Electrek",
+          "published": "2026-07-30T20:05:15+00:00"
+        },
         {
           "title": "Tesla’s Elon Musk is having a generational meltdown",
           "link": "https://electrek.co/2026/07/30/tesla-elon-musk-2026-x-meltdown/",
@@ -25,7 +67,7 @@
           "published": "2026-07-30T17:51:45+00:00"
         },
         {
-          "title": "I Thought This 11-Year-Old Tesla Model S Would Feel Ancient. It Didn’t",
+          "title": "I Drove An Original Tesla Model S To See If It's Still Worth Buying In 2026",
           "link": "https://insideevs.com/reviews/803161/2015-tesla-model-s-review/",
           "source": "InsideEVs",
           "published": "2026-07-30T17:31:19+00:00"
@@ -187,12 +229,6 @@
           "published": "2026-07-29T15:52:50+00:00"
         },
         {
-          "title": "Kia opens EV3 pre-orders in Mexico ahead of US launch",
-          "link": "https://electrek.co/2026/07/29/kia-opens-ev3-pre-orders-mexico-us-launch/",
-          "source": "Electrek",
-          "published": "2026-07-29T15:45:30+00:00"
-        },
-        {
           "title": "Huffy’s kids’ e-bike makes a compelling case for pedal-assisted riding",
           "link": "https://electrek.co/2026/07/29/huffys-kids-e-bike-makes-a-compelling-case-for-pedal-assisted-riding/",
           "source": "Electrek",
@@ -209,42 +245,6 @@
           "link": "https://electrek.co/2026/07/29/volvo-drops-lidar-ex90-es90-compensation/",
           "source": "Electrek",
           "published": "2026-07-29T13:50:15+00:00"
-        },
-        {
-          "title": "This Chinese Automaker Just Beat BYD With An EV Battery That Recharges In 8 Minutes",
-          "link": "https://insideevs.com/news/803094/hongqi-four-minute-charging-test/",
-          "source": "InsideEVs",
-          "published": "2026-07-29T13:21:14+00:00"
-        },
-        {
-          "title": "Kia’s vehicles are about to get a smart upgrade, starting in 2027",
-          "link": "https://electrek.co/2026/07/28/kias-vehicles-smart-upgrade-2027/",
-          "source": "Electrek",
-          "published": "2026-07-28T21:09:49+00:00"
-        },
-        {
-          "title": "Vermont’s largest energy source is now a virtual power plant",
-          "link": "https://electrek.co/2026/07/28/vermonts-largest-energy-source-is-now-a-virtual-power-plant/",
-          "source": "Electrek",
-          "published": "2026-07-28T20:51:59+00:00"
-        },
-        {
-          "title": "Tesla self-driving manager describes scary conditions in robotaxi testing",
-          "link": "https://electrek.co/2026/07/28/tesla-self-driving-manager-rolling-hazards-lawsuit/",
-          "source": "Electrek",
-          "published": "2026-07-28T20:49:43+00:00"
-        },
-        {
-          "title": "You’ve heard of shared e-bikes. Now check out Veo’s new shared e-trike",
-          "link": "https://electrek.co/2026/07/28/youve-heard-of-shared-e-bikes-now-check-out-veos-new-shared-e-trike/",
-          "source": "Electrek",
-          "published": "2026-07-28T20:48:23+00:00"
-        },
-        {
-          "title": "We Finally Know More About The Cheap Mitsubishi Eclipse EV Coming This Fall",
-          "link": "https://insideevs.com/news/803019/mitsubishi-eclipse-sportback-battery-specs/",
-          "source": "InsideEVs",
-          "published": "2026-07-28T20:39:35+00:00"
         }
       ]
     },
@@ -254,7 +254,19 @@
       "count": 24,
       "items": [
         {
-          "title": "I Thought This 11-Year-Old Tesla Model S Would Feel Ancient. It Didn’t",
+          "title": "Europe’s Waste Creates Value Elsewhere",
+          "link": "https://cleantechnica.com/2026/07/30/europes-waste-creates-value-elsewhere/",
+          "source": "CleanTechnica",
+          "published": "2026-07-31T01:01:18+00:00"
+        },
+        {
+          "title": "The PJM grid’s largest battery is now under construction in Ohio",
+          "link": "https://electrek.co/2026/07/30/pjm-grid-largest-battery-is-now-under-construction-in-ohio/",
+          "source": "Electrek",
+          "published": "2026-07-30T22:55:14+00:00"
+        },
+        {
+          "title": "I Drove An Original Tesla Model S To See If It's Still Worth Buying In 2026",
           "link": "https://insideevs.com/reviews/803161/2015-tesla-model-s-review/",
           "source": "InsideEVs",
           "published": "2026-07-30T17:31:19+00:00"
@@ -344,12 +356,6 @@
           "published": "2026-07-28T02:41:19+00:00"
         },
         {
-          "title": "The Rivian R2 Is A Charging Beast. But It's 'Just Fine' At Road Tripping",
-          "link": "https://insideevs.com/news/802873/rivian-r2-charging-test/",
-          "source": "InsideEVs",
-          "published": "2026-07-27T19:21:37+00:00"
-        },
-        {
           "title": "Kalmar Ottawa electric yard truck gets to work in Canada",
           "link": "https://electrek.co/2026/07/26/kalmar-ottawa-electric-yard-truck-gets-to-work-in-canada/",
           "source": "Electrek",
@@ -390,20 +396,20 @@
           "link": "https://electrek.co/2026/07/22/deliveries-automation-and-the-gateway-drug-to-electrification-with-big-joe/",
           "source": "Electrek",
           "published": "2026-07-23T01:08:51+00:00"
-        },
-        {
-          "title": "Anker SOLIX Summer Camp power station sale with exclusive savings from $189, HiEHA CarPlay SU8 2.0 e-bike low, EcoFlow, more",
-          "link": "https://electrek.co/2026/07/22/anker-solix-summer-camp-power-station-sale-hieha-carplay-su8-2-0-e-bike-ecoflow-more/",
-          "source": "Electrek",
-          "published": "2026-07-22T18:00:00+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 4,
+      "count": 5,
       "items": [
+        {
+          "title": "This Quad-Motor Electric Land Rover Defender Restomod Has More Range Than Some Teslas",
+          "link": "https://insideevs.com/news/803290/electric-land-rover-defender-restomod/",
+          "source": "InsideEVs",
+          "published": "2026-07-30T20:55:52+00:00"
+        },
         {
           "title": "한국인 최초 F1에 도전하는 이규호, 이번 주 GB3 실버스톤 출격",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44241",
@@ -435,6 +441,12 @@
       "label": "로봇",
       "count": 21,
       "items": [
+        {
+          "title": "5 Physical AI Infrastructure Platforms Shaping Robotics in 2026",
+          "link": "https://www.therobotreport.com/5-physical-ai-infrastructure-platforms-shaping-robotics-in-2026/",
+          "source": "The Robot Report",
+          "published": "2026-07-30T20:01:22+00:00"
+        },
         {
           "title": "DoorDash gains FAA certification to operate its own drone delivery program",
           "link": "https://www.therobotreport.com/doordash-gains-faa-certification-to-operate-its-own-drone-delivery-program/",
@@ -544,12 +556,6 @@
           "published": "2026-07-24T15:30:01+00:00"
         },
         {
-          "title": "NEURA Robotics establishes NEURA Gym RWTH Aachen to train physical AI",
-          "link": "https://www.therobotreport.com/neura-robotics-establishes-neura-gym-rwth-aachen-train-physical-ai/",
-          "source": "The Robot Report",
-          "published": "2026-07-24T12:30:42+00:00"
-        },
-        {
           "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
           "link": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
           "source": "IEEE Spectrum",
@@ -569,10 +575,10 @@
       "count": 40,
       "items": [
         {
-          "title": "래블업, GPU 운영 플랫폼으로 최단 기간 코스닥 상장예심 통과",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213372",
+          "title": "\"국내 최대 기록 경신\"...LG, 7500억 매개변수 'K-엑사원 2.0' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213379",
           "source": "AI타임스",
-          "published": "2026-07-31T03:58:58+00:00"
+          "published": "2026-07-31T10:10:30+00:00"
         },
         {
           "title": "Do Models Fake Alignment Without Clear Consequences?",
