@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T13:13:49.694014+00:00",
+  "generated_at": "2026-08-01T19:04:26.316158+00:00",
   "categories": [
     {
       "key": "ev",
@@ -251,8 +251,14 @@
     {
       "key": "battery",
       "label": "배터리",
-      "count": 22,
+      "count": 23,
       "items": [
+        {
+          "title": "KIA Elects To Manufacture The EV3 In Mexico",
+          "link": "https://cleantechnica.com/2026/08/01/kia-elects-to-manufacture-the-ev3-in-mexico/",
+          "source": "CleanTechnica",
+          "published": "2026-08-01T18:41:07+00:00"
+        },
         {
           "title": "Lower Saxony’s Hydrogen Trains Are Now A Battery Exit Strategy Problem",
           "link": "https://cleantechnica.com/2026/08/01/lower-saxony-hydrogen-trains-battery-exit/",
