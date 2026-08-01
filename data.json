@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-07-31T19:20:15.200809+00:00",
+  "generated_at": "2026-08-01T02:33:00.962223+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Lectric eBikes hits $1 billion in sales, surpasses 750,000 e-bikes",
+          "link": "https://electrek.co/2026/07/31/lectric-ebikes-hits-1-billion-in-sales-surpasses-750000-e-bikes/",
+          "source": "Electrek",
+          "published": "2026-08-01T00:04:12+00:00"
+        },
+        {
+          "title": "This all-electric VinFast taxi service just debuted in Europe",
+          "link": "https://electrek.co/2026/07/31/this-all-electric-vinfast-taxi-service-just-debuted-in-europe/",
+          "source": "Electrek",
+          "published": "2026-07-31T21:04:09+00:00"
+        },
+        {
+          "title": "Tesla Breaking Off Its China Business? Musk Calls It 'Absurdly Fake News'",
+          "link": "https://insideevs.com/news/803408/musk-china-us-split-fake/",
+          "source": "InsideEVs",
+          "published": "2026-07-31T20:18:55+00:00"
+        },
+        {
+          "title": "Podcast: Tesla/SpaceX merger, Rivian R2 progress, new Mercedes GLA, and more",
+          "link": "https://electrek.co/2026/07/31/podcast-tesla-spacex-merger-rivian-r2-progress-new-mercedes-gla-and-more/",
+          "source": "Electrek",
+          "published": "2026-07-31T19:46:20+00:00"
+        },
+        {
+          "title": "BYD reveals images of the new Qin Max EV ahead of its launch next month",
+          "link": "https://electrek.co/2026/07/31/byd-reveals-images-new-qin-max-ev-launch/",
+          "source": "Electrek",
+          "published": "2026-07-31T19:41:59+00:00"
+        },
         {
           "title": "This huge Texas solar hub is nearly 1 GW, and it’s only half built",
           "link": "https://electrek.co/2026/07/31/this-huge-texas-solar-hub-is-nearly-1-gw-and-its-only-half-built/",
@@ -215,44 +245,20 @@
           "link": "https://insideevs.com/news/803228/chinese-truck-makers-europe-assembly/",
           "source": "InsideEVs",
           "published": "2026-07-30T11:10:49+00:00"
-        },
-        {
-          "title": "Dongfeng Just Unveiled A 1.5 MW EV Charger To Take On BYD. And It’s Just Getting Started",
-          "link": "https://insideevs.com/news/803195/dongfeng-15-mw-ev-charger/",
-          "source": "InsideEVs",
-          "published": "2026-07-30T08:16:12+00:00"
-        },
-        {
-          "title": "The Genesis GV60 Magna Has 641 HP And Fake Gears. We Finally Know How Much It'll Cost",
-          "link": "https://insideevs.com/news/803177/2027-genesis-gv60-magma-pricing/",
-          "source": "InsideEVs",
-          "published": "2026-07-30T06:46:48+00:00"
-        },
-        {
-          "title": "IEA: Global EV sales jump 35% in Q2 and 50 countries set records",
-          "link": "https://electrek.co/2026/07/29/477795/",
-          "source": "Electrek",
-          "published": "2026-07-30T05:00:00+00:00"
-        },
-        {
-          "title": "The Next Miata Will Be Ready To Go Electric: Mazda CEO",
-          "link": "https://insideevs.com/news/803155/mazda-miata-ready-for-electric/",
-          "source": "InsideEVs",
-          "published": "2026-07-29T22:15:00+00:00"
-        },
-        {
-          "title": "Trump feds use a solar review to approve the first AI data center on public land",
-          "link": "https://electrek.co/2026/07/29/trump-feds-solar-review-ai-data-center-public-land-boulder-city-nevada/",
-          "source": "Electrek",
-          "published": "2026-07-29T22:03:08+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 23,
+      "count": 22,
       "items": [
+        {
+          "title": "Xiaomi Sky Nomad Gains Tech-Filled Practicality, Loses Passion",
+          "link": "https://cleantechnica.com/2026/07/31/xiaomi-sky-nomad-gains-tech-filled-practicality-loses-passion/",
+          "source": "CleanTechnica",
+          "published": "2026-07-31T19:59:40+00:00"
+        },
         {
           "title": "Aventon Level 3 + Pace 4 smart e-bikes at new $1,299 lows ($600 off), EcoFlow GLACIER electric cooler bundles, Anker, more",
           "link": "https://electrek.co/2026/07/31/aventon-level-3-pace-4-smart-e-bikes-ecoflow-glacier-electric-cooler-anker-more/",
@@ -320,12 +326,6 @@
           "published": "2026-07-29T15:52:50+00:00"
         },
         {
-          "title": "This Chinese Automaker Just Beat BYD With An EV Battery That Recharges In 8 Minutes",
-          "link": "https://insideevs.com/news/803094/hongqi-four-minute-charging-test/",
-          "source": "InsideEVs",
-          "published": "2026-07-29T13:21:14+00:00"
-        },
-        {
           "title": "Greenworks 80V CrossoverT riding mower with 600W turbo charger $1,200 off, Camplux 3.5kW to 27kW water heaters, more",
           "link": "https://electrek.co/2026/07/28/greenworks-80v-crossovert-riding-mower-camplux-water-heaters-more/",
           "source": "Electrek",
@@ -348,12 +348,6 @@
           "link": "https://electrek.co/2026/07/28/yamaha-is-preparing-to-launch-another-electric-scooter-design-filings-show/",
           "source": "Electrek",
           "published": "2026-07-28T13:56:00+00:00"
-        },
-        {
-          "title": "CATL Net Profit Jumps 42%",
-          "link": "https://cleantechnica.com/2026/07/28/catl-net-profit-jumps-42/",
-          "source": "CleanTechnica",
-          "published": "2026-07-28T13:50:55+00:00"
         },
         {
           "title": "Kalmar Ottawa electric yard truck gets to work in Canada",
@@ -441,6 +435,18 @@
       "label": "로봇",
       "count": 19,
       "items": [
+        {
+          "title": "FCC robot ruling shines a spotlight on U.S. policy; how next-gen AI can help warehousing",
+          "link": "https://www.therobotreport.com/fcc-robot-ruling-shines-spotlight-on-u-s-policy-how-next-gen-ai-can-help-warehousing/",
+          "source": "The Robot Report",
+          "published": "2026-07-31T22:41:44+00:00"
+        },
+        {
+          "title": "KUKA deploys Automation Management Platform for North American automakers",
+          "link": "https://www.therobotreport.com/kuka-deploys-automation-management-platform-north-american-automakers/",
+          "source": "The Robot Report",
+          "published": "2026-07-31T20:38:15+00:00"
+        },
         {
           "title": "‘2026년 제4회 로봇사랑 사진 공모전’ 공고",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47673",
@@ -538,18 +544,6 @@
           "published": "2026-07-26T12:30:51+00:00"
         },
         {
-          "title": "Photos: First look at J&J’s Ottava surgical robot",
-          "link": "https://www.therobotreport.com/photos-first-look-at-jjs-ottava-surgical-robot/",
-          "source": "The Robot Report",
-          "published": "2026-07-25T14:00:13+00:00"
-        },
-        {
-          "title": "Generalist’s GEN-1 foundation model now supports a range of robot end effectors",
-          "link": "https://www.therobotreport.com/generalists-gen-1-foundation-model-now-supports-a-range-of-robot-end-effectors/",
-          "source": "The Robot Report",
-          "published": "2026-07-24T18:23:42+00:00"
-        },
-        {
           "title": "Video Friday: An Italian Humanoid Comes to Life",
           "link": "https://spectrum.ieee.org/video-friday-physical-ai-robotics",
           "source": "IEEE Spectrum",
@@ -563,10 +557,10 @@
       "count": 40,
       "items": [
         {
-          "title": "구글, 휴머노이드 전신 제어 AI '제미나이 로보틱스 2' 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213392",
+          "title": "샤오홍슈, 내몽골에 3.2조 규모 AI 데이터센터 건설 추진",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213431",
           "source": "AI타임스",
-          "published": "2026-07-31T18:03:12+00:00"
+          "published": "2026-08-01T10:38:32+00:00"
         },
         {
           "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
