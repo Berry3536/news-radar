@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-08-01T08:15:31.114706+00:00",
+  "generated_at": "2026-08-01T13:13:49.694014+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "I Was Worried When My Parents Went Full EV, But They Proved Me Wrong",
+          "link": "https://insideevs.com/features/803437/owner-story-ioniq-elderly-carolina/",
+          "source": "InsideEVs",
+          "published": "2026-08-01T13:00:00+00:00"
+        },
+        {
+          "title": "I Experienced The World’s First Electrostatic Speakers In A Production Car. Now I Can't Go Back",
+          "link": "https://insideevs.com/news/803291/range-rover-sv-ultra-electrostatic-speakers-warwick-acoustics/",
+          "source": "InsideEVs",
+          "published": "2026-08-01T12:00:00+00:00"
+        },
+        {
+          "title": "Florida Got $200 Million For EV Chargers. It Wants To Spend It On Air Taxis Instead",
+          "link": "https://insideevs.com/news/803441/florida-nevi-ev-charger-money-evtols-air-taxis/",
+          "source": "InsideEVs",
+          "published": "2026-08-01T11:00:00+00:00"
+        },
         {
           "title": "Lectric eBikes hits $1 billion in sales, surpasses 750,000 e-bikes",
           "link": "https://electrek.co/2026/07/31/lectric-ebikes-hits-1-billion-in-sales-surpasses-750000-e-bikes/",
@@ -227,31 +245,13 @@
           "link": "https://electrek.co/2026/07/30/china-is-starting-to-measure-ev-charging-times-in-seconds-not-minutes/",
           "source": "Electrek",
           "published": "2026-07-30T14:00:00+00:00"
-        },
-        {
-          "title": "Tesla hits 10 million vehicles — but its EV growth has stalled",
-          "link": "https://electrek.co/2026/07/30/tesla-10-millionth-vehicle-ev-growth-stalled/",
-          "source": "Electrek",
-          "published": "2026-07-30T13:36:51+00:00"
-        },
-        {
-          "title": "Plug-in port: Brazilian Port of Santos electrifies DP World terminal",
-          "link": "https://electrek.co/2026/07/30/plug-in-port-brazilian-port-of-santos-electrifies-dp-world-terminal/",
-          "source": "Electrek",
-          "published": "2026-07-30T12:06:28+00:00"
-        },
-        {
-          "title": "Even China’s Truck Makers Are Building EVs In Europe Now",
-          "link": "https://insideevs.com/news/803228/chinese-truck-makers-europe-assembly/",
-          "source": "InsideEVs",
-          "published": "2026-07-30T11:10:49+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 23,
+      "count": 22,
       "items": [
         {
           "title": "Lower Saxony’s Hydrogen Trains Are Now A Battery Exit Strategy Problem",
@@ -324,12 +324,6 @@
           "link": "https://electrek.co/2026/07/29/solid-state-ev-battery-leaders-team-up/",
           "source": "Electrek",
           "published": "2026-07-29T16:51:40+00:00"
-        },
-        {
-          "title": "Factorial Taps Hyundai Supplier To Solve Solid-State Batteries’ Biggest Problem",
-          "link": "https://insideevs.com/news/803125/factorial-sk-on-solid-state-battery-mou/",
-          "source": "InsideEVs",
-          "published": "2026-07-29T15:52:50+00:00"
         },
         {
           "title": "Greenworks 80V CrossoverT riding mower with 600W turbo charger $1,200 off, Camplux 3.5kW to 27kW water heaters, more",
@@ -442,6 +436,12 @@
       "count": 19,
       "items": [
         {
+          "title": "Top 10 robotics stories of July 2026",
+          "link": "https://www.therobotreport.com/top-10-robotics-stories-july-2026/",
+          "source": "The Robot Report",
+          "published": "2026-08-01T12:00:30+00:00"
+        },
+        {
           "title": "FCC robot ruling shines a spotlight on U.S. policy; how next-gen AI can help warehousing",
           "link": "https://www.therobotreport.com/fcc-robot-ruling-shines-spotlight-on-u-s-policy-how-next-gen-ai-can-help-warehousing/",
           "source": "The Robot Report",
@@ -544,12 +544,6 @@
           "published": "2026-07-26T13:00:01+00:00"
         },
         {
-          "title": "Magmotor makes motors for a changing world for 150+ years",
-          "link": "https://www.therobotreport.com/magmotor-makes-motors-changing-world-150-years/",
-          "source": "The Robot Report",
-          "published": "2026-07-26T12:30:51+00:00"
-        },
-        {
           "title": "Video Friday: An Italian Humanoid Comes to Life",
           "link": "https://spectrum.ieee.org/video-friday-physical-ai-robotics",
           "source": "IEEE Spectrum",
@@ -563,10 +557,10 @@
       "count": 1,
       "items": [
         {
-          "title": "[AI 이슈트렌드] 반도체 '역대급 실적'에도 요동친 코스피...빅테크 협력속 재난·정치 이슈 부각",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213437",
+          "title": "문샷, 알리바바서 엔비디아 GPU 2만개 공급받아 '키미 K3' 개발",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213438",
           "source": "AI타임스",
-          "published": "2026-08-01T14:01:49+00:00"
+          "published": "2026-08-01T19:10:51+00:00"
         }
       ]
     }
