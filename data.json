@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T02:33:00.962223+00:00",
+  "generated_at": "2026-08-01T08:15:31.114706+00:00",
   "categories": [
     {
       "key": "ev",
@@ -251,8 +251,14 @@
     {
       "key": "battery",
       "label": "배터리",
-      "count": 22,
+      "count": 23,
       "items": [
+        {
+          "title": "Lower Saxony’s Hydrogen Trains Are Now A Battery Exit Strategy Problem",
+          "link": "https://cleantechnica.com/2026/08/01/lower-saxony-hydrogen-trains-battery-exit/",
+          "source": "CleanTechnica",
+          "published": "2026-08-01T06:20:01+00:00"
+        },
         {
           "title": "Xiaomi Sky Nomad Gains Tech-Filled Practicality, Loses Passion",
           "link": "https://cleantechnica.com/2026/07/31/xiaomi-sky-nomad-gains-tech-filled-practicality-loses-passion/",
@@ -554,247 +560,13 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 40,
+      "count": 1,
       "items": [
         {
-          "title": "샤오홍슈, 내몽골에 3.2조 규모 AI 데이터센터 건설 추진",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213431",
+          "title": "[AI 이슈트렌드] 반도체 '역대급 실적'에도 요동친 코스피...빅테크 협력속 재난·정치 이슈 부각",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213437",
           "source": "AI타임스",
-          "published": "2026-08-01T10:38:32+00:00"
-        },
-        {
-          "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
-          "link": "https://arxiv.org/abs/2607.26119",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
-          "link": "https://arxiv.org/abs/2607.26120",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
-          "link": "https://arxiv.org/abs/2607.26155",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "When benchmark inferences do not compose: Projectibility in AI evaluation",
-          "link": "https://arxiv.org/abs/2607.26159",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning",
-          "link": "https://arxiv.org/abs/2607.26160",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "GoGoTB: Agentic RTL Verification with Specification-Grounded Coverage Closure",
-          "link": "https://arxiv.org/abs/2607.26181",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "Position: Evaluation Scores Are Perishable Knowledge Claims",
-          "link": "https://arxiv.org/abs/2607.26191",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "TraceCoder: Explainable and Auditable Code Generation with Position-Key Snippet Versioning",
-          "link": "https://arxiv.org/abs/2607.26307",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "Exploring Structures in Physics Problems: Can AI Agents Discover Statistical Mechanical Mappings?",
-          "link": "https://arxiv.org/abs/2607.26367",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "CaM-Wolf: Causal-Aware Multimodal Agents for Social Deduction Games",
-          "link": "https://arxiv.org/abs/2607.26393",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "CG-World: A Large-Scale World-State Dataset and Protocol for World Models",
-          "link": "https://arxiv.org/abs/2607.26452",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "MultivationBench: A Benchmark for Multimodal Sequential Motivation Reasoning",
-          "link": "https://arxiv.org/abs/2607.26465",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "EvoPINN: Agentic Discovery of Executable Algorithms for Physics-Informed Neural Networks",
-          "link": "https://arxiv.org/abs/2607.26490",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "Evidence-Ledger Adjudication for Claim-Evidence Traceability",
-          "link": "https://arxiv.org/abs/2607.26512",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "Eco3S: Complex Socio-Economic System Simulation via Agent-Based Models",
-          "link": "https://arxiv.org/abs/2607.26588",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "Fewer Clarifications, Better Code: Benchmarking Cross-Session Personalized Ambiguity Adaptation in Coding Assistants",
-          "link": "https://arxiv.org/abs/2607.26611",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "AlphaSchema: Exploring the Space of Trading Semantics for LLM-Based Alpha Mining",
-          "link": "https://arxiv.org/abs/2607.26642",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "Rethinking Self-Evolution: A Constrained Exploration-Exploitation Process for Mitigating Skill Overfitting",
-          "link": "https://arxiv.org/abs/2607.26643",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "AgenticCANN: Automated Ascend C Operator Generation via Knowledge-Augmented Agentic Evolution",
-          "link": "https://arxiv.org/abs/2607.26661",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "UrbanDS: A Graph-Guided LLM Multi-Agent System for Data-Intensive Urban Tasks",
-          "link": "https://arxiv.org/abs/2607.26724",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "Do Latent Channels Actually Communicate? A Causal Audit of Latent Multi-Agent LLM",
-          "link": "https://arxiv.org/abs/2607.26773",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "Property-driven Causal Abstractions for Markov Decision Processes",
-          "link": "https://arxiv.org/abs/2607.26787",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "From Passive Video to Editable Experience: Physically Grounded Experience Synthesis for Embodied Intelligence",
-          "link": "https://arxiv.org/abs/2607.26903",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "What Does It Take to Detect an AI Agent? Minimal Feature Sets for Behavioral Detection under Browser Automation",
-          "link": "https://arxiv.org/abs/2607.26935",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "Belief-Guided Decision Making with Uncertainty Gating in the Game of Go",
-          "link": "https://arxiv.org/abs/2607.26946",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "Setoka: A Benchmark for Hierarchical User Understanding in Personalized Agents over Heterogeneous Data",
-          "link": "https://arxiv.org/abs/2607.27056",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment",
-          "link": "https://arxiv.org/abs/2607.27081",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "AgentMap: Joint Equivalence and Subsumption Discovery for Ontology Matching",
-          "link": "https://arxiv.org/abs/2607.27130",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "Linguistic Monoculture in LLM-Assisted Language Use",
-          "link": "https://arxiv.org/abs/2607.27134",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding",
-          "link": "https://arxiv.org/abs/2607.27155",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork",
-          "link": "https://arxiv.org/abs/2607.27177",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
-          "link": "https://arxiv.org/abs/2607.27191",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "A Methodology for Designing Knowledge-Driven Missions for Robots",
-          "link": "https://arxiv.org/abs/2601.20797",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "Predict before you train: Scaling Laws for particle physics foundation models",
-          "link": "https://arxiv.org/abs/2607.23377",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "Forensic Reproducibility Audit of a Radiology Vision-Language Model Benchmark: From Intended Protocol to Released Artifact",
-          "link": "https://arxiv.org/abs/2607.25589",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "Emergent Sparsity in Frozen Random CNN Feature Extractors for Deep Reinforcement Learning",
-          "link": "https://arxiv.org/abs/2607.26059",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "Large-Scale ChatBot Validation Through Customer Digital Twin Simulations",
-          "link": "https://arxiv.org/abs/2607.26060",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "Sim2Win: A Team-Agnostic, Event-Based Pre-Match Outcome Prediction and Tactical Profiling System for Football",
-          "link": "https://arxiv.org/abs/2607.26061",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "Identifying Implicit Bias in LLM-based Chat AI Toward People with Intellectual Disabilities",
-          "link": "https://arxiv.org/abs/2607.26062",
-          "source": "arXiv cs.AI",
-          "published": "2026-07-31T04:00:00+00:00"
+          "published": "2026-08-01T14:01:49+00:00"
         }
       ]
     }
