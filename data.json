@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T13:14:36.777598+00:00",
+  "generated_at": "2026-08-02T19:04:55.328911+00:00",
   "categories": [
     {
       "key": "ev",
@@ -251,8 +251,14 @@
     {
       "key": "battery",
       "label": "배터리",
-      "count": 25,
+      "count": 26,
       "items": [
+        {
+          "title": "Believe It Or Not, EV Battery Swapping Is Coming To The US",
+          "link": "https://cleantechnica.com/2026/08/02/ev-battery-swapping-us-fuel-saving-diesel-startup-revoy/",
+          "source": "CleanTechnica",
+          "published": "2026-08-02T15:24:29+00:00"
+        },
         {
           "title": "Ember’s Electric Coaches Show Intercity Bus Electrification Is Already Here",
           "link": "https://cleantechnica.com/2026/08/02/ember-electric-intercity-coaches-scotland/",
@@ -460,10 +466,10 @@
       "count": 19,
       "items": [
         {
-          "title": "호주 지멕스로보틱스, 싱가포르 소셜AI 업체 미디아메타닷에이아이 인수",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47720",
+          "title": "더로보틱스 '봇박스', 조달청 혁신시제품 지정… 험지 추종 주행 기술 인정",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47723",
           "source": "로봇신문",
-          "published": "2026-08-02T20:16:26+00:00"
+          "published": "2026-08-03T00:06:52+00:00"
         },
         {
           "title": "Google DeepMind says Gemini Robotics 2 enables full body control",
