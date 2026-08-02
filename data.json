@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-08-02T02:31:26.211140+00:00",
+  "generated_at": "2026-08-02T08:19:46.437364+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "These Hyundai N EVs Share Hardware. Software Makes Them Feel Different",
+          "link": "https://insideevs.com/news/803467/ioniq-5-ioniq-6-n/",
+          "source": "InsideEVs",
+          "published": "2026-08-02T06:00:42+00:00"
+        },
         {
           "title": "I Was Worried When My Parents Went Full EV, But They Proved Me Wrong",
           "link": "https://insideevs.com/features/803437/owner-story-ioniq-elderly-carolina/",
@@ -239,12 +245,6 @@
           "link": "https://electrek.co/2026/07/30/byds-electric-kei-car-received-over-5000-orders-first-week/",
           "source": "Electrek",
           "published": "2026-07-30T14:01:02+00:00"
-        },
-        {
-          "title": "China is starting to measure EV charging times in seconds, not minutes",
-          "link": "https://electrek.co/2026/07/30/china-is-starting-to-measure-ev-charging-times-in-seconds-not-minutes/",
-          "source": "Electrek",
-          "published": "2026-07-30T14:00:00+00:00"
         }
       ]
     },
@@ -402,8 +402,14 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 6,
+      "count": 7,
       "items": [
+        {
+          "title": "These Hyundai N EVs Share Hardware. Software Makes Them Feel Different",
+          "link": "https://insideevs.com/news/803467/ioniq-5-ioniq-6-n/",
+          "source": "InsideEVs",
+          "published": "2026-08-02T06:00:42+00:00"
+        },
         {
           "title": "HMP’s new $3,999 electric scooter is the affordable, street-legal commuter the US needs",
           "link": "https://electrek.co/2026/07/31/hmps-new-3999-electric-scooter-is-the-affordable-street-legal-commuter-the-us-needs/",
@@ -569,10 +575,10 @@
       "count": 1,
       "items": [
         {
-          "title": "세계 첫 '10대 SNS 금지법' 효과 미미… 호주 청소년 80% 여전히 이용 중",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213446",
+          "title": "구글, 크롬에 '제미나이 스파크' 통합...웹 브라우징 자동화 지원",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213447",
           "source": "AI타임스",
-          "published": "2026-08-02T11:11:36+00:00"
+          "published": "2026-08-02T12:00:01+00:00"
         }
       ]
     }
