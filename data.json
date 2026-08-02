@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T19:04:26.316158+00:00",
+  "generated_at": "2026-08-02T02:31:26.211140+00:00",
   "categories": [
     {
       "key": "ev",
@@ -251,8 +251,14 @@
     {
       "key": "battery",
       "label": "배터리",
-      "count": 23,
+      "count": 24,
       "items": [
+        {
+          "title": "Janus Battery Swap Trucks Show The Way",
+          "link": "https://cleantechnica.com/2026/08/01/janus-battery-swap-trucks-show-the-way/",
+          "source": "CleanTechnica",
+          "published": "2026-08-02T01:18:21+00:00"
+        },
         {
           "title": "KIA Elects To Manufacture The EV3 In Mexico",
           "link": "https://cleantechnica.com/2026/08/01/kia-elects-to-manufacture-the-ev3-in-mexico/",
@@ -563,10 +569,10 @@
       "count": 1,
       "items": [
         {
-          "title": "문샷, 알리바바서 엔비디아 GPU 2만개 공급받아 '키미 K3' 개발",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213438",
+          "title": "세계 첫 '10대 SNS 금지법' 효과 미미… 호주 청소년 80% 여전히 이용 중",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213446",
           "source": "AI타임스",
-          "published": "2026-08-01T19:10:51+00:00"
+          "published": "2026-08-02T11:11:36+00:00"
         }
       ]
     }
