@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T19:04:55.328911+00:00",
+  "generated_at": "2026-08-03T02:33:34.399947+00:00",
   "categories": [
     {
       "key": "ev",
@@ -251,8 +251,14 @@
     {
       "key": "battery",
       "label": "배터리",
-      "count": 26,
+      "count": 27,
       "items": [
+        {
+          "title": "Fuel Cell Trucks And Buses Are Still Coming, And They Still Need More Green Hydrogen",
+          "link": "https://cleantechnica.com/2026/08/02/fuel-cell-buses-trucks-green-hydrogen-innovation/",
+          "source": "CleanTechnica",
+          "published": "2026-08-03T02:06:53+00:00"
+        },
         {
           "title": "Believe It Or Not, EV Battery Swapping Is Coming To The US",
           "link": "https://cleantechnica.com/2026/08/02/ev-battery-swapping-us-fuel-saving-diesel-startup-revoy/",
