@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-08-03T09:38:21.577479+00:00",
+  "generated_at": "2026-08-03T14:32:38.856068+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Tesla Supercharger shooting sparks EV charging safety debate",
+          "link": "https://electrek.co/2026/08/03/evject-tesla-supercharger-shooting-emergency-disconnect/",
+          "source": "Electrek",
+          "published": "2026-08-03T14:30:56+00:00"
+        },
+        {
+          "title": "Hyundai and Kia’s record US sales run is showing no signs of slowing down",
+          "link": "https://electrek.co/2026/08/03/hyundai-kias-record-us-sales-run/",
+          "source": "Electrek",
+          "published": "2026-08-03T13:58:42+00:00"
+        },
+        {
+          "title": "Aniioki’s latest 6,000W dual-motor e-bike blurs past the line so much it’s basically an electric motorcycle",
+          "link": "https://electrek.co/2026/08/03/aniiokis-latest-6000w-dual-motor-e-bike-blurs-past-the-line-so-much-its-basically-an-electric-motorcycle/",
+          "source": "Electrek",
+          "published": "2026-08-03T13:34:00+00:00"
+        },
+        {
+          "title": "Ford Recalls 86,000 Mustang Mach-E EVs Over Flying Window Trim Risk",
+          "link": "https://insideevs.com/news/803565/ford-mustang-mach-e-window-trim-recall/",
+          "source": "InsideEVs",
+          "published": "2026-08-03T13:19:00+00:00"
+        },
+        {
+          "title": "Argentina’s solar train brings zero-emission travel to an ancient trade route",
+          "link": "https://electrek.co/2026/08/03/argentinas-solar-train-brings-zero-emission-travel-to-an-ancient-trade-route/",
+          "source": "Electrek",
+          "published": "2026-08-03T12:04:44+00:00"
+        },
+        {
+          "title": "The U.S. Army’s New Unmanned Ground Vehicle Is An Extended-Range EV",
+          "link": "https://insideevs.com/news/803554/us-army-ugv-erev-plug-in-hybrid/",
+          "source": "InsideEVs",
+          "published": "2026-08-03T12:01:17+00:00"
+        },
         {
           "title": "Hyundai And Kia Just Set New U.S. Sales Records—But EVs Took A Dive",
           "link": "https://insideevs.com/news/803521/hyundai-kia-july-record-sales/",
@@ -209,50 +245,26 @@
           "link": "https://insideevs.com/news/803290/electric-land-rover-defender-restomod/",
           "source": "InsideEVs",
           "published": "2026-07-30T20:55:52+00:00"
-        },
-        {
-          "title": "Rivian (RIVN) Q2 2026 earnings: revenue up 27%, gross margins soaring",
-          "link": "https://electrek.co/2026/07/30/rivian-rivn-q2-2026-earnings-r2-deliveries-revenue-up-27/",
-          "source": "Electrek",
-          "published": "2026-07-30T20:05:15+00:00"
-        },
-        {
-          "title": "Tesla’s Elon Musk is having a generational meltdown",
-          "link": "https://electrek.co/2026/07/30/tesla-elon-musk-2026-x-meltdown/",
-          "source": "Electrek",
-          "published": "2026-07-30T18:39:56+00:00"
-        },
-        {
-          "title": "Jackery 3,584Wh and 2,048Wh HomePower power stations get exclusive $1,450 savings to new lows, Roborock, Greenworks, more",
-          "link": "https://electrek.co/2026/07/30/jackery-3584wh-and-2048wh-homepower-power-stations-roborock-greenworks-more/",
-          "source": "Electrek",
-          "published": "2026-07-30T18:00:00+00:00"
-        },
-        {
-          "title": "Tesla Reaches Its Biggest Manufacturing Milestone Yet With 10 Million EVs",
-          "link": "https://insideevs.com/news/803275/tesla-10-million-evs-produced-fremont-california/",
-          "source": "InsideEVs",
-          "published": "2026-07-30T17:51:45+00:00"
-        },
-        {
-          "title": "I Drove An Original Tesla Model S To See If It's Still Worth Buying In 2026",
-          "link": "https://insideevs.com/reviews/803161/2015-tesla-model-s-review/",
-          "source": "InsideEVs",
-          "published": "2026-07-30T17:31:19+00:00"
-        },
-        {
-          "title": "BMW opens i3 orders months early as buyers rush in",
-          "link": "https://electrek.co/2026/07/30/bmw-opens-i3-orders-months-early-demand-surges/",
-          "source": "Electrek",
-          "published": "2026-07-30T17:29:25+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 26,
+      "count": 25,
       "items": [
+        {
+          "title": "Hyundai and Kia’s record US sales run is showing no signs of slowing down",
+          "link": "https://electrek.co/2026/08/03/hyundai-kias-record-us-sales-run/",
+          "source": "Electrek",
+          "published": "2026-08-03T13:58:42+00:00"
+        },
+        {
+          "title": "Aniioki’s latest 6,000W dual-motor e-bike blurs past the line so much it’s basically an electric motorcycle",
+          "link": "https://electrek.co/2026/08/03/aniiokis-latest-6000w-dual-motor-e-bike-blurs-past-the-line-so-much-its-basically-an-electric-motorcycle/",
+          "source": "Electrek",
+          "published": "2026-08-03T13:34:00+00:00"
+        },
         {
           "title": "Fuel Cell Trucks And Buses Are Still Coming, And They Still Need More Green Hydrogen",
           "link": "https://cleantechnica.com/2026/08/02/fuel-cell-buses-trucks-green-hydrogen-innovation/",
@@ -332,12 +344,6 @@
           "published": "2026-07-30T12:06:28+00:00"
         },
         {
-          "title": "Dongfeng Just Unveiled A 1.5 MW EV Charger To Take On BYD. And It’s Just Getting Started",
-          "link": "https://insideevs.com/news/803195/dongfeng-15-mw-ev-charger/",
-          "source": "InsideEVs",
-          "published": "2026-07-30T08:16:12+00:00"
-        },
-        {
           "title": "Yozma IN 10 and IN 10 Pro electric mini dirt bikes get up to $595 exclusive savings, EGO 880 CFM blower + 2x batteries, Hiboy, more",
           "link": "https://electrek.co/2026/07/29/yozma-in-10-and-in-10-pro-electric-mini-dirt-bikes-ego-880-cfm-blower-hiboy-more/",
           "source": "Electrek",
@@ -396,26 +402,20 @@
           "link": "https://electrek.co/2026/07/24/lectric-christmas-in-july-e-bike-sale-best-buy-black-friday-in-july-appliance-sale-jackery-ego-more/",
           "source": "Electrek",
           "published": "2026-07-24T18:00:00+00:00"
-        },
-        {
-          "title": "Massachusetts wants to pay EV drivers for their battery power",
-          "link": "https://electrek.co/2026/07/23/massachusetts-ev-drivers-battery-power-v2g/",
-          "source": "Electrek",
-          "published": "2026-07-23T18:22:32+00:00"
-        },
-        {
-          "title": "Heybike Mars 2.0, ALPHA, Horizon e-bikes get up to $800 exclusive savings to new lows, Segway EVs up to 46% off, Aventon, more",
-          "link": "https://electrek.co/2026/07/23/heybike-mars-2-0-alpha-horizon-e-bikes-exclusive-segway-evs-aventon-more/",
-          "source": "Electrek",
-          "published": "2026-07-23T18:00:00+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 6,
+      "count": 7,
       "items": [
+        {
+          "title": "Aniioki’s latest 6,000W dual-motor e-bike blurs past the line so much it’s basically an electric motorcycle",
+          "link": "https://electrek.co/2026/08/03/aniiokis-latest-6000w-dual-motor-e-bike-blurs-past-the-line-so-much-its-basically-an-electric-motorcycle/",
+          "source": "Electrek",
+          "published": "2026-08-03T13:34:00+00:00"
+        },
         {
           "title": "These Hyundai N EVs Share Hardware. Software Makes Them Feel Different",
           "link": "https://insideevs.com/news/803467/ioniq-5-ioniq-6-n/",
