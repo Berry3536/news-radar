@@ -1,11 +1,65 @@
 {
-  "generated_at": "2026-08-03T14:32:38.856068+00:00",
+  "generated_at": "2026-08-03T19:26:16.767676+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Base Power raises $1B to roll out its giant new home battery",
+          "link": "https://electrek.co/2026/08/03/base-power-raises-1b-to-roll-out-its-giant-new-home-battery/",
+          "source": "Electrek",
+          "published": "2026-08-03T18:32:58+00:00"
+        },
+        {
+          "title": "Lectric Back to School e-bike sale with up to $804 savings, Monarc Marker + Tracer e-bike bundles from $1,899, EGO Multi-Head, more",
+          "link": "https://electrek.co/2026/08/03/lectric-back-to-school-e-bike-sale-monarc-marker-tracer-e-bike-bundles-ego-more/",
+          "source": "Electrek",
+          "published": "2026-08-03T18:00:00+00:00"
+        },
+        {
+          "title": "Hyundai is about to launch the IONIQ 3, and it plans to sell over 40,000 in 2027",
+          "link": "https://electrek.co/2026/08/03/hyundai-40000-ioniq-3-evs-2027/",
+          "source": "Electrek",
+          "published": "2026-08-03T17:36:48+00:00"
+        },
+        {
+          "title": "EVs Don’t Need This Gas Car Feature. So Why Do So Many Still Have It?",
+          "link": "https://insideevs.com/features/803439/ev-start-stop-button-why/",
+          "source": "InsideEVs",
+          "published": "2026-08-03T16:47:23+00:00"
+        },
+        {
+          "title": "Tesla FSD v14 Lite tied to rising HW3 computer failures, owners report",
+          "link": "https://electrek.co/2026/08/03/tesla-fsd-v14-lite-hw3-computer-failures/",
+          "source": "Electrek",
+          "published": "2026-08-03T16:02:35+00:00"
+        },
+        {
+          "title": "Telo Says Its Tiny EV Truck Can Tow More Than A Base Ford F-150",
+          "link": "https://insideevs.com/news/803579/telo-tiny-ev-pickup-tow-capacity-update/",
+          "source": "InsideEVs",
+          "published": "2026-08-03T15:52:56+00:00"
+        },
+        {
+          "title": "Volvo’s next electric SUV will start in the upper $40,000 range",
+          "link": "https://electrek.co/2026/08/03/volvos-next-electric-suv-will-start-in-the-upper-40000-range/",
+          "source": "Electrek",
+          "published": "2026-08-03T15:49:39+00:00"
+        },
+        {
+          "title": "Volvo's New EX50 Will Be A Sub-$50,000 Tesla Model Y Fighter: Report",
+          "link": "https://insideevs.com/news/803575/volvo-ex50-electric-crossover-spa3-platform-tesla-rival/",
+          "source": "InsideEVs",
+          "published": "2026-08-03T15:34:47+00:00"
+        },
+        {
+          "title": "Tesla Model Y RWD 2026 Review: an entry-level trim with top-of-the-line technology",
+          "link": "https://electrek.co/2026/08/03/2026-tesla-model-y-rwd-review/",
+          "source": "Electrek",
+          "published": "2026-08-03T14:59:43+00:00"
+        },
         {
           "title": "Tesla Supercharger shooting sparks EV charging safety debate",
           "link": "https://electrek.co/2026/08/03/evject-tesla-supercharger-shooting-emergency-disconnect/",
@@ -191,68 +245,26 @@
           "link": "https://electrek.co/2026/07/31/anyland-rev-pro-e-motos-have-this-one-weird-trick-auto-wheelies/",
           "source": "Electrek",
           "published": "2026-07-31T12:55:13+00:00"
-        },
-        {
-          "title": "Wheel-E Podcast: VW e-bikes, Juiced Scrambler, Anyland Auto-wheelie, more",
-          "link": "https://electrek.co/2026/07/31/wheel-e-podcast-vw-e-bikes-juiced-scrambler-anyland-auto-wheelie-more/",
-          "source": "Electrek",
-          "published": "2026-07-31T12:33:52+00:00"
-        },
-        {
-          "title": "Audi's U.S. Hybrid Push Is About To Get A Lot Bigger",
-          "link": "https://insideevs.com/news/803331/audi-hybrids-us-lineup-change/",
-          "source": "InsideEVs",
-          "published": "2026-07-31T09:17:30+00:00"
-        },
-        {
-          "title": "Amazon Added 10,000 Rivian Electric Vans In Just Six Months",
-          "link": "https://insideevs.com/news/803324/rivian-van-amazon-fleet-update-q2-2026/",
-          "source": "InsideEVs",
-          "published": "2026-07-31T08:14:45+00:00"
-        },
-        {
-          "title": "Tesla weighs selling China business to clear path for SpaceX merger",
-          "link": "https://electrek.co/2026/07/30/tesla-weighs-selling-china-business-spacex-merger/",
-          "source": "Electrek",
-          "published": "2026-07-31T02:04:12+00:00"
-        },
-        {
-          "title": "The PJM grid’s largest battery is now under construction in Ohio",
-          "link": "https://electrek.co/2026/07/30/pjm-grid-largest-battery-is-now-under-construction-in-ohio/",
-          "source": "Electrek",
-          "published": "2026-07-30T22:55:14+00:00"
-        },
-        {
-          "title": "Juiced Scrambler: Testing the best bang-for-your-buck moto-style e-bike",
-          "link": "https://electrek.co/2026/07/30/juiced-scrambler-testing-the-best-bang-for-your-buck-moto-style-e-bike/",
-          "source": "Electrek",
-          "published": "2026-07-30T21:40:06+00:00"
-        },
-        {
-          "title": "A new Zipcar pilot pairs shared EVs with off-grid solar charging",
-          "link": "https://electrek.co/2026/07/30/a-new-zipcar-pilot-pairs-shared-evs-with-off-grid-solar-charging/",
-          "source": "Electrek",
-          "published": "2026-07-30T21:11:38+00:00"
-        },
-        {
-          "title": "The Kia EV3 will go on sale soon, with production set to begin in Mexico next week",
-          "link": "https://electrek.co/2026/07/30/kia-ev3-production-mexico-us/",
-          "source": "Electrek",
-          "published": "2026-07-30T21:07:17+00:00"
-        },
-        {
-          "title": "This Quad-Motor Electric Land Rover Defender Restomod Has More Range Than Some Teslas",
-          "link": "https://insideevs.com/news/803290/electric-land-rover-defender-restomod/",
-          "source": "InsideEVs",
-          "published": "2026-07-30T20:55:52+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 25,
+      "count": 26,
       "items": [
+        {
+          "title": "Base Power raises $1B to roll out its giant new home battery",
+          "link": "https://electrek.co/2026/08/03/base-power-raises-1b-to-roll-out-its-giant-new-home-battery/",
+          "source": "Electrek",
+          "published": "2026-08-03T18:32:58+00:00"
+        },
+        {
+          "title": "Lectric Back to School e-bike sale with up to $804 savings, Monarc Marker + Tracer e-bike bundles from $1,899, EGO Multi-Head, more",
+          "link": "https://electrek.co/2026/08/03/lectric-back-to-school-e-bike-sale-monarc-marker-tracer-e-bike-bundles-ego-more/",
+          "source": "Electrek",
+          "published": "2026-08-03T18:00:00+00:00"
+        },
         {
           "title": "Hyundai and Kia’s record US sales run is showing no signs of slowing down",
           "link": "https://electrek.co/2026/08/03/hyundai-kias-record-us-sales-run/",
@@ -324,12 +336,6 @@
           "link": "https://electrek.co/2026/07/30/pjm-grid-largest-battery-is-now-under-construction-in-ohio/",
           "source": "Electrek",
           "published": "2026-07-30T22:55:14+00:00"
-        },
-        {
-          "title": "I Drove An Original Tesla Model S To See If It's Still Worth Buying In 2026",
-          "link": "https://insideevs.com/reviews/803161/2015-tesla-model-s-review/",
-          "source": "InsideEVs",
-          "published": "2026-07-30T17:31:19+00:00"
         },
         {
           "title": "China is starting to measure EV charging times in seconds, not minutes",
@@ -457,13 +463,25 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 19,
+      "count": 21,
       "items": [
         {
           "title": "경북도, 자동차 부품 제조 AI 로봇 확산 거점 구축",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47746",
           "source": "로봇신문",
           "published": "2026-08-03T17:53:56+00:00"
+        },
+        {
+          "title": "HEBI Robotics earns NASA SBIR grant to fast track miniaturized actuators",
+          "link": "https://www.therobotreport.com/hebi-robotics-earns-nasa-sbir-grant-fast-track-miniaturized-actuators/",
+          "source": "The Robot Report",
+          "published": "2026-08-03T17:17:46+00:00"
+        },
+        {
+          "title": "Walden Robotics Partners With Toyota on Practical Humanoids",
+          "link": "https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota",
+          "source": "IEEE Spectrum",
+          "published": "2026-08-03T16:05:39+00:00"
         },
         {
           "title": "Reimagine Robotics emerges from stealth with robots that ‘learn on the job’",
@@ -496,16 +514,16 @@
           "published": "2026-07-31T20:38:15+00:00"
         },
         {
+          "title": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
+          "link": "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
+          "source": "IEEE Spectrum",
+          "published": "2026-07-31T16:00:03+00:00"
+        },
+        {
           "title": "Procore Technologies acquires DroneDeploy for $845M",
           "link": "https://www.therobotreport.com/procore-technologies-acquires-dronedeploy-845m/",
           "source": "The Robot Report",
           "published": "2026-07-31T12:49:07+00:00"
-        },
-        {
-          "title": "5 Physical AI infrastructure platforms shaping robotics in 2026",
-          "link": "https://www.therobotreport.com/5-physical-ai-infrastructure-platforms-shaping-robotics-in-2026/",
-          "source": "The Robot Report",
-          "published": "2026-07-30T20:01:22+00:00"
         },
         {
           "title": "DoorDash gains FAA certification to operate its own drone delivery program",
