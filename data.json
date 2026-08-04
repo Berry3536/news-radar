@@ -1,11 +1,71 @@
 {
-  "generated_at": "2026-08-04T14:04:15.654954+00:00",
+  "generated_at": "2026-08-04T19:27:52.304607+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Porsche CEO Confirms The Electric 718 Is Still Coming",
+          "link": "https://insideevs.com/news/803753/porsche-718-electric-confirmed-ceo/",
+          "source": "InsideEVs",
+          "published": "2026-08-04T18:57:12+00:00"
+        },
+        {
+          "title": "New Porsche boss says electric 718 is still coming, Taycan isn’t going anywhere",
+          "link": "https://electrek.co/2026/08/04/new-porsche-boss-says-electric-718-is-still-coming-taycan-isnt-going-anywhere/",
+          "source": "Electrek",
+          "published": "2026-08-04T18:13:54+00:00"
+        },
+        {
+          "title": "Segway Max G3 Plus e-scooter $350 off pre-order deal, Beatbot iSkim solar pool skimmer $319, Jackery 72-hour flash sale, tools, more",
+          "link": "https://electrek.co/2026/08/04/segway-max-g3-plus-e-scooter-pre-order-beatbot-iskim-solar-pool-skimmer-jackery-tools-more/",
+          "source": "Electrek",
+          "published": "2026-08-04T18:00:00+00:00"
+        },
+        {
+          "title": "Toyota’s Next Generation Hybrid Batteries Promise Lower Cost, Better Performance",
+          "link": "https://insideevs.com/news/803763/toyota-next-generation-hybrid-batteries-2027/",
+          "source": "InsideEVs",
+          "published": "2026-08-04T17:31:30+00:00"
+        },
+        {
+          "title": "Hyundai confirms the IONIQ 6 N is still on track to launch in the US soon",
+          "link": "https://electrek.co/2026/08/04/hyundai-confirms-ioniq-6-n-on-track-launch-us/",
+          "source": "Electrek",
+          "published": "2026-08-04T17:25:48+00:00"
+        },
+        {
+          "title": "Nissan Wants You To Relax With Its New Electric Camper Van That Fits 4 And Packs 408-Mile Range",
+          "link": "https://insideevs.com/news/803631/nissan-electric-camper-van-relax/",
+          "source": "InsideEVs",
+          "published": "2026-08-04T16:33:12+00:00"
+        },
+        {
+          "title": "Subaru’s new Trailseeker EV is already outselling its other electric vehicles",
+          "link": "https://electrek.co/2026/08/04/subarus-new-trailseeker-ev-outselling-other-electric-vehicles/",
+          "source": "Electrek",
+          "published": "2026-08-04T15:59:21+00:00"
+        },
+        {
+          "title": "Europe is betting big on a battery that runs for four days",
+          "link": "https://electrek.co/2026/08/04/europe-is-betting-big-on-a-battery-that-runs-for-four-days/",
+          "source": "Electrek",
+          "published": "2026-08-04T15:55:36+00:00"
+        },
+        {
+          "title": "Waymo CEO explains why Tesla’s camera-only self-driving falls short",
+          "link": "https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/",
+          "source": "Electrek",
+          "published": "2026-08-04T15:31:06+00:00"
+        },
+        {
+          "title": "Tesla China sales are crashing as exports surge",
+          "link": "https://electrek.co/2026/08/04/tesla-china-sales-crash-exports-surge-h1-2026/",
+          "source": "Electrek",
+          "published": "2026-08-04T14:17:00+00:00"
+        },
         {
           "title": "Audi’s cheapest EV is also its most efficient car of all time",
           "link": "https://electrek.co/2026/08/04/audis-cheapest-ev-also-most-efficient-car-all-time/",
@@ -185,74 +245,32 @@
           "link": "https://electrek.co/2026/08/02/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/",
           "source": "Electrek",
           "published": "2026-08-02T12:05:00+00:00"
-        },
-        {
-          "title": "EREVs Can Apparently Be Almost As Low-Maintenance As Full EVs",
-          "link": "https://insideevs.com/news/803385/erev-oil-change-china-xiaomi/",
-          "source": "InsideEVs",
-          "published": "2026-08-02T12:00:00+00:00"
-        },
-        {
-          "title": "Lucid's New World Record Has Nothing To Do With Charging Speed Or Range",
-          "link": "https://insideevs.com/news/803237/lucid-gravity-world-record-music-djs/",
-          "source": "InsideEVs",
-          "published": "2026-08-02T12:00:00+00:00"
-        },
-        {
-          "title": "These Hyundai N EVs Share Hardware. Software Makes Them Feel Different",
-          "link": "https://insideevs.com/news/803467/ioniq-5-ioniq-6-n/",
-          "source": "InsideEVs",
-          "published": "2026-08-02T06:00:42+00:00"
-        },
-        {
-          "title": "I Was Worried When My Parents Went Full EV, But They Proved Me Wrong",
-          "link": "https://insideevs.com/features/803437/owner-story-ioniq-elderly-carolina/",
-          "source": "InsideEVs",
-          "published": "2026-08-01T13:00:00+00:00"
-        },
-        {
-          "title": "I Experienced The World’s First Electrostatic Speakers In A Production Car. Now I Can't Go Back",
-          "link": "https://insideevs.com/news/803291/range-rover-sv-ultra-electrostatic-speakers-warwick-acoustics/",
-          "source": "InsideEVs",
-          "published": "2026-08-01T12:00:00+00:00"
-        },
-        {
-          "title": "Florida Got $200 Million For EV Chargers. It Wants To Spend It On Air Taxis Instead",
-          "link": "https://insideevs.com/news/803441/florida-nevi-ev-charger-money-evtols-air-taxis/",
-          "source": "InsideEVs",
-          "published": "2026-08-01T11:00:00+00:00"
-        },
-        {
-          "title": "Lectric eBikes hits $1 billion in sales, surpasses 750,000 e-bikes",
-          "link": "https://electrek.co/2026/07/31/lectric-ebikes-hits-1-billion-in-sales-surpasses-750000-e-bikes/",
-          "source": "Electrek",
-          "published": "2026-08-01T00:04:12+00:00"
-        },
-        {
-          "title": "This all-electric VinFast taxi service just debuted in Europe",
-          "link": "https://electrek.co/2026/07/31/this-all-electric-vinfast-taxi-service-just-debuted-in-europe/",
-          "source": "Electrek",
-          "published": "2026-07-31T21:04:09+00:00"
-        },
-        {
-          "title": "Tesla Breaking Off Its China Business? Musk Calls It 'Absurdly Fake News'",
-          "link": "https://insideevs.com/news/803408/musk-china-us-split-fake/",
-          "source": "InsideEVs",
-          "published": "2026-07-31T20:18:55+00:00"
-        },
-        {
-          "title": "Podcast: Tesla/SpaceX merger, Rivian R2 progress, new Mercedes GLA, and more",
-          "link": "https://electrek.co/2026/07/31/podcast-tesla-spacex-merger-rivian-r2-progress-new-mercedes-gla-and-more/",
-          "source": "Electrek",
-          "published": "2026-07-31T19:46:20+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 29,
+      "count": 30,
       "items": [
+        {
+          "title": "Toyota’s Next Generation Hybrid Batteries Promise Lower Cost, Better Performance",
+          "link": "https://insideevs.com/news/803763/toyota-next-generation-hybrid-batteries-2027/",
+          "source": "InsideEVs",
+          "published": "2026-08-04T17:31:30+00:00"
+        },
+        {
+          "title": "Nissan Wants You To Relax With Its New Electric Camper Van That Fits 4 And Packs 408-Mile Range",
+          "link": "https://insideevs.com/news/803631/nissan-electric-camper-van-relax/",
+          "source": "InsideEVs",
+          "published": "2026-08-04T16:33:12+00:00"
+        },
+        {
+          "title": "Europe is betting big on a battery that runs for four days",
+          "link": "https://electrek.co/2026/08/04/europe-is-betting-big-on-a-battery-that-runs-for-four-days/",
+          "source": "Electrek",
+          "published": "2026-08-04T15:55:36+00:00"
+        },
         {
           "title": "Segway’s new MAX G3 Plus electric scooter goes farther with more power and better safety",
           "link": "https://electrek.co/2026/08/04/segways-new-max-g3-plus-electric-scooter-goes-farther-with-more-power-and-better-safety/",
@@ -350,12 +368,6 @@
           "published": "2026-07-31T18:00:00+00:00"
         },
         {
-          "title": "Europe’s Waste Creates Value Elsewhere",
-          "link": "https://cleantechnica.com/2026/07/30/europes-waste-creates-value-elsewhere/",
-          "source": "CleanTechnica",
-          "published": "2026-07-31T01:01:18+00:00"
-        },
-        {
           "title": "The PJM grid’s largest battery is now under construction in Ohio",
           "link": "https://electrek.co/2026/07/30/pjm-grid-largest-battery-is-now-under-construction-in-ohio/",
           "source": "Electrek",
@@ -420,19 +432,13 @@
           "link": "https://electrek.co/2026/07/25/another-day-at-the-office-fortescue-ceo-test-drives-150-ton-haul-truck-video/",
           "source": "Electrek",
           "published": "2026-07-26T00:43:27+00:00"
-        },
-        {
-          "title": "Europe’s next-generation submarines are getting a lithium-ion battery upgrade",
-          "link": "https://electrek.co/2026/07/25/europes-next-generation-submarines-are-getting-a-lithium-ion-battery-upgrade/",
-          "source": "Electrek",
-          "published": "2026-07-25T15:58:36+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 7,
+      "count": 6,
       "items": [
         {
           "title": "Geely Galaxy Battleship 700 tri-motor stuffs 1,113 hp in a high-luxe, boxy package",
@@ -469,25 +475,31 @@
           "link": "https://electrek.co/2026/07/29/huffys-kids-e-bike-makes-a-compelling-case-for-pedal-assisted-riding/",
           "source": "Electrek",
           "published": "2026-07-29T14:45:00+00:00"
-        },
-        {
-          "title": "Another state may legalize electric motorbikes up to 30 and 40 mph under sweeping new micromobility bill",
-          "link": "https://electrek.co/2026/07/25/another-state-may-legalize-electric-motorbikes-up-to-30-and-40-mph-under-sweeping-new-micromobility-bill/",
-          "source": "Electrek",
-          "published": "2026-07-25T13:03:00+00:00"
         }
       ]
     },
     {
       "key": "robot",
       "label": "로봇",
-      "count": 21,
+      "count": 22,
       "items": [
         {
           "title": "유엔디로보틱스, 국토부 건설로봇 대형 R&D과제 공동연구개발기업 선정",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47767",
           "source": "로봇신문",
           "published": "2026-08-04T17:46:58+00:00"
+        },
+        {
+          "title": "Humanoids won’t scale on factory floors until costs drop",
+          "link": "https://www.therobotreport.com/humanoids-wont-scale-on-factory-floors-until-costs-drop/",
+          "source": "The Robot Report",
+          "published": "2026-08-04T15:15:10+00:00"
+        },
+        {
+          "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
+          "link": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
+          "source": "IEEE Spectrum",
+          "published": "2026-08-04T11:00:01+00:00"
         },
         {
           "title": "igus launches energy chain with 600-degree rotation for industrial robots",
@@ -590,12 +602,6 @@
           "link": "https://spectrum.ieee.org/robot-finger",
           "source": "IEEE Spectrum",
           "published": "2026-07-28T15:00:03+00:00"
-        },
-        {
-          "title": "Agency Tool Company wants to make OTA software updates easier",
-          "link": "https://www.therobotreport.com/agency-tool-company-wants-to-make-ota-software-updates-easier/",
-          "source": "The Robot Report",
-          "published": "2026-07-28T14:59:58+00:00"
         },
         {
           "title": "Optical Tech Would Update a Robot’s AI on the Fly",
