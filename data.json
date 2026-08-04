@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-08-03T19:26:16.767676+00:00",
+  "generated_at": "2026-08-04T02:13:06.076082+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Geely Galaxy Battleship 700 tri-motor stuffs 1,113 hp in a high-luxe, boxy package",
+          "link": "https://electrek.co/2026/08/03/geely-galaxy-battleship-700-tri-motor-stuffs-1113-hp-in-a-high-luxe-boxy-package/",
+          "source": "Electrek",
+          "published": "2026-08-04T01:27:43+00:00"
+        },
+        {
+          "title": "Mercedes Boss Says The Auto Industry Went 'Too Far' With Removing Buttons",
+          "link": "https://insideevs.com/news/803618/mercedes-too-far-buttons-removed/",
+          "source": "InsideEVs",
+          "published": "2026-08-03T22:11:31+00:00"
+        },
+        {
+          "title": "Rivian's Also E-Bike Kicks Off Deliveries Soon",
+          "link": "https://insideevs.com/news/803627/also-rivian-ebike-deliveries-begin/",
+          "source": "InsideEVs",
+          "published": "2026-08-03T21:40:42+00:00"
+        },
+        {
+          "title": "The Rivian R2 Will Let You Drift Like Chris Harris Until the Tires Blow Up",
+          "link": "https://insideevs.com/news/803630/rivian-r2-drift-tire-explodes/",
+          "source": "InsideEVs",
+          "published": "2026-08-03T21:06:34+00:00"
+        },
+        {
+          "title": "This solar-powered ‘ambulance’ has a range of up to 444 miles",
+          "link": "https://electrek.co/2026/08/03/this-solar-powered-ambulance-has-a-range-of-up-to-444-miles/",
+          "source": "Electrek",
+          "published": "2026-08-03T20:44:20+00:00"
+        },
+        {
+          "title": "BYD opens Denza Z9S pre-orders, claiming the ‘world’s longest’ EV range at 1,100 km",
+          "link": "https://electrek.co/2026/08/03/byd-opens-denza-z9s-pre-orders-record-1100-km-ev-range/",
+          "source": "Electrek",
+          "published": "2026-08-03T20:05:10+00:00"
+        },
         {
           "title": "Base Power raises $1B to roll out its giant new home battery",
           "link": "https://electrek.co/2026/08/03/base-power-raises-1b-to-roll-out-its-giant-new-home-battery/",
@@ -209,50 +245,20 @@
           "link": "https://insideevs.com/features/803406/ferrari-luce-rivian-r2-waymo-safety-podcast/",
           "source": "InsideEVs",
           "published": "2026-07-31T16:40:47+00:00"
-        },
-        {
-          "title": "BYD undercuts Defender with its first 7-seat SUV in the UK",
-          "link": "https://electrek.co/2026/07/31/byd-undercuts-defender-first-7-seat-suv-uk/",
-          "source": "Electrek",
-          "published": "2026-07-31T16:21:39+00:00"
-        },
-        {
-          "title": "NHTSA probes 1.2M Tesla Model 3, Model Y over suspension failures",
-          "link": "https://electrek.co/2026/07/31/nhtsa-probes-tesla-model-3-model-y-suspension-failures/",
-          "source": "Electrek",
-          "published": "2026-07-31T15:57:26+00:00"
-        },
-        {
-          "title": "Ford CEO Thinks Chinese EVs Could Hit The U.S. Within 5 To 10 Years: Report",
-          "link": "https://insideevs.com/news/803284/ford-china-evs-5-years/",
-          "source": "InsideEVs",
-          "published": "2026-07-31T15:36:13+00:00"
-        },
-        {
-          "title": "HMP’s new $3,999 electric scooter is the affordable, street-legal commuter the US needs",
-          "link": "https://electrek.co/2026/07/31/hmps-new-3999-electric-scooter-is-the-affordable-street-legal-commuter-the-us-needs/",
-          "source": "Electrek",
-          "published": "2026-07-31T15:24:00+00:00"
-        },
-        {
-          "title": "Hyundai IONIQ 5 spotted with a new high-tech setup and large 18″ digital screen",
-          "link": "https://electrek.co/2026/07/31/hyundai-ioniq-5-spotted-new-high-tech-setup-18-screen/",
-          "source": "Electrek",
-          "published": "2026-07-31T14:16:57+00:00"
-        },
-        {
-          "title": "Anyland Rev Pro e-motos have this one weird trick…auto wheelies!",
-          "link": "https://electrek.co/2026/07/31/anyland-rev-pro-e-motos-have-this-one-weird-trick-auto-wheelies/",
-          "source": "Electrek",
-          "published": "2026-07-31T12:55:13+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 26,
+      "count": 27,
       "items": [
+        {
+          "title": "VinFast Debuts Electric Scooter Lineup and Battery-Swapping Network in the Philippines",
+          "link": "https://cleantechnica.com/2026/08/03/vinfast-debuts-electric-scooter-lineup-and-battery-swapping-network-in-the-philippines/",
+          "source": "CleanTechnica",
+          "published": "2026-08-03T19:54:05+00:00"
+        },
         {
           "title": "Base Power raises $1B to roll out its giant new home battery",
           "link": "https://electrek.co/2026/08/03/base-power-raises-1b-to-roll-out-its-giant-new-home-battery/",
@@ -417,6 +423,12 @@
       "count": 7,
       "items": [
         {
+          "title": "Geely Galaxy Battleship 700 tri-motor stuffs 1,113 hp in a high-luxe, boxy package",
+          "link": "https://electrek.co/2026/08/03/geely-galaxy-battleship-700-tri-motor-stuffs-1113-hp-in-a-high-luxe-boxy-package/",
+          "source": "Electrek",
+          "published": "2026-08-04T01:27:43+00:00"
+        },
+        {
           "title": "Aniioki’s latest 6,000W dual-motor e-bike blurs past the line so much it’s basically an electric motorcycle",
           "link": "https://electrek.co/2026/08/03/aniiokis-latest-6000w-dual-motor-e-bike-blurs-past-the-line-so-much-its-basically-an-electric-motorcycle/",
           "source": "Electrek",
@@ -433,12 +445,6 @@
           "link": "https://electrek.co/2026/07/31/hmps-new-3999-electric-scooter-is-the-affordable-street-legal-commuter-the-us-needs/",
           "source": "Electrek",
           "published": "2026-07-31T15:24:00+00:00"
-        },
-        {
-          "title": "This Quad-Motor Electric Land Rover Defender Restomod Has More Range Than Some Teslas",
-          "link": "https://insideevs.com/news/803290/electric-land-rover-defender-restomod/",
-          "source": "InsideEVs",
-          "published": "2026-07-30T20:55:52+00:00"
         },
         {
           "title": "한국인 최초 F1에 도전하는 이규호, 이번 주 GB3 실버스톤 출격",
@@ -465,6 +471,12 @@
       "label": "로봇",
       "count": 21,
       "items": [
+        {
+          "title": "igus launches energy chain with 600-degree rotation for industrial robots",
+          "link": "https://www.therobotreport.com/igus-launches-energy-chain-600-degree-rotation-industrial-robots/",
+          "source": "The Robot Report",
+          "published": "2026-08-03T21:06:07+00:00"
+        },
         {
           "title": "경북도, 자동차 부품 제조 AI 로봇 확산 거점 구축",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47746",
@@ -574,12 +586,6 @@
           "published": "2026-07-28T14:59:58+00:00"
         },
         {
-          "title": "How integrated actuators improve humanoid robot joint performance and system integration",
-          "link": "https://www.therobotreport.com/how-integrated-actuators-improve-humanoid-robot-joint-performance-and-system-integration/",
-          "source": "The Robot Report",
-          "published": "2026-07-28T13:25:37+00:00"
-        },
-        {
           "title": "Optical Tech Would Update a Robot’s AI on the Fly",
           "link": "https://spectrum.ieee.org/ai-in-robotics",
           "source": "IEEE Spectrum",
@@ -599,10 +605,10 @@
       "count": 40,
       "items": [
         {
-          "title": "MS, 첫 실시간 양방향 음성 AI 'MAI 리얼타임' 테스트 중",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213471",
+          "title": "[8월3일] '후방 배치 엔지니어'의 등장...AI, 회사 자체를 다시 설계한다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213464",
           "source": "AI타임스",
-          "published": "2026-08-03T18:02:36+00:00"
+          "published": "2026-08-04T07:00:00+00:00"
         },
         {
           "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
