@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T08:30:41.483064+00:00",
+  "generated_at": "2026-08-05T14:01:53.832833+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,34 @@
       "count": 40,
       "items": [
         {
-          "title": "[AD]현대자동차, 전북자치도·전북대와 미래산업 인재육성 협력",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44251",
+          "title": "2,398만 원부터, 디 올 뉴 아반떼 계약 개시",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44266",
           "source": "모터그래프",
-          "published": "2026-08-05T15:08:39+00:00"
+          "published": "2026-08-05T17:36:51+00:00"
+        },
+        {
+          "title": "A month after Congress killed the solar tax credit, the industry is anything but dead",
+          "link": "https://electrek.co/2026/08/05/a-month-after-congress-killed-the-solar-tax-credit-the-industry-is-anything-but-dead/",
+          "source": "Electrek",
+          "published": "2026-08-05T13:23:19+00:00"
+        },
+        {
+          "title": "NYC Council preparing nearly 20 new e-bike laws and restrictions",
+          "link": "https://electrek.co/2026/08/05/nyc-council-preparing-nearly-20-new-e-bike-laws-and-restrictions/",
+          "source": "Electrek",
+          "published": "2026-08-05T13:14:00+00:00"
+        },
+        {
+          "title": "After Years Of Delays, Aptera Is Finally Preparing To Build Customer Cars",
+          "link": "https://insideevs.com/news/803841/apter-prepares-first-customer-evs/",
+          "source": "InsideEVs",
+          "published": "2026-08-05T10:37:58+00:00"
+        },
+        {
+          "title": "Rivian Is Adding A Second Shift To The R2 Assembly Line. Here’s Why It Matters",
+          "link": "https://insideevs.com/news/803837/rivian-r2-double-shift-normal-illinois/",
+          "source": "InsideEVs",
+          "published": "2026-08-05T09:26:49+00:00"
         },
         {
           "title": "Oregon's EV Rebates Are Back. Here's How To Get Up To $7,500",
@@ -221,37 +245,13 @@
           "link": "https://insideevs.com/features/803439/ev-start-stop-button-why/",
           "source": "InsideEVs",
           "published": "2026-08-03T16:47:23+00:00"
-        },
-        {
-          "title": "Tesla FSD v14 Lite tied to rising HW3 computer failures, owners report",
-          "link": "https://electrek.co/2026/08/03/tesla-fsd-v14-lite-hw3-computer-failures/",
-          "source": "Electrek",
-          "published": "2026-08-03T16:02:35+00:00"
-        },
-        {
-          "title": "Telo Says Its Tiny EV Truck Can Tow More Than A Base Ford F-150",
-          "link": "https://insideevs.com/news/803579/telo-tiny-ev-pickup-tow-capacity-update/",
-          "source": "InsideEVs",
-          "published": "2026-08-03T15:52:56+00:00"
-        },
-        {
-          "title": "Volvo’s next electric SUV will start in the upper $40,000 range",
-          "link": "https://electrek.co/2026/08/03/volvos-next-electric-suv-will-start-in-the-upper-40000-range/",
-          "source": "Electrek",
-          "published": "2026-08-03T15:49:39+00:00"
-        },
-        {
-          "title": "Volvo's New EX50 Will Be A Sub-$50,000 Tesla Model Y Fighter: Report",
-          "link": "https://insideevs.com/news/803575/volvo-ex50-electric-crossover-spa3-platform-tesla-rival/",
-          "source": "InsideEVs",
-          "published": "2026-08-03T15:34:47+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 32,
+      "count": 31,
       "items": [
         {
           "title": "Oregon's EV Rebates Are Back. Here's How To Get Up To $7,500",
@@ -438,12 +438,6 @@
           "link": "https://electrek.co/2026/07/26/kalmar-ottawa-electric-yard-truck-gets-to-work-in-canada/",
           "source": "Electrek",
           "published": "2026-07-26T13:57:27+00:00"
-        },
-        {
-          "title": "Another day at the office: Fortescue CEO test drives 150 ton haul truck [video]",
-          "link": "https://electrek.co/2026/07/25/another-day-at-the-office-fortescue-ceo-test-drives-150-ton-haul-truck-video/",
-          "source": "Electrek",
-          "published": "2026-07-26T00:43:27+00:00"
         }
       ]
     },
@@ -490,10 +484,10 @@
       "count": 22,
       "items": [
         {
-          "title": "오늘의 로봇 기업 주식 시세(2026-08-05)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47769",
+          "title": "HD현대 자체 개발 지능형 용접 시스템, 美 잉걸스 조선소에 도입",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47782",
           "source": "로봇신문",
-          "published": "2026-08-05T15:36:30+00:00"
+          "published": "2026-08-05T17:35:05+00:00"
         },
         {
           "title": "Zoox unveils production-ready robotaxi for U.S. expansion",
@@ -629,10 +623,10 @@
       "count": 40,
       "items": [
         {
-          "title": "커서, 블랙웰 서버 전용 MoE 커널 'MoK' 공개…학습 처리량 41% 향상",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213572",
+          "title": "화웨이 최고 과학자 \"엔비디아도 칩 제조 물리적 한계 봉착할 것\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213568",
           "source": "AI타임스",
-          "published": "2026-08-05T17:05:19+00:00"
+          "published": "2026-08-05T18:01:58+00:00"
         },
         {
           "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
