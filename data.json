@@ -1,11 +1,53 @@
 {
-  "generated_at": "2026-08-04T19:27:52.304607+00:00",
+  "generated_at": "2026-08-05T02:12:00.747488+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Lucid’s smaller Cosmos SUV, slated for 2026, has been pushed back to 2027",
+          "link": "https://electrek.co/2026/08/04/lucids-smaller-cosmos-suv-slated-for-2026-has-been-pushed-back-to-2027/",
+          "source": "Electrek",
+          "published": "2026-08-04T23:24:17+00:00"
+        },
+        {
+          "title": "Lucid Delays Midsize EV Launch To 2027 As Part Of Turnaround Plan",
+          "link": "https://insideevs.com/news/803792/lucid-midsize-ev-production-2027/",
+          "source": "InsideEVs",
+          "published": "2026-08-04T22:59:24+00:00"
+        },
+        {
+          "title": "EVgo is putting 500+ fast chargers where Americans shop",
+          "link": "https://electrek.co/2026/08/04/evgo-is-putting-500-fast-chargers-where-americans-shop/",
+          "source": "Electrek",
+          "published": "2026-08-04T21:41:29+00:00"
+        },
+        {
+          "title": "Chevy Blazer EV prices remain the same for 2027 despite a few upgrades",
+          "link": "https://electrek.co/2026/08/04/chevy-blazer-ev-prices-2027-upgrades/",
+          "source": "Electrek",
+          "published": "2026-08-04T21:10:47+00:00"
+        },
+        {
+          "title": "Pilot, GM, and EVgo Now Have 300 EV Charging Stations Nationwide",
+          "link": "https://insideevs.com/news/803781/pilot-gm-evgo-charging-stations/",
+          "source": "InsideEVs",
+          "published": "2026-08-04T20:38:10+00:00"
+        },
+        {
+          "title": "Toyota announces 2027 bZ prices start at $35,000",
+          "link": "https://electrek.co/2026/08/04/toyota-2027-bz-prices-35000/",
+          "source": "Electrek",
+          "published": "2026-08-04T20:08:30+00:00"
+        },
+        {
+          "title": "I Drove Slate’s $25,000 Electric Truck. It Could Be A Real Game-Changer",
+          "link": "https://insideevs.com/reviews/803784/slate-ev-truck-first-drive-review-2026/",
+          "source": "InsideEVs",
+          "published": "2026-08-04T20:08:13+00:00"
+        },
         {
           "title": "Porsche CEO Confirms The Electric 718 Is Still Coming",
           "link": "https://insideevs.com/news/803753/porsche-718-electric-confirmed-ceo/",
@@ -203,56 +245,26 @@
           "link": "https://electrek.co/2026/08/03/evject-tesla-supercharger-shooting-emergency-disconnect/",
           "source": "Electrek",
           "published": "2026-08-03T14:30:56+00:00"
-        },
-        {
-          "title": "Hyundai and Kia’s record US sales run is showing no signs of slowing down",
-          "link": "https://electrek.co/2026/08/03/hyundai-kias-record-us-sales-run/",
-          "source": "Electrek",
-          "published": "2026-08-03T13:58:42+00:00"
-        },
-        {
-          "title": "Aniioki’s latest 6,000W dual-motor e-bike blurs past the line so much it’s basically an electric motorcycle",
-          "link": "https://electrek.co/2026/08/03/aniiokis-latest-6000w-dual-motor-e-bike-blurs-past-the-line-so-much-its-basically-an-electric-motorcycle/",
-          "source": "Electrek",
-          "published": "2026-08-03T13:34:00+00:00"
-        },
-        {
-          "title": "Ford Recalls 86,000 Mustang Mach-E EVs Over Flying Window Trim Risk",
-          "link": "https://insideevs.com/news/803565/ford-mustang-mach-e-window-trim-recall/",
-          "source": "InsideEVs",
-          "published": "2026-08-03T13:19:00+00:00"
-        },
-        {
-          "title": "Argentina’s solar train brings zero-emission travel to an ancient trade route",
-          "link": "https://electrek.co/2026/08/03/argentinas-solar-train-brings-zero-emission-travel-to-an-ancient-trade-route/",
-          "source": "Electrek",
-          "published": "2026-08-03T12:04:44+00:00"
-        },
-        {
-          "title": "The U.S. Army’s New Unmanned Ground Vehicle Is An Extended-Range EV",
-          "link": "https://insideevs.com/news/803554/us-army-ugv-erev-plug-in-hybrid/",
-          "source": "InsideEVs",
-          "published": "2026-08-03T12:01:17+00:00"
-        },
-        {
-          "title": "Hyundai And Kia Just Set New U.S. Sales Records—But EVs Took A Dive",
-          "link": "https://insideevs.com/news/803521/hyundai-kia-july-record-sales/",
-          "source": "InsideEVs",
-          "published": "2026-08-03T09:06:14+00:00"
-        },
-        {
-          "title": "Here are the best electric bikes you can buy at every price level in August 2026",
-          "link": "https://electrek.co/2026/08/02/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/",
-          "source": "Electrek",
-          "published": "2026-08-02T12:05:00+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 30,
+      "count": 31,
       "items": [
+        {
+          "title": "The Elusive Dream Of Solar Powered EVs Is Not So Elusive After All",
+          "link": "https://cleantechnica.com/2026/08/04/solar-powered-ev-aptera-qualifies-california-hov-lanes/",
+          "source": "CleanTechnica",
+          "published": "2026-08-05T02:05:09+00:00"
+        },
+        {
+          "title": "Energy Discovery Awaits Within the Spin of Atoms",
+          "link": "https://cleantechnica.com/2026/08/04/energy-discovery-awaits-within-the-spin-of-atoms/",
+          "source": "CleanTechnica",
+          "published": "2026-08-04T21:47:04+00:00"
+        },
         {
           "title": "Toyota’s Next Generation Hybrid Batteries Promise Lower Cost, Better Performance",
           "link": "https://insideevs.com/news/803763/toyota-next-generation-hybrid-batteries-2027/",
@@ -356,12 +368,6 @@
           "published": "2026-08-01T06:20:01+00:00"
         },
         {
-          "title": "Xiaomi Sky Nomad Gains Tech-Filled Practicality, Loses Passion",
-          "link": "https://cleantechnica.com/2026/07/31/xiaomi-sky-nomad-gains-tech-filled-practicality-loses-passion/",
-          "source": "CleanTechnica",
-          "published": "2026-07-31T19:59:40+00:00"
-        },
-        {
           "title": "Aventon Level 3 + Pace 4 smart e-bikes at new $1,299 lows ($600 off), EcoFlow GLACIER electric cooler bundles, Anker, more",
           "link": "https://electrek.co/2026/07/31/aventon-level-3-pace-4-smart-e-bikes-ecoflow-glacier-electric-cooler-anker-more/",
           "source": "Electrek",
@@ -438,7 +444,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 6,
+      "count": 5,
       "items": [
         {
           "title": "Geely Galaxy Battleship 700 tri-motor stuffs 1,113 hp in a high-luxe, boxy package",
@@ -451,12 +457,6 @@
           "link": "https://electrek.co/2026/08/03/aniiokis-latest-6000w-dual-motor-e-bike-blurs-past-the-line-so-much-its-basically-an-electric-motorcycle/",
           "source": "Electrek",
           "published": "2026-08-03T13:34:00+00:00"
-        },
-        {
-          "title": "These Hyundai N EVs Share Hardware. Software Makes Them Feel Different",
-          "link": "https://insideevs.com/news/803467/ioniq-5-ioniq-6-n/",
-          "source": "InsideEVs",
-          "published": "2026-08-02T06:00:42+00:00"
         },
         {
           "title": "HMP’s new $3,999 electric scooter is the affordable, street-legal commuter the US needs",
@@ -483,6 +483,18 @@
       "label": "로봇",
       "count": 22,
       "items": [
+        {
+          "title": "Zoox unveils production-ready robotaxi for U.S. expansion",
+          "link": "https://www.therobotreport.com/zoox-unveils-production-ready-robotaxi-for-u-s-expansion/",
+          "source": "The Robot Report",
+          "published": "2026-08-04T19:40:40+00:00"
+        },
+        {
+          "title": "U.S. Navy picks Blue Water Autonomy to use autonomous vessels for deep ocean surveys",
+          "link": "https://www.therobotreport.com/u-s-navy-picks-blue-water-autonomy-to-use-autonomous-vessels-for-deep-ocean-surveys/",
+          "source": "The Robot Report",
+          "published": "2026-08-04T19:33:53+00:00"
+        },
         {
           "title": "유엔디로보틱스, 국토부 건설로봇 대형 R&D과제 공동연구개발기업 선정",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47767",
@@ -586,18 +598,6 @@
           "published": "2026-07-29T14:11:19+00:00"
         },
         {
-          "title": "Registration is open for RoboBusiness 2026",
-          "link": "https://www.therobotreport.com/registration-is-open-for-robobusiness-2026/",
-          "source": "The Robot Report",
-          "published": "2026-07-28T20:54:46+00:00"
-        },
-        {
-          "title": "ENvue Medical develops robotic feeding tube placement system",
-          "link": "https://www.therobotreport.com/envue-medical-develops-robotic-feeding-tube-placement-system/",
-          "source": "The Robot Report",
-          "published": "2026-07-28T19:00:55+00:00"
-        },
-        {
           "title": "Robot Finger Feels in Color",
           "link": "https://spectrum.ieee.org/robot-finger",
           "source": "IEEE Spectrum",
@@ -623,10 +623,10 @@
       "count": 40,
       "items": [
         {
-          "title": "\"가성비 넘어 최첨단 성능까지\"...중국 AI 공세에 미국 개발사 '데드 존' 몰렸다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213523",
+          "title": "[8월4일] 베타 테스터가 본 시리 AI의 강점은 '아이폰 이해력'…\"챗GPT 대체제는 아니다\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213507",
           "source": "AI타임스",
-          "published": "2026-08-04T18:10:31+00:00"
+          "published": "2026-08-05T07:00:00+00:00"
         },
         {
           "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
