@@ -1,11 +1,77 @@
 {
-  "generated_at": "2026-08-06T08:31:05.320963+00:00",
+  "generated_at": "2026-08-06T14:00:36.208270+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "토요타코리아, 고객 참여형 프로그램 ‘TGR 랠리 플레이’ 개최",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44271",
+          "source": "모터그래프",
+          "published": "2026-08-06T18:03:30+00:00"
+        },
+        {
+          "title": "BMW fast-tracks i3 production as strong demand sparks a major ramp-up",
+          "link": "https://electrek.co/2026/08/06/bmw-fast-tracks-i3-production-stronger-than-expected-demand/",
+          "source": "Electrek",
+          "published": "2026-08-06T14:00:00+00:00"
+        },
+        {
+          "title": "Watch Tesla driver plea with police after FSD drove 64 mph in a 45",
+          "link": "https://electrek.co/2026/08/06/tesla-driver-blames-fsd-speeding-police-stop/",
+          "source": "Electrek",
+          "published": "2026-08-06T13:56:21+00:00"
+        },
+        {
+          "title": "This EV Never Hit Peak Power. But It Still Beat Its Charging Claim",
+          "link": "https://insideevs.com/news/804001/zeekr-7gt-lfp-charging-test/",
+          "source": "InsideEVs",
+          "published": "2026-08-06T13:28:51+00:00"
+        },
+        {
+          "title": "Ford's Affordable Electric Truck Finally Has A Name And A Price",
+          "link": "https://insideevs.com/news/803940/ford-fathom-price-name-reveal-electric-truck/",
+          "source": "InsideEVs",
+          "published": "2026-08-06T13:01:00+00:00"
+        },
+        {
+          "title": "Ford’s affordable EV pickup is named Fathom, and it will start at $28,350",
+          "link": "https://electrek.co/2026/08/06/fords-affordable-ev-pickup-named-fathom-priced-from-28350/",
+          "source": "Electrek",
+          "published": "2026-08-06T13:00:00+00:00"
+        },
+        {
+          "title": "Tesla starts Megapack 3 production with 28% more energy per unit",
+          "link": "https://electrek.co/2026/08/06/tesla-megapack-3-production-starts-texas/",
+          "source": "Electrek",
+          "published": "2026-08-06T12:52:24+00:00"
+        },
+        {
+          "title": "World’s first sodium-ion electric haul truck gets to work in China",
+          "link": "https://electrek.co/2026/08/06/worlds-first-sodium-ion-electric-haul-truck-gets-to-work-in-china/",
+          "source": "Electrek",
+          "published": "2026-08-06T12:01:37+00:00"
+        },
+        {
+          "title": "Juiced doubles down with 120-mile range e-bike on dual-battery Scrambler Hardtail",
+          "link": "https://electrek.co/2026/08/06/juiced-doubles-down-with-120-mile-range-e-bike-on-dual-battery-scrambler-hardtail/",
+          "source": "Electrek",
+          "published": "2026-08-06T11:56:00+00:00"
+        },
+        {
+          "title": "Ford's EV Sales Are Falling Off A Cliff In America",
+          "link": "https://insideevs.com/news/804013/ford-ev-sales-falling-2026/",
+          "source": "InsideEVs",
+          "published": "2026-08-06T11:10:53+00:00"
+        },
+        {
+          "title": "New York City Is Finally Making EV Charging Easier With 600 New Curbside Chargers",
+          "link": "https://insideevs.com/news/803979/nyc-new-curbside-ev-chargers/",
+          "source": "InsideEVs",
+          "published": "2026-08-06T08:33:44+00:00"
+        },
         {
           "title": "The Mercedes-AMG GT 53 EV Trades Power For Over 500 Miles Of Range",
           "link": "https://insideevs.com/news/803969/amg-gt-four-door-53/",
@@ -77,12 +143,6 @@
           "link": "https://electrek.co/2026/08/05/segway-xafari-e-bike-xyber-e-bike-ecoflow-ecovacs-more/",
           "source": "Electrek",
           "published": "2026-08-05T18:00:00+00:00"
-        },
-        {
-          "title": "2,398만 원부터, 디 올 뉴 아반떼 계약 개시",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44266",
-          "source": "모터그래프",
-          "published": "2026-08-05T17:36:51+00:00"
         },
         {
           "title": "The Porsche Cayenne Turbo EV's Performance Makes No Sense for a 6,000-LB SUV",
@@ -185,74 +245,32 @@
           "link": "https://insideevs.com/reviews/803784/slate-ev-truck-first-drive-review-2026/",
           "source": "InsideEVs",
           "published": "2026-08-04T20:08:13+00:00"
-        },
-        {
-          "title": "Porsche CEO Confirms The Electric 718 Is Still Coming",
-          "link": "https://insideevs.com/news/803753/porsche-718-electric-confirmed-ceo/",
-          "source": "InsideEVs",
-          "published": "2026-08-04T18:57:12+00:00"
-        },
-        {
-          "title": "New Porsche boss says electric 718 is still coming, Taycan isn’t going anywhere",
-          "link": "https://electrek.co/2026/08/04/new-porsche-boss-says-electric-718-is-still-coming-taycan-isnt-going-anywhere/",
-          "source": "Electrek",
-          "published": "2026-08-04T18:13:54+00:00"
-        },
-        {
-          "title": "Segway Max G3 Plus e-scooter $350 off pre-order deal, Beatbot iSkim solar pool skimmer $319, Jackery 72-hour flash sale, tools, more",
-          "link": "https://electrek.co/2026/08/04/segway-max-g3-plus-e-scooter-pre-order-beatbot-iskim-solar-pool-skimmer-jackery-tools-more/",
-          "source": "Electrek",
-          "published": "2026-08-04T18:00:00+00:00"
-        },
-        {
-          "title": "Toyota’s Next Generation Hybrid Batteries Promise Lower Cost, Better Performance",
-          "link": "https://insideevs.com/news/803763/toyota-next-generation-hybrid-batteries-2027/",
-          "source": "InsideEVs",
-          "published": "2026-08-04T17:31:30+00:00"
-        },
-        {
-          "title": "Hyundai confirms the IONIQ 6 N is still on track to launch in the US soon",
-          "link": "https://electrek.co/2026/08/04/hyundai-confirms-ioniq-6-n-on-track-launch-us/",
-          "source": "Electrek",
-          "published": "2026-08-04T17:25:48+00:00"
-        },
-        {
-          "title": "Nissan Wants You To Relax With Its New Electric Camper Van That Fits 4 And Packs 408-Mile Range",
-          "link": "https://insideevs.com/news/803631/nissan-electric-camper-van-relax/",
-          "source": "InsideEVs",
-          "published": "2026-08-04T16:33:12+00:00"
-        },
-        {
-          "title": "Subaru’s new Trailseeker EV is already outselling its other electric vehicles",
-          "link": "https://electrek.co/2026/08/04/subarus-new-trailseeker-ev-outselling-other-electric-vehicles/",
-          "source": "Electrek",
-          "published": "2026-08-04T15:59:21+00:00"
-        },
-        {
-          "title": "Europe is betting big on a battery that runs for four days",
-          "link": "https://electrek.co/2026/08/04/europe-is-betting-big-on-a-battery-that-runs-for-four-days/",
-          "source": "Electrek",
-          "published": "2026-08-04T15:55:36+00:00"
-        },
-        {
-          "title": "Waymo CEO explains why Tesla’s camera-only self-driving falls short",
-          "link": "https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/",
-          "source": "Electrek",
-          "published": "2026-08-04T15:31:06+00:00"
-        },
-        {
-          "title": "Tesla China sales are crashing as exports surge",
-          "link": "https://electrek.co/2026/08/04/tesla-china-sales-crash-exports-surge-h1-2026/",
-          "source": "Electrek",
-          "published": "2026-08-04T14:17:00+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 28,
+      "count": 30,
       "items": [
+        {
+          "title": "Tesla starts Megapack 3 production with 28% more energy per unit",
+          "link": "https://electrek.co/2026/08/06/tesla-megapack-3-production-starts-texas/",
+          "source": "Electrek",
+          "published": "2026-08-06T12:52:24+00:00"
+        },
+        {
+          "title": "World’s first sodium-ion electric haul truck gets to work in China",
+          "link": "https://electrek.co/2026/08/06/worlds-first-sodium-ion-electric-haul-truck-gets-to-work-in-china/",
+          "source": "Electrek",
+          "published": "2026-08-06T12:01:37+00:00"
+        },
+        {
+          "title": "Juiced doubles down with 120-mile range e-bike on dual-battery Scrambler Hardtail",
+          "link": "https://electrek.co/2026/08/06/juiced-doubles-down-with-120-mile-range-e-bike-on-dual-battery-scrambler-hardtail/",
+          "source": "Electrek",
+          "published": "2026-08-06T11:56:00+00:00"
+        },
         {
           "title": "Electric Mining Truck Uses Sodium-Ion Batteries",
           "link": "https://cleantechnica.com/2026/08/05/electric-mining-truck-uses-sodium-ion-batteries/",
@@ -318,12 +336,6 @@
           "link": "https://electrek.co/2026/08/04/revoy-ev-promises-to-electrify-diesel-semis-in-minutes/",
           "source": "Electrek",
           "published": "2026-08-04T11:20:00+00:00"
-        },
-        {
-          "title": "Audi's New A2 E-Tron Is Its Cheapest EV—And The Most Efficient Car It Has Ever Made",
-          "link": "https://insideevs.com/news/803647/audi-a2-ev-efficiency-official/",
-          "source": "InsideEVs",
-          "published": "2026-08-04T06:20:13+00:00"
         },
         {
           "title": "VinFast Debuts Electric Scooter Lineup and Battery-Swapping Network in the Philippines",
@@ -429,6 +441,12 @@
       "count": 9,
       "items": [
         {
+          "title": "한국인 최초 F1 도전 이규호, GB3 5라운드 세 경기 모두 순위 끌어올려",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44272",
+          "source": "모터그래프",
+          "published": "2026-08-06T18:02:16+00:00"
+        },
+        {
           "title": "The Mercedes-AMG GT 53 EV Trades Power For Over 500 Miles Of Range",
           "link": "https://insideevs.com/news/803969/amg-gt-four-door-53/",
           "source": "InsideEVs",
@@ -471,12 +489,6 @@
           "published": "2026-07-31T15:24:00+00:00"
         },
         {
-          "title": "한국인 최초 F1에 도전하는 이규호, 이번 주 GB3 실버스톤 출격",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44241",
-          "source": "모터그래프",
-          "published": "2026-07-30T17:04:04+00:00"
-        },
-        {
           "title": "Huffy’s kids’ e-bike makes a compelling case for pedal-assisted riding",
           "link": "https://electrek.co/2026/07/29/huffys-kids-e-bike-makes-a-compelling-case-for-pedal-assisted-riding/",
           "source": "Electrek",
@@ -490,10 +502,10 @@
       "count": 22,
       "items": [
         {
-          "title": "오늘의 로봇 기업 주식 시세(2026-08-06)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47789",
+          "title": "고영테크놀러지, 여주 생산센터 증설…AIDC·첨단 반도체 수요 대응 나선다",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47798",
           "source": "로봇신문",
-          "published": "2026-08-06T15:38:12+00:00"
+          "published": "2026-08-06T17:48:19+00:00"
         },
         {
           "title": "Avnet and Weston Robot partner to launch edge AI inspection platform",
@@ -629,10 +641,10 @@
       "count": 40,
       "items": [
         {
-          "title": "오픈AI, 애플의 영업비밀 침해 소송에 “근거 없다”며 기각 신청",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213634",
+          "title": "MS, 사내 개발자 기본 모델로 'GPT-5.6 솔' 지정...\"효율 최우선\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213604",
           "source": "AI타임스",
-          "published": "2026-08-06T17:27:08+00:00"
+          "published": "2026-08-06T17:52:52+00:00"
         },
         {
           "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
