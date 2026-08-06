@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-08-05T19:25:28.504593+00:00",
+  "generated_at": "2026-08-06T02:20:57.250144+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Trump claims electric car drivers have a ‘disease’",
+          "link": "https://electrek.co/2026/08/05/trump-mocks-evs-mandate-claim-las-vegas-rally/",
+          "source": "Electrek",
+          "published": "2026-08-06T01:10:44+00:00"
+        },
+        {
+          "title": "EVgo Will Install Tesla Superchargers At Its Charging Stations",
+          "link": "https://insideevs.com/news/803934/evgo-tesla-superchargers-v4/",
+          "source": "InsideEVs",
+          "published": "2026-08-05T21:44:53+00:00"
+        },
+        {
+          "title": "Tesla Megapacks power Ørsted’s big new Texas grid battery",
+          "link": "https://electrek.co/2026/08/05/tesla-megapack-power-orsted-big-new-texas-grid-battery/",
+          "source": "Electrek",
+          "published": "2026-08-05T20:45:27+00:00"
+        },
+        {
+          "title": "Zoox's Autonomous Pod Without A Steering Wheel Wants Your Money Now",
+          "link": "https://insideevs.com/news/803923/zoox-allowed-charge-robotaxi-rides/",
+          "source": "InsideEVs",
+          "published": "2026-08-05T20:28:16+00:00"
+        },
+        {
+          "title": "Some Owners Say Tesla's New FSD Update Is Causing Their Cars' Computers To Overheat",
+          "link": "https://insideevs.com/news/803866/tesla-autopilot-computer-fsd-overheating/",
+          "source": "InsideEVs",
+          "published": "2026-08-05T19:56:24+00:00"
+        },
+        {
+          "title": "Trump weaponizes FCC to ban new foreign-made connected solar inverters",
+          "link": "https://electrek.co/2026/08/05/fcc-bans-foreign-made-connected-solar-inverters/",
+          "source": "Electrek",
+          "published": "2026-08-05T19:55:00+00:00"
+        },
         {
           "title": "EVgo-branded Tesla Superchargers are coming",
           "link": "https://electrek.co/2026/08/05/evgo-branded-tesla-superchargers-are-coming/",
@@ -209,42 +245,6 @@
           "link": "https://electrek.co/2026/08/04/segways-new-max-g3-plus-electric-scooter-goes-farther-with-more-power-and-better-safety/",
           "source": "Electrek",
           "published": "2026-08-04T13:00:00+00:00"
-        },
-        {
-          "title": "EVgo Is Adding Over 500 New Fast Chargers Where Millions Of Americans Already Shop",
-          "link": "https://insideevs.com/news/803714/evgo-expansion-us-shopping-centers/",
-          "source": "InsideEVs",
-          "published": "2026-08-04T12:44:57+00:00"
-        },
-        {
-          "title": "Elon Musk Hurts Tesla More Than China Ties Hurt BYD, Survey Finds",
-          "link": "https://insideevs.com/news/803697/tesla-elon-image-europe-survey/",
-          "source": "InsideEVs",
-          "published": "2026-08-04T11:59:58+00:00"
-        },
-        {
-          "title": "Revoy hybrid tandem trailer rolls towards reality with $27 million raise",
-          "link": "https://electrek.co/2026/08/04/revoy-ev-promises-to-electrify-diesel-semis-in-minutes/",
-          "source": "Electrek",
-          "published": "2026-08-04T11:20:00+00:00"
-        },
-        {
-          "title": "BYD Claims Its New EV Can Go 683 Miles On A Charge—And Add Hundreds More In 5 Minutes",
-          "link": "https://insideevs.com/news/803684/byd-denza-z9s-longest-range-ev-china/",
-          "source": "InsideEVs",
-          "published": "2026-08-04T09:35:59+00:00"
-        },
-        {
-          "title": "Audi's New A2 E-Tron Is Its Cheapest EV—And The Most Efficient Car It Has Ever Made",
-          "link": "https://insideevs.com/news/803647/audi-a2-ev-efficiency-official/",
-          "source": "InsideEVs",
-          "published": "2026-08-04T06:20:13+00:00"
-        },
-        {
-          "title": "Geely Galaxy Battleship 700 tri-motor stuffs 1,113 hp in a high-luxe, boxy package",
-          "link": "https://electrek.co/2026/08/03/geely-galaxy-battleship-700-tri-motor-stuffs-1113-hp-in-a-high-luxe-boxy-package/",
-          "source": "Electrek",
-          "published": "2026-08-04T01:27:43+00:00"
         }
       ]
     },
@@ -253,6 +253,24 @@
       "label": "배터리",
       "count": 29,
       "items": [
+        {
+          "title": "Electric Mining Truck Uses Sodium-Ion Batteries",
+          "link": "https://cleantechnica.com/2026/08/05/electric-mining-truck-uses-sodium-ion-batteries/",
+          "source": "CleanTechnica",
+          "published": "2026-08-06T00:04:28+00:00"
+        },
+        {
+          "title": "Tesla Megapacks power Ørsted’s big new Texas grid battery",
+          "link": "https://electrek.co/2026/08/05/tesla-megapack-power-orsted-big-new-texas-grid-battery/",
+          "source": "Electrek",
+          "published": "2026-08-05T20:45:27+00:00"
+        },
+        {
+          "title": "Trump weaponizes FCC to ban new foreign-made connected solar inverters",
+          "link": "https://electrek.co/2026/08/05/fcc-bans-foreign-made-connected-solar-inverters/",
+          "source": "Electrek",
+          "published": "2026-08-05T19:55:00+00:00"
+        },
         {
           "title": "Oregon's EV Rebates Are Back. Here's How To Get Up To $7,500",
           "link": "https://insideevs.com/news/803824/oregon-ev-rebate-2026/",
@@ -350,24 +368,6 @@
           "published": "2026-08-02T15:24:29+00:00"
         },
         {
-          "title": "Ember’s Electric Coaches Show Intercity Bus Electrification Is Already Here",
-          "link": "https://cleantechnica.com/2026/08/02/ember-electric-intercity-coaches-scotland/",
-          "source": "CleanTechnica",
-          "published": "2026-08-02T09:03:00+00:00"
-        },
-        {
-          "title": "Janus Battery Swap Trucks Show The Way",
-          "link": "https://cleantechnica.com/2026/08/01/janus-battery-swap-trucks-show-the-way/",
-          "source": "CleanTechnica",
-          "published": "2026-08-02T01:18:21+00:00"
-        },
-        {
-          "title": "KIA Elects To Manufacture The EV3 In Mexico",
-          "link": "https://cleantechnica.com/2026/08/01/kia-elects-to-manufacture-the-ev3-in-mexico/",
-          "source": "CleanTechnica",
-          "published": "2026-08-01T18:41:07+00:00"
-        },
-        {
           "title": "Aventon Level 3 + Pace 4 smart e-bikes at new $1,299 lows ($600 off), EcoFlow GLACIER electric cooler bundles, Anker, more",
           "link": "https://electrek.co/2026/07/31/aventon-level-3-pace-4-smart-e-bikes-ecoflow-glacier-electric-cooler-anker-more/",
           "source": "Electrek",
@@ -432,8 +432,14 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 7,
+      "count": 8,
       "items": [
+        {
+          "title": "Trump weaponizes FCC to ban new foreign-made connected solar inverters",
+          "link": "https://electrek.co/2026/08/05/fcc-bans-foreign-made-connected-solar-inverters/",
+          "source": "Electrek",
+          "published": "2026-08-05T19:55:00+00:00"
+        },
         {
           "title": "The 2027 Toyota bZ Woodland EV starts at $45,000 with AWD",
           "link": "https://electrek.co/2026/08/05/2027-toyota-bz-woodland-prices-45000-awd/",
@@ -623,10 +629,10 @@
       "count": 40,
       "items": [
         {
-          "title": "화웨이 최고 과학자 \"엔비디아도 칩 제조 물리적 한계 봉착할 것\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213568",
+          "title": "[8월5일] \"오픈AI가 무너질 것\"이라는 2년 전 예측...그 이후 무슨 일이 일어났나",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213551",
           "source": "AI타임스",
-          "published": "2026-08-05T18:01:58+00:00"
+          "published": "2026-08-06T07:00:00+00:00"
         },
         {
           "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
