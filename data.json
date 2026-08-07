@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T23:55:41.955547+00:00",
+  "generated_at": "2026-08-07T02:34:15.708602+00:00",
   "categories": [
     {
       "key": "ev",
@@ -25,7 +25,7 @@
           "published": "2026-08-06T21:30:11+00:00"
         },
         {
-          "title": "Another day, another illegal billion-dollar bribe to raise your electricity costs",
+          "title": "Another day, another illegal billion-dollar bribe to raise your electricity prices",
           "link": "https://electrek.co/2026/08/06/another-day-another-illegal-billion-dollar-bribe-to-raise-your-electricity-prices/",
           "source": "Electrek",
           "published": "2026-08-06T21:24:00+00:00"
@@ -251,7 +251,7 @@
     {
       "key": "battery",
       "label": "배터리",
-      "count": 25,
+      "count": 24,
       "items": [
         {
           "title": "Donald Trump Pays Off 5th Energy Company in Attack on Renewable Energy",
@@ -336,12 +336,6 @@
           "link": "https://electrek.co/2026/08/04/revoy-ev-promises-to-electrify-diesel-semis-in-minutes/",
           "source": "Electrek",
           "published": "2026-08-04T11:20:00+00:00"
-        },
-        {
-          "title": "VinFast Debuts Electric Scooter Lineup and Battery-Swapping Network in the Philippines",
-          "link": "https://cleantechnica.com/2026/08/03/vinfast-debuts-electric-scooter-lineup-and-battery-swapping-network-in-the-philippines/",
-          "source": "CleanTechnica",
-          "published": "2026-08-03T19:54:05+00:00"
         },
         {
           "title": "Base Power raises $1B to roll out its giant new home battery",
