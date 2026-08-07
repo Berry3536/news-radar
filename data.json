@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-07T07:10:48.813100+00:00",
+  "generated_at": "2026-08-07T12:56:39.270801+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "다양한 선택지, BMW 코리아 8월 온라인 한정 에디션 3종",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44283",
+          "source": "모터그래프",
+          "published": "2026-08-07T17:03:52+00:00"
+        },
+        {
+          "title": "Mitsubishi joins the humanoid robot race — at a 1,000 unit per month pace",
+          "link": "https://electrek.co/2026/08/07/mitsubishi-joins-the-humanoid-robot-race-at-a-1000-unit-per-month-pace/",
+          "source": "Electrek",
+          "published": "2026-08-07T12:47:40+00:00"
+        },
+        {
+          "title": "Tesla Never Made An Electric Jet Boat, So This YouTuber Built One Himself",
+          "link": "https://insideevs.com/news/804151/tesla-powered-electric-mini-jet-boat/",
+          "source": "InsideEVs",
+          "published": "2026-08-07T09:26:23+00:00"
+        },
+        {
+          "title": "Subaru Is Spending Three Times More To Sell EVs Than Gas Cars. It's Not Working",
+          "link": "https://insideevs.com/news/804136/subaru-ev-spending-sales/",
+          "source": "InsideEVs",
+          "published": "2026-08-07T08:31:41+00:00"
+        },
         {
           "title": "Tesla is racking up speeding tickets, and YOU are on the hook",
           "link": "https://electrek.co/2026/08/06/tesla-is-racking-up-speeding-tickets-and-you-are-on-the-hook/",
@@ -65,12 +89,6 @@
           "link": "https://insideevs.com/news/804079/california-ev-incentive-how-it-works-tesla/",
           "source": "InsideEVs",
           "published": "2026-08-06T18:07:27+00:00"
-        },
-        {
-          "title": "토요타코리아, 고객 참여형 프로그램 ‘TGR 랠리 플레이’ 개최",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44271",
-          "source": "모터그래프",
-          "published": "2026-08-06T18:03:30+00:00"
         },
         {
           "title": "Jackery 1,024Wh HomePower 1000 v2 power station exclusive new $449 low, Greenworks 80V MaximusZ bundle, more",
@@ -227,24 +245,6 @@
           "link": "https://electrek.co/2026/08/05/segway-xafari-e-bike-xyber-e-bike-ecoflow-ecovacs-more/",
           "source": "Electrek",
           "published": "2026-08-05T18:00:00+00:00"
-        },
-        {
-          "title": "The Porsche Cayenne Turbo EV's Performance Makes No Sense for a 6,000-LB SUV",
-          "link": "https://insideevs.com/news/803761/porsche-cayenne-turbo-ev-performance/",
-          "source": "InsideEVs",
-          "published": "2026-08-05T17:34:21+00:00"
-        },
-        {
-          "title": "BYD undercuts luxury rivals with its first 7-seat premium MPV in the UK",
-          "link": "https://electrek.co/2026/08/05/byd-undercuts-luxury-rivals-first-7-seat-mpv-uk/",
-          "source": "Electrek",
-          "published": "2026-08-05T17:14:56+00:00"
-        },
-        {
-          "title": "GM will begin shipping electric Buick vehicles from China overseas, starting with this SUV",
-          "link": "https://electrek.co/2026/08/05/gm-buick-evs-china-overseas-suv/",
-          "source": "Electrek",
-          "published": "2026-08-05T15:46:20+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 24,
       "items": [
+        {
+          "title": "Hydrogen Trains Get Headlines. Battery Trains Get Used.",
+          "link": "https://cleantechnica.com/2026/08/07/hydrogen-trains-vs-battery-trains-fleet-data/",
+          "source": "CleanTechnica",
+          "published": "2026-08-07T09:37:07+00:00"
+        },
         {
           "title": "Donald Trump Pays Off 5th Energy Company in Attack on Renewable Energy",
           "link": "https://cleantechnica.com/2026/08/06/donald-trump-pays-off-5th-energy-company-in-attack-on-renewable-energy/",
@@ -300,12 +306,6 @@
           "link": "https://electrek.co/2026/08/05/fcc-bans-foreign-made-connected-solar-inverters/",
           "source": "Electrek",
           "published": "2026-08-05T19:55:00+00:00"
-        },
-        {
-          "title": "Oregon's EV Rebates Are Back. Here's How To Get Up To $7,500",
-          "link": "https://insideevs.com/news/803824/oregon-ev-rebate-2026/",
-          "source": "InsideEVs",
-          "published": "2026-08-05T08:22:28+00:00"
         },
         {
           "title": "The Elusive Dream Of Solar Powered EVs Is Not So Elusive After All",
@@ -405,10 +405,10 @@
       "count": 9,
       "items": [
         {
-          "title": "한국인 최초 F1 도전 이규호, GB3 5라운드 세 경기 모두 순위 끌어올려",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44272",
+          "title": "토르칼의 몰입형 럭셔리 경험 시스템, 큐레이션 엔진 공개",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44281",
           "source": "모터그래프",
-          "published": "2026-08-06T18:02:16+00:00"
+          "published": "2026-08-07T17:02:49+00:00"
         },
         {
           "title": "The Mercedes-AMG GT 53 EV Trades Power For Over 500 Miles Of Range",
@@ -466,10 +466,10 @@
       "count": 22,
       "items": [
         {
-          "title": "주간 로봇 기업 주가 동향(08/03 ~ 08/07)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47811",
+          "title": "“피지컬 AI 핵심은 '촉각 지능'”…한국햅틱스학술대회, 10일 건국대서 개막",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47818",
           "source": "로봇신문",
-          "published": "2026-08-07T15:41:07+00:00"
+          "published": "2026-08-07T16:32:48+00:00"
         },
         {
           "title": "HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics",
@@ -605,10 +605,10 @@
       "count": 40,
       "items": [
         {
-          "title": "바이트댄스, '미소스'에 맞설 10조 매개변수 모델 개발 추진",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213675",
+          "title": "엔비디아, '루빈 울트라' 메모리 사양 축소 검토...HBM4E 수급 난항 여파",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213662",
           "source": "AI타임스",
-          "published": "2026-08-07T16:02:17+00:00"
+          "published": "2026-08-07T18:47:02+00:00"
         },
         {
           "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
