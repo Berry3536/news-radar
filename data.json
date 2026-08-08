@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-08-08T06:45:51.921198+00:00",
+  "generated_at": "2026-08-08T12:41:03.717826+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Volkswagen’s new electric era begins with reveal of ID. ERA 5X SUV",
+          "link": "https://electrek.co/2026/08/08/volkswagens-new-electric-era-begins-with-reveal-of-id-era-5x-suv/",
+          "source": "Electrek",
+          "published": "2026-08-08T12:38:28+00:00"
+        },
+        {
+          "title": "Ford's Bronco EV Is Better Than It Has Any Right To Be. Why Isn’t It Sold In The U.S.?",
+          "link": "https://insideevs.com/news/804026/ford-bronco-ev-review/",
+          "source": "InsideEVs",
+          "published": "2026-08-08T12:00:00+00:00"
+        },
+        {
+          "title": "NYC declares war on fast e-bikes, sends cease-and-desist letters to Amazon and Walmart",
+          "link": "https://electrek.co/2026/08/08/nyc-declares-war-on-fast-e-bikes-sends-cease-and-desist-letters-to-amazon-and-walmart/",
+          "source": "Electrek",
+          "published": "2026-08-08T11:24:00+00:00"
+        },
         {
           "title": "Kia’s larger electric van caught with less camo ahead of its ‘big’ debut [Images]",
           "link": "https://electrek.co/2026/08/07/kias-larger-ev-van-caught-less-camo-debut-images/",
@@ -227,32 +245,20 @@
           "link": "https://electrek.co/2026/08/06/tesla-megapack-3-production-starts-texas/",
           "source": "Electrek",
           "published": "2026-08-06T12:52:24+00:00"
-        },
-        {
-          "title": "World’s first sodium-ion electric haul truck gets to work in China",
-          "link": "https://electrek.co/2026/08/06/worlds-first-sodium-ion-electric-haul-truck-gets-to-work-in-china/",
-          "source": "Electrek",
-          "published": "2026-08-06T12:01:37+00:00"
-        },
-        {
-          "title": "Juiced doubles down with 120-mile range e-bike on dual-battery Scrambler Hardtail",
-          "link": "https://electrek.co/2026/08/06/juiced-doubles-down-with-120-mile-range-e-bike-on-dual-battery-scrambler-hardtail/",
-          "source": "Electrek",
-          "published": "2026-08-06T11:56:00+00:00"
-        },
-        {
-          "title": "Ford's EV Sales Are Falling Off A Cliff In America",
-          "link": "https://insideevs.com/news/804013/ford-ev-sales-falling-2026/",
-          "source": "InsideEVs",
-          "published": "2026-08-06T11:10:53+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 28,
+      "count": 27,
       "items": [
+        {
+          "title": "World’s Largest 12.8 GWh Battery Storage Cluster Activated in China",
+          "link": "https://cleantechnica.com/2026/08/08/worlds-largest-12-8-gwh-battery-storage-cluster-activated-in-china/",
+          "source": "CleanTechnica",
+          "published": "2026-08-08T10:11:14+00:00"
+        },
         {
           "title": "XPENG Set to Enter the Philippines with the Globalized Mona",
           "link": "https://cleantechnica.com/2026/08/07/xpeng-set-to-enter-the-philippines-with-the-globalized-mona/",
@@ -338,12 +344,6 @@
           "published": "2026-08-05T19:55:00+00:00"
         },
         {
-          "title": "The Elusive Dream Of Solar Powered EVs Is Not So Elusive After All",
-          "link": "https://cleantechnica.com/2026/08/04/solar-powered-ev-aptera-qualifies-california-hov-lanes/",
-          "source": "CleanTechnica",
-          "published": "2026-08-05T02:05:09+00:00"
-        },
-        {
           "title": "Europe is betting big on a battery that runs for four days",
           "link": "https://electrek.co/2026/08/04/europe-is-betting-big-on-a-battery-that-runs-for-four-days/",
           "source": "Electrek",
@@ -414,12 +414,6 @@
           "link": "https://electrek.co/2026/07/29/yozma-in-10-and-in-10-pro-electric-mini-dirt-bikes-ego-880-cfm-blower-hiboy-more/",
           "source": "Electrek",
           "published": "2026-07-29T18:00:00+00:00"
-        },
-        {
-          "title": "Two solid-state EV battery leaders are joining forces to scale the ‘breakthrough’ tech",
-          "link": "https://electrek.co/2026/07/29/solid-state-ev-battery-leaders-team-up/",
-          "source": "Electrek",
-          "published": "2026-07-29T16:51:40+00:00"
         }
       ]
     },
@@ -623,10 +617,10 @@
       "count": 1,
       "items": [
         {
-          "title": "메타, 뉴멕시코주 청소년 정신 건강 기금에 8000억 배상 명령받아",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213707",
+          "title": "'사스포칼립스' 공포 지나자…SaaS 업계, AI 대응 여부로 희비 엇갈렸다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213710",
           "source": "AI타임스",
-          "published": "2026-08-08T13:41:38+00:00"
+          "published": "2026-08-08T19:12:59+00:00"
         }
       ]
     }
