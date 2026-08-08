@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T01:20:36.184969+00:00",
+  "generated_at": "2026-08-08T06:45:51.921198+00:00",
   "categories": [
     {
       "key": "ev",
@@ -251,8 +251,20 @@
     {
       "key": "battery",
       "label": "배터리",
-      "count": 27,
+      "count": 28,
       "items": [
+        {
+          "title": "XPENG Set to Enter the Philippines with the Globalized Mona",
+          "link": "https://cleantechnica.com/2026/08/07/xpeng-set-to-enter-the-philippines-with-the-globalized-mona/",
+          "source": "CleanTechnica",
+          "published": "2026-08-08T02:45:02+00:00"
+        },
+        {
+          "title": "NIO Opens Battery Swapping to Firefly and Launches 5th-Generation Swapping Stations",
+          "link": "https://cleantechnica.com/2026/08/07/nio-opens-battery-swapping-to-firefly-and-launches-5th-generation-swapping-stations/",
+          "source": "CleanTechnica",
+          "published": "2026-08-08T01:47:33+00:00"
+        },
         {
           "title": "U.S. Battery Storage Capacity Averaged 70% Growth Over The Last Three Years",
           "link": "https://cleantechnica.com/2026/08/07/u-s-battery-storage-capacity-averaged-70-growth-over-the-last-three-years/",
@@ -330,12 +342,6 @@
           "link": "https://cleantechnica.com/2026/08/04/solar-powered-ev-aptera-qualifies-california-hov-lanes/",
           "source": "CleanTechnica",
           "published": "2026-08-05T02:05:09+00:00"
-        },
-        {
-          "title": "Energy Discovery Awaits Within the Spin of Atoms",
-          "link": "https://cleantechnica.com/2026/08/04/energy-discovery-awaits-within-the-spin-of-atoms/",
-          "source": "CleanTechnica",
-          "published": "2026-08-04T21:47:04+00:00"
         },
         {
           "title": "Europe is betting big on a battery that runs for four days",
@@ -614,247 +620,13 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 40,
+      "count": 1,
       "items": [
         {
-          "title": "‘클로드’에 백업 맡겼더니 홈 디렉토리 전체 삭제...\"미안, 오타였다\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213702",
+          "title": "메타, 뉴멕시코주 청소년 정신 건강 기금에 8000억 배상 명령받아",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213707",
           "source": "AI타임스",
-          "published": "2026-08-08T10:10:51+00:00"
-        },
-        {
-          "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
-          "link": "https://arxiv.org/abs/2608.05159",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
-          "link": "https://arxiv.org/abs/2608.05160",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
-          "link": "https://arxiv.org/abs/2608.05168",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction",
-          "link": "https://arxiv.org/abs/2608.05203",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
-          "link": "https://arxiv.org/abs/2608.05204",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "Abstract Event Causal Rules: Induction and Application",
-          "link": "https://arxiv.org/abs/2608.05205",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "Otter: A Time-Aware, History-Conditioned Human Chess AI",
-          "link": "https://arxiv.org/abs/2608.05206",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents",
-          "link": "https://arxiv.org/abs/2608.05212",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "PD-GS: Phoneme-Driven 3DGS for Audio-Driven Talking Heads",
-          "link": "https://arxiv.org/abs/2608.05218",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
-          "link": "https://arxiv.org/abs/2608.05219",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "Small Foundation Models of Human Cognition and Behaviour",
-          "link": "https://arxiv.org/abs/2608.05224",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "Project2Task: Graph-Guided Project-Level Planning for Autonomous Research",
-          "link": "https://arxiv.org/abs/2608.05225",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "TriQua: Reconciling Granularity and Context in Factuality Evaluation",
-          "link": "https://arxiv.org/abs/2608.05228",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "Coherence-Oriented Dream Scene Visualisation",
-          "link": "https://arxiv.org/abs/2608.05233",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "Search2Skill: Skill Distillation Beyond Knowledge Boundaries Via Rubric-Based Reinforcement Learning",
-          "link": "https://arxiv.org/abs/2608.05245",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "LUNAR: Benchmarking Personalized Large Language Models on UNiversal User BehAvioR Logs",
-          "link": "https://arxiv.org/abs/2608.05246",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "WorldClaw: Agentic 3D Open-World Generation at Scale",
-          "link": "https://arxiv.org/abs/2608.05248",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "Posture and Sustainment Optimization Under Adversarial Uncertainty",
-          "link": "https://arxiv.org/abs/2608.05256",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "OrchestraBench: Evaluating Multi-Agent Orchestration Failure Modes, Recovery, and Decomposition Quality",
-          "link": "https://arxiv.org/abs/2608.05263",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "Agentic self-driving microscopy benchmarks support qualification but do not necessarily generalize to unseen tasks",
-          "link": "https://arxiv.org/abs/2608.05266",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "CASCADE: An Agentic Regulatory Network Framework for Patient-Data-Validated Downstream Perturbation Prediction",
-          "link": "https://arxiv.org/abs/2608.05359",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "Counterfactual Analysis via Large Language Models",
-          "link": "https://arxiv.org/abs/2608.05367",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "DoctorAgents: an agentic framework to iteratively refine AutoML pipeline for small clinical temporal data",
-          "link": "https://arxiv.org/abs/2608.05375",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "C$^3$PO: Evaluating Cross-Modal Composition and Counterfactual Performance in Omnimodal Models",
-          "link": "https://arxiv.org/abs/2608.05381",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "Adaptive Arena-based Contestable Argumentative Network-of-Experts for Open-Ended Care Plan Coordination",
-          "link": "https://arxiv.org/abs/2608.05391",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "Evaluating and Improving Pedagogical Fit in LLM-Based AI Tutors with the Pedagogical Suitability Index",
-          "link": "https://arxiv.org/abs/2608.05411",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "Negotiating Risk Boundaries in AI for Policing Through Mixed-Stakeholder Deliberation",
-          "link": "https://arxiv.org/abs/2608.05418",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "SCP-NL2TL: Selective Conformal Prediction with Semantic Verification for Natural Language to Temporal Logic Specifications",
-          "link": "https://arxiv.org/abs/2608.05439",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "Stochasticity Is Not the Hard Part: Reduction and Complexity in Instructional Sequencing over Prerequisite DAGs",
-          "link": "https://arxiv.org/abs/2608.05455",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "Recursive Synthesis for Long-Horizon Terminal Tasks",
-          "link": "https://arxiv.org/abs/2608.05466",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "Innovation-Residual Auditing of Autonomous Analysis Agents: Localization, Detection Limits, Error Control, and Identifiability",
-          "link": "https://arxiv.org/abs/2608.05490",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "EcoAgent-Bench: Evaluating Economic Decision-Making in Budget-Constrained LLM Agents",
-          "link": "https://arxiv.org/abs/2608.05519",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "Hyper-ES: Effective Evolution Strategies for LLM Reasoning via Descent Direction Merging",
-          "link": "https://arxiv.org/abs/2608.05541",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "SkillTV-Bench: Benchmarking How Well Judges Perform on Skill-Augmented Agentic Execution",
-          "link": "https://arxiv.org/abs/2608.05573",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "StepReflect: Structured UI Transition Reflection for Mobile GUI Agents",
-          "link": "https://arxiv.org/abs/2608.05587",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "Epistemic Trustworthiness in Generative AI: A Normative Framework for Warranted Reliance in High-Stakes Workflows",
-          "link": "https://arxiv.org/abs/2608.05602",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "Measuring and Detecting Harmful AI Sycophancy",
-          "link": "https://arxiv.org/abs/2608.05624",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "SkillHEX: Improving Agent Skills via Hypothesis-Driven Autonomous Exploration and Exploitation",
-          "link": "https://arxiv.org/abs/2608.05628",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
-          "title": "Bayesian Expected Uncertainty Reduction (B-EUR) Model: A Computational Account of What Makes Design Options Worth Trying",
-          "link": "https://arxiv.org/abs/2608.05642",
-          "source": "arXiv cs.AI",
-          "published": "2026-08-07T04:00:00+00:00"
+          "published": "2026-08-08T13:41:38+00:00"
         }
       ]
     }
