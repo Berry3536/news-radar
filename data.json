@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-08T12:41:03.717826+00:00",
+  "generated_at": "2026-08-08T18:33:02.885762+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Sneaky safari: Thula Solutions’ electric 4×4 gets you closer to nature [video]",
+          "link": "https://electrek.co/2026/08/08/sneaky-safari-thula-solutions-electric-4x4-gets-you-closer-to-nature-video/",
+          "source": "Electrek",
+          "published": "2026-08-08T14:05:17+00:00"
+        },
+        {
+          "title": "Heavy equipment space race heats up with new Vermeer lunar excavator [update]",
+          "link": "https://electrek.co/2026/08/08/heavy-equipment-space-race-heats-up-with-new-vermeer-lunar-excavator/",
+          "source": "Electrek",
+          "published": "2026-08-08T13:00:11+00:00"
+        },
+        {
+          "title": "GM is making EV charging a LOT easier",
+          "link": "https://electrek.co/2026/08/08/gm-is-making-ev-charging-a-lot-easier/",
+          "source": "Electrek",
+          "published": "2026-08-08T13:00:00+00:00"
+        },
+        {
+          "title": "What Rivian And Lucid's Latest Earnings Say About The EV Startup Race",
+          "link": "https://insideevs.com/news/804241/rivian-r2-lucid-cosmos-ev-startup-challenges/",
+          "source": "InsideEVs",
+          "published": "2026-08-08T13:00:00+00:00"
+        },
         {
           "title": "Volkswagen’s new electric era begins with reveal of ID. ERA 5X SUV",
           "link": "https://electrek.co/2026/08/08/volkswagens-new-electric-era-begins-with-reveal-of-id-era-5x-suv/",
@@ -221,37 +245,13 @@
           "link": "https://electrek.co/2026/08/06/tesla-driver-blames-fsd-speeding-police-stop/",
           "source": "Electrek",
           "published": "2026-08-06T13:56:21+00:00"
-        },
-        {
-          "title": "This EV Never Hit Peak Power. But It Still Beat Its Charging Claim",
-          "link": "https://insideevs.com/news/804001/zeekr-7gt-lfp-charging-test/",
-          "source": "InsideEVs",
-          "published": "2026-08-06T13:28:51+00:00"
-        },
-        {
-          "title": "Ford's Affordable Electric Truck Finally Has A Name And A Price",
-          "link": "https://insideevs.com/news/803940/ford-fathom-price-name-reveal-electric-truck/",
-          "source": "InsideEVs",
-          "published": "2026-08-06T13:01:00+00:00"
-        },
-        {
-          "title": "Ford’s affordable EV pickup is named Fathom, and it will start at $28,350",
-          "link": "https://electrek.co/2026/08/06/fords-affordable-ev-pickup-named-fathom-priced-from-28350/",
-          "source": "Electrek",
-          "published": "2026-08-06T13:00:00+00:00"
-        },
-        {
-          "title": "Tesla starts Megapack 3 production with 28% more energy per unit",
-          "link": "https://electrek.co/2026/08/06/tesla-megapack-3-production-starts-texas/",
-          "source": "Electrek",
-          "published": "2026-08-06T12:52:24+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 27,
+      "count": 26,
       "items": [
         {
           "title": "World’s Largest 12.8 GWh Battery Storage Cluster Activated in China",
@@ -408,12 +408,6 @@
           "link": "https://electrek.co/2026/07/30/plug-in-port-brazilian-port-of-santos-electrifies-dp-world-terminal/",
           "source": "Electrek",
           "published": "2026-07-30T12:06:28+00:00"
-        },
-        {
-          "title": "Yozma IN 10 and IN 10 Pro electric mini dirt bikes get up to $595 exclusive savings, EGO 880 CFM blower + 2x batteries, Hiboy, more",
-          "link": "https://electrek.co/2026/07/29/yozma-in-10-and-in-10-pro-electric-mini-dirt-bikes-ego-880-cfm-blower-hiboy-more/",
-          "source": "Electrek",
-          "published": "2026-07-29T18:00:00+00:00"
         }
       ]
     },
@@ -478,6 +472,18 @@
       "count": 22,
       "items": [
         {
+          "title": "국내 최대 청소년 로봇 축제 ‘2026 월드 로봇 올림피아드 한국대회' 충북 청주에서 개막",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47819",
+          "source": "로봇신문",
+          "published": "2026-08-09T01:23:25+00:00"
+        },
+        {
+          "title": "Experts look ahead at the next 20 years of robotics at RoboBusiness",
+          "link": "https://www.therobotreport.com/experts-look-ahead-at-the-next-20-years-of-robotics-at-robobusiness/",
+          "source": "The Robot Report",
+          "published": "2026-08-08T12:30:52+00:00"
+        },
+        {
           "title": "Building robots that survive the warehouse",
           "link": "https://www.therobotreport.com/building-robots-that-survive-warehouse/",
           "source": "The Robot Report",
@@ -494,12 +500,6 @@
           "link": "https://www.therobotreport.com/avatar-robotics-raises-6-5-m-seed-round-address-industrial-labor-constraints/",
           "source": "The Robot Report",
           "published": "2026-08-07T19:57:22+00:00"
-        },
-        {
-          "title": "“피지컬 AI 핵심은 '촉각 지능'”…한국햅틱스학술대회, 10일 건국대서 개막",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47818",
-          "source": "로봇신문",
-          "published": "2026-08-07T16:32:48+00:00"
         },
         {
           "title": "Video Friday: Drones Go Heavy in DARPA Lift Challenge",
@@ -578,12 +578,6 @@
           "link": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
           "source": "IEEE Spectrum",
           "published": "2026-08-04T11:00:01+00:00"
-        },
-        {
-          "title": "igus launches energy chain with 600-degree rotation for industrial robots",
-          "link": "https://www.therobotreport.com/igus-launches-energy-chain-600-degree-rotation-industrial-robots/",
-          "source": "The Robot Report",
-          "published": "2026-08-03T21:06:07+00:00"
         },
         {
           "title": "Walden Robotics Partners With Toyota on Practical Humanoids",
