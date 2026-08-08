@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-08-07T18:51:55.480408+00:00",
+  "generated_at": "2026-08-08T01:20:36.184969+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Kia’s larger electric van caught with less camo ahead of its ‘big’ debut [Images]",
+          "link": "https://electrek.co/2026/08/07/kias-larger-ev-van-caught-less-camo-debut-images/",
+          "source": "Electrek",
+          "published": "2026-08-07T20:19:20+00:00"
+        },
+        {
+          "title": "EV Reveals Have Gotten Way, Way Too Drawn Out. The Ford Fathom Proves It",
+          "link": "https://insideevs.com/features/804221/ev-development-cycles-too-long/",
+          "source": "InsideEVs",
+          "published": "2026-08-07T19:44:54+00:00"
+        },
+        {
+          "title": "Podcast: Ford Fathom cheap pickup EV, Audi A2, Trump on EVs, and more",
+          "link": "https://electrek.co/2026/08/07/podcast-ford-fathom-cheap-pickup-ev-audi-a2-trump-on-evs-and-more/",
+          "source": "Electrek",
+          "published": "2026-08-07T19:21:14+00:00"
+        },
         {
           "title": "Navee UT5 Ultra X superscooter $1,955 low, EGO Nexus power station bundle $799 low, Aventon $1,299 flash sale e-bike lows, more",
           "link": "https://electrek.co/2026/08/07/navee-ut5-ultra-x-superscooter-ego-nexus-power-station-aventon-e-bikes-more/",
@@ -31,7 +49,7 @@
           "published": "2026-08-07T17:03:52+00:00"
         },
         {
-          "title": "Details of new Smart car leaked in regulatory filing… but you can’t have it",
+          "title": "China’s getting a new Smart car and you can’t have it",
           "link": "https://electrek.co/2026/08/07/details-of-new-smart-car-leaked-in-regulatory-filing-but-you-cant-have-it/",
           "source": "Electrek",
           "published": "2026-08-07T16:06:27+00:00"
@@ -227,32 +245,26 @@
           "link": "https://insideevs.com/news/804013/ford-ev-sales-falling-2026/",
           "source": "InsideEVs",
           "published": "2026-08-06T11:10:53+00:00"
-        },
-        {
-          "title": "New York City Is Finally Making EV Charging Easier With 600 New Curbside Chargers",
-          "link": "https://insideevs.com/news/803979/nyc-new-curbside-ev-chargers/",
-          "source": "InsideEVs",
-          "published": "2026-08-06T08:33:44+00:00"
-        },
-        {
-          "title": "The Mercedes-AMG GT 53 EV Trades Power For Over 500 Miles Of Range",
-          "link": "https://insideevs.com/news/803969/amg-gt-four-door-53/",
-          "source": "InsideEVs",
-          "published": "2026-08-06T08:00:00+00:00"
-        },
-        {
-          "title": "Lucid Cosmos Mid-Size SUV: Here’s A First Look At The Tesla Model Y Rival",
-          "link": "https://insideevs.com/news/803958/lucid-cosmos-mid-size-ev-first-look-photos/",
-          "source": "InsideEVs",
-          "published": "2026-08-06T06:56:16+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 25,
+      "count": 27,
       "items": [
+        {
+          "title": "U.S. Battery Storage Capacity Averaged 70% Growth Over The Last Three Years",
+          "link": "https://cleantechnica.com/2026/08/07/u-s-battery-storage-capacity-averaged-70-growth-over-the-last-three-years/",
+          "source": "CleanTechnica",
+          "published": "2026-08-08T00:32:31+00:00"
+        },
+        {
+          "title": "U.S. Solar and Storage Industry Statement on New Sec. 232 Tariffs on Solar",
+          "link": "https://cleantechnica.com/2026/08/07/u-s-solar-and-storage-industry-statement-on-new-sec-232-tariffs-on-solar/",
+          "source": "CleanTechnica",
+          "published": "2026-08-07T19:13:58+00:00"
+        },
         {
           "title": "Navee UT5 Ultra X superscooter $1,955 low, EGO Nexus power station bundle $799 low, Aventon $1,299 flash sale e-bike lows, more",
           "link": "https://electrek.co/2026/08/07/navee-ut5-ultra-x-superscooter-ego-nexus-power-station-aventon-e-bikes-more/",
@@ -408,7 +420,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 9,
+      "count": 8,
       "items": [
         {
           "title": "토르칼의 몰입형 럭셔리 경험 시스템, 큐레이션 엔진 공개",
@@ -457,12 +469,6 @@
           "link": "https://electrek.co/2026/07/31/hmps-new-3999-electric-scooter-is-the-affordable-street-legal-commuter-the-us-needs/",
           "source": "Electrek",
           "published": "2026-07-31T15:24:00+00:00"
-        },
-        {
-          "title": "Huffy’s kids’ e-bike makes a compelling case for pedal-assisted riding",
-          "link": "https://electrek.co/2026/07/29/huffys-kids-e-bike-makes-a-compelling-case-for-pedal-assisted-riding/",
-          "source": "Electrek",
-          "published": "2026-07-29T14:45:00+00:00"
         }
       ]
     },
@@ -471,6 +477,24 @@
       "label": "로봇",
       "count": 22,
       "items": [
+        {
+          "title": "Building robots that survive the warehouse",
+          "link": "https://www.therobotreport.com/building-robots-that-survive-warehouse/",
+          "source": "The Robot Report",
+          "published": "2026-08-07T22:01:38+00:00"
+        },
+        {
+          "title": "Tacta Systems takes aim at high-skilled manufacturing work with TactaBot",
+          "link": "https://www.therobotreport.com/tacta-systems-takes-aim-high-skilled-manufacturing-work-tactabot/",
+          "source": "The Robot Report",
+          "published": "2026-08-07T21:53:33+00:00"
+        },
+        {
+          "title": "Avatar Robotics raises seed round to address industrial labor constraints",
+          "link": "https://www.therobotreport.com/avatar-robotics-raises-6-5-m-seed-round-address-industrial-labor-constraints/",
+          "source": "The Robot Report",
+          "published": "2026-08-07T19:57:22+00:00"
+        },
         {
           "title": "“피지컬 AI 핵심은 '촉각 지능'”…한국햅틱스학술대회, 10일 건국대서 개막",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47818",
@@ -562,28 +586,10 @@
           "published": "2026-08-03T21:06:07+00:00"
         },
         {
-          "title": "HEBI Robotics earns NASA SBIR grant to fast track miniaturized actuators",
-          "link": "https://www.therobotreport.com/hebi-robotics-earns-nasa-sbir-grant-fast-track-miniaturized-actuators/",
-          "source": "The Robot Report",
-          "published": "2026-08-03T17:17:46+00:00"
-        },
-        {
           "title": "Walden Robotics Partners With Toyota on Practical Humanoids",
           "link": "https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota",
           "source": "IEEE Spectrum",
           "published": "2026-08-03T16:05:39+00:00"
-        },
-        {
-          "title": "Reimagine Robotics emerges from stealth with robots that ‘learn on the job’",
-          "link": "https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/",
-          "source": "The Robot Report",
-          "published": "2026-08-03T07:00:51+00:00"
-        },
-        {
-          "title": "Google DeepMind says Gemini Robotics 2 enables full body control",
-          "link": "https://www.therobotreport.com/google-deepmind-says-gemini-robotics-2-enables-full-body-control/",
-          "source": "The Robot Report",
-          "published": "2026-08-02T12:31:32+00:00"
         },
         {
           "title": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
@@ -611,10 +617,10 @@
       "count": 40,
       "items": [
         {
-          "title": "엔비디아, '루빈 울트라' 메모리 사양 축소 검토...HBM4E 수급 난항 여파",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213662",
+          "title": "‘클로드’에 백업 맡겼더니 홈 디렉토리 전체 삭제...\"미안, 오타였다\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213702",
           "source": "AI타임스",
-          "published": "2026-08-07T18:47:02+00:00"
+          "published": "2026-08-08T10:10:51+00:00"
         },
         {
           "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
