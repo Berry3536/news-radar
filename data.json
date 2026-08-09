@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T18:33:02.885762+00:00",
+  "generated_at": "2026-08-09T01:25:31.120420+00:00",
   "categories": [
     {
       "key": "ev",
@@ -251,8 +251,14 @@
     {
       "key": "battery",
       "label": "배터리",
-      "count": 26,
+      "count": 27,
       "items": [
+        {
+          "title": "Speculations & Musings About The Ford Fathom Electric Pickup Truck",
+          "link": "https://cleantechnica.com/2026/08/08/speculations-musings-about-the-ford-fathom-electric-pickup-truck/",
+          "source": "CleanTechnica",
+          "published": "2026-08-09T00:15:36+00:00"
+        },
         {
           "title": "World’s Largest 12.8 GWh Battery Storage Cluster Activated in China",
           "link": "https://cleantechnica.com/2026/08/08/worlds-largest-12-8-gwh-battery-storage-cluster-activated-in-china/",
@@ -611,10 +617,10 @@
       "count": 1,
       "items": [
         {
-          "title": "'사스포칼립스' 공포 지나자…SaaS 업계, AI 대응 여부로 희비 엇갈렸다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213710",
+          "title": "허사비스, 사임 의사 밝혔으나 구글 만류로 승진…사실상 퇴임 수순",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213712",
           "source": "AI타임스",
-          "published": "2026-08-08T19:12:59+00:00"
+          "published": "2026-08-09T09:21:46+00:00"
         }
       ]
     }
