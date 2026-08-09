@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T01:25:31.120420+00:00",
+  "generated_at": "2026-08-09T06:51:24.636473+00:00",
   "categories": [
     {
       "key": "ev",
@@ -251,8 +251,14 @@
     {
       "key": "battery",
       "label": "배터리",
-      "count": 27,
+      "count": 28,
       "items": [
+        {
+          "title": "Power Systems Have More Flexibility Plans Than Flexible Grids",
+          "link": "https://cleantechnica.com/2026/08/09/grid-flexibility-plans-outpacing-delivery/",
+          "source": "CleanTechnica",
+          "published": "2026-08-09T06:40:17+00:00"
+        },
         {
           "title": "Speculations & Musings About The Ford Fathom Electric Pickup Truck",
           "link": "https://cleantechnica.com/2026/08/08/speculations-musings-about-the-ford-fathom-electric-pickup-truck/",
@@ -617,10 +623,10 @@
       "count": 1,
       "items": [
         {
-          "title": "허사비스, 사임 의사 밝혔으나 구글 만류로 승진…사실상 퇴임 수순",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213712",
+          "title": "스페이스XAI, ‘이매진 이미지 2.0’ 공개...생성 넘어 정밀 편집·일관성 집중",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213713",
           "source": "AI타임스",
-          "published": "2026-08-09T09:21:46+00:00"
+          "published": "2026-08-09T12:31:09+00:00"
         }
       ]
     }
