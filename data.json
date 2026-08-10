@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-08-09T18:36:09.716191+00:00",
+  "generated_at": "2026-08-10T01:27:30.204685+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Survey Sunday: this is how Chinese EVs will make it to America",
+          "link": "https://electrek.co/2026/08/09/survey-sunday-this-is-how-chinese-evs-will-make-it-to-america/",
+          "source": "Electrek",
+          "published": "2026-08-09T19:48:32+00:00"
+        },
         {
           "title": "Pony.ai to put 100,000 autonomous electric trucks on the road by 2030 [video]",
           "link": "https://electrek.co/2026/08/09/pony-ai-to-put-100000-autonomous-electric-trucks-on-the-road-by-2030-video/",
@@ -239,12 +245,6 @@
           "link": "https://electrek.co/2026/08/06/jackery-1024wh-homepower-1000-v2-power-station-greenworks-80v-maximusz-more/",
           "source": "Electrek",
           "published": "2026-08-06T18:00:00+00:00"
-        },
-        {
-          "title": "BMW's Oldest Plant Has Always Made Gas Cars. Starting Next Year, It'll Only Make EVs",
-          "link": "https://insideevs.com/news/804067/bmw-i3-munich-production/",
-          "source": "InsideEVs",
-          "published": "2026-08-06T16:28:21+00:00"
         }
       ]
     },
@@ -484,10 +484,10 @@
       "count": 21,
       "items": [
         {
-          "title": "美 프로코어 테크놀로지스, 1조2000억원에 드론디플로이 인수한다",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47832",
+          "title": "리브스메드, K-수술로봇 '스타크' 식약처 품목허가 신청",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47834",
           "source": "로봇신문",
-          "published": "2026-08-09T20:11:53+00:00"
+          "published": "2026-08-10T09:42:15+00:00"
         },
         {
           "title": "Analog Devices returns as strategic sponsor to aid MassRobotics startups",
