@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T01:27:30.204685+00:00",
+  "generated_at": "2026-08-10T07:26:41.018880+00:00",
   "categories": [
     {
       "key": "ev",
@@ -484,10 +484,10 @@
       "count": 21,
       "items": [
         {
-          "title": "리브스메드, K-수술로봇 '스타크' 식약처 품목허가 신청",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47834",
+          "title": "오늘의 로봇 기업 주식 시세(2026-08-10)",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47840",
           "source": "로봇신문",
-          "published": "2026-08-10T09:42:15+00:00"
+          "published": "2026-08-10T15:37:07+00:00"
         },
         {
           "title": "Analog Devices returns as strategic sponsor to aid MassRobotics startups",
@@ -614,13 +614,247 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 1,
+      "count": 40,
       "items": [
         {
-          "title": "가트너 \"2027년 중국 AI 점유율 50%…특정 국가 의존은 치명적 리스크\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213719",
+          "title": "클라우드플레어, 에이전트 전용 브라우저 ‘카이트서프’ 공개...“자원·비용 획기적 절감”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213756",
           "source": "AI타임스",
-          "published": "2026-08-09T18:23:55+00:00"
+          "published": "2026-08-10T16:21:00+00:00"
+        },
+        {
+          "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+          "link": "https://arxiv.org/abs/2608.06394",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+          "link": "https://arxiv.org/abs/2608.06398",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
+          "link": "https://arxiv.org/abs/2608.06400",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
+          "link": "https://arxiv.org/abs/2608.06402",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "ADIAS: Automated Design of Interactive Agentic Systems",
+          "link": "https://arxiv.org/abs/2608.06410",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "Learning to Predict Middle-Layer Attention in MLLMs for Visual Token Prunin",
+          "link": "https://arxiv.org/abs/2608.06411",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader",
+          "link": "https://arxiv.org/abs/2608.06474",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
+          "link": "https://arxiv.org/abs/2608.06501",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning",
+          "link": "https://arxiv.org/abs/2608.06530",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "TaskSense: Focusing on What Matters in World Models",
+          "link": "https://arxiv.org/abs/2608.06544",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "Divergent Response Modes in Frontier Language Models Under Steering Pressure",
+          "link": "https://arxiv.org/abs/2608.06578",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "Automated item evaluation: Predicting item acceptance and rejection using LLM-generated critiques",
+          "link": "https://arxiv.org/abs/2608.06609",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "NxN E-valuation: Hypothesis Certification via a Conformal CRT Null",
+          "link": "https://arxiv.org/abs/2608.06621",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "Shape Your Feed: An LLM-based Agentic System for Conversational Recommendation",
+          "link": "https://arxiv.org/abs/2608.06632",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "TRACE: A Multi-Layer Benchmark for Human AI Controller Coordination Under Drift and Failure",
+          "link": "https://arxiv.org/abs/2608.06657",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "CellWorld: From Gene-Level Reconstruction to Latent Cell Prediction in Spatial Transcriptomics Foundation Models",
+          "link": "https://arxiv.org/abs/2608.06659",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "Vehicle routing problem using deep reinforcement learning - A case study about truck planning in the industry",
+          "link": "https://arxiv.org/abs/2608.06668",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "A Multi-Agent Framework for Automated Coarse-Grained Molecular Dynamics of Polymers",
+          "link": "https://arxiv.org/abs/2608.06694",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "AgentPatch: Coarse-to-Fine Weak-Task Repair for Merging Agentic Multimodal Large Language Models",
+          "link": "https://arxiv.org/abs/2608.06699",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "WebRider: Persona-Conditioned Intent Controllers for Live-Web Assistance",
+          "link": "https://arxiv.org/abs/2608.06704",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "MolBioKG: Grounding Out-of-Graph Molecules in Biomedical Knowledge Graphs via Multi-Resolution Structural Anchoring",
+          "link": "https://arxiv.org/abs/2608.06713",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "The Optimizer Is the Agent: Reasoning-Driven Search across Prompts, Programs, and ML Workflows",
+          "link": "https://arxiv.org/abs/2608.06714",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "bioMoR: Biology-Guided Mixture-of-Recursions for Effective Genomic Learning",
+          "link": "https://arxiv.org/abs/2608.06727",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "From Cheap Fakes to Pure Synthesis: Addressing the New Era of T2V Fake News Videos",
+          "link": "https://arxiv.org/abs/2608.06732",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "IB-RL: Isolated Bilateral Reinforcement Learning for Strategic Dialogue Agents",
+          "link": "https://arxiv.org/abs/2608.06735",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "MemPrism: Task-Conditioned Relational Memory Views for Long-Horizon Agents",
+          "link": "https://arxiv.org/abs/2608.06745",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "Mind the Gap: A Dual Knowledge Graph Framework for Unified Multi-task User Intent Inference",
+          "link": "https://arxiv.org/abs/2608.06752",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "Capek 0.5: An Execution-Centric Vision-Language Model for Embodied Intelligence",
+          "link": "https://arxiv.org/abs/2608.06756",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "LiFTER: A Grounded Neuro-Symbolic Microscope for Continuous-Time Dynamic Graph Forecasting",
+          "link": "https://arxiv.org/abs/2608.06765",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "Surg-UniWorld: A Unified Surgical World Model with Multimodal Control Experts",
+          "link": "https://arxiv.org/abs/2608.06770",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "Evolving Parallel Algorithm Portfolios via Potential-Aware Instance Generation with LLMs",
+          "link": "https://arxiv.org/abs/2608.06808",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "Gated-BEPO: Confidence-Gated Bellman Credit Assignment for Large Language Model Agents",
+          "link": "https://arxiv.org/abs/2608.06861",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "CEDAR: Agent-Orchestrated Tree Search for Goal-Directed Optimization of Complex Systems",
+          "link": "https://arxiv.org/abs/2608.06871",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "SkillEval: Decomposing Agent Skill Quality into Interpretable Signals",
+          "link": "https://arxiv.org/abs/2608.06891",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "From Points to Edges: Edge-Conditioned Spectral Operators for Physics-Sensitive PDE Learning",
+          "link": "https://arxiv.org/abs/2608.06894",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "Long-Horizon Agent Trajectory Attribution: A Unified Benchmark and Fine-Grained Annotation Framework",
+          "link": "https://arxiv.org/abs/2608.06909",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "Fast LapSum: Exact Differentiable Top-k at Million Scale",
+          "link": "https://arxiv.org/abs/2608.06912",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "ReGraph: Learning to Generate Recipe Graphs from Food Images",
+          "link": "https://arxiv.org/abs/2608.06917",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "Deal Me Maybe: The Role of Emotions in Multi-Agent Negotiation",
+          "link": "https://arxiv.org/abs/2608.06922",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-10T04:00:00+00:00"
         }
       ]
     }
