@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-10T07:26:41.018880+00:00",
+  "generated_at": "2026-08-10T13:00:43.836078+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "혼다코리아, 100대 한정, 최대 600만 원 상당 파격 혜택",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44292",
+          "source": "모터그래프",
+          "published": "2026-08-10T16:56:56+00:00"
+        },
+        {
+          "title": "Why does Monarc build its e-bikes with their forks on backward?",
+          "link": "https://electrek.co/2026/08/10/why-does-monarc-build-its-e-bikes-with-their-forks-on-backward/",
+          "source": "Electrek",
+          "published": "2026-08-10T12:37:00+00:00"
+        },
+        {
+          "title": "This Kit Turns The Volkswagen ID. Buzz Into A More Capable Off-Road Van",
+          "link": "https://insideevs.com/news/804362/vw-id-buzz-off-road-kit/",
+          "source": "InsideEVs",
+          "published": "2026-08-10T12:18:15+00:00"
+        },
+        {
+          "title": "Smart’s Smallest EV Is Back, And It Promises A Lot More Range",
+          "link": "https://insideevs.com/news/804340/smart-2-official-ev/",
+          "source": "InsideEVs",
+          "published": "2026-08-10T09:14:44+00:00"
+        },
         {
           "title": "Survey Sunday: this is how Chinese EVs will make it to America",
           "link": "https://electrek.co/2026/08/09/survey-sunday-this-is-how-chinese-evs-will-make-it-to-america/",
@@ -121,12 +145,6 @@
           "published": "2026-08-07T17:36:14+00:00"
         },
         {
-          "title": "다양한 선택지, BMW 코리아 8월 온라인 한정 에디션 3종",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44283",
-          "source": "모터그래프",
-          "published": "2026-08-07T17:03:52+00:00"
-        },
-        {
           "title": "China’s getting a new Smart car and you can’t have it",
           "link": "https://electrek.co/2026/08/07/details-of-new-smart-car-leaked-in-regulatory-filing-but-you-cant-have-it/",
           "source": "Electrek",
@@ -227,24 +245,6 @@
           "link": "https://electrek.co/2026/08/06/this-1-5-mw-electric-truck-charger-just-cleared-a-key-us-hurdle/",
           "source": "Electrek",
           "published": "2026-08-06T18:58:32+00:00"
-        },
-        {
-          "title": "2027 Toyota C-HR EV pricing is here, starting at $37,080",
-          "link": "https://electrek.co/2026/08/06/2027-toyota-c-hr-ev-pricing-starting-37080/",
-          "source": "Electrek",
-          "published": "2026-08-06T18:32:15+00:00"
-        },
-        {
-          "title": "What To Know About California's $3,500 EV Rebate—And Which Teslas Qualify",
-          "link": "https://insideevs.com/news/804079/california-ev-incentive-how-it-works-tesla/",
-          "source": "InsideEVs",
-          "published": "2026-08-06T18:07:27+00:00"
-        },
-        {
-          "title": "Jackery 1,024Wh HomePower 1000 v2 power station exclusive new $449 low, Greenworks 80V MaximusZ bundle, more",
-          "link": "https://electrek.co/2026/08/06/jackery-1024wh-homepower-1000-v2-power-station-greenworks-80v-maximusz-more/",
-          "source": "Electrek",
-          "published": "2026-08-06T18:00:00+00:00"
         }
       ]
     },
@@ -253,6 +253,18 @@
       "label": "배터리",
       "count": 27,
       "items": [
+        {
+          "title": "$10 Billion Tesla Solar Factory in Texas? And $20–25 Billion TERAFAB Project in Midst of AI Bubble?",
+          "link": "https://cleantechnica.com/2026/08/10/10-billion-tesla-solar-factory-in-texas-and-20-25-billion-terafab-project-in-midst-of-ai-bubble/",
+          "source": "CleanTechnica",
+          "published": "2026-08-10T10:59:56+00:00"
+        },
+        {
+          "title": "Silicon EV Batteries Earn $1.4 Billion Seal Of Approval From Defense Department",
+          "link": "https://cleantechnica.com/2026/08/10/silicon-ev-batteries-earn-1-4-billion-seal-of-approval-from-defense-department/",
+          "source": "CleanTechnica",
+          "published": "2026-08-10T10:55:21+00:00"
+        },
         {
           "title": "Power Systems Have More Flexibility Plans Than Flexible Grids",
           "link": "https://cleantechnica.com/2026/08/09/grid-flexibility-plans-outpacing-delivery/",
@@ -344,12 +356,6 @@
           "published": "2026-08-06T11:56:00+00:00"
         },
         {
-          "title": "Electric Mining Truck Uses Sodium-Ion Batteries",
-          "link": "https://cleantechnica.com/2026/08/05/electric-mining-truck-uses-sodium-ion-batteries/",
-          "source": "CleanTechnica",
-          "published": "2026-08-06T00:04:28+00:00"
-        },
-        {
           "title": "Trump weaponizes FCC to ban new foreign-made connected solar inverters",
           "link": "https://electrek.co/2026/08/05/fcc-bans-foreign-made-connected-solar-inverters/",
           "source": "Electrek",
@@ -408,12 +414,6 @@
           "link": "https://electrek.co/2026/07/30/pjm-grid-largest-battery-is-now-under-construction-in-ohio/",
           "source": "Electrek",
           "published": "2026-07-30T22:55:14+00:00"
-        },
-        {
-          "title": "China is starting to measure EV charging times in seconds, not minutes",
-          "link": "https://electrek.co/2026/07/30/china-is-starting-to-measure-ev-charging-times-in-seconds-not-minutes/",
-          "source": "Electrek",
-          "published": "2026-07-30T14:00:00+00:00"
         }
       ]
     },
@@ -484,10 +484,10 @@
       "count": 21,
       "items": [
         {
-          "title": "오늘의 로봇 기업 주식 시세(2026-08-10)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47840",
+          "title": "“생각하는 로봇, 명상하는 인간”…국립중앙과학관, 광복절 연휴 특별전 운영",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47849",
           "source": "로봇신문",
-          "published": "2026-08-10T15:37:07+00:00"
+          "published": "2026-08-10T19:11:28+00:00"
         },
         {
           "title": "Analog Devices returns as strategic sponsor to aid MassRobotics startups",
@@ -617,10 +617,10 @@
       "count": 40,
       "items": [
         {
-          "title": "클라우드플레어, 에이전트 전용 브라우저 ‘카이트서프’ 공개...“자원·비용 획기적 절감”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213756",
+          "title": "'동시 소통' AI 에이전트 등장…단일 '클로드 오퍼스 4.8' 성적 뛰어넘었다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213766",
           "source": "AI타임스",
-          "published": "2026-08-10T16:21:00+00:00"
+          "published": "2026-08-10T17:56:00+00:00"
         },
         {
           "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
