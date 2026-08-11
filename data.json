@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T12:57:12.735385+00:00",
+  "generated_at": "2026-08-11T18:57:51.462414+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,94 @@
       "count": 40,
       "items": [
         {
+          "title": "Tesla Recalls 20,000 Cars Over Uber-Bright Headlights",
+          "link": "https://insideevs.com/news/804520/tesla-recall-20k-bright-headlights/",
+          "source": "InsideEVs",
+          "published": "2026-08-11T18:39:32+00:00"
+        },
+        {
+          "title": "Kia EV3 is now on sale for under $30,000, and now we know its EPA range",
+          "link": "https://electrek.co/2026/08/11/kia-ev3-prices-start-under-30000-epa-range-revealed/",
+          "source": "Electrek",
+          "published": "2026-08-11T18:10:02+00:00"
+        },
+        {
+          "title": "Anker SOLIX Mega Sale offers up to 48% power station discounts + one-day-only C1000X $399 off, AeroGarden, more",
+          "link": "https://electrek.co/2026/08/11/anker-solix-mega-sale-power-station-c1000x-aerogarden-more/",
+          "source": "Electrek",
+          "published": "2026-08-11T18:00:00+00:00"
+        },
+        {
+          "title": "China sales numbers are in: EVs up while everything with an engine collapses",
+          "link": "https://electrek.co/2026/08/11/china-sales-numbers-are-in-evs-up-while-everything-with-an-engine-collapses/",
+          "source": "Electrek",
+          "published": "2026-08-11T17:47:43+00:00"
+        },
+        {
+          "title": "Chevy Is Giving Up On The Chinese Market",
+          "link": "https://insideevs.com/news/804539/chevrolet-quits-china-give-up/",
+          "source": "InsideEVs",
+          "published": "2026-08-11T17:41:05+00:00"
+        },
+        {
+          "title": "Cadillac will hand-build a custom Escalade IQ for you, but it will cost an extra $55,000",
+          "link": "https://electrek.co/2026/08/11/cadillac-hand-build-custom-escalade-iq-extra-55000/",
+          "source": "Electrek",
+          "published": "2026-08-11T17:23:09+00:00"
+        },
+        {
           "title": "한국토요타자동차, 커넥트투에서 '토요타 가주 레이싱 익스피리언스 데이’ 개최",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44298",
           "source": "모터그래프",
           "published": "2026-08-11T17:00:32+00:00"
+        },
+        {
+          "title": "Tesla recall 20,000 Model 3/Y for headlights that are too bright",
+          "link": "https://electrek.co/2026/08/11/tesla-recall-20000-model-3-y-for-headlights-that-are-too-bright/",
+          "source": "Electrek",
+          "published": "2026-08-11T16:44:26+00:00"
+        },
+        {
+          "title": "Tesla files for $10.1B ‘Project Crystal Sun’ solar factory in Texas",
+          "link": "https://electrek.co/2026/08/11/tesla-solar-cell-factory-texas-project-crystal-sun/",
+          "source": "Electrek",
+          "published": "2026-08-11T16:14:23+00:00"
+        },
+        {
+          "title": "Ukraine debuts mine-resistant all-wheel drive combat electric motorcycle",
+          "link": "https://electrek.co/2026/08/11/ukraine-debuts-mine-resistant-all-wheel-drive-combat-electric-motorcycle/",
+          "source": "Electrek",
+          "published": "2026-08-11T15:29:00+00:00"
+        },
+        {
+          "title": "EV Myth Busted: No, They're Not 'Dirtier' Than Gas Cars, Even If You Use Fossil Fuel Power",
+          "link": "https://insideevs.com/features/804527/evs-arent-dirtier-than-gas/",
+          "source": "InsideEVs",
+          "published": "2026-08-11T15:17:00+00:00"
+        },
+        {
+          "title": "'It's Always Your Fault': Kyle Shanahan's Tesla Was On Autopilot When He Crashed. He Still Blames Himself",
+          "link": "https://insideevs.com/news/804420/49ers-coach-crash-tesla-autopilot/",
+          "source": "InsideEVs",
+          "published": "2026-08-11T14:36:55+00:00"
+        },
+        {
+          "title": "Oil giant rips out gas pumps for BYD’s 1,500 kW EV chargers",
+          "link": "https://electrek.co/2026/08/11/sinopec-byd-gas-station-1500-kw-flash-charging/",
+          "source": "Electrek",
+          "published": "2026-08-11T14:28:35+00:00"
+        },
+        {
+          "title": "The 2027 Audi Q6 e-tron delivers more driving range than expected",
+          "link": "https://electrek.co/2026/08/11/2027-audi-q6-e-tron-delivers-more-driving-range-than-expected/",
+          "source": "Electrek",
+          "published": "2026-08-11T14:10:53+00:00"
+        },
+        {
+          "title": "GM exits $3.5B Indiana battery plant as Samsung SDI takes full control",
+          "link": "https://electrek.co/2026/08/11/gm-sells-indiana-battery-plant-stake-samsung-sdi/",
+          "source": "Electrek",
+          "published": "2026-08-11T13:12:07+00:00"
         },
         {
           "title": "The McLaren P1 Is Getting A Huge Battery Upgrade With 3X The Original Capacity",
@@ -25,7 +109,7 @@
           "published": "2026-08-11T08:27:25+00:00"
         },
         {
-          "title": "GM Walks Away From $3.5B Battery Factory, Leaving Samsung SDI In Full Control",
+          "title": "GM Exits Planned $3.5B Battery Factory, Leaving Samsung SDI In Full Control",
           "link": "https://insideevs.com/news/804446/gm-sells-indiana-battery-factory-stake-samsung-sdi/",
           "source": "InsideEVs",
           "published": "2026-08-11T07:06:58+00:00"
@@ -61,8 +145,8 @@
           "published": "2026-08-10T19:09:43+00:00"
         },
         {
-          "title": "Kia EV3 caught driving in New York as its US launch inches closer [Images]",
-          "link": "https://electrek.co/2026/08/10/kia-ev3-caught-driving-ny-us-launch-inches-closer-images/",
+          "title": "Kia EV3 inches closer to its US launch",
+          "link": "https://electrek.co/2026/08/10/kia-ev3-us-launch/",
           "source": "Electrek",
           "published": "2026-08-10T18:44:47+00:00"
         },
@@ -161,98 +245,50 @@
           "link": "https://insideevs.com/news/804340/smart-2-official-ev/",
           "source": "InsideEVs",
           "published": "2026-08-10T09:14:44+00:00"
-        },
-        {
-          "title": "Survey Sunday: this is how Chinese EVs will make it to America",
-          "link": "https://electrek.co/2026/08/09/survey-sunday-this-is-how-chinese-evs-will-make-it-to-america/",
-          "source": "Electrek",
-          "published": "2026-08-09T19:48:32+00:00"
-        },
-        {
-          "title": "Pony.ai to put 100,000 autonomous electric trucks on the road by 2030 [video]",
-          "link": "https://electrek.co/2026/08/09/pony-ai-to-put-100000-autonomous-electric-trucks-on-the-road-by-2030-video/",
-          "source": "Electrek",
-          "published": "2026-08-09T18:33:34+00:00"
-        },
-        {
-          "title": "After Driving Over 25 Chinese Cars, These Are The 6 I Would Buy",
-          "link": "https://insideevs.com/news/804237/top-six-chinese-cars-wanted/",
-          "source": "InsideEVs",
-          "published": "2026-08-09T12:00:00+00:00"
-        },
-        {
-          "title": "Paris now requires electric scooter riders to wear high-vis vests or face fines",
-          "link": "https://electrek.co/2026/08/09/paris-now-requires-electric-scooter-riders-to-wear-high-vis-vests-or-face-fines/",
-          "source": "Electrek",
-          "published": "2026-08-09T11:13:00+00:00"
-        },
-        {
-          "title": "The Hyundai Ioniq 5 N Has A Range Problem. Smaller Wheels Helped A Lot",
-          "link": "https://insideevs.com/news/804268/ioniq-5n-wheels-improve-range/",
-          "source": "InsideEVs",
-          "published": "2026-08-09T08:56:42+00:00"
-        },
-        {
-          "title": "Zero will pay new riders to get on electric motorcycles… just not in the US",
-          "link": "https://electrek.co/2026/08/09/zero-will-pay-new-riders-to-get-on-electric-motorcycles-just-not-in-the-us/",
-          "source": "Electrek",
-          "published": "2026-08-09T08:22:00+00:00"
-        },
-        {
-          "title": "Sneaky safari: Thula Solutions’ electric 4×4 gets you closer to nature [video]",
-          "link": "https://electrek.co/2026/08/08/sneaky-safari-thula-solutions-electric-4x4-gets-you-closer-to-nature-video/",
-          "source": "Electrek",
-          "published": "2026-08-08T14:05:17+00:00"
-        },
-        {
-          "title": "Heavy equipment space race heats up with new Vermeer lunar excavator [update]",
-          "link": "https://electrek.co/2026/08/08/heavy-equipment-space-race-heats-up-with-new-vermeer-lunar-excavator/",
-          "source": "Electrek",
-          "published": "2026-08-08T13:00:11+00:00"
-        },
-        {
-          "title": "GM is making EV charging a LOT easier",
-          "link": "https://electrek.co/2026/08/08/gm-is-making-ev-charging-a-lot-easier/",
-          "source": "Electrek",
-          "published": "2026-08-08T13:00:00+00:00"
-        },
-        {
-          "title": "What Rivian And Lucid's Latest Earnings Say About The EV Startup Race",
-          "link": "https://insideevs.com/news/804241/rivian-r2-lucid-cosmos-ev-startup-challenges/",
-          "source": "InsideEVs",
-          "published": "2026-08-08T13:00:00+00:00"
-        },
-        {
-          "title": "Volkswagen’s new electric era begins with reveal of ID. ERA 5X SUV",
-          "link": "https://electrek.co/2026/08/08/volkswagens-new-electric-era-begins-with-reveal-of-id-era-5x-suv/",
-          "source": "Electrek",
-          "published": "2026-08-08T12:38:28+00:00"
-        },
-        {
-          "title": "Ford's Bronco EV Is Better Than It Has Any Right To Be. Why Isn’t It Sold In The U.S.?",
-          "link": "https://insideevs.com/news/804026/ford-bronco-ev-review/",
-          "source": "InsideEVs",
-          "published": "2026-08-08T12:00:00+00:00"
-        },
-        {
-          "title": "NYC declares war on fast e-bikes, sends cease-and-desist letters to Amazon and Walmart",
-          "link": "https://electrek.co/2026/08/08/nyc-declares-war-on-fast-e-bikes-sends-cease-and-desist-letters-to-amazon-and-walmart/",
-          "source": "Electrek",
-          "published": "2026-08-08T11:24:00+00:00"
-        },
-        {
-          "title": "Kia’s larger electric van caught with less camo ahead of its ‘big’ debut [Images]",
-          "link": "https://electrek.co/2026/08/07/kias-larger-ev-van-caught-less-camo-debut-images/",
-          "source": "Electrek",
-          "published": "2026-08-07T20:19:20+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 31,
+      "count": 35,
       "items": [
+        {
+          "title": "Anker SOLIX Mega Sale offers up to 48% power station discounts + one-day-only C1000X $399 off, AeroGarden, more",
+          "link": "https://electrek.co/2026/08/11/anker-solix-mega-sale-power-station-c1000x-aerogarden-more/",
+          "source": "Electrek",
+          "published": "2026-08-11T18:00:00+00:00"
+        },
+        {
+          "title": "China sales numbers are in: EVs up while everything with an engine collapses",
+          "link": "https://electrek.co/2026/08/11/china-sales-numbers-are-in-evs-up-while-everything-with-an-engine-collapses/",
+          "source": "Electrek",
+          "published": "2026-08-11T17:47:43+00:00"
+        },
+        {
+          "title": "Organic Flow Batteries Get Another Shot At Long Duration Energy Storage",
+          "link": "https://cleantechnica.com/2026/08/11/energy-storage-organic-flow-battery-us-innovation-startups/",
+          "source": "CleanTechnica",
+          "published": "2026-08-11T16:54:43+00:00"
+        },
+        {
+          "title": "Tesla files for $10.1B ‘Project Crystal Sun’ solar factory in Texas",
+          "link": "https://electrek.co/2026/08/11/tesla-solar-cell-factory-texas-project-crystal-sun/",
+          "source": "Electrek",
+          "published": "2026-08-11T16:14:23+00:00"
+        },
+        {
+          "title": "Ukraine debuts mine-resistant all-wheel drive combat electric motorcycle",
+          "link": "https://electrek.co/2026/08/11/ukraine-debuts-mine-resistant-all-wheel-drive-combat-electric-motorcycle/",
+          "source": "Electrek",
+          "published": "2026-08-11T15:29:00+00:00"
+        },
+        {
+          "title": "GM exits $3.5B Indiana battery plant as Samsung SDI takes full control",
+          "link": "https://electrek.co/2026/08/11/gm-sells-indiana-battery-plant-stake-samsung-sdi/",
+          "source": "Electrek",
+          "published": "2026-08-11T13:12:07+00:00"
+        },
         {
           "title": "The McLaren P1 Is Getting A Huge Battery Upgrade With 3X The Original Capacity",
           "link": "https://insideevs.com/news/804474/mclaren-p1-battery-upgrade/",
@@ -260,7 +296,7 @@
           "published": "2026-08-11T10:19:15+00:00"
         },
         {
-          "title": "GM Walks Away From $3.5B Battery Factory, Leaving Samsung SDI In Full Control",
+          "title": "GM Exits Planned $3.5B Battery Factory, Leaving Samsung SDI In Full Control",
           "link": "https://insideevs.com/news/804446/gm-sells-indiana-battery-factory-stake-samsung-sdi/",
           "source": "InsideEVs",
           "published": "2026-08-11T07:06:58+00:00"
@@ -350,12 +386,6 @@
           "published": "2026-08-07T09:37:07+00:00"
         },
         {
-          "title": "Donald Trump Pays Off 5th Energy Company in Attack on Renewable Energy",
-          "link": "https://cleantechnica.com/2026/08/06/donald-trump-pays-off-5th-energy-company-in-attack-on-renewable-energy/",
-          "source": "CleanTechnica",
-          "published": "2026-08-06T22:46:25+00:00"
-        },
-        {
           "title": "A 500 MWh Tesla Megapack battery just went live in Texas",
           "link": "https://electrek.co/2026/08/06/tesla-megapack-power-orsted-big-new-texas-grid-battery/",
           "source": "Electrek",
@@ -432,25 +462,31 @@
           "link": "https://electrek.co/2026/08/03/aniiokis-latest-6000w-dual-motor-e-bike-blurs-past-the-line-so-much-its-basically-an-electric-motorcycle/",
           "source": "Electrek",
           "published": "2026-08-03T13:34:00+00:00"
-        },
-        {
-          "title": "Aventon Level 3 + Pace 4 smart e-bikes at new $1,299 lows ($600 off), EcoFlow GLACIER electric cooler bundles, Anker, more",
-          "link": "https://electrek.co/2026/07/31/aventon-level-3-pace-4-smart-e-bikes-ecoflow-glacier-electric-cooler-anker-more/",
-          "source": "Electrek",
-          "published": "2026-07-31T18:00:00+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 7,
+      "count": 9,
       "items": [
         {
           "title": "한국토요타자동차, 커넥트투에서 '토요타 가주 레이싱 익스피리언스 데이’ 개최",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44298",
           "source": "모터그래프",
           "published": "2026-08-11T17:00:32+00:00"
+        },
+        {
+          "title": "Ukraine debuts mine-resistant all-wheel drive combat electric motorcycle",
+          "link": "https://electrek.co/2026/08/11/ukraine-debuts-mine-resistant-all-wheel-drive-combat-electric-motorcycle/",
+          "source": "Electrek",
+          "published": "2026-08-11T15:29:00+00:00"
+        },
+        {
+          "title": "GM exits $3.5B Indiana battery plant as Samsung SDI takes full control",
+          "link": "https://electrek.co/2026/08/11/gm-sells-indiana-battery-plant-stake-samsung-sdi/",
+          "source": "Electrek",
+          "published": "2026-08-11T13:12:07+00:00"
         },
         {
           "title": "Zero will pay new riders to get on electric motorcycles… just not in the US",
@@ -496,10 +532,28 @@
       "count": 21,
       "items": [
         {
-          "title": "“논산을 국방로봇 산업 메카로”…충남도, 협력체계 본격 가동",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47870",
+          "title": "로봇과 문화가 만난 미래 인재들의 축제, WRO KOREA 2026 성황리에 막 내려",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47863",
           "source": "로봇신문",
-          "published": "2026-08-11T17:38:42+00:00"
+          "published": "2026-08-12T00:30:36+00:00"
+        },
+        {
+          "title": "PlusAI reaches key milestones ahead of launching its autonomous trucks",
+          "link": "https://www.therobotreport.com/plusai-reaches-key-milestones-ahead-launch-autonomous-trucks/",
+          "source": "The Robot Report",
+          "published": "2026-08-11T17:13:33+00:00"
+        },
+        {
+          "title": "Webinar to discuss safety and scaling robot fleets in the warehouse",
+          "link": "https://www.therobotreport.com/webinar-to-discuss-safety-scaling-robot-fleets-warehouse/",
+          "source": "The Robot Report",
+          "published": "2026-08-11T14:34:31+00:00"
+        },
+        {
+          "title": "The 370-billion-dollar race: How integrated design can help humanoid manufacturers succeed in a rapidly growing market",
+          "link": "https://www.therobotreport.com/the-370-billion-dollar-race-how-integrated-design-can-help-humanoid-manufacturers-succeed-in-a-rapidly-growing-market/",
+          "source": "The Robot Report",
+          "published": "2026-08-11T14:17:22+00:00"
         },
         {
           "title": "RoboStore launches Robo Inc. to help U.S. organizations deploy robots",
@@ -518,6 +572,12 @@
           "link": "https://www.therobotreport.com/tate-deploys-58-hirebotics-cobot-welders-across-multiple-facilities/",
           "source": "The Robot Report",
           "published": "2026-08-10T18:46:22+00:00"
+        },
+        {
+          "title": "Robot Recycler Salvages Parts from Broken Machines",
+          "link": "https://spectrum.ieee.org/recycling-robot",
+          "source": "IEEE Spectrum",
+          "published": "2026-08-10T18:01:25+00:00"
         },
         {
           "title": "VicOne releases free NVIDIA Isaac Sim cybersecurity extension based on DEF CON 34 research",
@@ -580,24 +640,6 @@
           "published": "2026-08-06T12:26:58+00:00"
         },
         {
-          "title": "Avnet and Weston Robot partner to launch edge AI inspection platform",
-          "link": "https://www.therobotreport.com/avnet-and-weston-robot-partner-to-launch-edge-ai-inspection-platform/",
-          "source": "The Robot Report",
-          "published": "2026-08-05T19:10:05+00:00"
-        },
-        {
-          "title": "GAM Enterprises to produce Schaeffler’s PSC gear reducers",
-          "link": "https://www.therobotreport.com/gam-enterprises-to-produce-schaefflers-psc-gear-reducers/",
-          "source": "The Robot Report",
-          "published": "2026-08-05T19:00:21+00:00"
-        },
-        {
-          "title": "University of Florida opens new robotics lab dedicated to industrialized construction",
-          "link": "https://www.therobotreport.com/university-of-florida-opens-new-robotics-lab-dedicated-to-industrialized-construction/",
-          "source": "The Robot Report",
-          "published": "2026-08-05T17:41:55+00:00"
-        },
-        {
           "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
           "link": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
           "source": "IEEE Spectrum",
@@ -614,12 +656,6 @@
           "link": "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
           "source": "IEEE Spectrum",
           "published": "2026-07-31T16:00:03+00:00"
-        },
-        {
-          "title": "Robot Finger Feels in Color",
-          "link": "https://spectrum.ieee.org/robot-finger",
-          "source": "IEEE Spectrum",
-          "published": "2026-07-28T15:00:03+00:00"
         }
       ]
     },
