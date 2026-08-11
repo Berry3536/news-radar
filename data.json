@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-08-10T18:53:16.330575+00:00",
+  "generated_at": "2026-08-11T01:25:16.358264+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "GM makes charging easy while Elon bets big on fossil fuels and Leno talks Tesla",
+          "link": "https://electrek.co/2026/08/10/gm-makes-charging-easy-while-elon-bets-big-on-fossil-fuels-and-leno-talks-tesla/",
+          "source": "Electrek",
+          "published": "2026-08-10T23:51:05+00:00"
+        },
+        {
+          "title": "Lexus undercuts luxury rivals with 2027 ES prices starting under $50,000",
+          "link": "https://electrek.co/2026/08/10/lexus-undercuts-rivals-2027-es-prices-under-50000/",
+          "source": "Electrek",
+          "published": "2026-08-10T21:27:59+00:00"
+        },
+        {
+          "title": "Here’s our first look at the Range Rover GT in real life [Video]",
+          "link": "https://electrek.co/2026/08/10/first-look-range-rover-gt-real-life-video/",
+          "source": "Electrek",
+          "published": "2026-08-10T20:24:55+00:00"
+        },
+        {
+          "title": "Tesla design chief says new Roadster coming ‘very soon’ — sure",
+          "link": "https://electrek.co/2026/08/10/tesla-designer-new-roadster-coming-very-soon/",
+          "source": "Electrek",
+          "published": "2026-08-10T19:59:37+00:00"
+        },
+        {
+          "title": "Tesla exhausts its California MyFirstEV rebate allocation in 5 days",
+          "link": "https://electrek.co/2026/08/10/tesla-california-myfirstev-rebate-exhausted-5-days/",
+          "source": "Electrek",
+          "published": "2026-08-10T19:09:43+00:00"
+        },
         {
           "title": "Kia EV3 caught driving in New York as its US launch inches closer [Images]",
           "link": "https://electrek.co/2026/08/10/kia-ev3-caught-driving-ny-us-launch-inches-closer-images/",
@@ -215,44 +245,20 @@
           "link": "https://electrek.co/2026/08/07/navee-ut5-ultra-x-superscooter-ego-nexus-power-station-aventon-e-bikes-more/",
           "source": "Electrek",
           "published": "2026-08-07T18:00:00+00:00"
-        },
-        {
-          "title": "Here are the top 10 most affordable EVs and hybrids to insure",
-          "link": "https://electrek.co/2026/08/07/top-10-most-affordable-evs-hybrids-to-insure/",
-          "source": "Electrek",
-          "published": "2026-08-07T17:38:17+00:00"
-        },
-        {
-          "title": "How Much Quicker Is The Newest Version Of Tesla FSD? This Test Put It Against Old Software To Find Out",
-          "link": "https://insideevs.com/news/804210/tesla-hw-reaction-time-test/",
-          "source": "InsideEVs",
-          "published": "2026-08-07T17:36:14+00:00"
-        },
-        {
-          "title": "China’s getting a new Smart car and you can’t have it",
-          "link": "https://electrek.co/2026/08/07/details-of-new-smart-car-leaked-in-regulatory-filing-but-you-cant-have-it/",
-          "source": "Electrek",
-          "published": "2026-08-07T16:06:27+00:00"
-        },
-        {
-          "title": "Subaru is spending nearly $10,000 per vehicle to sell its new EVs",
-          "link": "https://electrek.co/2026/08/07/subaru-spending-nearly-10000-per-vehicle-sell-new-evs/",
-          "source": "Electrek",
-          "published": "2026-08-07T15:44:30+00:00"
-        },
-        {
-          "title": "Tesla admits Cybertruck PCS defect, extends warranty to 8 years",
-          "link": "https://electrek.co/2026/08/07/tesla-cybertruck-pcs-defect-warranty-extension/",
-          "source": "Electrek",
-          "published": "2026-08-07T15:08:29+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 27,
+      "count": 28,
       "items": [
+        {
+          "title": "CATL Battery for Electric Aviation Passes Important Safety Test",
+          "link": "https://cleantechnica.com/2026/08/10/catl-battery-for-electric-aviation-passes-important-safety-test/",
+          "source": "CleanTechnica",
+          "published": "2026-08-10T22:36:28+00:00"
+        },
         {
           "title": "Musk’s Terafab chip plant will run on gas, not Tesla solar",
           "link": "https://electrek.co/2026/08/10/musk-terafab-gas-power-not-tesla-solar/",
@@ -420,7 +426,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 8,
+      "count": 7,
       "items": [
         {
           "title": "Zero will pay new riders to get on electric motorcycles… just not in the US",
@@ -463,12 +469,6 @@
           "link": "https://electrek.co/2026/08/03/aniiokis-latest-6000w-dual-motor-e-bike-blurs-past-the-line-so-much-its-basically-an-electric-motorcycle/",
           "source": "Electrek",
           "published": "2026-08-03T13:34:00+00:00"
-        },
-        {
-          "title": "HMP’s new $3,999 electric scooter is the affordable, street-legal commuter the US needs",
-          "link": "https://electrek.co/2026/07/31/hmps-new-3999-electric-scooter-is-the-affordable-street-legal-commuter-the-us-needs/",
-          "source": "Electrek",
-          "published": "2026-07-31T15:24:00+00:00"
         }
       ]
     },
@@ -478,10 +478,28 @@
       "count": 21,
       "items": [
         {
-          "title": "“생각하는 로봇, 명상하는 인간”…국립중앙과학관, 광복절 연휴 특별전 운영",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47849",
+          "title": "'한국폴리텍대학 기계학회 2026년 하계학술대회' 개막",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47853",
           "source": "로봇신문",
-          "published": "2026-08-10T19:11:28+00:00"
+          "published": "2026-08-11T04:50:24+00:00"
+        },
+        {
+          "title": "RoboStore launches Robo Inc. to help U.S. organizations deploy robots",
+          "link": "https://www.therobotreport.com/robostore-launches-robo-inc-to-help-u-s-organizations-deploy-robots/",
+          "source": "The Robot Report",
+          "published": "2026-08-10T23:40:18+00:00"
+        },
+        {
+          "title": "Hadrian raises $1.37B to accelerate U.S. defense, aerospace manufacturing",
+          "link": "https://www.therobotreport.com/hadrian-raises-1-37b-accelerate-u-s-manufacturing/",
+          "source": "The Robot Report",
+          "published": "2026-08-10T22:33:12+00:00"
+        },
+        {
+          "title": "Tate deploys 58 Hirebotics cobot welders across multiple facilities",
+          "link": "https://www.therobotreport.com/tate-deploys-58-hirebotics-cobot-welders-across-multiple-facilities/",
+          "source": "The Robot Report",
+          "published": "2026-08-10T18:46:22+00:00"
         },
         {
           "title": "VicOne releases free NVIDIA Isaac Sim cybersecurity extension based on DEF CON 34 research",
@@ -562,24 +580,6 @@
           "published": "2026-08-05T17:41:55+00:00"
         },
         {
-          "title": "Moove raises $250M to build infrastructure for autonomous vehicles",
-          "link": "https://www.therobotreport.com/moove-raises-250m-to-build-infrastructure-for-autonomous-vehicles/",
-          "source": "The Robot Report",
-          "published": "2026-08-05T16:53:38+00:00"
-        },
-        {
-          "title": "Why perception is the key to scaling industrial autonomy",
-          "link": "https://www.therobotreport.com/why-perception-is-the-key-to-scaling-industrial-autonomy/",
-          "source": "The Robot Report",
-          "published": "2026-08-05T15:56:45+00:00"
-        },
-        {
-          "title": "Zoox unveils production-ready robotaxi for U.S. expansion",
-          "link": "https://www.therobotreport.com/zoox-unveils-production-ready-robotaxi-for-u-s-expansion/",
-          "source": "The Robot Report",
-          "published": "2026-08-04T19:40:40+00:00"
-        },
-        {
           "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
           "link": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
           "source": "IEEE Spectrum",
@@ -611,10 +611,10 @@
       "count": 40,
       "items": [
         {
-          "title": "'동시 소통' AI 에이전트 등장…단일 '클로드 오퍼스 4.8' 성적 뛰어넘었다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213766",
+          "title": "[8월10일] 로봇 영상에 '빨래 개기'가 자주 등장하는 이유…하지만 진짜 시험은 따로 있다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213732",
           "source": "AI타임스",
-          "published": "2026-08-10T17:56:00+00:00"
+          "published": "2026-08-11T07:00:00+00:00"
         },
         {
           "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
