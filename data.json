@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T18:57:51.462414+00:00",
+  "generated_at": "2026-08-12T01:42:30.344884+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,16 +7,34 @@
       "count": 40,
       "items": [
         {
+          "title": "Kia EV3 prices and range revealed, starting at $30,000",
+          "link": "https://electrek.co/2026/08/11/kia-ev3-prices-range-revealed-starting-30000/",
+          "source": "Electrek",
+          "published": "2026-08-12T01:04:07+00:00"
+        },
+        {
+          "title": "Tesla Roadster Is Supposedly (Once Again) Coming 'Very Soon'",
+          "link": "https://insideevs.com/news/804554/tesla-roadster-very-soon-again/",
+          "source": "InsideEVs",
+          "published": "2026-08-11T20:46:27+00:00"
+        },
+        {
+          "title": "Hyundai launches the range-topping IONIQ 9 Calligraphy Black Ink in the UK and Europe",
+          "link": "https://electrek.co/2026/08/11/hyundai-launches-range-topping-ioniq-9-calligraphy-black-ink/",
+          "source": "Electrek",
+          "published": "2026-08-11T20:39:40+00:00"
+        },
+        {
+          "title": "Kia Just Revealed EV3 Pricing. It's Even Cheaper Than We Expected",
+          "link": "https://insideevs.com/news/804556/2027-kia-ev3-prices-revealed/",
+          "source": "InsideEVs",
+          "published": "2026-08-11T19:07:45+00:00"
+        },
+        {
           "title": "Tesla Recalls 20,000 Cars Over Uber-Bright Headlights",
           "link": "https://insideevs.com/news/804520/tesla-recall-20k-bright-headlights/",
           "source": "InsideEVs",
           "published": "2026-08-11T18:39:32+00:00"
-        },
-        {
-          "title": "Kia EV3 is now on sale for under $30,000, and now we know its EPA range",
-          "link": "https://electrek.co/2026/08/11/kia-ev3-prices-start-under-30000-epa-range-revealed/",
-          "source": "Electrek",
-          "published": "2026-08-11T18:10:02+00:00"
         },
         {
           "title": "Anker SOLIX Mega Sale offers up to 48% power station discounts + one-day-only C1000X $399 off, AeroGarden, more",
@@ -49,7 +67,7 @@
           "published": "2026-08-11T17:00:32+00:00"
         },
         {
-          "title": "Tesla recall 20,000 Model 3/Y for headlights that are too bright",
+          "title": "Tesla recalls 20,000 Model 3/Y for headlights that are too bright",
           "link": "https://electrek.co/2026/08/11/tesla-recall-20000-model-3-y-for-headlights-that-are-too-bright/",
           "source": "Electrek",
           "published": "2026-08-11T16:44:26+00:00"
@@ -227,32 +245,20 @@
           "link": "https://electrek.co/2026/08/10/byds-kei-ev-hit-1000-orders-2-weeks/",
           "source": "Electrek",
           "published": "2026-08-10T13:36:08+00:00"
-        },
-        {
-          "title": "Why does Monarc build its e-bikes with their forks on backward?",
-          "link": "https://electrek.co/2026/08/10/why-does-monarc-build-its-e-bikes-with-their-forks-on-backward/",
-          "source": "Electrek",
-          "published": "2026-08-10T12:37:00+00:00"
-        },
-        {
-          "title": "This Kit Turns The Volkswagen ID. Buzz Into A More Capable Off-Road Van",
-          "link": "https://insideevs.com/news/804362/vw-id-buzz-off-road-kit/",
-          "source": "InsideEVs",
-          "published": "2026-08-10T12:18:15+00:00"
-        },
-        {
-          "title": "Smart’s Smallest EV Is Back, And It Promises A Lot More Range",
-          "link": "https://insideevs.com/news/804340/smart-2-official-ev/",
-          "source": "InsideEVs",
-          "published": "2026-08-10T09:14:44+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 35,
+      "count": 34,
       "items": [
+        {
+          "title": "Arcfox Goes Battery Swapping with the Help of CATL",
+          "link": "https://cleantechnica.com/2026/08/11/arcfox-goes-battery-swapping-with-the-help-of-catl/",
+          "source": "CleanTechnica",
+          "published": "2026-08-12T00:17:20+00:00"
+        },
         {
           "title": "Anker SOLIX Mega Sale offers up to 48% power station discounts + one-day-only C1000X $399 off, AeroGarden, more",
           "link": "https://electrek.co/2026/08/11/anker-solix-mega-sale-power-station-c1000x-aerogarden-more/",
@@ -380,12 +386,6 @@
           "published": "2026-08-07T18:00:00+00:00"
         },
         {
-          "title": "Hydrogen Trains Get Headlines. Battery Trains Get Used.",
-          "link": "https://cleantechnica.com/2026/08/07/hydrogen-trains-vs-battery-trains-fleet-data/",
-          "source": "CleanTechnica",
-          "published": "2026-08-07T09:37:07+00:00"
-        },
-        {
           "title": "A 500 MWh Tesla Megapack battery just went live in Texas",
           "link": "https://electrek.co/2026/08/06/tesla-megapack-power-orsted-big-new-texas-grid-battery/",
           "source": "Electrek",
@@ -456,19 +456,13 @@
           "link": "https://electrek.co/2026/08/03/hyundai-kias-record-us-sales-run/",
           "source": "Electrek",
           "published": "2026-08-03T13:58:42+00:00"
-        },
-        {
-          "title": "Aniioki’s latest 6,000W dual-motor e-bike blurs past the line so much it’s basically an electric motorcycle",
-          "link": "https://electrek.co/2026/08/03/aniiokis-latest-6000w-dual-motor-e-bike-blurs-past-the-line-so-much-its-basically-an-electric-motorcycle/",
-          "source": "Electrek",
-          "published": "2026-08-03T13:34:00+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 9,
+      "count": 8,
       "items": [
         {
           "title": "한국토요타자동차, 커넥트투에서 '토요타 가주 레이싱 익스피리언스 데이’ 개최",
@@ -517,12 +511,6 @@
           "link": "https://electrek.co/2026/08/03/geely-galaxy-battleship-700-tri-motor-stuffs-1113-hp-in-a-high-luxe-boxy-package/",
           "source": "Electrek",
           "published": "2026-08-04T01:27:43+00:00"
-        },
-        {
-          "title": "Aniioki’s latest 6,000W dual-motor e-bike blurs past the line so much it’s basically an electric motorcycle",
-          "link": "https://electrek.co/2026/08/03/aniiokis-latest-6000w-dual-motor-e-bike-blurs-past-the-line-so-much-its-basically-an-electric-motorcycle/",
-          "source": "Electrek",
-          "published": "2026-08-03T13:34:00+00:00"
         }
       ]
     },
@@ -536,6 +524,12 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47863",
           "source": "로봇신문",
           "published": "2026-08-12T00:30:36+00:00"
+        },
+        {
+          "title": "Defense drone developer Cambridge Aerospace raises $300M",
+          "link": "https://www.therobotreport.com/defense-drone-developer-cambridge-aerospace-raises-300m/",
+          "source": "The Robot Report",
+          "published": "2026-08-11T20:34:25+00:00"
         },
         {
           "title": "PlusAI reaches key milestones ahead of launching its autonomous trucks",
@@ -574,7 +568,7 @@
           "published": "2026-08-10T18:46:22+00:00"
         },
         {
-          "title": "Robot Recycler Salvages Parts from Broken Machines",
+          "title": "Robot Recycler Salvages Parts From Broken Machines",
           "link": "https://spectrum.ieee.org/recycling-robot",
           "source": "IEEE Spectrum",
           "published": "2026-08-10T18:01:25+00:00"
@@ -634,12 +628,6 @@
           "published": "2026-08-06T14:09:55+00:00"
         },
         {
-          "title": "Report looks at advances in autonomous mobile robots",
-          "link": "https://www.therobotreport.com/report-looks-at-advances-in-autonomous-mobile-robots/",
-          "source": "The Robot Report",
-          "published": "2026-08-06T12:26:58+00:00"
-        },
-        {
           "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
           "link": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
           "source": "IEEE Spectrum",
@@ -665,10 +653,10 @@
       "count": 40,
       "items": [
         {
-          "title": "앤트로픽, '클로드' 생성 콘텐츠에 눈에 안 보이는 ‘투명 워터마크’ 도입",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213821",
+          "title": "[8월11일] AI 출시 전 가상 인간 100만명이 먼저 써본다…‘MatrAIx’ 등장",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213824",
           "source": "AI타임스",
-          "published": "2026-08-11T18:31:19+00:00"
+          "published": "2026-08-12T07:00:00+00:00"
         },
         {
           "title": "Towards an Argumentative Foundation for Evaluative AI",
