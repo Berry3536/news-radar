@@ -1,11 +1,53 @@
 {
-  "generated_at": "2026-08-13T07:22:22.017248+00:00",
+  "generated_at": "2026-08-13T13:03:06.020805+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "제네시스, 전기차 주행감성 극대화한 차세대 하이브리드 시스템 공개",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44312",
+          "source": "모터그래프",
+          "published": "2026-08-13T16:57:55+00:00"
+        },
+        {
+          "title": "Ford Completes $2 Billion EV Factory Retooling For The $28,000 Fathom Truck In Under A Year",
+          "link": "https://insideevs.com/news/804739/ford-fathom-ev-retooling-louisville-assembly-plant-complete/",
+          "source": "InsideEVs",
+          "published": "2026-08-13T13:00:00+00:00"
+        },
+        {
+          "title": "After 500 Hard Miles In A BMW iX3, Range Anxiety Feels Outdated",
+          "link": "https://insideevs.com/features/804813/bmw-ix3-romania-roadtrip-transfagarasan/",
+          "source": "InsideEVs",
+          "published": "2026-08-13T12:31:11+00:00"
+        },
+        {
+          "title": "Rivian’s long-delayed ALSO e-bike is only delayed a little bit longer",
+          "link": "https://electrek.co/2026/08/13/rivians-long-delayed-also-e-bike-is-only-delayed-a-little-bit-longer/",
+          "source": "Electrek",
+          "published": "2026-08-13T11:28:00+00:00"
+        },
+        {
+          "title": "Volvo Wants To Make You A Safer Driver—And Lower Your Insurance Bill",
+          "link": "https://insideevs.com/news/804789/volvo-safety-coach-app-lower-insurance/",
+          "source": "InsideEVs",
+          "published": "2026-08-13T09:01:27+00:00"
+        },
+        {
+          "title": "They Bought A 78,000-Mile Tesla With An Unknown Past. Then They Tested The Battery",
+          "link": "https://insideevs.com/news/804780/tesla-model-3-lfp-degradation/",
+          "source": "InsideEVs",
+          "published": "2026-08-13T08:38:37+00:00"
+        },
+        {
+          "title": "GM And LG Restart EV Battery Production In Ohio After Seven-Month Shutdown",
+          "link": "https://insideevs.com/news/804775/gm-lg-ultium-cells-production-restart-ohio/",
+          "source": "InsideEVs",
+          "published": "2026-08-13T08:02:36+00:00"
+        },
         {
           "title": "Trump is right: EV range anxiety is a disease – THIS is how we cure it!",
           "link": "https://electrek.co/2026/08/12/trump-is-right-ev-range-anxiety-is-a-disease-this-is-how-we-cure-it/",
@@ -65,12 +107,6 @@
           "link": "https://electrek.co/2026/08/12/volkswagen-launches-id-3-neo-uk-390-miles-range/",
           "source": "Electrek",
           "published": "2026-08-12T17:13:38+00:00"
-        },
-        {
-          "title": "국민 안전 지킴이 소방관들의 든든한 후원자 현대자동차그룹",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44304",
-          "source": "모터그래프",
-          "published": "2026-08-12T17:02:01+00:00"
         },
         {
           "title": "EVgo + GM open 350 kW flagship charging for EVs with trailers",
@@ -209,42 +245,6 @@
           "link": "https://electrek.co/2026/08/11/cadillac-hand-build-custom-escalade-iq-extra-55000/",
           "source": "Electrek",
           "published": "2026-08-11T17:23:09+00:00"
-        },
-        {
-          "title": "Tesla recalls 20,000 Model 3/Y for headlights that are too bright",
-          "link": "https://electrek.co/2026/08/11/tesla-recall-20000-model-3-y-for-headlights-that-are-too-bright/",
-          "source": "Electrek",
-          "published": "2026-08-11T16:44:26+00:00"
-        },
-        {
-          "title": "Tesla files for $10.1B ‘Project Crystal Sun’ solar factory in Texas",
-          "link": "https://electrek.co/2026/08/11/tesla-solar-cell-factory-texas-project-crystal-sun/",
-          "source": "Electrek",
-          "published": "2026-08-11T16:14:23+00:00"
-        },
-        {
-          "title": "Ukraine debuts mine-resistant all-wheel drive combat electric motorcycle",
-          "link": "https://electrek.co/2026/08/11/ukraine-debuts-mine-resistant-all-wheel-drive-combat-electric-motorcycle/",
-          "source": "Electrek",
-          "published": "2026-08-11T15:29:00+00:00"
-        },
-        {
-          "title": "EV Myth Busted: No, They're Not 'Dirtier' Than Gas Cars, Even If You Use Fossil Fuel Power",
-          "link": "https://insideevs.com/features/804527/evs-arent-dirtier-than-gas/",
-          "source": "InsideEVs",
-          "published": "2026-08-11T15:17:00+00:00"
-        },
-        {
-          "title": "'It's Always Your Fault': Kyle Shanahan's Tesla Was On Autopilot When He Crashed. He Still Blames Himself",
-          "link": "https://insideevs.com/news/804420/49ers-coach-crash-tesla-autopilot/",
-          "source": "InsideEVs",
-          "published": "2026-08-11T14:36:55+00:00"
-        },
-        {
-          "title": "Oil giant rips out gas pumps for BYD’s 1,500 kW EV chargers",
-          "link": "https://electrek.co/2026/08/11/sinopec-byd-gas-station-1500-kw-flash-charging/",
-          "source": "Electrek",
-          "published": "2026-08-11T14:28:35+00:00"
         }
       ]
     },
@@ -253,6 +253,18 @@
       "label": "배터리",
       "count": 25,
       "items": [
+        {
+          "title": "They Bought A 78,000-Mile Tesla With An Unknown Past. Then They Tested The Battery",
+          "link": "https://insideevs.com/news/804780/tesla-model-3-lfp-degradation/",
+          "source": "InsideEVs",
+          "published": "2026-08-13T08:38:37+00:00"
+        },
+        {
+          "title": "GM And LG Restart EV Battery Production In Ohio After Seven-Month Shutdown",
+          "link": "https://insideevs.com/news/804775/gm-lg-ultium-cells-production-restart-ohio/",
+          "source": "InsideEVs",
+          "published": "2026-08-13T08:02:36+00:00"
+        },
         {
           "title": "Lectric XP Lite2 e-bike + largest $508 bundle from $999, Anker SOLIX 3,840Wh F3800 power station $1,800, EcoFlow, tools, more",
           "link": "https://electrek.co/2026/08/12/lectric-xp-lite2-e-bike-508-bundle-anker-solix-3840wh-f3800-power-station-ecoflow-more/",
@@ -300,18 +312,6 @@
           "link": "https://electrek.co/2026/08/11/gm-sells-indiana-battery-plant-stake-samsung-sdi/",
           "source": "Electrek",
           "published": "2026-08-11T13:12:07+00:00"
-        },
-        {
-          "title": "The McLaren P1 Is Getting A Huge Battery Upgrade With 3X The Original Capacity",
-          "link": "https://insideevs.com/news/804474/mclaren-p1-battery-upgrade/",
-          "source": "InsideEVs",
-          "published": "2026-08-11T10:19:15+00:00"
-        },
-        {
-          "title": "GM Exits Planned $3.5B Battery Factory, Leaving Samsung SDI In Full Control",
-          "link": "https://insideevs.com/news/804446/gm-sells-indiana-battery-factory-stake-samsung-sdi/",
-          "source": "InsideEVs",
-          "published": "2026-08-11T07:06:58+00:00"
         },
         {
           "title": "Steady Progress Reshapes Australia’s Energy Market — July 2026 Update",
@@ -411,10 +411,10 @@
       "count": 8,
       "items": [
         {
-          "title": "슈퍼레이스, 8월 22일, 용인 나이트 레이스 X 쇼미더머니 개최",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44303",
+          "title": "제네시스, 전기차 주행감성 극대화한 차세대 하이브리드 시스템 공개",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44312",
           "source": "모터그래프",
-          "published": "2026-08-12T17:01:09+00:00"
+          "published": "2026-08-13T16:57:55+00:00"
         },
         {
           "title": "This $1,800 electric motorcycle hits 70 MPH and could change the game",
@@ -466,10 +466,22 @@
       "count": 21,
       "items": [
         {
-          "title": "멋쟁이사자처럼-오픈그래프랩스, 피지컬 AI 데이터 사업 협력",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47908",
+          "title": "中 멀티웨이 로보틱스, 말레이시아 제조업체 5000개 지점 창고 자동화",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47913",
           "source": "로봇신문",
-          "published": "2026-08-13T15:57:37+00:00"
+          "published": "2026-08-13T18:03:42+00:00"
+        },
+        {
+          "title": "ARM Institute calls for defense manufacturing technology projects",
+          "link": "https://www.therobotreport.com/arm-institute-calls-for-defense-manufacturing-technology-project/",
+          "source": "The Robot Report",
+          "published": "2026-08-13T12:35:42+00:00"
+        },
+        {
+          "title": "Experts to discuss the state of humanoid robots at RoboBusiness",
+          "link": "https://www.therobotreport.com/experts-discuss-state-humanoid-robots-robobusiness-2026/",
+          "source": "The Robot Report",
+          "published": "2026-08-13T12:30:25+00:00"
         },
         {
           "title": "SEW-EURODRIVE adds economy series to its planetary servo gear unit portfolio",
@@ -556,18 +568,6 @@
           "published": "2026-08-10T17:07:10+00:00"
         },
         {
-          "title": "Analog Devices returns as strategic sponsor to aid MassRobotics startups",
-          "link": "https://www.therobotreport.com/analog-devices-returns-strategic-sponsor-aid-massrobotics-startups/",
-          "source": "The Robot Report",
-          "published": "2026-08-09T12:30:42+00:00"
-        },
-        {
-          "title": "Experts look ahead at the next 20 years of robotics at RoboBusiness",
-          "link": "https://www.therobotreport.com/experts-look-ahead-at-the-next-20-years-of-robotics-at-robobusiness/",
-          "source": "The Robot Report",
-          "published": "2026-08-08T12:30:52+00:00"
-        },
-        {
           "title": "Video Friday: Drones Go Heavy in DARPA Lift Challenge",
           "link": "https://spectrum.ieee.org/video-friday-heavy-lift-drone",
           "source": "IEEE Spectrum",
@@ -599,10 +599,10 @@
       "count": 40,
       "items": [
         {
-          "title": "중국 관련 해커, 오픈소스 에이전트로 대만 정부 공격...‘자율형 사이버전’ 현실화",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213901",
+          "title": "오픈AI·앤트로픽 암호화 '사고 과정' 통째 유출...API 설계 허점 파문",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213894",
           "source": "AI타임스",
-          "published": "2026-08-13T16:19:26+00:00"
+          "published": "2026-08-13T19:00:43+00:00"
         },
         {
           "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
