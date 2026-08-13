@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T18:58:05.612823+00:00",
+  "generated_at": "2026-08-13T01:45:07.634211+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,7 +7,43 @@
       "count": 40,
       "items": [
         {
-          "title": "EV sales, oil costs and temperatures are spiking. So UK govt pushes… more gas?",
+          "title": "Trump is right: EV range anxiety is a disease – THIS is how we cure it!",
+          "link": "https://electrek.co/2026/08/12/trump-is-right-ev-range-anxiety-is-a-disease-this-is-how-we-cure-it/",
+          "source": "Electrek",
+          "published": "2026-08-12T23:31:17+00:00"
+        },
+        {
+          "title": "Global EV sales rose in July – except in North America",
+          "link": "https://electrek.co/2026/08/12/global-ev-sales-are-rising-except-in-north-america/",
+          "source": "Electrek",
+          "published": "2026-08-12T23:01:00+00:00"
+        },
+        {
+          "title": "Study: DC Fast Charging Satisfaction Is Up, And Ionna Takes The Top Spot",
+          "link": "https://insideevs.com/news/804743/ev-charging-satifsfaction-2026-jdpower/",
+          "source": "InsideEVs",
+          "published": "2026-08-12T22:10:56+00:00"
+        },
+        {
+          "title": "Here's A Mechanic's Take On The Subaru Trailseeker",
+          "link": "https://insideevs.com/news/804734/subaru-trailseeker-mechanic-walkthrough/",
+          "source": "InsideEVs",
+          "published": "2026-08-12T20:30:00+00:00"
+        },
+        {
+          "title": "Tesla plans massive new V4 Supercharger in San Francisco",
+          "link": "https://electrek.co/2026/08/12/tesla-124-stall-v4-supercharger-san-francisco/",
+          "source": "Electrek",
+          "published": "2026-08-12T19:28:14+00:00"
+        },
+        {
+          "title": "US EV prices are going back up as discounts shrink",
+          "link": "https://electrek.co/2026/08/12/us-ev-prices-are-going-back-up-as-discounts-shrink/",
+          "source": "Electrek",
+          "published": "2026-08-12T19:10:18+00:00"
+        },
+        {
+          "title": "As EV sales, oil costs and temperatures spike, UK gov’t considers… fewer EVs?",
           "link": "https://electrek.co/2026/08/12/ev-sales-oil-costs-and-temperatures-are-spiking-so-uk-govt-pushes-more-gas/",
           "source": "Electrek",
           "published": "2026-08-12T18:50:51+00:00"
@@ -209,49 +245,13 @@
           "link": "https://electrek.co/2026/08/11/sinopec-byd-gas-station-1500-kw-flash-charging/",
           "source": "Electrek",
           "published": "2026-08-11T14:28:35+00:00"
-        },
-        {
-          "title": "The 2027 Audi Q6 e-tron delivers more driving range than expected",
-          "link": "https://electrek.co/2026/08/11/2027-audi-q6-e-tron-delivers-more-driving-range-than-expected/",
-          "source": "Electrek",
-          "published": "2026-08-11T14:10:53+00:00"
-        },
-        {
-          "title": "GM exits $3.5B Indiana battery plant as Samsung SDI takes full control",
-          "link": "https://electrek.co/2026/08/11/gm-sells-indiana-battery-plant-stake-samsung-sdi/",
-          "source": "Electrek",
-          "published": "2026-08-11T13:12:07+00:00"
-        },
-        {
-          "title": "The McLaren P1 Is Getting A Huge Battery Upgrade With 3X The Original Capacity",
-          "link": "https://insideevs.com/news/804474/mclaren-p1-battery-upgrade/",
-          "source": "InsideEVs",
-          "published": "2026-08-11T10:19:15+00:00"
-        },
-        {
-          "title": "The 2027 Kia EV3 Is Almost Here—With 280 Miles Of Range For The AWD Models",
-          "link": "https://insideevs.com/news/804460/2027-kia-ev3-epa-range-official/",
-          "source": "InsideEVs",
-          "published": "2026-08-11T08:27:25+00:00"
-        },
-        {
-          "title": "GM Exits Planned $3.5B Battery Factory, Leaving Samsung SDI In Full Control",
-          "link": "https://insideevs.com/news/804446/gm-sells-indiana-battery-factory-stake-samsung-sdi/",
-          "source": "InsideEVs",
-          "published": "2026-08-11T07:06:58+00:00"
-        },
-        {
-          "title": "GM makes charging easy while Elon bets big on fossil fuels and Leno talks Tesla",
-          "link": "https://electrek.co/2026/08/10/gm-makes-charging-easy-while-elon-bets-big-on-fossil-fuels-and-leno-talks-tesla/",
-          "source": "Electrek",
-          "published": "2026-08-10T23:51:05+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 31,
+      "count": 26,
       "items": [
         {
           "title": "Lectric XP Lite2 e-bike + largest $508 bundle from $999, Anker SOLIX 3,840Wh F3800 power station $1,800, EcoFlow, tools, more",
@@ -362,24 +362,6 @@
           "published": "2026-08-08T10:11:14+00:00"
         },
         {
-          "title": "XPENG Set to Enter the Philippines with the Globalized Mona",
-          "link": "https://cleantechnica.com/2026/08/07/xpeng-set-to-enter-the-philippines-with-the-globalized-mona/",
-          "source": "CleanTechnica",
-          "published": "2026-08-08T02:45:02+00:00"
-        },
-        {
-          "title": "NIO Opens Battery Swapping to Firefly and Launches 5th-Generation Swapping Stations",
-          "link": "https://cleantechnica.com/2026/08/07/nio-opens-battery-swapping-to-firefly-and-launches-5th-generation-swapping-stations/",
-          "source": "CleanTechnica",
-          "published": "2026-08-08T01:47:33+00:00"
-        },
-        {
-          "title": "U.S. Battery Storage Capacity Averaged 70% Growth Over The Last Three Years",
-          "link": "https://cleantechnica.com/2026/08/07/u-s-battery-storage-capacity-averaged-70-growth-over-the-last-three-years/",
-          "source": "CleanTechnica",
-          "published": "2026-08-08T00:32:31+00:00"
-        },
-        {
           "title": "Navee UT5 Ultra X superscooter $1,955 low, EGO Nexus power station bundle $799 low, Aventon $1,299 flash sale e-bike lows, more",
           "link": "https://electrek.co/2026/08/07/navee-ut5-ultra-x-superscooter-ego-nexus-power-station-aventon-e-bikes-more/",
           "source": "Electrek",
@@ -426,18 +408,6 @@
           "link": "https://electrek.co/2026/08/04/europe-is-betting-big-on-a-battery-that-runs-for-four-days/",
           "source": "Electrek",
           "published": "2026-08-04T15:55:36+00:00"
-        },
-        {
-          "title": "Segway’s new MAX G3 Plus electric scooter goes farther with more power and better safety",
-          "link": "https://electrek.co/2026/08/04/segways-new-max-g3-plus-electric-scooter-goes-farther-with-more-power-and-better-safety/",
-          "source": "Electrek",
-          "published": "2026-08-04T13:00:00+00:00"
-        },
-        {
-          "title": "Revoy hybrid tandem trailer rolls towards reality with $27 million raise",
-          "link": "https://electrek.co/2026/08/04/revoy-ev-promises-to-electrify-diesel-semis-in-minutes/",
-          "source": "Electrek",
-          "published": "2026-08-04T11:20:00+00:00"
         }
       ]
     },
@@ -526,6 +496,12 @@
           "published": "2026-08-12T13:36:55+00:00"
         },
         {
+          "title": "Celona launches Orion agentic wireless platform built for physical AI and robotics",
+          "link": "https://www.therobotreport.com/celona-launches-orion-agentic-wireless-platform-built-for-physical-ai-robotics/",
+          "source": "The Robot Report",
+          "published": "2026-08-12T12:00:08+00:00"
+        },
+        {
           "title": "DAF Trucks to integrate Einride Driver to scale autonomous electric freight",
           "link": "https://www.therobotreport.com/daf-trucks-integrates-einride-driver-scale-autonomous-electric-freight/",
           "source": "The Robot Report",
@@ -598,12 +574,6 @@
           "published": "2026-08-08T12:30:52+00:00"
         },
         {
-          "title": "Building robots that survive the warehouse",
-          "link": "https://www.therobotreport.com/building-robots-that-survive-warehouse/",
-          "source": "The Robot Report",
-          "published": "2026-08-07T22:01:38+00:00"
-        },
-        {
           "title": "Video Friday: Drones Go Heavy in DARPA Lift Challenge",
           "link": "https://spectrum.ieee.org/video-friday-heavy-lift-drone",
           "source": "IEEE Spectrum",
@@ -635,10 +605,10 @@
       "count": 40,
       "items": [
         {
-          "title": "앤트로픽 미공개 모델, 160년 수학 난제 '리만 가설' 연구서 대기록",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213838",
+          "title": "[8월12일] 저커버그, 폐쇄형 AI 비판했지만…“메타도 오픈소스는 아니다”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213836",
           "source": "AI타임스",
-          "published": "2026-08-12T19:35:00+00:00"
+          "published": "2026-08-13T07:00:00+00:00"
         },
         {
           "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
