@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-08-14T01:43:08.510027+00:00",
+  "generated_at": "2026-08-14T07:19:56.815830+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "The 2027 Karma Gyesera Is $35,000 Cheaper Than The Revero It Replaces",
+          "link": "https://insideevs.com/news/804900/karma-kaveya-pricing/",
+          "source": "InsideEVs",
+          "published": "2026-08-14T07:11:06+00:00"
+        },
         {
           "title": "2027 Lucid Gravity GT-S: Meet America’s Most Powerful Three-Row SUV",
           "link": "https://insideevs.com/news/804819/lucid-gravity-gt-s-specs-photos-official/",
@@ -239,19 +245,13 @@
           "link": "https://insideevs.com/news/804706/iphone-foxtron-australia-mitsubishi-asx/",
           "source": "InsideEVs",
           "published": "2026-08-12T16:40:10+00:00"
-        },
-        {
-          "title": "The strange story behind Colorado’s ‘no catch’ free e-bike company",
-          "link": "https://electrek.co/2026/08/12/the-strange-story-behind-colorados-no-catch-free-e-bike-company/",
-          "source": "Electrek",
-          "published": "2026-08-12T16:28:22+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 24,
+      "count": 23,
       "items": [
         {
           "title": "Back Up Your Refrigerator And Cut Electricity Costs with BLUETTI FridgePower",
@@ -348,12 +348,6 @@
           "link": "https://electrek.co/2026/08/10/musk-terafab-gas-power-not-tesla-solar/",
           "source": "Electrek",
           "published": "2026-08-10T13:55:30+00:00"
-        },
-        {
-          "title": "$10 Billion Tesla Solar Factory in Texas? And $20–25 Billion TERAFAB Project in Midst of AI Bubble?",
-          "link": "https://cleantechnica.com/2026/08/10/10-billion-tesla-solar-factory-in-texas-and-20-25-billion-terafab-project-in-midst-of-ai-bubble/",
-          "source": "CleanTechnica",
-          "published": "2026-08-10T10:59:56+00:00"
         },
         {
           "title": "Navee UT5 Ultra X superscooter $1,955 low, EGO Nexus power station bundle $799 low, Aventon $1,299 flash sale e-bike lows, more",
@@ -454,10 +448,10 @@
       "count": 21,
       "items": [
         {
-          "title": "中 멀티웨이 로보틱스, 말레이시아 제조업체 5000개 지점 창고 자동화",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47913",
+          "title": "주간 로봇 기업 주가 동향(08/10 ~ 08/14)",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47919",
           "source": "로봇신문",
-          "published": "2026-08-13T18:03:42+00:00"
+          "published": "2026-08-14T15:40:51+00:00"
         },
         {
           "title": "Mobile manipulators and humanoids: The future of robotics",
@@ -587,244 +581,244 @@
       "count": 40,
       "items": [
         {
-          "title": "[8월13일] 클로드 워터마크 도입에 불붙은 논쟁…\"AI가 썼다와 AI가 처리했다는 다르다\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213884",
+          "title": "오픈AI, 14배 빠른 '울트라패스트' 모드 공개...\"지능과 속도 다 잡았다\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213946",
           "source": "AI타임스",
-          "published": "2026-08-14T07:00:00+00:00"
+          "published": "2026-08-14T16:16:46+00:00"
         },
         {
-          "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
-          "link": "https://arxiv.org/abs/2608.11207",
+          "title": "Position: Reasoning is a Learnable Rule-Based Process",
+          "link": "https://arxiv.org/abs/2608.12325",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
-          "link": "https://arxiv.org/abs/2608.11210",
+          "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+          "link": "https://arxiv.org/abs/2608.12345",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
-          "link": "https://arxiv.org/abs/2608.11211",
+          "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+          "link": "https://arxiv.org/abs/2608.12346",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
-          "link": "https://arxiv.org/abs/2608.11212",
+          "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+          "link": "https://arxiv.org/abs/2608.12368",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
-          "link": "https://arxiv.org/abs/2608.11215",
+          "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+          "link": "https://arxiv.org/abs/2608.12371",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
-          "link": "https://arxiv.org/abs/2608.11216",
+          "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
+          "link": "https://arxiv.org/abs/2608.12372",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "MaSRead: Content-Addressed Reading of Replicated Latent Stores",
-          "link": "https://arxiv.org/abs/2608.11218",
+          "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+          "link": "https://arxiv.org/abs/2608.12373",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "From Monolithic to Modular: Segment-level Automatic Prompt Optimization",
-          "link": "https://arxiv.org/abs/2608.11219",
+          "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
+          "link": "https://arxiv.org/abs/2608.12385",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&IDs",
-          "link": "https://arxiv.org/abs/2608.11220",
+          "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
+          "link": "https://arxiv.org/abs/2608.12389",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "A Conceptual Framework for Refining Influence Knowledge from Simulation Evidence in Cyber-Physical Systems",
-          "link": "https://arxiv.org/abs/2608.11221",
+          "title": "Research Assistant: AstraZeneca's Agentic System for R&D",
+          "link": "https://arxiv.org/abs/2608.12395",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Harnessing agent memory to build lifelong AI partners for materials scientists",
-          "link": "https://arxiv.org/abs/2608.11224",
+          "title": "Large Language Models Can Follow Instructions, But Not Many at Once: Phase Transitions in Compositional Constraint Satisfaction",
+          "link": "https://arxiv.org/abs/2608.12426",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Identity from the Outside: A Conceptual Framework and Research Program for AI Personality Clones",
-          "link": "https://arxiv.org/abs/2608.11225",
+          "title": "MindMemOS: A Portable and Self-Evolving Memory Operating Layer for AI Agents",
+          "link": "https://arxiv.org/abs/2608.12428",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Cutting AI Datacenter Energy with Reinforcement Learning: Measured Power Control of LLM Training from One GPU to the Fleet",
-          "link": "https://arxiv.org/abs/2608.11226",
+          "title": "Governed Persistent Memory: Source-Bound State Semantics and Fail-Closed Release for Long-Horizon Agents",
+          "link": "https://arxiv.org/abs/2608.12476",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Forecasting Side Effects of Activation Steering",
-          "link": "https://arxiv.org/abs/2608.11227",
+          "title": "$\\varepsilon$-MemEvo: Adaptive Cross-Task Memory Transfer for LLM Program Evolution",
+          "link": "https://arxiv.org/abs/2608.12522",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Synchronizing Beliefs with Second-Order Theory-of-Mind in Human-Autonomy Teams (Extended Version)",
-          "link": "https://arxiv.org/abs/2608.11229",
+          "title": "CAS: A Causal Attribution Score for Local and Global Explainable Artificial Intelligence",
+          "link": "https://arxiv.org/abs/2608.12555",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "The Edge-based Contiguous p-median Problem with Connections to Logistics Districting",
-          "link": "https://arxiv.org/abs/2608.11230",
+          "title": "Trie Automata for Constrained Decoding over Large Finite Sets",
+          "link": "https://arxiv.org/abs/2608.12574",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "LinearKV: One Cached State Suffices for Position-Independent Caching in Hybrid LLMs",
-          "link": "https://arxiv.org/abs/2608.11231",
+          "title": "Reasoning Jury: Multi-Model Consensus for Evaluating Reasoning Traces",
+          "link": "https://arxiv.org/abs/2608.12585",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "InfraBench: Evaluating Infrastructure Agents Across Layers, Lifecycle, and Risk",
-          "link": "https://arxiv.org/abs/2608.11234",
+          "title": "Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting",
+          "link": "https://arxiv.org/abs/2608.12590",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "CORA-Diff: Confidence-Oriented Residual Acceptance for Efficient Diffusion Language Model Inference",
-          "link": "https://arxiv.org/abs/2608.11235",
+          "title": "DiG-bench: Discovery in Games",
+          "link": "https://arxiv.org/abs/2608.12593",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Geometry-aware Incremental Neural Operator for Long-Horizon PDE prediction",
-          "link": "https://arxiv.org/abs/2608.11237",
+          "title": "Dead text or binding clause? Measuring and restoring constraint influence in black-box LLM dialogues",
+          "link": "https://arxiv.org/abs/2608.12599",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Towards Query-Agnostic RAG Evaluation via Query Coverage and Claim Verifiability",
-          "link": "https://arxiv.org/abs/2608.11238",
+          "title": "@skills: Attention is all you have",
+          "link": "https://arxiv.org/abs/2608.12610",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "VQ-bench: A Composable Vector Quantization Framework",
-          "link": "https://arxiv.org/abs/2608.11240",
+          "title": "Jagged Judges: Epistemic Stability Under Silence, Pressure, and Persistence",
+          "link": "https://arxiv.org/abs/2608.12645",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "RecSys Factory: Bounding LLM Agent Autonomy to Decision Points in the Industrial Recommender Lifecycle",
-          "link": "https://arxiv.org/abs/2608.11241",
+          "title": "SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries",
+          "link": "https://arxiv.org/abs/2608.12654",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "The Off-Support Barrier: Why Semantic Safety Constraints Are Not Learning-Problem Invariants, and What Follows for Prior Design, Containment, and Verification",
-          "link": "https://arxiv.org/abs/2608.11243",
+          "title": "General Probabilities of Causation with Causal Knowledge",
+          "link": "https://arxiv.org/abs/2608.12657",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "BEST-KAG: Enhancing Question Answering of Building Engineering Standards with Multimodal Knowledge Graph Modeling and Large Language Model",
-          "link": "https://arxiv.org/abs/2608.11244",
+          "title": "Designing AI Pipelines for Decision-Ready ITSM Intelligence",
+          "link": "https://arxiv.org/abs/2608.12670",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Towards Sustainable Learning in Online Education: A Reinforcement Learning Approach",
-          "link": "https://arxiv.org/abs/2608.11245",
+          "title": "On the Expressive Power of Transformers",
+          "link": "https://arxiv.org/abs/2608.12671",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Towards the Harness of Embodied Agents",
-          "link": "https://arxiv.org/abs/2608.11246",
+          "title": "Lines and Ladders: A Context-Aware Multi-Agent Framework for Large-Scale Retail Price Taxonomy",
+          "link": "https://arxiv.org/abs/2608.12674",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Conformity Mitigations in Large Language Models Lie on a Single Resistance-Receptivity Frontier",
-          "link": "https://arxiv.org/abs/2608.11247",
+          "title": "Privacy-Preserving RAG by Concealing Sensitive Information from External LLMs",
+          "link": "https://arxiv.org/abs/2608.12675",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "EvoGraph-Mem: Failure-Aware Editable Graph Memory for Long-Term Language Agents",
-          "link": "https://arxiv.org/abs/2608.11248",
+          "title": "The Role of Natural Language Understanding in Multimodal Video-Based Dengue Diagnosis",
+          "link": "https://arxiv.org/abs/2608.12677",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search",
-          "link": "https://arxiv.org/abs/2608.11250",
+          "title": "Beyond the Best Guess: Improving LLM Solution Coverage with Evolution Strategies",
+          "link": "https://arxiv.org/abs/2608.12679",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Local verification cannot detect non-transportability: a cohomological theory of context preservation in agentic reasoning",
-          "link": "https://arxiv.org/abs/2608.11252",
+          "title": "Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence",
+          "link": "https://arxiv.org/abs/2608.12743",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Symbolic Machine Learning for Vapor-Liquid Equilibrium Prediction in Cx-N2 Binary Mixtures",
-          "link": "https://arxiv.org/abs/2608.11255",
+          "title": "Correct Is Not Governed: Provenance Integrity in Agentic Workflows",
+          "link": "https://arxiv.org/abs/2608.12761",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Adaptive Hybrid Particle Swarm Optimization with Gradient Descent",
-          "link": "https://arxiv.org/abs/2608.11258",
+          "title": "PROVE-RT: Generating Mechanized Theorem Prover Scripts for Real-Time Systems using LLMs",
+          "link": "https://arxiv.org/abs/2608.12762",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Glance, Scrutinize, and Think: Advancing Video Anomaly Detection from Training-Free to Agentic Reasoning",
-          "link": "https://arxiv.org/abs/2608.11260",
+          "title": "ARAC: Benchmarking Auto-Research's Alignment and Completeness on End-to-End Researchs",
+          "link": "https://arxiv.org/abs/2608.12788",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Deployment Decision Reliability: A Generalizability-Theory Framework for Sizing Long-Horizon Agent Evaluations",
-          "link": "https://arxiv.org/abs/2608.11323",
+          "title": "CABS+: Efficient and Scalable Model Merging via Conflict-Aware Sparsification and Adaptive Weight Allocation",
+          "link": "https://arxiv.org/abs/2608.12842",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Apodex Discovery: Reality Benchmarks and Environments for Evaluating and Building Discoverative Artificial Intelligence",
-          "link": "https://arxiv.org/abs/2608.11341",
+          "title": "Beyond Retrieval: Query-Conditioned Reuse of Long-Horizon Agent Trajectories",
+          "link": "https://arxiv.org/abs/2608.12847",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Can Frontier LLMs Match Natively Multimodal Embeddings? A Comparison on Hard-Negative Text-to-Image Retrieval",
-          "link": "https://arxiv.org/abs/2608.11343",
+          "title": "Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents",
+          "link": "https://arxiv.org/abs/2608.12851",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "Inverse Theory of Mind Modeling for Content Recommendation: From Web Browsing to Dynamic Intelligent Interfaces",
-          "link": "https://arxiv.org/abs/2608.11354",
+          "title": "AI and Consumer Rights in India Working Paper",
+          "link": "https://arxiv.org/abs/2608.12863",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         },
         {
-          "title": "From Numbers to Judgment: Specialist LLM Agents and Reinforcement Learning for European Listed Real Estate",
-          "link": "https://arxiv.org/abs/2608.11381",
+          "title": "ReflectFact: Self-Reflective Agents for Improving Comprehension and Reasoning in Multi-Hop Fact Verification",
+          "link": "https://arxiv.org/abs/2608.12877",
           "source": "arXiv cs.AI",
-          "published": "2026-08-13T04:00:00+00:00"
+          "published": "2026-08-14T04:00:00+00:00"
         }
       ]
     }
