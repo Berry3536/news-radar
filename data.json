@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-08-13T18:58:58.600645+00:00",
+  "generated_at": "2026-08-14T01:43:08.510027+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "2027 Lucid Gravity GT-S: Meet America’s Most Powerful Three-Row SUV",
+          "link": "https://insideevs.com/news/804819/lucid-gravity-gt-s-specs-photos-official/",
+          "source": "InsideEVs",
+          "published": "2026-08-13T23:00:00+00:00"
+        },
+        {
+          "title": "This electric aircraft fire truck hits 50 mph in under 20 seconds",
+          "link": "https://electrek.co/2026/08/13/electric-aircraft-rescue-fire-truck-rosenbauer-dallas/",
+          "source": "Electrek",
+          "published": "2026-08-13T22:33:18+00:00"
+        },
+        {
+          "title": "Kia sold over 8,000 EV2s in just 3 months",
+          "link": "https://electrek.co/2026/08/13/kia-sold-over-8000-ev2s-3-months/",
+          "source": "Electrek",
+          "published": "2026-08-13T21:30:50+00:00"
+        },
+        {
+          "title": "Ford recalls nearly 90,000 Mustang Mach-E EVs because part of the trim can fall off",
+          "link": "https://electrek.co/2026/08/13/ford-recalling-nearly-90000-mustang-mach-e-evs/",
+          "source": "Electrek",
+          "published": "2026-08-13T19:44:23+00:00"
+        },
+        {
+          "title": "Tesla pays Musk 2.5 million times more than average worker, even as profits drop",
+          "link": "https://electrek.co/2026/08/13/musk-paid-2-5m-times-more-than-average-tesla-worker-despite-dropping-profits/",
+          "source": "Electrek",
+          "published": "2026-08-13T19:42:26+00:00"
+        },
         {
           "title": "NJ Dealer Claims Polestar Intentionally Quit The U.S. With Government Ban As Cover Up",
           "link": "https://insideevs.com/news/804851/nj-dealer-suing-polestar-coverup/",
@@ -215,44 +245,20 @@
           "link": "https://electrek.co/2026/08/12/the-strange-story-behind-colorados-no-catch-free-e-bike-company/",
           "source": "Electrek",
           "published": "2026-08-12T16:28:22+00:00"
-        },
-        {
-          "title": "Jaguar’s new EV interior is just as controversial as its exterior [Images]",
-          "link": "https://electrek.co/2026/08/12/jaguar-unveils-controversial-ev-interior-first-time-images/",
-          "source": "Electrek",
-          "published": "2026-08-12T15:59:55+00:00"
-        },
-        {
-          "title": "The Lucid Cosmos Will Have More Range Than Any Tesla",
-          "link": "https://insideevs.com/news/804699/lucid-cosmos-400-miles-of-range/",
-          "source": "InsideEVs",
-          "published": "2026-08-12T15:51:59+00:00"
-        },
-        {
-          "title": "Cadillac Will Give Escalade IQ Buyers Rolls-Royce-Style Customization for an Extra $54,995",
-          "link": "https://insideevs.com/news/804540/cadillac-escalade-iq-curated-customization/",
-          "source": "InsideEVs",
-          "published": "2026-08-12T15:28:55+00:00"
-        },
-        {
-          "title": "This $1,800 electric motorcycle hits 70 MPH and could change the game",
-          "link": "https://electrek.co/2026/08/12/this-1800-electric-motorcycle-hits-70-mph-and-could-change-the-game/",
-          "source": "Electrek",
-          "published": "2026-08-12T15:05:11+00:00"
-        },
-        {
-          "title": "Ford has a new $25,000 crossover SUV coming, but will it go electric?",
-          "link": "https://electrek.co/2026/08/12/ford-reveals-new-25000-crossover-suv-dealers/",
-          "source": "Electrek",
-          "published": "2026-08-12T14:18:35+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 25,
+      "count": 24,
       "items": [
+        {
+          "title": "Back Up Your Refrigerator And Cut Electricity Costs with BLUETTI FridgePower",
+          "link": "https://cleantechnica.com/2026/08/13/back-up-your-refrigerator-and-cut-electricity-costs-with-bluetti-fridgepower/",
+          "source": "CleanTechnica",
+          "published": "2026-08-13T22:12:45+00:00"
+        },
         {
           "title": "Report says Porsche will end Taycan production by 2030, reversing course",
           "link": "https://electrek.co/2026/08/13/report-says-porsche-will-end-taycan-production-by-2030-reversing-course/",
@@ -350,18 +356,6 @@
           "published": "2026-08-10T10:59:56+00:00"
         },
         {
-          "title": "Silicon EV Batteries Earn $1.4 Billion Seal Of Approval From Defense Department",
-          "link": "https://cleantechnica.com/2026/08/10/silicon-ev-batteries-earn-1-4-billion-seal-of-approval-from-defense-department/",
-          "source": "CleanTechnica",
-          "published": "2026-08-10T10:55:21+00:00"
-        },
-        {
-          "title": "Power Systems Have More Flexibility Plans Than Flexible Grids",
-          "link": "https://cleantechnica.com/2026/08/09/grid-flexibility-plans-outpacing-delivery/",
-          "source": "CleanTechnica",
-          "published": "2026-08-09T06:40:17+00:00"
-        },
-        {
           "title": "Navee UT5 Ultra X superscooter $1,955 low, EGO Nexus power station bundle $799 low, Aventon $1,299 flash sale e-bike lows, more",
           "link": "https://electrek.co/2026/08/07/navee-ut5-ultra-x-superscooter-ego-nexus-power-station-aventon-e-bikes-more/",
           "source": "Electrek",
@@ -408,7 +402,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 8,
+      "count": 7,
       "items": [
         {
           "title": "제네시스, 전기차 주행감성 극대화한 차세대 하이브리드 시스템 공개",
@@ -451,12 +445,6 @@
           "link": "https://electrek.co/2026/08/05/2027-toyota-bz-woodland-prices-45000-awd/",
           "source": "Electrek",
           "published": "2026-08-05T18:57:34+00:00"
-        },
-        {
-          "title": "GM will begin shipping electric Buick vehicles from China overseas, starting with this SUV",
-          "link": "https://electrek.co/2026/08/05/gm-buick-evs-china-overseas-suv/",
-          "source": "Electrek",
-          "published": "2026-08-05T15:46:20+00:00"
         }
       ]
     },
@@ -488,6 +476,12 @@
           "link": "https://www.therobotreport.com/experts-discuss-state-humanoid-robots-robobusiness-2026/",
           "source": "The Robot Report",
           "published": "2026-08-13T12:30:25+00:00"
+        },
+        {
+          "title": "BioflexBot robot hand aims to replicate key human hand motions",
+          "link": "https://www.therobotreport.com/bioflexbot-robot-hand-aims-to-replicate-key-human-hand-motions/",
+          "source": "The Robot Report",
+          "published": "2026-08-13T12:15:02+00:00"
         },
         {
           "title": "SEW-EURODRIVE adds economy series to its planetary servo gear unit portfolio",
@@ -556,12 +550,6 @@
           "published": "2026-08-10T22:33:12+00:00"
         },
         {
-          "title": "Tate deploys 58 Hirebotics cobot welders across multiple facilities",
-          "link": "https://www.therobotreport.com/tate-deploys-58-hirebotics-cobot-welders-across-multiple-facilities/",
-          "source": "The Robot Report",
-          "published": "2026-08-10T18:46:22+00:00"
-        },
-        {
           "title": "Robot Recycler Salvages Parts From Broken Machines",
           "link": "https://spectrum.ieee.org/recycling-robot",
           "source": "IEEE Spectrum",
@@ -599,10 +587,10 @@
       "count": 40,
       "items": [
         {
-          "title": "오픈AI·앤트로픽 암호화 '사고 과정' 통째 유출...API 설계 허점 파문",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213894",
+          "title": "[8월13일] 클로드 워터마크 도입에 불붙은 논쟁…\"AI가 썼다와 AI가 처리했다는 다르다\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213884",
           "source": "AI타임스",
-          "published": "2026-08-13T19:00:43+00:00"
+          "published": "2026-08-14T07:00:00+00:00"
         },
         {
           "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
