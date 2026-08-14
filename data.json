@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-14T07:19:56.815830+00:00",
+  "generated_at": "2026-08-14T12:59:15.624460+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "페라리, SF90 스트라달레 기반의 원오프 모델 CZ26 공개",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44321",
+          "source": "모터그래프",
+          "published": "2026-08-14T18:08:14+00:00"
+        },
+        {
+          "title": "Wheel-E Podcast: Rivan bike coming, ‘free’ e-bikes, more",
+          "link": "https://electrek.co/2026/08/14/wheel-e-podcast-rivan-bike-coming-free-e-bikes-more/",
+          "source": "Electrek",
+          "published": "2026-08-14T12:34:37+00:00"
+        },
+        {
+          "title": "Critics Slam Tesla's Gamification Of FSD As Driver Hits 25,000-Mile Streak",
+          "link": "https://insideevs.com/news/804844/tesla-fsd-streak-25k-miles/",
+          "source": "InsideEVs",
+          "published": "2026-08-14T12:00:00+00:00"
+        },
+        {
+          "title": "This Is The World's Largest Electric Aircraft—And Its First Flight Cost Just $5",
+          "link": "https://insideevs.com/news/804915/heart-aerospace-x1-largest-electric-aircraft-first-flight/",
+          "source": "InsideEVs",
+          "published": "2026-08-14T08:16:47+00:00"
+        },
         {
           "title": "The 2027 Karma Gyesera Is $35,000 Cheaper Than The Revero It Replaces",
           "link": "https://insideevs.com/news/804900/karma-kaveya-pricing/",
@@ -71,12 +95,6 @@
           "link": "https://electrek.co/2026/08/13/report-says-porsche-will-end-taycan-production-by-2030-reversing-course/",
           "source": "Electrek",
           "published": "2026-08-13T17:43:55+00:00"
-        },
-        {
-          "title": "제네시스, 전기차 주행감성 극대화한 차세대 하이브리드 시스템 공개",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44312",
-          "source": "모터그래프",
-          "published": "2026-08-13T16:57:55+00:00"
         },
         {
           "title": "Tesla Electric launches $35/month Powerwall whole-home backup lease",
@@ -227,31 +245,13 @@
           "link": "https://electrek.co/2026/08/12/lectric-xp-lite2-e-bike-508-bundle-anker-solix-3840wh-f3800-power-station-ecoflow-more/",
           "source": "Electrek",
           "published": "2026-08-12T18:00:00+00:00"
-        },
-        {
-          "title": "Volkswagen launches the ID.3 Neo in the UK with up to 390 miles of range",
-          "link": "https://electrek.co/2026/08/12/volkswagen-launches-id-3-neo-uk-390-miles-range/",
-          "source": "Electrek",
-          "published": "2026-08-12T17:13:38+00:00"
-        },
-        {
-          "title": "EVgo + GM open 350 kW flagship charging for EVs with trailers",
-          "link": "https://electrek.co/2026/08/12/evgo-gm-open-350-kw-flagship-charging-for-evs-with-trailers/",
-          "source": "Electrek",
-          "published": "2026-08-12T16:56:27+00:00"
-        },
-        {
-          "title": "Mitsubishi Taps iPhone Manufacturer For its Next EV",
-          "link": "https://insideevs.com/news/804706/iphone-foxtron-australia-mitsubishi-asx/",
-          "source": "InsideEVs",
-          "published": "2026-08-12T16:40:10+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 23,
+      "count": 22,
       "items": [
         {
           "title": "Back Up Your Refrigerator And Cut Electricity Costs with BLUETTI FridgePower",
@@ -338,12 +338,6 @@
           "published": "2026-08-11T02:23:53+00:00"
         },
         {
-          "title": "CATL Battery for Electric Aviation Passes Important Safety Test",
-          "link": "https://cleantechnica.com/2026/08/10/catl-battery-for-electric-aviation-passes-important-safety-test/",
-          "source": "CleanTechnica",
-          "published": "2026-08-10T22:36:28+00:00"
-        },
-        {
           "title": "Musk’s Terafab chip plant will run on gas, not Tesla solar",
           "link": "https://electrek.co/2026/08/10/musk-terafab-gas-power-not-tesla-solar/",
           "source": "Electrek",
@@ -396,13 +390,13 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 7,
+      "count": 6,
       "items": [
         {
-          "title": "제네시스, 전기차 주행감성 극대화한 차세대 하이브리드 시스템 공개",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44312",
+          "title": "한국타이어, 2026 그램피언 포레스트 랠리 포디엄 석권 견인",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44316",
           "source": "모터그래프",
-          "published": "2026-08-13T16:57:55+00:00"
+          "published": "2026-08-14T18:06:40+00:00"
         },
         {
           "title": "This $1,800 electric motorcycle hits 70 MPH and could change the game",
@@ -433,12 +427,6 @@
           "link": "https://electrek.co/2026/08/05/fcc-bans-foreign-made-connected-solar-inverters/",
           "source": "Electrek",
           "published": "2026-08-05T19:55:00+00:00"
-        },
-        {
-          "title": "The 2027 Toyota bZ Woodland EV starts at $45,000 with AWD",
-          "link": "https://electrek.co/2026/08/05/2027-toyota-bz-woodland-prices-45000-awd/",
-          "source": "Electrek",
-          "published": "2026-08-05T18:57:34+00:00"
         }
       ]
     },
@@ -448,10 +436,16 @@
       "count": 21,
       "items": [
         {
-          "title": "주간 로봇 기업 주가 동향(08/10 ~ 08/14)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47919",
+          "title": "산업부·현대차그룹·육군 MOU…“로봇·피지컬 AI 국방 적용 확대”",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47935",
           "source": "로봇신문",
-          "published": "2026-08-14T15:40:51+00:00"
+          "published": "2026-08-14T18:07:46+00:00"
+        },
+        {
+          "title": "Robots on Wall Street: Non-traditional paths to public markets for robotics companies",
+          "link": "https://www.therobotreport.com/robots-on-wall-street-non-traditional-paths-public-markets-robotics-companies/",
+          "source": "The Robot Report",
+          "published": "2026-08-14T12:30:40+00:00"
         },
         {
           "title": "Mobile manipulators and humanoids: The future of robotics",
@@ -538,12 +532,6 @@
           "published": "2026-08-10T23:40:18+00:00"
         },
         {
-          "title": "Hadrian raises $1.37B to accelerate U.S. defense, aerospace manufacturing",
-          "link": "https://www.therobotreport.com/hadrian-raises-1-37b-accelerate-u-s-manufacturing/",
-          "source": "The Robot Report",
-          "published": "2026-08-10T22:33:12+00:00"
-        },
-        {
           "title": "Robot Recycler Salvages Parts From Broken Machines",
           "link": "https://spectrum.ieee.org/recycling-robot",
           "source": "IEEE Spectrum",
@@ -581,10 +569,10 @@
       "count": 40,
       "items": [
         {
-          "title": "오픈AI, 14배 빠른 '울트라패스트' 모드 공개...\"지능과 속도 다 잡았다\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213946",
+          "title": "앤트로픽 \"동일 작업 투입된 에이전트, 상대 방해하고 악성코드 만들어 영역 싸움\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213964",
           "source": "AI타임스",
-          "published": "2026-08-14T16:16:46+00:00"
+          "published": "2026-08-14T17:10:27+00:00"
         },
         {
           "title": "Position: Reasoning is a Learnable Rule-Based Process",
