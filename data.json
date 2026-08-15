@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-08-14T18:49:38.361539+00:00",
+  "generated_at": "2026-08-15T01:04:02.998855+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "As EV sales, oil costs and wildfires spike, UK gov’t considers.. fewer EVs? (update)",
+          "link": "https://electrek.co/2026/08/14/ev-sales-oil-costs-and-temperatures-are-spiking-so-uk-govt-pushes-more-gas/",
+          "source": "Electrek",
+          "published": "2026-08-15T00:09:00+00:00"
+        },
+        {
+          "title": "Every 2027 GM EV will plug directly into Tesla Superchargers",
+          "link": "https://electrek.co/2026/08/14/every-2027-gm-ev-will-plug-directly-into-tesla-superchargers/",
+          "source": "Electrek",
+          "published": "2026-08-14T21:40:06+00:00"
+        },
+        {
+          "title": "Chevy Equinox EV vs Kia EV3: Which is America’s most affordable 315+ mile range EV?",
+          "link": "https://electrek.co/2026/08/14/chevy-equinox-ev-vs-kia-ev3-americas-most-affordable-315-mile-range-ev/",
+          "source": "Electrek",
+          "published": "2026-08-14T21:16:45+00:00"
+        },
+        {
+          "title": "Podcast: Tesla Roadster is happening?, Kia EV3 in US, gas pumps replaced, and more",
+          "link": "https://electrek.co/2026/08/14/podcast-tesla-roadster-is-happening-kia-ev3-in-us-gas-pumps-replaced-and-more/",
+          "source": "Electrek",
+          "published": "2026-08-14T19:49:12+00:00"
+        },
+        {
+          "title": "Waymo wins California approval to expand robotaxis across 18 counties",
+          "link": "https://electrek.co/2026/08/14/waymo-cpuc-approval-california-expansion-18-counties/",
+          "source": "Electrek",
+          "published": "2026-08-14T19:47:16+00:00"
+        },
+        {
+          "title": "BYD launches the Qin Max EV for half the price of a Tesla Model 3",
+          "link": "https://electrek.co/2026/08/14/byd-launches-qin-max-ev-half-price-tesla-model-3/",
+          "source": "Electrek",
+          "published": "2026-08-14T19:26:56+00:00"
+        },
         {
           "title": "페라리, SF90 스트라달레 기반의 원오프 모델 CZ26 공개",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44321",
@@ -209,49 +245,13 @@
           "link": "https://electrek.co/2026/08/13/urban-arrow-enters-the-longtail-cargo-e-bike-market-in-us-with-its-new-breeze/",
           "source": "Electrek",
           "published": "2026-08-13T14:02:00+00:00"
-        },
-        {
-          "title": "Rivian’s 2027 R1S adds captain’s chairs, its most-requested feature",
-          "link": "https://electrek.co/2026/08/13/rivian-2027-r1s-r1t-captains-chairs-new-trims-pricing/",
-          "source": "Electrek",
-          "published": "2026-08-13T14:00:00+00:00"
-        },
-        {
-          "title": "Rivian Just Added The ‘Number One Most Requested Feature’ To The R1S",
-          "link": "https://insideevs.com/news/804640/2027-rivian-r1s-r1s-trims-interior-price/",
-          "source": "InsideEVs",
-          "published": "2026-08-13T14:00:00+00:00"
-        },
-        {
-          "title": "Ford’s EV pickup is almost here, promising much more than an affordable price tag",
-          "link": "https://electrek.co/2026/08/13/fords-ev-pickup-arrives-2027-more-than-affordable-price/",
-          "source": "Electrek",
-          "published": "2026-08-13T13:00:00+00:00"
-        },
-        {
-          "title": "Ford Converts Louisville Plant For The $28,000 Fathom Electric Truck In Under A Year",
-          "link": "https://insideevs.com/news/804739/ford-fathom-ev-retooling-louisville-assembly-plant-complete/",
-          "source": "InsideEVs",
-          "published": "2026-08-13T13:00:00+00:00"
-        },
-        {
-          "title": "After 500 Hard Miles In A BMW iX3, Range Anxiety Feels Outdated",
-          "link": "https://insideevs.com/features/804813/bmw-ix3-romania-roadtrip-transfagarasan/",
-          "source": "InsideEVs",
-          "published": "2026-08-13T12:31:11+00:00"
-        },
-        {
-          "title": "Rivian’s long-delayed ALSO e-bike is only delayed a little bit longer",
-          "link": "https://electrek.co/2026/08/13/rivians-long-delayed-also-e-bike-is-only-delayed-a-little-bit-longer/",
-          "source": "Electrek",
-          "published": "2026-08-13T11:28:00+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 21,
+      "count": 19,
       "items": [
         {
           "title": "Velotric Nomad 2 e-bike new 1,749 low, Greenworks 60V 54-inch MaximusZ mower bundle low, Anker SOLIX, Segway, more",
@@ -350,12 +350,6 @@
           "published": "2026-08-11T13:12:07+00:00"
         },
         {
-          "title": "Steady Progress Reshapes Australia’s Energy Market — July 2026 Update",
-          "link": "https://cleantechnica.com/2026/08/10/steady-progress-reshapes-australias-energy-market-july-2026-update/",
-          "source": "CleanTechnica",
-          "published": "2026-08-11T02:23:53+00:00"
-        },
-        {
           "title": "Musk’s Terafab chip plant will run on gas, not Tesla solar",
           "link": "https://electrek.co/2026/08/10/musk-terafab-gas-power-not-tesla-solar/",
           "source": "Electrek",
@@ -372,12 +366,6 @@
           "link": "https://electrek.co/2026/08/06/tesla-megapack-power-orsted-big-new-texas-grid-battery/",
           "source": "Electrek",
           "published": "2026-08-06T21:30:11+00:00"
-        },
-        {
-          "title": "Jackery 1,024Wh HomePower 1000 v2 power station exclusive new $449 low, Greenworks 80V MaximusZ bundle, more",
-          "link": "https://electrek.co/2026/08/06/jackery-1024wh-homepower-1000-v2-power-station-greenworks-80v-maximusz-more/",
-          "source": "Electrek",
-          "published": "2026-08-06T18:00:00+00:00"
         }
       ]
     },
@@ -429,6 +417,12 @@
       "label": "로봇",
       "count": 21,
       "items": [
+        {
+          "title": "How Protolabs turns CAD files into parts in under 24 hours",
+          "link": "https://www.therobotreport.com/how-protolabs-turns-cad-files-into-parts-under-24-hours/",
+          "source": "The Robot Report",
+          "published": "2026-08-14T22:14:19+00:00"
+        },
         {
           "title": "산업부·현대차그룹·육군 MOU…“로봇·피지컬 AI 국방 적용 확대”",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47935",
@@ -526,12 +520,6 @@
           "published": "2026-08-11T14:34:31+00:00"
         },
         {
-          "title": "The 370-billion-dollar race: How integrated design can help humanoid manufacturers succeed in a rapidly growing market",
-          "link": "https://www.therobotreport.com/the-370-billion-dollar-race-how-integrated-design-can-help-humanoid-manufacturers-succeed-in-a-rapidly-growing-market/",
-          "source": "The Robot Report",
-          "published": "2026-08-11T14:17:22+00:00"
-        },
-        {
           "title": "Robot Recycler Salvages Parts From Broken Machines",
           "link": "https://spectrum.ieee.org/recycling-robot",
           "source": "IEEE Spectrum",
@@ -563,10 +551,10 @@
       "count": 40,
       "items": [
         {
-          "title": "앤트로픽 \"동일 작업 투입된 에이전트, 상대 방해하고 악성코드 만들어 영역 싸움\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213964",
+          "title": "[8월14일] AI는 싸졌는데 비용은 늘어난다…‘토큰 경제학’이 흔드는 AI 가격표",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213944",
           "source": "AI타임스",
-          "published": "2026-08-14T17:10:27+00:00"
+          "published": "2026-08-15T07:00:00+00:00"
         },
         {
           "title": "Position: Reasoning is a Learnable Rule-Based Process",
