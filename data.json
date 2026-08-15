@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-08-15T12:31:36.000054+00:00",
+  "generated_at": "2026-08-15T18:23:54.342753+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Corrupt DoT head took oil money for reality TV show during oil price spike (update)",
+          "link": "https://electrek.co/2026/08/15/corrupt-dot-head-takes-oil-money-to-film-reality-tv-show-during-oil-price-spike/",
+          "source": "Electrek",
+          "published": "2026-08-15T17:00:00+00:00"
+        },
+        {
+          "title": "Turning millions of Teslas and Mach-Es into V2L power stations: WETOX D2 earns world’s first Next-Gen V2X certification from SGS",
+          "link": "https://electrek.co/2026/08/15/turning-millions-teslas-mach-es-into-v2l-power-stations-wetox-d2-earns-worlds-first-next-gen-v2x-certification-sgs/",
+          "source": "Electrek",
+          "published": "2026-08-15T16:00:00+00:00"
+        },
+        {
+          "title": "Current classics: Bisimoto’s 600 hp electric Rolls-Royce SilvEV Ghost",
+          "link": "https://electrek.co/2026/08/15/current-classics-bisimotos-600-hp-electric-rolls-royce-silvev-ghost/",
+          "source": "Electrek",
+          "published": "2026-08-15T15:38:06+00:00"
+        },
+        {
+          "title": "Speeders just got lucky: the new Dodge police Charger is NOT electric",
+          "link": "https://electrek.co/2026/08/15/speeders-just-got-lucky-the-new-dodge-police-charger-is-not-electric/",
+          "source": "Electrek",
+          "published": "2026-08-15T14:19:40+00:00"
+        },
+        {
+          "title": "This Chinese Electric SUV Just Recreated Mercedes’ Most Controversial Ad",
+          "link": "https://insideevs.com/news/804955/chinese-ev-voyah-tunnel-loop-stunt/",
+          "source": "InsideEVs",
+          "published": "2026-08-15T14:00:00+00:00"
+        },
+        {
+          "title": "PACCAR brand DAF to add Level 4 Einride autonomy to its electric trucks",
+          "link": "https://electrek.co/2026/08/15/paccar-brand-daf-to-add-level-4-einride-autonomy-to-its-electric-trucks/",
+          "source": "Electrek",
+          "published": "2026-08-15T12:40:29+00:00"
+        },
         {
           "title": "As EV sales, oil costs and wildfires spike, UK gov’t considers.. fewer EVs? (update)",
           "link": "https://electrek.co/2026/08/14/ev-sales-oil-costs-and-temperatures-are-spiking-so-uk-govt-pushes-more-gas/",
@@ -209,42 +245,6 @@
           "link": "https://electrek.co/2026/08/13/tesla-powerwall-backup-lease-tesla-electric-texas/",
           "source": "Electrek",
           "published": "2026-08-13T16:50:37+00:00"
-        },
-        {
-          "title": "Genesis unveils the GV80 HEV, its first hybrid with an ‘EV-like’ drive and better efficiency",
-          "link": "https://electrek.co/2026/08/13/genesis-unveils-gv80-hev-first-hybrid/",
-          "source": "Electrek",
-          "published": "2026-08-13T16:21:26+00:00"
-        },
-        {
-          "title": "2027 Kia Telluride Hybrid Review: Outclassed By The EV9?",
-          "link": "https://insideevs.com/reviews/804226/2027-kia-telluride-hybrid-outclassed-by-ev9/",
-          "source": "InsideEVs",
-          "published": "2026-08-13T16:00:00+00:00"
-        },
-        {
-          "title": "Tesla defeats Sweden’s IF Metall union after 1,021-day strike",
-          "link": "https://electrek.co/2026/08/13/tesla-defeats-sweden-if-metall-union-strike/",
-          "source": "Electrek",
-          "published": "2026-08-13T15:08:04+00:00"
-        },
-        {
-          "title": "VIDEO: I Drove China's Best Selling Car. It's Really Good",
-          "link": "https://insideevs.com/reviews/803772/geely-ex2-review-video-ex2/",
-          "source": "InsideEVs",
-          "published": "2026-08-13T15:00:00+00:00"
-        },
-        {
-          "title": "Volkswagen’s new electric camper van turns the ID. Buzz into a home on wheels",
-          "link": "https://electrek.co/2026/08/13/volkswagen-turning-id-buzz-into-electric-camper-van/",
-          "source": "Electrek",
-          "published": "2026-08-13T14:33:09+00:00"
-        },
-        {
-          "title": "Urban Arrow enters the longtail cargo e-bike market in US with its new Breeze",
-          "link": "https://electrek.co/2026/08/13/urban-arrow-enters-the-longtail-cargo-e-bike-market-in-us-with-its-new-breeze/",
-          "source": "Electrek",
-          "published": "2026-08-13T14:02:00+00:00"
         }
       ]
     },
@@ -253,6 +253,18 @@
       "label": "배터리",
       "count": 18,
       "items": [
+        {
+          "title": "Turning millions of Teslas and Mach-Es into V2L power stations: WETOX D2 earns world’s first Next-Gen V2X certification from SGS",
+          "link": "https://electrek.co/2026/08/15/turning-millions-teslas-mach-es-into-v2l-power-stations-wetox-d2-earns-worlds-first-next-gen-v2x-certification-sgs/",
+          "source": "Electrek",
+          "published": "2026-08-15T16:00:00+00:00"
+        },
+        {
+          "title": "Speeders just got lucky: the new Dodge police Charger is NOT electric",
+          "link": "https://electrek.co/2026/08/15/speeders-just-got-lucky-the-new-dodge-police-charger-is-not-electric/",
+          "source": "Electrek",
+          "published": "2026-08-15T14:19:40+00:00"
+        },
         {
           "title": "Velotric Nomad 2 e-bike new 1,749 low, Greenworks 60V 54-inch MaximusZ mower bundle low, Anker SOLIX, Segway, more",
           "link": "https://electrek.co/2026/08/14/velotric-nomad-2-e-bike-greenworks-60v-54-inch-maximusz-mower-anker-solix-segway-more/",
@@ -308,12 +320,6 @@
           "published": "2026-08-12T18:00:00+00:00"
         },
         {
-          "title": "Arcfox Goes Battery Swapping with the Help of CATL",
-          "link": "https://cleantechnica.com/2026/08/11/arcfox-goes-battery-swapping-with-the-help-of-catl/",
-          "source": "CleanTechnica",
-          "published": "2026-08-12T00:17:20+00:00"
-        },
-        {
           "title": "Anker SOLIX Mega Sale offers up to 48% power station discounts + one-day-only C1000X $399 off, AeroGarden, more",
           "link": "https://electrek.co/2026/08/11/anker-solix-mega-sale-power-station-c1000x-aerogarden-more/",
           "source": "Electrek",
@@ -354,12 +360,6 @@
           "link": "https://electrek.co/2026/08/07/navee-ut5-ultra-x-superscooter-ego-nexus-power-station-aventon-e-bikes-more/",
           "source": "Electrek",
           "published": "2026-08-07T18:00:00+00:00"
-        },
-        {
-          "title": "A 500 MWh Tesla Megapack battery just went live in Texas",
-          "link": "https://electrek.co/2026/08/06/tesla-megapack-power-orsted-big-new-texas-grid-battery/",
-          "source": "Electrek",
-          "published": "2026-08-06T21:30:11+00:00"
         }
       ]
     },
@@ -411,6 +411,12 @@
       "label": "로봇",
       "count": 21,
       "items": [
+        {
+          "title": "Why robots that can’t communicate naturally won’t be adopted",
+          "link": "https://www.therobotreport.com/why-robots-that-cant-communicate-naturally-wont-be-adopted-says-treble/",
+          "source": "The Robot Report",
+          "published": "2026-08-15T12:20:18+00:00"
+        },
         {
           "title": "How Protolabs turns CAD files into parts in under 24 hours",
           "link": "https://www.therobotreport.com/how-protolabs-turns-cad-files-into-parts-under-24-hours/",
@@ -506,12 +512,6 @@
           "link": "https://www.therobotreport.com/plusai-reaches-key-milestones-ahead-launch-autonomous-trucks/",
           "source": "The Robot Report",
           "published": "2026-08-11T17:13:33+00:00"
-        },
-        {
-          "title": "Webinar to discuss safety and scaling robot fleets in the warehouse",
-          "link": "https://www.therobotreport.com/webinar-to-discuss-safety-scaling-robot-fleets-warehouse/",
-          "source": "The Robot Report",
-          "published": "2026-08-11T14:34:31+00:00"
         },
         {
           "title": "Robot Recycler Salvages Parts From Broken Machines",
