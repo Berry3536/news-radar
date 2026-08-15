@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T01:04:02.998855+00:00",
+  "generated_at": "2026-08-15T06:32:29.105536+00:00",
   "categories": [
     {
       "key": "ev",
@@ -251,7 +251,7 @@
     {
       "key": "battery",
       "label": "배터리",
-      "count": 19,
+      "count": 18,
       "items": [
         {
           "title": "Velotric Nomad 2 e-bike new 1,749 low, Greenworks 60V 54-inch MaximusZ mower bundle low, Anker SOLIX, Segway, more",
@@ -324,12 +324,6 @@
           "link": "https://electrek.co/2026/08/11/china-sales-numbers-are-in-evs-up-while-everything-with-an-engine-collapses/",
           "source": "Electrek",
           "published": "2026-08-11T17:47:43+00:00"
-        },
-        {
-          "title": "Organic Flow Batteries Get Another Shot At Long Duration Energy Storage",
-          "link": "https://cleantechnica.com/2026/08/11/energy-storage-organic-flow-battery-us-innovation-startups/",
-          "source": "CleanTechnica",
-          "published": "2026-08-11T16:54:43+00:00"
         },
         {
           "title": "Tesla files for $10.1B ‘Project Crystal Sun’ solar factory in Texas",
@@ -551,244 +545,244 @@
       "count": 40,
       "items": [
         {
-          "title": "[8월14일] AI는 싸졌는데 비용은 늘어난다…‘토큰 경제학’이 흔드는 AI 가격표",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213944",
+          "title": "구글, AI 생성물 '보이는 워터마크' 제거 허용...비가시성 ‘신스ID’는 유지",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213989",
           "source": "AI타임스",
-          "published": "2026-08-15T07:00:00+00:00"
+          "published": "2026-08-15T15:08:55+00:00"
         },
         {
           "title": "Position: Reasoning is a Learnable Rule-Based Process",
           "link": "https://arxiv.org/abs/2608.12325",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
           "link": "https://arxiv.org/abs/2608.12345",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
           "link": "https://arxiv.org/abs/2608.12346",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
           "link": "https://arxiv.org/abs/2608.12368",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
           "link": "https://arxiv.org/abs/2608.12371",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
           "link": "https://arxiv.org/abs/2608.12372",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
           "link": "https://arxiv.org/abs/2608.12373",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
           "link": "https://arxiv.org/abs/2608.12385",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
           "link": "https://arxiv.org/abs/2608.12389",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Research Assistant: AstraZeneca's Agentic System for R&D",
           "link": "https://arxiv.org/abs/2608.12395",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Large Language Models Can Follow Instructions, But Not Many at Once: Phase Transitions in Compositional Constraint Satisfaction",
           "link": "https://arxiv.org/abs/2608.12426",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "MindMemOS: A Portable and Self-Evolving Memory Operating Layer for AI Agents",
           "link": "https://arxiv.org/abs/2608.12428",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Governed Persistent Memory: Source-Bound State Semantics and Fail-Closed Release for Long-Horizon Agents",
           "link": "https://arxiv.org/abs/2608.12476",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "$\\varepsilon$-MemEvo: Adaptive Cross-Task Memory Transfer for LLM Program Evolution",
           "link": "https://arxiv.org/abs/2608.12522",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "CAS: A Causal Attribution Score for Local and Global Explainable Artificial Intelligence",
           "link": "https://arxiv.org/abs/2608.12555",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Trie Automata for Constrained Decoding over Large Finite Sets",
           "link": "https://arxiv.org/abs/2608.12574",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Reasoning Jury: Multi-Model Consensus for Evaluating Reasoning Traces",
           "link": "https://arxiv.org/abs/2608.12585",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting",
           "link": "https://arxiv.org/abs/2608.12590",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "DiG-bench: Discovery in Games",
           "link": "https://arxiv.org/abs/2608.12593",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Dead text or binding clause? Measuring and restoring constraint influence in black-box LLM dialogues",
           "link": "https://arxiv.org/abs/2608.12599",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "@skills: Attention is all you have",
           "link": "https://arxiv.org/abs/2608.12610",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Jagged Judges: Epistemic Stability Under Silence, Pressure, and Persistence",
           "link": "https://arxiv.org/abs/2608.12645",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries",
           "link": "https://arxiv.org/abs/2608.12654",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "General Probabilities of Causation with Causal Knowledge",
           "link": "https://arxiv.org/abs/2608.12657",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Designing AI Pipelines for Decision-Ready ITSM Intelligence",
           "link": "https://arxiv.org/abs/2608.12670",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "On the Expressive Power of Transformers",
           "link": "https://arxiv.org/abs/2608.12671",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Lines and Ladders: A Context-Aware Multi-Agent Framework for Large-Scale Retail Price Taxonomy",
           "link": "https://arxiv.org/abs/2608.12674",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Privacy-Preserving RAG by Concealing Sensitive Information from External LLMs",
           "link": "https://arxiv.org/abs/2608.12675",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "The Role of Natural Language Understanding in Multimodal Video-Based Dengue Diagnosis",
           "link": "https://arxiv.org/abs/2608.12677",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Beyond the Best Guess: Improving LLM Solution Coverage with Evolution Strategies",
           "link": "https://arxiv.org/abs/2608.12679",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence",
           "link": "https://arxiv.org/abs/2608.12743",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Correct Is Not Governed: Provenance Integrity in Agentic Workflows",
           "link": "https://arxiv.org/abs/2608.12761",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "PROVE-RT: Generating Mechanized Theorem Prover Scripts for Real-Time Systems using LLMs",
           "link": "https://arxiv.org/abs/2608.12762",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "ARAC: Benchmarking Auto-Research's Alignment and Completeness on End-to-End Researchs",
           "link": "https://arxiv.org/abs/2608.12788",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "CABS+: Efficient and Scalable Model Merging via Conflict-Aware Sparsification and Adaptive Weight Allocation",
           "link": "https://arxiv.org/abs/2608.12842",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Beyond Retrieval: Query-Conditioned Reuse of Long-Horizon Agent Trajectories",
           "link": "https://arxiv.org/abs/2608.12847",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents",
           "link": "https://arxiv.org/abs/2608.12851",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "AI and Consumer Rights in India Working Paper",
           "link": "https://arxiv.org/abs/2608.12863",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         },
         {
           "title": "ReflectFact: Self-Reflective Agents for Improving Comprehension and Reasoning in Multi-Hop Fact Verification",
           "link": "https://arxiv.org/abs/2608.12877",
           "source": "arXiv cs.AI",
-          "published": "2026-08-14T04:00:00+00:00"
+          "published": "2026-08-15T04:00:00+00:00"
         }
       ]
     }
