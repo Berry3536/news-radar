@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-08-16T06:34:31.076478+00:00",
+  "generated_at": "2026-08-16T12:32:51.239075+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "350-ton Longking ZL230E is the biggest, baddest battery mining rig you can buy",
+          "link": "https://electrek.co/2026/08/16/350-ton-longking-zl230e-is-the-biggest-baddest-battery-mining-rig-you-can-buy/",
+          "source": "Electrek",
+          "published": "2026-08-16T11:15:00+00:00"
+        },
+        {
+          "title": "This Tesla Model Y Lost 9% In One Year. Its Owner Isn’t Worried",
+          "link": "https://insideevs.com/news/805082/model-y-one-year-degradation/",
+          "source": "InsideEVs",
+          "published": "2026-08-16T07:57:26+00:00"
+        },
         {
           "title": "Weekend Quick Charge: all about autonomy with Waymo and GM",
           "link": "https://electrek.co/2026/08/15/weekend-quick-charge-all-about-autonomy-with-waymo-and-gm/",
@@ -233,26 +245,26 @@
           "link": "https://electrek.co/2026/08/13/jackery-homepower-3600-pro-max-power-station-velotric-e-bike-more/",
           "source": "Electrek",
           "published": "2026-08-13T18:00:00+00:00"
-        },
-        {
-          "title": "Volvo wants to help you save money on car insurance",
-          "link": "https://electrek.co/2026/08/13/volvo-help-you-save-money-car-insurance/",
-          "source": "Electrek",
-          "published": "2026-08-13T17:59:19+00:00"
-        },
-        {
-          "title": "IONNA just beat every major EV fast-charging network",
-          "link": "https://electrek.co/2026/08/13/ionna-just-beat-every-major-ev-fast-charging-network/",
-          "source": "Electrek",
-          "published": "2026-08-13T17:43:56+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 19,
+      "count": 21,
       "items": [
+        {
+          "title": "350-ton Longking ZL230E is the biggest, baddest battery mining rig you can buy",
+          "link": "https://electrek.co/2026/08/16/350-ton-longking-zl230e-is-the-biggest-baddest-battery-mining-rig-you-can-buy/",
+          "source": "Electrek",
+          "published": "2026-08-16T11:15:00+00:00"
+        },
+        {
+          "title": "This Tesla Model Y Lost 9% In One Year. Its Owner Isn’t Worried",
+          "link": "https://insideevs.com/news/805082/model-y-one-year-degradation/",
+          "source": "InsideEVs",
+          "published": "2026-08-16T07:57:26+00:00"
+        },
         {
           "title": "Tesla adds 2.4 kW vehicle-to-load to Model Y Premium with $80 adapter",
           "link": "https://electrek.co/2026/08/15/tesla-model-y-premium-vehicle-to-load-2-4-kw-adapter/",
@@ -418,6 +430,12 @@
       "count": 21,
       "items": [
         {
+          "title": "美 택타시스템즈, 정밀한 제조 작업용 로봇 손 기술 개발",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47939",
+          "source": "로봇신문",
+          "published": "2026-08-16T19:58:17+00:00"
+        },
+        {
           "title": "Why robots that can’t communicate naturally won’t be adopted",
           "link": "https://www.therobotreport.com/why-robots-that-cant-communicate-naturally-wont-be-adopted-says-treble/",
           "source": "The Robot Report",
@@ -428,12 +446,6 @@
           "link": "https://www.therobotreport.com/how-protolabs-turns-cad-files-into-parts-under-24-hours/",
           "source": "The Robot Report",
           "published": "2026-08-14T22:14:19+00:00"
-        },
-        {
-          "title": "산업부·현대차그룹·육군 MOU…“로봇·피지컬 AI 국방 적용 확대”",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47935",
-          "source": "로봇신문",
-          "published": "2026-08-14T18:07:46+00:00"
         },
         {
           "title": "Neros Technologies raises $250M to deploy its defense drones by the end of 2026",
@@ -551,10 +563,10 @@
       "count": 1,
       "items": [
         {
-          "title": "\"1조달러 IPO 앞두고 흔들리는 리더십\"… 오픈AI, 인원 이탈·안전성 후퇴 지적",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214006",
+          "title": "GLM-5.3, '커서' 보안 취약점 찾아냈다...AI 보안 역량 입증",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214011",
           "source": "AI타임스",
-          "published": "2026-08-16T12:05:48+00:00"
+          "published": "2026-08-16T18:16:38+00:00"
         }
       ]
     }
