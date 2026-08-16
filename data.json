@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-08-15T18:23:54.342753+00:00",
+  "generated_at": "2026-08-16T01:07:29.549907+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Weekend Quick Charge: all about autonomy with Waymo and GM",
+          "link": "https://electrek.co/2026/08/15/weekend-quick-charge-all-about-autonomy-with-waymo-and-gm/",
+          "source": "Electrek",
+          "published": "2026-08-15T21:51:52+00:00"
+        },
+        {
+          "title": "Tesla adds 2.4 kW vehicle-to-load to Model Y Premium with $80 adapter",
+          "link": "https://electrek.co/2026/08/15/tesla-model-y-premium-vehicle-to-load-2-4-kw-adapter/",
+          "source": "Electrek",
+          "published": "2026-08-15T19:19:37+00:00"
+        },
         {
           "title": "Corrupt DoT head took oil money for reality TV show during oil price spike (update)",
           "link": "https://electrek.co/2026/08/15/corrupt-dot-head-takes-oil-money-to-film-reality-tv-show-during-oil-price-spike/",
@@ -233,26 +245,20 @@
           "link": "https://electrek.co/2026/08/13/ionna-just-beat-every-major-ev-fast-charging-network/",
           "source": "Electrek",
           "published": "2026-08-13T17:43:56+00:00"
-        },
-        {
-          "title": "Report says Porsche will end Taycan production by 2030, reversing course",
-          "link": "https://electrek.co/2026/08/13/report-says-porsche-will-end-taycan-production-by-2030-reversing-course/",
-          "source": "Electrek",
-          "published": "2026-08-13T17:43:55+00:00"
-        },
-        {
-          "title": "Tesla Electric launches $35/month Powerwall whole-home backup lease",
-          "link": "https://electrek.co/2026/08/13/tesla-powerwall-backup-lease-tesla-electric-texas/",
-          "source": "Electrek",
-          "published": "2026-08-13T16:50:37+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 18,
+      "count": 19,
       "items": [
+        {
+          "title": "Tesla adds 2.4 kW vehicle-to-load to Model Y Premium with $80 adapter",
+          "link": "https://electrek.co/2026/08/15/tesla-model-y-premium-vehicle-to-load-2-4-kw-adapter/",
+          "source": "Electrek",
+          "published": "2026-08-15T19:19:37+00:00"
+        },
         {
           "title": "Turning millions of Teslas and Mach-Es into V2L power stations: WETOX D2 earns world’s first Next-Gen V2X certification from SGS",
           "link": "https://electrek.co/2026/08/15/turning-millions-teslas-mach-es-into-v2l-power-stations-wetox-d2-earns-worlds-first-next-gen-v2x-certification-sgs/",
@@ -545,10 +551,10 @@
       "count": 40,
       "items": [
         {
-          "title": "앤트로픽 '워터마크' 도입에 사용자 반발…'클로드' 구독 취소 확산",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213998",
+          "title": "앤트로픽, 2028년 매출 2000억달러 제시…'2조달러 IPO' 몸값 기준 됐다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214003",
           "source": "AI타임스",
-          "published": "2026-08-15T18:27:49+00:00"
+          "published": "2026-08-16T09:33:02+00:00"
         },
         {
           "title": "Position: Reasoning is a Learnable Rule-Based Process",
