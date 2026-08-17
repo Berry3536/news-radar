@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-08-17T06:48:46.567031+00:00",
+  "generated_at": "2026-08-17T12:37:30.426943+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Not sold on Tesla Powerwall? There are some great home battery alternatives out there",
+          "link": "https://electrek.co/2026/08/17/not-sold-on-tesla-powerwall-there-are-some-great-home-battery-alternatives-out-there/",
+          "source": "Electrek",
+          "published": "2026-08-17T12:10:00+00:00"
+        },
+        {
+          "title": "GM offers free charging to more of its Latin American Chevy customers",
+          "link": "https://electrek.co/2026/08/17/gm-offers-free-charging-to-more-of-its-latin-american-chevy-customers/",
+          "source": "Electrek",
+          "published": "2026-08-17T12:06:05+00:00"
+        },
+        {
+          "title": "Self-Driving Trucks Are Already Hitting The Road In California",
+          "link": "https://insideevs.com/news/805154/california-self-driving-trucks-test/",
+          "source": "InsideEVs",
+          "published": "2026-08-17T09:57:27+00:00"
+        },
+        {
+          "title": "Critics Slammed Ferrari's Luce EV. Someone Just Paid $40 Million For The First One",
+          "link": "https://insideevs.com/news/805132/ferrari-luce-ev-record-auction/",
+          "source": "InsideEVs",
+          "published": "2026-08-17T08:22:14+00:00"
+        },
+        {
+          "title": "Tesla’s Mainstream Model Y Gets A Feature Hyundai EVs Have Had For Years",
+          "link": "https://insideevs.com/news/805116/tesla-model-y-premium-v2l-us-power-appliances/",
+          "source": "InsideEVs",
+          "published": "2026-08-17T07:07:38+00:00"
+        },
         {
           "title": "JLR’s new Freelander 8 takes off with 10,000 orders in first 48 hours",
           "link": "https://electrek.co/2026/08/16/jlrs-new-freelander-8-takes-off-with-10000-orders-in-first-48-hours/",
@@ -215,44 +245,20 @@
           "link": "https://insideevs.com/news/804915/heart-aerospace-x1-largest-electric-aircraft-first-flight/",
           "source": "InsideEVs",
           "published": "2026-08-14T08:16:47+00:00"
-        },
-        {
-          "title": "The 2027 Karma Gyesera Is $35,000 Cheaper Than The Revero It Replaces",
-          "link": "https://insideevs.com/news/804900/karma-kaveya-pricing/",
-          "source": "InsideEVs",
-          "published": "2026-08-14T07:11:06+00:00"
-        },
-        {
-          "title": "2027 Lucid Gravity GT-S: Meet America’s Most Powerful Three-Row SUV",
-          "link": "https://insideevs.com/news/804819/lucid-gravity-gt-s-specs-photos-official/",
-          "source": "InsideEVs",
-          "published": "2026-08-13T23:00:00+00:00"
-        },
-        {
-          "title": "This electric aircraft fire truck hits 50 mph in under 20 seconds",
-          "link": "https://electrek.co/2026/08/13/electric-aircraft-rescue-fire-truck-rosenbauer-dallas/",
-          "source": "Electrek",
-          "published": "2026-08-13T22:33:18+00:00"
-        },
-        {
-          "title": "Kia sold over 8,000 EV2s in just 3 months",
-          "link": "https://electrek.co/2026/08/13/kia-sold-over-8000-ev2s-3-months/",
-          "source": "Electrek",
-          "published": "2026-08-13T21:30:50+00:00"
-        },
-        {
-          "title": "Ford recalls nearly 90,000 Mustang Mach-E EVs because part of the trim can fall off",
-          "link": "https://electrek.co/2026/08/13/ford-recalling-nearly-90000-mustang-mach-e-evs/",
-          "source": "Electrek",
-          "published": "2026-08-13T19:44:23+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 21,
+      "count": 20,
       "items": [
+        {
+          "title": "Not sold on Tesla Powerwall? There are some great home battery alternatives out there",
+          "link": "https://electrek.co/2026/08/17/not-sold-on-tesla-powerwall-there-are-some-great-home-battery-alternatives-out-there/",
+          "source": "Electrek",
+          "published": "2026-08-17T12:10:00+00:00"
+        },
         {
           "title": "350-ton Longking ZL230E is the biggest, baddest battery mining rig you can buy",
           "link": "https://electrek.co/2026/08/16/350-ton-longking-zl230e-is-the-biggest-baddest-battery-mining-rig-you-can-buy/",
@@ -318,18 +324,6 @@
           "link": "https://electrek.co/2026/08/13/tesla-powerwall-backup-lease-tesla-electric-texas/",
           "source": "Electrek",
           "published": "2026-08-13T16:50:37+00:00"
-        },
-        {
-          "title": "They Bought A 78,000-Mile Tesla With An Unknown Past. Then They Tested The Battery",
-          "link": "https://insideevs.com/news/804780/tesla-model-3-lfp-degradation/",
-          "source": "InsideEVs",
-          "published": "2026-08-13T08:38:37+00:00"
-        },
-        {
-          "title": "GM And LG Restart EV Battery Production In Ohio After Seven-Month Shutdown",
-          "link": "https://insideevs.com/news/804775/gm-lg-ultium-cells-production-restart-ohio/",
-          "source": "InsideEVs",
-          "published": "2026-08-13T08:02:36+00:00"
         },
         {
           "title": "Lectric XP Lite2 e-bike + largest $508 bundle from $999, Anker SOLIX 3,840Wh F3800 power station $1,800, EcoFlow, tools, more",
@@ -430,10 +424,10 @@
       "count": 21,
       "items": [
         {
-          "title": "美 택타시스템즈, 정밀한 제조 작업용 로봇 손 기술 개발",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47939",
+          "title": "美 리걸 렉스노드-화낙, CRX 협동로봇용 통합 선형 축 출시",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47940",
           "source": "로봇신문",
-          "published": "2026-08-16T19:58:17+00:00"
+          "published": "2026-08-17T17:54:13+00:00"
         },
         {
           "title": "How robotics is revolutionizing stroke rehabilitation",
@@ -563,10 +557,10 @@
       "count": 40,
       "items": [
         {
-          "title": "손짓·음성 알아듣는 로봇청소기…미국 매틱, '매틱 큐'로 중국과 차별화",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214022",
+          "title": "업스테이지 “다음 AI 요약에 ‘솔라’ 전면 적용...실사용 확대”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214026",
           "source": "AI타임스",
-          "published": "2026-08-17T12:32:15+00:00"
+          "published": "2026-08-17T18:32:29+00:00"
         },
         {
           "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
