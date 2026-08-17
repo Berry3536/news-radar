@@ -1,11 +1,65 @@
 {
-  "generated_at": "2026-08-17T12:37:30.426943+00:00",
+  "generated_at": "2026-08-17T18:34:34.177310+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Aventon Labor Day Sale drops Soltera 2.5 e-bike to $999 low, Autel 40A level 2 smart AI EV charger $376, Greenworks, Navee, more",
+          "link": "https://electrek.co/2026/08/17/aventon-labor-day-sale-soltera-2-5-e-bike-autel-40a-level-2-smart-ai-ev-charger-greenworks-navee-more/",
+          "source": "Electrek",
+          "published": "2026-08-17T18:00:00+00:00"
+        },
+        {
+          "title": "Nevada caps Tesla’s Vegas ‘Robotaxi’ fleet at 10 — it asked for 5,000",
+          "link": "https://electrek.co/2026/08/17/tesla-nevada-robotaxi-permit-10-vehicles-las-vegas/",
+          "source": "Electrek",
+          "published": "2026-08-17T17:55:33+00:00"
+        },
+        {
+          "title": "America doesn’t need faster e-bikes. It needs better small electric vehicles",
+          "link": "https://electrek.co/2026/08/17/america-doesnt-need-faster-e-bikes-it-needs-better-small-electric-vehicles/",
+          "source": "Electrek",
+          "published": "2026-08-17T17:45:00+00:00"
+        },
+        {
+          "title": "Kia’s range-topping $46,000 EV3 GT electric SUV looks even better in person",
+          "link": "https://electrek.co/2026/08/17/kia-ev3-gt-spotted-new-46000-electric-suv/",
+          "source": "Electrek",
+          "published": "2026-08-17T17:23:54+00:00"
+        },
+        {
+          "title": "Are Walmart And Ionna Starting An EV Fast Charging Price War? It Sure Looks Like It",
+          "link": "https://insideevs.com/news/805215/ionna-walmart-cheaper-prices/",
+          "source": "InsideEVs",
+          "published": "2026-08-17T17:18:50+00:00"
+        },
+        {
+          "title": "The world’s biggest EV battery maker says all 20 plants are carbon neutral",
+          "link": "https://electrek.co/2026/08/17/the-worlds-biggest-ev-battery-maker-says-all-20-plants-are-carbon-neutral/",
+          "source": "Electrek",
+          "published": "2026-08-17T17:11:47+00:00"
+        },
+        {
+          "title": "BYD’s cheapest EV spotted with an upgraded interior and a single large display screen",
+          "link": "https://electrek.co/2026/08/17/byds-cheapest-ev-spotted-upgraded-interior-big-screen/",
+          "source": "Electrek",
+          "published": "2026-08-17T15:38:00+00:00"
+        },
+        {
+          "title": "Tesla FSD v14 swerved and try to drive me into a ditch for no reason",
+          "link": "https://electrek.co/2026/08/17/tesla-fsd-v14-3-6-swerved-exit-already-passed/",
+          "source": "Electrek",
+          "published": "2026-08-17T14:14:38+00:00"
+        },
+        {
+          "title": "Hyundai opens IONIQ 3 EV orders, starting at about $30,000",
+          "link": "https://electrek.co/2026/08/17/hyundai-opens-ioniq-3-ev-orders-starting-30000/",
+          "source": "Electrek",
+          "published": "2026-08-17T13:57:44+00:00"
+        },
         {
           "title": "Not sold on Tesla Powerwall? There are some great home battery alternatives out there",
           "link": "https://electrek.co/2026/08/17/not-sold-on-tesla-powerwall-there-are-some-great-home-battery-alternatives-out-there/",
@@ -61,7 +115,7 @@
           "published": "2026-08-16T11:15:00+00:00"
         },
         {
-          "title": "This Tesla Model Y Lost 9% In One Year. Its Owner Isn’t Worried",
+          "title": "This Tesla Model Y Lost 9% Of Its Range In One Year. Its Owner Isn’t Worried",
           "link": "https://insideevs.com/news/805082/model-y-one-year-degradation/",
           "source": "InsideEVs",
           "published": "2026-08-16T07:57:26+00:00"
@@ -191,68 +245,26 @@
           "link": "https://electrek.co/2026/08/14/tesla-flying-roadster-demo-this-month-no-driver/",
           "source": "Electrek",
           "published": "2026-08-14T15:43:40+00:00"
-        },
-        {
-          "title": "Lucid launches ‘America’s most powerful 3-row SUV’ with over 1,000 hp [Images]",
-          "link": "https://electrek.co/2026/08/14/lucid-launches-americas-most-powerful-3-row-suv-1000-hp/",
-          "source": "Electrek",
-          "published": "2026-08-14T14:36:53+00:00"
-        },
-        {
-          "title": "Tesla’s ‘Flying Roadster’ May Debut This Month Alongside A Street Legal Version",
-          "link": "https://insideevs.com/news/804993/tesla-flying-roadster-spacex-thrusters/",
-          "source": "InsideEVs",
-          "published": "2026-08-14T14:29:32+00:00"
-        },
-        {
-          "title": "Ferrari CZ26: what if the Luce had a baby with a SF90",
-          "link": "https://electrek.co/2026/08/14/ferrari-cz26-one-off-luce-design-sf90-hybrid/",
-          "source": "Electrek",
-          "published": "2026-08-14T14:13:01+00:00"
-        },
-        {
-          "title": "Here's How Zoox's Robotaxi Safety Testing Will Work",
-          "link": "https://insideevs.com/news/804737/zoox-robotaxi-safety-testing-framwork/",
-          "source": "InsideEVs",
-          "published": "2026-08-14T14:00:00+00:00"
-        },
-        {
-          "title": "The draconian New Jersey e-bike laws had exactly the effect everyone feared",
-          "link": "https://electrek.co/2026/08/14/the-draconian-new-jersey-e-bike-laws-had-exactly-the-effect-everyone-feared/",
-          "source": "Electrek",
-          "published": "2026-08-14T13:42:00+00:00"
-        },
-        {
-          "title": "Used Tesla Model S Prices Have Fallen Dramatically. But Their Batteries Are Holding Up Great",
-          "link": "https://insideevs.com/features/804570/old-model-s-degradation-diaries/",
-          "source": "InsideEVs",
-          "published": "2026-08-14T13:00:00+00:00"
-        },
-        {
-          "title": "Wheel-E Podcast: Rivan bike coming, ‘free’ e-bikes, more",
-          "link": "https://electrek.co/2026/08/14/wheel-e-podcast-rivan-bike-coming-free-e-bikes-more/",
-          "source": "Electrek",
-          "published": "2026-08-14T12:34:37+00:00"
-        },
-        {
-          "title": "Critics Slam Tesla's Gamification Of FSD As Driver Hits 25,000-Mile Streak",
-          "link": "https://insideevs.com/news/804844/tesla-fsd-streak-25k-miles/",
-          "source": "InsideEVs",
-          "published": "2026-08-14T12:00:00+00:00"
-        },
-        {
-          "title": "This Is The World's Largest Electric Aircraft—And Its First Flight Cost Just $5",
-          "link": "https://insideevs.com/news/804915/heart-aerospace-x1-largest-electric-aircraft-first-flight/",
-          "source": "InsideEVs",
-          "published": "2026-08-14T08:16:47+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 20,
+      "count": 21,
       "items": [
+        {
+          "title": "America doesn’t need faster e-bikes. It needs better small electric vehicles",
+          "link": "https://electrek.co/2026/08/17/america-doesnt-need-faster-e-bikes-it-needs-better-small-electric-vehicles/",
+          "source": "Electrek",
+          "published": "2026-08-17T17:45:00+00:00"
+        },
+        {
+          "title": "The world’s biggest EV battery maker says all 20 plants are carbon neutral",
+          "link": "https://electrek.co/2026/08/17/the-worlds-biggest-ev-battery-maker-says-all-20-plants-are-carbon-neutral/",
+          "source": "Electrek",
+          "published": "2026-08-17T17:11:47+00:00"
+        },
         {
           "title": "Not sold on Tesla Powerwall? There are some great home battery alternatives out there",
           "link": "https://electrek.co/2026/08/17/not-sold-on-tesla-powerwall-there-are-some-great-home-battery-alternatives-out-there/",
@@ -266,7 +278,7 @@
           "published": "2026-08-16T11:15:00+00:00"
         },
         {
-          "title": "This Tesla Model Y Lost 9% In One Year. Its Owner Isn’t Worried",
+          "title": "This Tesla Model Y Lost 9% Of Its Range In One Year. Its Owner Isn’t Worried",
           "link": "https://insideevs.com/news/805082/model-y-one-year-degradation/",
           "source": "InsideEVs",
           "published": "2026-08-16T07:57:26+00:00"
@@ -366,20 +378,26 @@
           "link": "https://electrek.co/2026/08/10/musk-terafab-gas-power-not-tesla-solar/",
           "source": "Electrek",
           "published": "2026-08-10T13:55:30+00:00"
-        },
-        {
-          "title": "Navee UT5 Ultra X superscooter $1,955 low, EGO Nexus power station bundle $799 low, Aventon $1,299 flash sale e-bike lows, more",
-          "link": "https://electrek.co/2026/08/07/navee-ut5-ultra-x-superscooter-ego-nexus-power-station-aventon-e-bikes-more/",
-          "source": "Electrek",
-          "published": "2026-08-07T18:00:00+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 6,
+      "count": 8,
       "items": [
+        {
+          "title": "America doesn’t need faster e-bikes. It needs better small electric vehicles",
+          "link": "https://electrek.co/2026/08/17/america-doesnt-need-faster-e-bikes-it-needs-better-small-electric-vehicles/",
+          "source": "Electrek",
+          "published": "2026-08-17T17:45:00+00:00"
+        },
+        {
+          "title": "Kia’s range-topping $46,000 EV3 GT electric SUV looks even better in person",
+          "link": "https://electrek.co/2026/08/17/kia-ev3-gt-spotted-new-46000-electric-suv/",
+          "source": "Electrek",
+          "published": "2026-08-17T17:23:54+00:00"
+        },
         {
           "title": "한국타이어, 2026 그램피언 포레스트 랠리 포디엄 석권 견인",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44316",
@@ -424,10 +442,22 @@
       "count": 21,
       "items": [
         {
-          "title": "美 리걸 렉스노드-화낙, CRX 협동로봇용 통합 선형 축 출시",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47940",
+          "title": "[Books] AI 시대 어떻게 일할 것인가",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47962",
           "source": "로봇신문",
-          "published": "2026-08-17T17:54:13+00:00"
+          "published": "2026-08-18T03:01:09+00:00"
+        },
+        {
+          "title": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
+          "link": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
+          "source": "IEEE Spectrum",
+          "published": "2026-08-17T15:33:42+00:00"
+        },
+        {
+          "title": "Gravis Robotics raises $200M for autonomous construction",
+          "link": "https://www.therobotreport.com/gravis-robotics-raises-200m-autonomous-construction/",
+          "source": "The Robot Report",
+          "published": "2026-08-17T13:00:16+00:00"
         },
         {
           "title": "How robotics is revolutionizing stroke rehabilitation",
@@ -520,12 +550,6 @@
           "published": "2026-08-12T10:30:51+00:00"
         },
         {
-          "title": "Defense drone developer Cambridge Aerospace raises $300M",
-          "link": "https://www.therobotreport.com/defense-drone-developer-cambridge-aerospace-raises-300m/",
-          "source": "The Robot Report",
-          "published": "2026-08-11T20:34:25+00:00"
-        },
-        {
           "title": "Robot Recycler Salvages Parts From Broken Machines",
           "link": "https://spectrum.ieee.org/recycling-robot",
           "source": "IEEE Spectrum",
@@ -542,12 +566,6 @@
           "link": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
           "source": "IEEE Spectrum",
           "published": "2026-08-04T11:00:01+00:00"
-        },
-        {
-          "title": "Walden Robotics Partners With Toyota on Practical Humanoids",
-          "link": "https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota",
-          "source": "IEEE Spectrum",
-          "published": "2026-08-03T16:05:39+00:00"
         }
       ]
     },
