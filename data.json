@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-08-17T18:34:34.177310+00:00",
+  "generated_at": "2026-08-18T01:03:09.937811+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "BYD’s electric supercar beats Porsche on both speed and price [Video]",
+          "link": "https://electrek.co/2026/08/17/byds-electric-supercar-beats-porsche-speed-and-price-video/",
+          "source": "Electrek",
+          "published": "2026-08-17T21:34:48+00:00"
+        },
+        {
+          "title": "Who Needs Leather? Bentley's First EV Will Offer Merino Wool Seats",
+          "link": "https://insideevs.com/news/805231/bentley-torcal-sustainable-merino-wool/",
+          "source": "InsideEVs",
+          "published": "2026-08-17T21:21:30+00:00"
+        },
+        {
+          "title": "Is Telo Trucks The Real Deal? I Interviewed The Founders To Find Out",
+          "link": "https://insideevs.com/features/805225/telo-electric-truck/",
+          "source": "InsideEVs",
+          "published": "2026-08-17T20:32:02+00:00"
+        },
+        {
+          "title": "2027 Hyundai IONIQ 5 prices revealed, starting at $35,000",
+          "link": "https://electrek.co/2026/08/17/2027-hyundai-ioniq-5-prices-revealed-starting-35000/",
+          "source": "Electrek",
+          "published": "2026-08-17T19:19:18+00:00"
+        },
+        {
+          "title": "The Results Are In: Scrapping Your Gas Car For An EV Is Better For The Climate",
+          "link": "https://insideevs.com/news/805222/scrapping-ice-for-ev-study/",
+          "source": "InsideEVs",
+          "published": "2026-08-17T19:15:09+00:00"
+        },
         {
           "title": "Aventon Labor Day Sale drops Soltera 2.5 e-bike to $999 low, Autel 40A level 2 smart AI EV charger $376, Greenworks, Navee, more",
           "link": "https://electrek.co/2026/08/17/aventon-labor-day-sale-soltera-2-5-e-bike-autel-40a-level-2-smart-ai-ev-charger-greenworks-navee-more/",
@@ -215,44 +245,20 @@
           "link": "https://electrek.co/2026/08/14/velotric-nomad-2-e-bike-greenworks-60v-54-inch-maximusz-mower-anker-solix-segway-more/",
           "source": "Electrek",
           "published": "2026-08-14T18:00:00+00:00"
-        },
-        {
-          "title": "Hyundai starts building the IONIQ 3, its affordable electric hatch",
-          "link": "https://electrek.co/2026/08/14/hyundai-starts-building-ioniq-3-affordable-electric-hatch/",
-          "source": "Electrek",
-          "published": "2026-08-14T17:34:01+00:00"
-        },
-        {
-          "title": "This DIY heat pump plugs into a wall outlet and has no outdoor unit",
-          "link": "https://electrek.co/2026/08/14/diy-heat-pump-plugs-into-wall-outlet-no-outdoor-unit-mrcool/",
-          "source": "Electrek",
-          "published": "2026-08-14T17:21:10+00:00"
-        },
-        {
-          "title": "The Porsche Taycan’s Days May Be Numbered: Report",
-          "link": "https://insideevs.com/news/805004/porsche-taycan-days-numbered-report/",
-          "source": "InsideEVs",
-          "published": "2026-08-14T16:20:52+00:00"
-        },
-        {
-          "title": "Kia announces EV3 prices for the US and Canada as its most affordable EV",
-          "link": "https://electrek.co/2026/08/14/kia-ev3-prices-us-canada/",
-          "source": "Electrek",
-          "published": "2026-08-14T15:56:05+00:00"
-        },
-        {
-          "title": "Tesla ‘flying’ Roadster demo could come this month, with no one inside",
-          "link": "https://electrek.co/2026/08/14/tesla-flying-roadster-demo-this-month-no-driver/",
-          "source": "Electrek",
-          "published": "2026-08-14T15:43:40+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 21,
+      "count": 22,
       "items": [
+        {
+          "title": "What I’ve Learned Owning Ebikes for 12 Years",
+          "link": "https://cleantechnica.com/2026/08/17/what-ive-learned-owning-ebikes-for-12-years/",
+          "source": "CleanTechnica",
+          "published": "2026-08-17T22:35:31+00:00"
+        },
         {
           "title": "America doesn’t need faster e-bikes. It needs better small electric vehicles",
           "link": "https://electrek.co/2026/08/17/america-doesnt-need-faster-e-bikes-it-needs-better-small-electric-vehicles/",
@@ -384,8 +390,14 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 8,
+      "count": 9,
       "items": [
+        {
+          "title": "BYD’s electric supercar beats Porsche on both speed and price [Video]",
+          "link": "https://electrek.co/2026/08/17/byds-electric-supercar-beats-porsche-speed-and-price-video/",
+          "source": "Electrek",
+          "published": "2026-08-17T21:34:48+00:00"
+        },
         {
           "title": "America doesn’t need faster e-bikes. It needs better small electric vehicles",
           "link": "https://electrek.co/2026/08/17/america-doesnt-need-faster-e-bikes-it-needs-better-small-electric-vehicles/",
@@ -446,6 +458,24 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=47962",
           "source": "로봇신문",
           "published": "2026-08-18T03:01:09+00:00"
+        },
+        {
+          "title": "Five years of operation shape Diligent Robotics rollout of Moxi 2.0",
+          "link": "https://www.therobotreport.com/five-years-operation-shape-diligent-robotics-rollout-moxi-2-0/",
+          "source": "The Robot Report",
+          "published": "2026-08-17T21:15:46+00:00"
+        },
+        {
+          "title": "Surgeons use da Vinci surgical robot to perform common cardiac surgery",
+          "link": "https://www.therobotreport.com/surgeons-use-da-vinci-surgical-robot-perform-common-cardiac-surgery/",
+          "source": "The Robot Report",
+          "published": "2026-08-17T20:56:21+00:00"
+        },
+        {
+          "title": "How Generalist uses human demonstration data for robot learning",
+          "link": "https://www.therobotreport.com/how-generalist-uses-human-demonstration-data-robot-learning/",
+          "source": "The Robot Report",
+          "published": "2026-08-17T19:32:31+00:00"
         },
         {
           "title": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
@@ -530,24 +560,6 @@
           "link": "https://www.therobotreport.com/q2-2026-robotics-demand-increased-across-industries-reports-a3/",
           "source": "The Robot Report",
           "published": "2026-08-12T14:18:56+00:00"
-        },
-        {
-          "title": "Strengthening U.S. Army sustainment: TALUS to deliver autonomous distribution",
-          "link": "https://www.therobotreport.com/strengthening-u-s-army-sustainment-talus-to-deliver-autonomous-distribution/",
-          "source": "The Robot Report",
-          "published": "2026-08-12T13:36:55+00:00"
-        },
-        {
-          "title": "Celona launches Orion agentic wireless platform built for physical AI and robotics",
-          "link": "https://www.therobotreport.com/celona-launches-orion-agentic-wireless-platform-built-for-physical-ai-robotics/",
-          "source": "The Robot Report",
-          "published": "2026-08-12T12:00:08+00:00"
-        },
-        {
-          "title": "DAF Trucks to integrate Einride Driver to scale autonomous electric freight",
-          "link": "https://www.therobotreport.com/daf-trucks-integrates-einride-driver-scale-autonomous-electric-freight/",
-          "source": "The Robot Report",
-          "published": "2026-08-12T10:30:51+00:00"
         },
         {
           "title": "Robot Recycler Salvages Parts From Broken Machines",
