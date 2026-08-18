@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-08-18T06:37:32.964574+00:00",
+  "generated_at": "2026-08-18T12:38:27.792495+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "더 뉴 메르세데스-벤츠 S 클래스 6종, 더 뉴 메르세데스-마이바흐 S 클래스 3종 출시",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44332",
+          "source": "모터그래프",
+          "published": "2026-08-18T18:32:50+00:00"
+        },
+        {
+          "title": "Rivian Is Recalling Over 30,000 R1S And R1T EVs Over Faulty Indicators",
+          "link": "https://insideevs.com/news/805305/rivian-r1s-r1t-turn-signal-recall/",
+          "source": "InsideEVs",
+          "published": "2026-08-18T10:24:15+00:00"
+        },
+        {
+          "title": "Home EV Charging Has A Hidden Cost. Here’s How To Reduce It And Lower Your Bill",
+          "link": "https://insideevs.com/news/805275/home-ev-charging-losses-how-to-minimize/",
+          "source": "InsideEVs",
+          "published": "2026-08-18T08:07:14+00:00"
+        },
         {
           "title": "Tesla grows Robotaxi fleet by 50%, Einride gets a partner, and China goes BIG",
           "link": "https://electrek.co/2026/08/17/tesla-grows-robotaxi-fleet-by-50-einride-gets-a-partner-and-china-goes-big/",
@@ -227,24 +245,6 @@
           "link": "https://electrek.co/2026/08/14/chevy-equinox-ev-vs-kia-ev3-americas-most-affordable-315-mile-range-ev/",
           "source": "Electrek",
           "published": "2026-08-14T21:16:45+00:00"
-        },
-        {
-          "title": "Podcast: Tesla Roadster is happening?, Kia EV3 in US, gas pumps replaced, and more",
-          "link": "https://electrek.co/2026/08/14/podcast-tesla-roadster-is-happening-kia-ev3-in-us-gas-pumps-replaced-and-more/",
-          "source": "Electrek",
-          "published": "2026-08-14T19:49:12+00:00"
-        },
-        {
-          "title": "Waymo wins California approval to expand robotaxis across 18 counties",
-          "link": "https://electrek.co/2026/08/14/waymo-cpuc-approval-california-expansion-18-counties/",
-          "source": "Electrek",
-          "published": "2026-08-14T19:47:16+00:00"
-        },
-        {
-          "title": "BYD launches the Qin Max EV for half the price of a Tesla Model 3",
-          "link": "https://electrek.co/2026/08/14/byd-launches-qin-max-ev-half-price-tesla-model-3/",
-          "source": "Electrek",
-          "published": "2026-08-14T19:26:56+00:00"
         }
       ]
     },
@@ -399,6 +399,12 @@
       "count": 8,
       "items": [
         {
+          "title": "토르칼 인테리어에 적용되는 현대적 럭셔리 소재 공개",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44336",
+          "source": "모터그래프",
+          "published": "2026-08-18T18:32:24+00:00"
+        },
+        {
           "title": "BYD’s electric supercar beats Porsche on both speed and price [Video]",
           "link": "https://electrek.co/2026/08/17/byds-electric-supercar-beats-porsche-speed-and-price-video/",
           "source": "Electrek",
@@ -415,12 +421,6 @@
           "link": "https://electrek.co/2026/08/17/kia-ev3-gt-spotted-new-46000-electric-suv/",
           "source": "Electrek",
           "published": "2026-08-17T17:23:54+00:00"
-        },
-        {
-          "title": "한국타이어, 2026 그램피언 포레스트 랠리 포디엄 석권 견인",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44316",
-          "source": "모터그래프",
-          "published": "2026-08-14T18:06:40+00:00"
         },
         {
           "title": "Lucid launches ‘America’s most powerful 3-row SUV’ with over 1,000 hp [Images]",
@@ -451,13 +451,13 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 21,
+      "count": 20,
       "items": [
         {
-          "title": "다이나믹솔루션, 中 ‘WRC 2026’서 BCI 로봇손 글러브 공개",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47965",
+          "title": "세계 최대 로봇산업 축제 ‘WRC 2026’ 19일 베이징서 막 오른다",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47985",
           "source": "로봇신문",
-          "published": "2026-08-18T10:19:38+00:00"
+          "published": "2026-08-18T18:02:39+00:00"
         },
         {
           "title": "Five years of operation shape Diligent Robotics rollout of Moxi 2.0",
@@ -572,12 +572,6 @@
           "link": "https://spectrum.ieee.org/video-friday-heavy-lift-drone",
           "source": "IEEE Spectrum",
           "published": "2026-08-07T16:00:01+00:00"
-        },
-        {
-          "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
-          "link": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
-          "source": "IEEE Spectrum",
-          "published": "2026-08-04T11:00:01+00:00"
         }
       ]
     },
@@ -587,10 +581,10 @@
       "count": 40,
       "items": [
         {
-          "title": "힉스필드, 기업 가치 7.6조 달성…미국 영상 AI 대표로 급성장",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214063",
+          "title": "알리바바, ‘해피쉬림프 1.0’ 베타 공개...음악 AI 시장 첫 발",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214052",
           "source": "AI타임스",
-          "published": "2026-08-18T15:14:30+00:00"
+          "published": "2026-08-18T18:38:40+00:00"
         },
         {
           "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
