@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T12:39:44.654494+00:00",
+  "generated_at": "2026-08-19T18:30:18.597385+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,52 @@
       "count": 40,
       "items": [
         {
+          "title": "Portland airport can charge 20 rental EVs at once – from overhead",
+          "link": "https://electrek.co/2026/08/19/portland-airport-can-charge-20-rental-evs-at-once-from-overhead/",
+          "source": "Electrek",
+          "published": "2026-08-19T18:20:26+00:00"
+        },
+        {
+          "title": "Heybike Hero mid-drive carbon-fiber all-terrain e-bike at exclusive new 1,049.50 low, EcoFlow power station flash sale, more",
+          "link": "https://electrek.co/2026/08/19/heybike-hero-mid-drive-e-bike-exclusive-ecoflow-power-station-flash-sale-more/",
+          "source": "Electrek",
+          "published": "2026-08-19T18:00:00+00:00"
+        },
+        {
           "title": "더 크고, 더 강인해진 현대 투싼 디자인 공개",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44338",
           "source": "모터그래프",
           "published": "2026-08-19T17:33:38+00:00"
+        },
+        {
+          "title": "Surprise! London’s tax on polluting cars made everyone much healthier (updated)",
+          "link": "https://electrek.co/2026/08/19/surprise-taxing-polluting-vehicles-in-london-made-everyone-much-healthier/",
+          "source": "Electrek",
+          "published": "2026-08-19T17:05:00+00:00"
+        },
+        {
+          "title": "Lucid unveils its 2027 Air EV lineup with a new Stealth package",
+          "link": "https://electrek.co/2026/08/19/lucid-2027-air-ev-lineup/",
+          "source": "Electrek",
+          "published": "2026-08-19T15:12:25+00:00"
+        },
+        {
+          "title": "Here’s our first look at the new Hyundai Tucson inside and out [Images]",
+          "link": "https://electrek.co/2026/08/19/hyundai-unveils-new-tucson-design-first-time-images/",
+          "source": "Electrek",
+          "published": "2026-08-19T14:55:24+00:00"
+        },
+        {
+          "title": "VMAX VX2 Lite review: Power and full suspension fun without the heavyweight price",
+          "link": "https://electrek.co/2026/08/19/vmax-vx2-lite-review-power-and-full-suspension-fun-without-the-heavyweight-price/",
+          "source": "Electrek",
+          "published": "2026-08-19T14:35:00+00:00"
+        },
+        {
+          "title": "Ex-Tesla president: Roadster delay is about getting closer to SpaceX ahead of merger",
+          "link": "https://electrek.co/2026/08/19/ex-tesla-president-roadster-delay-spacex-thrusters/",
+          "source": "Electrek",
+          "published": "2026-08-19T13:40:39+00:00"
         },
         {
           "title": "These Affordable EVs Just Got A New Lifeline: Replacement Motors Cost 30% Less",
@@ -19,7 +61,7 @@
           "published": "2026-08-19T09:19:47+00:00"
         },
         {
-          "title": "Audi’s China-Only EVs Are Coming To Europe—And They Cost Less Than Local Models",
+          "title": "Audi’s China-Built EVs Are Coming To Europe—And They Cost Less Than Local Models",
           "link": "https://insideevs.com/news/805407/audi-china-evs-europe-import/",
           "source": "InsideEVs",
           "published": "2026-08-19T07:54:30+00:00"
@@ -203,56 +245,20 @@
           "link": "https://electrek.co/2026/08/17/the-worlds-biggest-ev-battery-maker-says-all-20-plants-are-carbon-neutral/",
           "source": "Electrek",
           "published": "2026-08-17T17:11:47+00:00"
-        },
-        {
-          "title": "BYD’s cheapest EV spotted with an upgraded interior and a single large display screen",
-          "link": "https://electrek.co/2026/08/17/byds-cheapest-ev-spotted-upgraded-interior-big-screen/",
-          "source": "Electrek",
-          "published": "2026-08-17T15:38:00+00:00"
-        },
-        {
-          "title": "Tesla FSD v14 swerved and try to drive me into a ditch for no reason",
-          "link": "https://electrek.co/2026/08/17/tesla-fsd-v14-3-6-swerved-exit-already-passed/",
-          "source": "Electrek",
-          "published": "2026-08-17T14:14:38+00:00"
-        },
-        {
-          "title": "Hyundai opens IONIQ 3 EV orders, starting at about $30,000",
-          "link": "https://electrek.co/2026/08/17/hyundai-opens-ioniq-3-ev-orders-starting-30000/",
-          "source": "Electrek",
-          "published": "2026-08-17T13:57:44+00:00"
-        },
-        {
-          "title": "Not sold on Tesla Powerwall? There are some great home battery alternatives out there",
-          "link": "https://electrek.co/2026/08/17/not-sold-on-tesla-powerwall-there-are-some-great-home-battery-alternatives-out-there/",
-          "source": "Electrek",
-          "published": "2026-08-17T12:10:00+00:00"
-        },
-        {
-          "title": "GM offers free charging to more of its Latin American Chevy customers",
-          "link": "https://electrek.co/2026/08/17/gm-offers-free-charging-to-more-of-its-latin-american-chevy-customers/",
-          "source": "Electrek",
-          "published": "2026-08-17T12:06:05+00:00"
-        },
-        {
-          "title": "Self-Driving Trucks Are Already Hitting The Road In California",
-          "link": "https://insideevs.com/news/805154/california-self-driving-trucks-test/",
-          "source": "InsideEVs",
-          "published": "2026-08-17T09:57:27+00:00"
-        },
-        {
-          "title": "Critics Slammed Ferrari's Luce EV. Someone Just Paid $40 Million For The First One",
-          "link": "https://insideevs.com/news/805132/ferrari-luce-ev-record-auction/",
-          "source": "InsideEVs",
-          "published": "2026-08-17T08:22:14+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 27,
+      "count": 28,
       "items": [
+        {
+          "title": "Heybike Hero mid-drive carbon-fiber all-terrain e-bike at exclusive new 1,049.50 low, EcoFlow power station flash sale, more",
+          "link": "https://electrek.co/2026/08/19/heybike-hero-mid-drive-e-bike-exclusive-ecoflow-power-station-flash-sale-more/",
+          "source": "Electrek",
+          "published": "2026-08-19T18:00:00+00:00"
+        },
         {
           "title": "OCTA Is Spending Again On Hydrogen Because The Fuel Chain Failed",
           "link": "https://cleantechnica.com/2026/08/19/octa-hydrogen-bus-fuel-supply-risk/",
@@ -420,13 +426,19 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 9,
+      "count": 10,
       "items": [
         {
           "title": "기아 EV5, 전동화 SUV 비교 평가에서 테슬라 모델 Y 제쳤다",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44333",
           "source": "모터그래프",
           "published": "2026-08-19T17:32:57+00:00"
+        },
+        {
+          "title": "VMAX VX2 Lite review: Power and full suspension fun without the heavyweight price",
+          "link": "https://electrek.co/2026/08/19/vmax-vx2-lite-review-power-and-full-suspension-fun-without-the-heavyweight-price/",
+          "source": "Electrek",
+          "published": "2026-08-19T14:35:00+00:00"
         },
         {
           "title": "These Affordable EVs Just Got A New Lifeline: Replacement Motors Cost 30% Less",
@@ -484,10 +496,28 @@
       "count": 21,
       "items": [
         {
-          "title": "유니켐, 휴머노이드용 전자피부 시장 진출",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48007",
+          "title": "[WRC 2026] “바이두 자율주행 전진기지 ‘아폴로 파크’는 혁신의 심장”",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48002",
           "source": "로봇신문",
-          "published": "2026-08-19T21:04:11+00:00"
+          "published": "2026-08-19T23:45:19+00:00"
+        },
+        {
+          "title": "What does Unitree Robotics’ IPO mean for the humanoid industry?",
+          "link": "https://www.therobotreport.com/what-does-unitree-robotics-ipo-mean-for-humanoid-industry/",
+          "source": "The Robot Report",
+          "published": "2026-08-19T18:01:43+00:00"
+        },
+        {
+          "title": "Serve Robotics to deploy its autonomous delivery robots with Grubhub",
+          "link": "https://www.therobotreport.com/serve-robotics-deploys-autonomous-delivery-robots-grubhub/",
+          "source": "The Robot Report",
+          "published": "2026-08-19T13:55:30+00:00"
+        },
+        {
+          "title": "Pudu Robotics launches new MP2000 autonomous forklift",
+          "link": "https://www.therobotreport.com/pudu-robotics-launches-new-mp2000-autonomous-forklift/",
+          "source": "The Robot Report",
+          "published": "2026-08-19T13:07:06+00:00"
         },
         {
           "title": "How to achieve high voltage in industrial systems without high complexity",
@@ -578,24 +608,6 @@
           "link": "https://www.therobotreport.com/robots-on-wall-street-non-traditional-paths-public-markets-robotics-companies/",
           "source": "The Robot Report",
           "published": "2026-08-14T12:30:40+00:00"
-        },
-        {
-          "title": "Mobile manipulators and humanoids: The future of robotics",
-          "link": "https://www.therobotreport.com/mobile-manipulators-and-humanoids/",
-          "source": "The Robot Report",
-          "published": "2026-08-13T15:06:47+00:00"
-        },
-        {
-          "title": "ARM Institute calls for defense manufacturing technology projects",
-          "link": "https://www.therobotreport.com/arm-institute-calls-for-defense-manufacturing-technology-project/",
-          "source": "The Robot Report",
-          "published": "2026-08-13T12:35:42+00:00"
-        },
-        {
-          "title": "Experts to discuss the state of humanoid robots at RoboBusiness",
-          "link": "https://www.therobotreport.com/experts-discuss-state-humanoid-robots-robobusiness-2026/",
-          "source": "The Robot Report",
-          "published": "2026-08-13T12:30:25+00:00"
         },
         {
           "title": "Robot Recycler Salvages Parts From Broken Machines",
