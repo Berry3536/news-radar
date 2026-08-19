@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-08-19T06:38:04.118937+00:00",
+  "generated_at": "2026-08-19T12:39:44.654494+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "더 크고, 더 강인해진 현대 투싼 디자인 공개",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44338",
+          "source": "모터그래프",
+          "published": "2026-08-19T17:33:38+00:00"
+        },
+        {
+          "title": "These Affordable EVs Just Got A New Lifeline: Replacement Motors Cost 30% Less",
+          "link": "https://insideevs.com/news/805423/kia-niro-hyundai-kona-ev-remanufactured-motors/",
+          "source": "InsideEVs",
+          "published": "2026-08-19T09:19:47+00:00"
+        },
+        {
+          "title": "Audi’s China-Only EVs Are Coming To Europe—And They Cost Less Than Local Models",
+          "link": "https://insideevs.com/news/805407/audi-china-evs-europe-import/",
+          "source": "InsideEVs",
+          "published": "2026-08-19T07:54:30+00:00"
+        },
         {
           "title": "The 2027 Toyota bZ is now on sale: Here’s how much it costs",
           "link": "https://electrek.co/2026/08/18/2027-toyota-bz-now-on-sale-how-much-it-costs/",
@@ -23,12 +41,6 @@
           "link": "https://insideevs.com/news/805236/xiaomi-su7-500k-delivered-months/",
           "source": "InsideEVs",
           "published": "2026-08-18T18:43:02+00:00"
-        },
-        {
-          "title": "더 뉴 메르세데스-벤츠 S 클래스 6종, 더 뉴 메르세데스-마이바흐 S 클래스 3종 출시",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44332",
-          "source": "모터그래프",
-          "published": "2026-08-18T18:32:50+00:00"
         },
         {
           "title": "LG Energy Solution's Newest Battery Megafactory Just Kicked Off Production",
@@ -233,18 +245,6 @@
           "link": "https://insideevs.com/news/805132/ferrari-luce-ev-record-auction/",
           "source": "InsideEVs",
           "published": "2026-08-17T08:22:14+00:00"
-        },
-        {
-          "title": "Tesla’s Mainstream Model Y Gets A Feature Hyundai EVs Have Had For Years",
-          "link": "https://insideevs.com/news/805116/tesla-model-y-premium-v2l-us-power-appliances/",
-          "source": "InsideEVs",
-          "published": "2026-08-17T07:07:38+00:00"
-        },
-        {
-          "title": "JLR’s new Freelander 8 takes off with 10,000 orders in first 48 hours",
-          "link": "https://electrek.co/2026/08/16/jlrs-new-freelander-8-takes-off-with-10000-orders-in-first-48-hours/",
-          "source": "Electrek",
-          "published": "2026-08-16T17:43:56+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 27,
       "items": [
+        {
+          "title": "OCTA Is Spending Again On Hydrogen Because The Fuel Chain Failed",
+          "link": "https://cleantechnica.com/2026/08/19/octa-hydrogen-bus-fuel-supply-risk/",
+          "source": "CleanTechnica",
+          "published": "2026-08-19T06:43:05+00:00"
+        },
         {
           "title": "A High-Tech Control with Bluetooth Display Comes to Mountain Ebikes",
           "link": "https://cleantechnica.com/2026/08/18/a-high-tech-control-with-bluetooth-display-comes-to-mountain-ebikes/",
@@ -362,12 +368,6 @@
           "published": "2026-08-14T14:13:01+00:00"
         },
         {
-          "title": "Used Tesla Model S Prices Have Fallen Dramatically. But Their Batteries Are Holding Up Great",
-          "link": "https://insideevs.com/features/804570/old-model-s-degradation-diaries/",
-          "source": "InsideEVs",
-          "published": "2026-08-14T13:00:00+00:00"
-        },
-        {
           "title": "Report says Porsche will end Taycan production by 2030, reversing course",
           "link": "https://electrek.co/2026/08/13/report-says-porsche-will-end-taycan-production-by-2030-reversing-course/",
           "source": "Electrek",
@@ -420,13 +420,19 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 8,
+      "count": 9,
       "items": [
         {
-          "title": "토르칼 인테리어에 적용되는 현대적 럭셔리 소재 공개",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44336",
+          "title": "기아 EV5, 전동화 SUV 비교 평가에서 테슬라 모델 Y 제쳤다",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44333",
           "source": "모터그래프",
-          "published": "2026-08-18T18:32:24+00:00"
+          "published": "2026-08-19T17:32:57+00:00"
+        },
+        {
+          "title": "These Affordable EVs Just Got A New Lifeline: Replacement Motors Cost 30% Less",
+          "link": "https://insideevs.com/news/805423/kia-niro-hyundai-kona-ev-remanufactured-motors/",
+          "source": "InsideEVs",
+          "published": "2026-08-19T09:19:47+00:00"
         },
         {
           "title": "BYD’s electric supercar beats Porsche on both speed and price [Video]",
@@ -478,10 +484,10 @@
       "count": 21,
       "items": [
         {
-          "title": "로봇강국 '대한민국의 꿈'을 펼칠 '서울대 로보틱스 국가연구소' 개소",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47987",
+          "title": "유니켐, 휴머노이드용 전자피부 시장 진출",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48007",
           "source": "로봇신문",
-          "published": "2026-08-18T23:56:32+00:00"
+          "published": "2026-08-19T21:04:11+00:00"
         },
         {
           "title": "How to achieve high voltage in industrial systems without high complexity",
@@ -611,10 +617,10 @@
       "count": 40,
       "items": [
         {
-          "title": "카카오모빌리티, ‘교통약자 보호구역’ 자율차 운행...\"안전제어 알고리즘 적용\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214119",
+          "title": "오픈AI, 오픈라우터서 'GPT-5.6' 절반가 할인...앤트로픽 사용량 2배 넘어",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214099",
           "source": "AI타임스",
-          "published": "2026-08-19T15:37:00+00:00"
+          "published": "2026-08-19T19:54:38+00:00"
         },
         {
           "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
