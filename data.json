@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T18:33:28.202986+00:00",
+  "generated_at": "2026-08-19T01:03:43.011014+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,13 +7,31 @@
       "count": 40,
       "items": [
         {
+          "title": "The 2027 Toyota bZ is now on sale: Here’s how much it costs",
+          "link": "https://electrek.co/2026/08/18/2027-toyota-bz-now-on-sale-how-much-it-costs/",
+          "source": "Electrek",
+          "published": "2026-08-18T22:02:52+00:00"
+        },
+        {
+          "title": "This 100-Year-Old EV Came With More Range Than The First Nissan Leaf",
+          "link": "https://insideevs.com/news/805369/1918-detroit-electric-auction/",
+          "source": "InsideEVs",
+          "published": "2026-08-18T19:33:41+00:00"
+        },
+        {
+          "title": "Xiaomi's First EV Just Hit A Massive Milestone",
+          "link": "https://insideevs.com/news/805236/xiaomi-su7-500k-delivered-months/",
+          "source": "InsideEVs",
+          "published": "2026-08-18T18:43:02+00:00"
+        },
+        {
           "title": "더 뉴 메르세데스-벤츠 S 클래스 6종, 더 뉴 메르세데스-마이바흐 S 클래스 3종 출시",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44332",
           "source": "모터그래프",
           "published": "2026-08-18T18:32:50+00:00"
         },
         {
-          "title": "LG Energy Solutions' Newest Battery Megafactory Just Kicked Off Production",
+          "title": "LG Energy Solution's Newest Battery Megafactory Just Kicked Off Production",
           "link": "https://insideevs.com/news/805368/lg-lansing-michigan-toyota-highlander/",
           "source": "InsideEVs",
           "published": "2026-08-18T18:20:30+00:00"
@@ -227,34 +245,28 @@
           "link": "https://electrek.co/2026/08/16/jlrs-new-freelander-8-takes-off-with-10000-orders-in-first-48-hours/",
           "source": "Electrek",
           "published": "2026-08-16T17:43:56+00:00"
-        },
-        {
-          "title": "E-quipment highlight: LiuGong 924FE electric excavator is coming to America",
-          "link": "https://electrek.co/2026/08/16/e-quipment-highlight-liugong-924fe-electric-excavator-is-coming-to-america/",
-          "source": "Electrek",
-          "published": "2026-08-16T16:11:08+00:00"
-        },
-        {
-          "title": "First Ferrari Luce EV sells for $40 million, 36x its estimate",
-          "link": "https://electrek.co/2026/08/16/ferrari-luce-chassis-0-sells-40-million-record/",
-          "source": "Electrek",
-          "published": "2026-08-16T15:53:52+00:00"
-        },
-        {
-          "title": "350-ton Longking ZL230E is the biggest, baddest battery mining rig you can buy",
-          "link": "https://electrek.co/2026/08/16/350-ton-longking-zl230e-is-the-biggest-baddest-battery-mining-rig-you-can-buy/",
-          "source": "Electrek",
-          "published": "2026-08-16T11:15:00+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 25,
+      "count": 27,
       "items": [
         {
-          "title": "LG Energy Solutions' Newest Battery Megafactory Just Kicked Off Production",
+          "title": "A High-Tech Control with Bluetooth Display Comes to Mountain Ebikes",
+          "link": "https://cleantechnica.com/2026/08/18/a-high-tech-control-with-bluetooth-display-comes-to-mountain-ebikes/",
+          "source": "CleanTechnica",
+          "published": "2026-08-19T00:22:18+00:00"
+        },
+        {
+          "title": "Xiaomi's First EV Just Hit A Massive Milestone",
+          "link": "https://insideevs.com/news/805236/xiaomi-su7-500k-delivered-months/",
+          "source": "InsideEVs",
+          "published": "2026-08-18T18:43:02+00:00"
+        },
+        {
+          "title": "LG Energy Solution's Newest Battery Megafactory Just Kicked Off Production",
           "link": "https://insideevs.com/news/805368/lg-lansing-michigan-toyota-highlander/",
           "source": "InsideEVs",
           "published": "2026-08-18T18:20:30+00:00"
@@ -472,6 +484,12 @@
           "published": "2026-08-18T23:56:32+00:00"
         },
         {
+          "title": "How to achieve high voltage in industrial systems without high complexity",
+          "link": "https://www.therobotreport.com/how-achieve-high-voltage-industrial-systems-without-high-complexity/",
+          "source": "The Robot Report",
+          "published": "2026-08-18T21:07:45+00:00"
+        },
+        {
           "title": "FORT Robotics to take safety stack public via SPAC merger",
           "link": "https://www.therobotreport.com/fort-robotics-takes-safety-stack-public-via-spac-merger/",
           "source": "The Robot Report",
@@ -574,12 +592,6 @@
           "published": "2026-08-13T12:30:25+00:00"
         },
         {
-          "title": "BioflexBot robot hand aims to replicate key human hand motions",
-          "link": "https://www.therobotreport.com/bioflexbot-robot-hand-aims-to-replicate-key-human-hand-motions/",
-          "source": "The Robot Report",
-          "published": "2026-08-13T12:15:02+00:00"
-        },
-        {
           "title": "Robot Recycler Salvages Parts From Broken Machines",
           "link": "https://spectrum.ieee.org/recycling-robot",
           "source": "IEEE Spectrum",
@@ -599,10 +611,10 @@
       "count": 40,
       "items": [
         {
-          "title": "'모두의 AI' 프로젝트 공모에 6개 컨소시엄 출사표...이달 말 최종 사업자 결정",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214086",
+          "title": "[8월18일] AI 의료의 새로운 돌파구…의사도 경험하기 어려운 '희귀질환'",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214043",
           "source": "AI타임스",
-          "published": "2026-08-18T21:30:00+00:00"
+          "published": "2026-08-19T07:00:00+00:00"
         },
         {
           "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
