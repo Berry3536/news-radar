@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-08-19T18:30:18.597385+00:00",
+  "generated_at": "2026-08-20T01:03:26.388788+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Wawa-branded EV chargers are expanding beyond Tesla",
+          "link": "https://electrek.co/2026/08/19/wawa-branded-ev-chargers-are-expanding-beyond-tesla/",
+          "source": "Electrek",
+          "published": "2026-08-19T21:53:47+00:00"
+        },
+        {
+          "title": "BMW's Chinese-Market iX3 50L Just Drove 640 Miles On One Charge",
+          "link": "https://insideevs.com/news/805513/bmw-ix3-drove-640-miles/",
+          "source": "InsideEVs",
+          "published": "2026-08-19T20:35:07+00:00"
+        },
+        {
+          "title": "The Fiat Topolino Is Disrupting The U.S. Golf Cart Market",
+          "link": "https://insideevs.com/news/805509/fiat-topolino-ev-golfcart-market/",
+          "source": "InsideEVs",
+          "published": "2026-08-19T20:33:22+00:00"
+        },
+        {
+          "title": "As US tries to starve Cuba, solar electric garbage trikes offer a lifeline",
+          "link": "https://electrek.co/2026/08/19/as-us-tries-to-starve-cuba-solar-electric-garbage-trikes-offer-a-lifeline/",
+          "source": "Electrek",
+          "published": "2026-08-19T19:32:53+00:00"
+        },
+        {
+          "title": "Sharing Is Caring: See How A Lucid Gravity Can Charge A Tesla Model 3",
+          "link": "https://insideevs.com/news/805511/lucid-gravity-charges-tesla/",
+          "source": "InsideEVs",
+          "published": "2026-08-19T18:49:21+00:00"
+        },
         {
           "title": "Portland airport can charge 20 rental EVs at once – from overhead",
           "link": "https://electrek.co/2026/08/19/portland-airport-can-charge-20-rental-evs-at-once-from-overhead/",
@@ -215,44 +245,20 @@
           "link": "https://electrek.co/2026/08/17/aventon-labor-day-sale-soltera-2-5-e-bike-autel-40a-level-2-smart-ai-ev-charger-greenworks-navee-more/",
           "source": "Electrek",
           "published": "2026-08-17T18:00:00+00:00"
-        },
-        {
-          "title": "Nevada caps Tesla’s Vegas ‘Robotaxi’ fleet at 10 — it asked for 5,000",
-          "link": "https://electrek.co/2026/08/17/tesla-nevada-robotaxi-permit-10-vehicles-las-vegas/",
-          "source": "Electrek",
-          "published": "2026-08-17T17:55:33+00:00"
-        },
-        {
-          "title": "America doesn’t need faster e-bikes. It needs better small electric vehicles",
-          "link": "https://electrek.co/2026/08/17/america-doesnt-need-faster-e-bikes-it-needs-better-small-electric-vehicles/",
-          "source": "Electrek",
-          "published": "2026-08-17T17:45:00+00:00"
-        },
-        {
-          "title": "Kia’s range-topping $46,000 EV3 GT electric SUV looks even better in person",
-          "link": "https://electrek.co/2026/08/17/kia-ev3-gt-spotted-new-46000-electric-suv/",
-          "source": "Electrek",
-          "published": "2026-08-17T17:23:54+00:00"
-        },
-        {
-          "title": "Are Walmart And Ionna Starting An EV Fast Charging Price War? It Sure Looks Like It",
-          "link": "https://insideevs.com/news/805215/ionna-walmart-cheaper-prices/",
-          "source": "InsideEVs",
-          "published": "2026-08-17T17:18:50+00:00"
-        },
-        {
-          "title": "The world’s biggest EV battery maker says all 20 plants are carbon neutral",
-          "link": "https://electrek.co/2026/08/17/the-worlds-biggest-ev-battery-maker-says-all-20-plants-are-carbon-neutral/",
-          "source": "Electrek",
-          "published": "2026-08-17T17:11:47+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 28,
+      "count": 29,
       "items": [
+        {
+          "title": "Bouge RV’s Battery-Powered Portable Fridges Make Going Off Grid Easy (CleanTechnica Tested)",
+          "link": "https://cleantechnica.com/2026/08/19/bouge-rvs-battery-powered-portable-fridges-make-going-off-grid-easy-cleantechnica-tested/",
+          "source": "CleanTechnica",
+          "published": "2026-08-19T23:39:03+00:00"
+        },
         {
           "title": "Heybike Hero mid-drive carbon-fiber all-terrain e-bike at exclusive new 1,049.50 low, EcoFlow power station flash sale, more",
           "link": "https://electrek.co/2026/08/19/heybike-hero-mid-drive-e-bike-exclusive-ecoflow-power-station-flash-sale-more/",
@@ -502,6 +508,12 @@
           "published": "2026-08-19T23:45:19+00:00"
         },
         {
+          "title": "Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness",
+          "link": "https://www.therobotreport.com/kollmorgen-give-joint-by-joint-guide-humanoid-motion-robobusiness/",
+          "source": "The Robot Report",
+          "published": "2026-08-19T20:15:47+00:00"
+        },
+        {
           "title": "What does Unitree Robotics’ IPO mean for the humanoid industry?",
           "link": "https://www.therobotreport.com/what-does-unitree-robotics-ipo-mean-for-humanoid-industry/",
           "source": "The Robot Report",
@@ -604,12 +616,6 @@
           "published": "2026-08-14T17:00:01+00:00"
         },
         {
-          "title": "Robots on Wall Street: Non-traditional paths to public markets for robotics companies",
-          "link": "https://www.therobotreport.com/robots-on-wall-street-non-traditional-paths-public-markets-robotics-companies/",
-          "source": "The Robot Report",
-          "published": "2026-08-14T12:30:40+00:00"
-        },
-        {
           "title": "Robot Recycler Salvages Parts From Broken Machines",
           "link": "https://spectrum.ieee.org/recycling-robot",
           "source": "IEEE Spectrum",
@@ -629,10 +635,10 @@
       "count": 40,
       "items": [
         {
-          "title": "오픈AI, 오픈라우터서 'GPT-5.6' 절반가 할인...앤트로픽 사용량 2배 넘어",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214099",
+          "title": "[8월19일] 도메인 특화 AI의 다음 경쟁력은 ‘메모리’…하비, 업무 맥락까지 기억",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214100",
           "source": "AI타임스",
-          "published": "2026-08-19T19:54:38+00:00"
+          "published": "2026-08-20T07:00:00+00:00"
         },
         {
           "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
