@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-08-20T18:34:27.018739+00:00",
+  "generated_at": "2026-08-21T01:06:54.810741+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Tesla confirms Semi electric truck is coming to Europe, reveal at IAA",
+          "link": "https://electrek.co/2026/08/20/tesla-semi-europe-launch-iaa-transportation/",
+          "source": "Electrek",
+          "published": "2026-08-20T20:11:48+00:00"
+        },
+        {
+          "title": "Geely Is Testing A Solid-State Battery With Over 621 Miles Of Range. It Could End Up In A Volvo",
+          "link": "https://insideevs.com/news/805618/volvo-geely-solid-state-2027/",
+          "source": "InsideEVs",
+          "published": "2026-08-20T20:08:08+00:00"
+        },
+        {
+          "title": "The Lucid Air Air Sapphire Beats Genuine Mid-Engine Supercars From 0-200-0 MPH",
+          "link": "https://insideevs.com/news/805634/lucid-air-sapphire-beats-supercars/",
+          "source": "InsideEVs",
+          "published": "2026-08-20T20:03:42+00:00"
+        },
+        {
+          "title": "Tesla says FSD v15 is a ‘step-change,’ Optimus sells in 2027",
+          "link": "https://electrek.co/2026/08/20/tesla-jpmorgan-fremont-fsd-v15-hw4-optimus-2027/",
+          "source": "Electrek",
+          "published": "2026-08-20T19:37:11+00:00"
+        },
+        {
+          "title": "Colorado’s largest electric school bus fleet gets a 26-plug charging hub",
+          "link": "https://electrek.co/2026/08/20/colorados-largest-electric-school-bus-fleet-gets-a-26-plug-charging-hub/",
+          "source": "Electrek",
+          "published": "2026-08-20T19:18:34+00:00"
+        },
         {
           "title": "럭셔리 플래그십 SUV, 제네시스 GV90 네오룬, GV90 공개",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44347",
@@ -215,36 +245,6 @@
           "link": "https://electrek.co/2026/08/18/byds-new-5-seat-electric-suv-range-over-1000-km/",
           "source": "Electrek",
           "published": "2026-08-18T16:23:45+00:00"
-        },
-        {
-          "title": "One Owner Just Did What Tesla Couldn't: Upgrade An Older Car To HW4",
-          "link": "https://insideevs.com/news/805235/tesla-hw4-retrofit-progress-owner/",
-          "source": "InsideEVs",
-          "published": "2026-08-18T15:47:11+00:00"
-        },
-        {
-          "title": "Volkswagen EV drivers gain Digital Key access through Samsung Wallet",
-          "link": "https://electrek.co/2026/08/18/volkswagen-ev-drivers-gain-digital-key-access-samsung-wallet/",
-          "source": "Electrek",
-          "published": "2026-08-18T14:15:09+00:00"
-        },
-        {
-          "title": "Tesla’s New Three-Row EV Is The Longest-Range Model Y Tested By Edmunds",
-          "link": "https://insideevs.com/news/805339/tesla-model-y-l-range-test-edmunds/",
-          "source": "InsideEVs",
-          "published": "2026-08-18T14:04:58+00:00"
-        },
-        {
-          "title": "Ride1Up unveils new and improved $895 Portola 02 folding e-bike – and I tested it",
-          "link": "https://electrek.co/2026/08/18/ride1up-unveils-new-and-improved-895-portola-02-folding-e-bike-and-i-tested-it/",
-          "source": "Electrek",
-          "published": "2026-08-18T13:46:00+00:00"
-        },
-        {
-          "title": "Einride to deploy 500 Tesla Semis in biggest electric truck order yet",
-          "link": "https://electrek.co/2026/08/18/einride-500-tesla-semi-deployment-largest-order/",
-          "source": "Electrek",
-          "published": "2026-08-18T13:29:22+00:00"
         }
       ]
     },
@@ -253,6 +253,18 @@
       "label": "배터리",
       "count": 30,
       "items": [
+        {
+          "title": "Tesla confirms Semi electric truck is coming to Europe, reveal at IAA",
+          "link": "https://electrek.co/2026/08/20/tesla-semi-europe-launch-iaa-transportation/",
+          "source": "Electrek",
+          "published": "2026-08-20T20:11:48+00:00"
+        },
+        {
+          "title": "Geely Is Testing A Solid-State Battery With Over 621 Miles Of Range. It Could End Up In A Volvo",
+          "link": "https://insideevs.com/news/805618/volvo-geely-solid-state-2027/",
+          "source": "InsideEVs",
+          "published": "2026-08-20T20:08:08+00:00"
+        },
         {
           "title": "This $0-down Illinois home solar deal includes a huge 60 kWh battery",
           "link": "https://electrek.co/2026/08/20/this-0-down-illinois-home-solar-deal-includes-a-huge-60-kwh-battery/",
@@ -420,18 +432,6 @@
           "link": "https://electrek.co/2026/08/12/lectric-xp-lite2-e-bike-508-bundle-anker-solix-3840wh-f3800-power-station-ecoflow-more/",
           "source": "Electrek",
           "published": "2026-08-12T18:00:00+00:00"
-        },
-        {
-          "title": "Anker SOLIX Mega Sale offers up to 48% power station discounts + one-day-only C1000X $399 off, AeroGarden, more",
-          "link": "https://electrek.co/2026/08/11/anker-solix-mega-sale-power-station-c1000x-aerogarden-more/",
-          "source": "Electrek",
-          "published": "2026-08-11T18:00:00+00:00"
-        },
-        {
-          "title": "China sales numbers are in: EVs up while everything with an engine collapses",
-          "link": "https://electrek.co/2026/08/11/china-sales-numbers-are-in-evs-up-while-everything-with-an-engine-collapses/",
-          "source": "Electrek",
-          "published": "2026-08-11T17:47:43+00:00"
         }
       ]
     },
@@ -500,6 +500,12 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48022",
           "source": "로봇신문",
           "published": "2026-08-20T23:23:57+00:00"
+        },
+        {
+          "title": "Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026",
+          "link": "https://www.therobotreport.com/amazon-plans-expand-prime-air-nearly-500-cities-by-end-2026/",
+          "source": "The Robot Report",
+          "published": "2026-08-20T21:32:27+00:00"
         },
         {
           "title": "ATDev gives update on its journey building autonomous wheelchairs",
@@ -598,12 +604,6 @@
           "published": "2026-08-16T12:30:18+00:00"
         },
         {
-          "title": "Why robots that can’t communicate naturally won’t be adopted",
-          "link": "https://www.therobotreport.com/why-robots-that-cant-communicate-naturally-wont-be-adopted-says-treble/",
-          "source": "The Robot Report",
-          "published": "2026-08-15T12:20:18+00:00"
-        },
-        {
           "title": "Video Friday: Lift Happens",
           "link": "https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge",
           "source": "IEEE Spectrum",
@@ -629,10 +629,10 @@
       "count": 40,
       "items": [
         {
-          "title": "앤트로픽, '클로드 코워크' 웹·모바일 확장...구글 워크스페이스 연동 강화",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214171",
+          "title": "[8월20일] 데이터센터 반발 '달래기'에 나선 빅테크…결국 필요한 건 AI 효용 입증",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214145",
           "source": "AI타임스",
-          "published": "2026-08-20T18:04:49+00:00"
+          "published": "2026-08-21T07:00:00+00:00"
         },
         {
           "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
