@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-08-21T06:40:12.903987+00:00",
+  "generated_at": "2026-08-21T12:40:03.330446+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "고급스러움, 효율, 차세대 첨단 기술까지 현대 그랜저 하이브리드",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44360",
+          "source": "모터그래프",
+          "published": "2026-08-21T16:53:21+00:00"
+        },
+        {
+          "title": "Nevada Opens The Door To Thousands Of Paid Robotaxis, And Tesla Has The Edge",
+          "link": "https://insideevs.com/news/805700/nevada-robotaxi-permits-tesla-waymo-uber-paid-rides/",
+          "source": "InsideEVs",
+          "published": "2026-08-21T11:59:56+00:00"
+        },
+        {
+          "title": "Hyundai And Genesis EVs In The U.S. Get A Big Discount At Ionna Chargers",
+          "link": "https://insideevs.com/news/805688/hyundai-genesis-ev-ionna-charging-discount/",
+          "source": "InsideEVs",
+          "published": "2026-08-21T09:30:15+00:00"
+        },
         {
           "title": "Aptera Reveals The Secret To Building Its Solar EV: China",
           "link": "https://insideevs.com/news/805659/aptera-production-partner-china/",
@@ -47,12 +65,6 @@
           "link": "https://electrek.co/2026/08/20/colorados-largest-electric-school-bus-fleet-gets-a-26-plug-charging-hub/",
           "source": "Electrek",
           "published": "2026-08-20T19:18:34+00:00"
-        },
-        {
-          "title": "럭셔리 플래그십 SUV, 제네시스 GV90 네오룬, GV90 공개",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44347",
-          "source": "모터그래프",
-          "published": "2026-08-20T18:36:07+00:00"
         },
         {
           "title": "Anker SOLIX 2kWh power station $600, Segway Navimow i105N Robot $140 off, WORX 2-in-1 reciprocating saw $73, more",
@@ -233,18 +245,6 @@
           "link": "https://insideevs.com/news/805368/lg-lansing-michigan-toyota-highlander/",
           "source": "InsideEVs",
           "published": "2026-08-18T18:20:30+00:00"
-        },
-        {
-          "title": "Lectric XPress2 extra battery bundle for 100+ miles $1,399, Aventon Pace 5 + Level 4 REC e-bike launch, Segway S2 kids scooter, more",
-          "link": "https://electrek.co/2026/08/18/lectric-xpress2-extra-battery-bundle-aventon-pace-5-level-4-rec-e-bike-segway-s2-kids-scooter-more/",
-          "source": "Electrek",
-          "published": "2026-08-18T18:00:00+00:00"
-        },
-        {
-          "title": "Tesla owner says DIY upgrade to HW4 was easy… so why isn’t Tesla doing it?",
-          "link": "https://electrek.co/2026/08/18/tesla-owner-says-diy-upgrade-to-hw4-was-easy-so-why-isnt-tesla-doing-it/",
-          "source": "Electrek",
-          "published": "2026-08-18T17:44:27+00:00"
         }
       ]
     },
@@ -629,10 +629,10 @@
       "count": 40,
       "items": [
         {
-          "title": "영국 영화관서 메타 '스마트 안경' 착용 제한...“사생활·영화 불법 촬영 우려”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214216",
+          "title": "커서, 장기 목표 기능 '/goal' 도입...스스로 작업하는 자율 에이전트 진화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214205",
           "source": "AI타임스",
-          "published": "2026-08-21T15:35:26+00:00"
+          "published": "2026-08-21T17:29:41+00:00"
         },
         {
           "title": "Active Inference as Context Acquisition for AI Agents",
