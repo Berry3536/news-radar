@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T12:40:03.330446+00:00",
+  "generated_at": "2026-08-21T18:32:16.191205+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,58 @@
       "count": 40,
       "items": [
         {
+          "title": "Walmart’s 400 kW EV charging network just hit 100 stores",
+          "link": "https://electrek.co/2026/08/21/walmarts-400-kw-ev-charging-network-just-hit-100-stores/",
+          "source": "Electrek",
+          "published": "2026-08-21T18:06:59+00:00"
+        },
+        {
+          "title": "Lectric Labor Day e-bike sale offers up to $694 savings + price cuts, EcoFlow 4,096Wh power station $2,549 in flash sale, more",
+          "link": "https://electrek.co/2026/08/21/lectric-labor-day-e-bike-sale-ecoflow-4096wh-power-station-2549-flash-sale-more/",
+          "source": "Electrek",
+          "published": "2026-08-21T18:00:00+00:00"
+        },
+        {
+          "title": "Chinese Regulators Recall Millions Of EVs Because Their Mechanical Door Handles Are Too Hard To Find",
+          "link": "https://insideevs.com/news/805739/china-door-handle-recall-millions/",
+          "source": "InsideEVs",
+          "published": "2026-08-21T17:22:43+00:00"
+        },
+        {
+          "title": "Inside The $2 Billion Battery Factory Making Cells For Tesla And Toyota",
+          "link": "https://insideevs.com/news/805633/lg-energy-solution-tesla-toyota-lfp-battery/",
+          "source": "InsideEVs",
+          "published": "2026-08-21T17:09:33+00:00"
+        },
+        {
+          "title": "A first-of-its-kind US factory could make grid batteries safer",
+          "link": "https://electrek.co/2026/08/21/us-factory-grid-batteries-safer-anthro-energy/",
+          "source": "Electrek",
+          "published": "2026-08-21T17:09:27+00:00"
+        },
+        {
           "title": "고급스러움, 효율, 차세대 첨단 기술까지 현대 그랜저 하이브리드",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44360",
           "source": "모터그래프",
           "published": "2026-08-21T16:53:21+00:00"
+        },
+        {
+          "title": "Hyundai and Genesis EV drivers can now score a 20% discount on IONNA charging",
+          "link": "https://electrek.co/2026/08/21/hyundai-ev-drivers-20-discount-ionna-charging/",
+          "source": "Electrek",
+          "published": "2026-08-21T16:09:50+00:00"
+        },
+        {
+          "title": "Tesla (TSLA) recalls over 2 million cars in China to add driver monitoring",
+          "link": "https://electrek.co/2026/08/21/tesla-recall-2-million-cars-china-driver-monitoring/",
+          "source": "Electrek",
+          "published": "2026-08-21T14:12:02+00:00"
+        },
+        {
+          "title": "Tesla recalls nearly 3 million cars in China over door escape risk",
+          "link": "https://electrek.co/2026/08/21/tesla-recall-3-million-cars-china-door-handles/",
+          "source": "Electrek",
+          "published": "2026-08-21T13:08:09+00:00"
         },
         {
           "title": "Nevada Opens The Door To Thousands Of Paid Robotaxis, And Tesla Has The Edge",
@@ -197,62 +245,38 @@
           "link": "https://electrek.co/2026/08/19/hyundai-unveils-new-tucson-design-first-time-images/",
           "source": "Electrek",
           "published": "2026-08-19T14:55:24+00:00"
-        },
-        {
-          "title": "VMAX VX2 Lite review: Power and full suspension fun without the heavyweight price",
-          "link": "https://electrek.co/2026/08/19/vmax-vx2-lite-review-power-and-full-suspension-fun-without-the-heavyweight-price/",
-          "source": "Electrek",
-          "published": "2026-08-19T14:35:00+00:00"
-        },
-        {
-          "title": "Ex-Tesla president: Roadster delay is about getting closer to SpaceX ahead of merger",
-          "link": "https://electrek.co/2026/08/19/ex-tesla-president-roadster-delay-spacex-thrusters/",
-          "source": "Electrek",
-          "published": "2026-08-19T13:40:39+00:00"
-        },
-        {
-          "title": "These Affordable EVs Just Got A New Lifeline: Replacement Motors Cost 30% Less",
-          "link": "https://insideevs.com/news/805423/kia-niro-hyundai-kona-ev-remanufactured-motors/",
-          "source": "InsideEVs",
-          "published": "2026-08-19T09:19:47+00:00"
-        },
-        {
-          "title": "Audi’s China-Built EVs Are Coming To Europe—And They Cost Less Than Local Models",
-          "link": "https://insideevs.com/news/805407/audi-china-evs-europe-import/",
-          "source": "InsideEVs",
-          "published": "2026-08-19T07:54:30+00:00"
-        },
-        {
-          "title": "The 2027 Toyota bZ is now on sale: Here’s how much it costs",
-          "link": "https://electrek.co/2026/08/18/2027-toyota-bz-now-on-sale-how-much-it-costs/",
-          "source": "Electrek",
-          "published": "2026-08-18T22:02:52+00:00"
-        },
-        {
-          "title": "This 100-Year-Old EV Came With More Range Than The First Nissan Leaf",
-          "link": "https://insideevs.com/news/805369/1918-detroit-electric-auction/",
-          "source": "InsideEVs",
-          "published": "2026-08-18T19:33:41+00:00"
-        },
-        {
-          "title": "Xiaomi's First EV Just Hit A Massive Milestone",
-          "link": "https://insideevs.com/news/805236/xiaomi-su7-500k-delivered-months/",
-          "source": "InsideEVs",
-          "published": "2026-08-18T18:43:02+00:00"
-        },
-        {
-          "title": "LG Energy Solution's Newest Battery Megafactory Just Kicked Off Production",
-          "link": "https://insideevs.com/news/805368/lg-lansing-michigan-toyota-highlander/",
-          "source": "InsideEVs",
-          "published": "2026-08-18T18:20:30+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 30,
+      "count": 33,
       "items": [
+        {
+          "title": "Government Clown Finally Admits Energy Storage Is A Thing That Exists In Time And Space",
+          "link": "https://cleantechnica.com/2026/08/21/energy-storage-exists-time-space-us-new-factory/",
+          "source": "CleanTechnica",
+          "published": "2026-08-21T18:11:19+00:00"
+        },
+        {
+          "title": "Inside The $2 Billion Battery Factory Making Cells For Tesla And Toyota",
+          "link": "https://insideevs.com/news/805633/lg-energy-solution-tesla-toyota-lfp-battery/",
+          "source": "InsideEVs",
+          "published": "2026-08-21T17:09:33+00:00"
+        },
+        {
+          "title": "A first-of-its-kind US factory could make grid batteries safer",
+          "link": "https://electrek.co/2026/08/21/us-factory-grid-batteries-safer-anthro-energy/",
+          "source": "Electrek",
+          "published": "2026-08-21T17:09:27+00:00"
+        },
+        {
+          "title": "Toyota Is Still Working On That Futuristic Fluoride-Ion EV Battery",
+          "link": "https://cleantechnica.com/2026/08/21/toyota-fluoride-ev-battery-us-electric-vehicles/",
+          "source": "CleanTechnica",
+          "published": "2026-08-21T14:12:51+00:00"
+        },
         {
           "title": "Princeton Critical Minerals Raises $16M to Scale Lithium Production Technologies",
           "link": "https://cleantechnica.com/2026/08/20/princeton-critical-minerals-raises-16m-to-scale-lithium-production-technologies/",
@@ -330,12 +354,6 @@
           "link": "https://insideevs.com/news/805236/xiaomi-su7-500k-delivered-months/",
           "source": "InsideEVs",
           "published": "2026-08-18T18:43:02+00:00"
-        },
-        {
-          "title": "LG Energy Solution's Newest Battery Megafactory Just Kicked Off Production",
-          "link": "https://insideevs.com/news/805368/lg-lansing-michigan-toyota-highlander/",
-          "source": "InsideEVs",
-          "published": "2026-08-18T18:20:30+00:00"
         },
         {
           "title": "Lectric XPress2 extra battery bundle for 100+ miles $1,399, Aventon Pace 5 + Level 4 REC e-bike launch, Segway S2 kids scooter, more",
@@ -438,7 +456,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 8,
+      "count": 7,
       "items": [
         {
           "title": "8월 22일, 전주월드컵경기장에서 현대 N 파트너 데이 개최",
@@ -481,25 +499,19 @@
           "link": "https://electrek.co/2026/08/14/lucid-launches-americas-most-powerful-3-row-suv-1000-hp/",
           "source": "Electrek",
           "published": "2026-08-14T14:36:53+00:00"
-        },
-        {
-          "title": "This $1,800 electric motorcycle hits 70 MPH and could change the game",
-          "link": "https://electrek.co/2026/08/12/this-1800-electric-motorcycle-hits-70-mph-and-could-change-the-game/",
-          "source": "Electrek",
-          "published": "2026-08-12T15:05:11+00:00"
         }
       ]
     },
     {
       "key": "robot",
       "label": "로봇",
-      "count": 21,
+      "count": 20,
       "items": [
         {
-          "title": "주간 로봇 기업 주가 동향(08/18 ~ 08/21)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48033",
+          "title": "中 루모스로보틱스, WRC 2026서 로봇 학습 시스템 '넥스코어' 발표",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48042",
           "source": "로봇신문",
-          "published": "2026-08-21T15:37:13+00:00"
+          "published": "2026-08-22T01:18:52+00:00"
         },
         {
           "title": "Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026",
@@ -614,12 +626,6 @@
           "link": "https://spectrum.ieee.org/recycling-robot",
           "source": "IEEE Spectrum",
           "published": "2026-08-10T18:01:25+00:00"
-        },
-        {
-          "title": "Video Friday: Drones Go Heavy in DARPA Lift Challenge",
-          "link": "https://spectrum.ieee.org/video-friday-heavy-lift-drone",
-          "source": "IEEE Spectrum",
-          "published": "2026-08-07T16:00:01+00:00"
         }
       ]
     },
