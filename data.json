@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-08-22T06:34:31.014174+00:00",
+  "generated_at": "2026-08-22T12:32:28.822139+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "This New All-In-One Range Extender Is Ready To Go Into Any Electric Truck",
+          "link": "https://insideevs.com/news/805476/electric-truck-range-extender-mahle/",
+          "source": "InsideEVs",
+          "published": "2026-08-22T12:00:00+00:00"
+        },
         {
           "title": "Podcast: Tesla kills Solar Roof, Cybercab launch, Genesis GV90, and more",
           "link": "https://electrek.co/2026/08/21/podcast-tesla-kills-solar-roof-cybercab-launch-genesis-gv90-and-more/",
@@ -239,12 +245,6 @@
           "link": "https://electrek.co/2026/08/19/heybike-hero-mid-drive-e-bike-exclusive-ecoflow-power-station-flash-sale-more/",
           "source": "Electrek",
           "published": "2026-08-19T18:00:00+00:00"
-        },
-        {
-          "title": "Surprise! London’s tax on polluting cars made everyone much healthier (updated)",
-          "link": "https://electrek.co/2026/08/19/surprise-taxing-polluting-vehicles-in-london-made-everyone-much-healthier/",
-          "source": "Electrek",
-          "published": "2026-08-19T17:05:00+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 31,
       "items": [
+        {
+          "title": "This New All-In-One Range Extender Is Ready To Go Into Any Electric Truck",
+          "link": "https://insideevs.com/news/805476/electric-truck-range-extender-mahle/",
+          "source": "InsideEVs",
+          "published": "2026-08-22T12:00:00+00:00"
+        },
         {
           "title": "Heart Aerospace Just Flew The Aviation Transition Investors Should Be Putting Billions Into",
           "link": "https://cleantechnica.com/2026/08/22/heart-aerospace-x1-electric-aviation-transition/",
@@ -354,12 +360,6 @@
           "link": "https://cleantechnica.com/2026/08/18/a-high-tech-control-with-bluetooth-display-comes-to-mountain-ebikes/",
           "source": "CleanTechnica",
           "published": "2026-08-19T00:22:18+00:00"
-        },
-        {
-          "title": "Xiaomi's First EV Just Hit A Massive Milestone",
-          "link": "https://insideevs.com/news/805236/xiaomi-su7-500k-delivered-months/",
-          "source": "InsideEVs",
-          "published": "2026-08-18T18:43:02+00:00"
         },
         {
           "title": "Lectric XPress2 extra battery bundle for 100+ miles $1,399, Aventon Pace 5 + Level 4 REC e-bike launch, Segway S2 kids scooter, more",
@@ -493,7 +493,7 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 20,
+      "count": 21,
       "items": [
         {
           "title": "中 루모스로보틱스, WRC 2026서 로봇 학습 시스템 '넥스코어' 발표",
@@ -518,6 +518,12 @@
           "link": "https://www.therobotreport.com/schaeffler-plans-to-mass-manufacture-gearboxes-for-humanoids-in-2027/",
           "source": "The Robot Report",
           "published": "2026-08-21T19:27:22+00:00"
+        },
+        {
+          "title": "Video Friday: Do We Need Superhuman Humanoid Robots?",
+          "link": "https://spectrum.ieee.org/video-friday-unitree-superhuman",
+          "source": "IEEE Spectrum",
+          "published": "2026-08-21T16:00:01+00:00"
         },
         {
           "title": "Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026",
@@ -623,10 +629,10 @@
       "count": 1,
       "items": [
         {
-          "title": "익명 'Ox 알파' 등장…코딩 성능·100조 토큰 무상 제공에 '발칵'",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214249",
+          "title": "에임인텔리전스 \"AI 보안 사고 막으려면 공격·방어 결합한 '퍼플티밍'이 해답\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214018",
           "source": "AI타임스",
-          "published": "2026-08-22T15:18:55+00:00"
+          "published": "2026-08-22T19:00:00+00:00"
         }
       ]
     }
