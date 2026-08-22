@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-08-21T18:32:16.191205+00:00",
+  "generated_at": "2026-08-22T01:03:28.187591+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Podcast: Tesla kills Solar Roof, Cybercab launch, Genesis GV90, and more",
+          "link": "https://electrek.co/2026/08/21/podcast-tesla-kills-solar-roof-cybercab-launch-genesis-gv90-and-more/",
+          "source": "Electrek",
+          "published": "2026-08-21T19:32:03+00:00"
+        },
+        {
+          "title": "Hyundai starts taking orders for $17,700 Ioniq V, but you can’t have it",
+          "link": "https://electrek.co/2026/08/21/hyundai-starts-taking-orders-for-17700-ioniq-v-but-you-cant-have-it/",
+          "source": "Electrek",
+          "published": "2026-08-21T18:40:35+00:00"
+        },
         {
           "title": "Walmart’s 400 kW EV charging network just hit 100 stores",
           "link": "https://electrek.co/2026/08/21/walmarts-400-kw-ev-charging-network-just-hit-100-stores/",
@@ -233,25 +245,13 @@
           "link": "https://electrek.co/2026/08/19/surprise-taxing-polluting-vehicles-in-london-made-everyone-much-healthier/",
           "source": "Electrek",
           "published": "2026-08-19T17:05:00+00:00"
-        },
-        {
-          "title": "Lucid unveils its 2027 Air EV lineup with a new Stealth package",
-          "link": "https://electrek.co/2026/08/19/lucid-2027-air-ev-lineup/",
-          "source": "Electrek",
-          "published": "2026-08-19T15:12:25+00:00"
-        },
-        {
-          "title": "Here’s our first look at the new Hyundai Tucson inside and out [Images]",
-          "link": "https://electrek.co/2026/08/19/hyundai-unveils-new-tucson-design-first-time-images/",
-          "source": "Electrek",
-          "published": "2026-08-19T14:55:24+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 33,
+      "count": 31,
       "items": [
         {
           "title": "Government Clown Finally Admits Energy Storage Is A Thing That Exists In Time And Space",
@@ -366,18 +366,6 @@
           "link": "https://cleantechnica.com/2026/08/18/energy-storage-demand-us-new-factory-deltax-georgia/",
           "source": "CleanTechnica",
           "published": "2026-08-18T14:38:56+00:00"
-        },
-        {
-          "title": "To Disconnect or Not to Disconnect",
-          "link": "https://cleantechnica.com/2026/08/17/to-disconnect-or-not-to-disconnect/",
-          "source": "CleanTechnica",
-          "published": "2026-08-18T03:21:08+00:00"
-        },
-        {
-          "title": "Sunrun to Supply Voltus with Energy Capacity for AI Hyperscaler Agreements",
-          "link": "https://cleantechnica.com/2026/08/17/sunrun-to-supply-voltus-with-energy-capacity-for-ai-hyperscaler-agreements/",
-          "source": "CleanTechnica",
-          "published": "2026-08-18T02:50:59+00:00"
         },
         {
           "title": "America doesn’t need faster e-bikes. It needs better small electric vehicles",
@@ -514,6 +502,18 @@
           "published": "2026-08-22T01:18:52+00:00"
         },
         {
+          "title": "Amazon’s Bhavana Chandrashekhar to speak at RoboBusiness’ Women in Robotics Lunch",
+          "link": "https://www.therobotreport.com/amazons-bhavana-chandrashekhar-speaks-robobusiness-women-in-robotics-lunch/",
+          "source": "The Robot Report",
+          "published": "2026-08-21T19:57:24+00:00"
+        },
+        {
+          "title": "Schaeffler plans to mass produce gearboxes for humanoid robots in 2027",
+          "link": "https://www.therobotreport.com/schaeffler-plans-to-mass-manufacture-gearboxes-for-humanoids-in-2027/",
+          "source": "The Robot Report",
+          "published": "2026-08-21T19:27:22+00:00"
+        },
+        {
           "title": "Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026",
           "link": "https://www.therobotreport.com/amazon-plans-expand-prime-air-nearly-500-cities-by-end-2026/",
           "source": "The Robot Report",
@@ -604,18 +604,6 @@
           "published": "2026-08-17T15:33:42+00:00"
         },
         {
-          "title": "Gravis Robotics raises $200M for autonomous construction",
-          "link": "https://www.therobotreport.com/gravis-robotics-raises-200m-autonomous-construction/",
-          "source": "The Robot Report",
-          "published": "2026-08-17T13:00:16+00:00"
-        },
-        {
-          "title": "How robotics is revolutionizing stroke rehabilitation",
-          "link": "https://www.therobotreport.com/how-robotics-is-revolutionizing-stroke-rehabilitation/",
-          "source": "The Robot Report",
-          "published": "2026-08-16T12:30:18+00:00"
-        },
-        {
           "title": "Video Friday: Lift Happens",
           "link": "https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge",
           "source": "IEEE Spectrum",
@@ -635,10 +623,10 @@
       "count": 40,
       "items": [
         {
-          "title": "커서, 장기 목표 기능 '/goal' 도입...스스로 작업하는 자율 에이전트 진화",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214205",
+          "title": "여수, 보건사업 추경 36억 확보",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214220",
           "source": "AI타임스",
-          "published": "2026-08-21T17:29:41+00:00"
+          "published": "2026-08-22T09:35:00+00:00"
         },
         {
           "title": "Active Inference as Context Acquisition for AI Agents",
