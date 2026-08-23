@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T12:33:51.463762+00:00",
+  "generated_at": "2026-08-23T18:24:28.887186+00:00",
   "categories": [
     {
       "key": "ev",
@@ -251,7 +251,7 @@
     {
       "key": "battery",
       "label": "배터리",
-      "count": 32,
+      "count": 31,
       "items": [
         {
           "title": "A Hydrogen Generator Charged An Electric Ship. Why Was Hydrogen There?",
@@ -360,12 +360,6 @@
           "link": "https://electrek.co/2026/08/19/heybike-hero-mid-drive-e-bike-exclusive-ecoflow-power-station-flash-sale-more/",
           "source": "Electrek",
           "published": "2026-08-19T18:00:00+00:00"
-        },
-        {
-          "title": "OCTA Is Spending Again On Hydrogen Because The Fuel Chain Failed",
-          "link": "https://cleantechnica.com/2026/08/19/octa-hydrogen-bus-fuel-supply-risk/",
-          "source": "CleanTechnica",
-          "published": "2026-08-19T06:43:05+00:00"
         },
         {
           "title": "Lectric XPress2 extra battery bundle for 100+ miles $1,399, Aventon Pace 5 + Level 4 REC e-bike launch, Segway S2 kids scooter, more",
@@ -508,6 +502,12 @@
           "published": "2026-08-23T20:27:49+00:00"
         },
         {
+          "title": "Use a digital twin to explore automation before committing capital",
+          "link": "https://www.therobotreport.com/use-digital-twin-explore-automation-before-committing-capital/",
+          "source": "The Robot Report",
+          "published": "2026-08-23T12:30:14+00:00"
+        },
+        {
           "title": "Robots don’t run themselves: The workforce powering physical AI",
           "link": "https://www.therobotreport.com/robots-dont-run-themselves-workforce-powering-physical-ai/",
           "source": "The Robot Report",
@@ -596,12 +596,6 @@
           "link": "https://spectrum.ieee.org/arctic-iceberg-drones",
           "source": "IEEE Spectrum",
           "published": "2026-08-18T13:00:01+00:00"
-        },
-        {
-          "title": "Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market",
-          "link": "https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market/",
-          "source": "The Robot Report",
-          "published": "2026-08-18T12:49:41+00:00"
         },
         {
           "title": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
