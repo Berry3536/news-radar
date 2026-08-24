@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T12:42:25.580496+00:00",
+  "generated_at": "2026-08-24T18:35:31.087170+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,70 @@
       "count": 40,
       "items": [
         {
+          "title": "More EV Owners Can Now Get Paid To Power California’s Grid",
+          "link": "https://insideevs.com/news/805919/california-pacific-gas-electric-vehicle-to-grid-charging/",
+          "source": "InsideEVs",
+          "published": "2026-08-24T18:04:06+00:00"
+        },
+        {
+          "title": "China is about to get solar cars, but they won’t work as well as you hope",
+          "link": "https://electrek.co/2026/08/24/china-is-about-to-get-solar-cars-but-they-wont-work-as-well-as-you-hope/",
+          "source": "Electrek",
+          "published": "2026-08-24T18:03:45+00:00"
+        },
+        {
+          "title": "Heybike Titan moto-inspired full suspension e-bike launch, EcoFlow 572Wh RIVER 3 Plus power station bundle $319, Segway, more",
+          "link": "https://electrek.co/2026/08/24/heybike-titan-moto-inspired-full-suspension-e-bike-ecoflow-572wh-river-3-plus-power-station-segway-more/",
+          "source": "Electrek",
+          "published": "2026-08-24T18:00:00+00:00"
+        },
+        {
+          "title": "How a Toyota dealer cut energy costs 55%, even with DC fast chargers",
+          "link": "https://electrek.co/2026/08/24/how-a-toyota-dealer-cut-energy-costs-55-percent-even-with-dc-fast-chargers/",
+          "source": "Electrek",
+          "published": "2026-08-24T17:46:18+00:00"
+        },
+        {
           "title": "페라리 첫 순수 전기 스포츠카, 페라리 루체 한국 최초 공개",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44365",
           "source": "모터그래프",
           "published": "2026-08-24T17:38:48+00:00"
+        },
+        {
+          "title": "Wawa Is Getting Its Own Brand Of EV Chargers (Kind Of)",
+          "link": "https://insideevs.com/news/805923/wawa-ev-chargers-electrify-america/",
+          "source": "InsideEVs",
+          "published": "2026-08-24T17:23:49+00:00"
+        },
+        {
+          "title": "Tesla confirms Cybercab launch coming next week",
+          "link": "https://electrek.co/2026/08/24/tesla-cybercab-exclusive-access-robotaxi-sept-3/",
+          "source": "Electrek",
+          "published": "2026-08-24T17:10:02+00:00"
+        },
+        {
+          "title": "Volkswagen’s new electric SUV is not just a rebadged ID.4 [Images]",
+          "link": "https://electrek.co/2026/08/24/volkswagens-new-electric-suv-not-rebadged-id-4-images/",
+          "source": "Electrek",
+          "published": "2026-08-24T16:06:02+00:00"
+        },
+        {
+          "title": "BYD opens orders for its new flagship EV with over 1,000 km of range for under $40,000",
+          "link": "https://electrek.co/2026/08/24/byd-opens-flagship-ev-orders-with-1000-km-range-under-40k/",
+          "source": "Electrek",
+          "published": "2026-08-24T15:24:23+00:00"
+        },
+        {
+          "title": "Watch Tesla FSD v14 Lite drive over a giant log without stopping",
+          "link": "https://electrek.co/2026/08/24/tesla-fsd-v14-1-lite-drove-over-log/",
+          "source": "Electrek",
+          "published": "2026-08-24T14:45:04+00:00"
+        },
+        {
+          "title": "Tesla loses another top chip engineer to ex-Dojo startup DensityAI",
+          "link": "https://electrek.co/2026/08/24/tesla-chip-engineer-shishuang-sun-densityai/",
+          "source": "Electrek",
+          "published": "2026-08-24T13:09:54+00:00"
         },
         {
           "title": "XPeng robotics raises $900M at $6.3B valuation for IRON robot push",
@@ -185,74 +245,26 @@
           "link": "https://insideevs.com/news/805622/tesla-semi-launches-europe/",
           "source": "InsideEVs",
           "published": "2026-08-20T17:13:34+00:00"
-        },
-        {
-          "title": "The Genesis GV90 takes luxury up a notch with coach doors and all [Images]",
-          "link": "https://electrek.co/2026/08/20/genesis-gv90-luxury-coach-doors-images/",
-          "source": "Electrek",
-          "published": "2026-08-20T15:08:50+00:00"
-        },
-        {
-          "title": "2027 Chevy Bolt Review: Do Americans Really Want Cheap EVs?",
-          "link": "https://insideevs.com/reviews/805609/2027-bolt-ev-affordable-car-review/",
-          "source": "InsideEVs",
-          "published": "2026-08-20T14:53:30+00:00"
-        },
-        {
-          "title": "You can now ride a Chinese EV in the US as Waymo opens Zeekr Ojai to all",
-          "link": "https://electrek.co/2026/08/20/waymo-zeekr-ojai-chinese-ev-robotaxi-all-riders/",
-          "source": "Electrek",
-          "published": "2026-08-20T14:46:12+00:00"
-        },
-        {
-          "title": "Geely prepares revolutionary 500 Wh/kg solid-state EV battery that could beat diesel",
-          "link": "https://electrek.co/2026/08/20/geely-500-wh-kg-solid-state-battery-2027-pilot/",
-          "source": "Electrek",
-          "published": "2026-08-20T12:59:37+00:00"
-        },
-        {
-          "title": "Waymo’s New Robotaxi Minivans Are Now Taking Paying Passengers",
-          "link": "https://insideevs.com/news/805592/waymo-ojai-public-rides-open-us/",
-          "source": "InsideEVs",
-          "published": "2026-08-20T12:54:32+00:00"
-        },
-        {
-          "title": "This fascinating folding e-bike is lighter than Brompton’s lightest electric bike",
-          "link": "https://electrek.co/2026/08/20/this-fascinating-folding-e-bike-is-lighter-than-bromptons-lightest-electric-bike/",
-          "source": "Electrek",
-          "published": "2026-08-20T12:25:21+00:00"
-        },
-        {
-          "title": "Tatra's Insane 8x8 Off-Road Truck Goes Electric For The First Time",
-          "link": "https://insideevs.com/news/805589/tatra-8x8-electric-truck-specs-official/",
-          "source": "InsideEVs",
-          "published": "2026-08-20T12:02:20+00:00"
-        },
-        {
-          "title": "This New App Puts 200,000 EV Chargers Across North America in One Place",
-          "link": "https://insideevs.com/news/805570/new-app-has-200000-ev-chargers-octopus/",
-          "source": "InsideEVs",
-          "published": "2026-08-20T09:12:50+00:00"
-        },
-        {
-          "title": "The Genesis GV90 Is Here And It's Like a Luxury Lounge On Wheels",
-          "link": "https://insideevs.com/news/805381/genesis-gv90-luxury-lounge/",
-          "source": "InsideEVs",
-          "published": "2026-08-20T03:00:00+00:00"
-        },
-        {
-          "title": "Wawa-branded EV chargers are expanding beyond Tesla",
-          "link": "https://electrek.co/2026/08/19/wawa-branded-ev-chargers-are-expanding-beyond-tesla/",
-          "source": "Electrek",
-          "published": "2026-08-19T21:53:47+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 31,
+      "count": 32,
       "items": [
+        {
+          "title": "Heybike Titan moto-inspired full suspension e-bike launch, EcoFlow 572Wh RIVER 3 Plus power station bundle $319, Segway, more",
+          "link": "https://electrek.co/2026/08/24/heybike-titan-moto-inspired-full-suspension-e-bike-ecoflow-572wh-river-3-plus-power-station-segway-more/",
+          "source": "Electrek",
+          "published": "2026-08-24T18:00:00+00:00"
+        },
+        {
+          "title": "How a Toyota dealer cut energy costs 55%, even with DC fast chargers",
+          "link": "https://electrek.co/2026/08/24/how-a-toyota-dealer-cut-energy-costs-55-percent-even-with-dc-fast-chargers/",
+          "source": "Electrek",
+          "published": "2026-08-24T17:46:18+00:00"
+        },
         {
           "title": "Heybike launches low cost 28 MPH full-suspension moped-style e-bike",
           "link": "https://electrek.co/2026/08/24/heybike-launches-low-cost-28-mph-full-suspension-moped-style-e-bike/",
@@ -354,12 +366,6 @@
           "link": "https://cleantechnica.com/2026/08/19/asahi-kasei-develops-novel-lithium-pre-doping-technology-to-raise-energy-density-and-lower-cost-of-silicon-rich-lithium-ion-batteries/",
           "source": "CleanTechnica",
           "published": "2026-08-20T03:55:39+00:00"
-        },
-        {
-          "title": "Bouge RV’s Battery-Powered Portable Fridges Make Going Off Grid Easy (CleanTechnica Tested)",
-          "link": "https://cleantechnica.com/2026/08/19/bouge-rvs-battery-powered-portable-fridges-make-going-off-grid-easy-cleantechnica-tested/",
-          "source": "CleanTechnica",
-          "published": "2026-08-19T23:39:03+00:00"
         },
         {
           "title": "Heybike Hero mid-drive carbon-fiber all-terrain e-bike at exclusive new 1,049.50 low, EcoFlow power station flash sale, more",
@@ -490,10 +496,10 @@
       "count": 20,
       "items": [
         {
-          "title": "부산대, 국제 로봇 프로젝트 'PBL 2026' 워크숍 성료",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48078",
+          "title": "‘2026 광운대-한국공학대 혁신융합대학사업단 글로벌 IC-PBL 프로그램’ 참가자 중국 베이징 로봇 현장 탐방",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48079",
           "source": "로봇신문",
-          "published": "2026-08-24T17:31:57+00:00"
+          "published": "2026-08-25T02:56:57+00:00"
         },
         {
           "title": "Use a digital twin to explore automation before committing capital",
@@ -530,6 +536,12 @@
           "link": "https://www.therobotreport.com/schaeffler-plans-to-mass-manufacture-gearboxes-for-humanoids-in-2027/",
           "source": "The Robot Report",
           "published": "2026-08-21T19:27:22+00:00"
+        },
+        {
+          "title": "Video Friday: Do We Need Superhuman Humanoid Robots?",
+          "link": "https://spectrum.ieee.org/video-friday-unitree-superhuman",
+          "source": "IEEE Spectrum",
+          "published": "2026-08-21T16:00:01+00:00"
         },
         {
           "title": "Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026",
@@ -602,12 +614,6 @@
           "link": "https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge",
           "source": "IEEE Spectrum",
           "published": "2026-08-14T17:00:01+00:00"
-        },
-        {
-          "title": "Robot Recycler Salvages Parts From Broken Machines",
-          "link": "https://spectrum.ieee.org/recycling-robot",
-          "source": "IEEE Spectrum",
-          "published": "2026-08-10T18:01:25+00:00"
         }
       ]
     },
