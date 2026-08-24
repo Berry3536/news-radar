@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-08-24T06:52:09.427519+00:00",
+  "generated_at": "2026-08-24T12:42:25.580496+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "페라리 첫 순수 전기 스포츠카, 페라리 루체 한국 최초 공개",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44365",
+          "source": "모터그래프",
+          "published": "2026-08-24T17:38:48+00:00"
+        },
+        {
+          "title": "XPeng robotics raises $900M at $6.3B valuation for IRON robot push",
+          "link": "https://electrek.co/2026/08/24/xpeng-robotics-900m-iron-humanoid-robot-valuation/",
+          "source": "Electrek",
+          "published": "2026-08-24T12:35:16+00:00"
+        },
+        {
+          "title": "Europe’s EV Sales Explode, Now Making Up A Quarter Of New Cars",
+          "link": "https://insideevs.com/news/805888/europe-ev-sales-july-increase/",
+          "source": "InsideEVs",
+          "published": "2026-08-24T12:21:56+00:00"
+        },
+        {
+          "title": "Heybike launches low cost 28 MPH full-suspension moped-style e-bike",
+          "link": "https://electrek.co/2026/08/24/heybike-launches-low-cost-28-mph-full-suspension-moped-style-e-bike/",
+          "source": "Electrek",
+          "published": "2026-08-24T11:55:00+00:00"
+        },
+        {
+          "title": "Walmart's EV Charging Network Just Hit A Big Milestone: 100 Stations In 20 States",
+          "link": "https://insideevs.com/news/805862/walmart-ev-charging-milestone/",
+          "source": "InsideEVs",
+          "published": "2026-08-24T09:36:12+00:00"
+        },
+        {
+          "title": "Rivian EVs Are Getting A Software Update That Makes It Easier To Dodge The Cops",
+          "link": "https://insideevs.com/news/805826/rivian-software-update-waze-reports/",
+          "source": "InsideEVs",
+          "published": "2026-08-24T07:07:24+00:00"
+        },
         {
           "title": "'Most Companies Are Struggling': Executive Shares An Uncomfortable Truth About Solid-State EV Batteries",
           "link": "https://insideevs.com/news/805750/lges-solid-state-battery-evs-uncomfortable-truth/",
@@ -59,12 +95,6 @@
           "link": "https://electrek.co/2026/08/21/us-factory-grid-batteries-safer-anthro-energy/",
           "source": "Electrek",
           "published": "2026-08-21T17:09:27+00:00"
-        },
-        {
-          "title": "고급스러움, 효율, 차세대 첨단 기술까지 현대 그랜저 하이브리드",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44360",
-          "source": "모터그래프",
-          "published": "2026-08-21T16:53:21+00:00"
         },
         {
           "title": "Hyundai and Genesis EV drivers can now score a 20% discount on IONNA charging",
@@ -215,36 +245,6 @@
           "link": "https://electrek.co/2026/08/19/wawa-branded-ev-chargers-are-expanding-beyond-tesla/",
           "source": "Electrek",
           "published": "2026-08-19T21:53:47+00:00"
-        },
-        {
-          "title": "BMW's Chinese-Market iX3 50L Just Drove 640 Miles On One Charge",
-          "link": "https://insideevs.com/news/805513/bmw-ix3-drove-640-miles/",
-          "source": "InsideEVs",
-          "published": "2026-08-19T20:35:07+00:00"
-        },
-        {
-          "title": "The Fiat Topolino Is Disrupting The U.S. Golf Cart Market",
-          "link": "https://insideevs.com/news/805509/fiat-topolino-ev-golfcart-market/",
-          "source": "InsideEVs",
-          "published": "2026-08-19T20:33:22+00:00"
-        },
-        {
-          "title": "As US tries to starve Cuba, solar electric garbage trikes offer a lifeline",
-          "link": "https://electrek.co/2026/08/19/as-us-tries-to-starve-cuba-solar-electric-garbage-trikes-offer-a-lifeline/",
-          "source": "Electrek",
-          "published": "2026-08-19T19:32:53+00:00"
-        },
-        {
-          "title": "Sharing Is Caring: See How A Lucid Gravity Can Charge A Tesla Model 3",
-          "link": "https://insideevs.com/news/805511/lucid-gravity-charges-tesla/",
-          "source": "InsideEVs",
-          "published": "2026-08-19T18:49:21+00:00"
-        },
-        {
-          "title": "Portland airport can charge 20 rental EVs at once – from overhead",
-          "link": "https://electrek.co/2026/08/19/portland-airport-can-charge-20-rental-evs-at-once-from-overhead/",
-          "source": "Electrek",
-          "published": "2026-08-19T18:20:26+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 31,
       "items": [
+        {
+          "title": "Heybike launches low cost 28 MPH full-suspension moped-style e-bike",
+          "link": "https://electrek.co/2026/08/24/heybike-launches-low-cost-28-mph-full-suspension-moped-style-e-bike/",
+          "source": "Electrek",
+          "published": "2026-08-24T11:55:00+00:00"
+        },
         {
           "title": "A Hydrogen Generator Charged An Electric Ship. Why Was Hydrogen There?",
           "link": "https://cleantechnica.com/2026/08/23/hydrogen-ship-charging-tilbury-battery-test/",
@@ -432,37 +438,25 @@
           "link": "https://electrek.co/2026/08/13/tesla-powerwall-backup-lease-tesla-electric-texas/",
           "source": "Electrek",
           "published": "2026-08-13T16:50:37+00:00"
-        },
-        {
-          "title": "Lectric XP Lite2 e-bike + largest $508 bundle from $999, Anker SOLIX 3,840Wh F3800 power station $1,800, EcoFlow, tools, more",
-          "link": "https://electrek.co/2026/08/12/lectric-xp-lite2-e-bike-508-bundle-anker-solix-3840wh-f3800-power-station-ecoflow-more/",
-          "source": "Electrek",
-          "published": "2026-08-12T18:00:00+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 7,
+      "count": 6,
       "items": [
         {
-          "title": "8월 22일, 전주월드컵경기장에서 현대 N 파트너 데이 개최",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44343",
+          "title": "이정우, 일본 슈퍼 GT 5라운드 완주",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44370",
           "source": "모터그래프",
-          "published": "2026-08-20T18:34:55+00:00"
+          "published": "2026-08-24T17:33:40+00:00"
         },
         {
           "title": "VMAX VX2 Lite review: Power and full suspension fun without the heavyweight price",
           "link": "https://electrek.co/2026/08/19/vmax-vx2-lite-review-power-and-full-suspension-fun-without-the-heavyweight-price/",
           "source": "Electrek",
           "published": "2026-08-19T14:35:00+00:00"
-        },
-        {
-          "title": "These Affordable EVs Just Got A New Lifeline: Replacement Motors Cost 30% Less",
-          "link": "https://insideevs.com/news/805423/kia-niro-hyundai-kona-ev-remanufactured-motors/",
-          "source": "InsideEVs",
-          "published": "2026-08-19T09:19:47+00:00"
         },
         {
           "title": "BYD’s electric supercar beats Porsche on both speed and price [Video]",
@@ -496,10 +490,10 @@
       "count": 20,
       "items": [
         {
-          "title": "오늘의 로봇 기업 주식 시세(2026-08-24)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48071",
+          "title": "부산대, 국제 로봇 프로젝트 'PBL 2026' 워크숍 성료",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48078",
           "source": "로봇신문",
-          "published": "2026-08-24T15:41:15+00:00"
+          "published": "2026-08-24T17:31:57+00:00"
         },
         {
           "title": "Use a digital twin to explore automation before committing capital",
@@ -623,10 +617,10 @@
       "count": 40,
       "items": [
         {
-          "title": "\"누끼 제거는 옛말\"…오픈AI, API로 '배경 없는 투명 이미지' 직접 생성",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214301",
+          "title": "엔비디아, 퍼플렉시티에 수십억달러 투자 논의…기업 가치 41조 평가",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214316",
           "source": "AI타임스",
-          "published": "2026-08-24T15:48:24+00:00"
+          "published": "2026-08-24T18:24:49+00:00"
         },
         {
           "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
