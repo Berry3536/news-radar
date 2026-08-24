@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T01:06:08.225302+00:00",
+  "generated_at": "2026-08-24T06:52:09.427519+00:00",
   "categories": [
     {
       "key": "ev",
@@ -496,10 +496,10 @@
       "count": 20,
       "items": [
         {
-          "title": "中 커피 로봇, 기네스 기록 세워…1시간 동안 202잔 제조",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48044",
+          "title": "오늘의 로봇 기업 주식 시세(2026-08-24)",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48071",
           "source": "로봇신문",
-          "published": "2026-08-23T20:27:49+00:00"
+          "published": "2026-08-24T15:41:15+00:00"
         },
         {
           "title": "Use a digital twin to explore automation before committing capital",
@@ -620,13 +620,247 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 1,
+      "count": 40,
       "items": [
         {
-          "title": "프리윌린, 피어슨과 협력으로 콘텐츠 강화…“국내 100개 대학이 선택한 에듀테크”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214269",
+          "title": "\"누끼 제거는 옛말\"…오픈AI, API로 '배경 없는 투명 이미지' 직접 생성",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214301",
           "source": "AI타임스",
-          "published": "2026-08-24T08:38:06+00:00"
+          "published": "2026-08-24T15:48:24+00:00"
+        },
+        {
+          "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+          "link": "https://arxiv.org/abs/2608.20341",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+          "link": "https://arxiv.org/abs/2608.20342",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
+          "link": "https://arxiv.org/abs/2608.20378",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+          "link": "https://arxiv.org/abs/2608.20379",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
+          "link": "https://arxiv.org/abs/2608.20384",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
+          "link": "https://arxiv.org/abs/2608.20389",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
+          "link": "https://arxiv.org/abs/2608.20397",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Environmental Slow AI: Design Principles for Generative Systems",
+          "link": "https://arxiv.org/abs/2608.20398",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "When Retrieval Fails Before It Begins: Structurally Indirect Prerequisite Eviction as a Retention Failure in Agentic Memory",
+          "link": "https://arxiv.org/abs/2608.20400",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "World models of environment, agent and joint agent-environment systems",
+          "link": "https://arxiv.org/abs/2608.20401",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "StateSight: Benchmarking Latent Spatial-State Reconstruction in Vision-Language Models",
+          "link": "https://arxiv.org/abs/2608.20414",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Categorical AI phenomenology: A first-person approach",
+          "link": "https://arxiv.org/abs/2608.20420",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Who Delegates to AI? Evidence from 53,000 Agent Configurations",
+          "link": "https://arxiv.org/abs/2608.20425",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "STCO: Conditional Neural Operators for Time-Dependent PDEs",
+          "link": "https://arxiv.org/abs/2608.20477",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Terminal Agents: A Survey of AI Agents in Command-Line Environments",
+          "link": "https://arxiv.org/abs/2608.20485",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Lost in Translation: How Universal Ethical Values Fail to Translate Across Global Contexts",
+          "link": "https://arxiv.org/abs/2608.20490",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "A Temporal Planning Approach for Intelligent Flood Response",
+          "link": "https://arxiv.org/abs/2608.20510",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "FL-MAESTRO: Multi-Agent LLM Orchestration for Resource-Constrained Federated Learning",
+          "link": "https://arxiv.org/abs/2608.20518",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Volumetric Radiology AI in the Era of Multimodal Large Language Models",
+          "link": "https://arxiv.org/abs/2608.20549",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Consilience: Conformally Calibrated Communication Control for Hidden-Profile Multi-Agent Reasoning",
+          "link": "https://arxiv.org/abs/2608.20564",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Open-Weight Masked Introspection: Measuring What Language Models Can Report About Their Own Computation",
+          "link": "https://arxiv.org/abs/2608.20569",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "FlavourBench: Ranking Frontier Language Models with Executable Culinary Ground Truth",
+          "link": "https://arxiv.org/abs/2608.20574",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Difficulty-Aware Semantic-ID Optimization for Generative Recommendation",
+          "link": "https://arxiv.org/abs/2608.20611",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Evaluating Skills, Not Just Agents: Agentic Continuous Evaluation of Skills",
+          "link": "https://arxiv.org/abs/2608.20614",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Dual-Cache Latent Space Communication between Heterogeneous Language Models",
+          "link": "https://arxiv.org/abs/2608.20617",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work",
+          "link": "https://arxiv.org/abs/2608.20622",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "SAGE: A Unified Algebra and Self-Adaptive Execution for AI Functions in SQL",
+          "link": "https://arxiv.org/abs/2608.20630",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Weighted Memory Tree: Remembering What Matters for Long-Horizon LLM Agents",
+          "link": "https://arxiv.org/abs/2608.20631",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Beyond Effectiveness: A Multi-Criteria Framework for Comparing Practical Socio-Technical Interventions",
+          "link": "https://arxiv.org/abs/2608.20649",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Auditable by Construction: An Ontology-Driven Framework for Trustworthy LLM Analytics in Enterprise Finance",
+          "link": "https://arxiv.org/abs/2608.20661",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "DreamBench-SWE: A Multi-Session Memory-Hygiene Benchmark for Software Agents",
+          "link": "https://arxiv.org/abs/2608.20664",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Why2Speak: Faithful Reasoning for Abstaining Action Policies",
+          "link": "https://arxiv.org/abs/2608.20670",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "CDRL: Certification-Driven Reinforcement Learning for Neutrino Flavor Model Discovery",
+          "link": "https://arxiv.org/abs/2608.20686",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "VortexChat: An agentic framework for autonomous multi-objective integrated photonic design",
+          "link": "https://arxiv.org/abs/2608.20688",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "DirEAG: Dirichlet Evidence Aggregation for Calibrating Verbalized Confidence in Mathematical Reasoning",
+          "link": "https://arxiv.org/abs/2608.20717",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Calibrating Criterion Revision in LLM Agents: Failure Modes and a Trace-Anchored Protocol",
+          "link": "https://arxiv.org/abs/2608.20729",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "ForeTime-VLA: Causal Future-Token Distillation from a World Action Model for Conveyor-Belt Manipulation",
+          "link": "https://arxiv.org/abs/2608.20735",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Continuous-Time Quantum Walks based Graph Neural Network",
+          "link": "https://arxiv.org/abs/2608.20738",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
+        },
+        {
+          "title": "Is Multimodal Speculative Decoding Ready for Diffusion-Based Parallel Drafting? A Survey and Empirical Diagnosis",
+          "link": "https://arxiv.org/abs/2608.20743",
+          "source": "arXiv cs.AI",
+          "published": "2026-08-24T04:00:00+00:00"
         }
       ]
     }
