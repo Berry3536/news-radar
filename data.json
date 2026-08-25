@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-08-25T06:40:28.835480+00:00",
+  "generated_at": "2026-08-25T12:41:06.360007+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "2027 팰리세이드, 하이루프, XRT, 블랙 잉크 트림 추가",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44380",
+          "source": "모터그래프",
+          "published": "2026-08-25T16:59:45+00:00"
+        },
+        {
+          "title": "Need a panel upgrade for an EV charger? Schneider may have a workaround",
+          "link": "https://electrek.co/2026/08/25/481029/",
+          "source": "Electrek",
+          "published": "2026-08-25T12:00:00+00:00"
+        },
+        {
+          "title": "E-quipment highlight: 4,400 hp Wabtec FLXDrive electric locomotive",
+          "link": "https://electrek.co/2026/08/25/e-quipment-highlight-4400-hp-wabtec-flxdrive-electric-locomotive/",
+          "source": "Electrek",
+          "published": "2026-08-25T11:10:00+00:00"
+        },
         {
           "title": "Tesla to inaugurate new Semi factory in Nevada next month",
           "link": "https://electrek.co/2026/08/24/tesla-semi-factory-inauguration-nevada/",
@@ -89,12 +107,6 @@
           "link": "https://electrek.co/2026/08/24/how-a-toyota-dealer-cut-energy-costs-55-percent-even-with-dc-fast-chargers/",
           "source": "Electrek",
           "published": "2026-08-24T17:46:18+00:00"
-        },
-        {
-          "title": "페라리 첫 순수 전기 스포츠카, 페라리 루체 한국 최초 공개",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44365",
-          "source": "모터그래프",
-          "published": "2026-08-24T17:38:48+00:00"
         },
         {
           "title": "Tesla confirms Cybercab launch coming next week",
@@ -233,26 +245,20 @@
           "link": "https://electrek.co/2026/08/21/tesla-recall-3-million-cars-china-door-handles/",
           "source": "Electrek",
           "published": "2026-08-21T13:08:09+00:00"
-        },
-        {
-          "title": "Nevada Opens The Door To Thousands Of Paid Robotaxis, And Tesla Has The Edge",
-          "link": "https://insideevs.com/news/805700/nevada-robotaxi-permits-tesla-waymo-uber-paid-rides/",
-          "source": "InsideEVs",
-          "published": "2026-08-21T11:59:56+00:00"
-        },
-        {
-          "title": "Hyundai And Genesis EVs In The U.S. Get A Big Discount At Ionna Chargers",
-          "link": "https://insideevs.com/news/805688/hyundai-genesis-ev-ionna-charging-discount/",
-          "source": "InsideEVs",
-          "published": "2026-08-21T09:30:15+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 31,
+      "count": 32,
       "items": [
+        {
+          "title": "E-quipment highlight: 4,400 hp Wabtec FLXDrive electric locomotive",
+          "link": "https://electrek.co/2026/08/25/e-quipment-highlight-4400-hp-wabtec-flxdrive-electric-locomotive/",
+          "source": "Electrek",
+          "published": "2026-08-25T11:10:00+00:00"
+        },
         {
           "title": "When Do You Trade In Your EV For A New One?",
           "link": "https://cleantechnica.com/2026/08/24/when-do-you-trade-in-your-ev-for-a-new-one/",
@@ -447,10 +453,10 @@
       "count": 6,
       "items": [
         {
-          "title": "이정우, 일본 슈퍼 GT 5라운드 완주",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44370",
+          "title": "람보르기니, 테메라리오 트리콜로레 사양 공개",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44379",
           "source": "모터그래프",
-          "published": "2026-08-24T17:33:40+00:00"
+          "published": "2026-08-25T16:59:21+00:00"
         },
         {
           "title": "VMAX VX2 Lite review: Power and full suspension fun without the heavyweight price",
@@ -490,10 +496,10 @@
       "count": 20,
       "items": [
         {
-          "title": "‘2026 광운대-한국공학대 혁신융합대학사업단 글로벌 IC-PBL 프로그램’ 참가자 중국 베이징 로봇 현장 탐방",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48079",
+          "title": "DGIST와 함께하는 ‘긱블 로봇 AI 창업 캠프’ 성료",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48102",
           "source": "로봇신문",
-          "published": "2026-08-25T02:56:57+00:00"
+          "published": "2026-08-25T17:45:46+00:00"
         },
         {
           "title": "The next big AI play isn’t apps or humanoids; it’s machines with brains and brawn",
@@ -617,10 +623,10 @@
       "count": 40,
       "items": [
         {
-          "title": "영국, 우크라이나 전장 AI 빅데이터 확보...국방·안보 AI 공동 개발 착수",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214335",
+          "title": "앤드류 응이 제시한 AI 엔지니어링 역량 6가지...“불확실성 제어가 핵심”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214329",
           "source": "AI타임스",
-          "published": "2026-08-25T15:38:44+00:00"
+          "published": "2026-08-25T18:28:33+00:00"
         },
         {
           "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
