@@ -1,11 +1,71 @@
 {
-  "generated_at": "2026-08-24T18:35:31.087170+00:00",
+  "generated_at": "2026-08-25T01:05:22.747964+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Tesla to inaugurate new Semi factory in Nevada next month",
+          "link": "https://electrek.co/2026/08/24/tesla-semi-factory-inauguration-nevada/",
+          "source": "Electrek",
+          "published": "2026-08-25T00:40:18+00:00"
+        },
+        {
+          "title": "Skycharger solar + electric semi truck project gets green light in San Diego",
+          "link": "https://electrek.co/2026/08/24/skycharger-solar-electric-semi-truck-project-gets-green-light-in-san-diego/",
+          "source": "Electrek",
+          "published": "2026-08-24T22:21:19+00:00"
+        },
+        {
+          "title": "Tesla ‘Robotaxi’ sold a 66-minute 2.3-mile ride and left a rider 3 miles from his destination",
+          "link": "https://electrek.co/2026/08/24/tesla-robotaxi-failing-fans-texas/",
+          "source": "Electrek",
+          "published": "2026-08-24T21:43:53+00:00"
+        },
+        {
+          "title": "Pakistani port promises 70 new electric trucks in $76M ZEV push",
+          "link": "https://electrek.co/2026/08/24/pakistani-port-promises-70-new-electric-trucks-in-76m-zev-push/",
+          "source": "Electrek",
+          "published": "2026-08-24T21:36:23+00:00"
+        },
+        {
+          "title": "Polestar Still Has No Idea Why The U.S. Govt. Kicked It Out",
+          "link": "https://insideevs.com/news/805940/polestar-no-idea-us-government-ban-ev/",
+          "source": "InsideEVs",
+          "published": "2026-08-24T21:35:13+00:00"
+        },
+        {
+          "title": "The Mercedes CLA 350 4Matic Destroys EPA-Rated Range With Shocking Efficiency",
+          "link": "https://insideevs.com/news/805935/mercedes-cla-350-range-test/",
+          "source": "InsideEVs",
+          "published": "2026-08-24T21:35:05+00:00"
+        },
+        {
+          "title": "Xiaomi Unveils Custom Chip For Driver-Assist Features",
+          "link": "https://insideevs.com/news/805921/xiaomi-self-driving-chip-nvidia/",
+          "source": "InsideEVs",
+          "published": "2026-08-24T20:37:16+00:00"
+        },
+        {
+          "title": "Genesis' First Few EVs Didn't Blow Me Away. The GV90 Flagship Did",
+          "link": "https://insideevs.com/features/805932/the-genesis-gv90-blew-me-away/",
+          "source": "InsideEVs",
+          "published": "2026-08-24T20:08:52+00:00"
+        },
+        {
+          "title": "Can-Am Pulse 2026 Review : Is the lower price enough?",
+          "link": "https://electrek.co/2026/08/24/can-am-pulse-2026-review-is-the-lower-price-enough/",
+          "source": "Electrek",
+          "published": "2026-08-24T18:52:17+00:00"
+        },
+        {
+          "title": "Over 1.1 million GM vehicles, including EVs, are under NHTSA investigation",
+          "link": "https://electrek.co/2026/08/24/over-1-1m-gm-vehicles-evs-nhtsa-investigation/",
+          "source": "Electrek",
+          "published": "2026-08-24T18:45:43+00:00"
+        },
         {
           "title": "More EV Owners Can Now Get Paid To Power California’s Grid",
           "link": "https://insideevs.com/news/805919/california-pacific-gas-electric-vehicle-to-grid-charging/",
@@ -37,16 +97,16 @@
           "published": "2026-08-24T17:38:48+00:00"
         },
         {
-          "title": "Wawa Is Getting Its Own Brand Of EV Chargers (Kind Of)",
-          "link": "https://insideevs.com/news/805923/wawa-ev-chargers-electrify-america/",
-          "source": "InsideEVs",
-          "published": "2026-08-24T17:23:49+00:00"
-        },
-        {
           "title": "Tesla confirms Cybercab launch coming next week",
           "link": "https://electrek.co/2026/08/24/tesla-cybercab-exclusive-access-robotaxi-sept-3/",
           "source": "Electrek",
           "published": "2026-08-24T17:10:02+00:00"
+        },
+        {
+          "title": "Wawa Branded EV Chargers Are Here Thanks To Electrify America",
+          "link": "https://insideevs.com/news/805923/wawa-ev-chargers-electrify-america/",
+          "source": "InsideEVs",
+          "published": "2026-08-24T16:58:45+00:00"
         },
         {
           "title": "Volkswagen’s new electric SUV is not just a rebadged ID.4 [Images]",
@@ -185,74 +245,20 @@
           "link": "https://insideevs.com/news/805688/hyundai-genesis-ev-ionna-charging-discount/",
           "source": "InsideEVs",
           "published": "2026-08-21T09:30:15+00:00"
-        },
-        {
-          "title": "Aptera Reveals The Secret To Building Its Solar EV: China",
-          "link": "https://insideevs.com/news/805659/aptera-production-partner-china/",
-          "source": "InsideEVs",
-          "published": "2026-08-21T06:06:30+00:00"
-        },
-        {
-          "title": "Tesla discontinues its Solar Roof tiles, not economically viable",
-          "link": "https://electrek.co/2026/08/20/tesla-discontinues-solar-roof-panels-only/",
-          "source": "Electrek",
-          "published": "2026-08-21T03:44:23+00:00"
-        },
-        {
-          "title": "Tesla confirms Semi electric truck is coming to Europe, reveal at IAA",
-          "link": "https://electrek.co/2026/08/20/tesla-semi-europe-launch-iaa-transportation/",
-          "source": "Electrek",
-          "published": "2026-08-20T20:11:48+00:00"
-        },
-        {
-          "title": "Geely Is Testing A Solid-State Battery With Over 621 Miles Of Range. It Could End Up In A Volvo",
-          "link": "https://insideevs.com/news/805618/volvo-geely-solid-state-2027/",
-          "source": "InsideEVs",
-          "published": "2026-08-20T20:08:08+00:00"
-        },
-        {
-          "title": "The Lucid Air Air Sapphire Beats Genuine Mid-Engine Supercars From 0-200-0 MPH",
-          "link": "https://insideevs.com/news/805634/lucid-air-sapphire-beats-supercars/",
-          "source": "InsideEVs",
-          "published": "2026-08-20T20:03:42+00:00"
-        },
-        {
-          "title": "Tesla says FSD v15 is a ‘step-change,’ Optimus sells in 2027",
-          "link": "https://electrek.co/2026/08/20/tesla-jpmorgan-fremont-fsd-v15-hw4-optimus-2027/",
-          "source": "Electrek",
-          "published": "2026-08-20T19:37:11+00:00"
-        },
-        {
-          "title": "Colorado’s largest electric school bus fleet gets a 26-plug charging hub",
-          "link": "https://electrek.co/2026/08/20/colorados-largest-electric-school-bus-fleet-gets-a-26-plug-charging-hub/",
-          "source": "Electrek",
-          "published": "2026-08-20T19:18:34+00:00"
-        },
-        {
-          "title": "Anker SOLIX 2kWh power station $600, Segway Navimow i105N Robot $140 off, WORX 2-in-1 reciprocating saw $73, more",
-          "link": "https://electrek.co/2026/08/20/green-deals-aug-20/",
-          "source": "Electrek",
-          "published": "2026-08-20T18:00:00+00:00"
-        },
-        {
-          "title": "This $0-down Illinois home solar deal includes a huge 60 kWh battery",
-          "link": "https://electrek.co/2026/08/20/this-0-down-illinois-home-solar-deal-includes-a-huge-60-kwh-battery/",
-          "source": "Electrek",
-          "published": "2026-08-20T17:59:13+00:00"
-        },
-        {
-          "title": "The Tesla Semi Is Heading To Europe",
-          "link": "https://insideevs.com/news/805622/tesla-semi-launches-europe/",
-          "source": "InsideEVs",
-          "published": "2026-08-20T17:13:34+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 32,
+      "count": 30,
       "items": [
+        {
+          "title": "Xiaomi Unveils Custom Chip For Driver-Assist Features",
+          "link": "https://insideevs.com/news/805921/xiaomi-self-driving-chip-nvidia/",
+          "source": "InsideEVs",
+          "published": "2026-08-24T20:37:16+00:00"
+        },
         {
           "title": "Heybike Titan moto-inspired full suspension e-bike launch, EcoFlow 572Wh RIVER 3 Plus power station bundle $319, Segway, more",
           "link": "https://electrek.co/2026/08/24/heybike-titan-moto-inspired-full-suspension-e-bike-ecoflow-572wh-river-3-plus-power-station-segway-more/",
@@ -362,12 +368,6 @@
           "published": "2026-08-20T12:59:37+00:00"
         },
         {
-          "title": "Asahi Kasei Develops Novel Lithium Pre-doping Technology to Raise Energy Density and Lower Cost of Silicon-rich Lithium-ion Batteries",
-          "link": "https://cleantechnica.com/2026/08/19/asahi-kasei-develops-novel-lithium-pre-doping-technology-to-raise-energy-density-and-lower-cost-of-silicon-rich-lithium-ion-batteries/",
-          "source": "CleanTechnica",
-          "published": "2026-08-20T03:55:39+00:00"
-        },
-        {
           "title": "Heybike Hero mid-drive carbon-fiber all-terrain e-bike at exclusive new 1,049.50 low, EcoFlow power station flash sale, more",
           "link": "https://electrek.co/2026/08/19/heybike-hero-mid-drive-e-bike-exclusive-ecoflow-power-station-flash-sale-more/",
           "source": "Electrek",
@@ -432,18 +432,6 @@
           "link": "https://electrek.co/2026/08/14/ferrari-cz26-one-off-luce-design-sf90-hybrid/",
           "source": "Electrek",
           "published": "2026-08-14T14:13:01+00:00"
-        },
-        {
-          "title": "Report says Porsche will end Taycan production by 2030, reversing course",
-          "link": "https://electrek.co/2026/08/13/report-says-porsche-will-end-taycan-production-by-2030-reversing-course/",
-          "source": "Electrek",
-          "published": "2026-08-13T17:43:55+00:00"
-        },
-        {
-          "title": "Tesla Electric launches $35/month Powerwall whole-home backup lease",
-          "link": "https://electrek.co/2026/08/13/tesla-powerwall-backup-lease-tesla-electric-texas/",
-          "source": "Electrek",
-          "published": "2026-08-13T16:50:37+00:00"
         }
       ]
     },
@@ -500,6 +488,18 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48079",
           "source": "로봇신문",
           "published": "2026-08-25T02:56:57+00:00"
+        },
+        {
+          "title": "The next big AI play isn’t apps or humanoids; it’s machines with brains and brawn",
+          "link": "https://www.therobotreport.com/the-next-big-ai-play-isnt-apps-or-humanoids-its-machines-with-brains-and-brawn/",
+          "source": "The Robot Report",
+          "published": "2026-08-24T22:53:33+00:00"
+        },
+        {
+          "title": "XPeng Motors humanoid robot unit Dogotix raises $900M",
+          "link": "https://www.therobotreport.com/xpeng-motors-humanoid-robot-unit-dogotix-raises-900m/",
+          "source": "The Robot Report",
+          "published": "2026-08-24T20:07:09+00:00"
         },
         {
           "title": "Use a digital twin to explore automation before committing capital",
@@ -586,18 +586,6 @@
           "published": "2026-08-19T13:07:06+00:00"
         },
         {
-          "title": "How to achieve high voltage in industrial systems without high complexity",
-          "link": "https://www.therobotreport.com/how-achieve-high-voltage-industrial-systems-without-high-complexity/",
-          "source": "The Robot Report",
-          "published": "2026-08-18T21:07:45+00:00"
-        },
-        {
-          "title": "FORT Robotics to take safety stack public via SPAC merger",
-          "link": "https://www.therobotreport.com/fort-robotics-takes-safety-stack-public-via-spac-merger/",
-          "source": "The Robot Report",
-          "published": "2026-08-18T15:24:13+00:00"
-        },
-        {
           "title": "Drones With Claws Perch on Arctic Icebergs",
           "link": "https://spectrum.ieee.org/arctic-iceberg-drones",
           "source": "IEEE Spectrum",
@@ -623,10 +611,10 @@
       "count": 40,
       "items": [
         {
-          "title": "엔비디아, 퍼플렉시티에 수십억달러 투자 논의…기업 가치 41조 평가",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214316",
+          "title": "[8월24일] 중국 로봇, 1년 만에 100m 기록 절반 단축…“두뇌는 'GPT-2' 수준”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214278",
           "source": "AI타임스",
-          "published": "2026-08-24T18:24:49+00:00"
+          "published": "2026-08-25T07:00:00+00:00"
         },
         {
           "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
