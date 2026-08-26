@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-08-25T18:40:22.807344+00:00",
+  "generated_at": "2026-08-26T01:07:23.800471+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "BYD’s low-cost electric hatch is about to get a bigger sibling",
+          "link": "https://electrek.co/2026/08/25/byds-low-cost-electric-hatch-bigger-sibling/",
+          "source": "Electrek",
+          "published": "2026-08-25T22:19:16+00:00"
+        },
+        {
+          "title": "Can Tesla FSD Take You Up The Steepest Dirt Road In America All By Itself?",
+          "link": "https://insideevs.com/news/806060/tesla-fsd-steepest-dirt-road/",
+          "source": "InsideEVs",
+          "published": "2026-08-25T22:06:27+00:00"
+        },
+        {
+          "title": "Robot vacuum company cancels its rocket-boosted electric hypercar",
+          "link": "https://electrek.co/2026/08/25/robot-vacuum-company-cancels-its-rocket-powered-electric-car/",
+          "source": "Electrek",
+          "published": "2026-08-25T21:47:25+00:00"
+        },
+        {
+          "title": "Future EVs could get more range from this tiny TI sensor",
+          "link": "https://electrek.co/2026/08/25/future-evs-could-get-more-range-from-this-tiny-ti-sensor/",
+          "source": "Electrek",
+          "published": "2026-08-25T20:51:58+00:00"
+        },
+        {
+          "title": "I Went To Toyota’s Employee Electrification Training. Here’s What Surprised Me",
+          "link": "https://insideevs.com/features/806068/toyota-electrification-101/",
+          "source": "InsideEVs",
+          "published": "2026-08-25T19:46:46+00:00"
+        },
         {
           "title": "EcoFlow Labor Day power station sale with up to 58% savings, Aventon Aventure 3 e-bike $1,799, Anker SOLIX bundle, more",
           "link": "https://electrek.co/2026/08/25/ecoflow-labor-day-power-station-sale-aventon-aventure-3-e-bike-anker-solix-more/",
@@ -215,44 +245,32 @@
           "link": "https://electrek.co/2026/08/24/tesla-fsd-v14-1-lite-drove-over-log/",
           "source": "Electrek",
           "published": "2026-08-24T14:45:04+00:00"
-        },
-        {
-          "title": "Tesla loses another top chip engineer to ex-Dojo startup DensityAI",
-          "link": "https://electrek.co/2026/08/24/tesla-chip-engineer-shishuang-sun-densityai/",
-          "source": "Electrek",
-          "published": "2026-08-24T13:09:54+00:00"
-        },
-        {
-          "title": "XPeng robotics raises $900M at $6.3B valuation for IRON robot push",
-          "link": "https://electrek.co/2026/08/24/xpeng-robotics-900m-iron-humanoid-robot-valuation/",
-          "source": "Electrek",
-          "published": "2026-08-24T12:35:16+00:00"
-        },
-        {
-          "title": "Europe’s EV Sales Explode, Now Making Up A Quarter Of New Cars",
-          "link": "https://insideevs.com/news/805888/europe-ev-sales-july-increase/",
-          "source": "InsideEVs",
-          "published": "2026-08-24T12:21:56+00:00"
-        },
-        {
-          "title": "Heybike launches low cost 28 MPH full-suspension moped-style e-bike",
-          "link": "https://electrek.co/2026/08/24/heybike-launches-low-cost-28-mph-full-suspension-moped-style-e-bike/",
-          "source": "Electrek",
-          "published": "2026-08-24T11:55:00+00:00"
-        },
-        {
-          "title": "Walmart's EV Charging Network Just Hit A Big Milestone: 100 Stations In 20 States",
-          "link": "https://insideevs.com/news/805862/walmart-ev-charging-milestone/",
-          "source": "InsideEVs",
-          "published": "2026-08-24T09:36:12+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 31,
+      "count": 33,
       "items": [
+        {
+          "title": "Photovoltaic Windows Have Been Heating Water in a Bucharest Apartment for Two Years",
+          "link": "https://cleantechnica.com/2026/08/25/photovoltaic-windows-have-been-heating-water-in-a-bucharest-apartment-for-two-years/",
+          "source": "CleanTechnica",
+          "published": "2026-08-26T00:23:53+00:00"
+        },
+        {
+          "title": "Robot vacuum company cancels its rocket-boosted electric hypercar",
+          "link": "https://electrek.co/2026/08/25/robot-vacuum-company-cancels-its-rocket-powered-electric-car/",
+          "source": "Electrek",
+          "published": "2026-08-25T21:47:25+00:00"
+        },
+        {
+          "title": "Future EVs could get more range from this tiny TI sensor",
+          "link": "https://electrek.co/2026/08/25/future-evs-could-get-more-range-from-this-tiny-ti-sensor/",
+          "source": "Electrek",
+          "published": "2026-08-25T20:51:58+00:00"
+        },
         {
           "title": "Suzuki Unveils it BEV Kei Car for Release This Autumn",
           "link": "https://cleantechnica.com/2026/08/25/suzuki-unveils-it-bev-kei-car-for-release-this-autumn/",
@@ -368,12 +386,6 @@
           "published": "2026-08-20T17:59:13+00:00"
         },
         {
-          "title": "Mahle Introduces Range Extender For Electric Trucks",
-          "link": "https://cleantechnica.com/2026/08/20/mahle-introduces-range-extender-for-electric-trucks/",
-          "source": "CleanTechnica",
-          "published": "2026-08-20T17:33:02+00:00"
-        },
-        {
           "title": "Geely prepares revolutionary 500 Wh/kg solid-state EV battery that could beat diesel",
           "link": "https://electrek.co/2026/08/20/geely-500-wh-kg-solid-state-battery-2027-pilot/",
           "source": "Electrek",
@@ -444,8 +456,14 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 6,
+      "count": 7,
       "items": [
+        {
+          "title": "Future EVs could get more range from this tiny TI sensor",
+          "link": "https://electrek.co/2026/08/25/future-evs-could-get-more-range-from-this-tiny-ti-sensor/",
+          "source": "Electrek",
+          "published": "2026-08-25T20:51:58+00:00"
+        },
         {
           "title": "람보르기니, 테메라리오 트리콜로레 사양 공개",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44379",
@@ -623,10 +641,10 @@
       "count": 40,
       "items": [
         {
-          "title": "앤드류 응이 제시한 AI 엔지니어링 역량 6가지...“불확실성 제어가 핵심”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214329",
+          "title": "[8월25일] AI가 바꾸는 돈과 일…자본은 하드웨어로·기업 격차는 더 크게",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214327",
           "source": "AI타임스",
-          "published": "2026-08-25T18:28:33+00:00"
+          "published": "2026-08-26T07:00:00+00:00"
         },
         {
           "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
