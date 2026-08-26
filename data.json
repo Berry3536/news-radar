@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-08-26T06:42:16.125235+00:00",
+  "generated_at": "2026-08-26T12:45:20.928551+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "자동차 속 전자 부품을 보호하는 고성능 포팅제에 대해 아시나요?",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44388",
+          "source": "모터그래프",
+          "published": "2026-08-26T17:12:06+00:00"
+        },
+        {
+          "title": "New electric Flyer promises 15 minute service from Chicago to O’Hare",
+          "link": "https://electrek.co/2026/08/26/new-electric-flyer-promises-15-minute-service-from-chicago-to-ohare/",
+          "source": "Electrek",
+          "published": "2026-08-26T11:46:46+00:00"
+        },
         {
           "title": "BYD’s low-cost electric hatch is about to get a bigger sibling",
           "link": "https://electrek.co/2026/08/25/byds-low-cost-electric-hatch-bigger-sibling/",
@@ -59,12 +71,6 @@
           "link": "https://insideevs.com/news/806056/waymo-coming-to-germany/",
           "source": "InsideEVs",
           "published": "2026-08-25T17:08:45+00:00"
-        },
-        {
-          "title": "2027 팰리세이드, 하이루프, XRT, 블랙 잉크 트림 추가",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44380",
-          "source": "모터그래프",
-          "published": "2026-08-25T16:59:45+00:00"
         },
         {
           "title": "Tesla Just Made The Cybertruck An Even Tougher Sell",
@@ -239,12 +245,6 @@
           "link": "https://electrek.co/2026/08/24/byd-opens-flagship-ev-orders-with-1000-km-range-under-40k/",
           "source": "Electrek",
           "published": "2026-08-24T15:24:23+00:00"
-        },
-        {
-          "title": "Watch Tesla FSD v14 Lite drive over a giant log without stopping",
-          "link": "https://electrek.co/2026/08/24/tesla-fsd-v14-1-lite-drove-over-log/",
-          "source": "Electrek",
-          "published": "2026-08-24T14:45:04+00:00"
         }
       ]
     },
@@ -453,16 +453,16 @@
       "count": 7,
       "items": [
         {
+          "title": "애스턴마틴 THOR 팀, 실버스톤 그랑프리 서킷서 발키리 테스트 완료",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44387",
+          "source": "모터그래프",
+          "published": "2026-08-26T17:10:32+00:00"
+        },
+        {
           "title": "Future EVs could get more range from this tiny TI sensor",
           "link": "https://electrek.co/2026/08/25/future-evs-could-get-more-range-from-this-tiny-ti-sensor/",
           "source": "Electrek",
           "published": "2026-08-25T20:51:58+00:00"
-        },
-        {
-          "title": "람보르기니, 테메라리오 트리콜로레 사양 공개",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44379",
-          "source": "모터그래프",
-          "published": "2026-08-25T16:59:21+00:00"
         },
         {
           "title": "Tesla raises Cybertruck prices by $5,000 despite abysmal demand",
@@ -635,10 +635,10 @@
       "count": 40,
       "items": [
         {
-          "title": "알트먼, '7개 한정' 스위스 명품 시계 주문...실리콘밸리의 새로운 '유행'",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214403",
+          "title": "버즈니, 기업 코딩 플랫폼 ‘세이코드’ 출시…\"회사 자산 구축·비용 절감\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214422",
           "source": "AI타임스",
-          "published": "2026-08-26T15:33:53+00:00"
+          "published": "2026-08-26T18:07:10+00:00"
         },
         {
           "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
