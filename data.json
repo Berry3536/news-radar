@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T19:43:47.734405+00:00",
+  "generated_at": "2026-08-27T07:13:35.198274+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,13 +7,43 @@
       "count": 40,
       "items": [
         {
+          "title": "Gary, Indiana is a warning: energy independence has gotten personal",
+          "link": "https://electrek.co/2026/08/26/gary-indiana-is-a-warning-energy-independence-has-gotten-personal/",
+          "source": "Electrek",
+          "published": "2026-08-26T22:59:38+00:00"
+        },
+        {
+          "title": "Range Rover’s next EV breaks cover, and it’s not an SUV [Images]",
+          "link": "https://electrek.co/2026/08/26/range-rovers-next-ev-breaks-cover-not-an-suv-images/",
+          "source": "Electrek",
+          "published": "2026-08-26T22:13:51+00:00"
+        },
+        {
+          "title": "Genesis is no longer a dark horse in the luxury space, and the GV90 proves it",
+          "link": "https://electrek.co/2026/08/26/genesis-dark-horse-luxury-gv90-proves-it/",
+          "source": "Electrek",
+          "published": "2026-08-26T20:30:04+00:00"
+        },
+        {
+          "title": "Here Are Some Of The Biggest Changes On The New Chevy Bolt",
+          "link": "https://insideevs.com/news/806215/new-chevy-bolt-changes/",
+          "source": "InsideEVs",
+          "published": "2026-08-26T20:20:38+00:00"
+        },
+        {
+          "title": "Voltpost Is Making A Charger For People Without A Driveway",
+          "link": "https://insideevs.com/news/806204/voltpost-air-garage-ceiling-surface/",
+          "source": "InsideEVs",
+          "published": "2026-08-26T19:59:27+00:00"
+        },
+        {
           "title": "How The Volvo EX60 EV Can 'See' Deer Around Corners Through A New Update",
           "link": "https://insideevs.com/news/806189/volvo-ex60-see-around-corners/",
           "source": "InsideEVs",
           "published": "2026-08-26T18:45:11+00:00"
         },
         {
-          "title": "Waymo Takes A Not-So-Subtle Shot At Tesla’s Self-Driving Strategy",
+          "title": "Cameras 'Aren't Enough': Waymo Takes A Swipe At Tesla’s Self-Driving Strategy",
           "link": "https://insideevs.com/news/806201/waymo-tesla-cameras-ai-blog/",
           "source": "InsideEVs",
           "published": "2026-08-26T18:44:06+00:00"
@@ -215,44 +245,20 @@
           "link": "https://electrek.co/2026/08/24/skycharger-solar-electric-semi-truck-project-gets-green-light-in-san-diego/",
           "source": "Electrek",
           "published": "2026-08-24T22:21:19+00:00"
-        },
-        {
-          "title": "Tesla ‘Robotaxi’ sold a 66-minute 2.3-mile ride and left a rider 3 miles from his destination",
-          "link": "https://electrek.co/2026/08/24/tesla-robotaxi-failing-fans-texas/",
-          "source": "Electrek",
-          "published": "2026-08-24T21:43:53+00:00"
-        },
-        {
-          "title": "Pakistani port promises 70 new electric trucks in $76M ZEV push",
-          "link": "https://electrek.co/2026/08/24/pakistani-port-promises-70-new-electric-trucks-in-76m-zev-push/",
-          "source": "Electrek",
-          "published": "2026-08-24T21:36:23+00:00"
-        },
-        {
-          "title": "Polestar Still Has No Idea Why The U.S. Kicked It Out",
-          "link": "https://insideevs.com/news/805940/polestar-no-idea-us-government-ban-ev/",
-          "source": "InsideEVs",
-          "published": "2026-08-24T21:35:13+00:00"
-        },
-        {
-          "title": "The Mercedes CLA 350 4Matic Destroys EPA-Rated Range With Shocking Efficiency",
-          "link": "https://insideevs.com/news/805935/mercedes-cla-350-range-test/",
-          "source": "InsideEVs",
-          "published": "2026-08-24T21:35:05+00:00"
-        },
-        {
-          "title": "Xiaomi Unveils Custom Chip For Driver-Assist Features",
-          "link": "https://insideevs.com/news/805921/xiaomi-self-driving-chip-nvidia/",
-          "source": "InsideEVs",
-          "published": "2026-08-24T20:37:16+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 30,
+      "count": 27,
       "items": [
+        {
+          "title": "Sodium-Ion Batteries For The Win!",
+          "link": "https://cleantechnica.com/2026/08/26/sodium-ion-batteries-for-the-win/",
+          "source": "CleanTechnica",
+          "published": "2026-08-26T21:29:27+00:00"
+        },
         {
           "title": "Save up to $701 on Bluetti power station + alternator charger bundles, Lectric 24-hour e-bike pet accessory 25% off flash sale, more",
           "link": "https://electrek.co/2026/08/26/bluetti-power-station-alternator-charger-bundles-lectric-e-bike-pet-accessory-flash-sale-more/",
@@ -278,7 +284,7 @@
           "published": "2026-08-25T20:51:58+00:00"
         },
         {
-          "title": "Suzuki Unveils it BEV Kei Car for Release This Autumn",
+          "title": "Suzuki Unveils It BEV Kei Car For Release This Autumn",
           "link": "https://cleantechnica.com/2026/08/25/suzuki-unveils-it-bev-kei-car-for-release-this-autumn/",
           "source": "CleanTechnica",
           "published": "2026-08-25T15:45:06+00:00"
@@ -332,34 +338,16 @@
           "published": "2026-08-23T06:35:44+00:00"
         },
         {
-          "title": "'Most Companies Are Struggling': Executive Shares An Uncomfortable Truth About Solid-State EV Batteries",
-          "link": "https://insideevs.com/news/805750/lges-solid-state-battery-evs-uncomfortable-truth/",
-          "source": "InsideEVs",
-          "published": "2026-08-22T14:00:00+00:00"
-        },
-        {
           "title": "Heart Aerospace Just Flew The Aviation Transition Investors Should Be Putting Billions Into",
           "link": "https://cleantechnica.com/2026/08/22/heart-aerospace-x1-electric-aviation-transition/",
           "source": "CleanTechnica",
           "published": "2026-08-22T06:32:08+00:00"
         },
         {
-          "title": "Government Clown Finally Admits Energy Storage Is A Thing That Exists In Time And Space",
-          "link": "https://cleantechnica.com/2026/08/21/energy-storage-exists-time-space-us-new-factory/",
-          "source": "CleanTechnica",
-          "published": "2026-08-21T18:11:19+00:00"
-        },
-        {
           "title": "A first-of-its-kind US factory could make grid batteries safer",
           "link": "https://electrek.co/2026/08/21/us-factory-grid-batteries-safer-anthro-energy/",
           "source": "Electrek",
           "published": "2026-08-21T17:09:27+00:00"
-        },
-        {
-          "title": "Toyota Is Still Working On That Futuristic Fluoride-Ion EV Battery",
-          "link": "https://cleantechnica.com/2026/08/21/toyota-fluoride-ev-battery-us-electric-vehicles/",
-          "source": "CleanTechnica",
-          "published": "2026-08-21T14:12:51+00:00"
         },
         {
           "title": "Tesla confirms Semi electric truck is coming to Europe, reveal at IAA",
@@ -426,12 +414,6 @@
           "link": "https://electrek.co/2026/08/15/turning-millions-teslas-mach-es-into-v2l-power-stations-wetox-d2-earns-worlds-first-next-gen-v2x-certification-sgs/",
           "source": "Electrek",
           "published": "2026-08-15T16:00:00+00:00"
-        },
-        {
-          "title": "Speeders just got lucky: the new Dodge police Charger is NOT electric",
-          "link": "https://electrek.co/2026/08/15/speeders-just-got-lucky-the-new-dodge-police-charger-is-not-electric/",
-          "source": "Electrek",
-          "published": "2026-08-15T14:19:40+00:00"
         }
       ]
     },
@@ -502,16 +484,16 @@
       "count": 21,
       "items": [
         {
+          "title": "오늘의 로봇 기업 주식 시세(2026-08-27)",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48149",
+          "source": "로봇신문",
+          "published": "2026-08-27T15:37:39+00:00"
+        },
+        {
           "title": "Gatik brings in $200M to continue expanding autonomous trucking operations",
           "link": "https://www.therobotreport.com/gatik-brings-in-200m-to-continue-expanding-autonomous-trucking-operations/",
           "source": "The Robot Report",
           "published": "2026-08-26T16:59:15+00:00"
-        },
-        {
-          "title": "오늘의 로봇 기업 주식 시세(2026-08-26)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48107",
-          "source": "로봇신문",
-          "published": "2026-08-26T15:37:11+00:00"
         },
         {
           "title": "IDS Imaging adds Nion ToF sensor to its portfolio of 3D cameras",
@@ -635,244 +617,244 @@
       "count": 40,
       "items": [
         {
-          "title": "버즈니, 기업 코딩 플랫폼 ‘세이코드’ 출시…\"회사 자산 구축·비용 절감\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214422",
+          "title": "구글 \"AI 역량이 채용 성패 가른다\"...'AI 올림'으로 인재 양성 지원",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214471",
           "source": "AI타임스",
-          "published": "2026-08-26T18:07:10+00:00"
+          "published": "2026-08-27T15:46:39+00:00"
         },
         {
           "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
           "link": "https://arxiv.org/abs/2608.23568",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
           "link": "https://arxiv.org/abs/2608.23569",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
           "link": "https://arxiv.org/abs/2608.23622",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
           "link": "https://arxiv.org/abs/2608.23626",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
           "link": "https://arxiv.org/abs/2608.23631",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "Function-Level Execution Feedback for Code Preference Optimization",
           "link": "https://arxiv.org/abs/2608.23632",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
           "link": "https://arxiv.org/abs/2608.23640",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "How much of a measured AI preference is the model, and how much is the instrument?",
           "link": "https://arxiv.org/abs/2608.23641",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "AI Agents Push Humans Out of the Loop",
           "link": "https://arxiv.org/abs/2608.23642",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "FLARE: A Systematic, Uncertainty-Aware Framework for Evidence-Based Adoption of Artificial Intelligence in Healthcare",
           "link": "https://arxiv.org/abs/2608.23643",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "Ethical LLM-Assisted Research: A Framework for Responsible Delegation, Verification, and Epistemic Value",
           "link": "https://arxiv.org/abs/2608.23644",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models",
           "link": "https://arxiv.org/abs/2608.23646",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "Gated Activation Steering for Reducing Sycophancy & Hallucination in Medical Question Answering",
           "link": "https://arxiv.org/abs/2608.23666",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "Automata from Agent Traces: Failure and Next-Step Prediction",
           "link": "https://arxiv.org/abs/2608.23670",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
           "link": "https://arxiv.org/abs/2608.23691",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "Do LLMs Understand Limit Order Book Dynamics?",
           "link": "https://arxiv.org/abs/2608.23706",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "AgentRoom: Concurrent Multi-Agent Coding in a CRDT-Backed Shared Workspace",
           "link": "https://arxiv.org/abs/2608.23740",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "Serving Masked Diffusion LLMs: Characterization and Design Principles from Real Hardware",
           "link": "https://arxiv.org/abs/2608.23807",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "Generating Biomedical Fact-Checking Reports with RL-Enhanced Agentic Search",
           "link": "https://arxiv.org/abs/2608.23811",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "A Formal Methodological Framework for Auditing Robustness and Fidelity in Explainable AI: From Application to Trust Certification",
           "link": "https://arxiv.org/abs/2608.23817",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "Minima-KV: Retention-Preserving KV Cache Compression with Mixed-Format Paged Attention",
           "link": "https://arxiv.org/abs/2608.23834",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "SyPS: Measuring Sycophancy Prompt Sensitivity in Large Language Models",
           "link": "https://arxiv.org/abs/2608.23837",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "Exploit More, Explore Smarter for Budget-Constrained Agentic Search",
           "link": "https://arxiv.org/abs/2608.23848",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "In-Context Inpainting for Time Series Forecasting",
           "link": "https://arxiv.org/abs/2608.23855",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "Granite.Trust Policy Tools: Shareable, Actionable Policies for Generative AI Applications",
           "link": "https://arxiv.org/abs/2608.23870",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors",
           "link": "https://arxiv.org/abs/2608.23873",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "AI Finds A Way",
           "link": "https://arxiv.org/abs/2608.23875",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "Provenance Guided Incremental Learning Under Evolving Concept Definitions",
           "link": "https://arxiv.org/abs/2608.23893",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "BenchBench-Protocol: Evaluating Real-World Wet-Lab Protocol Reasoning and Modification",
           "link": "https://arxiv.org/abs/2608.23898",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "Quantifying System-Level Harms from AI Adoption in Complex Sociotechnical Systems",
           "link": "https://arxiv.org/abs/2608.23906",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "Retrieval-augmented generation vs. deterministic tax computation in multi-agent financial advisory: A 2x2 factorial experiment",
           "link": "https://arxiv.org/abs/2608.23908",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "PROOF-Gen: From Optimized Data to Better Distillation",
           "link": "https://arxiv.org/abs/2608.23911",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "MARS: Multi-Specialist LLM Relay System for Competitive Programming",
           "link": "https://arxiv.org/abs/2608.23918",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "Data Mixing as Mixture Experiment: Response Surface Methodology and Optimal Design for Large Language Model Pretraining",
           "link": "https://arxiv.org/abs/2608.23922",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "Evolutionary Recurrent Decision Model in Developing Adaptive and Maladaptive Behaviors",
           "link": "https://arxiv.org/abs/2608.23932",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "More Rejective, Not More Discriminative: The Unit of Verification in Pre-Execution LLM Oversight",
           "link": "https://arxiv.org/abs/2608.23941",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "Recursive Agentic Reasoning",
           "link": "https://arxiv.org/abs/2608.23956",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "More GPUs or a Smaller Cache? Tensor Parallelism versus KV Compression for Memory-Bound LLM Serving",
           "link": "https://arxiv.org/abs/2608.23962",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         },
         {
           "title": "Giraffe: A Mapping Architecture from Hidden Text Representations to Visual Embeddings for Efficient Graphic Design",
           "link": "https://arxiv.org/abs/2608.23970",
           "source": "arXiv cs.AI",
-          "published": "2026-08-26T04:00:00+00:00"
+          "published": "2026-08-27T04:00:00+00:00"
         }
       ]
     }
