@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-08-29T12:15:16.501614+00:00",
+  "generated_at": "2026-08-29T20:22:51.739896+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "666 – il marchio della Spiaggia Lucciola Elettrica con un ricarico del 13 percento",
+          "link": "https://electrek.co/2026/08/29/666-il-marchio-della-spiaggia-lucciola-elettrica-con-un-ricarico-del-13-percento/",
+          "source": "Electrek",
+          "published": "2026-08-29T16:08:01+00:00"
+        },
+        {
+          "title": "MacGregor says demand for its electric cranes is BOOMING in 2026",
+          "link": "https://electrek.co/2026/08/29/macgregor-says-demand-for-its-electric-cranes-is-booming-in-2026/",
+          "source": "Electrek",
+          "published": "2026-08-29T14:10:09+00:00"
+        },
+        {
+          "title": "Robot delivery dog dumps hot steaming packages on your doorstep [video]",
+          "link": "https://electrek.co/2026/08/29/robot-delivery-dog-dumps-hot-steaming-packages-on-your-doorstep-video/",
+          "source": "Electrek",
+          "published": "2026-08-29T13:19:10+00:00"
+        },
         {
           "title": "VW Turned The ID. Buzz Into An Electric Camper Van. The U.S. Is Next.",
           "link": "https://insideevs.com/news/806460/volkswagen-id-buzz-ev-van-camper/",
@@ -227,34 +245,16 @@
           "link": "https://electrek.co/2026/08/27/waymo-tesla-self-driving-false-summit/",
           "source": "Electrek",
           "published": "2026-08-27T13:49:25+00:00"
-        },
-        {
-          "title": "Storm Sondors is back, teasing mysterious new electric bike [Photo]",
-          "link": "https://electrek.co/2026/08/27/storm-sondors-is-back-teasing-mysterious-new-electric-bike-photo/",
-          "source": "Electrek",
-          "published": "2026-08-27T12:24:00+00:00"
-        },
-        {
-          "title": "APM announces massive electrification program for Port of NY and NJ",
-          "link": "https://electrek.co/2026/08/27/apm-announces-massive-electrification-program-for-port-of-ny-and-nj/",
-          "source": "Electrek",
-          "published": "2026-08-27T12:05:31+00:00"
-        },
-        {
-          "title": "London police are now using the same illegal e-bikes as the criminals they chase",
-          "link": "https://electrek.co/2026/08/27/london-police-are-now-using-the-same-illegal-e-bikes-as-the-criminals-they-chase/",
-          "source": "Electrek",
-          "published": "2026-08-27T09:55:53+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 26,
+      "count": 24,
       "items": [
         {
-          "title": "US Army Army Aims To Capture Energy From “The Environment”",
+          "title": "US Army Aims To Capture Energy From “The Environment”",
           "link": "https://cleantechnica.com/2026/08/29/microgrid-us-army-energy-storage-solar/",
           "source": "CleanTechnica",
           "published": "2026-08-29T11:39:19+00:00"
@@ -338,12 +338,6 @@
           "published": "2026-08-25T20:51:58+00:00"
         },
         {
-          "title": "Suzuki Unveils It BEV Kei Car For Release This Autumn",
-          "link": "https://cleantechnica.com/2026/08/25/suzuki-unveils-it-bev-kei-car-for-release-this-autumn/",
-          "source": "CleanTechnica",
-          "published": "2026-08-25T15:45:06+00:00"
-        },
-        {
           "title": "I tested this lithium-ion battery charging cabinet as the safest place to charge your e-bike batteries",
           "link": "https://electrek.co/2026/08/25/i-tested-this-lithium-ion-battery-charging-cabinet-as-the-safest-place-to-charge-your-e-bike-batteries/",
           "source": "Electrek",
@@ -402,12 +396,6 @@
           "link": "https://electrek.co/2026/08/19/heybike-hero-mid-drive-e-bike-exclusive-ecoflow-power-station-flash-sale-more/",
           "source": "Electrek",
           "published": "2026-08-19T18:00:00+00:00"
-        },
-        {
-          "title": "Lectric XPress2 extra battery bundle for 100+ miles $1,399, Aventon Pace 5 + Level 4 REC e-bike launch, Segway S2 kids scooter, more",
-          "link": "https://electrek.co/2026/08/18/lectric-xpress2-extra-battery-bundle-aventon-pace-5-level-4-rec-e-bike-segway-s2-kids-scooter-more/",
-          "source": "Electrek",
-          "published": "2026-08-18T18:00:00+00:00"
         }
       ]
     },
@@ -459,6 +447,12 @@
       "label": "로봇",
       "count": 21,
       "items": [
+        {
+          "title": "The differences between decentralized and centralized power in swarm robotics",
+          "link": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics/",
+          "source": "The Robot Report",
+          "published": "2026-08-29T12:25:31+00:00"
+        },
         {
           "title": "From teach and repeat to SelfPath AI: The next robotics leap",
           "link": "https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap/",
@@ -562,12 +556,6 @@
           "published": "2026-08-24T22:53:33+00:00"
         },
         {
-          "title": "XPeng Motors humanoid robot unit Dogotix raises $900M",
-          "link": "https://www.therobotreport.com/xpeng-motors-humanoid-robot-unit-dogotix-raises-900m/",
-          "source": "The Robot Report",
-          "published": "2026-08-24T20:07:09+00:00"
-        },
-        {
           "title": "Video Friday: Do We Need Superhuman Humanoid Robots?",
           "link": "https://spectrum.ieee.org/video-friday-unitree-superhuman",
           "source": "IEEE Spectrum",
@@ -593,10 +581,10 @@
       "count": 40,
       "items": [
         {
-          "title": "앤트로픽 \"AI가 인간 대신 정렬 작업 수행…안전성 크게 높였다\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214608",
+          "title": "[AI 이슈트렌드] 엔비디아 호재 안 통한 삼전·하이닉스…박위 사고·제주 실종 파장",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214606",
           "source": "AI타임스",
-          "published": "2026-08-29T21:08:08+00:00"
+          "published": "2026-08-29T21:16:38+00:00"
         },
         {
           "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
