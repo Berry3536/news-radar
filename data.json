@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-08-30T16:00:31.811530+00:00",
+  "generated_at": "2026-08-30T20:31:44.912901+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Survey Sunday: will the Ford Fathom steal Slate Auto’s thunder?",
+          "link": "https://electrek.co/2026/08/30/survey-sunday-will-the-ford-fathom-steal-slate-autos-thunder/",
+          "source": "Electrek",
+          "published": "2026-08-30T17:43:59+00:00"
+        },
+        {
+          "title": "Amazon’s massive 2026 Labor Day sale now live! Thousands of deals: Apple, Android, TVs, tech under $100, more from under $5",
+          "link": "https://9to5toys.com/2026/08/30/amazon-2026-labor-day-now-live/",
+          "source": "Electrek",
+          "published": "2026-08-30T17:21:38+00:00"
+        },
         {
           "title": "Slate will offer a high roof cargo version of its compact pickup – and you can buy it!",
           "link": "https://electrek.co/2026/08/30/report-slate-will-offer-a-high-roof-cargo-version-of-its-compact-pickup/",
@@ -233,18 +245,6 @@
           "link": "https://insideevs.com/news/806293/bmw-two-million-evs-sold/",
           "source": "InsideEVs",
           "published": "2026-08-27T17:53:59+00:00"
-        },
-        {
-          "title": "Aptera's Solar-Powered EV Can Go 47 Miles On Sun Power Alone—In Theory",
-          "link": "https://insideevs.com/news/806299/aptera-ev-solar-range/",
-          "source": "InsideEVs",
-          "published": "2026-08-27T17:36:41+00:00"
-        },
-        {
-          "title": "Aptera solar EV makes up to 4.75 kWh a day, independent test shows",
-          "link": "https://electrek.co/2026/08/27/aptera-solar-ev-tuv-rheinland-independent-test-4-kwh/",
-          "source": "Electrek",
-          "published": "2026-08-27T17:14:38+00:00"
         }
       ]
     },
@@ -442,10 +442,10 @@
       "count": 21,
       "items": [
         {
-          "title": "2026 세계로봇대회(2026 세계로봇대회(WRC) 참관기",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48194",
+          "title": "제23차 IFAC 세계대회 부산서 성황리 폐막…73개국 4435명 참가 ‘역대 최대’",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48195",
           "source": "로봇신문",
-          "published": "2026-08-30T23:37:12+00:00"
+          "published": "2026-08-31T03:11:32+00:00"
         },
         {
           "title": "The edge AI wall: Why embodied AI requires new mathematics",
