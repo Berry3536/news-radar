@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-08-30T11:13:40.349445+00:00",
+  "generated_at": "2026-08-30T16:00:31.811530+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Slate will offer a high roof cargo version of its compact pickup – and you can buy it!",
+          "link": "https://electrek.co/2026/08/30/report-slate-will-offer-a-high-roof-cargo-version-of-its-compact-pickup/",
+          "source": "Electrek",
+          "published": "2026-08-30T13:38:25+00:00"
+        },
+        {
+          "title": "E-quipment highlight: Tiger electric baggage tug hauls 30 TONS [video]",
+          "link": "https://electrek.co/2026/08/30/e-quipment-highlight-tiger-electric-baggage-tug-hauls-30-tons-video/",
+          "source": "Electrek",
+          "published": "2026-08-30T13:00:18+00:00"
+        },
         {
           "title": "666 – il marchio della Spiaggia Lucciola Elettrica con un ricarico del 13 percento",
           "link": "https://electrek.co/2026/08/29/666-il-marchio-della-spiaggia-lucciola-elettrica-con-un-ricarico-del-13-percento/",
@@ -233,18 +245,6 @@
           "link": "https://electrek.co/2026/08/27/aptera-solar-ev-tuv-rheinland-independent-test-4-kwh/",
           "source": "Electrek",
           "published": "2026-08-27T17:14:38+00:00"
-        },
-        {
-          "title": "BMW’s new iX3 EV is racking up orders, even in China, despite selling only an image",
-          "link": "https://electrek.co/2026/08/27/bmws-new-ix3-ev-racking-up-orders-even-in-china/",
-          "source": "Electrek",
-          "published": "2026-08-27T15:35:57+00:00"
-        },
-        {
-          "title": "Waymo takes a shot at Tesla’s self-driving: it’s a ‘false summit’",
-          "link": "https://electrek.co/2026/08/27/waymo-tesla-self-driving-false-summit/",
-          "source": "Electrek",
-          "published": "2026-08-27T13:49:25+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 24,
       "items": [
+        {
+          "title": "Hyundai Bets Big On Extended-Range Electric Vehicles",
+          "link": "https://cleantechnica.com/2026/08/30/hyundai-bets-big-on-extended-range-electric-vehicles/",
+          "source": "CleanTechnica",
+          "published": "2026-08-30T15:46:32+00:00"
+        },
         {
           "title": "US Army Aims To Capture Energy From “The Environment”",
           "link": "https://cleantechnica.com/2026/08/29/microgrid-us-army-energy-storage-solar/",
@@ -318,12 +324,6 @@
           "link": "https://electrek.co/2026/08/26/bluetti-power-station-alternator-charger-bundles-lectric-e-bike-pet-accessory-flash-sale-more/",
           "source": "Electrek",
           "published": "2026-08-26T18:00:00+00:00"
-        },
-        {
-          "title": "Photovoltaic Windows Have Been Heating Water in a Bucharest Apartment for Two Years",
-          "link": "https://cleantechnica.com/2026/08/25/photovoltaic-windows-have-been-heating-water-in-a-bucharest-apartment-for-two-years/",
-          "source": "CleanTechnica",
-          "published": "2026-08-26T00:23:53+00:00"
         },
         {
           "title": "Robot vacuum company cancels its rocket-boosted electric hypercar",
@@ -402,7 +402,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 6,
+      "count": 5,
       "items": [
         {
           "title": "애스턴마틴 THOR 팀, 실버스톤 그랑프리 서킷서 발키리 테스트 완료",
@@ -433,12 +433,6 @@
           "link": "https://electrek.co/2026/08/25/tesla-cybertruck-price-increase-5000-demand/",
           "source": "Electrek",
           "published": "2026-08-25T13:14:47+00:00"
-        },
-        {
-          "title": "VMAX VX2 Lite review: Power and full suspension fun without the heavyweight price",
-          "link": "https://electrek.co/2026/08/19/vmax-vx2-lite-review-power-and-full-suspension-fun-without-the-heavyweight-price/",
-          "source": "Electrek",
-          "published": "2026-08-19T14:35:00+00:00"
         }
       ]
     },
@@ -448,10 +442,16 @@
       "count": 21,
       "items": [
         {
-          "title": "“로봇과 함께하는 순간을 담아라”…‘제4회 로봇사랑 사진 공모전’ 개최",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48193",
+          "title": "2026 세계로봇대회(2026 세계로봇대회(WRC) 참관기",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48194",
           "source": "로봇신문",
-          "published": "2026-08-30T19:54:42+00:00"
+          "published": "2026-08-30T23:37:12+00:00"
+        },
+        {
+          "title": "The edge AI wall: Why embodied AI requires new mathematics",
+          "link": "https://www.therobotreport.com/edge-ai-wall-why-embodied-ai-requires-new-mathematics/",
+          "source": "The Robot Report",
+          "published": "2026-08-30T12:45:51+00:00"
         },
         {
           "title": "The differences between decentralized and centralized power in swarm robotics",
@@ -548,12 +548,6 @@
           "link": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
           "source": "IEEE Spectrum",
           "published": "2026-08-25T10:00:03+00:00"
-        },
-        {
-          "title": "The next big AI play isn’t apps or humanoids; it’s machines with brains and brawn",
-          "link": "https://www.therobotreport.com/the-next-big-ai-play-isnt-apps-or-humanoids-its-machines-with-brains-and-brawn/",
-          "source": "The Robot Report",
-          "published": "2026-08-24T22:53:33+00:00"
         },
         {
           "title": "Video Friday: Do We Need Superhuman Humanoid Robots?",
