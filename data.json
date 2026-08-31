@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-08-31T03:31:57.671639+00:00",
+  "generated_at": "2026-08-31T12:39:27.393724+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "대형 전동화 PBV, 더 기아 PV7 티저 공개",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44411",
+          "source": "모터그래프",
+          "published": "2026-08-31T17:04:11+00:00"
+        },
+        {
+          "title": "The World’s EV Capital Doesn’t Need Fast Chargers Everywhere",
+          "link": "https://insideevs.com/news/806577/oslo-relies-on-ac-charging/",
+          "source": "InsideEVs",
+          "published": "2026-08-31T11:13:15+00:00"
+        },
         {
           "title": "Lucid’s ‘fire risk’ recall was for LED lights & already fixed by a July software update",
           "link": "https://electrek.co/2026/08/30/lucids-fire-risk-recall-was-for-led-lights-already-fixed-by-a-july-software-update/",
@@ -133,12 +145,6 @@
           "published": "2026-08-28T17:20:40+00:00"
         },
         {
-          "title": "2026 오네 슈퍼레이스 5라운드 by 웨이브진 정인성",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44408",
-          "source": "모터그래프",
-          "published": "2026-08-28T17:12:09+00:00"
-        },
-        {
           "title": "Renewables’ installed capacity to beat natural gas within a year – EIA data",
           "link": "https://electrek.co/2026/08/28/renewables-installed-capacity-to-beat-natural-gas-within-a-year-eia-data/",
           "source": "Electrek",
@@ -239,12 +245,6 @@
           "link": "https://insideevs.com/news/806301/byd-megawatt-charging-battery-health/",
           "source": "InsideEVs",
           "published": "2026-08-27T18:33:42+00:00"
-        },
-        {
-          "title": "Segway Navimow X430 robot mower $2,249 in Labor Day Sale, EcoFlow Monthly Madness power station flash sale, Worx, EVs, more",
-          "link": "https://electrek.co/2026/08/27/segway-navimow-x430-robot-mower-labor-day-sale-ecoflow-power-station-worx-more/",
-          "source": "Electrek",
-          "published": "2026-08-27T18:00:00+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 24,
       "items": [
+        {
+          "title": "Hydrogen Gets Far More Attention Than Its Deployment Justifies",
+          "link": "https://cleantechnica.com/2026/08/31/hydrogen-gets-far-more-attention-than-its-deployment-justifies/",
+          "source": "CleanTechnica",
+          "published": "2026-08-31T08:25:17+00:00"
+        },
         {
           "title": "Hyundai Bets Big On Extended-Range Electric Vehicles",
           "link": "https://cleantechnica.com/2026/08/30/hyundai-bets-big-on-extended-range-electric-vehicles/",
@@ -312,12 +318,6 @@
           "link": "https://cleantechnica.com/2026/08/27/freight-electrification-china-india-europe-us/",
           "source": "CleanTechnica",
           "published": "2026-08-27T07:36:22+00:00"
-        },
-        {
-          "title": "Sodium-Ion Batteries For The Win!",
-          "link": "https://cleantechnica.com/2026/08/26/sodium-ion-batteries-for-the-win/",
-          "source": "CleanTechnica",
-          "published": "2026-08-26T21:29:27+00:00"
         },
         {
           "title": "Save up to $701 on Bluetti power station + alternator charger bundles, Lectric 24-hour e-bike pet accessory 25% off flash sale, more",
@@ -405,10 +405,10 @@
       "count": 5,
       "items": [
         {
-          "title": "애스턴마틴 THOR 팀, 실버스톤 그랑프리 서킷서 발키리 테스트 완료",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44387",
+          "title": "한 번 충전에 520km 주행 가능한 볼보 ES90, 사전 계약 3,000대 돌파",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44412",
           "source": "모터그래프",
-          "published": "2026-08-26T17:10:32+00:00"
+          "published": "2026-08-31T17:03:50+00:00"
         },
         {
           "title": "Bafang’s new electric bike motors produce 8x your own pedaling power",
@@ -442,10 +442,10 @@
       "count": 21,
       "items": [
         {
-          "title": "엑스와이지 ‘바리스브루’, 푸르지오 커뮤니티센터에 들어간다",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48200",
+          "title": "로보틱스 기반 실험실 자동화 기업 ‘에이블랩스’, 121억원 투자 유치",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48221",
           "source": "로봇신문",
-          "published": "2026-08-31T10:11:16+00:00"
+          "published": "2026-08-31T17:49:16+00:00"
         },
         {
           "title": "The edge AI wall: Why embodied AI requires new mathematics",
@@ -572,13 +572,247 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 1,
+      "count": 40,
       "items": [
         {
-          "title": "스페이스X, 가스 터빈 부품 직접 생산…데이터센터 전력난 정면 돌파",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214644",
+          "title": "SK하이닉스, AI 붐 대응 위해 일본 메모리 합작공장 설립 검토",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214667",
           "source": "AI타임스",
-          "published": "2026-08-31T12:06:57+00:00"
+          "published": "2026-08-31T18:11:40+00:00"
+        },
+        {
+          "title": "Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization",
+          "link": "https://arxiv.org/abs/2608.27507",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap",
+          "link": "https://arxiv.org/abs/2608.27512",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization",
+          "link": "https://arxiv.org/abs/2608.27513",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "A Deeper Analysis of Block-Sparse Featurizers",
+          "link": "https://arxiv.org/abs/2608.27515",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "When Muon Meets Task Interference: A Spectral Perspective on Continual Learning and Model Merging",
+          "link": "https://arxiv.org/abs/2608.27518",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "Dandelion: A Spherical Flower for Neural Simulation of Planetary Dynamics",
+          "link": "https://arxiv.org/abs/2608.27521",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "Self-Explainable Multi-Label Graph Neural Network for Correlated Evidence Attribution",
+          "link": "https://arxiv.org/abs/2608.27574",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "Curvature-Aware Radius Shrinkage for Adaptive Nearest Neighbor Classification",
+          "link": "https://arxiv.org/abs/2608.27634",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "More Data Cannot Break a Symmetry: Identifiability by Design",
+          "link": "https://arxiv.org/abs/2608.27651",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "Unsupervised Continual Learning with Growing Self-Organizing Maps and Synthetic Replay",
+          "link": "https://arxiv.org/abs/2608.27662",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "SegBench-GC: Testing Segmentation Invariance in Multi-Step Offline Goal-Conditioned Reinforcement Learning",
+          "link": "https://arxiv.org/abs/2608.27678",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "SafeStep: An Interactive Demonstration of Semantic Communication for Pedestrian Safety Monitoring",
+          "link": "https://arxiv.org/abs/2608.27688",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "RiskBlend: A Multi-Signal Framework for Test Input Prioritization in Machine Learning Regression Testing",
+          "link": "https://arxiv.org/abs/2608.27704",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "DART-FL: Burst-Aware Multitask Federated Learning under Dynamic Inference Demand at the Edge",
+          "link": "https://arxiv.org/abs/2608.27713",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "Beyond Non-IID: Learner--Client Distribution Mismatch in Federated Learning",
+          "link": "https://arxiv.org/abs/2608.27715",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "Leveraging a Foundation Model for the EEG-Based Diagnosis of Alzheimer's Disease",
+          "link": "https://arxiv.org/abs/2608.27719",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "Diffusion Distillation for Efficient Weather Ensembles",
+          "link": "https://arxiv.org/abs/2608.27728",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "The Calls are Coming from Inside the Model: Investigating Probe-based Detection of Tool-Calling Errors in LLMs",
+          "link": "https://arxiv.org/abs/2608.27750",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "Beyond Search-Imitation: Prior-Directed Exploration for Searchless Chess",
+          "link": "https://arxiv.org/abs/2608.27757",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "Fast Weight Attention for Continual Learning",
+          "link": "https://arxiv.org/abs/2608.27763",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "Initialization Is Critical: Advancing Federated Short-Term Load Forecasting under Load Heterogeneity via Model Initialization",
+          "link": "https://arxiv.org/abs/2608.27791",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "Node-wise Feature Encoding for Neural Performance Prediction",
+          "link": "https://arxiv.org/abs/2608.27794",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "Actionable CBFI: Integrating Structural Decomposition and Causal Counterfactual Recourse for Tabular Machine Learning",
+          "link": "https://arxiv.org/abs/2608.27821",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "FedEHR-Agents: Federated Agentic Optimization for Automated EHR Modeling",
+          "link": "https://arxiv.org/abs/2608.27856",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "SOMTab: Set-Order Mamba for Efficient Tabular In-Context Learning",
+          "link": "https://arxiv.org/abs/2608.27882",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "Beyond Pairwise Graphs in Science: Hypergraph Adaptive Wavelet Operators for Parametric PDEs",
+          "link": "https://arxiv.org/abs/2608.27883",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "There and Back Again: Bidirectional Diffusion Bridges for Multimodality Translation",
+          "link": "https://arxiv.org/abs/2608.27885",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "TACIT-Switch: Cost-Aware Model Escalation for LLM Agents from Censored Supervision",
+          "link": "https://arxiv.org/abs/2608.27911",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "TI$^2$PS: A Topology-Informed Inverse Design Framework for Stochastic Multicellular Pattern Formation",
+          "link": "https://arxiv.org/abs/2608.27931",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "Temporal Memory-Aware Online Test-Time Adaptation on Dynamic Graphs",
+          "link": "https://arxiv.org/abs/2608.27948",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "PhyMamba: Physics-Modulated Mamba for Robust Battery Health Prognostics",
+          "link": "https://arxiv.org/abs/2608.27978",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "Is Monte Carlo Tree Search Just Every-Visit Monte Carlo Control?",
+          "link": "https://arxiv.org/abs/2608.27985",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "A Method for Layer Bit-Width Allocation in LLM Quantization via Performance Maximization Under a Quality-Degradation Constraint",
+          "link": "https://arxiv.org/abs/2608.28003",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "Exact Risk Ratios for Weighted Data Selection in Linear Regression",
+          "link": "https://arxiv.org/abs/2608.28007",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "When Can Conditional Flow Matching Replace Pointwise Negative Log-Likelihood?",
+          "link": "https://arxiv.org/abs/2608.28010",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "Explainable Uncertainty Estimation for Reliable Medical AI",
+          "link": "https://arxiv.org/abs/2608.28052",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "Comparing Classical and Quantum Machine Learning for Regression in High Energy Physics Collision Data",
+          "link": "https://arxiv.org/abs/2608.28084",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "Generalized Gibbs Ensemble Weighting for Forecast Combination",
+          "link": "https://arxiv.org/abs/2608.28116",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
+        },
+        {
+          "title": "VICT: Verifier-Instrumented Credit Tracing for Long-Horizon LLM Agent Reinforcement Learning",
+          "link": "https://arxiv.org/abs/2608.28128",
+          "source": "arXiv cs.LG",
+          "published": "2026-08-31T04:00:00+00:00"
         }
       ]
     }
