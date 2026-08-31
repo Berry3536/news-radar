@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T12:39:27.393724+00:00",
+  "generated_at": "2026-08-31T22:25:07.754358+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,13 +7,115 @@
       "count": 40,
       "items": [
         {
+          "title": "This 3-Year-Old Tesla Model Y Went 100,000 Miles And Barely Fast-Charged. Here's How The Battery Held Up",
+          "link": "https://insideevs.com/news/806653/high-mileage-tesla-fast-charging/",
+          "source": "InsideEVs",
+          "published": "2026-08-31T21:49:05+00:00"
+        },
+        {
+          "title": "BYD’s electric supercar will beat a Lambo in a race, and it’s cheaper than a Porsche [Video]",
+          "link": "https://electrek.co/2026/08/31/byds-ev-supercar-offers-lambo-speed-for-less-than-a-porsche/",
+          "source": "Electrek",
+          "published": "2026-08-31T21:12:28+00:00"
+        },
+        {
+          "title": "A second Tesla driver died stopped on a freeway with Autopilot/Self-Driving on",
+          "link": "https://electrek.co/2026/08/31/tesla-driver-assist-stopped-freeway-mesa/",
+          "source": "Electrek",
+          "published": "2026-08-31T20:40:21+00:00"
+        },
+        {
+          "title": "Volkswagen’s next electric SUV looks a bit familiar [Video]",
+          "link": "https://electrek.co/2026/08/31/volkswagens-next-electric-suv-looks-familiar-video/",
+          "source": "Electrek",
+          "published": "2026-08-31T19:30:42+00:00"
+        },
+        {
+          "title": "Honda And Nissan Team Up To Make The Brains Of Future Cars",
+          "link": "https://insideevs.com/news/806639/honda-nissan-ecu-partnership/",
+          "source": "InsideEVs",
+          "published": "2026-08-31T18:57:22+00:00"
+        },
+        {
+          "title": "Tesla driver who died when his car stopped on highway was using FSD/Autopilot",
+          "link": "https://electrek.co/2026/08/31/tesla-driver-assist-model-3-stopped-i4-fatal/",
+          "source": "Electrek",
+          "published": "2026-08-31T18:54:43+00:00"
+        },
+        {
+          "title": "Segway ZT3 Pro e-scooter $850, Anker SOLIX 2,010Wh power station $549 off, EGO Nexus 2x battery bundle rare discount, more",
+          "link": "https://electrek.co/2026/08/31/segway-zt3-pro-e-scooter-anker-solix-2010wh-power-station-ego-nexus-2x-battery-more/",
+          "source": "Electrek",
+          "published": "2026-08-31T18:00:00+00:00"
+        },
+        {
+          "title": "Nissan's 'Home Run' Hybrid SUV Arrives In November To Rival Toyota RAV4, Honda CR-V",
+          "link": "https://insideevs.com/news/806636/nissan-rogue-epower-hybrid-suv-launch-america/",
+          "source": "InsideEVs",
+          "published": "2026-08-31T17:41:10+00:00"
+        },
+        {
+          "title": "BYD’s new luxury electric SUV has a range of over 1,000 km and huge screens",
+          "link": "https://electrek.co/2026/08/31/byds-new-luxury-suv-has-1000-km-range-big-screens/",
+          "source": "Electrek",
+          "published": "2026-08-31T17:17:49+00:00"
+        },
+        {
           "title": "대형 전동화 PBV, 더 기아 PV7 티저 공개",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44411",
           "source": "모터그래프",
           "published": "2026-08-31T17:04:11+00:00"
         },
         {
-          "title": "The World’s EV Capital Doesn’t Need Fast Chargers Everywhere",
+          "title": "Tesla FSD can soon avoid potholes says Elon Musk, who said the same in 2019",
+          "link": "https://electrek.co/2026/08/31/tesla-fsd-can-soon-avoid-potholes-says-elon-musk-who-said-exactly-that-in-2019/",
+          "source": "Electrek",
+          "published": "2026-08-31T16:53:40+00:00"
+        },
+        {
+          "title": "Here's Our Best Look Yet At The Volkswagen ID.4 Successor",
+          "link": "https://insideevs.com/news/806623/vw-id4-makeover-id-tiguan/",
+          "source": "InsideEVs",
+          "published": "2026-08-31T16:44:10+00:00"
+        },
+        {
+          "title": "Toyota succumbs and now plans to build a new EV in China first",
+          "link": "https://electrek.co/2026/08/31/toyota-succumbs-plans-to-build-new-ev-china-first/",
+          "source": "Electrek",
+          "published": "2026-08-31T16:17:04+00:00"
+        },
+        {
+          "title": "Rivian (RIVN) CFO steps down for GE Vernova amid critical R2 ramp",
+          "link": "https://electrek.co/2026/08/31/rivian-rivn-cfo-mcdonough-steps-down-ge-vernova/",
+          "source": "Electrek",
+          "published": "2026-08-31T15:23:31+00:00"
+        },
+        {
+          "title": "I traded my electric motorcycle for a gasoline bike on vacation. It was pretty shocking",
+          "link": "https://electrek.co/2026/08/31/i-traded-my-electric-motorcycle-for-a-gasoline-bike-on-vacation-it-was-pretty-shocking/",
+          "source": "Electrek",
+          "published": "2026-08-31T14:23:34+00:00"
+        },
+        {
+          "title": "Kia confirms PV7 debut and previews the larger electric van for the first time [Video]",
+          "link": "https://electrek.co/2026/08/31/kia-confirms-pv7-debut-previews-larger-ev-van-video/",
+          "source": "Electrek",
+          "published": "2026-08-31T14:05:29+00:00"
+        },
+        {
+          "title": "EPA estimates vs. real-world data: EV drivers share some surprising experiences",
+          "link": "https://electrek.co/2026/08/31/epa-estimates-vs-real-world-data-ev-drivers-share-some-surprising-experiences/",
+          "source": "Electrek",
+          "published": "2026-08-31T13:25:00+00:00"
+        },
+        {
+          "title": "Tesla confirms Autopilot/FSD was active in strange fatal crash",
+          "link": "https://electrek.co/2026/08/31/tesla-driver-assist-fatal-crash-clute/",
+          "source": "Electrek",
+          "published": "2026-08-31T13:19:01+00:00"
+        },
+        {
+          "title": "What The World's EV Capital Can Teach Us About Fast Charging",
           "link": "https://insideevs.com/news/806577/oslo-relies-on-ac-charging/",
           "source": "InsideEVs",
           "published": "2026-08-31T11:13:15+00:00"
@@ -143,116 +245,32 @@
           "link": "https://electrek.co/2026/08/28/tesla-cybercab-launch-predictions/",
           "source": "Electrek",
           "published": "2026-08-28T17:20:40+00:00"
-        },
-        {
-          "title": "Renewables’ installed capacity to beat natural gas within a year – EIA data",
-          "link": "https://electrek.co/2026/08/28/renewables-installed-capacity-to-beat-natural-gas-within-a-year-eia-data/",
-          "source": "Electrek",
-          "published": "2026-08-28T16:43:56+00:00"
-        },
-        {
-          "title": "Volkswagen unveils the first California EV camper, and it’s based on the ID. Buzz [Images]",
-          "link": "https://electrek.co/2026/08/28/volkswagen-unveils-first-california-ev-camper-images/",
-          "source": "Electrek",
-          "published": "2026-08-28T15:07:05+00:00"
-        },
-        {
-          "title": "BYD Q2 profit jumps 30% as record exports offset weak China sales",
-          "link": "https://electrek.co/2026/08/28/byd-q2-2026-earnings-profit-exports/",
-          "source": "Electrek",
-          "published": "2026-08-28T14:52:52+00:00"
-        },
-        {
-          "title": "Private equity bribed Trump $1M, then got a $900M payday from taxpayers",
-          "link": "https://electrek.co/2026/08/28/private-equity-gets-900m-for-a-methane-terminal-after-bribing-trump-1m/",
-          "source": "Electrek",
-          "published": "2026-08-28T14:00:00+00:00"
-        },
-        {
-          "title": "Wheel-E Podcast: Powerful Bafangs, cops on Sur-Rons, Qronge, more",
-          "link": "https://electrek.co/2026/08/28/wheel-e-podcast-powerful-bafangs-cops-on-sur-rons-qronge-more/",
-          "source": "Electrek",
-          "published": "2026-08-28T12:57:48+00:00"
-        },
-        {
-          "title": "Qronge X1 Spark L Review: Does a $1,299 Sur-Ron Light Bee alternative cut the right corners?",
-          "link": "https://electrek.co/2026/08/28/qronge-x1-spark-l-review-does-a-1299-sur-ron-light-bee-alternative-cut-the-right-corners/",
-          "source": "Electrek",
-          "published": "2026-08-28T12:52:59+00:00"
-        },
-        {
-          "title": "Ontario airport set to spend $5.5 million on electric ground support equipment",
-          "link": "https://electrek.co/2026/08/28/ontario-airport-set-to-spend-5-5-million-on-electric-ground-support-equipment/",
-          "source": "Electrek",
-          "published": "2026-08-28T11:41:42+00:00"
-        },
-        {
-          "title": "Port of Los Angeles commits $200 million to zero emission equipment",
-          "link": "https://electrek.co/2026/08/27/port-of-los-angeles-commits-200-million-to-zero-emission-equipment/",
-          "source": "Electrek",
-          "published": "2026-08-27T23:22:52+00:00"
-        },
-        {
-          "title": "130-ton electric trucks 4,000 feet beneath the surface of the Earth [video]",
-          "link": "https://electrek.co/2026/08/27/130-ton-electric-works-4000-feet-beneath-the-surface-of-the-earth-video/",
-          "source": "Electrek",
-          "published": "2026-08-27T22:57:58+00:00"
-        },
-        {
-          "title": "Kia’s new EV3 is the same price as the Niro Hybrid, and nearly $10,000 less than the Niro EV",
-          "link": "https://electrek.co/2026/08/27/kia-ev3-price-matches-niro-hybrid-10000-less-than-ev/",
-          "source": "Electrek",
-          "published": "2026-08-27T22:09:42+00:00"
-        },
-        {
-          "title": "Santa Monica goes big on electric buses with 130 fast chargers",
-          "link": "https://electrek.co/2026/08/27/santa-monica-goes-big-on-electric-buses-with-130-fast-chargers/",
-          "source": "Electrek",
-          "published": "2026-08-27T21:52:14+00:00"
-        },
-        {
-          "title": "Rivian's CFO Is Leaving The Company",
-          "link": "https://insideevs.com/news/806319/rivian-cfo-claire-mcdonough-exit/",
-          "source": "InsideEVs",
-          "published": "2026-08-27T21:16:14+00:00"
-        },
-        {
-          "title": "BYD’s cheapest EV is about to get a ‘big’ sibling: Here’s what it looks like in person",
-          "link": "https://electrek.co/2026/08/27/byds-cheapest-ev-getting-big-sibling-first-look/",
-          "source": "Electrek",
-          "published": "2026-08-27T19:39:00+00:00"
-        },
-        {
-          "title": "BYD installed 10,000 hyper-fast 1,500kW chargers in just 5 months",
-          "link": "https://electrek.co/2026/08/27/byd-installed-10000-hyper-fast-1500kw-chargers-in-just-5-months/",
-          "source": "Electrek",
-          "published": "2026-08-27T19:31:04+00:00"
-        },
-        {
-          "title": "Toyota launches its updated bZ5 electric SUV at half the price of a Tesla Model Y",
-          "link": "https://electrek.co/2026/08/27/toyota-launches-updated-bz5-half-price-tesla-model-y/",
-          "source": "Electrek",
-          "published": "2026-08-27T18:46:58+00:00"
-        },
-        {
-          "title": "Tesla Full Self-Driving likes trains a bit too much",
-          "link": "https://electrek.co/2026/08/27/tesla-fsd-likes-trains-too-much/",
-          "source": "Electrek",
-          "published": "2026-08-27T18:36:43+00:00"
-        },
-        {
-          "title": "Does Ultra-Fast Charging Ruin An EV Battery? BYD Did It 350 Times In 9 Days To Find Out",
-          "link": "https://insideevs.com/news/806301/byd-megawatt-charging-battery-health/",
-          "source": "InsideEVs",
-          "published": "2026-08-27T18:33:42+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 24,
+      "count": 23,
       "items": [
+        {
+          "title": "This 3-Year-Old Tesla Model Y Went 100,000 Miles And Barely Fast-Charged. Here's How The Battery Held Up",
+          "link": "https://insideevs.com/news/806653/high-mileage-tesla-fast-charging/",
+          "source": "InsideEVs",
+          "published": "2026-08-31T21:49:05+00:00"
+        },
+        {
+          "title": "Jackery Adds Capability & Expandability To New HomePower 1000 Plus v2 Portable Battery",
+          "link": "https://cleantechnica.com/2026/08/31/jackery-adds-capability-expandability-to-new-homepower-1000-plus-v2/",
+          "source": "CleanTechnica",
+          "published": "2026-08-31T20:38:02+00:00"
+        },
+        {
+          "title": "Segway ZT3 Pro e-scooter $850, Anker SOLIX 2,010Wh power station $549 off, EGO Nexus 2x battery bundle rare discount, more",
+          "link": "https://electrek.co/2026/08/31/segway-zt3-pro-e-scooter-anker-solix-2010wh-power-station-ego-nexus-2x-battery-more/",
+          "source": "Electrek",
+          "published": "2026-08-31T18:00:00+00:00"
+        },
         {
           "title": "Hydrogen Gets Far More Attention Than Its Deployment Justifies",
           "link": "https://cleantechnica.com/2026/08/31/hydrogen-gets-far-more-attention-than-its-deployment-justifies/",
@@ -372,43 +390,31 @@
           "link": "https://electrek.co/2026/08/21/us-factory-grid-batteries-safer-anthro-energy/",
           "source": "Electrek",
           "published": "2026-08-21T17:09:27+00:00"
-        },
-        {
-          "title": "Tesla confirms Semi electric truck is coming to Europe, reveal at IAA",
-          "link": "https://electrek.co/2026/08/20/tesla-semi-europe-launch-iaa-transportation/",
-          "source": "Electrek",
-          "published": "2026-08-20T20:11:48+00:00"
-        },
-        {
-          "title": "This $0-down Illinois home solar deal includes a huge 60 kWh battery",
-          "link": "https://electrek.co/2026/08/20/this-0-down-illinois-home-solar-deal-includes-a-huge-60-kwh-battery/",
-          "source": "Electrek",
-          "published": "2026-08-20T17:59:13+00:00"
-        },
-        {
-          "title": "Geely prepares revolutionary 500 Wh/kg solid-state EV battery that could beat diesel",
-          "link": "https://electrek.co/2026/08/20/geely-500-wh-kg-solid-state-battery-2027-pilot/",
-          "source": "Electrek",
-          "published": "2026-08-20T12:59:37+00:00"
-        },
-        {
-          "title": "Heybike Hero mid-drive carbon-fiber all-terrain e-bike at exclusive new 1,049.50 low, EcoFlow power station flash sale, more",
-          "link": "https://electrek.co/2026/08/19/heybike-hero-mid-drive-e-bike-exclusive-ecoflow-power-station-flash-sale-more/",
-          "source": "Electrek",
-          "published": "2026-08-19T18:00:00+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 5,
+      "count": 7,
       "items": [
+        {
+          "title": "BYD’s electric supercar will beat a Lambo in a race, and it’s cheaper than a Porsche [Video]",
+          "link": "https://electrek.co/2026/08/31/byds-ev-supercar-offers-lambo-speed-for-less-than-a-porsche/",
+          "source": "Electrek",
+          "published": "2026-08-31T21:12:28+00:00"
+        },
         {
           "title": "한 번 충전에 520km 주행 가능한 볼보 ES90, 사전 계약 3,000대 돌파",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44412",
           "source": "모터그래프",
           "published": "2026-08-31T17:03:50+00:00"
+        },
+        {
+          "title": "I traded my electric motorcycle for a gasoline bike on vacation. It was pretty shocking",
+          "link": "https://electrek.co/2026/08/31/i-traded-my-electric-motorcycle-for-a-gasoline-bike-on-vacation-it-was-pretty-shocking/",
+          "source": "Electrek",
+          "published": "2026-08-31T14:23:34+00:00"
         },
         {
           "title": "Bafang’s new electric bike motors produce 8x your own pedaling power",
@@ -439,13 +445,37 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 21,
+      "count": 20,
       "items": [
         {
-          "title": "로보틱스 기반 실험실 자동화 기업 ‘에이블랩스’, 121억원 투자 유치",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48221",
+          "title": "파워오토로보틱스, 누적 투자유치 111억원…AI 자율제조·Dark Factory 사업 확대",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48223",
           "source": "로봇신문",
-          "published": "2026-08-31T17:49:16+00:00"
+          "published": "2026-09-01T00:49:53+00:00"
+        },
+        {
+          "title": "Skild AI unveils S1 flagship robot foundation model",
+          "link": "https://www.therobotreport.com/skild-ai-unveils-s1-flagship-robot-foundation-model/",
+          "source": "The Robot Report",
+          "published": "2026-08-31T21:14:08+00:00"
+        },
+        {
+          "title": "How better grippers can unlock physical AI",
+          "link": "https://www.therobotreport.com/how-better-grippers-can-unlock-physical-ai/",
+          "source": "The Robot Report",
+          "published": "2026-08-31T20:20:25+00:00"
+        },
+        {
+          "title": "Reframe Systems raises $40M to scale its robotic microfactories for home building",
+          "link": "https://www.therobotreport.com/reframe-systems-raises-40m-scale-robotic-microfactories-home-building/",
+          "source": "The Robot Report",
+          "published": "2026-08-31T18:46:48+00:00"
+        },
+        {
+          "title": "Early bird pricing for RoboBusiness 2026 ends August 31",
+          "link": "https://www.therobotreport.com/early-bird-pricing-for-robobusiness-2026-ends-august-31/",
+          "source": "The Robot Report",
+          "published": "2026-08-31T12:41:56+00:00"
         },
         {
           "title": "The edge AI wall: Why embodied AI requires new mathematics",
@@ -484,7 +514,7 @@
           "published": "2026-08-28T16:00:03+00:00"
         },
         {
-          "title": "How Locus is getting a grasp on one of robotics biggest challenges: manipulation",
+          "title": "How Locus Robotics is getting a grasp on one of robotics biggest challenges: manipulation",
           "link": "https://www.therobotreport.com/locus-getting-grasp-one-robotics-biggest-challenges-manipulation/",
           "source": "The Robot Report",
           "published": "2026-08-28T13:29:51+00:00"
@@ -520,30 +550,6 @@
           "published": "2026-08-26T15:04:14+00:00"
         },
         {
-          "title": "Bedrock Robotics’ first operator-free excavator deployments take off",
-          "link": "https://www.therobotreport.com/bedrock-robotics-first-operator-free-excavator-deployments-take-off/",
-          "source": "The Robot Report",
-          "published": "2026-08-26T13:51:51+00:00"
-        },
-        {
-          "title": "Early bird pricing for RoboBusiness 2026 ends August 31",
-          "link": "https://www.therobotreport.com/early-bird-pricing-for-robobusiness-2026-ends-august-31/",
-          "source": "The Robot Report",
-          "published": "2026-08-25T17:41:56+00:00"
-        },
-        {
-          "title": "Humans in the loop are still needed for robotaxi fleet safety, says Guident",
-          "link": "https://www.therobotreport.com/humans-loop-are-still-needed-robotaxi-fleet-safety-says-guident/",
-          "source": "The Robot Report",
-          "published": "2026-08-25T15:11:13+00:00"
-        },
-        {
-          "title": "Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA",
-          "link": "https://www.therobotreport.com/jetson-orin-nano-2-doubles-inference-performance-robotics-edge-says-nvidia/",
-          "source": "The Robot Report",
-          "published": "2026-08-25T15:00:22+00:00"
-        },
-        {
           "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
           "link": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
           "source": "IEEE Spectrum",
@@ -560,12 +566,6 @@
           "link": "https://spectrum.ieee.org/arctic-iceberg-drones",
           "source": "IEEE Spectrum",
           "published": "2026-08-18T13:00:01+00:00"
-        },
-        {
-          "title": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
-          "link": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
-          "source": "IEEE Spectrum",
-          "published": "2026-08-17T15:33:42+00:00"
         }
       ]
     },
@@ -575,10 +575,10 @@
       "count": 40,
       "items": [
         {
-          "title": "SK하이닉스, AI 붐 대응 위해 일본 메모리 합작공장 설립 검토",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214667",
+          "title": "[8월31일] 엔비디아 피지컬 AI, ‘미래 전략’에서 사업으로…중국이 핵심 시장",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214642",
           "source": "AI타임스",
-          "published": "2026-08-31T18:11:40+00:00"
+          "published": "2026-09-01T07:00:00+00:00"
         },
         {
           "title": "Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization",
