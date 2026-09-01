@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T16:02:04.425756+00:00",
+  "generated_at": "2026-09-01T20:30:55.183311+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,58 @@
       "count": 40,
       "items": [
         {
+          "title": "New Jersey just made plug-in solar panels legal",
+          "link": "https://electrek.co/2026/09/01/new-jersey-just-made-plug-in-solar-panels-legal/",
+          "source": "Electrek",
+          "published": "2026-09-01T20:03:45+00:00"
+        },
+        {
+          "title": "Kia’s hot streak is just getting started as the new $30,000 EV3 launches",
+          "link": "https://electrek.co/2026/09/01/kias-hot-streak-warms-up-new-30000-ev3-launches/",
+          "source": "Electrek",
+          "published": "2026-09-01T19:43:31+00:00"
+        },
+        {
+          "title": "EVs Hit A Record 98.7% Market Share In Norway. These Are The Top Sellers",
+          "link": "https://insideevs.com/news/806799/norway-ev-sales-98-percent/",
+          "source": "InsideEVs",
+          "published": "2026-09-01T19:16:21+00:00"
+        },
+        {
+          "title": "Tesla killing Solar Roof is leaving installers with six-figure losses",
+          "link": "https://electrek.co/2026/09/01/tesla-solar-roof-exit-installers-losses/",
+          "source": "Electrek",
+          "published": "2026-09-01T18:43:48+00:00"
+        },
+        {
+          "title": "I rode Juiced’s 70 MPH Nomadix electric dirt bike, and the $2,495 price is a steal",
+          "link": "https://electrek.co/2026/09/01/i-rode-juiceds-70-mph-nomadix-electric-dirt-bike-and-the-2495-price-is-a-steal/",
+          "source": "Electrek",
+          "published": "2026-09-01T18:07:35+00:00"
+        },
+        {
+          "title": "Velotric e-bikes up to $550 off with new lows, EcoFlow phase 2 Labor Day power station sale, Jackery 72-hour flash sale, more",
+          "link": "https://electrek.co/2026/09/01/velotric-e-bikes-ecoflow-phase-2-labor-day-power-station-sale-jackery-72-hour-flash-sale-more/",
+          "source": "Electrek",
+          "published": "2026-09-01T18:00:00+00:00"
+        },
+        {
+          "title": "Here’s what Volkswagen’s new EV camper looks like in person [Video]",
+          "link": "https://electrek.co/2026/09/01/volkswagens-new-ev-camper-in-person-video/",
+          "source": "Electrek",
+          "published": "2026-09-01T17:24:31+00:00"
+        },
+        {
           "title": "한국자동차튜닝협회, 자동차 이륜차용 앞면 안개등 튜닝부품인증제도 시행",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44434",
           "source": "모터그래프",
           "published": "2026-09-01T17:08:48+00:00"
+        },
+        {
+          "title": "Toyota’s Tesla-FSD Like System Arrives In 2028, But With Key Differences",
+          "link": "https://insideevs.com/news/806787/toyota-autonomous-driving-system-tesla-fsd/",
+          "source": "InsideEVs",
+          "published": "2026-09-01T17:04:14+00:00"
         },
         {
           "title": "Waymo's Newest City Brings Its Biggest Challenge Yet: Rides In The Snow",
@@ -197,54 +245,6 @@
           "link": "https://9to5toys.com/2026/08/30/amazon-2026-labor-day-now-live/",
           "source": "Electrek",
           "published": "2026-08-30T17:21:38+00:00"
-        },
-        {
-          "title": "Slate will offer a high roof cargo version of its compact pickup – and you can buy it!",
-          "link": "https://electrek.co/2026/08/30/report-slate-will-offer-a-high-roof-cargo-version-of-its-compact-pickup/",
-          "source": "Electrek",
-          "published": "2026-08-30T13:38:25+00:00"
-        },
-        {
-          "title": "E-quipment highlight: Tiger electric baggage tug hauls 30 TONS [video]",
-          "link": "https://electrek.co/2026/08/30/e-quipment-highlight-tiger-electric-baggage-tug-hauls-30-tons-video/",
-          "source": "Electrek",
-          "published": "2026-08-30T13:00:18+00:00"
-        },
-        {
-          "title": "666 – il marchio della Spiaggia Lucciola Elettrica con un ricarico del 13 percento",
-          "link": "https://electrek.co/2026/08/29/666-il-marchio-della-spiaggia-lucciola-elettrica-con-un-ricarico-del-13-percento/",
-          "source": "Electrek",
-          "published": "2026-08-29T16:08:01+00:00"
-        },
-        {
-          "title": "MacGregor says demand for its electric cranes is BOOMING in 2026",
-          "link": "https://electrek.co/2026/08/29/macgregor-says-demand-for-its-electric-cranes-is-booming-in-2026/",
-          "source": "Electrek",
-          "published": "2026-08-29T14:10:09+00:00"
-        },
-        {
-          "title": "Robot delivery dog dumps hot steaming packages on your doorstep [video]",
-          "link": "https://electrek.co/2026/08/29/robot-delivery-dog-dumps-hot-steaming-packages-on-your-doorstep-video/",
-          "source": "Electrek",
-          "published": "2026-08-29T13:19:10+00:00"
-        },
-        {
-          "title": "VW Turned The ID. Buzz Into An Electric Camper Van. The U.S. Is Next.",
-          "link": "https://insideevs.com/news/806460/volkswagen-id-buzz-ev-van-camper/",
-          "source": "InsideEVs",
-          "published": "2026-08-29T12:01:00+00:00"
-        },
-        {
-          "title": "Illinois just made 40 mph e-bikes street legal – but there’s a huge catch",
-          "link": "https://electrek.co/2026/08/29/illinois-just-made-40-mph-e-bikes-street-legal-but-theres-a-huge-catch/",
-          "source": "Electrek",
-          "published": "2026-08-29T11:54:31+00:00"
-        },
-        {
-          "title": "BYD Is Building Its Ultra-Fast Flash Charging Network At A Ferocious Pace",
-          "link": "https://insideevs.com/news/806454/byd-10000-ev-flash-chargers/",
-          "source": "InsideEVs",
-          "published": "2026-08-29T11:00:00+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 23,
       "items": [
+        {
+          "title": "The Moonrider Battery Electric Tractor From GoSun Is Priced At $19,995",
+          "link": "https://cleantechnica.com/2026/09/01/the-moonrider-battery-electric-tractor-from-gosun-is-priced-at-19995/",
+          "source": "CleanTechnica",
+          "published": "2026-09-01T17:35:21+00:00"
+        },
         {
           "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
           "link": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
@@ -384,12 +390,6 @@
           "link": "https://electrek.co/2026/08/24/how-a-toyota-dealer-cut-energy-costs-55-percent-even-with-dc-fast-chargers/",
           "source": "Electrek",
           "published": "2026-08-24T17:46:18+00:00"
-        },
-        {
-          "title": "Heybike launches low cost 28 MPH full-suspension moped-style e-bike",
-          "link": "https://electrek.co/2026/08/24/heybike-launches-low-cost-28-mph-full-suspension-moped-style-e-bike/",
-          "source": "Electrek",
-          "published": "2026-08-24T11:55:00+00:00"
         }
       ]
     },
@@ -452,6 +452,24 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48248",
           "source": "로봇신문",
           "published": "2026-09-02T00:34:18+00:00"
+        },
+        {
+          "title": "Top 10 robotics stories of August 2026",
+          "link": "https://www.therobotreport.com/top-10-robotics-stories-of-august-2026/",
+          "source": "The Robot Report",
+          "published": "2026-09-01T18:56:28+00:00"
+        },
+        {
+          "title": "Learn how physical AI is being used to do real work at RoboBusiness",
+          "link": "https://www.therobotreport.com/learn-how-physical-ai-is-being-used-to-do-real-work-at-robobusiness/",
+          "source": "The Robot Report",
+          "published": "2026-09-01T16:48:33+00:00"
+        },
+        {
+          "title": "Visko launches Orbis live model and closes pre-seed funding round",
+          "link": "https://www.therobotreport.com/visko-launches-orbis-live-model-closes-pre-seed-funding-round/",
+          "source": "The Robot Report",
+          "published": "2026-09-01T16:00:01+00:00"
         },
         {
           "title": "The Missing Layer in Robot Safety Assurance",
@@ -532,24 +550,6 @@
           "published": "2026-08-28T16:00:03+00:00"
         },
         {
-          "title": "How Locus Robotics is getting a grasp on one of robotics biggest challenges: manipulation",
-          "link": "https://www.therobotreport.com/locus-getting-grasp-one-robotics-biggest-challenges-manipulation/",
-          "source": "The Robot Report",
-          "published": "2026-08-28T13:29:51+00:00"
-        },
-        {
-          "title": "Teradyne Robotics ramps up fight against cobot copycats",
-          "link": "https://www.therobotreport.com/teradyne-robotics-sues-another-chinese-cobot-maker/",
-          "source": "The Robot Report",
-          "published": "2026-08-27T20:31:27+00:00"
-        },
-        {
-          "title": "NSF to invest $90M into three new technology centers, including one focused on robotics",
-          "link": "https://www.therobotreport.com/nsf-invests-90m-three-new-technology-centers-including-one-focused-robotics/",
-          "source": "The Robot Report",
-          "published": "2026-08-27T18:12:54+00:00"
-        },
-        {
           "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
           "link": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
           "source": "IEEE Spectrum",
@@ -569,10 +569,10 @@
       "count": 40,
       "items": [
         {
-          "title": "'오픈클로 2.0' 공개...아키텍처 개편으로 보안·성능 대폭 강화",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214685",
+          "title": "IBM \"AI 에이전트 시대, 핵심은 신뢰성과 운영 체계'\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214723",
           "source": "AI타임스",
-          "published": "2026-09-01T18:21:35+00:00"
+          "published": "2026-09-01T22:30:00+00:00"
         },
         {
           "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
