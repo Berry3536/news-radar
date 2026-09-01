@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-08-31T22:25:07.754358+00:00",
+  "generated_at": "2026-09-01T03:30:12.346436+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Slate gets a high-roof cargo variant, Tiger tugs, and CEO Tim Cook leaves Apple",
+          "link": "https://electrek.co/2026/08/31/slate-gets-a-high-roof-cargo-variant-tiger-tugs-and-ceo-tim-cook-leaves-apple/",
+          "source": "Electrek",
+          "published": "2026-09-01T00:48:13+00:00"
+        },
+        {
+          "title": "San Francisco residents can now choose where EV curbside chargers go",
+          "link": "https://electrek.co/2026/08/31/san-francisco-residents-can-now-choose-where-ev-curbside-chargers-go/",
+          "source": "Electrek",
+          "published": "2026-08-31T22:29:28+00:00"
+        },
         {
           "title": "This 3-Year-Old Tesla Model Y Went 100,000 Miles And Barely Fast-Charged. Here's How The Battery Held Up",
           "link": "https://insideevs.com/news/806653/high-mileage-tesla-fast-charging/",
@@ -233,26 +245,20 @@
           "link": "https://electrek.co/2026/08/28/jackery-homepower-1000-plus-v2-1024wh-power-station-heybike-1000w-mars-2-0-e-bike-more/",
           "source": "Electrek",
           "published": "2026-08-28T18:00:00+00:00"
-        },
-        {
-          "title": "Lucid Recalls 27,185 Air Sedans Over Fire Risk, Tells Owners To Park Outside",
-          "link": "https://insideevs.com/news/806421/lucid-fire-risk-recall-27k/",
-          "source": "InsideEVs",
-          "published": "2026-08-28T17:49:48+00:00"
-        },
-        {
-          "title": "My Tesla Cybercab launch predictions",
-          "link": "https://electrek.co/2026/08/28/tesla-cybercab-launch-predictions/",
-          "source": "Electrek",
-          "published": "2026-08-28T17:20:40+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 23,
+      "count": 24,
       "items": [
+        {
+          "title": "From Tony Stark to Obi Wan Kenobi: Meet 4 (of 7) West Gate Fellows and Their Technologies",
+          "link": "https://cleantechnica.com/2026/08/31/from-tony-stark-to-obi-wan-kenobi-meet-4-of-7-west-gate-fellows-and-their-technologies/",
+          "source": "CleanTechnica",
+          "published": "2026-09-01T02:30:49+00:00"
+        },
         {
           "title": "This 3-Year-Old Tesla Model Y Went 100,000 Miles And Barely Fast-Charged. Here's How The Battery Held Up",
           "link": "https://insideevs.com/news/806653/high-mileage-tesla-fast-charging/",
@@ -575,10 +581,10 @@
       "count": 40,
       "items": [
         {
-          "title": "[8월31일] 엔비디아 피지컬 AI, ‘미래 전략’에서 사업으로…중국이 핵심 시장",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214642",
+          "title": "오픈AI, '챗GPT' 광고 200일 만에 연 매출 1.4조 돌파",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214677",
           "source": "AI타임스",
-          "published": "2026-09-01T07:00:00+00:00"
+          "published": "2026-09-01T12:00:48+00:00"
         },
         {
           "title": "Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization",
