@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T11:04:15.556952+00:00",
+  "generated_at": "2026-09-01T16:02:04.425756+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,48 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44434",
           "source": "모터그래프",
           "published": "2026-09-01T17:08:48+00:00"
+        },
+        {
+          "title": "Waymo's Newest City Brings Its Biggest Challenge Yet: Rides In The Snow",
+          "link": "https://insideevs.com/news/806758/waymo-denver-san-diego-tampa-launch-day/",
+          "source": "InsideEVs",
+          "published": "2026-09-01T15:59:43+00:00"
+        },
+        {
+          "title": "Volvo’s cheapest EV can now power a campsite or coffee maker",
+          "link": "https://electrek.co/2026/09/01/volvos-cheapest-ev-power-campsite-coffee-maker/",
+          "source": "Electrek",
+          "published": "2026-09-01T15:51:56+00:00"
+        },
+        {
+          "title": "Waymo opens robotaxi rides to the public in 3 new cities, now 14 total",
+          "link": "https://electrek.co/2026/09/01/waymo-public-robotaxi-denver-san-diego-tampa/",
+          "source": "Electrek",
+          "published": "2026-09-01T15:22:13+00:00"
+        },
+        {
+          "title": "Tesla confirms Full Self-Driving was active in a crash that killed a mother of five",
+          "link": "https://electrek.co/2026/09/01/tesla-driver-assist-left-turn-batavia/",
+          "source": "Electrek",
+          "published": "2026-09-01T14:52:31+00:00"
+        },
+        {
+          "title": "Nissan’s new entry-level ‘Wave’ EV spotted for the first time",
+          "link": "https://electrek.co/2026/09/01/nissans-new-entry-level-wave-ev-spotted-first-time/",
+          "source": "Electrek",
+          "published": "2026-09-01T14:13:48+00:00"
+        },
+        {
+          "title": "In Sept, Tesla will re-launch 3 products it launched a decade ago, for a stock pump",
+          "link": "https://electrek.co/2026/09/01/in-sept-tesla-will-re-launch-3-products-it-launched-a-decade-ago-for-a-stock-pump/",
+          "source": "Electrek",
+          "published": "2026-09-01T14:00:00+00:00"
+        },
+        {
+          "title": "Tracking the fatal Tesla Autopilot and FSD crashes hidden in its data",
+          "link": "https://electrek.co/2026/09/01/tesla-autopilot-fsd-crashes-hidden-data/",
+          "source": "Electrek",
+          "published": "2026-09-01T12:40:56+00:00"
         },
         {
           "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
@@ -203,55 +245,13 @@
           "link": "https://insideevs.com/news/806454/byd-10000-ev-flash-chargers/",
           "source": "InsideEVs",
           "published": "2026-08-29T11:00:00+00:00"
-        },
-        {
-          "title": "This American Battery Could Break China’s Grip On The EV Supply Chain",
-          "link": "https://insideevs.com/news/806443/graphite-free-lithium-metal-battery-ev/",
-          "source": "InsideEVs",
-          "published": "2026-08-28T21:30:01+00:00"
-        },
-        {
-          "title": "Kia is recalling over 21,000 EV9 SUVs over a faulty airbag issue",
-          "link": "https://electrek.co/2026/08/28/kia-is-recalling-over-21000-ev9-suvs-over-a-faulty-airbag-issue/",
-          "source": "Electrek",
-          "published": "2026-08-28T21:06:03+00:00"
-        },
-        {
-          "title": "1 in 7 US students now goes to a solar-powered school",
-          "link": "https://electrek.co/2026/08/28/1-in-7-us-students-now-goes-to-a-solar-powered-school/",
-          "source": "Electrek",
-          "published": "2026-08-28T19:59:26+00:00"
-        },
-        {
-          "title": "Podcast: Tesla Cybercab launch, Cybertruck prices rise, VW launch electric camper, and more",
-          "link": "https://electrek.co/2026/08/28/podcast-tesla-cybercab-launch-cybertruck-prices-rise-vw-launch-electric-camper-and-more/",
-          "source": "Electrek",
-          "published": "2026-08-28T19:51:01+00:00"
-        },
-        {
-          "title": "Porsche Cayenne Turbo EV first drive: Most Powerful Porsche ever … is an SUV",
-          "link": "https://electrek.co/2026/08/28/porsche-cayenne-turbo-ev-first-drive-most-powerful-porsche-ever-is-an-suv/",
-          "source": "Electrek",
-          "published": "2026-08-28T19:44:53+00:00"
-        },
-        {
-          "title": "Tesla's Cybercab Launch Is Next Week. Here's What Tesla Still Needs To Prove",
-          "link": "https://insideevs.com/news/806444/tesla-cybercab-launch-event-preview/",
-          "source": "InsideEVs",
-          "published": "2026-08-28T19:23:45+00:00"
-        },
-        {
-          "title": "Hyundai is launching a new electric SUV that will sit above the IONIQ 5",
-          "link": "https://electrek.co/2026/08/28/hyundai-launching-new-electric-suv-sit-above-ioniq-5/",
-          "source": "Electrek",
-          "published": "2026-08-28T18:51:27+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 24,
+      "count": 23,
       "items": [
         {
           "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
@@ -390,12 +390,6 @@
           "link": "https://electrek.co/2026/08/24/heybike-launches-low-cost-28-mph-full-suspension-moped-style-e-bike/",
           "source": "Electrek",
           "published": "2026-08-24T11:55:00+00:00"
-        },
-        {
-          "title": "A first-of-its-kind US factory could make grid batteries safer",
-          "link": "https://electrek.co/2026/08/21/us-factory-grid-batteries-safer-anthro-energy/",
-          "source": "Electrek",
-          "published": "2026-08-21T17:09:27+00:00"
         }
       ]
     },
@@ -451,13 +445,31 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 20,
+      "count": 19,
       "items": [
         {
-          "title": "동대구벤처밸리發 로봇AI 유니콘 키운다…12개팀 집중 육성 돌입",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48246",
+          "title": "IFAC 세계대회서 ‘웨어러블 로봇 챌린지’ 성료…6개국 학생들, 동일 로봇 플랫폼 위에서 아이디어 겨뤄",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48248",
           "source": "로봇신문",
-          "published": "2026-09-01T17:33:22+00:00"
+          "published": "2026-09-02T00:34:18+00:00"
+        },
+        {
+          "title": "The Missing Layer in Robot Safety Assurance",
+          "link": "https://www.therobotreport.com/the-missing-layer-in-robot-safety-assurance/",
+          "source": "The Robot Report",
+          "published": "2026-09-01T13:56:53+00:00"
+        },
+        {
+          "title": "HowToRobot and Robotics Australia Group partner on platform to encourage robot adoption",
+          "link": "https://www.therobotreport.com/howtorobot-robotics-australia-group-partner-platform-encourage-robot-adoption/",
+          "source": "The Robot Report",
+          "published": "2026-09-01T13:45:36+00:00"
+        },
+        {
+          "title": "From spreadsheets to AI: Deere gives farmers new features in Operations Center, JD",
+          "link": "https://www.therobotreport.com/from-spreadsheets-ai-john-deeres-new-jd-operations-center-features/",
+          "source": "The Robot Report",
+          "published": "2026-09-01T11:00:41+00:00"
         },
         {
           "title": "Skild AI unveils S1 flagship robot foundation model",
@@ -538,24 +550,6 @@
           "published": "2026-08-27T18:12:54+00:00"
         },
         {
-          "title": "Carbon Robotics partners with iMerit to power instant in-field AI customization",
-          "link": "https://www.therobotreport.com/carbon-robotics-partners-with-imerit-to-power-instant-in-field-ai-customization/",
-          "source": "The Robot Report",
-          "published": "2026-08-27T13:27:58+00:00"
-        },
-        {
-          "title": "Gatik brings in $200M to continue expanding autonomous trucking operations",
-          "link": "https://www.therobotreport.com/gatik-brings-in-200m-to-continue-expanding-autonomous-trucking-operations/",
-          "source": "The Robot Report",
-          "published": "2026-08-26T16:59:15+00:00"
-        },
-        {
-          "title": "IDS Imaging adds Nion ToF sensor to its portfolio of 3D cameras",
-          "link": "https://www.therobotreport.com/ids-imaging-adds-nion-tof-camera-portfolio-3d-cameras/",
-          "source": "The Robot Report",
-          "published": "2026-08-26T15:04:14+00:00"
-        },
-        {
           "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
           "link": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
           "source": "IEEE Spectrum",
@@ -566,12 +560,6 @@
           "link": "https://spectrum.ieee.org/video-friday-unitree-superhuman",
           "source": "IEEE Spectrum",
           "published": "2026-08-21T16:00:01+00:00"
-        },
-        {
-          "title": "Drones With Claws Perch on Arctic Icebergs",
-          "link": "https://spectrum.ieee.org/arctic-iceberg-drones",
-          "source": "IEEE Spectrum",
-          "published": "2026-08-18T13:00:01+00:00"
         }
       ]
     },
