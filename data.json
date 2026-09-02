@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-09-01T20:30:55.183311+00:00",
+  "generated_at": "2026-09-02T02:48:17.403249+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "E-quipment highlight: iPad-sized 70 kW electric PTO by Windrose",
+          "link": "https://electrek.co/2026/09/01/e-quipment-highlight-ipad-sized-70-kw-electric-pto-by-windrose/",
+          "source": "Electrek",
+          "published": "2026-09-02T00:50:08+00:00"
+        },
+        {
+          "title": "I Drove The $138,000 Range Rover Electric Off-Road. It Was Exceptional",
+          "link": "https://insideevs.com/news/806401/range-rover-electric-specs-drive/",
+          "source": "InsideEVs",
+          "published": "2026-09-01T23:04:38+00:00"
+        },
+        {
+          "title": "NeoVolta’s US battery factory gets a 9 GWh boost from SK On",
+          "link": "https://electrek.co/2026/09/01/neovoltas-us-battery-factory-gets-a-9-gwh-boost-from-sk-on/",
+          "source": "Electrek",
+          "published": "2026-09-01T22:43:04+00:00"
+        },
+        {
+          "title": "Tesla Adds Cybercabs To Its Texas Robotaxi Fleet Ahead Of Launch Event",
+          "link": "https://insideevs.com/news/806803/cybercab-texas-robotaxi-network-tesla/",
+          "source": "InsideEVs",
+          "published": "2026-09-01T22:01:27+00:00"
+        },
+        {
+          "title": "Ford shares a closer look at the $30,000 Fathom EV pickup [Video]",
+          "link": "https://electrek.co/2026/09/01/ford-shares-closer-look-30000-fathom-ev-pickup-video/",
+          "source": "Electrek",
+          "published": "2026-09-01T21:17:43+00:00"
+        },
+        {
+          "title": "He Charged A Chevy Bolt At A Hyundai Dealer. Then He Got A $418 Bill",
+          "link": "https://insideevs.com/news/806805/chevy-bolt-renter-overcharged/",
+          "source": "InsideEVs",
+          "published": "2026-09-01T21:03:32+00:00"
+        },
         {
           "title": "New Jersey just made plug-in solar panels legal",
           "link": "https://electrek.co/2026/09/01/new-jersey-just-made-plug-in-solar-panels-legal/",
@@ -209,50 +245,20 @@
           "link": "https://electrek.co/2026/08/31/kia-confirms-pv7-debut-previews-larger-ev-van-video/",
           "source": "Electrek",
           "published": "2026-08-31T14:05:29+00:00"
-        },
-        {
-          "title": "EPA estimates vs. real-world data: EV drivers share some surprising experiences",
-          "link": "https://electrek.co/2026/08/31/epa-estimates-vs-real-world-data-ev-drivers-share-some-surprising-experiences/",
-          "source": "Electrek",
-          "published": "2026-08-31T13:25:00+00:00"
-        },
-        {
-          "title": "Tesla confirms Autopilot/FSD was active in strange fatal crash",
-          "link": "https://electrek.co/2026/08/31/tesla-driver-assist-fatal-crash-clute/",
-          "source": "Electrek",
-          "published": "2026-08-31T13:19:01+00:00"
-        },
-        {
-          "title": "What The World's EV Capital Can Teach Us About Fast Charging",
-          "link": "https://insideevs.com/news/806577/oslo-relies-on-ac-charging/",
-          "source": "InsideEVs",
-          "published": "2026-08-31T11:13:15+00:00"
-        },
-        {
-          "title": "Lucid’s ‘fire risk’ recall was for LED lights & already fixed by a July software update",
-          "link": "https://electrek.co/2026/08/30/lucids-fire-risk-recall-was-for-led-lights-already-fixed-by-a-july-software-update/",
-          "source": "Electrek",
-          "published": "2026-08-30T20:56:53+00:00"
-        },
-        {
-          "title": "Survey Sunday: will the Ford Fathom steal Slate Auto’s thunder?",
-          "link": "https://electrek.co/2026/08/30/survey-sunday-will-the-ford-fathom-steal-slate-autos-thunder/",
-          "source": "Electrek",
-          "published": "2026-08-30T17:43:59+00:00"
-        },
-        {
-          "title": "Amazon’s massive 2026 Labor Day sale now live! Thousands of deals: Apple, Android, TVs, tech under $100, more from under $5",
-          "link": "https://9to5toys.com/2026/08/30/amazon-2026-labor-day-now-live/",
-          "source": "Electrek",
-          "published": "2026-08-30T17:21:38+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 23,
+      "count": 22,
       "items": [
+        {
+          "title": "NeoVolta’s US battery factory gets a 9 GWh boost from SK On",
+          "link": "https://electrek.co/2026/09/01/neovoltas-us-battery-factory-gets-a-9-gwh-boost-from-sk-on/",
+          "source": "Electrek",
+          "published": "2026-09-01T22:43:04+00:00"
+        },
         {
           "title": "The Moonrider Battery Electric Tractor From GoSun Is Priced At $19,995",
           "link": "https://cleantechnica.com/2026/09/01/the-moonrider-battery-electric-tractor-from-gosun-is-priced-at-19995/",
@@ -378,18 +384,6 @@
           "link": "https://electrek.co/2026/08/25/e-quipment-highlight-4400-hp-wabtec-flxdrive-electric-locomotive/",
           "source": "Electrek",
           "published": "2026-08-25T11:10:00+00:00"
-        },
-        {
-          "title": "Heybike Titan moto-inspired full suspension e-bike launch, EcoFlow 572Wh RIVER 3 Plus power station bundle $319, Segway, more",
-          "link": "https://electrek.co/2026/08/24/heybike-titan-moto-inspired-full-suspension-e-bike-ecoflow-572wh-river-3-plus-power-station-segway-more/",
-          "source": "Electrek",
-          "published": "2026-08-24T18:00:00+00:00"
-        },
-        {
-          "title": "How a Toyota dealer cut energy costs 55%, even with DC fast chargers",
-          "link": "https://electrek.co/2026/08/24/how-a-toyota-dealer-cut-energy-costs-55-percent-even-with-dc-fast-chargers/",
-          "source": "Electrek",
-          "published": "2026-08-24T17:46:18+00:00"
         }
       ]
     },
@@ -569,10 +563,10 @@
       "count": 40,
       "items": [
         {
-          "title": "IBM \"AI 에이전트 시대, 핵심은 신뢰성과 운영 체계'\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214723",
+          "title": "NC AI, AI 오디오 생성 플랫폼 '바르코 사운드' 정식 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214734",
           "source": "AI타임스",
-          "published": "2026-09-01T22:30:00+00:00"
+          "published": "2026-09-02T10:55:58+00:00"
         },
         {
           "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
