@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T15:56:25.650329+00:00",
+  "generated_at": "2026-09-02T20:29:05.238842+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,70 @@
       "count": 40,
       "items": [
         {
+          "title": "Kia launches the EV4 GT in Canada, bringing more power and attitude",
+          "link": "https://electrek.co/2026/09/02/kia-launches-ev4-gt-canada-more-power-attitude/",
+          "source": "Electrek",
+          "published": "2026-09-02T20:25:41+00:00"
+        },
+        {
+          "title": "Think Chinese Cars Aren't Safe? These New Crash Tests Say Otherwise",
+          "link": "https://insideevs.com/news/806923/cupra-leapmotor-crash-euroncap-test/",
+          "source": "InsideEVs",
+          "published": "2026-09-02T19:36:44+00:00"
+        },
+        {
+          "title": "A huge 800 MW wind farm could boost Maine’s onshore wind capacity by 66%",
+          "link": "https://electrek.co/2026/09/02/huge-800-mw-wind-farm-could-boost-maines-onshore-wind-capacity-by-66/",
+          "source": "Electrek",
+          "published": "2026-09-02T19:29:41+00:00"
+        },
+        {
+          "title": "The U.S. Is A Curbside Charging Laggard. San Francisco Wants To Change That.",
+          "link": "https://insideevs.com/news/806931/san-francisco-curbside-charger-application/",
+          "source": "InsideEVs",
+          "published": "2026-09-02T19:27:59+00:00"
+        },
+        {
+          "title": "Passenger Screens Are Everywhere. A Third Of Owners Never Even Use Them",
+          "link": "https://insideevs.com/news/806768/passenger-screen-third-unused-evs/",
+          "source": "InsideEVs",
+          "published": "2026-09-02T18:37:37+00:00"
+        },
+        {
+          "title": "Here’s what all the premium Genesis GV90 colors look like in person [Video]",
+          "link": "https://electrek.co/2026/09/02/genesis-gv90-colors-in-person-video/",
+          "source": "Electrek",
+          "published": "2026-09-02T18:09:11+00:00"
+        },
+        {
+          "title": "Waymo racked up 8,300+ SF parking tickets and nearly $1M in fines",
+          "link": "https://electrek.co/2026/09/02/waymo-san-francisco-parking-tickets/",
+          "source": "Electrek",
+          "published": "2026-09-02T18:00:11+00:00"
+        },
+        {
+          "title": "Bluetti 1,004Wh Elite 100 Mini power station exclusive launch deals, Anker SOLIX Labor Day Sale, Tenways CGO600 Pro e-bike, more",
+          "link": "https://electrek.co/2026/09/02/bluetti-1004wh-elite-100-mini-power-station-anker-solix-labor-day-sale-tenways-cgo600-pro-e-bike-more/",
+          "source": "Electrek",
+          "published": "2026-09-02T18:00:00+00:00"
+        },
+        {
+          "title": "China now has more solar than coal to fuel its electric car boom",
+          "link": "https://electrek.co/2026/09/02/china-now-has-more-solar-than-coal-to-fuel-its-electric-car-boom/",
+          "source": "Electrek",
+          "published": "2026-09-02T17:20:10+00:00"
+        },
+        {
           "title": "역사, 전통, 진화의 결정체, 레인지로버 일렉트릭",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44436",
           "source": "모터그래프",
           "published": "2026-09-02T17:01:21+00:00"
+        },
+        {
+          "title": "Toyota is delaying its 3-row electric SUV again: Here’s when it’s expected to launch now",
+          "link": "https://electrek.co/2026/09/02/toyota-delaying-3-row-highlander-electric-suv-again/",
+          "source": "Electrek",
+          "published": "2026-09-02T16:20:51+00:00"
         },
         {
           "title": "Zero will soon add the main feature its electric motorcycles have always lacked",
@@ -43,7 +103,7 @@
           "published": "2026-09-02T13:37:54+00:00"
         },
         {
-          "title": "Tesla’s new Model Y L is having suspension problems in China",
+          "title": "Tesla’s new Model Y L is experiencing suspension failures",
           "link": "https://electrek.co/2026/09/02/teslas-new-model-y-l-is-having-big-suspension-problems-in-china/",
           "source": "Electrek",
           "published": "2026-09-02T13:00:00+00:00"
@@ -185,73 +245,13 @@
           "link": "https://electrek.co/2026/09/01/waymo-public-robotaxi-denver-san-diego-tampa/",
           "source": "Electrek",
           "published": "2026-09-01T15:22:13+00:00"
-        },
-        {
-          "title": "Tesla confirms Full Self-Driving was active in a crash that killed a mother of five",
-          "link": "https://electrek.co/2026/09/01/tesla-driver-assist-left-turn-batavia/",
-          "source": "Electrek",
-          "published": "2026-09-01T14:52:31+00:00"
-        },
-        {
-          "title": "Nissan’s new entry-level ‘Wave’ EV spotted for the first time",
-          "link": "https://electrek.co/2026/09/01/nissans-new-entry-level-wave-ev-spotted-first-time/",
-          "source": "Electrek",
-          "published": "2026-09-01T14:13:48+00:00"
-        },
-        {
-          "title": "In Sept, Tesla will re-launch 3 products it launched a decade ago, for a stock pump",
-          "link": "https://electrek.co/2026/09/01/in-sept-tesla-will-re-launch-3-products-it-launched-a-decade-ago-for-a-stock-pump/",
-          "source": "Electrek",
-          "published": "2026-09-01T14:00:00+00:00"
-        },
-        {
-          "title": "Tracking the fatal Tesla Autopilot and FSD crashes hidden in its data",
-          "link": "https://electrek.co/2026/09/01/tesla-autopilot-fsd-crashes-hidden-data/",
-          "source": "Electrek",
-          "published": "2026-09-01T12:40:56+00:00"
-        },
-        {
-          "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
-          "link": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
-          "source": "Electrek",
-          "published": "2026-09-01T04:01:00+00:00"
-        },
-        {
-          "title": "Slate gets a high-roof cargo variant, Tiger tugs, and CEO Tim Cook leaves Apple",
-          "link": "https://electrek.co/2026/08/31/slate-gets-a-high-roof-cargo-variant-tiger-tugs-and-ceo-tim-cook-leaves-apple/",
-          "source": "Electrek",
-          "published": "2026-09-01T00:48:13+00:00"
-        },
-        {
-          "title": "San Francisco residents can now choose where EV curbside chargers go",
-          "link": "https://electrek.co/2026/08/31/san-francisco-residents-can-now-choose-where-ev-curbside-chargers-go/",
-          "source": "Electrek",
-          "published": "2026-08-31T22:29:28+00:00"
-        },
-        {
-          "title": "This 3-Year-Old Tesla Model Y Went 100,000 Miles And Barely Fast-Charged. Here's How The Battery Held Up",
-          "link": "https://insideevs.com/news/806653/high-mileage-tesla-fast-charging/",
-          "source": "InsideEVs",
-          "published": "2026-08-31T21:49:05+00:00"
-        },
-        {
-          "title": "BYD’s electric supercar will beat a Lambo in a race, and it’s cheaper than a Porsche [Video]",
-          "link": "https://electrek.co/2026/08/31/byds-ev-supercar-offers-lambo-speed-for-less-than-a-porsche/",
-          "source": "Electrek",
-          "published": "2026-08-31T21:12:28+00:00"
-        },
-        {
-          "title": "A second Tesla driver died stopped on a freeway with Autopilot/Self-Driving on",
-          "link": "https://electrek.co/2026/08/31/tesla-driver-assist-stopped-freeway-mesa/",
-          "source": "Electrek",
-          "published": "2026-08-31T20:40:21+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 24,
+      "count": 21,
       "items": [
         {
           "title": "Donut Lab hits 409 Wh/kg in battery lab test, but credibility is gone",
@@ -344,12 +344,6 @@
           "published": "2026-08-29T01:03:28+00:00"
         },
         {
-          "title": "This American Battery Could Break China’s Grip On The EV Supply Chain",
-          "link": "https://insideevs.com/news/806443/graphite-free-lithium-metal-battery-ev/",
-          "source": "InsideEVs",
-          "published": "2026-08-28T21:30:01+00:00"
-        },
-        {
           "title": "1 in 7 US students now goes to a solar-powered school",
           "link": "https://electrek.co/2026/08/28/1-in-7-us-students-now-goes-to-a-solar-powered-school/",
           "source": "Electrek",
@@ -384,18 +378,6 @@
           "link": "https://electrek.co/2026/08/25/future-evs-could-get-more-range-from-this-tiny-ti-sensor/",
           "source": "Electrek",
           "published": "2026-08-25T20:51:58+00:00"
-        },
-        {
-          "title": "I tested this lithium-ion battery charging cabinet as the safest place to charge your e-bike batteries",
-          "link": "https://electrek.co/2026/08/25/i-tested-this-lithium-ion-battery-charging-cabinet-as-the-safest-place-to-charge-your-e-bike-batteries/",
-          "source": "Electrek",
-          "published": "2026-08-25T14:36:27+00:00"
-        },
-        {
-          "title": "E-quipment highlight: 4,400 hp Wabtec FLXDrive electric locomotive",
-          "link": "https://electrek.co/2026/08/25/e-quipment-highlight-4400-hp-wabtec-flxdrive-electric-locomotive/",
-          "source": "Electrek",
-          "published": "2026-08-25T11:10:00+00:00"
         }
       ]
     },
@@ -404,6 +386,12 @@
       "label": "모터",
       "count": 8,
       "items": [
+        {
+          "title": "Bluetti 1,004Wh Elite 100 Mini power station exclusive launch deals, Anker SOLIX Labor Day Sale, Tenways CGO600 Pro e-bike, more",
+          "link": "https://electrek.co/2026/09/02/bluetti-1004wh-elite-100-mini-power-station-anker-solix-labor-day-sale-tenways-cgo600-pro-e-bike-more/",
+          "source": "Electrek",
+          "published": "2026-09-02T18:00:00+00:00"
+        },
         {
           "title": "Zero will soon add the main feature its electric motorcycles have always lacked",
           "link": "https://electrek.co/2026/09/02/zero-will-soon-add-the-main-feature-its-electric-motorcycles-have-always-lacked/",
@@ -445,12 +433,6 @@
           "link": "https://electrek.co/2026/08/25/future-evs-could-get-more-range-from-this-tiny-ti-sensor/",
           "source": "Electrek",
           "published": "2026-08-25T20:51:58+00:00"
-        },
-        {
-          "title": "Tesla raises Cybertruck prices by $5,000 despite abysmal demand",
-          "link": "https://electrek.co/2026/08/25/tesla-cybertruck-price-increase-5000-demand/",
-          "source": "Electrek",
-          "published": "2026-08-25T13:14:47+00:00"
         }
       ]
     },
@@ -460,10 +442,22 @@
       "count": 19,
       "items": [
         {
+          "title": "NexCOBOT discusses physical AI market hurdles and acceleration",
+          "link": "https://www.therobotreport.com/nexcobot-discusses-physical-ai-market-hurdles-and-acceleration/",
+          "source": "The Robot Report",
+          "published": "2026-09-02T19:45:19+00:00"
+        },
+        {
           "title": "美 노리 로보틱스, 240만원대 이동형 매니퓰레이터 출시",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48261",
           "source": "로봇신문",
           "published": "2026-09-02T17:45:25+00:00"
+        },
+        {
+          "title": "Learn why food is physical AI’s hardest problem at RoboBusiness",
+          "link": "https://www.therobotreport.com/learn-why-food-is-physical-ai-hardest-problem-chef-robotics-robobusiness/",
+          "source": "The Robot Report",
+          "published": "2026-09-02T17:37:50+00:00"
         },
         {
           "title": "AIR to use Elmo Motion Control technology in uncrewed cargo aircraft",
@@ -542,18 +536,6 @@
           "link": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics/",
           "source": "The Robot Report",
           "published": "2026-08-29T12:25:31+00:00"
-        },
-        {
-          "title": "From teach and repeat to SelfPath AI: The next robotics leap",
-          "link": "https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap/",
-          "source": "The Robot Report",
-          "published": "2026-08-28T23:25:06+00:00"
-        },
-        {
-          "title": "Deere faces headwinds in Q3 update and announces Reservoir R&D partnership",
-          "link": "https://www.therobotreport.com/deere-faces-headwinds-in-q3-update-and-announces-10m-reservoir-rd-partnership/",
-          "source": "The Robot Report",
-          "published": "2026-08-28T21:06:40+00:00"
         },
         {
           "title": "Video Friday: Meet Microduck",
