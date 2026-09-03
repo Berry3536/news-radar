@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:39:07.073850+00:00",
+  "generated_at": "2026-09-03T15:45:10.488900+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,48 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44444",
           "source": "모터그래프",
           "published": "2026-09-03T17:16:33+00:00"
+        },
+        {
+          "title": "PG&E expands V2X program with Tesla, Volvo, Nissan and $17K incentives",
+          "link": "https://electrek.co/2026/09/03/pge-v2x-program-expansion-kia-volvo-nissan-incentives/",
+          "source": "Electrek",
+          "published": "2026-09-03T14:48:52+00:00"
+        },
+        {
+          "title": "Kia turns its electric van into a mobile grocery store for free food delivery for those in need",
+          "link": "https://electrek.co/2026/09/03/kias-ev-van-becomes-mobile-grocery-store-free-food-delivery/",
+          "source": "Electrek",
+          "published": "2026-09-03T14:47:21+00:00"
+        },
+        {
+          "title": "Rivian’s futuristic ALSO e-bike may be at its ultimate delay",
+          "link": "https://electrek.co/2026/09/03/rivians-futuristic-also-e-bike-may-be-at-its-ultimate-delay/",
+          "source": "Electrek",
+          "published": "2026-09-03T14:16:21+00:00"
+        },
+        {
+          "title": "Cratering oil use in China shows the death spiral that could end oil",
+          "link": "https://electrek.co/2026/09/03/cratering-oil-use-in-china-shows-the-death-spiral-that-could-end-oil/",
+          "source": "Electrek",
+          "published": "2026-09-03T14:00:00+00:00"
+        },
+        {
+          "title": "EVs outsell petrol in Australia for the first time, led by China",
+          "link": "https://electrek.co/2026/09/03/australia-ev-sales-outsell-petrol-august-2026/",
+          "source": "Electrek",
+          "published": "2026-09-03T12:33:57+00:00"
+        },
+        {
+          "title": "Vehicle emissions fight score update: California 2 – Trump 0",
+          "link": "https://electrek.co/2026/09/03/court-overrules-epas-illegal-attempt-to-block-californias-clean-air-standards/",
+          "source": "Electrek",
+          "published": "2026-09-03T12:00:00+00:00"
+        },
+        {
+          "title": "Bentley’s First EV Will Be Its Quickest Car. But It Doesn’t Matter",
+          "link": "https://insideevs.com/news/807025/torcal-ev-quickest-bentley-ever/",
+          "source": "InsideEVs",
+          "published": "2026-09-03T11:46:28+00:00"
         },
         {
           "title": "This new anti-theft device can keep your e-bike protected for up to a year straight",
@@ -121,7 +163,7 @@
           "published": "2026-09-02T16:20:51+00:00"
         },
         {
-          "title": "Zero will soon add the main feature its electric motorcycles have always lacked",
+          "title": "Zero will soon add the main feature its electric motorcycles have always lacked [Updated]",
           "link": "https://electrek.co/2026/09/02/zero-will-soon-add-the-main-feature-its-electric-motorcycles-have-always-lacked/",
           "source": "Electrek",
           "published": "2026-09-02T15:04:17+00:00"
@@ -203,56 +245,26 @@
           "link": "https://insideevs.com/news/806401/range-rover-electric-specs-drive/",
           "source": "InsideEVs",
           "published": "2026-09-01T23:04:38+00:00"
-        },
-        {
-          "title": "NeoVolta’s US battery factory gets a 9 GWh boost from SK On",
-          "link": "https://electrek.co/2026/09/01/neovoltas-us-battery-factory-gets-a-9-gwh-boost-from-sk-on/",
-          "source": "Electrek",
-          "published": "2026-09-01T22:43:04+00:00"
-        },
-        {
-          "title": "Tesla Adds Cybercabs To Its Texas Robotaxi Fleet Ahead Of Launch Event",
-          "link": "https://insideevs.com/news/806803/cybercab-texas-robotaxi-network-tesla/",
-          "source": "InsideEVs",
-          "published": "2026-09-01T22:01:27+00:00"
-        },
-        {
-          "title": "Ford shares a closer look at the $30,000 Fathom EV pickup [Video]",
-          "link": "https://electrek.co/2026/09/01/ford-shares-closer-look-30000-fathom-ev-pickup-video/",
-          "source": "Electrek",
-          "published": "2026-09-01T21:17:43+00:00"
-        },
-        {
-          "title": "He Charged A Chevy Bolt At A Hyundai Dealer. Then He Got A $418 Bill",
-          "link": "https://insideevs.com/news/806805/chevy-bolt-renter-overcharged/",
-          "source": "InsideEVs",
-          "published": "2026-09-01T21:03:32+00:00"
-        },
-        {
-          "title": "New Jersey just made plug-in solar panels legal",
-          "link": "https://electrek.co/2026/09/01/new-jersey-just-made-plug-in-solar-panels-legal/",
-          "source": "Electrek",
-          "published": "2026-09-01T20:03:45+00:00"
-        },
-        {
-          "title": "Kia’s hot streak is just getting started as the new $30,000 EV3 launches",
-          "link": "https://electrek.co/2026/09/01/kias-hot-streak-warms-up-new-30000-ev3-launches/",
-          "source": "Electrek",
-          "published": "2026-09-01T19:43:31+00:00"
-        },
-        {
-          "title": "EVs Hit A Record 98.7% Market Share In Norway. These Are The Top Sellers",
-          "link": "https://insideevs.com/news/806799/norway-ev-sales-98-percent/",
-          "source": "InsideEVs",
-          "published": "2026-09-01T19:16:21+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 21,
+      "count": 19,
       "items": [
+        {
+          "title": "Electric Car Batteries Hold Up Really Well — These Are “The Best”",
+          "link": "https://cleantechnica.com/2026/09/03/electric-car-batteries-hold-up-really-well-these-are-the-best/",
+          "source": "CleanTechnica",
+          "published": "2026-09-03T14:09:04+00:00"
+        },
+        {
+          "title": "EVs outsell petrol in Australia for the first time, led by China",
+          "link": "https://electrek.co/2026/09/03/australia-ev-sales-outsell-petrol-august-2026/",
+          "source": "Electrek",
+          "published": "2026-09-03T12:33:57+00:00"
+        },
         {
           "title": "BYD Launches Sealion 08, Starts Mass Producing 4D Radar Chip",
           "link": "https://cleantechnica.com/2026/09/02/byd-launches-sealion-08-starts-mass-producing-4d-radar-chip/",
@@ -308,12 +320,6 @@
           "published": "2026-09-01T02:30:49+00:00"
         },
         {
-          "title": "This 3-Year-Old Tesla Model Y Went 100,000 Miles And Barely Fast-Charged. Here's How The Battery Held Up",
-          "link": "https://insideevs.com/news/806653/high-mileage-tesla-fast-charging/",
-          "source": "InsideEVs",
-          "published": "2026-08-31T21:49:05+00:00"
-        },
-        {
           "title": "Jackery Adds Capability & Expandability To New HomePower 1000 Plus v2 Portable Battery",
           "link": "https://cleantechnica.com/2026/08/31/jackery-adds-capability-expandability-to-new-homepower-1000-plus-v2/",
           "source": "CleanTechnica",
@@ -338,12 +344,6 @@
           "published": "2026-08-30T15:46:32+00:00"
         },
         {
-          "title": "US Army Aims To Capture Energy From “The Environment”",
-          "link": "https://cleantechnica.com/2026/08/29/microgrid-us-army-energy-storage-solar/",
-          "source": "CleanTechnica",
-          "published": "2026-08-29T11:39:19+00:00"
-        },
-        {
           "title": "1 in 7 US students now goes to a solar-powered school",
           "link": "https://electrek.co/2026/08/28/1-in-7-us-students-now-goes-to-a-solar-powered-school/",
           "source": "Electrek",
@@ -366,25 +366,13 @@
           "link": "https://electrek.co/2026/08/26/bluetti-power-station-alternator-charger-bundles-lectric-e-bike-pet-accessory-flash-sale-more/",
           "source": "Electrek",
           "published": "2026-08-26T18:00:00+00:00"
-        },
-        {
-          "title": "Robot vacuum company cancels its rocket-boosted electric hypercar",
-          "link": "https://electrek.co/2026/08/25/robot-vacuum-company-cancels-its-rocket-powered-electric-car/",
-          "source": "Electrek",
-          "published": "2026-08-25T21:47:25+00:00"
-        },
-        {
-          "title": "Future EVs could get more range from this tiny TI sensor",
-          "link": "https://electrek.co/2026/08/25/future-evs-could-get-more-range-from-this-tiny-ti-sensor/",
-          "source": "Electrek",
-          "published": "2026-08-25T20:51:58+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 8,
+      "count": 6,
       "items": [
         {
           "title": "9월 한 달 간 '메르세데스-벤츠 스토어’ 구매 상담 이벤트 진행",
@@ -399,7 +387,7 @@
           "published": "2026-09-02T18:00:00+00:00"
         },
         {
-          "title": "Zero will soon add the main feature its electric motorcycles have always lacked",
+          "title": "Zero will soon add the main feature its electric motorcycles have always lacked [Updated]",
           "link": "https://electrek.co/2026/09/02/zero-will-soon-add-the-main-feature-its-electric-motorcycles-have-always-lacked/",
           "source": "Electrek",
           "published": "2026-09-02T15:04:17+00:00"
@@ -421,31 +409,37 @@
           "link": "https://electrek.co/2026/08/26/bafangs-new-electric-bike-motors-produce-8x-your-own-pedaling-power/",
           "source": "Electrek",
           "published": "2026-08-26T15:12:04+00:00"
-        },
-        {
-          "title": "Hyundai is about to shake things up with 100 new vehicles by 2030: Here’s what’s coming",
-          "link": "https://electrek.co/2026/08/26/hyundai-shake-things-up-100-new-vehicles-2030/",
-          "source": "Electrek",
-          "published": "2026-08-26T15:06:54+00:00"
-        },
-        {
-          "title": "Future EVs could get more range from this tiny TI sensor",
-          "link": "https://electrek.co/2026/08/25/future-evs-could-get-more-range-from-this-tiny-ti-sensor/",
-          "source": "Electrek",
-          "published": "2026-08-25T20:51:58+00:00"
         }
       ]
     },
     {
       "key": "robot",
       "label": "로봇",
-      "count": 19,
+      "count": 21,
       "items": [
         {
           "title": "일본 로봇 스타트업 '지자이', 탁상형 AI 로봇 '팔미모' 선행 판매",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48279",
           "source": "로봇신문",
           "published": "2026-09-03T17:45:10+00:00"
+        },
+        {
+          "title": "NVIDIA plans to acquire Hugging Face and keep AI development platform open",
+          "link": "https://www.therobotreport.com/nvidia-to-acquire-hugging-face-and-keep-ai-develpment-platform-open/",
+          "source": "The Robot Report",
+          "published": "2026-09-03T15:28:02+00:00"
+        },
+        {
+          "title": "Protecting Dynamic Industrial Robot Cable Carriers",
+          "link": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
+          "source": "IEEE Spectrum",
+          "published": "2026-09-03T12:18:21+00:00"
+        },
+        {
+          "title": "The Best Way to Explore Lunar Craters Is a Giant Robot Ball",
+          "link": "https://spectrum.ieee.org/moon-ball-robot",
+          "source": "IEEE Spectrum",
+          "published": "2026-09-03T12:00:01+00:00"
         },
         {
           "title": "PlusAI to take autonomous trucking public via a SPAC deal",
@@ -530,12 +524,6 @@
           "link": "https://www.therobotreport.com/early-bird-pricing-for-robobusiness-2026-ends-august-31/",
           "source": "The Robot Report",
           "published": "2026-08-31T12:41:56+00:00"
-        },
-        {
-          "title": "The edge AI wall: Why embodied AI requires new mathematics",
-          "link": "https://www.therobotreport.com/edge-ai-wall-why-embodied-ai-requires-new-mathematics/",
-          "source": "The Robot Report",
-          "published": "2026-08-30T12:45:51+00:00"
         },
         {
           "title": "Video Friday: Meet Microduck",
