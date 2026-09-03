@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-09-02T20:29:05.238842+00:00",
+  "generated_at": "2026-09-03T02:52:32.202222+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Scout Reveals Two New Traveler SUV Concepts As Production Nears",
+          "link": "https://insideevs.com/news/806941/scout-traveler-electric-concepts/",
+          "source": "InsideEVs",
+          "published": "2026-09-02T22:10:50+00:00"
+        },
+        {
+          "title": "$41M could bring 40 new EV fast-charging sites to Minnesota",
+          "link": "https://electrek.co/2026/09/02/41-million-could-bring-40-new-ev-fast-charging-sites-to-minnesota/",
+          "source": "Electrek",
+          "published": "2026-09-02T21:32:56+00:00"
+        },
+        {
+          "title": "Hyundai opens IONIQ 3 EV orders, starting at about $30,000",
+          "link": "https://electrek.co/2026/09/02/hyundai-opens-ioniq-3-ev-orders-starting-30000/",
+          "source": "Electrek",
+          "published": "2026-09-02T21:03:28+00:00"
+        },
         {
           "title": "Kia launches the EV4 GT in Canada, bringing more power and attitude",
           "link": "https://electrek.co/2026/09/02/kia-launches-ev4-gt-canada-more-power-attitude/",
@@ -227,32 +245,20 @@
           "link": "https://insideevs.com/news/806787/toyota-autonomous-driving-system-tesla-fsd/",
           "source": "InsideEVs",
           "published": "2026-09-01T17:04:14+00:00"
-        },
-        {
-          "title": "Waymo's Newest City Brings Its Biggest Challenge Yet: Rides In The Snow",
-          "link": "https://insideevs.com/news/806758/waymo-denver-san-diego-tampa-launch-day/",
-          "source": "InsideEVs",
-          "published": "2026-09-01T15:59:43+00:00"
-        },
-        {
-          "title": "Volvo’s cheapest EV can now power a campsite or coffee maker",
-          "link": "https://electrek.co/2026/09/01/volvos-cheapest-ev-power-campsite-coffee-maker/",
-          "source": "Electrek",
-          "published": "2026-09-01T15:51:56+00:00"
-        },
-        {
-          "title": "Waymo opens robotaxi rides to the public in 3 new cities, now 14 total",
-          "link": "https://electrek.co/2026/09/01/waymo-public-robotaxi-denver-san-diego-tampa/",
-          "source": "Electrek",
-          "published": "2026-09-01T15:22:13+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 21,
+      "count": 22,
       "items": [
+        {
+          "title": "BYD BEV Sales Up 28.4% in August",
+          "link": "https://cleantechnica.com/2026/09/02/byd-bev-sales-up-28-4-in-august/",
+          "source": "CleanTechnica",
+          "published": "2026-09-03T00:02:25+00:00"
+        },
         {
           "title": "Donut Lab hits 409 Wh/kg in battery lab test, but credibility is gone",
           "link": "https://electrek.co/2026/09/02/donut-lab-409-whkg-battery-test-no-production-ev/",
@@ -563,10 +569,10 @@
       "count": 40,
       "items": [
         {
-          "title": "메타, 실시간 음성 '뮤즈 보이스 트랜스크라이브' 공개...단어 오류율 1위",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214745",
+          "title": "\"3주 만에 반격\"...구글, 코딩 성능 강화한 '제미나이 3.8 플래시' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214781",
           "source": "AI타임스",
-          "published": "2026-09-02T19:24:17+00:00"
+          "published": "2026-09-03T11:07:58+00:00"
         },
         {
           "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
