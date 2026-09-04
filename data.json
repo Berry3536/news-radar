@@ -1,11 +1,53 @@
 {
-  "generated_at": "2026-09-03T20:28:32.260603+00:00",
+  "generated_at": "2026-09-04T02:51:43.300392+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Tesla opens search for Cybercab fleet sales, but FSD owners are still left out",
+          "link": "https://electrek.co/2026/09/03/tesla-opens-search-for-cybercab-fleet-sales-but-fsd-owners-are-still-left-out/",
+          "source": "Electrek",
+          "published": "2026-09-04T01:05:58+00:00"
+        },
+        {
+          "title": "Electric Cars Were The UK's Best-Selling Powertrain Last Month",
+          "link": "https://insideevs.com/news/807080/uk-market-sales-biggest-august/",
+          "source": "InsideEVs",
+          "published": "2026-09-03T23:18:18+00:00"
+        },
+        {
+          "title": "Slate Deliveries Could Start As Soon As December: Report",
+          "link": "https://insideevs.com/news/807061/slate-preorder-delivery-december-2026/",
+          "source": "InsideEVs",
+          "published": "2026-09-03T22:16:59+00:00"
+        },
+        {
+          "title": "IONNA knocks nearly 50% off EV fast charging for Labor Day",
+          "link": "https://electrek.co/2026/09/03/ionna-knocks-nearly-50-off-ev-fast-charging-for-labor-day/",
+          "source": "Electrek",
+          "published": "2026-09-03T22:06:09+00:00"
+        },
+        {
+          "title": "VW to cut 100k jobs and may stop building EVs at 4 plants",
+          "link": "https://electrek.co/2026/09/03/vw-to-cut-100k-jobs-and-may-stop-building-evs-at-4-plants/",
+          "source": "Electrek",
+          "published": "2026-09-03T21:18:35+00:00"
+        },
+        {
+          "title": "Kia’s bigger PV7 electric van caught in action, making the PV5 seem small",
+          "link": "https://electrek.co/2026/09/03/kias-bigger-pv7-ev-van-spotted-making-pv5-seem-small/",
+          "source": "Electrek",
+          "published": "2026-09-03T21:07:12+00:00"
+        },
+        {
+          "title": "How Much Range The Tesla Model 3 And Model Y Lose After Almost 100,000 Miles",
+          "link": "https://insideevs.com/news/807052/tesla-high-mileage-battery-health/",
+          "source": "InsideEVs",
+          "published": "2026-09-03T20:52:49+00:00"
+        },
         {
           "title": "These top-selling EVs are on sale for Labor Day",
           "link": "https://electrek.co/2026/09/03/top-selling-evs-on-sale-labor-day/",
@@ -203,56 +245,20 @@
           "link": "https://electrek.co/2026/09/02/genesis-gv90-colors-in-person-video/",
           "source": "Electrek",
           "published": "2026-09-02T18:09:11+00:00"
-        },
-        {
-          "title": "Waymo racked up 8,300+ SF parking tickets and nearly $1M in fines",
-          "link": "https://electrek.co/2026/09/02/waymo-san-francisco-parking-tickets/",
-          "source": "Electrek",
-          "published": "2026-09-02T18:00:11+00:00"
-        },
-        {
-          "title": "Bluetti 1,004Wh Elite 100 Mini power station exclusive launch deals, Anker SOLIX Labor Day Sale, Tenways CGO600 Pro e-bike, more",
-          "link": "https://electrek.co/2026/09/02/bluetti-1004wh-elite-100-mini-power-station-anker-solix-labor-day-sale-tenways-cgo600-pro-e-bike-more/",
-          "source": "Electrek",
-          "published": "2026-09-02T18:00:00+00:00"
-        },
-        {
-          "title": "China now has more solar than coal to fuel its electric car boom",
-          "link": "https://electrek.co/2026/09/02/china-now-has-more-solar-than-coal-to-fuel-its-electric-car-boom/",
-          "source": "Electrek",
-          "published": "2026-09-02T17:20:10+00:00"
-        },
-        {
-          "title": "Zero will soon add the main feature its electric motorcycles have always lacked [Updated]",
-          "link": "https://electrek.co/2026/09/02/zero-will-soon-add-the-main-feature-its-electric-motorcycles-have-always-lacked/",
-          "source": "Electrek",
-          "published": "2026-09-02T15:04:17+00:00"
-        },
-        {
-          "title": "Range Rover’s first luxury electric SUV costs $140,000 and delivers V8 power [Images]",
-          "link": "https://electrek.co/2026/09/02/range-rover-electric-launches-140k-v8-power-images/",
-          "source": "Electrek",
-          "published": "2026-09-02T14:45:19+00:00"
-        },
-        {
-          "title": "Polestar 4 SUV launches at €57,900 — and it finally has a rear window",
-          "link": "https://electrek.co/2026/09/02/polestar-4-suv-launch-price-rear-window/",
-          "source": "Electrek",
-          "published": "2026-09-02T14:39:12+00:00"
-        },
-        {
-          "title": "Republicans are about to raise your fuel costs by 45% during an energy crisis",
-          "link": "https://electrek.co/2026/09/02/republicans-are-about-to-announce-an-effort-to-raise-your-fuel-costs-by-45/",
-          "source": "Electrek",
-          "published": "2026-09-02T14:00:00+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 20,
+      "count": 21,
       "items": [
+        {
+          "title": "How Much Range The Tesla Model 3 And Model Y Lose After Almost 100,000 Miles",
+          "link": "https://insideevs.com/news/807052/tesla-high-mileage-battery-health/",
+          "source": "InsideEVs",
+          "published": "2026-09-03T20:52:49+00:00"
+        },
         {
           "title": "Equinor just brought its biggest US battery online in Texas",
           "link": "https://electrek.co/2026/09/03/equinor-just-brought-its-biggest-us-battery-online-in-texas/",
@@ -378,8 +384,14 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 7,
+      "count": 8,
       "items": [
+        {
+          "title": "Electric Cars Were The UK's Best-Selling Powertrain Last Month",
+          "link": "https://insideevs.com/news/807080/uk-market-sales-biggest-august/",
+          "source": "InsideEVs",
+          "published": "2026-09-03T23:18:18+00:00"
+        },
         {
           "title": "BEVs outsold every powertrain in August, so why is UK trying to roll back targets?",
           "link": "https://electrek.co/2026/09/03/bevs-outsold-every-powertrain-in-august-so-why-is-uk-trying-to-roll-back-targets/",
@@ -563,10 +575,10 @@
       "count": 40,
       "items": [
         {
-          "title": "오픈AI, '아스트라'에 차세대 '순환 추론' 적용으로 성능 대폭 향상",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214782",
+          "title": "인텔리빅스, 산업안전 AI 솔루션으로 코스닥 상장예심 통과",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214828",
           "source": "AI타임스",
-          "published": "2026-09-03T18:09:14+00:00"
+          "published": "2026-09-04T11:44:29+00:00"
         },
         {
           "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
