@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T15:44:02.437494+00:00",
+  "generated_at": "2026-09-04T20:14:58.196246+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,64 @@
       "count": 40,
       "items": [
         {
+          "title": "The Jeep Wagoneer and Ram 1500 extended-range EVs face another delay",
+          "link": "https://electrek.co/2026/09/04/jeep-wagoneer-rams-extended-range-ev-face-another-delay/",
+          "source": "Electrek",
+          "published": "2026-09-04T19:51:31+00:00"
+        },
+        {
+          "title": "Podcast: Tesla has another Cyberflop, lots of cheap Ford electric pickups, VW in trouble, and more",
+          "link": "https://electrek.co/2026/09/04/podcast-tesla-has-another-cyberflop-lots-of-cheap-ford-electric-pickups-vw-in-trouble-and-more/",
+          "source": "Electrek",
+          "published": "2026-09-04T19:30:31+00:00"
+        },
+        {
+          "title": "Uber just launched the UK’s first autonomous rides in London",
+          "link": "https://electrek.co/2026/09/04/uber-just-launched-the-uks-first-autonomous-rides-in-london/",
+          "source": "Electrek",
+          "published": "2026-09-04T19:21:20+00:00"
+        },
+        {
+          "title": "Tesla’s new rare-earth-free EV motor is a big deal, but not THAT big a deal",
+          "link": "https://electrek.co/2026/09/04/teslas-new-rare-earth-free-ev-motor-is-a-big-deal-but-not-that-big-a-deal/",
+          "source": "Electrek",
+          "published": "2026-09-04T19:00:06+00:00"
+        },
+        {
+          "title": "ENGWE E26 3.0 full suspension all-terrain e-bike launch deal, Navee Labor Day e-scooter sale, Tenways Wayfarer e-bike $877 off, more",
+          "link": "https://electrek.co/2026/09/04/engwe-e26-3-0-all-terrain-e-bike-navee-labor-day-tenways-wayfarer-e-bike-more/",
+          "source": "Electrek",
+          "published": "2026-09-04T18:00:00+00:00"
+        },
+        {
+          "title": "Hyundai opens orders for its new electric van, starting at about $66,500",
+          "link": "https://electrek.co/2026/09/04/hyundai-opens-orders-new-ev-van-starting-about-66500/",
+          "source": "Electrek",
+          "published": "2026-09-04T17:58:47+00:00"
+        },
+        {
           "title": "Two side Every story, 폴스타 3",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44458",
           "source": "모터그래프",
           "published": "2026-09-04T17:24:46+00:00"
+        },
+        {
+          "title": "The Tesla Cybercab Is Already Being Investigated For Not Having A Steering Wheel",
+          "link": "https://insideevs.com/news/807187/tesla-cybercab-nhtsa-fed-investigation/",
+          "source": "InsideEVs",
+          "published": "2026-09-04T16:51:09+00:00"
+        },
+        {
+          "title": "BYD launches its ‘biggest-ever’ sales event in the UK with discounts on PHEVs and EVs",
+          "link": "https://electrek.co/2026/09/04/byd-launches-biggest-sales-event-uk-phevs-evs/",
+          "source": "Electrek",
+          "published": "2026-09-04T16:12:56+00:00"
+        },
+        {
+          "title": "Rivian rolls out RivianOS 2, unifying software across R1 and R2",
+          "link": "https://electrek.co/2026/09/04/rivian-rivianos-2-software-update-r1-r2/",
+          "source": "Electrek",
+          "published": "2026-09-04T16:05:16+00:00"
         },
         {
           "title": "Macfox X1S e-bike review: More mini-moto than bicycle, yet still street legal",
@@ -103,7 +157,7 @@
           "published": "2026-09-03T22:16:59+00:00"
         },
         {
-          "title": "IONNA knocks nearly 50% off EV fast charging for Labor Day",
+          "title": "Road tripping? IONNA knocks nearly 50% off EV fast charging price for Labor Day",
           "link": "https://electrek.co/2026/09/03/ionna-knocks-nearly-50-off-ev-fast-charging-for-labor-day/",
           "source": "Electrek",
           "published": "2026-09-03T22:06:09+00:00"
@@ -191,68 +245,20 @@
           "link": "https://electrek.co/2026/09/03/court-overrules-epas-illegal-attempt-to-block-californias-clean-air-standards/",
           "source": "Electrek",
           "published": "2026-09-03T16:15:00+00:00"
-        },
-        {
-          "title": "A Tesla killed a motorcyclist on Autopilot/FSD, Tesla’s own data confirms",
-          "link": "https://electrek.co/2026/09/03/tesla-driver-assist-motorcyclist-moraine/",
-          "source": "Electrek",
-          "published": "2026-09-03T16:05:07+00:00"
-        },
-        {
-          "title": "PG&E expands V2X program with Tesla, Volvo, Nissan and $17K incentives",
-          "link": "https://electrek.co/2026/09/03/pge-v2x-program-expansion-kia-volvo-nissan-incentives/",
-          "source": "Electrek",
-          "published": "2026-09-03T14:48:52+00:00"
-        },
-        {
-          "title": "Kia turns its electric van into a mobile grocery store for free food delivery for those in need",
-          "link": "https://electrek.co/2026/09/03/kias-ev-van-becomes-mobile-grocery-store-free-food-delivery/",
-          "source": "Electrek",
-          "published": "2026-09-03T14:47:21+00:00"
-        },
-        {
-          "title": "Rivian’s futuristic ALSO e-bike may be at its ultimate delay",
-          "link": "https://electrek.co/2026/09/03/rivians-futuristic-also-e-bike-may-be-at-its-ultimate-delay/",
-          "source": "Electrek",
-          "published": "2026-09-03T14:16:21+00:00"
-        },
-        {
-          "title": "Cratering oil use in China shows the death spiral that could end oil",
-          "link": "https://electrek.co/2026/09/03/cratering-oil-use-in-china-shows-the-death-spiral-that-could-end-oil/",
-          "source": "Electrek",
-          "published": "2026-09-03T14:00:00+00:00"
-        },
-        {
-          "title": "EVs outsell petrol in Australia for the first time, led by China",
-          "link": "https://electrek.co/2026/09/03/australia-ev-sales-outsell-petrol-august-2026/",
-          "source": "Electrek",
-          "published": "2026-09-03T12:33:57+00:00"
-        },
-        {
-          "title": "Bentley’s First EV Will Be Its Quickest Car. But It Doesn’t Matter",
-          "link": "https://insideevs.com/news/807025/torcal-ev-quickest-bentley-ever/",
-          "source": "InsideEVs",
-          "published": "2026-09-03T11:46:28+00:00"
-        },
-        {
-          "title": "This new anti-theft device can keep your e-bike protected for up to a year straight",
-          "link": "https://electrek.co/2026/09/03/this-new-anti-theft-device-can-keep-your-e-bike-protected-for-up-to-a-year-straight/",
-          "source": "Electrek",
-          "published": "2026-09-03T09:48:50+00:00"
-        },
-        {
-          "title": "Ford wants to sell 100,000 Fathoms in the $30k EV truck’s first year",
-          "link": "https://electrek.co/2026/09/03/ford-wants-to-sell-100000-fathoms-in-the-30k-ev-trucks-first-year/",
-          "source": "Electrek",
-          "published": "2026-09-03T09:30:04+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 20,
+      "count": 17,
       "items": [
+        {
+          "title": "ENGWE E26 3.0 full suspension all-terrain e-bike launch deal, Navee Labor Day e-scooter sale, Tenways Wayfarer e-bike $877 off, more",
+          "link": "https://electrek.co/2026/09/04/engwe-e26-3-0-all-terrain-e-bike-navee-labor-day-tenways-wayfarer-e-bike-more/",
+          "source": "Electrek",
+          "published": "2026-09-04T18:00:00+00:00"
+        },
         {
           "title": "How Much Range The Tesla Model 3 And Model Y Lose After Almost 100,000 Miles",
           "link": "https://insideevs.com/news/807052/tesla-high-mileage-battery-health/",
@@ -344,42 +350,30 @@
           "published": "2026-08-31T18:00:00+00:00"
         },
         {
-          "title": "Hydrogen Gets Far More Attention Than Its Deployment Justifies",
-          "link": "https://cleantechnica.com/2026/08/31/hydrogen-gets-far-more-attention-than-its-deployment-justifies/",
-          "source": "CleanTechnica",
-          "published": "2026-08-31T08:25:17+00:00"
-        },
-        {
-          "title": "Hyundai Bets Big On Extended-Range Electric Vehicles",
-          "link": "https://cleantechnica.com/2026/08/30/hyundai-bets-big-on-extended-range-electric-vehicles/",
-          "source": "CleanTechnica",
-          "published": "2026-08-30T15:46:32+00:00"
-        },
-        {
           "title": "1 in 7 US students now goes to a solar-powered school",
           "link": "https://electrek.co/2026/08/28/1-in-7-us-students-now-goes-to-a-solar-powered-school/",
           "source": "Electrek",
           "published": "2026-08-28T19:59:26+00:00"
-        },
-        {
-          "title": "Wheel-E Podcast: Powerful Bafangs, cops on Sur-Rons, Qronge, more",
-          "link": "https://electrek.co/2026/08/28/wheel-e-podcast-powerful-bafangs-cops-on-sur-rons-qronge-more/",
-          "source": "Electrek",
-          "published": "2026-08-28T12:57:48+00:00"
-        },
-        {
-          "title": "Santa Monica goes big on electric buses with 130 fast chargers",
-          "link": "https://electrek.co/2026/08/27/santa-monica-goes-big-on-electric-buses-with-130-fast-chargers/",
-          "source": "Electrek",
-          "published": "2026-08-27T21:52:14+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 9,
+      "count": 11,
       "items": [
+        {
+          "title": "Tesla’s new rare-earth-free EV motor is a big deal, but not THAT big a deal",
+          "link": "https://electrek.co/2026/09/04/teslas-new-rare-earth-free-ev-motor-is-a-big-deal-but-not-that-big-a-deal/",
+          "source": "Electrek",
+          "published": "2026-09-04T19:00:06+00:00"
+        },
+        {
+          "title": "ENGWE E26 3.0 full suspension all-terrain e-bike launch deal, Navee Labor Day e-scooter sale, Tenways Wayfarer e-bike $877 off, more",
+          "link": "https://electrek.co/2026/09/04/engwe-e26-3-0-all-terrain-e-bike-navee-labor-day-tenways-wayfarer-e-bike-more/",
+          "source": "Electrek",
+          "published": "2026-09-04T18:00:00+00:00"
+        },
         {
           "title": "‘한국인 최초 F1 도전’ 이규호, 한 달 재정비 마치고 GB3 후반기 돌입",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44455",
@@ -439,13 +433,25 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 21,
+      "count": 20,
       "items": [
+        {
+          "title": "How FPGAs become the gatekeepers of physical AI security",
+          "link": "https://www.therobotreport.com/how-fpgas-become-the-gatekeepers-of-physical-ai-security/",
+          "source": "The Robot Report",
+          "published": "2026-09-04T18:09:54+00:00"
+        },
         {
           "title": "UNIST, 이기종 로봇 서로 다른 ‘눈’을 하나로…‘거리 인식’ 연합학습 기술 개발",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48309",
           "source": "로봇신문",
           "published": "2026-09-04T17:48:41+00:00"
+        },
+        {
+          "title": "Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar",
+          "link": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/",
+          "source": "The Robot Report",
+          "published": "2026-09-04T16:33:59+00:00"
         },
         {
           "title": "Lyte raises $165M to help robots better sense their surroundings",
@@ -538,18 +544,6 @@
           "published": "2026-09-01T13:56:53+00:00"
         },
         {
-          "title": "HowToRobot and Robotics Australia Group partner on platform to encourage robot adoption",
-          "link": "https://www.therobotreport.com/howtorobot-robotics-australia-group-partner-platform-encourage-robot-adoption/",
-          "source": "The Robot Report",
-          "published": "2026-09-01T13:45:36+00:00"
-        },
-        {
-          "title": "From spreadsheets to AI: Deere gives farmers new features in Operations Center, JD",
-          "link": "https://www.therobotreport.com/from-spreadsheets-ai-john-deeres-new-jd-operations-center-features/",
-          "source": "The Robot Report",
-          "published": "2026-09-01T11:00:41+00:00"
-        },
-        {
           "title": "Video Friday: Meet Microduck",
           "link": "https://spectrum.ieee.org/video-friday-microduck-robot",
           "source": "IEEE Spectrum",
@@ -560,12 +554,6 @@
           "link": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
           "source": "IEEE Spectrum",
           "published": "2026-08-25T10:00:03+00:00"
-        },
-        {
-          "title": "Video Friday: Do We Need Superhuman Humanoid Robots?",
-          "link": "https://spectrum.ieee.org/video-friday-unitree-superhuman",
-          "source": "IEEE Spectrum",
-          "published": "2026-08-21T16:00:01+00:00"
         }
       ]
     },
