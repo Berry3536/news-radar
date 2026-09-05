@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-04T20:14:58.196246+00:00",
+  "generated_at": "2026-09-05T02:53:23.612839+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Glencore reaches new milestone at all-electric Sudbury copper mine",
+          "link": "https://electrek.co/2026/09/04/glencore-reaches-new-depth-milestone-at-its-all-electric-nickel-mine/",
+          "source": "Electrek",
+          "published": "2026-09-05T02:20:12+00:00"
+        },
+        {
+          "title": "University at Buffalo adds electric buses to Stampede Fleet",
+          "link": "https://electrek.co/2026/09/04/university-at-buffalo-adds-electric-buses-to-stampede-fleet/",
+          "source": "Electrek",
+          "published": "2026-09-05T01:01:14+00:00"
+        },
+        {
+          "title": "All press is good press, right? Cybercab event leaves more questions than answers",
+          "link": "https://electrek.co/2026/09/04/all-press-is-good-press-right-cybercab-event-leaves-more-questions-than-answers/",
+          "source": "Electrek",
+          "published": "2026-09-04T21:51:56+00:00"
+        },
+        {
+          "title": "BYD’s most affordable EV is about to get a ‘big’ sibling",
+          "link": "https://electrek.co/2026/09/04/byds-most-affordable-ev-big-sibling/",
+          "source": "Electrek",
+          "published": "2026-09-04T20:59:32+00:00"
+        },
         {
           "title": "The Jeep Wagoneer and Ram 1500 extended-range EVs face another delay",
           "link": "https://electrek.co/2026/09/04/jeep-wagoneer-rams-extended-range-ev-face-another-delay/",
@@ -221,30 +245,6 @@
           "link": "https://electrek.co/2026/09/03/exclusive-jackery-5040wh-power-station-labor-day-sale-segway-anker-security-cameras-more/",
           "source": "Electrek",
           "published": "2026-09-03T18:00:00+00:00"
-        },
-        {
-          "title": "Toyota denies it’s delaying the Highlander EV SUV again [Update]",
-          "link": "https://electrek.co/2026/09/03/toyota-denies-delaying-highlander-ev-suv-again/",
-          "source": "Electrek",
-          "published": "2026-09-03T17:50:21+00:00"
-        },
-        {
-          "title": "Xiaomi confirms 2027 Europe EV launch with 8 German dealer groups",
-          "link": "https://electrek.co/2026/09/03/xiaomi-auto-2027-europe-germany-launch-dealer-groups/",
-          "source": "Electrek",
-          "published": "2026-09-03T17:24:57+00:00"
-        },
-        {
-          "title": "BYD’s latest flagship SUV received over 12,000 orders within 1 day after its launch",
-          "link": "https://electrek.co/2026/09/03/byds-latest-flagship-suv-received-over-12000-orders-within-1-day/",
-          "source": "Electrek",
-          "published": "2026-09-03T16:30:38+00:00"
-        },
-        {
-          "title": "California’s clean air laws are back as court overrules Trump from blocking them",
-          "link": "https://electrek.co/2026/09/03/court-overrules-epas-illegal-attempt-to-block-californias-clean-air-standards/",
-          "source": "Electrek",
-          "published": "2026-09-03T16:15:00+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 17,
       "items": [
+        {
+          "title": "Donut Lab Reveals Amazing Performance Tests",
+          "link": "https://cleantechnica.com/2026/09/04/donut-lab-reveals-amazing-performance-tests/",
+          "source": "CleanTechnica",
+          "published": "2026-09-05T02:07:11+00:00"
+        },
         {
           "title": "ENGWE E26 3.0 full suspension all-terrain e-bike launch deal, Navee Labor Day e-scooter sale, Tenways Wayfarer e-bike $877 off, more",
           "link": "https://electrek.co/2026/09/04/engwe-e26-3-0-all-terrain-e-bike-navee-labor-day-tenways-wayfarer-e-bike-more/",
@@ -336,12 +342,6 @@
           "link": "https://cleantechnica.com/2026/08/31/from-tony-stark-to-obi-wan-kenobi-meet-4-of-7-west-gate-fellows-and-their-technologies/",
           "source": "CleanTechnica",
           "published": "2026-09-01T02:30:49+00:00"
-        },
-        {
-          "title": "Jackery Adds Capability & Expandability To New HomePower 1000 Plus v2 Portable Battery",
-          "link": "https://cleantechnica.com/2026/08/31/jackery-adds-capability-expandability-to-new-homepower-1000-plus-v2/",
-          "source": "CleanTechnica",
-          "published": "2026-08-31T20:38:02+00:00"
         },
         {
           "title": "Segway ZT3 Pro e-scooter $850, Anker SOLIX 2,010Wh power station $549 off, EGO Nexus 2x battery bundle rare discount, more",
@@ -563,10 +563,10 @@
       "count": 40,
       "items": [
         {
-          "title": "UAE, 세계 최대 규모 완전 오픈소스 AI 'K2 호라이즌' 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214861",
+          "title": "유료 회원 불만에 알트먼 사과…'GPT-6 아스트라' 배포 최종 완료",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214887",
           "source": "AI타임스",
-          "published": "2026-09-04T16:35:00+00:00"
+          "published": "2026-09-05T11:23:56+00:00"
         },
         {
           "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
