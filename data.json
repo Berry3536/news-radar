@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T02:53:23.612839+00:00",
+  "generated_at": "2026-09-05T09:55:59.346251+00:00",
   "categories": [
     {
       "key": "ev",
@@ -251,7 +251,7 @@
     {
       "key": "battery",
       "label": "배터리",
-      "count": 17,
+      "count": 16,
       "items": [
         {
           "title": "Donut Lab Reveals Amazing Performance Tests",
@@ -336,12 +336,6 @@
           "link": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
           "source": "Electrek",
           "published": "2026-09-01T04:01:00+00:00"
-        },
-        {
-          "title": "From Tony Stark to Obi Wan Kenobi: Meet 4 (of 7) West Gate Fellows and Their Technologies",
-          "link": "https://cleantechnica.com/2026/08/31/from-tony-stark-to-obi-wan-kenobi-meet-4-of-7-west-gate-fellows-and-their-technologies/",
-          "source": "CleanTechnica",
-          "published": "2026-09-01T02:30:49+00:00"
         },
         {
           "title": "Segway ZT3 Pro e-scooter $850, Anker SOLIX 2,010Wh power station $549 off, EGO Nexus 2x battery bundle rare discount, more",
@@ -560,247 +554,13 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 40,
+      "count": 1,
       "items": [
         {
-          "title": "유료 회원 불만에 알트먼 사과…'GPT-6 아스트라' 배포 최종 완료",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214887",
+          "title": "\"생산성 혁명인가, 디스토피아의 시작인가\"…'아스트라' 출시 반응 폭발",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214891",
           "source": "AI타임스",
-          "published": "2026-09-05T11:23:56+00:00"
-        },
-        {
-          "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
-          "link": "https://arxiv.org/abs/2609.02981",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "MasterControl Seventeen Every Time",
-          "link": "https://arxiv.org/abs/2609.03209",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Speculative Macro Commit for Faster Tool-Using Agents",
-          "link": "https://arxiv.org/abs/2609.03236",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
-          "link": "https://arxiv.org/abs/2609.03340",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
-          "link": "https://arxiv.org/abs/2609.03402",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
-          "link": "https://arxiv.org/abs/2609.03407",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection",
-          "link": "https://arxiv.org/abs/2609.03416",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
-          "link": "https://arxiv.org/abs/2609.03423",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents",
-          "link": "https://arxiv.org/abs/2609.03438",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Beyond \"Made with AI\": Visualizing Provenance Density to Mitigate the Transparency Penalty",
-          "link": "https://arxiv.org/abs/2609.03460",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "AutoGraphForge: Towards Automated Graph Theory Discovery",
-          "link": "https://arxiv.org/abs/2609.03478",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Making Every Tool Call Count: Necessary Tool-Evidence Path Rewards for Agentic Vision-Language Models",
-          "link": "https://arxiv.org/abs/2609.03493",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "GrowPage: On-Demand KV Budgeting for Efficient LLM Reasoning Serving",
-          "link": "https://arxiv.org/abs/2609.03494",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "PPO-STGNN: A Proximal Policy Optimization Approach with Spatio-Temporal Graph Neural Networks for DAG Task Scheduling in Cloud-Edge-End Computing",
-          "link": "https://arxiv.org/abs/2609.03503",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "What Matters for Aggressive Decoding-Time KV Eviction? Temporal Aggregation and Ranking Preservation",
-          "link": "https://arxiv.org/abs/2609.03515",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "CulturalMenuBench: Probing the Knowledge-Application Gap in Multimodal Culinary Reasoning",
-          "link": "https://arxiv.org/abs/2609.03526",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "NeoRed: A Knowledge-Logic-Alignment Multimodal Large Language Model for Neonatal Respiratory Disease Diagnosis",
-          "link": "https://arxiv.org/abs/2609.03527",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Feature Reconfiguration With Visual Prior for Medical Lesion Segmentation",
-          "link": "https://arxiv.org/abs/2609.03535",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Dalek: A Constructive Agent Machine",
-          "link": "https://arxiv.org/abs/2609.03546",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "GPS-Bench: A Governance Policy Benchmark for Automating Policy Analysis",
-          "link": "https://arxiv.org/abs/2609.03553",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "HalluPeer: A Taxonomy-driven Benchmark for Detecting Hallucinations in Scientific Peer Reviews",
-          "link": "https://arxiv.org/abs/2609.03580",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "The Attention Triangle in Audio-Video Models",
-          "link": "https://arxiv.org/abs/2609.03586",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "KC-Bench: A Dynamic Interactive Benchmark for Evaluating Knowledge Conflicts in LLM Agents",
-          "link": "https://arxiv.org/abs/2609.03588",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "A computable representation of the physical laboratory enables verifiable workflows",
-          "link": "https://arxiv.org/abs/2609.03621",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Analysis of Prompt Engineering for Drug Toxicity Prediction",
-          "link": "https://arxiv.org/abs/2609.03635",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Synthetic Semantic Supervision for Contrastive Code Representation Learning in Small Transformers: An Empirical Study",
-          "link": "https://arxiv.org/abs/2609.03702",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Counterfactual Routing Using Integer Programming with Constraint Generation",
-          "link": "https://arxiv.org/abs/2609.03707",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Artificial Intelligence for Energy Optimization in Data Centers",
-          "link": "https://arxiv.org/abs/2609.03716",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Proactive Service Agents: A Unified Decision Framework, Methods, and Evaluation",
-          "link": "https://arxiv.org/abs/2609.03727",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "SimSkill: A Lifelong Learning AI Agent for Autonomous Mastery of Traffic Simulation",
-          "link": "https://arxiv.org/abs/2609.03753",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Rethinking World Models for Safety-Critical Embodied Systems",
-          "link": "https://arxiv.org/abs/2609.03774",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "DNative-Twin: Decision Graphs and Digital Twins for Reconstructable Agentic Decisions",
-          "link": "https://arxiv.org/abs/2609.03787",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Transfiver: Human-AI Co-Inference through a Shared Editable State",
-          "link": "https://arxiv.org/abs/2609.03797",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Govern the Model, Not Only the Data: Storage, Circulation, and Learning in Creative AI",
-          "link": "https://arxiv.org/abs/2609.03800",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "SVG-Score: Human-Aligned Evaluation of Text-to-SVG Generation",
-          "link": "https://arxiv.org/abs/2609.03806",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "CauseCollab: Causal Unified and Modality-Agnostic Network for Heterogeneous Collaborative Perception",
-          "link": "https://arxiv.org/abs/2609.03818",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Semantic Bayesian World Models",
-          "link": "https://arxiv.org/abs/2609.03834",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Adapting to Evolving Requirements: Agentic AI for Retail Supply Chain Operations",
-          "link": "https://arxiv.org/abs/2609.03860",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
-        },
-        {
-          "title": "Bioinfoysis Technical Report",
-          "link": "https://arxiv.org/abs/2609.03871",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-04T04:00:00+00:00"
+          "published": "2026-09-05T18:17:51+00:00"
         }
       ]
     }
