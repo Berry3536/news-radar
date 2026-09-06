@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-09-06T10:14:13.237728+00:00",
+  "generated_at": "2026-09-06T14:54:01.913986+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Here’s How Tesla FSD Handles Europe’s Tight City Streets",
+          "link": "https://insideevs.com/news/807281/tesla-fsd-drives-through-burssels/",
+          "source": "InsideEVs",
+          "published": "2026-09-06T13:12:24+00:00"
+        },
+        {
+          "title": "The story of SONDORS’ new mystery e-bike just got even weirder with just two words",
+          "link": "https://electrek.co/2026/09/06/the-story-of-sondors-new-mystery-e-bike-just-got-even-weirder-with-just-two-words/",
+          "source": "Electrek",
+          "published": "2026-09-06T10:35:41+00:00"
+        },
         {
           "title": "Answering random Redditor’s questions with professional backup: home solar edition",
           "link": "https://electrek.co/2026/09/05/answering-random-redditors-questions-with-professional-backup-home-solar-edition/",
@@ -233,18 +245,6 @@
           "link": "https://insideevs.com/news/807052/tesla-high-mileage-battery-health/",
           "source": "InsideEVs",
           "published": "2026-09-03T20:52:49+00:00"
-        },
-        {
-          "title": "These top-selling EVs are on sale for Labor Day",
-          "link": "https://electrek.co/2026/09/03/top-selling-evs-on-sale-labor-day/",
-          "source": "Electrek",
-          "published": "2026-09-03T19:42:31+00:00"
-        },
-        {
-          "title": "My First Walmart EV Charging Experience Was A Disaster",
-          "link": "https://insideevs.com/news/806933/walmart-ev-charging-bad-experience/",
-          "source": "InsideEVs",
-          "published": "2026-09-03T19:15:30+00:00"
         }
       ]
     },
@@ -442,6 +442,18 @@
       "count": 22,
       "items": [
         {
+          "title": "中 긱플러스, 상반기 구독 기반 주문 35.5% 증가",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48324",
+          "source": "로봇신문",
+          "published": "2026-09-06T19:35:36+00:00"
+        },
+        {
+          "title": "Pressure sensors can help improve robotic gripping accuracy",
+          "link": "https://www.therobotreport.com/pressure-sensors-can-help-improve-robotic-gripping-accuracy/",
+          "source": "The Robot Report",
+          "published": "2026-09-06T12:30:17+00:00"
+        },
+        {
           "title": "ARM Institute gets $90M for 10 projects to modernize military manufacturing",
           "link": "https://www.therobotreport.com/arm-institute-gets-90m-for-10-projects-to-modernize-military-manufacturing/",
           "source": "The Robot Report",
@@ -464,12 +476,6 @@
           "link": "https://www.therobotreport.com/how-fpgas-become-the-gatekeepers-of-physical-ai-security/",
           "source": "The Robot Report",
           "published": "2026-09-04T18:09:54+00:00"
-        },
-        {
-          "title": "UNIST, 이기종 로봇 서로 다른 ‘눈’을 하나로…‘거리 인식’ 연합학습 기술 개발",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48309",
-          "source": "로봇신문",
-          "published": "2026-09-04T17:48:41+00:00"
         },
         {
           "title": "Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar",
@@ -554,12 +560,6 @@
           "link": "https://www.therobotreport.com/top-10-robotics-stories-of-august-2026/",
           "source": "The Robot Report",
           "published": "2026-09-01T18:56:28+00:00"
-        },
-        {
-          "title": "Learn how physical AI is being used to do real work at RoboBusiness",
-          "link": "https://www.therobotreport.com/learn-how-physical-ai-is-being-used-to-do-real-work-at-robobusiness/",
-          "source": "The Robot Report",
-          "published": "2026-09-01T16:48:33+00:00"
         },
         {
           "title": "Video Friday: Meet Microduck",
