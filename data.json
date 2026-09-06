@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T14:54:01.913986+00:00",
+  "generated_at": "2026-09-06T19:58:33.663131+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,7 +7,25 @@
       "count": 40,
       "items": [
         {
-          "title": "Here’s How Tesla FSD Handles Europe’s Tight City Streets",
+          "title": "Jeep Wagoneer EREV Production Delayed By 6 Months: Report",
+          "link": "https://insideevs.com/news/807228/jeep-ram-erev-delay-hybrid/",
+          "source": "InsideEVs",
+          "published": "2026-09-06T16:34:00+00:00"
+        },
+        {
+          "title": "Tesla's Cybercab Is Finally Here. So Is The Competition.",
+          "link": "https://insideevs.com/news/807231/tesla-cybercab-launch-competition-heating/",
+          "source": "InsideEVs",
+          "published": "2026-09-06T15:56:08+00:00"
+        },
+        {
+          "title": "Rivian Just Made The R1S And R1T Feel A Whole Lot Newer For Free",
+          "link": "https://insideevs.com/news/807214/rivian-rivianos-update-r1-r2/",
+          "source": "InsideEVs",
+          "published": "2026-09-06T15:50:00+00:00"
+        },
+        {
+          "title": "This Tesla FSD Ride Through Brussels Went Well. Mostly",
           "link": "https://insideevs.com/news/807281/tesla-fsd-drives-through-burssels/",
           "source": "InsideEVs",
           "published": "2026-09-06T13:12:24+00:00"
@@ -227,32 +245,20 @@
           "link": "https://electrek.co/2026/09/03/ionna-knocks-nearly-50-off-ev-fast-charging-for-labor-day/",
           "source": "Electrek",
           "published": "2026-09-03T22:06:09+00:00"
-        },
-        {
-          "title": "VW to cut 100k jobs and may stop building EVs at 4 plants",
-          "link": "https://electrek.co/2026/09/03/vw-to-cut-100k-jobs-and-may-stop-building-evs-at-4-plants/",
-          "source": "Electrek",
-          "published": "2026-09-03T21:18:35+00:00"
-        },
-        {
-          "title": "Kia’s bigger PV7 electric van caught in action, making the PV5 seem small",
-          "link": "https://electrek.co/2026/09/03/kias-bigger-pv7-ev-van-spotted-making-pv5-seem-small/",
-          "source": "Electrek",
-          "published": "2026-09-03T21:07:12+00:00"
-        },
-        {
-          "title": "How Much Range The Tesla Model 3 And Model Y Lose After Almost 100,000 Miles",
-          "link": "https://insideevs.com/news/807052/tesla-high-mileage-battery-health/",
-          "source": "InsideEVs",
-          "published": "2026-09-03T20:52:49+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 18,
+      "count": 19,
       "items": [
+        {
+          "title": "US Lobby’s $1.1 Trillion Freight Rail Electrification Study Intentionally Asked The Wrong Question",
+          "link": "https://cleantechnica.com/2026/09/06/freight-rail-electrification-study-wrong-question/",
+          "source": "CleanTechnica",
+          "published": "2026-09-06T18:42:22+00:00"
+        },
         {
           "title": "Is Owning A Plug-in Hybrid Like Kissing Your Sister?",
           "link": "https://cleantechnica.com/2026/09/05/is-owning-a-plug-in-hybrid-like-kissing-your-sister/",
@@ -442,10 +448,16 @@
       "count": 22,
       "items": [
         {
-          "title": "中 긱플러스, 상반기 구독 기반 주문 35.5% 증가",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48324",
+          "title": "금주의 로봇 캘린더(2026. 9. 7 ~ 9. 13)",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48328",
           "source": "로봇신문",
-          "published": "2026-09-06T19:35:36+00:00"
+          "published": "2026-09-07T03:32:58+00:00"
+        },
+        {
+          "title": "Eric Sivertson discusses FPGAs and robot security",
+          "link": "https://www.therobotreport.com/eric-sivertson-discusses-fpgas-robot-security/",
+          "source": "The Robot Report",
+          "published": "2026-09-06T14:30:01+00:00"
         },
         {
           "title": "Pressure sensors can help improve robotic gripping accuracy",
@@ -554,12 +566,6 @@
           "link": "https://www.therobotreport.com/air-uses-elmo-motion-control-technology-in-uncrewed-cargo-aircraft/",
           "source": "The Robot Report",
           "published": "2026-09-02T15:29:23+00:00"
-        },
-        {
-          "title": "Top 10 robotics stories of August 2026",
-          "link": "https://www.therobotreport.com/top-10-robotics-stories-of-august-2026/",
-          "source": "The Robot Report",
-          "published": "2026-09-01T18:56:28+00:00"
         },
         {
           "title": "Video Friday: Meet Microduck",
