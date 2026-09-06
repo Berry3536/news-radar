@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T02:51:56.975517+00:00",
+  "generated_at": "2026-09-06T10:14:13.237728+00:00",
   "categories": [
     {
       "key": "ev",
@@ -23,6 +23,18 @@
           "link": "https://electrek.co/2026/09/05/e-quipment-highlight-bluetti-pioneer-5000-e-generator/",
           "source": "Electrek",
           "published": "2026-09-05T14:02:14+00:00"
+        },
+        {
+          "title": "Sales Of Hybrids Are Soaring. That’s Bad News For EVs",
+          "link": "https://insideevs.com/features/806882/hybrids-sales-soaring-bad-news-evs/",
+          "source": "InsideEVs",
+          "published": "2026-09-05T13:00:00+00:00"
+        },
+        {
+          "title": "More Plugs, Less Power? The Surprising Math Behind Better EV Charging",
+          "link": "https://insideevs.com/news/807034/more-ev-charging-plugs-lower-power-better/",
+          "source": "InsideEVs",
+          "published": "2026-09-05T11:00:00+00:00"
         },
         {
           "title": "Glencore reaches new milestone at all-electric Sudbury copper mine",
@@ -233,18 +245,6 @@
           "link": "https://insideevs.com/news/806933/walmart-ev-charging-bad-experience/",
           "source": "InsideEVs",
           "published": "2026-09-03T19:15:30+00:00"
-        },
-        {
-          "title": "Equinor just brought its biggest US battery online in Texas",
-          "link": "https://electrek.co/2026/09/03/equinor-just-brought-its-biggest-us-battery-online-in-texas/",
-          "source": "Electrek",
-          "published": "2026-09-03T18:45:39+00:00"
-        },
-        {
-          "title": "These EVs retain their battery best, largest-ever study finds",
-          "link": "https://electrek.co/2026/09/03/evs-retain-battery-best-aviloo-largest-study/",
-          "source": "Electrek",
-          "published": "2026-09-03T18:27:26+00:00"
         }
       ]
     },
@@ -581,10 +581,10 @@
       "count": 1,
       "items": [
         {
-          "title": "엔비디아·크라우드스트라이크, '공격·방어 동시 수행' 사이버 보안 AI '세이프마인드' 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214905",
+          "title": "MS, AI 개발자 전용 윈도우 11 ‘프로젝트 제니스’ 공개… \"30B 모델 로컬 실행\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214904",
           "source": "AI타임스",
-          "published": "2026-09-06T11:42:24+00:00"
+          "published": "2026-09-06T16:26:59+00:00"
         }
       ]
     }
