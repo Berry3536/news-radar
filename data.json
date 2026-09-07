@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-09-06T19:58:33.663131+00:00",
+  "generated_at": "2026-09-07T02:49:35.500064+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Another Chinese EV myth busted as GAC, Geely, and Leapmotor ace Euro NCAP",
+          "link": "https://electrek.co/2026/09/06/another-chinese-ev-myth-busted-as-gac-geely-and-leapmotor-ace-euro-ncap/",
+          "source": "Electrek",
+          "published": "2026-09-07T00:54:26+00:00"
+        },
+        {
+          "title": "SANY delivered 200 electric haul trucks, 600 EV wheel loaders – LAST MONTH",
+          "link": "https://electrek.co/2026/09/06/sany-delivered-200-electric-haul-trucks-600-ev-wheel-loaders-last-month/",
+          "source": "Electrek",
+          "published": "2026-09-06T22:07:12+00:00"
+        },
+        {
+          "title": "Survey Sunday: will Cybercab transform mobility, or be just another car?",
+          "link": "https://electrek.co/2026/09/06/survey-sunday-will-cybercab-transform-mobility-or-be-just-another-car/",
+          "source": "Electrek",
+          "published": "2026-09-06T20:46:40+00:00"
+        },
         {
           "title": "Jeep Wagoneer EREV Production Delayed By 6 Months: Report",
           "link": "https://insideevs.com/news/807228/jeep-ram-erev-delay-hybrid/",
@@ -227,31 +245,13 @@
           "link": "https://electrek.co/2026/09/03/tesla-opens-search-for-cybercab-fleet-sales-but-fsd-owners-are-still-left-out/",
           "source": "Electrek",
           "published": "2026-09-04T01:05:58+00:00"
-        },
-        {
-          "title": "Electric Cars Were The UK's Best-Selling Powertrain Last Month",
-          "link": "https://insideevs.com/news/807080/uk-market-sales-biggest-august/",
-          "source": "InsideEVs",
-          "published": "2026-09-03T23:18:18+00:00"
-        },
-        {
-          "title": "Slate Deliveries Could Start As Soon As December: Report",
-          "link": "https://insideevs.com/news/807061/slate-preorder-delivery-december-2026/",
-          "source": "InsideEVs",
-          "published": "2026-09-03T22:16:59+00:00"
-        },
-        {
-          "title": "Road tripping? IONNA knocks nearly 50% off EV fast charging price for Labor Day",
-          "link": "https://electrek.co/2026/09/03/ionna-knocks-nearly-50-off-ev-fast-charging-for-labor-day/",
-          "source": "Electrek",
-          "published": "2026-09-03T22:06:09+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 19,
+      "count": 18,
       "items": [
         {
           "title": "US Lobby’s $1.1 Trillion Freight Rail Electrification Study Intentionally Asked The Wrong Question",
@@ -360,20 +360,20 @@
           "link": "https://electrek.co/2026/08/31/segway-zt3-pro-e-scooter-anker-solix-2010wh-power-station-ego-nexus-2x-battery-more/",
           "source": "Electrek",
           "published": "2026-08-31T18:00:00+00:00"
-        },
-        {
-          "title": "1 in 7 US students now goes to a solar-powered school",
-          "link": "https://electrek.co/2026/08/28/1-in-7-us-students-now-goes-to-a-solar-powered-school/",
-          "source": "Electrek",
-          "published": "2026-08-28T19:59:26+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 11,
+      "count": 12,
       "items": [
+        {
+          "title": "Another Chinese EV myth busted as GAC, Geely, and Leapmotor ace Euro NCAP",
+          "link": "https://electrek.co/2026/09/06/another-chinese-ev-myth-busted-as-gac-geely-and-leapmotor-ace-euro-ncap/",
+          "source": "Electrek",
+          "published": "2026-09-07T00:54:26+00:00"
+        },
         {
           "title": "Tesla’s new rare-earth-free EV motor is a big deal, but not THAT big a deal",
           "link": "https://electrek.co/2026/09/04/teslas-new-rare-earth-free-ev-motor-is-a-big-deal-but-not-that-big-a-deal/",
@@ -587,10 +587,10 @@
       "count": 1,
       "items": [
         {
-          "title": "MS, AI 개발자 전용 윈도우 11 ‘프로젝트 제니스’ 공개… \"30B 모델 로컬 실행\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214904",
+          "title": "카카오, 10월 ‘이프카카오 26’ 컨퍼런스 개최…“모든 연결에 지능을”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214929",
           "source": "AI타임스",
-          "published": "2026-09-06T16:26:59+00:00"
+          "published": "2026-09-07T11:30:35+00:00"
         }
       ]
     }
