@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-09-07T02:49:35.500064+00:00",
+  "generated_at": "2026-09-07T11:32:39.420244+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "제네시스 마그마 레이싱, 론스타 르망 레이스 톱10 기록",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44459",
+          "source": "모터그래프",
+          "published": "2026-09-07T18:52:23+00:00"
+        },
         {
           "title": "Another Chinese EV myth busted as GAC, Geely, and Leapmotor ace Euro NCAP",
           "link": "https://electrek.co/2026/09/06/another-chinese-ev-myth-busted-as-gac-geely-and-leapmotor-ace-euro-ncap/",
@@ -143,12 +149,6 @@
           "link": "https://electrek.co/2026/09/04/hyundai-opens-orders-new-ev-van-starting-about-66500/",
           "source": "Electrek",
           "published": "2026-09-04T17:58:47+00:00"
-        },
-        {
-          "title": "Two side Every story, 폴스타 3",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44458",
-          "source": "모터그래프",
-          "published": "2026-09-04T17:24:46+00:00"
         },
         {
           "title": "The Tesla Cybercab Is Already Being Investigated For Not Having A Steering Wheel",
@@ -448,10 +448,10 @@
       "count": 22,
       "items": [
         {
-          "title": "금주의 로봇 캘린더(2026. 9. 7 ~ 9. 13)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48328",
+          "title": "기계연 “로봇·피지컬 AI와 함께 K-산업생태계 결정적 진화 곧 도래”",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48347",
           "source": "로봇신문",
-          "published": "2026-09-07T03:32:58+00:00"
+          "published": "2026-09-07T19:31:39+00:00"
         },
         {
           "title": "Eric Sivertson discusses FPGAs and robot security",
@@ -584,13 +584,247 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 1,
+      "count": 40,
       "items": [
         {
-          "title": "카카오, 10월 ‘이프카카오 26’ 컨퍼런스 개최…“모든 연결에 지능을”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214929",
+          "title": "[9월7일] 순천 AI 영상 뉴스 - 순천서 ‘2026 다문화 한마음축제’ 등",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214950",
           "source": "AI타임스",
-          "published": "2026-09-07T11:30:35+00:00"
+          "published": "2026-09-07T18:13:18+00:00"
+        },
+        {
+          "title": "EXAONE Forecast for Finance",
+          "link": "https://arxiv.org/abs/2609.04239",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
+          "link": "https://arxiv.org/abs/2609.04286",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
+          "link": "https://arxiv.org/abs/2609.04298",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
+          "link": "https://arxiv.org/abs/2609.04300",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "Iris: Climbing to the Search Frontier",
+          "link": "https://arxiv.org/abs/2609.04304",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
+          "link": "https://arxiv.org/abs/2609.04343",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
+          "link": "https://arxiv.org/abs/2609.04373",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer",
+          "link": "https://arxiv.org/abs/2609.04377",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
+          "link": "https://arxiv.org/abs/2609.04444",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "PerfReasoning: How Well Do LLMs Reason on Hardware Performance?",
+          "link": "https://arxiv.org/abs/2609.04476",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "When Quantization Breaks Memory: Recurrent-State Write-Back in Low-Precision Temporal Inference",
+          "link": "https://arxiv.org/abs/2609.04490",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "ResLearn-XR: Residual Learning for Network Traffic and Quality-of-Experience-Aware Modeling in Extended Reality",
+          "link": "https://arxiv.org/abs/2609.04493",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "Rethinking Indirect Prompt Injection as a Test-Time Search Problem",
+          "link": "https://arxiv.org/abs/2609.04495",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "BioSync: Transformer-Based Cross-Modal Fusion for a Multimodal Physiological Digital Biomarker",
+          "link": "https://arxiv.org/abs/2609.04504",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "What Does Multi-Harness RL Learn? Credit Assignment and Portability in Coding Agents",
+          "link": "https://arxiv.org/abs/2609.04518",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "MaxKernel: Agentic Kernel Generation for TPUs",
+          "link": "https://arxiv.org/abs/2609.04523",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "Towards a universal language of concepts: A survey",
+          "link": "https://arxiv.org/abs/2609.04528",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "Data-Driven Discovery of Composition-Dependent Constitutive Models for Hyperelasticity and Viscoelasticity of Digital Materials",
+          "link": "https://arxiv.org/abs/2609.04541",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "From Answers to Interpretations: Rethinking Ambiguity-Induced Aleatoric Uncertainty Estimation in LLMs",
+          "link": "https://arxiv.org/abs/2609.04543",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "IPGeoAI: Transformer-Based Geolocation with LLM Semantic Fusion",
+          "link": "https://arxiv.org/abs/2609.04559",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "Reducing Hallucinated Transcripts in Whisper via Hallucination Space Projection",
+          "link": "https://arxiv.org/abs/2609.04561",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "La Agente \\'Optima: Towards Agentic Self-Driving Laboratories",
+          "link": "https://arxiv.org/abs/2609.04564",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "Extremely Sparse Supervision Incentivizes Reasoning Ability",
+          "link": "https://arxiv.org/abs/2609.04565",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "Does the Selected Object Reach the Reader? Auditing Identity Handoffs in Grounded Language-Model Pipelines",
+          "link": "https://arxiv.org/abs/2609.04579",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "$\\tau^\\tau$-Bench: An Environment for End-To-End, Realistic Agent Construction",
+          "link": "https://arxiv.org/abs/2609.04611",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "Leveraging Imperfect Restoration for Data Availability Attack",
+          "link": "https://arxiv.org/abs/2609.04627",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "SiLR: Structure-Preserving Admission and Process Reward for LLM Tool Agents",
+          "link": "https://arxiv.org/abs/2609.04629",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "A Cost-Aware Agentic Architecture for NL-to-SQL over Nested Enterprise Schemas, with a New Benchmark",
+          "link": "https://arxiv.org/abs/2609.04641",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "Continual Graph Memory for Adaptive Recommendation under Intent Drift",
+          "link": "https://arxiv.org/abs/2609.04651",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "Harness-agnostic detection and immunization of reward hacking in self-evolving language models",
+          "link": "https://arxiv.org/abs/2609.04665",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "ERPBench: Evaluating LLM Agents for Enterprise Decision-Making Across Competitive Market Ecologies",
+          "link": "https://arxiv.org/abs/2609.04667",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "Train What You Deploy:Token-Faithful Post-Training of a Production Coding",
+          "link": "https://arxiv.org/abs/2609.04678",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "Predicting Spatiotemporal Mobile Sensing-Based PM2.5 Concentrations Using Low-Rank Adapted Spatially Attentive Graph Neural Network",
+          "link": "https://arxiv.org/abs/2609.04693",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "SQL-Zero: Self-Evolving Text-to-SQL",
+          "link": "https://arxiv.org/abs/2609.04697",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "Model Retirement Creates Reproducibility Risk in Biomedical AI Publications",
+          "link": "https://arxiv.org/abs/2609.04699",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "FinalityBench: An Effect-Level Benchmark for Agent Decisions Under Delayed and Conflicting Financial Finality",
+          "link": "https://arxiv.org/abs/2609.04706",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "PLUME: Parameter-Efficient Personalization of Large Language Models via Low-Rank User Modulation in Shared Subspaces",
+          "link": "https://arxiv.org/abs/2609.04715",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "Aplaud: Adaptive Personalized Low-Rank Decomposition for User-Specific LLM",
+          "link": "https://arxiv.org/abs/2609.04738",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
+        },
+        {
+          "title": "DCFA: Dual-view Causal-inspired Attribution for Failure Reasoning in LLM-based Multi-agent Systems",
+          "link": "https://arxiv.org/abs/2609.04749",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-07T04:00:00+00:00"
         }
       ]
     }
