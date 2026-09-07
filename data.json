@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T17:12:32.974265+00:00",
+  "generated_at": "2026-09-07T21:05:31.771252+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,40 @@
       "count": 40,
       "items": [
         {
+          "title": "This family of four put 1,000 km on a cargo e-bike instead of buying a second car",
+          "link": "https://electrek.co/2026/09/07/this-family-of-four-put-1000-km-on-a-cargo-e-bike-instead-of-buying-a-second-car/",
+          "source": "Electrek",
+          "published": "2026-09-07T18:54:15+00:00"
+        },
+        {
           "title": "제네시스 마그마 레이싱, 론스타 르망 레이스 톱10 기록",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44459",
           "source": "모터그래프",
           "published": "2026-09-07T18:52:23+00:00"
+        },
+        {
+          "title": "Port Authority of NY and NJ, CALSTART launch $45M electric truck plan",
+          "link": "https://electrek.co/2026/09/07/port-authority-of-ny-and-nj-calstart-launch-45m-electric-truck-plan/",
+          "source": "Electrek",
+          "published": "2026-09-07T18:44:55+00:00"
+        },
+        {
+          "title": "A Tesla ran a stop sign and killed a man, record confirms Full Self-Driving/Autopilot was on",
+          "link": "https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/",
+          "source": "Electrek",
+          "published": "2026-09-07T18:41:15+00:00"
+        },
+        {
+          "title": "Kia launches three new electric GT vehicles: Meet the EV3 GT, EV4 GT, and EV5 GT",
+          "link": "https://electrek.co/2026/09/07/kia-launches-three-gt-evs-ev3-gt-ev4-gt-ev5-gt/",
+          "source": "Electrek",
+          "published": "2026-09-07T18:24:50+00:00"
+        },
+        {
+          "title": "Green Deals Labor Day – EcoFlow power station flash sale from $599, Hiboy EVs 47% off from $300, Autel 80A EV charger low, more",
+          "link": "https://electrek.co/2026/09/07/labor-day-ecoflow-power-station-flash-sale-hiboy-evs-autel-80a-ev-charger-more/",
+          "source": "Electrek",
+          "published": "2026-09-07T18:00:00+00:00"
         },
         {
           "title": "Xiaomi launches four SkyNomad SUVs in China from $31,275",
@@ -215,44 +245,20 @@
           "link": "https://electrek.co/2026/09/04/byd-launches-biggest-sales-event-uk-phevs-evs/",
           "source": "Electrek",
           "published": "2026-09-04T16:12:56+00:00"
-        },
-        {
-          "title": "Rivian rolls out RivianOS 2, unifying software across R1 and R2",
-          "link": "https://electrek.co/2026/09/04/rivian-rivianos-2-software-update-r1-r2/",
-          "source": "Electrek",
-          "published": "2026-09-04T16:05:16+00:00"
-        },
-        {
-          "title": "Macfox X1S e-bike review: More mini-moto than bicycle, yet still street legal",
-          "link": "https://electrek.co/2026/09/04/macfox-x1s-e-bike-review-more-mini-moto-than-bicycle-yet-still-street-legal/",
-          "source": "Electrek",
-          "published": "2026-09-04T15:37:48+00:00"
-        },
-        {
-          "title": "Defender’s smaller off-road EV spotted testing ahead of its debut",
-          "link": "https://electrek.co/2026/09/04/defenders-smaller-off-road-ev-spotted-testing/",
-          "source": "Electrek",
-          "published": "2026-09-04T14:22:51+00:00"
-        },
-        {
-          "title": "Tesla Full Self-Driving can now take over manual driving to avoid a collision",
-          "link": "https://electrek.co/2026/09/04/tesla-fsd-active-safety-collision-avoidance/",
-          "source": "Electrek",
-          "published": "2026-09-04T13:56:18+00:00"
-        },
-        {
-          "title": "Alliance for Automotive Innovation begs Congress to stop automotive innovation",
-          "link": "https://electrek.co/2026/09/04/alliance-for-automotive-innovation-begs-congress-to-stop-automotive-innovation/",
-          "source": "Electrek",
-          "published": "2026-09-04T13:00:00+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 19,
+      "count": 20,
       "items": [
+        {
+          "title": "These Legacy Automakers Lead the EV Transition in the United States — BEV Share of Auto Brand & Group Sales",
+          "link": "https://cleantechnica.com/2026/09/07/these-legacy-automakers-lead-the-ev-transition-in-the-united-states-bev-share-of-auto-brand-group-sales/",
+          "source": "CleanTechnica",
+          "published": "2026-09-07T17:36:11+00:00"
+        },
         {
           "title": "Acid Test Coming For Zero Emission Fuel Cell Trucks In Europe",
           "link": "https://cleantechnica.com/2026/09/07/fuel-cell-trucks-toyota-germany-green-hydrogen-ammonia-europe-us/",
@@ -372,7 +378,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 13,
+      "count": 12,
       "items": [
         {
           "title": "Evoke’s new $5,000 electric motorcycle can hit highway speeds, coming to US & EU",
@@ -445,12 +451,6 @@
           "link": "https://electrek.co/2026/08/31/byds-ev-supercar-offers-lambo-speed-for-less-than-a-porsche/",
           "source": "Electrek",
           "published": "2026-08-31T21:12:28+00:00"
-        },
-        {
-          "title": "I traded my electric motorcycle for a gasoline bike on vacation. It was pretty shocking",
-          "link": "https://electrek.co/2026/08/31/i-traded-my-electric-motorcycle-for-a-gasoline-bike-on-vacation-it-was-pretty-shocking/",
-          "source": "Electrek",
-          "published": "2026-08-31T14:23:34+00:00"
         }
       ]
     },
@@ -460,10 +460,10 @@
       "count": 23,
       "items": [
         {
-          "title": "기계연 “로봇·피지컬 AI와 함께 K-산업생태계 결정적 진화 곧 도래”",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48347",
+          "title": "고영테크놀러지, 임직원 가족과 함께 용인시 벽화 그리기 봉사활동 진행",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48351",
           "source": "로봇신문",
-          "published": "2026-09-07T19:31:39+00:00"
+          "published": "2026-09-08T03:59:23+00:00"
         },
         {
           "title": "Inbolt to discuss physical AI’s deployment problem at RoboBusiness",
@@ -605,10 +605,10 @@
       "count": 40,
       "items": [
         {
-          "title": "[9월7일] 순천 AI 영상 뉴스 - 순천서 ‘2026 다문화 한마음축제’ 등",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214950",
+          "title": "에임인텔리전스 \"AGI급 '아스트라'도 보안 공백 여전...다음은 로봇·자율주행\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214964",
           "source": "AI타임스",
-          "published": "2026-09-07T18:13:18+00:00"
+          "published": "2026-09-07T19:20:00+00:00"
         },
         {
           "title": "EXAONE Forecast for Finance",
