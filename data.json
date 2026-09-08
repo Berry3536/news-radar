@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-09-07T21:05:31.771252+00:00",
+  "generated_at": "2026-09-08T02:59:30.501689+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "XPeng starts IRON humanoid robot production as Tesla Optimus stalls",
+          "link": "https://electrek.co/2026/09/07/xpeng-iron-humanoid-robot-production-line/",
+          "source": "Electrek",
+          "published": "2026-09-08T02:40:34+00:00"
+        },
+        {
+          "title": "China’s clean energy surge is starting to squeeze out coal",
+          "link": "https://electrek.co/2026/09/07/chinas-clean-energy-surge-is-starting-to-squeeze-out-coal/",
+          "source": "Electrek",
+          "published": "2026-09-07T22:00:00+00:00"
+        },
         {
           "title": "This family of four put 1,000 km on a cargo e-bike instead of buying a second car",
           "link": "https://electrek.co/2026/09/07/this-family-of-four-put-1000-km-on-a-cargo-e-bike-instead-of-buying-a-second-car/",
@@ -233,25 +245,13 @@
           "link": "https://electrek.co/2026/09/04/hyundai-opens-orders-new-ev-van-starting-about-66500/",
           "source": "Electrek",
           "published": "2026-09-04T17:58:47+00:00"
-        },
-        {
-          "title": "The Tesla Cybercab Is Already Being Investigated For Not Having A Steering Wheel",
-          "link": "https://insideevs.com/news/807187/tesla-cybercab-nhtsa-fed-investigation/",
-          "source": "InsideEVs",
-          "published": "2026-09-04T16:51:09+00:00"
-        },
-        {
-          "title": "BYD launches its ‘biggest-ever’ sales event in the UK with discounts on PHEVs and EVs",
-          "link": "https://electrek.co/2026/09/04/byd-launches-biggest-sales-event-uk-phevs-evs/",
-          "source": "Electrek",
-          "published": "2026-09-04T16:12:56+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 20,
+      "count": 19,
       "items": [
         {
           "title": "These Legacy Automakers Lead the EV Transition in the United States — BEV Share of Auto Brand & Group Sales",
@@ -342,12 +342,6 @@
           "link": "https://cleantechnica.com/2026/09/02/byd-launches-sealion-08-starts-mass-producing-4d-radar-chip/",
           "source": "CleanTechnica",
           "published": "2026-09-03T03:22:21+00:00"
-        },
-        {
-          "title": "BYD BEV Sales Up 28.4% in August",
-          "link": "https://cleantechnica.com/2026/09/02/byd-bev-sales-up-28-4-in-august/",
-          "source": "CleanTechnica",
-          "published": "2026-09-03T00:02:25+00:00"
         },
         {
           "title": "Donut Lab hits 409 Wh/kg in battery lab test, but credibility is gone",
@@ -605,10 +599,10 @@
       "count": 40,
       "items": [
         {
-          "title": "에임인텔리전스 \"AGI급 '아스트라'도 보안 공백 여전...다음은 로봇·자율주행\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214964",
+          "title": "아티피셜 애널리시스 평가 체제 개편...'아스트라' 5위에서 공동 1위로 상승",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214973",
           "source": "AI타임스",
-          "published": "2026-09-07T19:20:00+00:00"
+          "published": "2026-09-08T11:58:15+00:00"
         },
         {
           "title": "EXAONE Forecast for Finance",
