@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T10:33:01.182199+00:00",
+  "generated_at": "2026-09-08T15:57:17.210735+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,54 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44472",
           "source": "모터그래프",
           "published": "2026-09-08T17:00:52+00:00"
+        },
+        {
+          "title": "Toyota is recalling about 10,000 C-HR EVs",
+          "link": "https://electrek.co/2026/09/08/toyota-recalling-about-10000-c-hr-evs/",
+          "source": "Electrek",
+          "published": "2026-09-08T15:25:11+00:00"
+        },
+        {
+          "title": "Tesla Cybercab has a hidden virtual joystick to drive it manually",
+          "link": "https://electrek.co/2026/09/08/tesla-cybercab-hidden-virtual-joystick-manual-driving/",
+          "source": "Electrek",
+          "published": "2026-09-08T14:48:24+00:00"
+        },
+        {
+          "title": "BYD’s top-selling 1,100+ hp luxury GT is about to get a bit cheaper",
+          "link": "https://electrek.co/2026/09/08/byds-top-selling-electric-luxury-gt-cheaper/",
+          "source": "Electrek",
+          "published": "2026-09-08T14:02:08+00:00"
+        },
+        {
+          "title": "Plug-in Hybrids emit 6x more pollution than claimed, and they’re getting dirtier",
+          "link": "https://electrek.co/2026/09/08/plug-in-hybrids-emit-6x-more-than-claimed-and-theyre-getting-dirtier/",
+          "source": "Electrek",
+          "published": "2026-09-08T14:00:00+00:00"
+        },
+        {
+          "title": "Watch Tesla FSD Navigate Denmark's Tightest, Toughest Street",
+          "link": "https://insideevs.com/news/807526/tesla-fsd-aarhus-center-ride/",
+          "source": "InsideEVs",
+          "published": "2026-09-08T13:45:31+00:00"
+        },
+        {
+          "title": "Polestar confirms Formula 2030 concept previewing next Polestar 2 and 7",
+          "link": "https://electrek.co/2026/09/08/polestar-formula-2030-concept-car/",
+          "source": "Electrek",
+          "published": "2026-09-08T12:42:03+00:00"
+        },
+        {
+          "title": "Sold Out: Volkswagen’s Cheap ID. Polo EV Now Has Months-Long Wait Times",
+          "link": "https://insideevs.com/news/807512/vw-id-polo-sold-out-high-interest/",
+          "source": "InsideEVs",
+          "published": "2026-09-08T12:06:42+00:00"
+        },
+        {
+          "title": "Plug-In Hybrids Have An Emissions Problem. Carmakers Want To Delay The Fix",
+          "link": "https://insideevs.com/news/807501/phev-emissions-six-times-higher/",
+          "source": "InsideEVs",
+          "published": "2026-09-08T10:34:22+00:00"
         },
         {
           "title": "2027 Chevrolet Bolt 70-MPH Range Test: Here’s How Far America’s Cheapest EV Goes",
@@ -197,54 +245,6 @@
           "link": "https://electrek.co/2026/09/05/when-public-charging-stations-arent-so-public-and-why-it-matters/",
           "source": "Electrek",
           "published": "2026-09-05T14:20:00+00:00"
-        },
-        {
-          "title": "E-quipment highlight: BLUETTI Pioneer 5000 E-Generator",
-          "link": "https://electrek.co/2026/09/05/e-quipment-highlight-bluetti-pioneer-5000-e-generator/",
-          "source": "Electrek",
-          "published": "2026-09-05T14:02:14+00:00"
-        },
-        {
-          "title": "Sales Of Hybrids Are Soaring. That’s Bad News For EVs",
-          "link": "https://insideevs.com/features/806882/hybrids-sales-soaring-bad-news-evs/",
-          "source": "InsideEVs",
-          "published": "2026-09-05T13:00:00+00:00"
-        },
-        {
-          "title": "More Plugs, Less Power? The Surprising Math Behind Better EV Charging",
-          "link": "https://insideevs.com/news/807034/more-ev-charging-plugs-lower-power-better/",
-          "source": "InsideEVs",
-          "published": "2026-09-05T11:00:00+00:00"
-        },
-        {
-          "title": "Glencore reaches new milestone at all-electric Sudbury copper mine",
-          "link": "https://electrek.co/2026/09/04/glencore-reaches-new-depth-milestone-at-its-all-electric-nickel-mine/",
-          "source": "Electrek",
-          "published": "2026-09-05T02:20:12+00:00"
-        },
-        {
-          "title": "University at Buffalo adds electric buses to Stampede Fleet",
-          "link": "https://electrek.co/2026/09/04/university-at-buffalo-adds-electric-buses-to-stampede-fleet/",
-          "source": "Electrek",
-          "published": "2026-09-05T01:01:14+00:00"
-        },
-        {
-          "title": "All press is good press, right? Cybercab event leaves more questions than answers",
-          "link": "https://electrek.co/2026/09/04/all-press-is-good-press-right-cybercab-event-leaves-more-questions-than-answers/",
-          "source": "Electrek",
-          "published": "2026-09-04T21:51:56+00:00"
-        },
-        {
-          "title": "BYD’s most affordable EV is about to get a ‘big’ sibling",
-          "link": "https://electrek.co/2026/09/04/byds-most-affordable-ev-big-sibling/",
-          "source": "Electrek",
-          "published": "2026-09-04T20:59:32+00:00"
-        },
-        {
-          "title": "The Jeep Wagoneer and Ram 1500 extended-range EVs face another delay",
-          "link": "https://electrek.co/2026/09/04/jeep-wagoneer-rams-extended-range-ev-face-another-delay/",
-          "source": "Electrek",
-          "published": "2026-09-04T19:51:31+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 19,
       "items": [
+        {
+          "title": "What Lithium EV Battery Shortage? New Recycler Picks Up Where Ascend Elements Left Off",
+          "link": "https://cleantechnica.com/2026/09/08/r3-lithium-ev-battery-recycling-us-supply-chain/",
+          "source": "CleanTechnica",
+          "published": "2026-09-08T13:31:17+00:00"
+        },
         {
           "title": "A Mercedes-Backed Company Just Put Solid-State Batteries Into Mass Production",
           "link": "https://insideevs.com/news/807472/solid-state-battery-mass-production-prologium/",
@@ -360,20 +366,20 @@
           "link": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
           "source": "Electrek",
           "published": "2026-09-01T04:01:00+00:00"
-        },
-        {
-          "title": "Segway ZT3 Pro e-scooter $850, Anker SOLIX 2,010Wh power station $549 off, EGO Nexus 2x battery bundle rare discount, more",
-          "link": "https://electrek.co/2026/08/31/segway-zt3-pro-e-scooter-anker-solix-2010wh-power-station-ego-nexus-2x-battery-more/",
-          "source": "Electrek",
-          "published": "2026-08-31T18:00:00+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 13,
+      "count": 12,
       "items": [
+        {
+          "title": "BYD’s top-selling 1,100+ hp luxury GT is about to get a bit cheaper",
+          "link": "https://electrek.co/2026/09/08/byds-top-selling-electric-luxury-gt-cheaper/",
+          "source": "Electrek",
+          "published": "2026-09-08T14:02:08+00:00"
+        },
         {
           "title": "ENGWE’s new E26 3.0 e-bike packs dual motors, full suspension, and half a deer",
           "link": "https://electrek.co/2026/09/08/engwes-new-e26-3-0-packs-dual-motors-full-suspension-and-tons-of-torque/",
@@ -417,12 +423,6 @@
           "published": "2026-09-04T15:37:48+00:00"
         },
         {
-          "title": "Electric Cars Were The UK's Best-Selling Powertrain Last Month",
-          "link": "https://insideevs.com/news/807080/uk-market-sales-biggest-august/",
-          "source": "InsideEVs",
-          "published": "2026-09-03T23:18:18+00:00"
-        },
-        {
           "title": "BEVs outsold every powertrain in August, so why is UK trying to roll back targets?",
           "link": "https://electrek.co/2026/09/03/bevs-outsold-every-powertrain-in-august-so-why-is-uk-trying-to-roll-back-targets/",
           "source": "Electrek",
@@ -445,12 +445,6 @@
           "link": "https://electrek.co/2026/09/02/zero-will-soon-add-the-main-feature-its-electric-motorcycles-have-always-lacked/",
           "source": "Electrek",
           "published": "2026-09-02T15:04:17+00:00"
-        },
-        {
-          "title": "BYD’s electric supercar will beat a Lambo in a race, and it’s cheaper than a Porsche [Video]",
-          "link": "https://electrek.co/2026/08/31/byds-ev-supercar-offers-lambo-speed-for-less-than-a-porsche/",
-          "source": "Electrek",
-          "published": "2026-08-31T21:12:28+00:00"
         }
       ]
     },
