@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-09-08T02:59:30.501689+00:00",
+  "generated_at": "2026-09-08T10:33:01.182199+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "기아, 2026 하반기 집중 채용",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44472",
+          "source": "모터그래프",
+          "published": "2026-09-08T17:00:52+00:00"
+        },
+        {
+          "title": "2027 Chevrolet Bolt 70-MPH Range Test: Here’s How Far America’s Cheapest EV Goes",
+          "link": "https://insideevs.com/news/807502/2027-chevrolet-bolt-ev-70-mph-highway-range-test/",
+          "source": "InsideEVs",
+          "published": "2026-09-08T10:32:07+00:00"
+        },
+        {
+          "title": "ENGWE’s new E26 3.0 e-bike packs dual motors, full suspension, and half a deer",
+          "link": "https://electrek.co/2026/09/08/engwes-new-e26-3-0-packs-dual-motors-full-suspension-and-tons-of-torque/",
+          "source": "Electrek",
+          "published": "2026-09-08T10:22:51+00:00"
+        },
+        {
+          "title": "Polestar’s New Concept Hints At What’s Coming To Its Next Two EVs",
+          "link": "https://insideevs.com/news/807486/polestar-formula-2030-concept-teaser/",
+          "source": "InsideEVs",
+          "published": "2026-09-08T09:22:41+00:00"
+        },
+        {
+          "title": "A Mercedes-Backed Company Just Put Solid-State Batteries Into Mass Production",
+          "link": "https://insideevs.com/news/807472/solid-state-battery-mass-production-prologium/",
+          "source": "InsideEVs",
+          "published": "2026-09-08T07:48:13+00:00"
+        },
+        {
+          "title": "Dacia’s Answer To Cheap Chinese EVs Used To Be One. Now It’s European",
+          "link": "https://insideevs.com/news/807452/all-new-dacia-spring-revealed/",
+          "source": "InsideEVs",
+          "published": "2026-09-08T05:24:40+00:00"
+        },
         {
           "title": "XPeng starts IRON humanoid robot production as Tesla Optimus stalls",
           "link": "https://electrek.co/2026/09/07/xpeng-iron-humanoid-robot-production-line/",
@@ -23,12 +59,6 @@
           "link": "https://electrek.co/2026/09/07/this-family-of-four-put-1000-km-on-a-cargo-e-bike-instead-of-buying-a-second-car/",
           "source": "Electrek",
           "published": "2026-09-07T18:54:15+00:00"
-        },
-        {
-          "title": "제네시스 마그마 레이싱, 론스타 르망 레이스 톱10 기록",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44459",
-          "source": "모터그래프",
-          "published": "2026-09-07T18:52:23+00:00"
         },
         {
           "title": "Port Authority of NY and NJ, CALSTART launch $45M electric truck plan",
@@ -215,36 +245,6 @@
           "link": "https://electrek.co/2026/09/04/jeep-wagoneer-rams-extended-range-ev-face-another-delay/",
           "source": "Electrek",
           "published": "2026-09-04T19:51:31+00:00"
-        },
-        {
-          "title": "Podcast: Tesla has another Cyberflop, lots of cheap Ford electric pickups, VW in trouble, and more",
-          "link": "https://electrek.co/2026/09/04/podcast-tesla-has-another-cyberflop-lots-of-cheap-ford-electric-pickups-vw-in-trouble-and-more/",
-          "source": "Electrek",
-          "published": "2026-09-04T19:30:31+00:00"
-        },
-        {
-          "title": "Uber just launched the UK’s first autonomous rides in London",
-          "link": "https://electrek.co/2026/09/04/uber-just-launched-the-uks-first-autonomous-rides-in-london/",
-          "source": "Electrek",
-          "published": "2026-09-04T19:21:20+00:00"
-        },
-        {
-          "title": "Tesla’s new rare-earth-free EV motor is a big deal, but not THAT big a deal",
-          "link": "https://electrek.co/2026/09/04/teslas-new-rare-earth-free-ev-motor-is-a-big-deal-but-not-that-big-a-deal/",
-          "source": "Electrek",
-          "published": "2026-09-04T19:00:06+00:00"
-        },
-        {
-          "title": "ENGWE E26 3.0 full suspension all-terrain e-bike launch deal, Navee Labor Day e-scooter sale, Tenways Wayfarer e-bike $877 off, more",
-          "link": "https://electrek.co/2026/09/04/engwe-e26-3-0-all-terrain-e-bike-navee-labor-day-tenways-wayfarer-e-bike-more/",
-          "source": "Electrek",
-          "published": "2026-09-04T18:00:00+00:00"
-        },
-        {
-          "title": "Hyundai opens orders for its new electric van, starting at about $66,500",
-          "link": "https://electrek.co/2026/09/04/hyundai-opens-orders-new-ev-van-starting-about-66500/",
-          "source": "Electrek",
-          "published": "2026-09-04T17:58:47+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 19,
       "items": [
+        {
+          "title": "A Mercedes-Backed Company Just Put Solid-State Batteries Into Mass Production",
+          "link": "https://insideevs.com/news/807472/solid-state-battery-mass-production-prologium/",
+          "source": "InsideEVs",
+          "published": "2026-09-08T07:48:13+00:00"
+        },
         {
           "title": "These Legacy Automakers Lead the EV Transition in the United States — BEV Share of Auto Brand & Group Sales",
           "link": "https://cleantechnica.com/2026/09/07/these-legacy-automakers-lead-the-ev-transition-in-the-united-states-bev-share-of-auto-brand-group-sales/",
@@ -306,12 +312,6 @@
           "link": "https://electrek.co/2026/09/04/engwe-e26-3-0-all-terrain-e-bike-navee-labor-day-tenways-wayfarer-e-bike-more/",
           "source": "Electrek",
           "published": "2026-09-04T18:00:00+00:00"
-        },
-        {
-          "title": "How Much Range The Tesla Model 3 And Model Y Lose After Almost 100,000 Miles",
-          "link": "https://insideevs.com/news/807052/tesla-high-mileage-battery-health/",
-          "source": "InsideEVs",
-          "published": "2026-09-03T20:52:49+00:00"
         },
         {
           "title": "Equinor just brought its biggest US battery online in Texas",
@@ -372,8 +372,14 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 12,
+      "count": 13,
       "items": [
+        {
+          "title": "ENGWE’s new E26 3.0 e-bike packs dual motors, full suspension, and half a deer",
+          "link": "https://electrek.co/2026/09/08/engwes-new-e26-3-0-packs-dual-motors-full-suspension-and-tons-of-torque/",
+          "source": "Electrek",
+          "published": "2026-09-08T10:22:51+00:00"
+        },
         {
           "title": "Evoke’s new $5,000 electric motorcycle can hit highway speeds, coming to US & EU",
           "link": "https://electrek.co/2026/09/07/evokes-new-5000-electric-motorcycle-can-hit-highway-speeds-coming-to-us-eu/",
@@ -451,13 +457,13 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 23,
+      "count": 22,
       "items": [
         {
-          "title": "고영테크놀러지, 임직원 가족과 함께 용인시 벽화 그리기 봉사활동 진행",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48351",
+          "title": "나우로보틱스, VPK와 하이브리드차 배터리팩 홀더 조립 설비 공급 계약",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48373",
           "source": "로봇신문",
-          "published": "2026-09-08T03:59:23+00:00"
+          "published": "2026-09-08T18:02:42+00:00"
         },
         {
           "title": "Inbolt to discuss physical AI’s deployment problem at RoboBusiness",
@@ -584,259 +590,19 @@
           "link": "https://spectrum.ieee.org/video-friday-microduck-robot",
           "source": "IEEE Spectrum",
           "published": "2026-08-28T16:00:03+00:00"
-        },
-        {
-          "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
-          "link": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
-          "source": "IEEE Spectrum",
-          "published": "2026-08-25T10:00:03+00:00"
         }
       ]
     },
     {
       "key": "ai",
       "label": "AI",
-      "count": 40,
+      "count": 1,
       "items": [
         {
-          "title": "아티피셜 애널리시스 평가 체제 개편...'아스트라' 5위에서 공동 1위로 상승",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214973",
+          "title": "아이렌 \"AI 컴퓨팅 수요 무한 확장...공급이 수요 못 따라가\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214985",
           "source": "AI타임스",
-          "published": "2026-09-08T11:58:15+00:00"
-        },
-        {
-          "title": "EXAONE Forecast for Finance",
-          "link": "https://arxiv.org/abs/2609.04239",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
-          "link": "https://arxiv.org/abs/2609.04286",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
-          "link": "https://arxiv.org/abs/2609.04298",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
-          "link": "https://arxiv.org/abs/2609.04300",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "Iris: Climbing to the Search Frontier",
-          "link": "https://arxiv.org/abs/2609.04304",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
-          "link": "https://arxiv.org/abs/2609.04343",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
-          "link": "https://arxiv.org/abs/2609.04373",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer",
-          "link": "https://arxiv.org/abs/2609.04377",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
-          "link": "https://arxiv.org/abs/2609.04444",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "PerfReasoning: How Well Do LLMs Reason on Hardware Performance?",
-          "link": "https://arxiv.org/abs/2609.04476",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "When Quantization Breaks Memory: Recurrent-State Write-Back in Low-Precision Temporal Inference",
-          "link": "https://arxiv.org/abs/2609.04490",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "ResLearn-XR: Residual Learning for Network Traffic and Quality-of-Experience-Aware Modeling in Extended Reality",
-          "link": "https://arxiv.org/abs/2609.04493",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "Rethinking Indirect Prompt Injection as a Test-Time Search Problem",
-          "link": "https://arxiv.org/abs/2609.04495",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "BioSync: Transformer-Based Cross-Modal Fusion for a Multimodal Physiological Digital Biomarker",
-          "link": "https://arxiv.org/abs/2609.04504",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "What Does Multi-Harness RL Learn? Credit Assignment and Portability in Coding Agents",
-          "link": "https://arxiv.org/abs/2609.04518",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "MaxKernel: Agentic Kernel Generation for TPUs",
-          "link": "https://arxiv.org/abs/2609.04523",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "Towards a universal language of concepts: A survey",
-          "link": "https://arxiv.org/abs/2609.04528",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "Data-Driven Discovery of Composition-Dependent Constitutive Models for Hyperelasticity and Viscoelasticity of Digital Materials",
-          "link": "https://arxiv.org/abs/2609.04541",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "From Answers to Interpretations: Rethinking Ambiguity-Induced Aleatoric Uncertainty Estimation in LLMs",
-          "link": "https://arxiv.org/abs/2609.04543",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "IPGeoAI: Transformer-Based Geolocation with LLM Semantic Fusion",
-          "link": "https://arxiv.org/abs/2609.04559",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "Reducing Hallucinated Transcripts in Whisper via Hallucination Space Projection",
-          "link": "https://arxiv.org/abs/2609.04561",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "La Agente \\'Optima: Towards Agentic Self-Driving Laboratories",
-          "link": "https://arxiv.org/abs/2609.04564",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "Extremely Sparse Supervision Incentivizes Reasoning Ability",
-          "link": "https://arxiv.org/abs/2609.04565",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "Does the Selected Object Reach the Reader? Auditing Identity Handoffs in Grounded Language-Model Pipelines",
-          "link": "https://arxiv.org/abs/2609.04579",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "$\\tau^\\tau$-Bench: An Environment for End-To-End, Realistic Agent Construction",
-          "link": "https://arxiv.org/abs/2609.04611",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "Leveraging Imperfect Restoration for Data Availability Attack",
-          "link": "https://arxiv.org/abs/2609.04627",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "SiLR: Structure-Preserving Admission and Process Reward for LLM Tool Agents",
-          "link": "https://arxiv.org/abs/2609.04629",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "A Cost-Aware Agentic Architecture for NL-to-SQL over Nested Enterprise Schemas, with a New Benchmark",
-          "link": "https://arxiv.org/abs/2609.04641",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "Continual Graph Memory for Adaptive Recommendation under Intent Drift",
-          "link": "https://arxiv.org/abs/2609.04651",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "Harness-agnostic detection and immunization of reward hacking in self-evolving language models",
-          "link": "https://arxiv.org/abs/2609.04665",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "ERPBench: Evaluating LLM Agents for Enterprise Decision-Making Across Competitive Market Ecologies",
-          "link": "https://arxiv.org/abs/2609.04667",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "Train What You Deploy:Token-Faithful Post-Training of a Production Coding",
-          "link": "https://arxiv.org/abs/2609.04678",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "Predicting Spatiotemporal Mobile Sensing-Based PM2.5 Concentrations Using Low-Rank Adapted Spatially Attentive Graph Neural Network",
-          "link": "https://arxiv.org/abs/2609.04693",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "SQL-Zero: Self-Evolving Text-to-SQL",
-          "link": "https://arxiv.org/abs/2609.04697",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "Model Retirement Creates Reproducibility Risk in Biomedical AI Publications",
-          "link": "https://arxiv.org/abs/2609.04699",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "FinalityBench: An Effect-Level Benchmark for Agent Decisions Under Delayed and Conflicting Financial Finality",
-          "link": "https://arxiv.org/abs/2609.04706",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "PLUME: Parameter-Efficient Personalization of Large Language Models via Low-Rank User Modulation in Shared Subspaces",
-          "link": "https://arxiv.org/abs/2609.04715",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "Aplaud: Adaptive Personalized Low-Rank Decomposition for User-Specific LLM",
-          "link": "https://arxiv.org/abs/2609.04738",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
-        },
-        {
-          "title": "DCFA: Dual-view Causal-inspired Attribution for Failure Reasoning in LLM-based Multi-agent Systems",
-          "link": "https://arxiv.org/abs/2609.04749",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-07T04:00:00+00:00"
+          "published": "2026-09-08T18:11:23+00:00"
         }
       ]
     }
