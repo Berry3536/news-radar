@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T15:53:21.551519+00:00",
+  "generated_at": "2026-09-09T20:23:05.179855+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,58 @@
       "count": 40,
       "items": [
         {
+          "title": "The Genesis GV90 transforms into a private luxury theater with a pop-up 24.6″ display",
+          "link": "https://electrek.co/2026/09/09/genesis-gv90-luxury-theater-pop-up-24-6-screen/",
+          "source": "Electrek",
+          "published": "2026-09-09T20:10:26+00:00"
+        },
+        {
+          "title": "Yozma electric mini dirt bikes exclusive $595 savings, EcoFlow flash 2x 3,072Wh DELTA 3 Ultra power stations $1,800 off, EGO, more",
+          "link": "https://electrek.co/2026/09/09/yozma-electric-mini-dirt-bikes-exclusive-ecoflow-3072wh-delta-3-ultra-power-stations-ego-more/",
+          "source": "Electrek",
+          "published": "2026-09-09T18:00:00+00:00"
+        },
+        {
+          "title": "Senator claims Trump may open US market to Chinese EVs in Xi deal",
+          "link": "https://electrek.co/2026/09/09/slotkin-trump-chinese-evs-us-market-xi-deal/",
+          "source": "Electrek",
+          "published": "2026-09-09T17:50:44+00:00"
+        },
+        {
+          "title": "Waymo Just Made A New Friend In Nashville, And It's Not Uber",
+          "link": "https://insideevs.com/news/807703/waymo-lyft-autonomous-ev-rides-nashville-uber/",
+          "source": "InsideEVs",
+          "published": "2026-09-09T17:13:05+00:00"
+        },
+        {
+          "title": "Here’s our first look at Nissan’s new entry-level Pixo EV [Images]",
+          "link": "https://electrek.co/2026/09/09/first-look-nissans-new-entry-level-pixo-ev-images/",
+          "source": "Electrek",
+          "published": "2026-09-09T17:07:05+00:00"
+        },
+        {
           "title": "완벽한 개인화 모빌리티의 산실, 기아 오토랜드 화성",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44483",
           "source": "모터그래프",
           "published": "2026-09-09T17:04:53+00:00"
+        },
+        {
+          "title": "This Electric Camper SUV Has Heated Floors, A Loft, And Built-In Storage. See The SkyNomad N90 Max Studio.",
+          "link": "https://insideevs.com/news/807687/xiaomi-skynomad-n90-studio-launch/",
+          "source": "InsideEVs",
+          "published": "2026-09-09T16:50:53+00:00"
+        },
+        {
+          "title": "EVgo is adding 400+ fast chargers where you grocery shop",
+          "link": "https://electrek.co/2026/09/09/evgo-is-adding-400-fast-chargers-where-you-grocery-shop/",
+          "source": "Electrek",
+          "published": "2026-09-09T16:13:25+00:00"
+        },
+        {
+          "title": "Kia’s electric van now comes in 10 top hats, including a 7-seater and an upscale Prime model",
+          "link": "https://electrek.co/2026/09/09/kias-electric-van-10-top-hats-7-seater/",
+          "source": "Electrek",
+          "published": "2026-09-09T16:07:48+00:00"
         },
         {
           "title": "Tesla May Offer You A Robotaxi Instead Of A Service Loaner",
@@ -43,6 +91,12 @@
           "published": "2026-09-09T12:44:37+00:00"
         },
         {
+          "title": "Continuing post-Labor Day Green Deals hub – EVs, power stations, tools, smart devices, more [Updated]",
+          "link": "https://electrek.co/2026/09/09/labor-day-green-deals-hub-evs-power-stations-tools-smart-devices-more/",
+          "source": "Electrek",
+          "published": "2026-09-09T12:00:00+00:00"
+        },
+        {
           "title": "RGNT’s 85 MPH retro electric motorcycle just got a scrambler makeover",
           "link": "https://electrek.co/2026/09/09/rgnts-85-mph-retro-electric-motorcycle-just-got-a-scrambler-makeover/",
           "source": "Electrek",
@@ -61,13 +115,13 @@
           "published": "2026-09-09T07:40:53+00:00"
         },
         {
-          "title": "Here's Our Best Look Yet At Tesla's 'Unboxed' Manufacturing For The Cybercab",
+          "title": "Watch Tesla's Wild 'Unboxed' Manufacturing For The Cybercab In Action",
           "link": "https://insideevs.com/news/807603/tesla-cybercab-unboxed-production-video/",
           "source": "InsideEVs",
           "published": "2026-09-09T05:58:57+00:00"
         },
         {
-          "title": "I Drove The All-Electric Jeep Recon. It Wasn’t What I Expected",
+          "title": "The All-Electric Jeep Recon Beats The Wrangler In One Key Way. But It's Still Flawed.",
           "link": "https://insideevs.com/reviews/807593/jeep-recon-moab-first-drive/",
           "source": "InsideEVs",
           "published": "2026-09-09T04:01:00+00:00"
@@ -139,12 +193,6 @@
           "published": "2026-09-08T17:27:54+00:00"
         },
         {
-          "title": "Continuing Labor Day Green Deals hub – EVs, power stations, tools, smart devices, more [Updated]",
-          "link": "https://electrek.co/2026/09/08/labor-day-green-deals-hub-evs-power-stations-tools-smart-devices-more/",
-          "source": "Electrek",
-          "published": "2026-09-08T16:57:12+00:00"
-        },
-        {
           "title": "Tesla Cybercab's Backup Steering Wheel Is A Giant On-Screen Joystick",
           "link": "https://insideevs.com/news/807539/tesla-cybercab-hidden-screen-controls/",
           "source": "InsideEVs",
@@ -197,62 +245,20 @@
           "link": "https://insideevs.com/news/807501/phev-emissions-six-times-higher/",
           "source": "InsideEVs",
           "published": "2026-09-08T10:34:22+00:00"
-        },
-        {
-          "title": "2027 Chevrolet Bolt 70-MPH Range Test: Here’s How Far America’s Cheapest EV Goes",
-          "link": "https://insideevs.com/news/807502/2027-chevrolet-bolt-ev-70-mph-highway-range-test/",
-          "source": "InsideEVs",
-          "published": "2026-09-08T10:32:07+00:00"
-        },
-        {
-          "title": "ENGWE’s new E26 3.0 e-bike packs dual motors, full suspension, and half a deer",
-          "link": "https://electrek.co/2026/09/08/engwes-new-e26-3-0-packs-dual-motors-full-suspension-and-tons-of-torque/",
-          "source": "Electrek",
-          "published": "2026-09-08T10:22:51+00:00"
-        },
-        {
-          "title": "Polestar’s New Concept Hints At What’s Coming To Its Next Two EVs",
-          "link": "https://insideevs.com/news/807486/polestar-formula-2030-concept-teaser/",
-          "source": "InsideEVs",
-          "published": "2026-09-08T09:22:41+00:00"
-        },
-        {
-          "title": "A Mercedes-Backed Company Just Put Solid-State Batteries Into Mass Production",
-          "link": "https://insideevs.com/news/807472/solid-state-battery-mass-production-prologium/",
-          "source": "InsideEVs",
-          "published": "2026-09-08T07:48:13+00:00"
-        },
-        {
-          "title": "Dacia’s Answer To Cheap Chinese EVs Used To Be One. Now It’s European",
-          "link": "https://insideevs.com/news/807452/all-new-dacia-spring-revealed/",
-          "source": "InsideEVs",
-          "published": "2026-09-08T05:24:40+00:00"
-        },
-        {
-          "title": "XPeng starts IRON humanoid robot production as Tesla Optimus stalls",
-          "link": "https://electrek.co/2026/09/07/xpeng-iron-humanoid-robot-production-line/",
-          "source": "Electrek",
-          "published": "2026-09-08T02:40:34+00:00"
-        },
-        {
-          "title": "China’s clean energy surge is starting to squeeze out coal",
-          "link": "https://electrek.co/2026/09/07/chinas-clean-energy-surge-is-starting-to-squeeze-out-coal/",
-          "source": "Electrek",
-          "published": "2026-09-07T22:00:00+00:00"
-        },
-        {
-          "title": "This family of four put 1,000 km on a cargo e-bike instead of buying a second car",
-          "link": "https://electrek.co/2026/09/07/this-family-of-four-put-1000-km-on-a-cargo-e-bike-instead-of-buying-a-second-car/",
-          "source": "Electrek",
-          "published": "2026-09-07T18:54:15+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 20,
+      "count": 21,
       "items": [
+        {
+          "title": "Yozma electric mini dirt bikes exclusive $595 savings, EcoFlow flash 2x 3,072Wh DELTA 3 Ultra power stations $1,800 off, EGO, more",
+          "link": "https://electrek.co/2026/09/09/yozma-electric-mini-dirt-bikes-exclusive-ecoflow-3072wh-delta-3-ultra-power-stations-ego-more/",
+          "source": "Electrek",
+          "published": "2026-09-09T18:00:00+00:00"
+        },
         {
           "title": "Energy Vault Scaled Gravity Storage. The Battery Benchmark Is Brutal.",
           "link": "https://cleantechnica.com/2026/09/09/energy-vault-gravity-storage-vs-bess/",
@@ -472,10 +478,22 @@
       "count": 22,
       "items": [
         {
-          "title": "비앤비스틸, 농업용 ‘카우봇’ 첫 시연회 개최",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48397",
+          "title": "케이엔알시스템, 12미터 로보트 태권브이 국내에 첫 설치",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48398",
           "source": "로봇신문",
-          "published": "2026-09-09T23:48:58+00:00"
+          "published": "2026-09-10T01:46:53+00:00"
+        },
+        {
+          "title": "Unitree shares down 53% from IPO debut",
+          "link": "https://www.therobotreport.com/unitree-shares-down-53-from-ipo-debut/",
+          "source": "The Robot Report",
+          "published": "2026-09-09T19:34:57+00:00"
+        },
+        {
+          "title": "AGIBOT to explain how to scale humanoids from the lab to the real world at RoboBusiness",
+          "link": "https://www.therobotreport.com/agibot-share-plans-scale-humanoids-from-lab-to-real-world-at-robobusiness/",
+          "source": "The Robot Report",
+          "published": "2026-09-09T16:43:28+00:00"
         },
         {
           "title": "Vention opens Physical AI Lab for manufacturing in Montreal",
@@ -574,18 +592,6 @@
           "published": "2026-09-04T16:00:05+00:00"
         },
         {
-          "title": "Lyte raises $165M to help robots better sense their surroundings",
-          "link": "https://www.therobotreport.com/lyte-raises-165m-help-robots-better-sense-their-surroundings/",
-          "source": "The Robot Report",
-          "published": "2026-09-04T14:32:52+00:00"
-        },
-        {
-          "title": "Robot.com partners with Sodexo to roll out more sidewalk delivery robots",
-          "link": "https://www.therobotreport.com/robot-com-partners-sodexo-rolls-out-more-sidewalk-delivery-robots/",
-          "source": "The Robot Report",
-          "published": "2026-09-04T14:15:23+00:00"
-        },
-        {
           "title": "Protecting Dynamic Industrial Robot Cable Carriers",
           "link": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
           "source": "IEEE Spectrum",
@@ -611,10 +617,10 @@
       "count": 1,
       "items": [
         {
-          "title": "클로드 유료 계정 토큰 탈취 잇달아…'인포스틸러' 주의보",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215037",
+          "title": "과기부, 프랑스와 AI·양자기술 협력 강화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215061",
           "source": "AI타임스",
-          "published": "2026-09-09T19:08:23+00:00"
+          "published": "2026-09-09T22:00:00+00:00"
         }
       ]
     }
