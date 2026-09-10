@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-09-10T03:00:56.099544+00:00",
+  "generated_at": "2026-09-10T10:34:42.243867+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "메르세데스-벤츠 코리아, 스타트업 아우토반 코리아 2026을 통해 국내 4개 스타트업 기술 검증 돌입",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44499",
+          "source": "모터그래프",
+          "published": "2026-09-10T17:26:31+00:00"
+        },
+        {
+          "title": "EVs Cost A Lot Less To Drive Than Gas Cars in Europe—Even With Public Charging",
+          "link": "https://insideevs.com/news/807801/ev-vs-gas-running-costs-europe/",
+          "source": "InsideEVs",
+          "published": "2026-09-10T10:30:06+00:00"
+        },
+        {
+          "title": "The Volvo EX40 EV Is Dead In The U.S.",
+          "link": "https://insideevs.com/news/807767/volvo-ex40-dead-us/",
+          "source": "InsideEVs",
+          "published": "2026-09-10T07:56:07+00:00"
+        },
+        {
+          "title": "ZF Wants You To Repair Rather Than Replace Your EV’s Drive Unit",
+          "link": "https://insideevs.com/news/807761/zf-drive-unit-repair-kits/",
+          "source": "InsideEVs",
+          "published": "2026-09-10T07:19:28+00:00"
+        },
+        {
+          "title": "EVgo Is Adding More Fast Chargers Where You Buy Groceries",
+          "link": "https://insideevs.com/news/807746/evgo-regency-fast-charging-expansion/",
+          "source": "InsideEVs",
+          "published": "2026-09-10T05:29:34+00:00"
+        },
+        {
+          "title": "US solar can now power 50M homes – and red states led the boom",
+          "link": "https://electrek.co/2026/09/09/483577/",
+          "source": "Electrek",
+          "published": "2026-09-10T04:01:00+00:00"
+        },
         {
           "title": "Check Out The Ferrari Luce EV's New Look",
           "link": "https://insideevs.com/news/807731/ferrari-luce-vossen-wheels/",
@@ -53,12 +89,6 @@
           "link": "https://electrek.co/2026/09/09/first-look-nissans-new-entry-level-pixo-ev-images/",
           "source": "Electrek",
           "published": "2026-09-09T17:07:05+00:00"
-        },
-        {
-          "title": "완벽한 개인화 모빌리티의 산실, 기아 오토랜드 화성",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44483",
-          "source": "모터그래프",
-          "published": "2026-09-09T17:04:53+00:00"
         },
         {
           "title": "This Electric Camper SUV Has Heated Floors, A Loft, And Built-In Storage. See The SkyNomad N90 Max Studio.",
@@ -215,36 +245,6 @@
           "link": "https://insideevs.com/news/807539/tesla-cybercab-hidden-screen-controls/",
           "source": "InsideEVs",
           "published": "2026-09-08T16:40:04+00:00"
-        },
-        {
-          "title": "Tesla Cybercab has a hidden virtual joystick to drive it manually",
-          "link": "https://electrek.co/2026/09/08/tesla-cybercab-hidden-virtual-joystick-manual-driving/",
-          "source": "Electrek",
-          "published": "2026-09-08T14:48:24+00:00"
-        },
-        {
-          "title": "BYD’s top-selling 1,100+ hp luxury GT is about to get a bit cheaper",
-          "link": "https://electrek.co/2026/09/08/byds-top-selling-electric-luxury-gt-cheaper/",
-          "source": "Electrek",
-          "published": "2026-09-08T14:02:08+00:00"
-        },
-        {
-          "title": "Plug-in Hybrids emit 6x more pollution than claimed, and they’re getting dirtier",
-          "link": "https://electrek.co/2026/09/08/plug-in-hybrids-emit-6x-more-than-claimed-and-theyre-getting-dirtier/",
-          "source": "Electrek",
-          "published": "2026-09-08T14:00:00+00:00"
-        },
-        {
-          "title": "Watch Tesla FSD Navigate Denmark's Tightest, Toughest Street",
-          "link": "https://insideevs.com/news/807526/tesla-fsd-aarhus-center-ride/",
-          "source": "InsideEVs",
-          "published": "2026-09-08T13:45:31+00:00"
-        },
-        {
-          "title": "Polestar confirms Formula 2030 concept previewing next Polestar 2 and 7",
-          "link": "https://electrek.co/2026/09/08/polestar-formula-2030-concept-car/",
-          "source": "Electrek",
-          "published": "2026-09-08T12:42:03+00:00"
         }
       ]
     },
@@ -378,8 +378,14 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 14,
+      "count": 15,
       "items": [
+        {
+          "title": "ZF Wants You To Repair Rather Than Replace Your EV’s Drive Unit",
+          "link": "https://insideevs.com/news/807761/zf-drive-unit-repair-kits/",
+          "source": "InsideEVs",
+          "published": "2026-09-10T07:19:28+00:00"
+        },
         {
           "title": "혼다코리아, 어린이 눈높이 맞춘 교통안전교육 진행",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44485",
@@ -472,10 +478,10 @@
       "count": 22,
       "items": [
         {
-          "title": "케이엔알시스템, 12미터 로보트 태권브이 국내에 첫 설치",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48398",
+          "title": "현대모비스, 로봇용 액추에이터 2종 처음 공개한다",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48422",
           "source": "로봇신문",
-          "published": "2026-09-10T01:46:53+00:00"
+          "published": "2026-09-10T17:39:14+00:00"
         },
         {
           "title": "What bricklaying has taught Monumental about robots in construction",
@@ -608,13 +614,247 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 1,
+      "count": 40,
       "items": [
         {
-          "title": "아프리카, 태양광 패널 생산 올해 3.5GW 전망…94%는 중국산",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215072",
+          "title": "앤트로픽, 클로드 API 비용 절감 방법 공개…‘지침 부채’ 없애고 캐싱 활용",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215093",
           "source": "AI타임스",
-          "published": "2026-09-10T11:15:00+00:00"
+          "published": "2026-09-10T18:15:33+00:00"
+        },
+        {
+          "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+          "link": "https://arxiv.org/abs/2609.05437",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
+          "link": "https://arxiv.org/abs/2609.05439",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+          "link": "https://arxiv.org/abs/2609.05441",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
+          "link": "https://arxiv.org/abs/2609.05446",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
+          "link": "https://arxiv.org/abs/2609.05448",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "Compiling VGDL into Causal Models",
+          "link": "https://arxiv.org/abs/2609.05459",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "ARC-Bench: Closed-Loop Replanning Masks Broken Action Ranking in Frozen JEPA World Models",
+          "link": "https://arxiv.org/abs/2609.05461",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "RAPID: Reliability-Aware Pair Importance Distillation",
+          "link": "https://arxiv.org/abs/2609.05481",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "PGP-Clinical-TimeKAN: Prior-Guided Joint Probabilistic Forecasting of Clinical Trajectories",
+          "link": "https://arxiv.org/abs/2609.05488",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "SciLitBench: Benchmark and Design Principles for LLM-Powered Systematic Literature Reviews",
+          "link": "https://arxiv.org/abs/2609.05505",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "SCAFFOLD: Self-Improving Web Agents via Recursive Parametric Skill Abstraction",
+          "link": "https://arxiv.org/abs/2609.05511",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "Reasoning-Aware Compression: Identifying and Protecting Vulnerable Reasoning Circuits for Energy-Efficient LLM Deployment",
+          "link": "https://arxiv.org/abs/2609.05512",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "When and What to Teach: Budget-Aware Online Adaptation for Web Agents",
+          "link": "https://arxiv.org/abs/2609.05513",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "The Failure Happens Before the Drift: The Social Dynamics of Values in LLM Agent Societies",
+          "link": "https://arxiv.org/abs/2609.05514",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "Beyond \"AI Helps Humans\": Decision-Targeted Evaluation Design for Human-Agent Teams in the Agentic Era",
+          "link": "https://arxiv.org/abs/2609.05527",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "EdgeMem: LLM-Free Agent Memory Construction and Retrieval via Evidence-Preserving Multi-Anchor Hypergraph",
+          "link": "https://arxiv.org/abs/2609.05553",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "Deep belief networks are exact",
+          "link": "https://arxiv.org/abs/2609.05572",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "EnvCraft: Synthesizing Executable Environments in Agentic RL for Claw-like Agent",
+          "link": "https://arxiv.org/abs/2609.05576",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "Planning and Scheduling Business Processes under Control-Flow Uncertainty",
+          "link": "https://arxiv.org/abs/2609.05578",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "Agents Trust Tools Too Much: Measuring Reliance on Unreliable Tools",
+          "link": "https://arxiv.org/abs/2609.05587",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "The convergent laboratory: when AI reasoning, autonomous experiments, high performance and quantum computing reshape chemistry",
+          "link": "https://arxiv.org/abs/2609.05643",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "What LLM Trading Agents Actually Do in Production: A Six-Month, Population-Scale Record from Two Fleets",
+          "link": "https://arxiv.org/abs/2609.05663",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "CUSP: Decomposable Collective Uncertainty for Multi-Agent Multimodal Reasoning",
+          "link": "https://arxiv.org/abs/2609.05708",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "Recovering Temporal and Geographic Signals from Language Model Embeddings",
+          "link": "https://arxiv.org/abs/2609.05721",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "Beyond Prompts: Measuring and Optimizing LLM Tool-Agent Harnesses",
+          "link": "https://arxiv.org/abs/2609.05736",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "The Normalization of Deviance in AI Development",
+          "link": "https://arxiv.org/abs/2609.05749",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "From Monolithic Blending to Agentic Orchestration: Dynamic Response for Conversational Assistants at Scale",
+          "link": "https://arxiv.org/abs/2609.05758",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "Inference-Time Graph Engineering for Multi-Agent LLM Workflows",
+          "link": "https://arxiv.org/abs/2609.05774",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "DI-Bench: Systematically Generating In-Domain Data Intelligence Benchmarks for Enterprise Agents",
+          "link": "https://arxiv.org/abs/2609.05776",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "Distilling Vision-Language Models for On-Device Fire Understanding",
+          "link": "https://arxiv.org/abs/2609.05782",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "More Than Mimicking Reviewers: Evaluating LLMs for Pre-Submission Peer Review",
+          "link": "https://arxiv.org/abs/2609.05788",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "Spillover-Aware Multi-Value Steering for Pluralistic LLM Alignment",
+          "link": "https://arxiv.org/abs/2609.05800",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "Evidence-Aligned Local Composition of Discrete Experts for Sequence Restoration",
+          "link": "https://arxiv.org/abs/2609.05801",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "Exposing Weaknesses in Emotion Recognition in Conversations",
+          "link": "https://arxiv.org/abs/2609.05806",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "Agentic BAIM-LLM Evaluation (ABLE): Benchmarking LLM Use of Protein Design Tools",
+          "link": "https://arxiv.org/abs/2609.05818",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "Beyond Top-$k$ Skill Retrieval: Diversity-Aware Skill Routing for LLM Agents",
+          "link": "https://arxiv.org/abs/2609.05824",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "Learning Counterfactual World Models for Embodied Reasoning under Partial Observability",
+          "link": "https://arxiv.org/abs/2609.05834",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "AgentBrew: Offline Tool-Use Agent Learning from Raw Real-World Trajectories",
+          "link": "https://arxiv.org/abs/2609.05837",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
+        },
+        {
+          "title": "Multimodal Resource-Exhaustion Attacks on Vision-Language Models via Joint Pixel-Prompt Optimization",
+          "link": "https://arxiv.org/abs/2609.05889",
+          "source": "arXiv cs.AI",
+          "published": "2026-09-10T04:00:00+00:00"
         }
       ]
     }
