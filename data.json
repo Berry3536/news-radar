@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-09-09T20:23:05.179855+00:00",
+  "generated_at": "2026-09-10T03:00:56.099544+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Check Out The Ferrari Luce EV's New Look",
+          "link": "https://insideevs.com/news/807731/ferrari-luce-vossen-wheels/",
+          "source": "InsideEVs",
+          "published": "2026-09-09T22:50:36+00:00"
+        },
+        {
+          "title": "Toyota is recalling 10,000 electric C-HR SUVs",
+          "link": "https://electrek.co/2026/09/09/toyota-recalling-10000-electric-c-hr-suvs/",
+          "source": "Electrek",
+          "published": "2026-09-09T21:06:35+00:00"
+        },
+        {
+          "title": "More And More Americans Are Interested In EVs: Study",
+          "link": "https://insideevs.com/news/807725/americans-want-more-evs/",
+          "source": "InsideEVs",
+          "published": "2026-09-09T20:23:53+00:00"
+        },
         {
           "title": "The Genesis GV90 transforms into a private luxury theater with a pop-up 24.6″ display",
           "link": "https://electrek.co/2026/09/09/genesis-gv90-luxury-theater-pop-up-24-6-screen/",
@@ -199,12 +217,6 @@
           "published": "2026-09-08T16:40:04+00:00"
         },
         {
-          "title": "Toyota is recalling about 10,000 C-HR EVs",
-          "link": "https://electrek.co/2026/09/08/toyota-recalling-about-10000-c-hr-evs/",
-          "source": "Electrek",
-          "published": "2026-09-08T15:25:11+00:00"
-        },
-        {
           "title": "Tesla Cybercab has a hidden virtual joystick to drive it manually",
           "link": "https://electrek.co/2026/09/08/tesla-cybercab-hidden-virtual-joystick-manual-driving/",
           "source": "Electrek",
@@ -233,25 +245,13 @@
           "link": "https://electrek.co/2026/09/08/polestar-formula-2030-concept-car/",
           "source": "Electrek",
           "published": "2026-09-08T12:42:03+00:00"
-        },
-        {
-          "title": "Sold Out: Volkswagen’s Cheap ID. Polo EV Now Has Months-Long Wait Times",
-          "link": "https://insideevs.com/news/807512/vw-id-polo-sold-out-high-interest/",
-          "source": "InsideEVs",
-          "published": "2026-09-08T12:06:42+00:00"
-        },
-        {
-          "title": "Plug-In Hybrids Have An Emissions Problem. Carmakers Want To Delay The Fix",
-          "link": "https://insideevs.com/news/807501/phev-emissions-six-times-higher/",
-          "source": "InsideEVs",
-          "published": "2026-09-08T10:34:22+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 21,
+      "count": 20,
       "items": [
         {
           "title": "Yozma electric mini dirt bikes exclusive $595 savings, EcoFlow flash 2x 3,072Wh DELTA 3 Ultra power stations $1,800 off, EGO, more",
@@ -288,12 +288,6 @@
           "link": "https://cleantechnica.com/2026/09/08/r3-lithium-ev-battery-recycling-us-supply-chain/",
           "source": "CleanTechnica",
           "published": "2026-09-08T13:31:17+00:00"
-        },
-        {
-          "title": "A Mercedes-Backed Company Just Put Solid-State Batteries Into Mass Production",
-          "link": "https://insideevs.com/news/807472/solid-state-battery-mass-production-prologium/",
-          "source": "InsideEVs",
-          "published": "2026-09-08T07:48:13+00:00"
         },
         {
           "title": "These Legacy Automakers Lead the EV Transition in the United States — BEV Share of Auto Brand & Group Sales",
@@ -484,6 +478,12 @@
           "published": "2026-09-10T01:46:53+00:00"
         },
         {
+          "title": "What bricklaying has taught Monumental about robots in construction",
+          "link": "https://www.therobotreport.com/what-bricklaying-has-taught-monumental-about-robots-construction/",
+          "source": "The Robot Report",
+          "published": "2026-09-09T21:08:06+00:00"
+        },
+        {
           "title": "Unitree shares down 53% from IPO debut",
           "link": "https://www.therobotreport.com/unitree-shares-down-53-from-ipo-debut/",
           "source": "The Robot Report",
@@ -580,12 +580,6 @@
           "published": "2026-09-04T18:09:54+00:00"
         },
         {
-          "title": "Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar",
-          "link": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/",
-          "source": "The Robot Report",
-          "published": "2026-09-04T16:33:59+00:00"
-        },
-        {
           "title": "Video Friday: Digit Redecorates",
           "link": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
           "source": "IEEE Spectrum",
@@ -617,10 +611,10 @@
       "count": 1,
       "items": [
         {
-          "title": "과기부, 프랑스와 AI·양자기술 협력 강화",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215061",
+          "title": "아프리카, 태양광 패널 생산 올해 3.5GW 전망…94%는 중국산",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215072",
           "source": "AI타임스",
-          "published": "2026-09-09T22:00:00+00:00"
+          "published": "2026-09-10T11:15:00+00:00"
         }
       ]
     }
