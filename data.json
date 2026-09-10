@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:34:42.243867+00:00",
+  "generated_at": "2026-09-10T15:48:34.619490+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,36 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44499",
           "source": "모터그래프",
           "published": "2026-09-10T17:26:31+00:00"
+        },
+        {
+          "title": "Congressman presses DOT on Tesla FSD after 43 sleeping-driver videos",
+          "link": "https://electrek.co/2026/09/10/congressman-dot-tesla-fsd-sleeping-drivers/",
+          "source": "Electrek",
+          "published": "2026-09-10T15:48:13+00:00"
+        },
+        {
+          "title": "Volvo kills off another EV for the US, but it has a replacement coming in 2027",
+          "link": "https://electrek.co/2026/09/10/volvo-kills-off-another-ev-us-replacement-coming/",
+          "source": "Electrek",
+          "published": "2026-09-10T14:56:37+00:00"
+        },
+        {
+          "title": "Electric car sales doubled in Russia after Ukraine blew up oil refineries",
+          "link": "https://electrek.co/2026/09/10/electric-car-sales-doubled-in-russia-after-ukraine-blew-up-oil-refineries/",
+          "source": "Electrek",
+          "published": "2026-09-10T14:00:00+00:00"
+        },
+        {
+          "title": "Nanrobot LS7+ review: This 70 mph electric scooter is absolutely insane",
+          "link": "https://electrek.co/2026/09/10/nanrobot-ls7-review-this-70-mph-electric-scooter-is-absolutely-insane/",
+          "source": "Electrek",
+          "published": "2026-09-10T13:01:20+00:00"
+        },
+        {
+          "title": "Elon Musk’s Boring Company raises $3B at $23B valuation, led by UAE",
+          "link": "https://electrek.co/2026/09/10/boring-company-3-billion-series-d-23-billion-valuation-uae/",
+          "source": "Electrek",
+          "published": "2026-09-10T12:57:10+00:00"
         },
         {
           "title": "EVs Cost A Lot Less To Drive Than Gas Cars in Europe—Even With Public Charging",
@@ -215,44 +245,20 @@
           "link": "https://insideevs.com/news/807568/geely-ex2-drift-track-toy/",
           "source": "InsideEVs",
           "published": "2026-09-08T19:28:06+00:00"
-        },
-        {
-          "title": "Bluetti exclusive 6th Anniversary power station sale from $799, roborock RockMow X115H 4WD robot mower $799 off, more",
-          "link": "https://electrek.co/2026/09/08/bluetti-6th-anniversary-power-station-sale-roborock-rockmow-x115h-4wd-robot-mower-more/",
-          "source": "Electrek",
-          "published": "2026-09-08T18:00:00+00:00"
-        },
-        {
-          "title": "Is This Mullen Five Concept Car From A Failed Startup Worth Your Money?",
-          "link": "https://insideevs.com/news/807567/mullen-five-concept-for-sale/",
-          "source": "InsideEVs",
-          "published": "2026-09-08T17:59:33+00:00"
-        },
-        {
-          "title": "The rout continues: BEVs up, ICE way down in China in Aug, Tesla also down",
-          "link": "https://electrek.co/2026/09/08/bev-sales-grow-in-china-in-august-everything-else-drops-including-tesla/",
-          "source": "Electrek",
-          "published": "2026-09-08T17:48:13+00:00"
-        },
-        {
-          "title": "Volkswagen is launching a longer ID. Buzz Cargo LWB electric van",
-          "link": "https://electrek.co/2026/09/08/volkswagen-launching-longer-id-buzz-cargo-lwb-electric-van/",
-          "source": "Electrek",
-          "published": "2026-09-08T17:27:54+00:00"
-        },
-        {
-          "title": "Tesla Cybercab's Backup Steering Wheel Is A Giant On-Screen Joystick",
-          "link": "https://insideevs.com/news/807539/tesla-cybercab-hidden-screen-controls/",
-          "source": "InsideEVs",
-          "published": "2026-09-08T16:40:04+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 20,
+      "count": 18,
       "items": [
+        {
+          "title": "Could Jackery EnergyGuard Max Lead A Shift To Large Capacity Home Batteries?",
+          "link": "https://cleantechnica.com/2026/09/10/could-jackery-energyguard-max-lead-a-shift-to-large-capacity-home-batteries/",
+          "source": "CleanTechnica",
+          "published": "2026-09-10T14:42:14+00:00"
+        },
         {
           "title": "Yozma electric mini dirt bikes exclusive $595 savings, EcoFlow flash 2x 3,072Wh DELTA 3 Ultra power stations $1,800 off, EGO, more",
           "link": "https://electrek.co/2026/09/09/yozma-electric-mini-dirt-bikes-exclusive-ecoflow-3072wh-delta-3-ultra-power-stations-ego-more/",
@@ -332,12 +338,6 @@
           "published": "2026-09-05T14:02:14+00:00"
         },
         {
-          "title": "Donut Lab Reveals Amazing Performance Tests",
-          "link": "https://cleantechnica.com/2026/09/04/donut-lab-reveals-amazing-performance-tests/",
-          "source": "CleanTechnica",
-          "published": "2026-09-05T02:07:11+00:00"
-        },
-        {
           "title": "ENGWE E26 3.0 full suspension all-terrain e-bike launch deal, Navee Labor Day e-scooter sale, Tenways Wayfarer e-bike $877 off, more",
           "link": "https://electrek.co/2026/09/04/engwe-e26-3-0-all-terrain-e-bike-navee-labor-day-tenways-wayfarer-e-bike-more/",
           "source": "Electrek",
@@ -360,18 +360,6 @@
           "link": "https://electrek.co/2026/09/03/australia-ev-sales-outsell-petrol-august-2026/",
           "source": "Electrek",
           "published": "2026-09-03T12:33:57+00:00"
-        },
-        {
-          "title": "Donut Lab hits 409 Wh/kg in battery lab test, but credibility is gone",
-          "link": "https://electrek.co/2026/09/02/donut-lab-409-whkg-battery-test-no-production-ev/",
-          "source": "Electrek",
-          "published": "2026-09-02T12:46:08+00:00"
-        },
-        {
-          "title": "NeoVolta’s US battery factory gets a 9 GWh boost from SK On",
-          "link": "https://electrek.co/2026/09/01/neovoltas-us-battery-factory-gets-a-9-gwh-boost-from-sk-on/",
-          "source": "Electrek",
-          "published": "2026-09-01T22:43:04+00:00"
         }
       ]
     },
@@ -478,10 +466,10 @@
       "count": 22,
       "items": [
         {
-          "title": "현대모비스, 로봇용 액추에이터 2종 처음 공개한다",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48422",
+          "title": "제46회 전국장애인체전, 웨어러블 로봇 입고 미래를 달렸다",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48426",
           "source": "로봇신문",
-          "published": "2026-09-10T17:39:14+00:00"
+          "published": "2026-09-10T23:18:17+00:00"
         },
         {
           "title": "What bricklaying has taught Monumental about robots in construction",
