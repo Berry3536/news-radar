@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T15:50:19.810676+00:00",
+  "generated_at": "2026-09-11T20:25:01.845359+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,88 @@
       "count": 40,
       "items": [
         {
+          "title": "One panel per minute: Solar recycling is going big in Texas",
+          "link": "https://electrek.co/2026/09/11/one-panel-per-minute-solar-recycling-is-going-big-in-texas/",
+          "source": "Electrek",
+          "published": "2026-09-11T19:43:52+00:00"
+        },
+        {
+          "title": "Podcast: Tesla Semi, mixed bag of EV sales, Chinese EVs in the US, and more",
+          "link": "https://electrek.co/2026/09/11/podcast-tesla-semi-mixed-bag-of-ev-sales-chinese-evs-in-the-us-and-more/",
+          "source": "Electrek",
+          "published": "2026-09-11T19:40:59+00:00"
+        },
+        {
+          "title": "Lawmaker Demand Feds Take Action After 43 Tesla Drivers Filmed Asleep At The Wheel",
+          "link": "https://insideevs.com/news/807893/tesla-sleeping-congress-nhtsa-demand/",
+          "source": "InsideEVs",
+          "published": "2026-09-11T19:13:08+00:00"
+        },
+        {
+          "title": "EV prices are falling while the average new car tops $50K",
+          "link": "https://electrek.co/2026/09/11/ev-prices-are-falling-while-the-average-new-car-tops-50k/",
+          "source": "Electrek",
+          "published": "2026-09-11T19:07:23+00:00"
+        },
+        {
+          "title": "Learn how to save money on gas at US Drive Electric Month events, all Sept.",
+          "link": "https://electrek.co/2026/09/11/learn-how-to-save-money-on-gas-at-us-drive-electric-month-events-all-month/",
+          "source": "Electrek",
+          "published": "2026-09-11T19:00:00+00:00"
+        },
+        {
+          "title": "Upcoming electric Porsche Boxster spotted with no camo on Nurburgring",
+          "link": "https://electrek.co/2026/09/11/upcoming-electric-porsche-boxster-spotted-with-no-camo-on-nurburgring/",
+          "source": "Electrek",
+          "published": "2026-09-11T18:47:03+00:00"
+        },
+        {
           "title": "575억 낙찰, 셸비 코브라 데이토나 쿠페, 페블비치 콩쿠르 드 엘레강스",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44500",
           "source": "모터그래프",
           "published": "2026-09-11T18:20:56+00:00"
+        },
+        {
+          "title": "Musk promotes blatant Tesla FSD misuse as crash lawyers rejoice",
+          "link": "https://electrek.co/2026/09/11/musk-promotes-tesla-fsd-misuse-98-year-old/",
+          "source": "Electrek",
+          "published": "2026-09-11T18:19:50+00:00"
+        },
+        {
+          "title": "Yozma IN 10 Pro electric mini dirt bike new exclusive $1,699 low + IN 10 at $999, Lectric e-bike sale $792 savings, Anker SOLIX, more",
+          "link": "https://electrek.co/2026/09/11/yozma-in-10-pro-electric-mini-dirt-bike-lectric-e-bike-sale-anker-solix-more/",
+          "source": "Electrek",
+          "published": "2026-09-11T18:00:00+00:00"
+        },
+        {
+          "title": "Hyundai’s IONIQ 6 N looks ready for its US launch with a fresh new attitude [Image]",
+          "link": "https://electrek.co/2026/09/11/hyundais-ioniq-6-n-looks-ready-us-launch-image/",
+          "source": "Electrek",
+          "published": "2026-09-11T17:55:21+00:00"
+        },
+        {
+          "title": "Court blocks Trump from forcing open a dead coal plant that no one wants open",
+          "link": "https://electrek.co/2026/09/11/court-blocks-trump-from-reopening-broken-coal-plant-that-no-one-wants-open/",
+          "source": "Electrek",
+          "published": "2026-09-11T17:48:45+00:00"
+        },
+        {
+          "title": "First look at Tesla Cybercab’s steering: a Cybertruck wheel bolted on",
+          "link": "https://electrek.co/2026/09/11/tesla-cybercab-steering-wheel-assembly-first-look/",
+          "source": "Electrek",
+          "published": "2026-09-11T17:24:39+00:00"
+        },
+        {
+          "title": "Europe's First Truly Driverless Robotaxi Just Started Rides In Croatia",
+          "link": "https://insideevs.com/news/808004/verne-rimac-ponyai-uber-robotaxi-europe/",
+          "source": "InsideEVs",
+          "published": "2026-09-11T17:01:28+00:00"
+        },
+        {
+          "title": "Nissan undercuts Kia to retake the crown as Canada’s most affordable EV",
+          "link": "https://electrek.co/2026/09/11/nissan-undercuts-kia-retake-title-canadas-most-affordable-ev/",
+          "source": "Electrek",
+          "published": "2026-09-11T16:03:20+00:00"
         },
         {
           "title": "China Has Already Exported More Cars Than Last Year",
@@ -59,6 +137,12 @@
           "link": "https://insideevs.com/news/807969/tesla-cybertruck-home-power-backup-powerwall/",
           "source": "InsideEVs",
           "published": "2026-09-11T12:37:15+00:00"
+        },
+        {
+          "title": "Continuing post-Labor Day Green Deals hub – EVs, power stations, tools, smart devices, more [Updated]",
+          "link": "https://electrek.co/2026/09/11/labor-day-green-deals-hub-evs-power-stations-tools-smart-devices-more/",
+          "source": "Electrek",
+          "published": "2026-09-11T12:00:00+00:00"
         },
         {
           "title": "This 80 MPH Chevy Bolt Range Test Shows The Value Of Not Speeding",
@@ -161,98 +245,20 @@
           "link": "https://electrek.co/2026/09/10/volkswagen-id-buzz-gains-new-camera-system-and-more-2027/",
           "source": "Electrek",
           "published": "2026-09-10T16:29:16+00:00"
-        },
-        {
-          "title": "Congressman presses DOT on Tesla FSD after 43 sleeping-driver videos",
-          "link": "https://electrek.co/2026/09/10/congressman-dot-tesla-fsd-sleeping-drivers/",
-          "source": "Electrek",
-          "published": "2026-09-10T15:48:13+00:00"
-        },
-        {
-          "title": "Volvo kills off another EV for the US, but it has a replacement coming in 2027",
-          "link": "https://electrek.co/2026/09/10/volvo-kills-off-another-ev-us-replacement-coming/",
-          "source": "Electrek",
-          "published": "2026-09-10T14:56:37+00:00"
-        },
-        {
-          "title": "Electric car sales doubled in Russia after Ukraine blew up oil refineries",
-          "link": "https://electrek.co/2026/09/10/electric-car-sales-doubled-in-russia-after-ukraine-blew-up-oil-refineries/",
-          "source": "Electrek",
-          "published": "2026-09-10T14:00:00+00:00"
-        },
-        {
-          "title": "Nanrobot LS7+ review: This 70 mph electric scooter is absolutely insane",
-          "link": "https://electrek.co/2026/09/10/nanrobot-ls7-review-this-70-mph-electric-scooter-is-absolutely-insane/",
-          "source": "Electrek",
-          "published": "2026-09-10T13:01:20+00:00"
-        },
-        {
-          "title": "Elon Musk’s Boring Company raises $3B at $23B valuation, led by UAE",
-          "link": "https://electrek.co/2026/09/10/boring-company-3-billion-series-d-23-billion-valuation-uae/",
-          "source": "Electrek",
-          "published": "2026-09-10T12:57:10+00:00"
-        },
-        {
-          "title": "Continuing post-Labor Day Green Deals hub – EVs, power stations, tools, smart devices, more [Updated]",
-          "link": "https://electrek.co/2026/09/10/labor-day-green-deals-hub-evs-power-stations-tools-smart-devices-more/",
-          "source": "Electrek",
-          "published": "2026-09-10T12:00:00+00:00"
-        },
-        {
-          "title": "EVs Cost A Lot Less To Drive Than Gas Cars in Europe—Even With Public Charging",
-          "link": "https://insideevs.com/news/807801/ev-vs-gas-running-costs-europe/",
-          "source": "InsideEVs",
-          "published": "2026-09-10T10:30:06+00:00"
-        },
-        {
-          "title": "The Volvo EX40 EV Is Dead In The U.S.",
-          "link": "https://insideevs.com/news/807767/volvo-ex40-dead-us/",
-          "source": "InsideEVs",
-          "published": "2026-09-10T07:56:07+00:00"
-        },
-        {
-          "title": "ZF Wants You To Repair Rather Than Replace Your EV’s Drive Unit",
-          "link": "https://insideevs.com/news/807761/zf-drive-unit-repair-kits/",
-          "source": "InsideEVs",
-          "published": "2026-09-10T07:19:28+00:00"
-        },
-        {
-          "title": "EVgo Is Adding More Fast Chargers Where You Buy Groceries",
-          "link": "https://insideevs.com/news/807746/evgo-regency-fast-charging-expansion/",
-          "source": "InsideEVs",
-          "published": "2026-09-10T05:29:34+00:00"
-        },
-        {
-          "title": "US solar can now power 50M homes – and red states led the boom",
-          "link": "https://electrek.co/2026/09/09/483577/",
-          "source": "Electrek",
-          "published": "2026-09-10T04:01:00+00:00"
-        },
-        {
-          "title": "Check Out The Ferrari Luce EV's New Look",
-          "link": "https://insideevs.com/news/807731/ferrari-luce-vossen-wheels/",
-          "source": "InsideEVs",
-          "published": "2026-09-09T22:50:36+00:00"
-        },
-        {
-          "title": "More And More Americans Are Interested In EVs: Study",
-          "link": "https://insideevs.com/news/807725/americans-want-more-evs/",
-          "source": "InsideEVs",
-          "published": "2026-09-09T20:23:53+00:00"
-        },
-        {
-          "title": "The Genesis GV90 transforms into a private luxury theater with a pop-up 24.6″ display",
-          "link": "https://electrek.co/2026/09/09/genesis-gv90-luxury-theater-pop-up-24-6-screen/",
-          "source": "Electrek",
-          "published": "2026-09-09T20:10:26+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 19,
+      "count": 17,
       "items": [
+        {
+          "title": "Upcoming electric Porsche Boxster spotted with no camo on Nurburgring",
+          "link": "https://electrek.co/2026/09/11/upcoming-electric-porsche-boxster-spotted-with-no-camo-on-nurburgring/",
+          "source": "Electrek",
+          "published": "2026-09-11T18:47:03+00:00"
+        },
         {
           "title": "BLUETTI Launches New Energy Solutions for Work, Home, & Life on the Move at IFA 2026",
           "link": "https://cleantechnica.com/2026/09/11/bluetti-launches-new-energy-solutions-for-work-home-life-on-the-move-at-ifa-2026/",
@@ -290,12 +296,6 @@
           "published": "2026-09-09T14:51:10+00:00"
         },
         {
-          "title": "LG’s Experimental LMR Battery Retained 92% Capacity After 883 Cycles",
-          "link": "https://insideevs.com/news/807675/lg-seoul-lmr-battery-research/",
-          "source": "InsideEVs",
-          "published": "2026-09-09T14:16:11+00:00"
-        },
-        {
           "title": "The rout continues: BEVs up, ICE way down in China in Aug, Tesla also down",
           "link": "https://electrek.co/2026/09/08/bev-sales-grow-in-china-in-august-everything-else-drops-including-tesla/",
           "source": "Electrek",
@@ -326,12 +326,6 @@
           "published": "2026-09-07T13:30:29+00:00"
         },
         {
-          "title": "US Lobby’s $1.1 Trillion Freight Rail Electrification Study Intentionally Asked The Wrong Question",
-          "link": "https://cleantechnica.com/2026/09/06/freight-rail-electrification-study-wrong-question/",
-          "source": "CleanTechnica",
-          "published": "2026-09-06T18:42:22+00:00"
-        },
-        {
           "title": "Answering random Redditor’s questions with professional backup: home solar edition",
           "link": "https://electrek.co/2026/09/05/answering-random-redditors-questions-with-professional-backup-home-solar-edition/",
           "source": "Electrek",
@@ -360,19 +354,13 @@
           "link": "https://electrek.co/2026/09/03/evs-retain-battery-best-aviloo-largest-study/",
           "source": "Electrek",
           "published": "2026-09-03T18:27:26+00:00"
-        },
-        {
-          "title": "EVs outsell petrol in Australia for the first time, led by China",
-          "link": "https://electrek.co/2026/09/03/australia-ev-sales-outsell-petrol-august-2026/",
-          "source": "Electrek",
-          "published": "2026-09-03T12:33:57+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 14,
+      "count": 13,
       "items": [
         {
           "title": "575억 낙찰, 셸비 코브라 데이토나 쿠페, 페블비치 콩쿠르 드 엘레강스",
@@ -451,20 +439,20 @@
           "link": "https://electrek.co/2026/09/03/bevs-outsold-every-powertrain-in-august-so-why-is-uk-trying-to-roll-back-targets/",
           "source": "Electrek",
           "published": "2026-09-03T18:00:17+00:00"
-        },
-        {
-          "title": "A Tesla killed a motorcyclist on Autopilot/FSD, Tesla’s own data confirms",
-          "link": "https://electrek.co/2026/09/03/tesla-driver-assist-motorcyclist-moraine/",
-          "source": "Electrek",
-          "published": "2026-09-03T16:05:07+00:00"
         }
       ]
     },
     {
       "key": "robot",
       "label": "로봇",
-      "count": 24,
+      "count": 23,
       "items": [
+        {
+          "title": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
+          "link": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness/",
+          "source": "The Robot Report",
+          "published": "2026-09-11T19:49:40+00:00"
+        },
         {
           "title": "물류 자동화 스타트업 '베크나 로보틱스', 3100만 달러 투자 유치",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48434",
@@ -574,12 +562,6 @@
           "published": "2026-09-07T13:00:01+00:00"
         },
         {
-          "title": "MassRobotics shares member survey results around FCC restrictions",
-          "link": "https://www.therobotreport.com/massrobotics-shares-member-survey-results-around-fcc-restrictions/",
-          "source": "The Robot Report",
-          "published": "2026-09-07T12:30:16+00:00"
-        },
-        {
           "title": "Cyborg Roaches Can Stab You With Needles",
           "link": "https://spectrum.ieee.org/cyborg-rescue-roach",
           "source": "IEEE Spectrum",
@@ -602,12 +584,6 @@
           "link": "https://spectrum.ieee.org/moon-ball-robot",
           "source": "IEEE Spectrum",
           "published": "2026-09-03T12:00:01+00:00"
-        },
-        {
-          "title": "Video Friday: Meet Microduck",
-          "link": "https://spectrum.ieee.org/video-friday-microduck-robot",
-          "source": "IEEE Spectrum",
-          "published": "2026-08-28T16:00:03+00:00"
         }
       ]
     },
@@ -617,8 +593,8 @@
       "count": 40,
       "items": [
         {
-          "title": "오픈AI, 전이중 음성 모델 'GPT-라이브-1' API 출시...\"실시간 대화 에이전트 구현\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215145",
+          "title": "한전KDN, 에이치투와 에너지ICT·차세대 배터리 결합으로 차세대전력망 시장 선도",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215179",
           "source": "AI타임스",
           "published": "2026-09-11T16:55:00+00:00"
         },
