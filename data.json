@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T20:24:09.551046+00:00",
+  "generated_at": "2026-09-11T02:56:47.261562+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,13 +7,37 @@
       "count": 40,
       "items": [
         {
+          "title": "New, 50-ton Volvo EC500 Electric excavator never needs charging",
+          "link": "https://electrek.co/2026/09/10/new-50-ton-volvo-ec500-electric-excavator-never-needs-charging/",
+          "source": "Electrek",
+          "published": "2026-09-11T00:46:14+00:00"
+        },
+        {
+          "title": "The Boring Company Raises $3 Billion To Help Put More Teslas In Tunnels",
+          "link": "https://insideevs.com/news/807892/boring-company-investment-uae-tunnels/",
+          "source": "InsideEVs",
+          "published": "2026-09-11T00:22:49+00:00"
+        },
+        {
+          "title": "EV sales are booming in Europe – and plunging in North America",
+          "link": "https://electrek.co/2026/09/10/ev-sales-are-booming-in-europe-and-plunging-in-north-america/",
+          "source": "Electrek",
+          "published": "2026-09-10T23:01:00+00:00"
+        },
+        {
+          "title": "Ford bids farewell to the F-150 Lightning as new Fathom and EREV pickups near",
+          "link": "https://electrek.co/2026/09/10/ford-bids-farewell-f-150-lightning-fathom-pickup-nears/",
+          "source": "Electrek",
+          "published": "2026-09-10T21:19:27+00:00"
+        },
+        {
           "title": "I Drove All The New Toyota EVs. Here’s My Pick—And How To Choose",
           "link": "https://insideevs.com/reviews/807569/toyota-bz-chr-woodland-ev-comparison-review/",
           "source": "InsideEVs",
           "published": "2026-09-10T20:15:33+00:00"
         },
         {
-          "title": "Volkswagen Just Added New Assisted Driving Tech To The ID.Buzz",
+          "title": "The VW ID.Buzz Will Get Assisted Lane Changes And Pedestrian Detection",
           "link": "https://insideevs.com/news/807876/vw-iq-drive-adas/",
           "source": "InsideEVs",
           "published": "2026-09-10T20:07:09+00:00"
@@ -221,30 +245,6 @@
           "link": "https://electrek.co/2026/09/09/byd-cuts-denza-z9-gt-ev-prices-new-50000-premium-trim/",
           "source": "Electrek",
           "published": "2026-09-09T14:13:12+00:00"
-        },
-        {
-          "title": "Data confirms Autopilot/FSD was active in crash that killed a mother, passerby saved her baby",
-          "link": "https://electrek.co/2026/09/09/tesla-driver-assist-road-departure-vinemont/",
-          "source": "Electrek",
-          "published": "2026-09-09T14:12:20+00:00"
-        },
-        {
-          "title": "Tesla Will Make Supercharger Stations Just For Robotaxis",
-          "link": "https://insideevs.com/news/807667/tesla-supercharger-robotaxi-dedicated/",
-          "source": "InsideEVs",
-          "published": "2026-09-09T12:44:37+00:00"
-        },
-        {
-          "title": "RGNT’s 85 MPH retro electric motorcycle just got a scrambler makeover",
-          "link": "https://electrek.co/2026/09/09/rgnts-85-mph-retro-electric-motorcycle-just-got-a-scrambler-makeover/",
-          "source": "Electrek",
-          "published": "2026-09-09T09:42:00+00:00"
-        },
-        {
-          "title": "The Slate Truck’s Trailer Hitch Installation Is As Simple As It Gets",
-          "link": "https://insideevs.com/news/807633/slate-truck-trailer-hitch-installation/",
-          "source": "InsideEVs",
-          "published": "2026-09-09T09:18:25+00:00"
         }
       ]
     },
@@ -469,13 +469,19 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 22,
+      "count": 23,
       "items": [
         {
           "title": "제46회 전국장애인체전, 웨어러블 로봇 입고 미래를 달렸다",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48426",
           "source": "로봇신문",
           "published": "2026-09-10T23:18:17+00:00"
+        },
+        {
+          "title": "Teradyne Robotics sues JAKA over 3 Universal Robots patents",
+          "link": "https://www.therobotreport.com/teradyne-robotics-sues-jaka-over-3-universal-robots-patents/",
+          "source": "The Robot Report",
+          "published": "2026-09-10T22:14:26+00:00"
         },
         {
           "title": "Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M",
@@ -488,6 +494,12 @@
           "link": "https://www.therobotreport.com/comau-automates-picking-handling-and-palletizing-for-decathlon/",
           "source": "The Robot Report",
           "published": "2026-09-10T18:49:08+00:00"
+        },
+        {
+          "title": "Robots Are Learning to Feel",
+          "link": "https://spectrum.ieee.org/tactile-data-robots",
+          "source": "IEEE Spectrum",
+          "published": "2026-09-10T18:22:35+00:00"
         },
         {
           "title": "What bricklaying has taught Monumental about robots in construction",
@@ -568,12 +580,6 @@
           "published": "2026-09-06T12:30:17+00:00"
         },
         {
-          "title": "ARM Institute gets $90M for 10 projects to modernize military manufacturing",
-          "link": "https://www.therobotreport.com/arm-institute-gets-90m-for-10-projects-to-modernize-military-manufacturing/",
-          "source": "The Robot Report",
-          "published": "2026-09-05T14:22:41+00:00"
-        },
-        {
           "title": "Cyborg Roaches Can Stab You With Needles",
           "link": "https://spectrum.ieee.org/cyborg-rescue-roach",
           "source": "IEEE Spectrum",
@@ -611,10 +617,10 @@
       "count": 40,
       "items": [
         {
-          "title": "앤트로픽, 클로드 API 비용 절감 방법 공개…‘지침 부채’ 없애고 캐싱 활용",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215093",
+          "title": "\"차량 개조 없이 자율주행 가능\"...바이다, 스마트카 국책과제 선정",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215135",
           "source": "AI타임스",
-          "published": "2026-09-10T18:15:33+00:00"
+          "published": "2026-09-11T11:42:45+00:00"
         },
         {
           "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
