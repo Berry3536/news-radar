@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-09-12T14:57:43.804467+00:00",
+  "generated_at": "2026-09-12T20:09:51.046680+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Tesla Confirms Next-Generation Roadster Reveal On October 1",
+          "link": "https://insideevs.com/news/808054/tesla-roadster-ev-october-2026-reveal/",
+          "source": "InsideEVs",
+          "published": "2026-09-12T19:26:59+00:00"
+        },
+        {
+          "title": "Tesla teases new Roadster reveal for October 1: ‘Go for launch’",
+          "link": "https://electrek.co/2026/09/12/tesla-roadster-october-1-reveal-teaser/",
+          "source": "Electrek",
+          "published": "2026-09-12T19:15:44+00:00"
+        },
+        {
+          "title": "Last year, BYD bought the world’s largest car carrier – they just ordered 10 more",
+          "link": "https://electrek.co/2026/09/12/last-year-byd-bought-the-worlds-largest-car-carrier-they-just-ordered-10-more/",
+          "source": "Electrek",
+          "published": "2026-09-12T17:07:36+00:00"
+        },
+        {
+          "title": "E-quipment highlight: wreck stuff anywhere with CASE TL100EV [video]",
+          "link": "https://electrek.co/2026/09/12/e-quipment-highlight-wreck-stuff-anywhere-with-case-tl100ev-video/",
+          "source": "Electrek",
+          "published": "2026-09-12T15:46:32+00:00"
+        },
+        {
+          "title": "This 2,000W electric scooter hits 34 mph – and Electrek readers save 5%",
+          "link": "https://electrek.co/2026/09/12/this-2000w-electric-scooter-hits-34-mph-and-electrek-readers-save-5/",
+          "source": "Electrek",
+          "published": "2026-09-12T15:00:00+00:00"
+        },
         {
           "title": "New fleet of battery electric trains promises faster, more reliable UK travel",
           "link": "https://electrek.co/2026/09/12/new-fleet-of-battery-electric-trains-promises-faster-more-reliable-uk-travel/",
@@ -31,7 +61,7 @@
           "published": "2026-09-12T13:00:00+00:00"
         },
         {
-          "title": "What Ford’s Spat With The Trump DOT Says About China EV Policy",
+          "title": "Unpacking Ford's Spat With The Trump Administration Over China",
           "link": "https://insideevs.com/news/808027/ford-duffy-china-letter-podcast/",
           "source": "InsideEVs",
           "published": "2026-09-12T11:00:00+00:00"
@@ -215,36 +245,6 @@
           "link": "https://electrek.co/2026/09/10/new-50-ton-volvo-ec500-electric-excavator-never-needs-charging/",
           "source": "Electrek",
           "published": "2026-09-11T00:46:14+00:00"
-        },
-        {
-          "title": "The Boring Company Raises $3 Billion To Help Put More Teslas In Tunnels",
-          "link": "https://insideevs.com/news/807892/boring-company-investment-uae-tunnels/",
-          "source": "InsideEVs",
-          "published": "2026-09-11T00:22:49+00:00"
-        },
-        {
-          "title": "EV sales are booming in Europe – and plunging in North America",
-          "link": "https://electrek.co/2026/09/10/ev-sales-are-booming-in-europe-and-plunging-in-north-america/",
-          "source": "Electrek",
-          "published": "2026-09-10T23:01:00+00:00"
-        },
-        {
-          "title": "Ford bids farewell to the F-150 Lightning as new Fathom and EREV pickups near",
-          "link": "https://electrek.co/2026/09/10/ford-bids-farewell-f-150-lightning-fathom-pickup-nears/",
-          "source": "Electrek",
-          "published": "2026-09-10T21:19:27+00:00"
-        },
-        {
-          "title": "I Drove All The New Toyota EVs. Here’s My Pick—And How To Choose",
-          "link": "https://insideevs.com/reviews/807569/toyota-bz-chr-woodland-ev-comparison-review/",
-          "source": "InsideEVs",
-          "published": "2026-09-10T20:15:33+00:00"
-        },
-        {
-          "title": "The VW ID.Buzz Will Get Assisted Lane Changes And Pedestrian Detection",
-          "link": "https://insideevs.com/news/807876/vw-iq-drive-adas/",
-          "source": "InsideEVs",
-          "published": "2026-09-10T20:07:09+00:00"
         }
       ]
     },
@@ -360,8 +360,14 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 15,
+      "count": 16,
       "items": [
+        {
+          "title": "This 2,000W electric scooter hits 34 mph – and Electrek readers save 5%",
+          "link": "https://electrek.co/2026/09/12/this-2000w-electric-scooter-hits-34-mph-and-electrek-readers-save-5/",
+          "source": "Electrek",
+          "published": "2026-09-12T15:00:00+00:00"
+        },
         {
           "title": "This Tesla Model 3 Just Hit 250,000 Miles With Only One Minor Part Failure",
           "link": "https://insideevs.com/news/807916/250000-miles-tesla-model-3-costs-maintenance-owner-review/",
