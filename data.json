@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-11T20:25:01.845359+00:00",
+  "generated_at": "2026-09-12T03:03:37.619052+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Amazon puts 50 Mercedes-Benz eActros electric semi trucks to work in Germany",
+          "link": "https://electrek.co/2026/09/11/amazon-puts-50-mercedes-benz-eactros-electric-semi-trucks-to-work-in-germany/",
+          "source": "Electrek",
+          "published": "2026-09-12T00:33:03+00:00"
+        },
+        {
+          "title": "CAT puts century-old train tech to work in new, heavier electric drive dozer",
+          "link": "https://electrek.co/2026/09/11/cat-puts-century-old-train-tech-to-work-in-new-heavier-electric-drive-dozer/",
+          "source": "Electrek",
+          "published": "2026-09-11T23:52:03+00:00"
+        },
+        {
+          "title": "This Chinese Luxury Brand Wants To Take Europe By The End Of The Year",
+          "link": "https://insideevs.com/news/808017/li-auto-paris-auto-show/",
+          "source": "InsideEVs",
+          "published": "2026-09-11T21:08:24+00:00"
+        },
+        {
+          "title": "BYD’s latest flagship SUV secured more than 12,000 orders within 24 hours",
+          "link": "https://electrek.co/2026/09/11/byds-new-flagship-suv-secured-over-12000-orders-24-hours/",
+          "source": "Electrek",
+          "published": "2026-09-11T20:33:14+00:00"
+        },
         {
           "title": "One panel per minute: Solar recycling is going big in Texas",
           "link": "https://electrek.co/2026/09/11/one-panel-per-minute-solar-recycling-is-going-big-in-texas/",
@@ -221,38 +245,26 @@
           "link": "https://insideevs.com/news/807866/china-senator-us-market-trump/",
           "source": "InsideEVs",
           "published": "2026-09-10T18:07:07+00:00"
-        },
-        {
-          "title": "Segway Myon e-bike + $150 FREE accessory credit $1,800 ($350 off), EcoFlow 50% off power station sale, Anker security, more",
-          "link": "https://electrek.co/2026/09/10/segway-myon-e-bike-ecoflow-power-station-sale-anker-security-more/",
-          "source": "Electrek",
-          "published": "2026-09-10T18:00:00+00:00"
-        },
-        {
-          "title": "Toyota recalls 8,521 electric C-HR SUVs [Update]",
-          "link": "https://electrek.co/2026/09/10/toyota-recalls-8521-electric-c-hr-suvs-update/",
-          "source": "Electrek",
-          "published": "2026-09-10T17:31:26+00:00"
-        },
-        {
-          "title": "China shatters its 2025 car export record in just 8 months – and most are EVs",
-          "link": "https://electrek.co/2026/09/10/china-exported-more-cars-in-8-months-than-in-all-of-2025-and-most-are-evs/",
-          "source": "Electrek",
-          "published": "2026-09-10T17:07:30+00:00"
-        },
-        {
-          "title": "Volkswagen ID. Buzz gains a new rear view camera system and more for 2027",
-          "link": "https://electrek.co/2026/09/10/volkswagen-id-buzz-gains-new-camera-system-and-more-2027/",
-          "source": "Electrek",
-          "published": "2026-09-10T16:29:16+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 17,
+      "count": 16,
       "items": [
+        {
+          "title": "Aberdeen Paid £556k Per Hydrogen Bus. Five Years Later, First Bus Is Paying £30k",
+          "link": "https://cleantechnica.com/2026/09/11/aberdeen-hydrogen-buses-30000-residual-value/",
+          "source": "CleanTechnica",
+          "published": "2026-09-12T01:07:42+00:00"
+        },
+        {
+          "title": "Amazon puts 50 Mercedes-Benz eActros electric semi trucks to work in Germany",
+          "link": "https://electrek.co/2026/09/11/amazon-puts-50-mercedes-benz-eactros-electric-semi-trucks-to-work-in-germany/",
+          "source": "Electrek",
+          "published": "2026-09-12T00:33:03+00:00"
+        },
         {
           "title": "Upcoming electric Porsche Boxster spotted with no camo on Nurburgring",
           "link": "https://electrek.co/2026/09/11/upcoming-electric-porsche-boxster-spotted-with-no-camo-on-nurburgring/",
@@ -314,12 +326,6 @@
           "published": "2026-09-07T17:36:11+00:00"
         },
         {
-          "title": "Acid Test Coming For Zero Emission Fuel Cell Trucks In Europe",
-          "link": "https://cleantechnica.com/2026/09/07/fuel-cell-trucks-toyota-germany-green-hydrogen-ammonia-europe-us/",
-          "source": "CleanTechnica",
-          "published": "2026-09-07T14:48:21+00:00"
-        },
-        {
           "title": "Evoke’s new $5,000 electric motorcycle can hit highway speeds, coming to US & EU",
           "link": "https://electrek.co/2026/09/07/evokes-new-5000-electric-motorcycle-can-hit-highway-speeds-coming-to-us-eu/",
           "source": "Electrek",
@@ -342,18 +348,6 @@
           "link": "https://electrek.co/2026/09/04/engwe-e26-3-0-all-terrain-e-bike-navee-labor-day-tenways-wayfarer-e-bike-more/",
           "source": "Electrek",
           "published": "2026-09-04T18:00:00+00:00"
-        },
-        {
-          "title": "Equinor just brought its biggest US battery online in Texas",
-          "link": "https://electrek.co/2026/09/03/equinor-just-brought-its-biggest-us-battery-online-in-texas/",
-          "source": "Electrek",
-          "published": "2026-09-03T18:45:39+00:00"
-        },
-        {
-          "title": "These EVs retain their battery best, largest-ever study finds",
-          "link": "https://electrek.co/2026/09/03/evs-retain-battery-best-aviloo-largest-study/",
-          "source": "Electrek",
-          "published": "2026-09-03T18:27:26+00:00"
         }
       ]
     },
@@ -362,6 +356,12 @@
       "label": "모터",
       "count": 13,
       "items": [
+        {
+          "title": "CAT puts century-old train tech to work in new, heavier electric drive dozer",
+          "link": "https://electrek.co/2026/09/11/cat-puts-century-old-train-tech-to-work-in-new-heavier-electric-drive-dozer/",
+          "source": "Electrek",
+          "published": "2026-09-11T23:52:03+00:00"
+        },
         {
           "title": "575억 낙찰, 셸비 코브라 데이토나 쿠페, 페블비치 콩쿠르 드 엘레강스",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44500",
@@ -433,12 +433,6 @@
           "link": "https://electrek.co/2026/09/04/macfox-x1s-e-bike-review-more-mini-moto-than-bicycle-yet-still-street-legal/",
           "source": "Electrek",
           "published": "2026-09-04T15:37:48+00:00"
-        },
-        {
-          "title": "BEVs outsold every powertrain in August, so why is UK trying to roll back targets?",
-          "link": "https://electrek.co/2026/09/03/bevs-outsold-every-powertrain-in-august-so-why-is-uk-trying-to-roll-back-targets/",
-          "source": "Electrek",
-          "published": "2026-09-03T18:00:17+00:00"
         }
       ]
     },
@@ -447,6 +441,12 @@
       "label": "로봇",
       "count": 23,
       "items": [
+        {
+          "title": "One brick at a time: How Monumental uses robotics to build walls",
+          "link": "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls/",
+          "source": "The Robot Report",
+          "published": "2026-09-11T21:09:01+00:00"
+        },
         {
           "title": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
           "link": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness/",
@@ -550,12 +550,6 @@
           "published": "2026-09-07T14:00:13+00:00"
         },
         {
-          "title": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
-          "link": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
-          "source": "The Robot Report",
-          "published": "2026-09-07T13:17:45+00:00"
-        },
-        {
           "title": "This Robot Will Draw Your Blood Now",
           "link": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
           "source": "IEEE Spectrum",
@@ -593,10 +587,10 @@
       "count": 40,
       "items": [
         {
-          "title": "한전KDN, 에이치투와 에너지ICT·차세대 배터리 결합으로 차세대전력망 시장 선도",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215179",
+          "title": "AI가 하네스를 만들 수 있을까...바이트댄스, 평가 프레임워크 '하네스데브' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215182",
           "source": "AI타임스",
-          "published": "2026-09-11T16:55:00+00:00"
+          "published": "2026-09-12T11:56:44+00:00"
         },
         {
           "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
