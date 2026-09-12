@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-09-12T10:03:33.514906+00:00",
+  "generated_at": "2026-09-12T14:57:43.804467+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "New fleet of battery electric trains promises faster, more reliable UK travel",
+          "link": "https://electrek.co/2026/09/12/new-fleet-of-battery-electric-trains-promises-faster-more-reliable-uk-travel/",
+          "source": "Electrek",
+          "published": "2026-09-12T14:50:51+00:00"
+        },
+        {
+          "title": "Electric cars and solar are the hedge against this out-of-control energy crisis",
+          "link": "https://electrek.co/2026/09/12/evs-solar-v2h-hedge-energy-crisis/",
+          "source": "Electrek",
+          "published": "2026-09-12T14:17:32+00:00"
+        },
+        {
+          "title": "This Tesla Model 3 Just Hit 250,000 Miles With Only One Minor Part Failure",
+          "link": "https://insideevs.com/news/807916/250000-miles-tesla-model-3-costs-maintenance-owner-review/",
+          "source": "InsideEVs",
+          "published": "2026-09-12T14:00:00+00:00"
+        },
+        {
+          "title": "Your EV Has Two Horsepower Ratings. Automakers Only Advertise One",
+          "link": "https://insideevs.com/news/806789/peak-versus-sustained-power-evs/",
+          "source": "InsideEVs",
+          "published": "2026-09-12T13:00:00+00:00"
+        },
+        {
+          "title": "What Ford’s Spat With The Trump DOT Says About China EV Policy",
+          "link": "https://insideevs.com/news/808027/ford-duffy-china-letter-podcast/",
+          "source": "InsideEVs",
+          "published": "2026-09-12T11:00:00+00:00"
+        },
         {
           "title": "Amazon puts 50 Mercedes-Benz eActros electric semi trucks to work in Germany",
           "link": "https://electrek.co/2026/09/11/amazon-puts-50-mercedes-benz-eactros-electric-semi-trucks-to-work-in-germany/",
@@ -215,44 +245,26 @@
           "link": "https://insideevs.com/news/807876/vw-iq-drive-adas/",
           "source": "InsideEVs",
           "published": "2026-09-10T20:07:09+00:00"
-        },
-        {
-          "title": "Kia reveals EV3 lease offer for $349 a month, but there’s a catch",
-          "link": "https://electrek.co/2026/09/10/kia-ev3-lease-offer-349-a-month/",
-          "source": "Electrek",
-          "published": "2026-09-10T19:52:47+00:00"
-        },
-        {
-          "title": "Tesla Cybertruck Powershare finally backs up homes with a Powerwall 3",
-          "link": "https://electrek.co/2026/09/10/tesla-cybertruck-powershare-powerwall-3-home-backup/",
-          "source": "Electrek",
-          "published": "2026-09-10T19:27:50+00:00"
-        },
-        {
-          "title": "Tesla Autopilot was on in I-35 crash that killed its driver",
-          "link": "https://electrek.co/2026/09/10/tesla-driver-assist-i35-guardrail-pattonsburg/",
-          "source": "Electrek",
-          "published": "2026-09-10T19:18:47+00:00"
-        },
-        {
-          "title": "A new Arizona plant is going after the rare earth supply crunch",
-          "link": "https://electrek.co/2026/09/10/a-new-arizona-plant-is-going-after-the-rare-earth-supply-crunch/",
-          "source": "Electrek",
-          "published": "2026-09-10T18:50:00+00:00"
-        },
-        {
-          "title": "Trump Could Be Ready To U-Turn On Chinese EVs, One Senator Claims",
-          "link": "https://insideevs.com/news/807866/china-senator-us-market-trump/",
-          "source": "InsideEVs",
-          "published": "2026-09-10T18:07:07+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 16,
+      "count": 17,
       "items": [
+        {
+          "title": "New fleet of battery electric trains promises faster, more reliable UK travel",
+          "link": "https://electrek.co/2026/09/12/new-fleet-of-battery-electric-trains-promises-faster-more-reliable-uk-travel/",
+          "source": "Electrek",
+          "published": "2026-09-12T14:50:51+00:00"
+        },
+        {
+          "title": "This Tesla Model 3 Just Hit 250,000 Miles With Only One Minor Part Failure",
+          "link": "https://insideevs.com/news/807916/250000-miles-tesla-model-3-costs-maintenance-owner-review/",
+          "source": "InsideEVs",
+          "published": "2026-09-12T14:00:00+00:00"
+        },
         {
           "title": "MG Motors Philippines Launches New EV",
           "link": "https://cleantechnica.com/2026/09/12/mg-motors-philippines-launches-new-ev/",
@@ -320,12 +332,6 @@
           "published": "2026-09-08T17:48:13+00:00"
         },
         {
-          "title": "What Lithium EV Battery Shortage? New Recycler Picks Up Where Ascend Elements Left Off",
-          "link": "https://cleantechnica.com/2026/09/08/r3-lithium-ev-battery-recycling-us-supply-chain/",
-          "source": "CleanTechnica",
-          "published": "2026-09-08T13:31:17+00:00"
-        },
-        {
           "title": "Evoke’s new $5,000 electric motorcycle can hit highway speeds, coming to US & EU",
           "link": "https://electrek.co/2026/09/07/evokes-new-5000-electric-motorcycle-can-hit-highway-speeds-coming-to-us-eu/",
           "source": "Electrek",
@@ -354,8 +360,20 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 13,
+      "count": 15,
       "items": [
+        {
+          "title": "This Tesla Model 3 Just Hit 250,000 Miles With Only One Minor Part Failure",
+          "link": "https://insideevs.com/news/807916/250000-miles-tesla-model-3-costs-maintenance-owner-review/",
+          "source": "InsideEVs",
+          "published": "2026-09-12T14:00:00+00:00"
+        },
+        {
+          "title": "Your EV Has Two Horsepower Ratings. Automakers Only Advertise One",
+          "link": "https://insideevs.com/news/806789/peak-versus-sustained-power-evs/",
+          "source": "InsideEVs",
+          "published": "2026-09-12T13:00:00+00:00"
+        },
         {
           "title": "CAT puts century-old train tech to work in new, heavier electric drive dozer",
           "link": "https://electrek.co/2026/09/11/cat-puts-century-old-train-tech-to-work-in-new-heavier-electric-drive-dozer/",
@@ -442,6 +460,18 @@
       "count": 23,
       "items": [
         {
+          "title": "'제주TP 로봇 체험 부스', 전국장애인체전 개막식과 주말 맞은 관람객에게 인기",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48452",
+          "source": "로봇신문",
+          "published": "2026-09-12T20:14:14+00:00"
+        },
+        {
+          "title": "Ultrasound offers a scalable path to tactile intelligence for physical AI",
+          "link": "https://www.therobotreport.com/ultrasound-offers-scalable-path-tactile-intelligence-physical-ai/",
+          "source": "The Robot Report",
+          "published": "2026-09-12T12:35:38+00:00"
+        },
+        {
           "title": "One brick at a time: How Monumental uses robotics to build walls",
           "link": "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls/",
           "source": "The Robot Report",
@@ -452,12 +482,6 @@
           "link": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness/",
           "source": "The Robot Report",
           "published": "2026-09-11T19:49:40+00:00"
-        },
-        {
-          "title": "물류 자동화 스타트업 '베크나 로보틱스', 3100만 달러 투자 유치",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48434",
-          "source": "로봇신문",
-          "published": "2026-09-11T17:59:53+00:00"
         },
         {
           "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
@@ -544,12 +568,6 @@
           "published": "2026-09-08T16:05:04+00:00"
         },
         {
-          "title": "Inbolt to discuss physical AI’s deployment problem at RoboBusiness",
-          "link": "https://www.therobotreport.com/inbolt-ceo-to-discuss-physical-ais-deployment-problem-at-robobusiness/",
-          "source": "The Robot Report",
-          "published": "2026-09-07T14:00:13+00:00"
-        },
-        {
           "title": "This Robot Will Draw Your Blood Now",
           "link": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
           "source": "IEEE Spectrum",
@@ -587,10 +605,10 @@
       "count": 40,
       "items": [
         {
-          "title": "오픈AI, 캘텍 AI 수학 해커톤 후원 철회…수학계 '슬롭 수학' 비판 여파",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215193",
+          "title": "머스크, 자신 다룬 다큐에 법적 대응 경고...\"허위·악의적 공작\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215194",
           "source": "AI타임스",
-          "published": "2026-09-12T18:21:57+00:00"
+          "published": "2026-09-12T20:09:12+00:00"
         },
         {
           "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
