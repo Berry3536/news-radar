@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T03:03:37.619052+00:00",
+  "generated_at": "2026-09-12T10:03:33.514906+00:00",
   "categories": [
     {
       "key": "ev",
@@ -55,7 +55,7 @@
           "published": "2026-09-11T19:07:23+00:00"
         },
         {
-          "title": "Learn how to save money on gas at US Drive Electric Month events, all Sept.",
+          "title": "Want to get off gas? Learn how at Drive Electric Month events across the US",
           "link": "https://electrek.co/2026/09/11/learn-how-to-save-money-on-gas-at-us-drive-electric-month-events-all-month/",
           "source": "Electrek",
           "published": "2026-09-11T19:00:00+00:00"
@@ -254,6 +254,12 @@
       "count": 16,
       "items": [
         {
+          "title": "MG Motors Philippines Launches New EV",
+          "link": "https://cleantechnica.com/2026/09/12/mg-motors-philippines-launches-new-ev/",
+          "source": "CleanTechnica",
+          "published": "2026-09-12T09:40:06+00:00"
+        },
+        {
           "title": "Aberdeen Paid £556k Per Hydrogen Bus. Five Years Later, First Bus Is Paying £30k",
           "link": "https://cleantechnica.com/2026/09/11/aberdeen-hydrogen-buses-30000-residual-value/",
           "source": "CleanTechnica",
@@ -318,12 +324,6 @@
           "link": "https://cleantechnica.com/2026/09/08/r3-lithium-ev-battery-recycling-us-supply-chain/",
           "source": "CleanTechnica",
           "published": "2026-09-08T13:31:17+00:00"
-        },
-        {
-          "title": "These Legacy Automakers Lead the EV Transition in the United States — BEV Share of Auto Brand & Group Sales",
-          "link": "https://cleantechnica.com/2026/09/07/these-legacy-automakers-lead-the-ev-transition-in-the-united-states-bev-share-of-auto-brand-group-sales/",
-          "source": "CleanTechnica",
-          "published": "2026-09-07T17:36:11+00:00"
         },
         {
           "title": "Evoke’s new $5,000 electric motorcycle can hit highway speeds, coming to US & EU",
@@ -587,244 +587,244 @@
       "count": 40,
       "items": [
         {
-          "title": "AI가 하네스를 만들 수 있을까...바이트댄스, 평가 프레임워크 '하네스데브' 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215182",
+          "title": "오픈AI, 캘텍 AI 수학 해커톤 후원 철회…수학계 '슬롭 수학' 비판 여파",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215193",
           "source": "AI타임스",
-          "published": "2026-09-12T11:56:44+00:00"
+          "published": "2026-09-12T18:21:57+00:00"
         },
         {
-          "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
-          "link": "https://arxiv.org/abs/2609.09203",
+          "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
+          "link": "https://arxiv.org/abs/2609.10584",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
-          "link": "https://arxiv.org/abs/2609.09226",
+          "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
+          "link": "https://arxiv.org/abs/2609.10629",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
-          "link": "https://arxiv.org/abs/2609.09233",
+          "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
+          "link": "https://arxiv.org/abs/2609.10654",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
-          "link": "https://arxiv.org/abs/2609.09306",
+          "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
+          "link": "https://arxiv.org/abs/2609.10656",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
-          "link": "https://arxiv.org/abs/2609.09374",
+          "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
+          "link": "https://arxiv.org/abs/2609.10657",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents",
-          "link": "https://arxiv.org/abs/2609.09395",
+          "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+          "link": "https://arxiv.org/abs/2609.10712",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Decision-Focused Active Learning for Scale-Aware Critical-Materials Recovery",
-          "link": "https://arxiv.org/abs/2609.09413",
+          "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
+          "link": "https://arxiv.org/abs/2609.10724",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration",
-          "link": "https://arxiv.org/abs/2609.09418",
+          "title": "Towards a Deterministic Math Solver for Clinical Language Models",
+          "link": "https://arxiv.org/abs/2609.10728",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "XAI-Arena: Can LLMs Assess the Quality of XAI Explanations?",
-          "link": "https://arxiv.org/abs/2609.09428",
+          "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
+          "link": "https://arxiv.org/abs/2609.10824",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Do Agents Know When They Succeed? Calibrating Agent Confidence from Internal Representations",
-          "link": "https://arxiv.org/abs/2609.09448",
+          "title": "When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents",
+          "link": "https://arxiv.org/abs/2609.10873",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "ContractEval: Query-Conditioned Execution Matching for Procedural Instruction Conformance",
-          "link": "https://arxiv.org/abs/2609.09458",
+          "title": "Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows",
+          "link": "https://arxiv.org/abs/2609.10964",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Multi-Agent Agentic Graph Learning via Structural Signatures",
-          "link": "https://arxiv.org/abs/2609.09565",
+          "title": "Demystifying the Privacy-Utility Trade-off in LLM Interactions",
+          "link": "https://arxiv.org/abs/2609.10992",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "CityPlanner: A Sandbox Agent for Executable Urban Planning",
-          "link": "https://arxiv.org/abs/2609.09578",
+          "title": "Defining AI Agents: A Compendium of Criteria, Metrics, and Benchmarks",
+          "link": "https://arxiv.org/abs/2609.11018",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "A Function-Space Approach to the Statistical Mechanics of Learning Dynamics",
-          "link": "https://arxiv.org/abs/2609.09589",
+          "title": "The Agent Incident Registry: Toward Preventing Repeated AI Agent Failures",
+          "link": "https://arxiv.org/abs/2609.11030",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "From State Synchronization to Cognitive Self-Evolution: An Operational Architecture for Cognitive Digital Twins",
-          "link": "https://arxiv.org/abs/2609.09625",
+          "title": "Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents",
+          "link": "https://arxiv.org/abs/2609.11060",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Seven Sources of Physical AI Capability Formation",
-          "link": "https://arxiv.org/abs/2609.09627",
+          "title": "Fork Where the Model Changes Its Mind: Belief-Shift Branching for Tree-Structured Reinforcement Learning",
+          "link": "https://arxiv.org/abs/2609.11061",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "RobustSGPO: Search-Space Control for Agent Harness Evolution",
-          "link": "https://arxiv.org/abs/2609.09646",
+          "title": "MOSAIC: Query-Aware Exploration Policy Adaptation for GraphRAG",
+          "link": "https://arxiv.org/abs/2609.11065",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Black-Box Red Teaming of Agentic AI: A Taxonomy-Driven Framework for Automated Risk Discovery",
-          "link": "https://arxiv.org/abs/2609.09647",
+          "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
+          "link": "https://arxiv.org/abs/2609.11115",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems",
-          "link": "https://arxiv.org/abs/2609.09657",
+          "title": "KuaiRP Series Role-playing Models Technical Report",
+          "link": "https://arxiv.org/abs/2609.11127",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "PRAGMA: Evaluating Personalized Guidance with Memory Alignment in Lifelong Conversations",
-          "link": "https://arxiv.org/abs/2609.09664",
+          "title": "Same Day, Same Story; One Day Ahead, a Different Signal: The Dual Validity of Financial Sentiment",
+          "link": "https://arxiv.org/abs/2609.11144",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Safe to Stop? Risk-Constrained Stopping for Sequential Clinical Diagnosis Agents",
-          "link": "https://arxiv.org/abs/2609.09678",
+          "title": "The Oligarch Barely Steers Model Collapse in Multi-Model Ecosystems",
+          "link": "https://arxiv.org/abs/2609.11146",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Decision Shifts, Lost Label Functionality, and an Inconclusive Grounding Audit in Correctness-Gated Multi-Teacher Distillation",
-          "link": "https://arxiv.org/abs/2609.09702",
+          "title": "Autonomous Chemical Mechanistic Discovery through Agentic Reasoning and Validation",
+          "link": "https://arxiv.org/abs/2609.11147",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Which Tokens Should SFT Actually Learn? A Token-Trimming Perspective on Mathematical Reasoning",
-          "link": "https://arxiv.org/abs/2609.09707",
+          "title": "DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat",
+          "link": "https://arxiv.org/abs/2609.11155",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Can Artificial Intelligence Support Healthcare and Mental Health Through Early Cyberbullying Detection ? The Impact of Emotion-Aware AI on Proactive Online Safety",
-          "link": "https://arxiv.org/abs/2609.09735",
+          "title": "Breaking Predictions Is Not Enough: Specified-Foil Counterfactuals for Temporal Graphs",
+          "link": "https://arxiv.org/abs/2609.11170",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "LexAgentHallu: A Hierarchical Benchmark for Profiling Hallucinations in Legal Agents",
-          "link": "https://arxiv.org/abs/2609.09754",
+          "title": "Debate-to-Skill: Capability-Bound Process Supervision for Industrial Query-to-Agent Annotation",
+          "link": "https://arxiv.org/abs/2609.11176",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Procedural Memory Under Change: Reuse and Interference in Controlled Web Tasks",
-          "link": "https://arxiv.org/abs/2609.09774",
+          "title": "SemVerBench: Benchmarking LLM Comprehension of Version-Constraint Resolution Semantics",
+          "link": "https://arxiv.org/abs/2609.11180",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Proof-Carrying Cognition: Closing the Verification Gap with Reality-Settled Reward",
-          "link": "https://arxiv.org/abs/2609.09776",
+          "title": "Can LLMs Follow Medical Expert Logic? A Benchmark for Hierarchical Logical Consistency in Risk-of-Bias Assessment",
+          "link": "https://arxiv.org/abs/2609.11185",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "UnitBoost: Managing Compound LLM Systems with a Merge Operator, Not a Model",
-          "link": "https://arxiv.org/abs/2609.09815",
+          "title": "Agentic Share-of-Search: A Multi-Agent AI System for Competitive Decision-Making in LLM-Mediated E-Commerce",
+          "link": "https://arxiv.org/abs/2609.11190",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "The Era by Eon Benchmark: A Generated Enterprise Estate with Exact Ground Truth for Benchmarking LLM Agents",
-          "link": "https://arxiv.org/abs/2609.09853",
+          "title": "An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning",
+          "link": "https://arxiv.org/abs/2609.11199",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Shifting Relational Paradigms for Affective Computing: Affective Resonance, Vitality Affects, and Vocal Interaction Fields",
-          "link": "https://arxiv.org/abs/2609.09864",
+          "title": "CryptoL: Towards Scale Dominance and Physics Constraints Mitigation in Financial Multivariate Time Series Forecasting",
+          "link": "https://arxiv.org/abs/2609.11206",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "AgentAudit: An Open, Extensible Framework for Full-Lifecycle Trust Evaluation of AI Agents",
-          "link": "https://arxiv.org/abs/2609.09875",
+          "title": "A Voice-Interactive Multi-Agent System for Smart Operating Rooms: Architecture Design and Key Technologies",
+          "link": "https://arxiv.org/abs/2609.11231",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Scored vs. Generated Readouts in Behavioral Language Models: An Empirical Study of Elicitation Format",
-          "link": "https://arxiv.org/abs/2609.09882",
+          "title": "NovGauge: A Fine-Grained Benchmark for Diagnosing LLMs' Capability in Paper Novelty Assessment",
+          "link": "https://arxiv.org/abs/2609.11234",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Decision Transformer for UAV-Mounted RIS-Assisted Dynamic D2D Communications",
-          "link": "https://arxiv.org/abs/2609.09885",
+          "title": "Sci-MMR: Benchmarking Multi-Step Evidence-Grounded Scientific Reasoning in Multimodal Agents",
+          "link": "https://arxiv.org/abs/2609.11243",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Grounded Evaluation and Repair for NL-to-PDDL Problem Generation",
-          "link": "https://arxiv.org/abs/2609.09898",
+          "title": "AI-Powered Flare Combustion Efficiency Estimation",
+          "link": "https://arxiv.org/abs/2609.11262",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Time-Frequency Geometric Cross-Attention for Chunked Vision-Language-Action Models",
-          "link": "https://arxiv.org/abs/2609.09925",
+          "title": "Predicting Train Delays in Finland Using Machine Learning and Weather Data",
+          "link": "https://arxiv.org/abs/2609.11277",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Structural Process Supervision for Latent Chain-of-Thought Reasoning",
-          "link": "https://arxiv.org/abs/2609.09928",
+          "title": "Bio-inspired Learning and Decision-Making with Probabilistic In-Memory Computing Hardware: Part 1",
+          "link": "https://arxiv.org/abs/2609.11281",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Belief-State Engine: Augmenting LLMs for Principled Planning Under Partial Observability",
-          "link": "https://arxiv.org/abs/2609.10036",
+          "title": "When Does Text Inform? Benchmarking Information-Theoretic Metrics for Multimodal Time-Series Forecasting",
+          "link": "https://arxiv.org/abs/2609.11282",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "OntologyAligner: Ontology-Aligned Retrieval and Hierarchy-Guided Large Language Model Reranking for Biomedical Ontology Normalization",
-          "link": "https://arxiv.org/abs/2609.10055",
+          "title": "Generating a Consistent Enterprise: Synthesis and Reference-Free Evaluation of Multi-System Business Data",
+          "link": "https://arxiv.org/abs/2609.11286",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         },
         {
-          "title": "Reference-Based Bias Detection in LLMs via Relative Representations of Hidden States",
-          "link": "https://arxiv.org/abs/2609.10060",
+          "title": "Off-Target Effects of Response-Style Alignment in a Korean 27B Language Model",
+          "link": "https://arxiv.org/abs/2609.11291",
           "source": "arXiv cs.AI",
-          "published": "2026-09-11T04:00:00+00:00"
+          "published": "2026-09-12T04:00:00+00:00"
         }
       ]
     }
