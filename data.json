@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-09-13T15:35:12.544939+00:00",
+  "generated_at": "2026-09-13T20:17:43.659377+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Zürich Airport deploys L4 autonomous shuttle – WITHOUT a human monitor",
+          "link": "https://electrek.co/2026/09/13/zurich-airport-deploys-l4-autonomous-shuttle-without-a-human-monitor/",
+          "source": "Electrek",
+          "published": "2026-09-13T17:44:27+00:00"
+        },
+        {
+          "title": "GoSun built a practical electric tractor that charges itself with solar panels [video]",
+          "link": "https://electrek.co/2026/09/13/gosun-built-a-practical-electric-tractor-that-charges-itself-with-solar-panels-video/",
+          "source": "Electrek",
+          "published": "2026-09-13T17:06:42+00:00"
+        },
         {
           "title": "People Are Mad About The Jeep Recon's 222-Mile Range. Here's What They're Missing",
           "link": "https://insideevs.com/features/808009/jeep-recon-range-problems/",
@@ -233,18 +245,6 @@
           "link": "https://electrek.co/2026/09/11/labor-day-green-deals-hub-evs-power-stations-tools-smart-devices-more/",
           "source": "Electrek",
           "published": "2026-09-11T12:00:00+00:00"
-        },
-        {
-          "title": "This 80 MPH Chevy Bolt Range Test Shows The Value Of Not Speeding",
-          "link": "https://insideevs.com/news/807884/chevy-bolt-highway-range-test/",
-          "source": "InsideEVs",
-          "published": "2026-09-11T12:00:00+00:00"
-        },
-        {
-          "title": "LA’s Largest Non-Tesla EV Charging Station Opens With A Surprise: CHAdeMO Support",
-          "link": "https://insideevs.com/news/807932/evgo-largest-non-tesla-ev-charging-station-la-chademo/",
-          "source": "InsideEVs",
-          "published": "2026-09-11T08:30:34+00:00"
         }
       ]
     },
@@ -460,10 +460,10 @@
       "count": 23,
       "items": [
         {
-          "title": "中 유니트리 CEO \"휴머노이드 개발, 10년 내 '자체 진화' 방식 전환될 것\"",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48468",
+          "title": "[Books] 인간의 가능성을 확장하는 로봇공학자",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48469",
           "source": "로봇신문",
-          "published": "2026-09-13T19:29:31+00:00"
+          "published": "2026-09-14T01:43:37+00:00"
         },
         {
           "title": "How autonomous fleets are changing what’s possible in American agriculture",
