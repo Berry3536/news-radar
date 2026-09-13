@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-09-13T11:03:45.611967+00:00",
+  "generated_at": "2026-09-13T15:35:12.544939+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "People Are Mad About The Jeep Recon's 222-Mile Range. Here's What They're Missing",
+          "link": "https://insideevs.com/features/808009/jeep-recon-range-problems/",
+          "source": "InsideEVs",
+          "published": "2026-09-13T14:00:00+00:00"
+        },
         {
           "title": "Tesla Confirms Next-Generation Roadster Reveal On October 1",
           "link": "https://insideevs.com/news/808054/tesla-roadster-ev-october-2026-reveal/",
@@ -239,12 +245,6 @@
           "link": "https://insideevs.com/news/807932/evgo-largest-non-tesla-ev-charging-station-la-chademo/",
           "source": "InsideEVs",
           "published": "2026-09-11T08:30:34+00:00"
-        },
-        {
-          "title": "New, 50-ton Volvo EC500 Electric excavator never needs charging",
-          "link": "https://electrek.co/2026/09/10/new-50-ton-volvo-ec500-electric-excavator-never-needs-charging/",
-          "source": "Electrek",
-          "published": "2026-09-11T00:46:14+00:00"
         }
       ]
     },
@@ -360,7 +360,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 16,
+      "count": 15,
       "items": [
         {
           "title": "This 2,000W electric scooter hits 34 mph – and Electrek readers save 5%",
@@ -397,12 +397,6 @@
           "link": "https://electrek.co/2026/09/10/a-new-arizona-plant-is-going-after-the-rare-earth-supply-crunch/",
           "source": "Electrek",
           "published": "2026-09-10T18:50:00+00:00"
-        },
-        {
-          "title": "ZF Wants You To Repair Rather Than Replace Your EV’s Drive Unit",
-          "link": "https://insideevs.com/news/807761/zf-drive-unit-repair-kits/",
-          "source": "InsideEVs",
-          "published": "2026-09-10T07:19:28+00:00"
         },
         {
           "title": "RGNT’s 85 MPH retro electric motorcycle just got a scrambler makeover",
@@ -470,6 +464,12 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48468",
           "source": "로봇신문",
           "published": "2026-09-13T19:29:31+00:00"
+        },
+        {
+          "title": "How autonomous fleets are changing what’s possible in American agriculture",
+          "link": "https://www.therobotreport.com/how-autonomous-fleets-are-changing-whats-possible-american-agriculture/",
+          "source": "The Robot Report",
+          "published": "2026-09-13T12:45:12+00:00"
         },
         {
           "title": "Ultrasound offers a scalable path to tactile intelligence for physical AI",
@@ -566,12 +566,6 @@
           "link": "https://www.therobotreport.com/ai-cant-outrun-a-humanoids-hardware/",
           "source": "The Robot Report",
           "published": "2026-09-08T19:03:09+00:00"
-        },
-        {
-          "title": "Why vision AI is the safety backbone of the automated job site",
-          "link": "https://www.therobotreport.com/why-vision-ai-is-safety-backbone-of-automated-job-site/",
-          "source": "The Robot Report",
-          "published": "2026-09-08T16:05:04+00:00"
         },
         {
           "title": "This Robot Will Draw Your Blood Now",
