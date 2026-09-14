@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T11:45:24.345311+00:00",
+  "generated_at": "2026-09-14T17:39:18.099263+00:00",
   "categories": [
     {
       "key": "ev",
@@ -13,7 +13,55 @@
           "published": "2026-09-14T17:35:54+00:00"
         },
         {
-          "title": "Volkswagen Just Unveiled An EV That Can Do Over 9 Miles/kWh",
+          "title": "Tesla Cybercab turns 10-minute Austin trip into 70-minute detour",
+          "link": "https://electrek.co/2026/09/14/tesla-cybercab-70-minute-austin-detour/",
+          "source": "Electrek",
+          "published": "2026-09-14T17:14:07+00:00"
+        },
+        {
+          "title": "BYD is ‘leading’ the solid-state battery race, and its first EV with the new tech is almost here",
+          "link": "https://electrek.co/2026/09/14/byd-leading-solid-state-battery-race-first-ev-2027/",
+          "source": "Electrek",
+          "published": "2026-09-14T16:27:55+00:00"
+        },
+        {
+          "title": "The Kia PV7 is even bigger than expected and has a range of over 460 km [Images]",
+          "link": "https://electrek.co/2026/09/14/kia-pv7-bigger-than-expected-460-km-range-images/",
+          "source": "Electrek",
+          "published": "2026-09-14T14:30:00+00:00"
+        },
+        {
+          "title": "New Cars Are Getting More Expensive. EVs Are Getting Cheaper",
+          "link": "https://insideevs.com/news/808190/evs-are-getting-cheaper-august/",
+          "source": "InsideEVs",
+          "published": "2026-09-14T14:06:55+00:00"
+        },
+        {
+          "title": "Here are the best electric bikes you can buy at every price level in September 2026",
+          "link": "https://electrek.co/2026/09/14/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/",
+          "source": "Electrek",
+          "published": "2026-09-14T13:45:00+00:00"
+        },
+        {
+          "title": "Volkswagen Mission Efficiency: the XL1 comes back as 1,000-mile range electric car",
+          "link": "https://electrek.co/2026/09/14/volkswagen-mission-efficiency-the-xl1-comes-back-as-1000-mile-range-electric-car/",
+          "source": "Electrek",
+          "published": "2026-09-14T13:29:50+00:00"
+        },
+        {
+          "title": "BYD unveils flagship 600 km electric truck with 1.5 MW charging",
+          "link": "https://electrek.co/2026/09/14/byd-ett-44-electric-truck-megawatt-charging/",
+          "source": "Electrek",
+          "published": "2026-09-14T13:18:01+00:00"
+        },
+        {
+          "title": "Shell, FAW partner on better, safer electric semi truck batteries",
+          "link": "https://electrek.co/2026/09/14/shell-faw-partner-on-better-safer-electric-semi-truck-batteries/",
+          "source": "Electrek",
+          "published": "2026-09-14T12:23:46+00:00"
+        },
+        {
+          "title": "Volkswagen Just Unveiled The Most Efficient EV Ever Tested",
           "link": "https://insideevs.com/news/808168/volkswagen-mission-efficiency-concept-range-charging-test/",
           "source": "InsideEVs",
           "published": "2026-09-14T11:43:02+00:00"
@@ -197,62 +245,26 @@
           "link": "https://electrek.co/2026/09/11/court-blocks-trump-from-reopening-broken-coal-plant-that-no-one-wants-open/",
           "source": "Electrek",
           "published": "2026-09-11T17:48:45+00:00"
-        },
-        {
-          "title": "First look at Tesla Cybercab’s steering: a Cybertruck wheel bolted on",
-          "link": "https://electrek.co/2026/09/11/tesla-cybercab-steering-wheel-assembly-first-look/",
-          "source": "Electrek",
-          "published": "2026-09-11T17:24:39+00:00"
-        },
-        {
-          "title": "Europe's First Truly Driverless Robotaxi Just Started Rides In Croatia",
-          "link": "https://insideevs.com/news/808004/verne-rimac-ponyai-uber-robotaxi-europe/",
-          "source": "InsideEVs",
-          "published": "2026-09-11T17:01:28+00:00"
-        },
-        {
-          "title": "Nissan undercuts Kia to retake the crown as Canada’s most affordable EV",
-          "link": "https://electrek.co/2026/09/11/nissan-undercuts-kia-retake-title-canadas-most-affordable-ev/",
-          "source": "Electrek",
-          "published": "2026-09-11T16:03:20+00:00"
-        },
-        {
-          "title": "China Has Already Exported More Cars Than Last Year",
-          "link": "https://insideevs.com/news/807996/china-sales-export-numbers-best/",
-          "source": "InsideEVs",
-          "published": "2026-09-11T15:44:34+00:00"
-        },
-        {
-          "title": "Tesla reveals European Semi specs: 550 km range, 800 kW charging",
-          "link": "https://electrek.co/2026/09/11/tesla-european-semi-specs-550-km-800-kw/",
-          "source": "Electrek",
-          "published": "2026-09-11T15:43:33+00:00"
-        },
-        {
-          "title": "You Can't Charge The Tesla Cybercab At Home (Yet)",
-          "link": "https://insideevs.com/news/807890/tesla-cybercab-supercharger-only-onboard/",
-          "source": "InsideEVs",
-          "published": "2026-09-11T14:27:39+00:00"
-        },
-        {
-          "title": "Kia deploys 200 PV5 electric vans for mail delivery",
-          "link": "https://electrek.co/2026/09/11/kia-deploys-200-pv5-electric-vans-mail-delivery/",
-          "source": "Electrek",
-          "published": "2026-09-11T14:11:00+00:00"
-        },
-        {
-          "title": "Audi Developed The A2 E-Tron 21 Months Faster Than Usual. The Secret Wasn’t More Engineers",
-          "link": "https://insideevs.com/news/807980/audi-a2-e-tron-development-time-slashed/",
-          "source": "InsideEVs",
-          "published": "2026-09-11T13:48:06+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 16,
+      "count": 17,
       "items": [
+        {
+          "title": "BYD is ‘leading’ the solid-state battery race, and its first EV with the new tech is almost here",
+          "link": "https://electrek.co/2026/09/14/byd-leading-solid-state-battery-race-first-ev-2027/",
+          "source": "Electrek",
+          "published": "2026-09-14T16:27:55+00:00"
+        },
+        {
+          "title": "Shell, FAW partner on better, safer electric semi truck batteries",
+          "link": "https://electrek.co/2026/09/14/shell-faw-partner-on-better-safer-electric-semi-truck-batteries/",
+          "source": "Electrek",
+          "published": "2026-09-14T12:23:46+00:00"
+        },
         {
           "title": "New fleet of battery electric trains promises faster, more reliable UK travel",
           "link": "https://electrek.co/2026/09/12/new-fleet-of-battery-electric-trains-promises-faster-more-reliable-uk-travel/",
@@ -342,25 +354,25 @@
           "link": "https://electrek.co/2026/09/05/e-quipment-highlight-bluetti-pioneer-5000-e-generator/",
           "source": "Electrek",
           "published": "2026-09-05T14:02:14+00:00"
-        },
-        {
-          "title": "ENGWE E26 3.0 full suspension all-terrain e-bike launch deal, Navee Labor Day e-scooter sale, Tenways Wayfarer e-bike $877 off, more",
-          "link": "https://electrek.co/2026/09/04/engwe-e26-3-0-all-terrain-e-bike-navee-labor-day-tenways-wayfarer-e-bike-more/",
-          "source": "Electrek",
-          "published": "2026-09-04T18:00:00+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 15,
+      "count": 13,
       "items": [
         {
           "title": "특별한 GT 프로그램을 위해 탄생한 페라리 296 GT 모디피카타",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44511",
           "source": "모터그래프",
           "published": "2026-09-14T17:35:00+00:00"
+        },
+        {
+          "title": "Tesla Cybercab turns 10-minute Austin trip into 70-minute detour",
+          "link": "https://electrek.co/2026/09/14/tesla-cybercab-70-minute-austin-detour/",
+          "source": "Electrek",
+          "published": "2026-09-14T17:14:07+00:00"
         },
         {
           "title": "This 2,000W electric scooter hits 34 mph – and Electrek readers save 5%",
@@ -427,24 +439,6 @@
           "link": "https://electrek.co/2026/09/06/another-chinese-ev-myth-busted-as-gac-geely-and-leapmotor-ace-euro-ncap/",
           "source": "Electrek",
           "published": "2026-09-07T00:54:26+00:00"
-        },
-        {
-          "title": "Tesla’s new rare-earth-free EV motor is a big deal, but not THAT big a deal",
-          "link": "https://electrek.co/2026/09/04/teslas-new-rare-earth-free-ev-motor-is-a-big-deal-but-not-that-big-a-deal/",
-          "source": "Electrek",
-          "published": "2026-09-04T19:00:06+00:00"
-        },
-        {
-          "title": "ENGWE E26 3.0 full suspension all-terrain e-bike launch deal, Navee Labor Day e-scooter sale, Tenways Wayfarer e-bike $877 off, more",
-          "link": "https://electrek.co/2026/09/04/engwe-e26-3-0-all-terrain-e-bike-navee-labor-day-tenways-wayfarer-e-bike-more/",
-          "source": "Electrek",
-          "published": "2026-09-04T18:00:00+00:00"
-        },
-        {
-          "title": "Macfox X1S e-bike review: More mini-moto than bicycle, yet still street legal",
-          "link": "https://electrek.co/2026/09/04/macfox-x1s-e-bike-review-more-mini-moto-than-bicycle-yet-still-street-legal/",
-          "source": "Electrek",
-          "published": "2026-09-04T15:37:48+00:00"
         }
       ]
     },
@@ -458,6 +452,18 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48485",
           "source": "로봇신문",
           "published": "2026-09-14T17:26:32+00:00"
+        },
+        {
+          "title": "Arm to discuss scaling physical AI at RoboBusiness",
+          "link": "https://www.therobotreport.com/arm-to-discuss-scaling-physical-ai-at-robobusiness/",
+          "source": "The Robot Report",
+          "published": "2026-09-14T16:09:27+00:00"
+        },
+        {
+          "title": "Universal Robots launches its seventh generation robot platform at IMTS",
+          "link": "https://www.therobotreport.com/universal-robots-launches-its-seventh-generation-robot-platform-at-imts/",
+          "source": "The Robot Report",
+          "published": "2026-09-14T13:25:40+00:00"
         },
         {
           "title": "How autonomous fleets are changing what’s possible in American agriculture",
@@ -548,18 +554,6 @@
           "link": "https://www.therobotreport.com/vention-opens-physical-ai-lab-manufacturing-montreal/",
           "source": "The Robot Report",
           "published": "2026-09-09T15:41:50+00:00"
-        },
-        {
-          "title": "Boston Dynamics veteran launches Dynamic Creatures to bring characters to life with robotics",
-          "link": "https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/",
-          "source": "The Robot Report",
-          "published": "2026-09-08T20:39:51+00:00"
-        },
-        {
-          "title": "AI can’t outrun a humanoid’s hardware",
-          "link": "https://www.therobotreport.com/ai-cant-outrun-a-humanoids-hardware/",
-          "source": "The Robot Report",
-          "published": "2026-09-08T19:03:09+00:00"
         },
         {
           "title": "This Robot Will Draw Your Blood Now",
