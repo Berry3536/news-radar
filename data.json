@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-09-14T03:18:23.187137+00:00",
+  "generated_at": "2026-09-14T11:45:24.345311+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "7,160만 원부터 시작하는 9개 라인업, BEV, HEV 동시 출격 8세대 렉서스 ES",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44514",
+          "source": "모터그래프",
+          "published": "2026-09-14T17:35:54+00:00"
+        },
+        {
+          "title": "Volkswagen Just Unveiled An EV That Can Do Over 9 Miles/kWh",
+          "link": "https://insideevs.com/news/808168/volkswagen-mission-efficiency-concept-range-charging-test/",
+          "source": "InsideEVs",
+          "published": "2026-09-14T11:43:02+00:00"
+        },
+        {
+          "title": "Ionna’s EV Charging Network Grew 50% In Just Six Months",
+          "link": "https://insideevs.com/news/808127/ionna-growth-50-percent-2026/",
+          "source": "InsideEVs",
+          "published": "2026-09-14T08:39:18+00:00"
+        },
+        {
+          "title": "Tesla Semi Is Heading To Europe With One Big Advantage—And One Major Weakness",
+          "link": "https://insideevs.com/news/808111/tesla-semi-europe-launch-specs-official/",
+          "source": "InsideEVs",
+          "published": "2026-09-14T07:24:14+00:00"
+        },
+        {
+          "title": "EPA plans to raise your health costs by $120B on Monday",
+          "link": "https://electrek.co/2026/09/13/epa-plans-to-raise-your-energy-costs-by-120b-on-monday/",
+          "source": "Electrek",
+          "published": "2026-09-14T03:31:47+00:00"
+        },
         {
           "title": "Zürich Airport deploys L4 autonomous shuttle – WITHOUT a human monitor",
           "link": "https://electrek.co/2026/09/13/zurich-airport-deploys-l4-autonomous-shuttle-without-a-human-monitor/",
@@ -145,12 +175,6 @@
           "published": "2026-09-11T18:47:03+00:00"
         },
         {
-          "title": "575억 낙찰, 셸비 코브라 데이토나 쿠페, 페블비치 콩쿠르 드 엘레강스",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44500",
-          "source": "모터그래프",
-          "published": "2026-09-11T18:20:56+00:00"
-        },
-        {
           "title": "Musk promotes blatant Tesla FSD misuse as crash lawyers rejoice",
           "link": "https://electrek.co/2026/09/11/musk-promotes-tesla-fsd-misuse-98-year-old/",
           "source": "Electrek",
@@ -221,37 +245,13 @@
           "link": "https://insideevs.com/news/807980/audi-a2-e-tron-development-time-slashed/",
           "source": "InsideEVs",
           "published": "2026-09-11T13:48:06+00:00"
-        },
-        {
-          "title": "Wheel-E Podcast: ALSO e-bike delays, Nomadix e-moto, $900 for 45mph?, more",
-          "link": "https://electrek.co/2026/09/11/wheel-e-podcast-also-e-bike-delays-nomadix-e-moto-900-for-45mph-more/",
-          "source": "Electrek",
-          "published": "2026-09-11T12:49:10+00:00"
-        },
-        {
-          "title": "Geely TT launches at $19,100 — half the price of a Tesla",
-          "link": "https://electrek.co/2026/09/11/geely-tt-electric-sedan-launch-price-xiaomi-su7/",
-          "source": "Electrek",
-          "published": "2026-09-11T12:40:51+00:00"
-        },
-        {
-          "title": "The Tesla Cybertruck Finally Gets A Feature That Was Promised Three Years Ago",
-          "link": "https://insideevs.com/news/807969/tesla-cybertruck-home-power-backup-powerwall/",
-          "source": "InsideEVs",
-          "published": "2026-09-11T12:37:15+00:00"
-        },
-        {
-          "title": "Continuing post-Labor Day Green Deals hub – EVs, power stations, tools, smart devices, more [Updated]",
-          "link": "https://electrek.co/2026/09/11/labor-day-green-deals-hub-evs-power-stations-tools-smart-devices-more/",
-          "source": "Electrek",
-          "published": "2026-09-11T12:00:00+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 17,
+      "count": 16,
       "items": [
         {
           "title": "New fleet of battery electric trains promises faster, more reliable UK travel",
@@ -320,12 +320,6 @@
           "published": "2026-09-09T18:00:00+00:00"
         },
         {
-          "title": "Energy Vault Scaled Gravity Storage. The Battery Benchmark Is Brutal.",
-          "link": "https://cleantechnica.com/2026/09/09/energy-vault-gravity-storage-vs-bess/",
-          "source": "CleanTechnica",
-          "published": "2026-09-09T14:51:10+00:00"
-        },
-        {
           "title": "The rout continues: BEVs up, ICE way down in China in Aug, Tesla also down",
           "link": "https://electrek.co/2026/09/08/bev-sales-grow-in-china-in-august-everything-else-drops-including-tesla/",
           "source": "Electrek",
@@ -363,6 +357,12 @@
       "count": 15,
       "items": [
         {
+          "title": "특별한 GT 프로그램을 위해 탄생한 페라리 296 GT 모디피카타",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44511",
+          "source": "모터그래프",
+          "published": "2026-09-14T17:35:00+00:00"
+        },
+        {
           "title": "This 2,000W electric scooter hits 34 mph – and Electrek readers save 5%",
           "link": "https://electrek.co/2026/09/12/this-2000w-electric-scooter-hits-34-mph-and-electrek-readers-save-5/",
           "source": "Electrek",
@@ -385,12 +385,6 @@
           "link": "https://electrek.co/2026/09/11/cat-puts-century-old-train-tech-to-work-in-new-heavier-electric-drive-dozer/",
           "source": "Electrek",
           "published": "2026-09-11T23:52:03+00:00"
-        },
-        {
-          "title": "575억 낙찰, 셸비 코브라 데이토나 쿠페, 페블비치 콩쿠르 드 엘레강스",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44500",
-          "source": "모터그래프",
-          "published": "2026-09-11T18:20:56+00:00"
         },
         {
           "title": "A new Arizona plant is going after the rare earth supply crunch",
@@ -460,10 +454,10 @@
       "count": 23,
       "items": [
         {
-          "title": "[Books] 인간의 가능성을 확장하는 로봇공학자",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48469",
+          "title": "LG AI연구원 , ‘AI 토크 콘서트 2026’서 전문가 AI 공개",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48485",
           "source": "로봇신문",
-          "published": "2026-09-14T01:43:37+00:00"
+          "published": "2026-09-14T17:26:32+00:00"
         },
         {
           "title": "How autonomous fleets are changing what’s possible in American agriculture",
@@ -602,13 +596,247 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 1,
+      "count": 40,
       "items": [
         {
-          "title": "구글·MS도 \"AI 속도 조절 동감\"...'안전 연합전선' 5곳으로 확대",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215215",
+          "title": "코그니션, 키미 K3 기반 코딩 모델 'SWE-2' 출시...\"페이블 5.1 맞먹는 성능\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215233",
           "source": "AI타임스",
-          "published": "2026-09-14T12:11:36+00:00"
+          "published": "2026-09-14T17:55:01+00:00"
+        },
+        {
+          "title": "Fundamental Dynamical Units for Physics-Informed Structural Inference from Perturbation Time-Series in Networked Systems",
+          "link": "https://arxiv.org/abs/2609.11934",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Physics-Informed Conformal Prediction: Embedding PDE Consistency into Distribution-Free Uncertainty Quantification for Neural Operators",
+          "link": "https://arxiv.org/abs/2609.11935",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Fed-Equilibrium Framework for Topological Pareto Control in Robust and Fair Clinical Federated Learning",
+          "link": "https://arxiv.org/abs/2609.11937",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Efficient AI Model Deployment Using Quantization Analysis Tool",
+          "link": "https://arxiv.org/abs/2609.11954",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Performance, Efficiency and Collapse -- Advantages and Challenges in Offline Post-training of Code LLMs",
+          "link": "https://arxiv.org/abs/2609.11956",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Look Before You Leap: Pre-Action Verification for LLM Agents",
+          "link": "https://arxiv.org/abs/2609.11957",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Decoding Mixture Perception through Computational Modeling of Component Interactions",
+          "link": "https://arxiv.org/abs/2609.11958",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Space as an Interventional Invariant: Cross-Modal Predictive Geometry for Stratified Cities and Em-Spaced Intelligence",
+          "link": "https://arxiv.org/abs/2609.11959",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "On-Device Language Models for Privacy-Preserving Stress Prediction: A Multimodal Evaluation on Mobile Health",
+          "link": "https://arxiv.org/abs/2609.11961",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "FINESSE: An Agent-Based Simulator and Benchmark Dataset for Multimodal Financial Event Sequences",
+          "link": "https://arxiv.org/abs/2609.11993",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Explainable Prediction from Mobile Sensing Data through LLM-guided Concept Integration",
+          "link": "https://arxiv.org/abs/2609.11995",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "DCRA: Diffusion-Conditioned Representation Alignment for Robust Time-Series Learning",
+          "link": "https://arxiv.org/abs/2609.11997",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Fixed State, Long Reach: What a Constant-Size Cache Buys Block Diffusion at Scale",
+          "link": "https://arxiv.org/abs/2609.11998",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Can We Trust LLM Judges: A Study of Capability-Dependent Biases and Multi-Judge Ensemble for Bias Calibration",
+          "link": "https://arxiv.org/abs/2609.12002",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "QTrans: A Quantum Transformer for Sentiment Classification",
+          "link": "https://arxiv.org/abs/2609.12011",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Certified Safety Curation: Distribution-Free Guarantees for Safe Offline Reinforcement Learning",
+          "link": "https://arxiv.org/abs/2609.12014",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Inverting Self-Triggered Control: Adversarial Reinforcement Learning for Sparse Denial-of-Service Attacks",
+          "link": "https://arxiv.org/abs/2609.12016",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Toward Reliable Railway-Bogie Response Prediction Using Multifidelity TDNN and Physics-Informed Residual Learning",
+          "link": "https://arxiv.org/abs/2609.12018",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Reinforcement Learning for Syndrome Extraction",
+          "link": "https://arxiv.org/abs/2609.12020",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Scalable Discrete-to-Continuous Channel Simulation for Compression and Privacy",
+          "link": "https://arxiv.org/abs/2609.12067",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Score-based Outlier Generation via Controlling the Radon-Nikodym Derivative",
+          "link": "https://arxiv.org/abs/2609.12113",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Almost Sure Convergence Analysis of Stochastic Gradient Methods with Clipping and Additive Noise",
+          "link": "https://arxiv.org/abs/2609.12119",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Rank-Efficient LoRA via Joint Tangent-Space Optimization under Isotropic Curvature",
+          "link": "https://arxiv.org/abs/2609.12123",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "GUIDE: Generative Utility Inference and Decision Engine",
+          "link": "https://arxiv.org/abs/2609.12137",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Certifying Concept Unlearning in Text-to-Image Diffusion Models",
+          "link": "https://arxiv.org/abs/2609.12163",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Estimating Pedestrian Volumes from GIS-Derived Built-Environment Features: A Machine Learning Framework",
+          "link": "https://arxiv.org/abs/2609.12173",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Explanations-Driven Active Feature Acquisition for Algorithmic Recourse",
+          "link": "https://arxiv.org/abs/2609.12179",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Predicting Collision Cross Sections with GRACE: Geometric Residual Adduct Conditioning via Early-fusion",
+          "link": "https://arxiv.org/abs/2609.12223",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Patient-Reported Survey Data Improve Prediction of Opioid Use Disorder",
+          "link": "https://arxiv.org/abs/2609.12224",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "PLSP (Pre-hoc Liminal Space Profiling): OOD Prediction over Detection -- An Anticipatory Approach for Machine Learning Model Reliability",
+          "link": "https://arxiv.org/abs/2609.12225",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "CRFCAN: A Complex-Valued Cross-Domain Residual Network for Joint Channel and Phase Noise Estimation in Sub-THz OFDM Systems",
+          "link": "https://arxiv.org/abs/2609.12244",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "The Rank the Task Demands: A Causal Rank Law for Matrix Memories Trained on Group Composition",
+          "link": "https://arxiv.org/abs/2609.12259",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Adaptive Chemotherapy Control under Tumor Heterogeneity via Reinforcement Learning",
+          "link": "https://arxiv.org/abs/2609.12264",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Reinforcement Learning over Patient Trajectories for Clinical Reasoning in EHR Foundation Models",
+          "link": "https://arxiv.org/abs/2609.12277",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Amortized Low-Rank Adaptation for Model-Based Reinforcement Learning",
+          "link": "https://arxiv.org/abs/2609.12278",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "FRIST: FMRI Representation Informed Shared-space Training Improves EEG-only Individual-Finger BCI Decoding",
+          "link": "https://arxiv.org/abs/2609.12298",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Sampling via Decision-Flow: Training-Free Extraction of Improved Latent Reasoning Paths in Large Language Models",
+          "link": "https://arxiv.org/abs/2609.12317",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Simulating Disengaged Students to Evaluate LLM-based Tutors",
+          "link": "https://arxiv.org/abs/2609.12331",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
+        },
+        {
+          "title": "Theoretical Guarantees for One-Shot Magnitude Pruning and Compute-Adaptive Early Exit",
+          "link": "https://arxiv.org/abs/2609.12337",
+          "source": "arXiv cs.LG",
+          "published": "2026-09-14T04:00:00+00:00"
         }
       ]
     }
