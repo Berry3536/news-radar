@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-09-14T17:39:18.099263+00:00",
+  "generated_at": "2026-09-14T21:26:58.412633+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Kia’s new EV van is over 17.5 ft long and can haul 9 people or lots of cargo [Images]",
+          "link": "https://electrek.co/2026/09/14/kias-new-ev-van-17-5-ft-long-haul-9-people-images/",
+          "source": "Electrek",
+          "published": "2026-09-14T21:21:30+00:00"
+        },
+        {
+          "title": "Toyota is delaying the Highlander EV, but there’s a bigger problem brewing",
+          "link": "https://electrek.co/2026/09/14/toyota-delaying-highlander-ev-creates-bigger-problem/",
+          "source": "Electrek",
+          "published": "2026-09-14T20:39:50+00:00"
+        },
+        {
+          "title": "Waymo Is Bringing Driverless Rides To Las Vegas",
+          "link": "https://insideevs.com/news/808241/waymo-las-vegas-ride-hailing/",
+          "source": "InsideEVs",
+          "published": "2026-09-14T19:10:40+00:00"
+        },
+        {
+          "title": "The Chevy Silverado EV is now America’s most affordable full-size electric pickup",
+          "link": "https://electrek.co/2026/09/14/chevy-silverado-ev-most-affordable-full-size-ev-pickup/",
+          "source": "Electrek",
+          "published": "2026-09-14T18:09:21+00:00"
+        },
+        {
+          "title": "Hyundai's Tesla FSD Rival Is Delayed To 2029. But It May Be Worth The Wait",
+          "link": "https://insideevs.com/news/808227/hyundai-nvidia-atria-ai-autonomous-driving-tesla-fsd/",
+          "source": "InsideEVs",
+          "published": "2026-09-14T18:02:10+00:00"
+        },
+        {
+          "title": "Anker solar HomeKit-ready Wall Light Cam S4 launch deal, Anker SOLIX extends power station sale, Monarc e-bike bundles, more",
+          "link": "https://electrek.co/2026/09/14/anker-solar-homekit-wall-light-cam-s4-anker-solix-power-station-sale-monarc-e-bike-more/",
+          "source": "Electrek",
+          "published": "2026-09-14T18:00:59+00:00"
+        },
         {
           "title": "7,160만 원부터 시작하는 9개 라인업, BEV, HEV 동시 출격 8세대 렉서스 ES",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44514",
@@ -23,12 +59,6 @@
           "link": "https://electrek.co/2026/09/14/byd-leading-solid-state-battery-race-first-ev-2027/",
           "source": "Electrek",
           "published": "2026-09-14T16:27:55+00:00"
-        },
-        {
-          "title": "The Kia PV7 is even bigger than expected and has a range of over 460 km [Images]",
-          "link": "https://electrek.co/2026/09/14/kia-pv7-bigger-than-expected-460-km-range-images/",
-          "source": "Electrek",
-          "published": "2026-09-14T14:30:00+00:00"
         },
         {
           "title": "New Cars Are Getting More Expensive. EVs Are Getting Cheaper",
@@ -215,44 +245,20 @@
           "link": "https://electrek.co/2026/09/11/learn-how-to-save-money-on-gas-at-us-drive-electric-month-events-all-month/",
           "source": "Electrek",
           "published": "2026-09-11T19:00:00+00:00"
-        },
-        {
-          "title": "Upcoming electric Porsche Boxster spotted with no camo on Nurburgring",
-          "link": "https://electrek.co/2026/09/11/upcoming-electric-porsche-boxster-spotted-with-no-camo-on-nurburgring/",
-          "source": "Electrek",
-          "published": "2026-09-11T18:47:03+00:00"
-        },
-        {
-          "title": "Musk promotes blatant Tesla FSD misuse as crash lawyers rejoice",
-          "link": "https://electrek.co/2026/09/11/musk-promotes-tesla-fsd-misuse-98-year-old/",
-          "source": "Electrek",
-          "published": "2026-09-11T18:19:50+00:00"
-        },
-        {
-          "title": "Yozma IN 10 Pro electric mini dirt bike new exclusive $1,699 low + IN 10 at $999, Lectric e-bike sale $792 savings, Anker SOLIX, more",
-          "link": "https://electrek.co/2026/09/11/yozma-in-10-pro-electric-mini-dirt-bike-lectric-e-bike-sale-anker-solix-more/",
-          "source": "Electrek",
-          "published": "2026-09-11T18:00:00+00:00"
-        },
-        {
-          "title": "Hyundai’s IONIQ 6 N looks ready for its US launch with a fresh new attitude [Image]",
-          "link": "https://electrek.co/2026/09/11/hyundais-ioniq-6-n-looks-ready-us-launch-image/",
-          "source": "Electrek",
-          "published": "2026-09-11T17:55:21+00:00"
-        },
-        {
-          "title": "Court blocks Trump from forcing open a dead coal plant that no one wants open",
-          "link": "https://electrek.co/2026/09/11/court-blocks-trump-from-reopening-broken-coal-plant-that-no-one-wants-open/",
-          "source": "Electrek",
-          "published": "2026-09-11T17:48:45+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 17,
+      "count": 18,
       "items": [
+        {
+          "title": "Anker solar HomeKit-ready Wall Light Cam S4 launch deal, Anker SOLIX extends power station sale, Monarc e-bike bundles, more",
+          "link": "https://electrek.co/2026/09/14/anker-solar-homekit-wall-light-cam-s4-anker-solix-power-station-sale-monarc-e-bike-more/",
+          "source": "Electrek",
+          "published": "2026-09-14T18:00:59+00:00"
+        },
         {
           "title": "BYD is ‘leading’ the solid-state battery race, and its first EV with the new tech is almost here",
           "link": "https://electrek.co/2026/09/14/byd-leading-solid-state-battery-race-first-ev-2027/",
@@ -593,10 +599,10 @@
       "count": 40,
       "items": [
         {
-          "title": "코그니션, 키미 K3 기반 코딩 모델 'SWE-2' 출시...\"페이블 5.1 맞먹는 성능\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215233",
+          "title": "국내 AI 업계, '속도 조절론'에 \"취지 공감하나 규제 투명성 확보돼야\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215251",
           "source": "AI타임스",
-          "published": "2026-09-14T17:55:01+00:00"
+          "published": "2026-09-15T04:53:47+00:00"
         },
         {
           "title": "Fundamental Dynamical Units for Physics-Informed Structural Inference from Perturbation Time-Series in Networked Systems",
