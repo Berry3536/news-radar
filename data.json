@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-14T21:26:58.412633+00:00",
+  "generated_at": "2026-09-15T03:20:04.875861+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "EPA just raised health costs by $2.8T, will kill thousands per year (upd.)",
+          "link": "https://electrek.co/2026/09/14/epa-plans-to-raise-your-energy-costs-by-120b-on-monday/",
+          "source": "Electrek",
+          "published": "2026-09-14T23:50:00+00:00"
+        },
+        {
+          "title": "Record-setting performance, 1,000 mile range, and Tesla’s Roadster",
+          "link": "https://electrek.co/2026/09/14/record-setting-performance-1000-mile-range-and-teslas-roadster/",
+          "source": "Electrek",
+          "published": "2026-09-14T22:23:57+00:00"
+        },
+        {
+          "title": "President Trump Says He's Open To Chinese EVs. But Only If They're Made Here",
+          "link": "https://insideevs.com/news/808261/trump-china-car-sales-factory/",
+          "source": "InsideEVs",
+          "published": "2026-09-14T22:02:57+00:00"
+        },
+        {
+          "title": "BYD Takes On The Tesla Semi With Its Own 372-Mile Truck",
+          "link": "https://insideevs.com/news/808257/byd-ett44-electric-semi-truck/",
+          "source": "InsideEVs",
+          "published": "2026-09-14T21:37:40+00:00"
+        },
         {
           "title": "Kia’s new EV van is over 17.5 ft long and can haul 9 people or lots of cargo [Images]",
           "link": "https://electrek.co/2026/09/14/kias-new-ev-van-17-5-ft-long-haul-9-people-images/",
@@ -107,12 +131,6 @@
           "link": "https://insideevs.com/news/808111/tesla-semi-europe-launch-specs-official/",
           "source": "InsideEVs",
           "published": "2026-09-14T07:24:14+00:00"
-        },
-        {
-          "title": "EPA plans to raise your health costs by $120B on Monday",
-          "link": "https://electrek.co/2026/09/13/epa-plans-to-raise-your-energy-costs-by-120b-on-monday/",
-          "source": "Electrek",
-          "published": "2026-09-14T03:31:47+00:00"
         },
         {
           "title": "Zürich Airport deploys L4 autonomous shuttle – WITHOUT a human monitor",
@@ -227,32 +245,20 @@
           "link": "https://electrek.co/2026/09/11/podcast-tesla-semi-mixed-bag-of-ev-sales-chinese-evs-in-the-us-and-more/",
           "source": "Electrek",
           "published": "2026-09-11T19:40:59+00:00"
-        },
-        {
-          "title": "Lawmaker Demand Feds Take Action After 43 Tesla Drivers Filmed Asleep At The Wheel",
-          "link": "https://insideevs.com/news/807893/tesla-sleeping-congress-nhtsa-demand/",
-          "source": "InsideEVs",
-          "published": "2026-09-11T19:13:08+00:00"
-        },
-        {
-          "title": "EV prices are falling while the average new car tops $50K",
-          "link": "https://electrek.co/2026/09/11/ev-prices-are-falling-while-the-average-new-car-tops-50k/",
-          "source": "Electrek",
-          "published": "2026-09-11T19:07:23+00:00"
-        },
-        {
-          "title": "Want to get off gas? Learn how at Drive Electric Month events across the US",
-          "link": "https://electrek.co/2026/09/11/learn-how-to-save-money-on-gas-at-us-drive-electric-month-events-all-month/",
-          "source": "Electrek",
-          "published": "2026-09-11T19:00:00+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 18,
+      "count": 19,
       "items": [
+        {
+          "title": "BYD Takes On The Tesla Semi With Its Own 372-Mile Truck",
+          "link": "https://insideevs.com/news/808257/byd-ett44-electric-semi-truck/",
+          "source": "InsideEVs",
+          "published": "2026-09-14T21:37:40+00:00"
+        },
         {
           "title": "Anker solar HomeKit-ready Wall Light Cam S4 launch deal, Anker SOLIX extends power station sale, Monarc e-bike bundles, more",
           "link": "https://electrek.co/2026/09/14/anker-solar-homekit-wall-light-cam-s4-anker-solix-power-station-sale-monarc-e-bike-more/",
@@ -454,6 +460,18 @@
       "count": 23,
       "items": [
         {
+          "title": "Why RaaS needs more than a subscription model",
+          "link": "https://www.therobotreport.com/why-raas-needs-more-than-a-subscription-model/",
+          "source": "The Robot Report",
+          "published": "2026-09-14T21:45:57+00:00"
+        },
+        {
+          "title": "Report covers advances in surgical robots, deploying warehouse automation in the real world",
+          "link": "https://www.therobotreport.com/report-covers-surgical-robot-advances-deploying-warehouse-automation-real-world/",
+          "source": "The Robot Report",
+          "published": "2026-09-14T21:01:59+00:00"
+        },
+        {
           "title": "LG AI연구원 , ‘AI 토크 콘서트 2026’서 전문가 AI 공개",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48485",
           "source": "로봇신문",
@@ -550,18 +568,6 @@
           "published": "2026-09-09T19:34:57+00:00"
         },
         {
-          "title": "AGIBOT to explain how to scale humanoids from the lab to the real world at RoboBusiness",
-          "link": "https://www.therobotreport.com/agibot-share-plans-scale-humanoids-from-lab-to-real-world-at-robobusiness/",
-          "source": "The Robot Report",
-          "published": "2026-09-09T16:43:28+00:00"
-        },
-        {
-          "title": "Vention opens Physical AI Lab for manufacturing in Montreal",
-          "link": "https://www.therobotreport.com/vention-opens-physical-ai-lab-manufacturing-montreal/",
-          "source": "The Robot Report",
-          "published": "2026-09-09T15:41:50+00:00"
-        },
-        {
           "title": "This Robot Will Draw Your Blood Now",
           "link": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
           "source": "IEEE Spectrum",
@@ -599,10 +605,10 @@
       "count": 40,
       "items": [
         {
-          "title": "국내 AI 업계, '속도 조절론'에 \"취지 공감하나 규제 투명성 확보돼야\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215251",
+          "title": "\"최고 성능에 비용은 반값\"...'라이너 모델 API' 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215271",
           "source": "AI타임스",
-          "published": "2026-09-15T04:53:47+00:00"
+          "published": "2026-09-15T12:00:12+00:00"
         },
         {
           "title": "Fundamental Dynamical Units for Physics-Informed Structural Inference from Perturbation Time-Series in Networked Systems",
