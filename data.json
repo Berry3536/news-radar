@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:02:14.030122+00:00",
+  "generated_at": "2026-09-15T16:12:50.782844+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,60 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44526",
           "source": "모터그래프",
           "published": "2026-09-15T17:42:42+00:00"
+        },
+        {
+          "title": "Kia’s new PV7 EV van shows up in the US [Image]",
+          "link": "https://electrek.co/2026/09/15/kias-new-pv7-ev-van-shows-up-in-the-us-image/",
+          "source": "Electrek",
+          "published": "2026-09-15T15:35:14+00:00"
+        },
+        {
+          "title": "The world’s largest EV company just partnered with an African electric motorcycle company",
+          "link": "https://electrek.co/2026/09/15/the-worlds-largest-ev-company-just-partnered-with-an-african-electric-motorcycle-company/",
+          "source": "Electrek",
+          "published": "2026-09-15T15:15:00+00:00"
+        },
+        {
+          "title": "NYC’s newest electric school buses come with a money-saving twist",
+          "link": "https://electrek.co/2026/09/15/nycs-newest-electric-school-buses-come-with-a-money-saving-twist/",
+          "source": "Electrek",
+          "published": "2026-09-15T15:00:00+00:00"
+        },
+        {
+          "title": "Volvo’s new PHEVs beat the Toyota RAV4 with up to 78 miles of electric range",
+          "link": "https://electrek.co/2026/09/15/volvos-new-phevs-beat-toyota-rav4-78-miles-ev-range/",
+          "source": "Electrek",
+          "published": "2026-09-15T14:05:42+00:00"
+        },
+        {
+          "title": "Tesla’s record month: 4 fatal Autopilot and Full Self-Driving crashes",
+          "link": "https://electrek.co/2026/09/15/tesla-four-fatal-driver-assist-crashes-july-2026/",
+          "source": "Electrek",
+          "published": "2026-09-15T14:05:06+00:00"
+        },
+        {
+          "title": "Stark turns its 80 hp electric supermoto into a titanium-loaded blacked-out beast",
+          "link": "https://electrek.co/2026/09/15/stark-turns-its-80-hp-electric-supermoto-into-a-titanium-loaded-blacked-out-beast/",
+          "source": "Electrek",
+          "published": "2026-09-15T13:33:09+00:00"
+        },
+        {
+          "title": "This Brooklyn startup will put nearly 700 EV plugs on NYC curbs",
+          "link": "https://electrek.co/2026/09/15/this-brooklyn-startup-will-put-nearly-700-ev-plugs-on-nyc-streets/",
+          "source": "Electrek",
+          "published": "2026-09-15T13:10:00+00:00"
+        },
+        {
+          "title": "New York City Is Getting 700 EV Chargers Right On The Curb",
+          "link": "https://insideevs.com/news/808264/new-york-ev-charging-its-electric-curbside/",
+          "source": "InsideEVs",
+          "published": "2026-09-15T13:01:00+00:00"
+        },
+        {
+          "title": "Segway’s new 28 MPH MUXI Pro cargo e-bike gets automatic shifting and regen braking",
+          "link": "https://electrek.co/2026/09/15/segways-new-28-mph-muxi-pro-cargo-e-bike-gets-automatic-shifting-and-regen-braking/",
+          "source": "Electrek",
+          "published": "2026-09-15T13:00:00+00:00"
         },
         {
           "title": "BMW Is Giving Its Navigation System A Tesla-Style Makeover",
@@ -191,68 +245,26 @@
           "link": "https://electrek.co/2026/09/12/last-year-byd-bought-the-worlds-largest-car-carrier-they-just-ordered-10-more/",
           "source": "Electrek",
           "published": "2026-09-12T17:07:36+00:00"
-        },
-        {
-          "title": "E-quipment highlight: wreck stuff anywhere with CASE TL100EV [video]",
-          "link": "https://electrek.co/2026/09/12/e-quipment-highlight-wreck-stuff-anywhere-with-case-tl100ev-video/",
-          "source": "Electrek",
-          "published": "2026-09-12T15:46:32+00:00"
-        },
-        {
-          "title": "This 2,000W electric scooter hits 34 mph – and Electrek readers save 5%",
-          "link": "https://electrek.co/2026/09/12/this-2000w-electric-scooter-hits-34-mph-and-electrek-readers-save-5/",
-          "source": "Electrek",
-          "published": "2026-09-12T15:00:00+00:00"
-        },
-        {
-          "title": "New fleet of battery electric trains promises faster, more reliable UK travel",
-          "link": "https://electrek.co/2026/09/12/new-fleet-of-battery-electric-trains-promises-faster-more-reliable-uk-travel/",
-          "source": "Electrek",
-          "published": "2026-09-12T14:50:51+00:00"
-        },
-        {
-          "title": "Electric cars and solar are the hedge against this out-of-control energy crisis",
-          "link": "https://electrek.co/2026/09/12/evs-solar-v2h-hedge-energy-crisis/",
-          "source": "Electrek",
-          "published": "2026-09-12T14:17:32+00:00"
-        },
-        {
-          "title": "This Tesla Model 3 Just Hit 250,000 Miles With Only One Minor Part Failure",
-          "link": "https://insideevs.com/news/807916/250000-miles-tesla-model-3-costs-maintenance-owner-review/",
-          "source": "InsideEVs",
-          "published": "2026-09-12T14:00:00+00:00"
-        },
-        {
-          "title": "Your EV Has Two Horsepower Ratings. Automakers Only Advertise One",
-          "link": "https://insideevs.com/news/806789/peak-versus-sustained-power-evs/",
-          "source": "InsideEVs",
-          "published": "2026-09-12T13:00:00+00:00"
-        },
-        {
-          "title": "Unpacking Ford's Spat With The Trump Administration Over China",
-          "link": "https://insideevs.com/news/808027/ford-duffy-china-letter-podcast/",
-          "source": "InsideEVs",
-          "published": "2026-09-12T11:00:00+00:00"
-        },
-        {
-          "title": "Amazon puts 50 Mercedes-Benz eActros electric semi trucks to work in Germany",
-          "link": "https://electrek.co/2026/09/11/amazon-puts-50-mercedes-benz-eactros-electric-semi-trucks-to-work-in-germany/",
-          "source": "Electrek",
-          "published": "2026-09-12T00:33:03+00:00"
-        },
-        {
-          "title": "CAT puts century-old train tech to work in new, heavier electric drive dozer",
-          "link": "https://electrek.co/2026/09/11/cat-puts-century-old-train-tech-to-work-in-new-heavier-electric-drive-dozer/",
-          "source": "Electrek",
-          "published": "2026-09-11T23:52:03+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 19,
+      "count": 18,
       "items": [
+        {
+          "title": "The world’s largest EV company just partnered with an African electric motorcycle company",
+          "link": "https://electrek.co/2026/09/15/the-worlds-largest-ev-company-just-partnered-with-an-african-electric-motorcycle-company/",
+          "source": "Electrek",
+          "published": "2026-09-15T15:15:00+00:00"
+        },
+        {
+          "title": "Scania Launches 720-KM Battery Electric Truck, Hydrogen Stakeholders Double Down",
+          "link": "https://cleantechnica.com/2026/09/15/electric-trucks-battery-fuel-cell-hydrogen-tesla-scania-volvo-daimler-toyot/",
+          "source": "CleanTechnica",
+          "published": "2026-09-15T12:44:52+00:00"
+        },
         {
           "title": "BYD Takes On The Tesla Semi With Its Own 372-Mile Truck",
           "link": "https://insideevs.com/news/808257/byd-ett44-electric-semi-truck/",
@@ -332,12 +344,6 @@
           "published": "2026-09-10T18:00:00+00:00"
         },
         {
-          "title": "Could Jackery EnergyGuard Max Lead A Shift To Large Capacity Home Batteries?",
-          "link": "https://cleantechnica.com/2026/09/10/could-jackery-energyguard-max-lead-a-shift-to-large-capacity-home-batteries/",
-          "source": "CleanTechnica",
-          "published": "2026-09-10T14:42:14+00:00"
-        },
-        {
           "title": "Yozma electric mini dirt bikes exclusive $595 savings, EcoFlow flash 2x 3,072Wh DELTA 3 Ultra power stations $1,800 off, EGO, more",
           "link": "https://electrek.co/2026/09/09/yozma-electric-mini-dirt-bikes-exclusive-ecoflow-3072wh-delta-3-ultra-power-stations-ego-more/",
           "source": "Electrek",
@@ -354,31 +360,25 @@
           "link": "https://electrek.co/2026/09/07/evokes-new-5000-electric-motorcycle-can-hit-highway-speeds-coming-to-us-eu/",
           "source": "Electrek",
           "published": "2026-09-07T13:30:29+00:00"
-        },
-        {
-          "title": "Answering random Redditor’s questions with professional backup: home solar edition",
-          "link": "https://electrek.co/2026/09/05/answering-random-redditors-questions-with-professional-backup-home-solar-edition/",
-          "source": "Electrek",
-          "published": "2026-09-05T15:06:47+00:00"
-        },
-        {
-          "title": "E-quipment highlight: BLUETTI Pioneer 5000 E-Generator",
-          "link": "https://electrek.co/2026/09/05/e-quipment-highlight-bluetti-pioneer-5000-e-generator/",
-          "source": "Electrek",
-          "published": "2026-09-05T14:02:14+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 13,
+      "count": 14,
       "items": [
         {
           "title": "아우모비오, 고도 자율주행 겨냥한 차세대 분산형 브레이크 시스템 공개",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44521",
           "source": "모터그래프",
           "published": "2026-09-15T17:13:22+00:00"
+        },
+        {
+          "title": "The world’s largest EV company just partnered with an African electric motorcycle company",
+          "link": "https://electrek.co/2026/09/15/the-worlds-largest-ev-company-just-partnered-with-an-african-electric-motorcycle-company/",
+          "source": "Electrek",
+          "published": "2026-09-15T15:15:00+00:00"
         },
         {
           "title": "Tesla Cybercab turns 10-minute Austin trip into 70-minute detour",
@@ -457,13 +457,25 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 23,
+      "count": 24,
       "items": [
         {
           "title": "국립부경대 김대석 교수팀, 고출력 인공근육 개발…소프트 로봇 분야 활용 기대",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48516",
           "source": "로봇신문",
           "published": "2026-09-15T17:50:36+00:00"
+        },
+        {
+          "title": "Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe",
+          "link": "https://spectrum.ieee.org/humanoid-robot-safety",
+          "source": "IEEE Spectrum",
+          "published": "2026-09-15T15:22:30+00:00"
+        },
+        {
+          "title": "InOrbit.AI releases OpenRobOps ISO 21423 reference implementation",
+          "link": "https://www.therobotreport.com/inorbit-ai-releases-openrobops-iso-21423-reference-implementation/",
+          "source": "The Robot Report",
+          "published": "2026-09-15T12:58:29+00:00"
         },
         {
           "title": "Agility’s Digit 5 humanoid has new legs, batteries and safety upgrades",
@@ -560,12 +572,6 @@
           "link": "https://spectrum.ieee.org/tactile-data-robots",
           "source": "IEEE Spectrum",
           "published": "2026-09-10T18:22:35+00:00"
-        },
-        {
-          "title": "What bricklaying has taught Monumental about robots in construction",
-          "link": "https://www.therobotreport.com/what-bricklaying-has-taught-monumental-about-robots-construction/",
-          "source": "The Robot Report",
-          "published": "2026-09-09T21:08:06+00:00"
         },
         {
           "title": "This Robot Will Draw Your Blood Now",
