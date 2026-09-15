@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:12:50.782844+00:00",
+  "generated_at": "2026-09-15T20:51:02.555670+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,64 @@
       "count": 40,
       "items": [
         {
+          "title": "GM's New UI For Trucks Plays Nice With CarPlay",
+          "link": "https://insideevs.com/news/808414/carplay-gm-ui-update-2027/",
+          "source": "InsideEVs",
+          "published": "2026-09-15T20:19:45+00:00"
+        },
+        {
+          "title": "BYD reveals the new Denza N8L EV, a smart luxury SUV with 960 km of range for about $45,000",
+          "link": "https://electrek.co/2026/09/15/byd-reveals-new-luxury-ev-suv-960-km-range-for-45000/",
+          "source": "Electrek",
+          "published": "2026-09-15T19:29:22+00:00"
+        },
+        {
+          "title": "CATL's New Electric Truck Battery Is Coming For Diesel's Biggest Advantage",
+          "link": "https://insideevs.com/news/808395/catl-new-megawatt-battery-commercial/",
+          "source": "InsideEVs",
+          "published": "2026-09-15T19:13:23+00:00"
+        },
+        {
+          "title": "People Are Already Modding The Tiny Fiat Topolino. I Want One, Badly",
+          "link": "https://insideevs.com/news/808412/people-modding-fiat-topolinos/",
+          "source": "InsideEVs",
+          "published": "2026-09-15T18:58:25+00:00"
+        },
+        {
+          "title": "Tesla’s new Roadster teaser hints at a ‘Cyber’ redesign it doesn’t need",
+          "link": "https://electrek.co/2026/09/15/tesla-roadster-cyber-treatment-redesign/",
+          "source": "Electrek",
+          "published": "2026-09-15T18:08:50+00:00"
+        },
+        {
+          "title": "Velotric Summit 1 multi-terrain e-bike $300 off, Jackery 2,048Wh HomePower V2 400W solar bundle, rare Husqvarna deal, more",
+          "link": "https://electrek.co/2026/09/15/velotric-summit-1-multi-terrain-e-bike-jackery-2048wh-homepower-v2-husqvarna-more/",
+          "source": "Electrek",
+          "published": "2026-09-15T18:00:00+00:00"
+        },
+        {
+          "title": "Is GM’s new software a sign that it will bring CarPlay back to its electric cars?",
+          "link": "https://electrek.co/2026/09/15/is-gms-new-software-a-sign-that-it-will-bring-carplay-back-to-its-electric-cars/",
+          "source": "Electrek",
+          "published": "2026-09-15T17:49:45+00:00"
+        },
+        {
           "title": "현대자동차, 중증 장애아동 위한 특수 유모차 지원",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44526",
           "source": "모터그래프",
           "published": "2026-09-15T17:42:42+00:00"
+        },
+        {
+          "title": "BMW’s new iX3 looks like a hit, making up 1 in 3 EV orders in Europe",
+          "link": "https://electrek.co/2026/09/15/bmws-new-ix3-hit-1-in-3-ev-orders-europe/",
+          "source": "Electrek",
+          "published": "2026-09-15T17:11:35+00:00"
+        },
+        {
+          "title": "2027 Mercedes GLC 400 Electric Review: The Best Mercedes EV Ever, And It’s Not Close",
+          "link": "https://insideevs.com/reviews/808381/mercedes-glc/",
+          "source": "InsideEVs",
+          "published": "2026-09-15T16:53:49+00:00"
         },
         {
           "title": "Kia’s new PV7 EV van shows up in the US [Image]",
@@ -191,68 +245,32 @@
           "link": "https://electrek.co/2026/09/14/shell-faw-partner-on-better-safer-electric-semi-truck-batteries/",
           "source": "Electrek",
           "published": "2026-09-14T12:23:46+00:00"
-        },
-        {
-          "title": "Volkswagen Just Unveiled The Most Efficient EV Ever Tested",
-          "link": "https://insideevs.com/news/808168/volkswagen-mission-efficiency-concept-range-charging-test/",
-          "source": "InsideEVs",
-          "published": "2026-09-14T11:43:02+00:00"
-        },
-        {
-          "title": "Ionna’s EV Charging Network Grew 50% In Just Six Months",
-          "link": "https://insideevs.com/news/808127/ionna-growth-50-percent-2026/",
-          "source": "InsideEVs",
-          "published": "2026-09-14T08:39:18+00:00"
-        },
-        {
-          "title": "Tesla Semi Is Heading To Europe With One Big Advantage—And One Major Weakness",
-          "link": "https://insideevs.com/news/808111/tesla-semi-europe-launch-specs-official/",
-          "source": "InsideEVs",
-          "published": "2026-09-14T07:24:14+00:00"
-        },
-        {
-          "title": "Zürich Airport deploys L4 autonomous shuttle – WITHOUT a human monitor",
-          "link": "https://electrek.co/2026/09/13/zurich-airport-deploys-l4-autonomous-shuttle-without-a-human-monitor/",
-          "source": "Electrek",
-          "published": "2026-09-13T17:44:27+00:00"
-        },
-        {
-          "title": "GoSun built a practical electric tractor that charges itself with solar panels [video]",
-          "link": "https://electrek.co/2026/09/13/gosun-built-a-practical-electric-tractor-that-charges-itself-with-solar-panels-video/",
-          "source": "Electrek",
-          "published": "2026-09-13T17:06:42+00:00"
-        },
-        {
-          "title": "People Are Mad About The Jeep Recon's 222-Mile Range. Here's What They're Missing",
-          "link": "https://insideevs.com/features/808009/jeep-recon-range-problems/",
-          "source": "InsideEVs",
-          "published": "2026-09-13T14:00:00+00:00"
-        },
-        {
-          "title": "Tesla Confirms Next-Generation Roadster Reveal On October 1",
-          "link": "https://insideevs.com/news/808054/tesla-roadster-ev-october-2026-reveal/",
-          "source": "InsideEVs",
-          "published": "2026-09-12T19:26:59+00:00"
-        },
-        {
-          "title": "Tesla teases new Roadster reveal for October 1: ‘Go for launch’",
-          "link": "https://electrek.co/2026/09/12/tesla-roadster-october-1-reveal-teaser/",
-          "source": "Electrek",
-          "published": "2026-09-12T19:15:44+00:00"
-        },
-        {
-          "title": "Last year, BYD bought the world’s largest car carrier – they just ordered 10 more",
-          "link": "https://electrek.co/2026/09/12/last-year-byd-bought-the-worlds-largest-car-carrier-they-just-ordered-10-more/",
-          "source": "Electrek",
-          "published": "2026-09-12T17:07:36+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 18,
+      "count": 19,
       "items": [
+        {
+          "title": "CATL's New Electric Truck Battery Is Coming For Diesel's Biggest Advantage",
+          "link": "https://insideevs.com/news/808395/catl-new-megawatt-battery-commercial/",
+          "source": "InsideEVs",
+          "published": "2026-09-15T19:13:23+00:00"
+        },
+        {
+          "title": "Velotric Summit 1 multi-terrain e-bike $300 off, Jackery 2,048Wh HomePower V2 400W solar bundle, rare Husqvarna deal, more",
+          "link": "https://electrek.co/2026/09/15/velotric-summit-1-multi-terrain-e-bike-jackery-2048wh-homepower-v2-husqvarna-more/",
+          "source": "Electrek",
+          "published": "2026-09-15T18:00:00+00:00"
+        },
+        {
+          "title": "Stellantis Expands Electric Commercial Vehicle Lineup at IAA Transportation",
+          "link": "https://cleantechnica.com/2026/09/15/stellantis-expands-electric-commercial-vehicle-lineup-at-iaa-transportation/",
+          "source": "CleanTechnica",
+          "published": "2026-09-15T16:32:11+00:00"
+        },
         {
           "title": "The world’s largest EV company just partnered with an African electric motorcycle company",
           "link": "https://electrek.co/2026/09/15/the-worlds-largest-ev-company-just-partnered-with-an-african-electric-motorcycle-company/",
@@ -294,12 +312,6 @@
           "link": "https://electrek.co/2026/09/12/new-fleet-of-battery-electric-trains-promises-faster-more-reliable-uk-travel/",
           "source": "Electrek",
           "published": "2026-09-12T14:50:51+00:00"
-        },
-        {
-          "title": "This Tesla Model 3 Just Hit 250,000 Miles With Only One Minor Part Failure",
-          "link": "https://insideevs.com/news/807916/250000-miles-tesla-model-3-costs-maintenance-owner-review/",
-          "source": "InsideEVs",
-          "published": "2026-09-12T14:00:00+00:00"
         },
         {
           "title": "MG Motors Philippines Launches New EV",
@@ -354,19 +366,13 @@
           "link": "https://electrek.co/2026/09/08/bev-sales-grow-in-china-in-august-everything-else-drops-including-tesla/",
           "source": "Electrek",
           "published": "2026-09-08T17:48:13+00:00"
-        },
-        {
-          "title": "Evoke’s new $5,000 electric motorcycle can hit highway speeds, coming to US & EU",
-          "link": "https://electrek.co/2026/09/07/evokes-new-5000-electric-motorcycle-can-hit-highway-speeds-coming-to-us-eu/",
-          "source": "Electrek",
-          "published": "2026-09-07T13:30:29+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 14,
+      "count": 10,
       "items": [
         {
           "title": "아우모비오, 고도 자율주행 겨냥한 차세대 분산형 브레이크 시스템 공개",
@@ -391,18 +397,6 @@
           "link": "https://electrek.co/2026/09/12/this-2000w-electric-scooter-hits-34-mph-and-electrek-readers-save-5/",
           "source": "Electrek",
           "published": "2026-09-12T15:00:00+00:00"
-        },
-        {
-          "title": "This Tesla Model 3 Just Hit 250,000 Miles With Only One Minor Part Failure",
-          "link": "https://insideevs.com/news/807916/250000-miles-tesla-model-3-costs-maintenance-owner-review/",
-          "source": "InsideEVs",
-          "published": "2026-09-12T14:00:00+00:00"
-        },
-        {
-          "title": "Your EV Has Two Horsepower Ratings. Automakers Only Advertise One",
-          "link": "https://insideevs.com/news/806789/peak-versus-sustained-power-evs/",
-          "source": "InsideEVs",
-          "published": "2026-09-12T13:00:00+00:00"
         },
         {
           "title": "CAT puts century-old train tech to work in new, heavier electric drive dozer",
@@ -439,18 +433,6 @@
           "link": "https://electrek.co/2026/09/08/engwes-new-e26-3-0-packs-dual-motors-full-suspension-and-tons-of-torque/",
           "source": "Electrek",
           "published": "2026-09-08T10:22:51+00:00"
-        },
-        {
-          "title": "Evoke’s new $5,000 electric motorcycle can hit highway speeds, coming to US & EU",
-          "link": "https://electrek.co/2026/09/07/evokes-new-5000-electric-motorcycle-can-hit-highway-speeds-coming-to-us-eu/",
-          "source": "Electrek",
-          "published": "2026-09-07T13:30:29+00:00"
-        },
-        {
-          "title": "Another Chinese EV myth busted as GAC, Geely, and Leapmotor ace Euro NCAP",
-          "link": "https://electrek.co/2026/09/06/another-chinese-ev-myth-busted-as-gac-geely-and-leapmotor-ace-euro-ncap/",
-          "source": "Electrek",
-          "published": "2026-09-07T00:54:26+00:00"
         }
       ]
     },
