@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:49:27.044753+00:00",
+  "generated_at": "2026-09-16T16:05:48.181064+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,36 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44527",
           "source": "모터그래프",
           "published": "2026-09-16T17:01:20+00:00"
+        },
+        {
+          "title": "Tesla’s new ‘Accordion’ Supercharger could speed up its slow buildout",
+          "link": "https://electrek.co/2026/09/16/tesla-accordion-supercharger-deployment/",
+          "source": "Electrek",
+          "published": "2026-09-16T14:56:06+00:00"
+        },
+        {
+          "title": "Volkswagen’s new electric hot hatch delivers more power than the Golf GTI [Images]",
+          "link": "https://electrek.co/2026/09/16/vws-new-ev-hot-hatch-more-power-than-golf-gti-images/",
+          "source": "Electrek",
+          "published": "2026-09-16T14:49:30+00:00"
+        },
+        {
+          "title": "Rivian’s ALSO e-bikes are finally hitting the road – but not for frustrated customers",
+          "link": "https://electrek.co/2026/09/16/rivians-also-e-bikes-are-finally-hitting-the-road-but-not-for-frustrated-customers/",
+          "source": "Electrek",
+          "published": "2026-09-16T12:33:00+00:00"
+        },
+        {
+          "title": "New Volkswagen ID.3 GTI: The First RWD GTI Is Here With More Power Than Ever",
+          "link": "https://insideevs.com/news/808505/vw-id3-gti-official-range-specs/",
+          "source": "InsideEVs",
+          "published": "2026-09-16T12:25:49+00:00"
+        },
+        {
+          "title": "The 2027 Porsche Cayenne EV Can Open Its Doors For You At The Press Of A Button",
+          "link": "https://insideevs.com/news/808453/2027-porsche-cayenne-electric-doors-updates/",
+          "source": "InsideEVs",
+          "published": "2026-09-16T12:00:00+00:00"
         },
         {
           "title": "Tesla's New 'Accordion' Superchargers Promise Instant Commissioning",
@@ -215,44 +245,32 @@
           "link": "https://electrek.co/2026/09/14/toyota-delaying-highlander-ev-creates-bigger-problem/",
           "source": "Electrek",
           "published": "2026-09-14T20:39:50+00:00"
-        },
-        {
-          "title": "Waymo Is Bringing Driverless Rides To Las Vegas",
-          "link": "https://insideevs.com/news/808241/waymo-las-vegas-ride-hailing/",
-          "source": "InsideEVs",
-          "published": "2026-09-14T19:10:40+00:00"
-        },
-        {
-          "title": "The Chevy Silverado EV is now America’s most affordable full-size electric pickup",
-          "link": "https://electrek.co/2026/09/14/chevy-silverado-ev-most-affordable-full-size-ev-pickup/",
-          "source": "Electrek",
-          "published": "2026-09-14T18:09:21+00:00"
-        },
-        {
-          "title": "Hyundai's Tesla FSD Rival Is Delayed To 2029. But It May Be Worth The Wait",
-          "link": "https://insideevs.com/news/808227/hyundai-nvidia-atria-ai-autonomous-driving-tesla-fsd/",
-          "source": "InsideEVs",
-          "published": "2026-09-14T18:02:10+00:00"
-        },
-        {
-          "title": "Anker solar HomeKit-ready Wall Light Cam S4 launch deal, Anker SOLIX extends power station sale, Monarc e-bike bundles, more",
-          "link": "https://electrek.co/2026/09/14/anker-solar-homekit-wall-light-cam-s4-anker-solix-power-station-sale-monarc-e-bike-more/",
-          "source": "Electrek",
-          "published": "2026-09-14T18:00:59+00:00"
-        },
-        {
-          "title": "Tesla Cybercab turns 10-minute Austin trip into 70-minute detour",
-          "link": "https://electrek.co/2026/09/14/tesla-cybercab-70-minute-austin-detour/",
-          "source": "Electrek",
-          "published": "2026-09-14T17:14:07+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 20,
+      "count": 22,
       "items": [
+        {
+          "title": "Good News, Bad News From IAA Transportation Show In Germany",
+          "link": "https://cleantechnica.com/2026/09/16/good-news-bad-news-from-iaa-transportation-show-in-germany/",
+          "source": "CleanTechnica",
+          "published": "2026-09-16T15:54:44+00:00"
+        },
+        {
+          "title": "Europe’s Electric Backbone",
+          "link": "https://cleantechnica.com/2026/09/16/europes-electric-backbone/",
+          "source": "CleanTechnica",
+          "published": "2026-09-16T14:07:50+00:00"
+        },
+        {
+          "title": "ActionAid Report Argues For Cancelling Debt In Climate-Vulnerable Countries",
+          "link": "https://cleantechnica.com/2026/09/16/actionaid-report-argues-for-cancelling-debt-in-climate-vulnerable-countries/",
+          "source": "CleanTechnica",
+          "published": "2026-09-16T13:33:13+00:00"
+        },
         {
           "title": "Holcim Integrates Two Joule Hive Thermal Batteries Into Its Cement Making Facility",
           "link": "https://cleantechnica.com/2026/09/15/holcim-integrates-two-joule-hive-thermal-batteries-into-its-cement-making-facility/",
@@ -342,12 +360,6 @@
           "link": "https://electrek.co/2026/09/11/upcoming-electric-porsche-boxster-spotted-with-no-camo-on-nurburgring/",
           "source": "Electrek",
           "published": "2026-09-11T18:47:03+00:00"
-        },
-        {
-          "title": "BLUETTI Launches New Energy Solutions for Work, Home, & Life on the Move at IFA 2026",
-          "link": "https://cleantechnica.com/2026/09/11/bluetti-launches-new-energy-solutions-for-work-home-life-on-the-move-at-ifa-2026/",
-          "source": "CleanTechnica",
-          "published": "2026-09-11T13:49:33+00:00"
         },
         {
           "title": "Tesla Cybertruck Powershare finally backs up homes with a Powerwall 3",
