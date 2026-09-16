@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-15T20:51:02.555670+00:00",
+  "generated_at": "2026-09-16T03:16:11.309678+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "The 2027 Ford F-150 Unlocks Hands-Free Towing Through BlueCruise",
+          "link": "https://insideevs.com/news/808408/ford-bluecruise-f150-handsfree-towing/",
+          "source": "InsideEVs",
+          "published": "2026-09-15T21:49:52+00:00"
+        },
+        {
+          "title": "The Hyundai IONIQ 5 is a bit more expensive to lease this month, but it’s still a great deal",
+          "link": "https://electrek.co/2026/09/15/hyundai-raised-ioniq-5-lease-rates-still-great-deal/",
+          "source": "Electrek",
+          "published": "2026-09-15T21:45:23+00:00"
+        },
+        {
+          "title": "Kia's New Electric Van Is Bigger And Better, With An 800V Architecture And Flexible Body Styles",
+          "link": "https://insideevs.com/news/808421/kia-pv7-800v-charging/",
+          "source": "InsideEVs",
+          "published": "2026-09-15T21:32:09+00:00"
+        },
+        {
+          "title": "NHTSA orders Tesla to prove its Cybercab is legal to sell, under oath",
+          "link": "https://electrek.co/2026/09/15/nhtsa-tesla-cybercab-special-order-fmvss-certification/",
+          "source": "Electrek",
+          "published": "2026-09-15T21:00:45+00:00"
+        },
         {
           "title": "GM's New UI For Trucks Plays Nice With CarPlay",
           "link": "https://insideevs.com/news/808414/carplay-gm-ui-update-2027/",
@@ -43,7 +67,7 @@
           "published": "2026-09-15T18:00:00+00:00"
         },
         {
-          "title": "Is GM’s new software a sign that it will bring CarPlay back to its electric cars?",
+          "title": "Is CarPlay coming back to GM EVs? Its new software update could be a hint",
           "link": "https://electrek.co/2026/09/15/is-gms-new-software-a-sign-that-it-will-bring-carplay-back-to-its-electric-cars/",
           "source": "Electrek",
           "published": "2026-09-15T17:49:45+00:00"
@@ -221,38 +245,20 @@
           "link": "https://insideevs.com/news/808190/evs-are-getting-cheaper-august/",
           "source": "InsideEVs",
           "published": "2026-09-14T14:06:55+00:00"
-        },
-        {
-          "title": "Here are the best electric bikes you can buy at every price level in September 2026",
-          "link": "https://electrek.co/2026/09/14/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/",
-          "source": "Electrek",
-          "published": "2026-09-14T13:45:00+00:00"
-        },
-        {
-          "title": "Volkswagen Mission Efficiency: the XL1 comes back as 1,000-mile range electric car",
-          "link": "https://electrek.co/2026/09/14/volkswagen-mission-efficiency-the-xl1-comes-back-as-1000-mile-range-electric-car/",
-          "source": "Electrek",
-          "published": "2026-09-14T13:29:50+00:00"
-        },
-        {
-          "title": "BYD unveils flagship 600 km electric truck with 1.5 MW charging",
-          "link": "https://electrek.co/2026/09/14/byd-ett-44-electric-truck-megawatt-charging/",
-          "source": "Electrek",
-          "published": "2026-09-14T13:18:01+00:00"
-        },
-        {
-          "title": "Shell, FAW partner on better, safer electric semi truck batteries",
-          "link": "https://electrek.co/2026/09/14/shell-faw-partner-on-better-safer-electric-semi-truck-batteries/",
-          "source": "Electrek",
-          "published": "2026-09-14T12:23:46+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 19,
+      "count": 20,
       "items": [
+        {
+          "title": "Holcim Integrates Two Joule Hive Thermal Batteries Into Its Cement Making Facility",
+          "link": "https://cleantechnica.com/2026/09/15/holcim-integrates-two-joule-hive-thermal-batteries-into-its-cement-making-facility/",
+          "source": "CleanTechnica",
+          "published": "2026-09-15T21:42:41+00:00"
+        },
         {
           "title": "CATL's New Electric Truck Battery Is Coming For Diesel's Biggest Advantage",
           "link": "https://insideevs.com/news/808395/catl-new-megawatt-battery-commercial/",
@@ -460,7 +466,7 @@
           "published": "2026-09-15T12:58:29+00:00"
         },
         {
-          "title": "Agility’s Digit 5 humanoid has new legs, batteries and safety upgrades",
+          "title": "Agility’s Digit 5 humanoid has new legs, batteries, and safety upgrades",
           "link": "https://www.therobotreport.com/agilitys-digit-5-humanoid-has-new-legs-batteries-safety-upgrades/",
           "source": "The Robot Report",
           "published": "2026-09-15T10:55:15+00:00"
@@ -593,10 +599,10 @@
       "count": 40,
       "items": [
         {
-          "title": "앤트로픽 '페이블 5.1', 370년 미해결 난제 암호 44분 만에 풀었다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215301",
+          "title": "베슬AI, 포항 AI 데이터센터 GPU 운영 맡는다...\"네오클라우드 영토 확장\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215327",
           "source": "AI타임스",
-          "published": "2026-09-15T18:47:47+00:00"
+          "published": "2026-09-16T12:15:08+00:00"
         },
         {
           "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
