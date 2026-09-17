@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-09-16T20:51:21.015744+00:00",
+  "generated_at": "2026-09-17T03:22:03.046417+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "This Hilarious 1961 Electric Shopper Can Get You To The Grocery Store And Back. But That's About It",
+          "link": "https://insideevs.com/news/808576/electric-shopper-for-sale/",
+          "source": "InsideEVs",
+          "published": "2026-09-16T21:32:17+00:00"
+        },
+        {
+          "title": "Out of this world performance at down to Earth prices: Ausom’s AWESOME fall sale",
+          "link": "https://electrek.co/2026/09/16/out-of-this-world-performance-down-to-earth-prices-ausoms-awesome-fall-sale/",
+          "source": "Electrek",
+          "published": "2026-09-16T21:30:00+00:00"
+        },
         {
           "title": "Tesla brings Cybercab to China, rules out sale and robotaxi service",
           "link": "https://electrek.co/2026/09/16/tesla-cybercab-china-display-no-sale-robotaxi/",
@@ -233,25 +245,13 @@
           "link": "https://electrek.co/2026/09/15/segways-new-28-mph-muxi-pro-cargo-e-bike-gets-automatic-shifting-and-regen-braking/",
           "source": "Electrek",
           "published": "2026-09-15T13:00:00+00:00"
-        },
-        {
-          "title": "BMW Is Giving Its Navigation System A Tesla-Style Makeover",
-          "link": "https://insideevs.com/news/808328/bmw-maps-driver-assistance-3d-view-update/",
-          "source": "InsideEVs",
-          "published": "2026-09-15T10:52:08+00:00"
-        },
-        {
-          "title": "Lidl Is Now Using A Truck With No Cab To Ship Goods",
-          "link": "https://insideevs.com/news/808296/lidl-einride-autonomous-truck-deliveries-germany/",
-          "source": "InsideEVs",
-          "published": "2026-09-15T08:22:13+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 21,
+      "count": 19,
       "items": [
         {
           "title": "Good News, Bad News From IAA Transportation Show In Germany",
@@ -332,18 +332,6 @@
           "published": "2026-09-12T14:50:51+00:00"
         },
         {
-          "title": "MG Motors Philippines Launches New EV",
-          "link": "https://cleantechnica.com/2026/09/12/mg-motors-philippines-launches-new-ev/",
-          "source": "CleanTechnica",
-          "published": "2026-09-12T09:40:06+00:00"
-        },
-        {
-          "title": "Aberdeen Paid £556k Per Hydrogen Bus. Five Years Later, First Bus Is Paying £30k",
-          "link": "https://cleantechnica.com/2026/09/11/aberdeen-hydrogen-buses-30000-residual-value/",
-          "source": "CleanTechnica",
-          "published": "2026-09-12T01:07:42+00:00"
-        },
-        {
           "title": "Amazon puts 50 Mercedes-Benz eActros electric semi trucks to work in Germany",
           "link": "https://electrek.co/2026/09/11/amazon-puts-50-mercedes-benz-eactros-electric-semi-trucks-to-work-in-germany/",
           "source": "Electrek",
@@ -384,8 +372,14 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 12,
+      "count": 13,
       "items": [
+        {
+          "title": "Out of this world performance at down to Earth prices: Ausom’s AWESOME fall sale",
+          "link": "https://electrek.co/2026/09/16/out-of-this-world-performance-down-to-earth-prices-ausoms-awesome-fall-sale/",
+          "source": "Electrek",
+          "published": "2026-09-16T21:30:00+00:00"
+        },
         {
           "title": "ENGWE E26 3.0 full suspension e-bike with $343 FREE bundle at new $1,499 low + Eagle electric dirt bike new $899 low, Anker, more",
           "link": "https://electrek.co/2026/09/16/engwe-e26-3-0-full-suspension-e-bike-eagle-electric-dirt-bike-anker-more/",
@@ -623,10 +617,10 @@
       "count": 40,
       "items": [
         {
-          "title": "넘즈AI, 정형 데이터 모델 '코실로' 탭아레나 세계 1위 차지",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215363",
+          "title": "애플, 18년 만에 AI 서버 시장 재도전…엔비디아와 손잡나",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215374",
           "source": "AI타임스",
-          "published": "2026-09-16T18:25:00+00:00"
+          "published": "2026-09-17T12:04:09+00:00"
         },
         {
           "title": "Optimal Pruning for Neural Architectures using Fisher Information Distances",
