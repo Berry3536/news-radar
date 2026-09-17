@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-09-17T16:12:23.500921+00:00",
+  "generated_at": "2026-09-17T20:56:04.381270+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Hyundai opens orders for its new electric van, starting at about $66,500",
+          "link": "https://electrek.co/2026/09/17/hyundai-opens-orders-new-ev-van-starting-about-66500/",
+          "source": "Electrek",
+          "published": "2026-09-17T20:39:58+00:00"
+        },
+        {
+          "title": "BYD upgrades top-selling small electric SUV with more range, now starting at about $11,000",
+          "link": "https://electrek.co/2026/09/17/byd-upgrades-small-suv-more-range-starting-11k/",
+          "source": "Electrek",
+          "published": "2026-09-17T19:38:26+00:00"
+        },
+        {
+          "title": "He Replaced The Battery In A Ford F-150 Lightning. Here's How Hard It Was",
+          "link": "https://insideevs.com/news/808681/ford-f150-lightning-battery-swap/",
+          "source": "InsideEVs",
+          "published": "2026-09-17T18:44:15+00:00"
+        },
+        {
+          "title": "Tenways e-bikes up to $807 off from $1,599, Mammotion LUBA Mini 2 AWD robot mower bundle $379 off, EGO trimmer, Jetson, more",
+          "link": "https://electrek.co/2026/09/17/tenways-e-bikes-mammotion-luba-mini-2-awd-robot-mower-ego-string-trimmer-jetson-more/",
+          "source": "Electrek",
+          "published": "2026-09-17T18:00:00+00:00"
+        },
+        {
+          "title": "A BMW i8, Tesla Model Y, And Audi E-Tron GT All Drag Race, But The Results Are Closer Than You'd Think",
+          "link": "https://insideevs.com/news/808676/tesla-model-y-i8-drag/",
+          "source": "InsideEVs",
+          "published": "2026-09-17T17:38:29+00:00"
+        },
+        {
+          "title": "Volvo teases its new vehicle design, including a surprise inside",
+          "link": "https://electrek.co/2026/09/17/volvo-teases-new-vehicle-design-surprise-inside/",
+          "source": "Electrek",
+          "published": "2026-09-17T17:28:48+00:00"
+        },
         {
           "title": "추석 귀성길 장거리 운전, 출발 전 챙겨야 할 자동차 관리 포인트",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44544",
@@ -49,7 +85,7 @@
           "published": "2026-09-17T12:03:15+00:00"
         },
         {
-          "title": "Toyota Confirms Hydrogen Pickup Is Coming In 2028 With 248-Mile Range",
+          "title": "Toyota's Hydrogen Pickup Is Coming In 2028 With 248-Mile Range",
           "link": "https://insideevs.com/news/808641/toyota-hilux-hydrogen-confirmed-2028/",
           "source": "InsideEVs",
           "published": "2026-09-17T11:36:46+00:00"
@@ -209,42 +245,6 @@
           "link": "https://electrek.co/2026/09/15/byd-reveals-new-luxury-ev-suv-960-km-range-for-45000/",
           "source": "Electrek",
           "published": "2026-09-15T19:29:22+00:00"
-        },
-        {
-          "title": "CATL's New Electric Truck Battery Is Coming For Diesel's Biggest Advantage",
-          "link": "https://insideevs.com/news/808395/catl-new-megawatt-battery-commercial/",
-          "source": "InsideEVs",
-          "published": "2026-09-15T19:13:23+00:00"
-        },
-        {
-          "title": "People Are Already Modding The Tiny Fiat Topolino. I Want One, Badly",
-          "link": "https://insideevs.com/news/808412/people-modding-fiat-topolinos/",
-          "source": "InsideEVs",
-          "published": "2026-09-15T18:58:25+00:00"
-        },
-        {
-          "title": "Tesla’s new Roadster teaser hints at a ‘Cyber’ redesign it doesn’t need",
-          "link": "https://electrek.co/2026/09/15/tesla-roadster-cyber-treatment-redesign/",
-          "source": "Electrek",
-          "published": "2026-09-15T18:08:50+00:00"
-        },
-        {
-          "title": "Velotric Summit 1 multi-terrain e-bike $300 off, Jackery 2,048Wh HomePower V2 400W solar bundle, rare Husqvarna deal, more",
-          "link": "https://electrek.co/2026/09/15/velotric-summit-1-multi-terrain-e-bike-jackery-2048wh-homepower-v2-husqvarna-more/",
-          "source": "Electrek",
-          "published": "2026-09-15T18:00:00+00:00"
-        },
-        {
-          "title": "Is CarPlay coming back to GM EVs? Its new software update could be a hint",
-          "link": "https://electrek.co/2026/09/15/is-gms-new-software-a-sign-that-it-will-bring-carplay-back-to-its-electric-cars/",
-          "source": "Electrek",
-          "published": "2026-09-15T17:49:45+00:00"
-        },
-        {
-          "title": "BMW’s new iX3 looks like a hit, making up 1 in 3 EV orders in Europe",
-          "link": "https://electrek.co/2026/09/15/bmws-new-ix3-hit-1-in-3-ev-orders-europe/",
-          "source": "Electrek",
-          "published": "2026-09-15T17:11:35+00:00"
         }
       ]
     },
@@ -254,7 +254,13 @@
       "count": 21,
       "items": [
         {
-          "title": "Toyota Confirms Hydrogen Pickup Is Coming In 2028 With 248-Mile Range",
+          "title": "He Replaced The Battery In A Ford F-150 Lightning. Here's How Hard It Was",
+          "link": "https://insideevs.com/news/808681/ford-f150-lightning-battery-swap/",
+          "source": "InsideEVs",
+          "published": "2026-09-17T18:44:15+00:00"
+        },
+        {
+          "title": "Toyota's Hydrogen Pickup Is Coming In 2028 With 248-Mile Range",
           "link": "https://insideevs.com/news/808641/toyota-hilux-hydrogen-confirmed-2028/",
           "source": "InsideEVs",
           "published": "2026-09-17T11:36:46+00:00"
@@ -372,22 +378,16 @@
           "link": "https://electrek.co/2026/09/09/yozma-electric-mini-dirt-bikes-exclusive-ecoflow-3072wh-delta-3-ultra-power-stations-ego-more/",
           "source": "Electrek",
           "published": "2026-09-09T18:00:00+00:00"
-        },
-        {
-          "title": "The rout continues: BEVs up, ICE way down in China in Aug, Tesla also down",
-          "link": "https://electrek.co/2026/09/08/bev-sales-grow-in-china-in-august-everything-else-drops-including-tesla/",
-          "source": "Electrek",
-          "published": "2026-09-08T17:48:13+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 12,
+      "count": 11,
       "items": [
         {
-          "title": "전복 껍데기 마케트리를 적용한 비스포크 모델, 롤스로이스 팬텀 허밍버드 공개",
+          "title": "전복 껍데기 마케트리의 비스포크 모델, 롤스로이스 팬텀 허밍버드",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44537",
           "source": "모터그래프",
           "published": "2026-09-17T16:56:00+00:00"
@@ -451,12 +451,6 @@
           "link": "https://electrek.co/2026/09/09/rgnts-85-mph-retro-electric-motorcycle-just-got-a-scrambler-makeover/",
           "source": "Electrek",
           "published": "2026-09-09T09:42:00+00:00"
-        },
-        {
-          "title": "The rout continues: BEVs up, ICE way down in China in Aug, Tesla also down",
-          "link": "https://electrek.co/2026/09/08/bev-sales-grow-in-china-in-august-everything-else-drops-including-tesla/",
-          "source": "Electrek",
-          "published": "2026-09-08T17:48:13+00:00"
         }
       ]
     },
@@ -466,10 +460,22 @@
       "count": 23,
       "items": [
         {
+          "title": "Designing long-travel axes: When rack and pinion outperforms ball screws and linear motors",
+          "link": "https://www.therobotreport.com/designing-long-travel-axes-when-rack-and-pinion-outperforms-ball-screws-and-linear-motors/",
+          "source": "The Robot Report",
+          "published": "2026-09-17T18:34:16+00:00"
+        },
+        {
           "title": "대구시, ‘대구첨단산업발전전략자문회의’ 출범",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48568",
           "source": "로봇신문",
           "published": "2026-09-17T17:45:29+00:00"
+        },
+        {
+          "title": "Robotics investments reach $4.9B in August 2026",
+          "link": "https://www.therobotreport.com/robotics-investments-reach-4-9b-in-august-2026/",
+          "source": "The Robot Report",
+          "published": "2026-09-17T16:18:55+00:00"
         },
         {
           "title": "Arm Total Design for Physical AI brings more than 80 developers together",
@@ -566,18 +572,6 @@
           "link": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
           "source": "IEEE Spectrum",
           "published": "2026-09-11T15:30:04+00:00"
-        },
-        {
-          "title": "How to select the right rack and pinion system for high-precision linear motion",
-          "link": "https://www.therobotreport.com/how-to-select-the-right-rack-and-pinion-system-for-high-precision-linear-motion/",
-          "source": "The Robot Report",
-          "published": "2026-09-11T14:35:47+00:00"
-        },
-        {
-          "title": "How drone developers are navigating changing regulatory landscapes to help farmers",
-          "link": "https://www.therobotreport.com/how-hylio-drone-developers-navigate-changing-regulatory-landscape-help-farmers/",
-          "source": "The Robot Report",
-          "published": "2026-09-11T12:21:16+00:00"
         },
         {
           "title": "Robots Are Learning to Feel",
