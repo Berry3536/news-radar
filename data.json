@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:47:48.958086+00:00",
+  "generated_at": "2026-09-18T20:22:59.985268+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,52 @@
       "count": 40,
       "items": [
         {
+          "title": "What If We're Thinking About EV Charging All Wrong?",
+          "link": "https://insideevs.com/features/808817/ev-charging-podcast-tesla-roadster/",
+          "source": "InsideEVs",
+          "published": "2026-09-18T19:52:18+00:00"
+        },
+        {
+          "title": "Podcast: Tesla Roadster gets a date, VW XL1 comes back electric, BYD’s new Tesla fighter, and more",
+          "link": "https://electrek.co/2026/09/18/podcast-tesla-roadster-gets-a-date-vw-xl1-comes-back-electric-byds-new-tesla-fighter-and-more/",
+          "source": "Electrek",
+          "published": "2026-09-18T19:36:33+00:00"
+        },
+        {
+          "title": "Want to get off gas? Learn how at Drive Electric Month events across the US",
+          "link": "https://electrek.co/2026/09/18/learn-how-to-save-money-on-gas-at-us-drive-electric-month-events-all-month/",
+          "source": "Electrek",
+          "published": "2026-09-18T19:00:00+00:00"
+        },
+        {
+          "title": "Hyundai warns the US may be next in line for a wave of cheaper Chinese EVs",
+          "link": "https://electrek.co/2026/09/18/hyundai-warns-us-wave-cheaper-chinese-evs/",
+          "source": "Electrek",
+          "published": "2026-09-18T18:10:04+00:00"
+        },
+        {
+          "title": "Anker SOLIX E10 system sale starts from exclusive $3,799 low, Heybike ALPHA mid-drive e-bike $1,099 low, EcoFlow, more",
+          "link": "https://electrek.co/2026/09/18/anker-solix-e10-system-exclusive-heybike-alpha-mid-drive-e-bike-ecoflow-more/",
+          "source": "Electrek",
+          "published": "2026-09-18T18:00:00+00:00"
+        },
+        {
           "title": "학의 우아함, 대나무의 유연함 그리고 메르세데스-벤츠 S 클래스",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44557",
           "source": "모터그래프",
           "published": "2026-09-18T17:29:03+00:00"
+        },
+        {
+          "title": "'Can't Be Done By One Company': This Startup Is Rallying A Team To Bring Solid-State Batteries To Life",
+          "link": "https://insideevs.com/news/808779/factorial-solid-state-ev-battery-coalition-mitsui-kinzoku/",
+          "source": "InsideEVs",
+          "published": "2026-09-18T17:05:13+00:00"
+        },
+        {
+          "title": "BMW begins iX3 deliveries early in the US as demand surges",
+          "link": "https://electrek.co/2026/09/18/bmw-begins-ix3-deliveries-early-us/",
+          "source": "Electrek",
+          "published": "2026-09-18T16:19:42+00:00"
         },
         {
           "title": "XPeng shops its self-driving tech to automakers — Tesla found no takers",
@@ -203,56 +245,26 @@
           "link": "https://electrek.co/2026/09/16/tesla-cybercab-china-display-no-sale-robotaxi/",
           "source": "Electrek",
           "published": "2026-09-16T19:13:31+00:00"
-        },
-        {
-          "title": "The Mercedes CLA Is One Of America's Quickest Charging EVs: Test",
-          "link": "https://insideevs.com/news/808559/mercedes-cla-among-best-chargers/",
-          "source": "InsideEVs",
-          "published": "2026-09-16T19:03:04+00:00"
-        },
-        {
-          "title": "The Aventon Level 3 Made Me Fall Back In Love With E-Biking",
-          "link": "https://insideevs.com/news/808422/aventon-level-3-review-e-bike/",
-          "source": "InsideEVs",
-          "published": "2026-09-16T18:55:38+00:00"
-        },
-        {
-          "title": "Kia is offering big discounts on the EV9, with over $15,000 off at some dealers",
-          "link": "https://electrek.co/2026/09/16/kia-offers-big-ev9-discounts-over-15000-off-some-dealers/",
-          "source": "Electrek",
-          "published": "2026-09-16T18:40:55+00:00"
-        },
-        {
-          "title": "Tesla Says The Cybercab Is Street Legal. Regulators Want To Know How.",
-          "link": "https://insideevs.com/news/808554/tesla-cybercab-nhtsa-legal-fmvss/",
-          "source": "InsideEVs",
-          "published": "2026-09-16T18:31:52+00:00"
-        },
-        {
-          "title": "ENGWE E26 3.0 full suspension e-bike with $343 FREE bundle at new $1,499 low + Eagle electric dirt bike new $899 low, Anker, more",
-          "link": "https://electrek.co/2026/09/16/engwe-e26-3-0-full-suspension-e-bike-eagle-electric-dirt-bike-anker-more/",
-          "source": "Electrek",
-          "published": "2026-09-16T18:00:00+00:00"
-        },
-        {
-          "title": "The Porsche Cayenne Electric Can Now Charge Wirelessly",
-          "link": "https://insideevs.com/news/808552/porsche-cayenne-electric-wireless-charging-pad/",
-          "source": "InsideEVs",
-          "published": "2026-09-16T17:07:40+00:00"
-        },
-        {
-          "title": "BYD undercuts the Tesla Model 3 with its new Formula S EV, starting at under $29,000",
-          "link": "https://electrek.co/2026/09/16/byd-undercuts-tesla-new-formula-s-ev-starting-29000/",
-          "source": "Electrek",
-          "published": "2026-09-16T16:58:43+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 24,
+      "count": 26,
       "items": [
+        {
+          "title": "Anker SOLIX E10 system sale starts from exclusive $3,799 low, Heybike ALPHA mid-drive e-bike $1,099 low, EcoFlow, more",
+          "link": "https://electrek.co/2026/09/18/anker-solix-e10-system-exclusive-heybike-alpha-mid-drive-e-bike-ecoflow-more/",
+          "source": "Electrek",
+          "published": "2026-09-18T18:00:00+00:00"
+        },
+        {
+          "title": "'Can't Be Done By One Company': This Startup Is Rallying A Team To Bring Solid-State Batteries To Life",
+          "link": "https://insideevs.com/news/808779/factorial-solid-state-ev-battery-coalition-mitsui-kinzoku/",
+          "source": "InsideEVs",
+          "published": "2026-09-18T17:05:13+00:00"
+        },
         {
           "title": "144 Tesla Megapacks power Australia’s first 8-hour grid battery",
           "link": "https://electrek.co/2026/09/18/tesla-megapack-australia-first-8-hour-battery-rwe-limondale/",
@@ -402,8 +414,14 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 9,
+      "count": 10,
       "items": [
+        {
+          "title": "Hyundai warns the US may be next in line for a wave of cheaper Chinese EVs",
+          "link": "https://electrek.co/2026/09/18/hyundai-warns-us-wave-cheaper-chinese-evs/",
+          "source": "Electrek",
+          "published": "2026-09-18T18:10:04+00:00"
+        },
         {
           "title": "헤리티지와 혁신 집약체 벤틀리 토르칼, 영국 크루에서 탄생 임박!",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44556",
@@ -466,10 +484,34 @@
       "count": 23,
       "items": [
         {
+          "title": "The picks-and-shovels strategy behind the robotics boom",
+          "link": "https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom/",
+          "source": "The Robot Report",
+          "published": "2026-09-18T18:57:36+00:00"
+        },
+        {
           "title": "경북도, 푸드테크 연구지원센터 전국 첫 준공",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48592",
           "source": "로봇신문",
           "published": "2026-09-18T17:48:49+00:00"
+        },
+        {
+          "title": "SoftBank agrees to acquire Robotics and AI Institute",
+          "link": "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/",
+          "source": "The Robot Report",
+          "published": "2026-09-18T17:14:32+00:00"
+        },
+        {
+          "title": "F-Prime Capital to give insights on the state of robotics investments at RoboBusiness",
+          "link": "https://www.therobotreport.com/f-prime-capital-give-insights-state-robotics-investments-robobusiness/",
+          "source": "The Robot Report",
+          "published": "2026-09-18T16:16:44+00:00"
+        },
+        {
+          "title": "Video Friday: Two Birotors Make a Quadrotor",
+          "link": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
+          "source": "IEEE Spectrum",
+          "published": "2026-09-18T16:01:05+00:00"
         },
         {
           "title": "Neptune Medical earns FDA clearance for its Triton 1 robotic system",
@@ -556,24 +598,6 @@
           "published": "2026-09-14T16:09:27+00:00"
         },
         {
-          "title": "Universal Robots launches its seventh generation robot platform at IMTS",
-          "link": "https://www.therobotreport.com/universal-robots-launches-its-seventh-generation-robot-platform-at-imts/",
-          "source": "The Robot Report",
-          "published": "2026-09-14T13:25:40+00:00"
-        },
-        {
-          "title": "How autonomous fleets are changing what’s possible in American agriculture",
-          "link": "https://www.therobotreport.com/how-autonomous-fleets-are-changing-whats-possible-american-agriculture/",
-          "source": "The Robot Report",
-          "published": "2026-09-13T12:45:12+00:00"
-        },
-        {
-          "title": "Ultrasound offers a scalable path to tactile intelligence for physical AI",
-          "link": "https://www.therobotreport.com/ultrasound-offers-scalable-path-tactile-intelligence-physical-ai/",
-          "source": "The Robot Report",
-          "published": "2026-09-12T12:35:38+00:00"
-        },
-        {
           "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
           "link": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
           "source": "IEEE Spectrum",
@@ -596,12 +620,6 @@
           "link": "https://spectrum.ieee.org/cyborg-rescue-roach",
           "source": "IEEE Spectrum",
           "published": "2026-09-05T13:00:04+00:00"
-        },
-        {
-          "title": "Video Friday: Digit Redecorates",
-          "link": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
-          "source": "IEEE Spectrum",
-          "published": "2026-09-04T16:00:05+00:00"
         }
       ]
     },
