@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:32:23.299673+00:00",
+  "generated_at": "2026-09-18T15:47:48.958086+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,54 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44557",
           "source": "모터그래프",
           "published": "2026-09-18T17:29:03+00:00"
+        },
+        {
+          "title": "XPeng shops its self-driving tech to automakers — Tesla found no takers",
+          "link": "https://electrek.co/2026/09/18/xpeng-license-self-driving-tech-automakers-tesla-fsd/",
+          "source": "Electrek",
+          "published": "2026-09-18T15:43:15+00:00"
+        },
+        {
+          "title": "Congress Advances Bill That Would Force Your EV To Have AM Radio",
+          "link": "https://insideevs.com/news/808694/federal-am-radio-mandate-bill/",
+          "source": "InsideEVs",
+          "published": "2026-09-18T15:39:51+00:00"
+        },
+        {
+          "title": "Volkswagen’s EV van drove through 92 countries to set a new Guinness World Record",
+          "link": "https://electrek.co/2026/09/18/vws-ev-van-drove-through-92-countries-set-new-world-record/",
+          "source": "Electrek",
+          "published": "2026-09-18T14:26:27+00:00"
+        },
+        {
+          "title": "144 Tesla Megapacks power Australia’s first 8-hour grid battery",
+          "link": "https://electrek.co/2026/09/18/tesla-megapack-australia-first-8-hour-battery-rwe-limondale/",
+          "source": "Electrek",
+          "published": "2026-09-18T14:12:33+00:00"
+        },
+        {
+          "title": "Same Battery Size, Different Range: VW ID. Polo Takes On Renault 5",
+          "link": "https://insideevs.com/news/808776/id-polo-vs-r5-roadtrip/",
+          "source": "InsideEVs",
+          "published": "2026-09-18T13:40:34+00:00"
+        },
+        {
+          "title": "The Mercedes GLC Electric Drove 393 Miles Mostly On Highways With One Quick Charge",
+          "link": "https://insideevs.com/news/808735/mercedes-glc-ev-road-trip/",
+          "source": "InsideEVs",
+          "published": "2026-09-18T12:02:06+00:00"
+        },
+        {
+          "title": "DERA LIVES! House votes to fund Diesel Emissions Reduction Act through 2029",
+          "link": "https://electrek.co/2026/09/18/dera-lives-house-votes-to-fund-diesel-emissions-reduction-act-through-2029/",
+          "source": "Electrek",
+          "published": "2026-09-18T11:54:22+00:00"
+        },
+        {
+          "title": "BMW’s New iX3 Factory Is Now Running Non-Stop As Orders Top 100,000",
+          "link": "https://insideevs.com/news/808756/bmw-ix3-factory-three-shifts/",
+          "source": "InsideEVs",
+          "published": "2026-09-18T11:03:45+00:00"
         },
         {
           "title": "EV Charging Just Got Easier On One Of The Fastest-Growing Networks In The U.S.",
@@ -197,62 +245,26 @@
           "link": "https://electrek.co/2026/09/16/byd-undercuts-tesla-new-formula-s-ev-starting-29000/",
           "source": "Electrek",
           "published": "2026-09-16T16:58:43+00:00"
-        },
-        {
-          "title": "Tesla’s new ‘Accordion’ Supercharger could speed up its slow buildout",
-          "link": "https://electrek.co/2026/09/16/tesla-accordion-supercharger-deployment/",
-          "source": "Electrek",
-          "published": "2026-09-16T14:56:06+00:00"
-        },
-        {
-          "title": "Volkswagen’s new electric hot hatch delivers more power than the Golf GTI [Images]",
-          "link": "https://electrek.co/2026/09/16/vws-new-ev-hot-hatch-more-power-than-golf-gti-images/",
-          "source": "Electrek",
-          "published": "2026-09-16T14:49:30+00:00"
-        },
-        {
-          "title": "Rivian’s ALSO e-bikes are finally hitting the road – but not for frustrated customers",
-          "link": "https://electrek.co/2026/09/16/rivians-also-e-bikes-are-finally-hitting-the-road-but-not-for-frustrated-customers/",
-          "source": "Electrek",
-          "published": "2026-09-16T12:33:00+00:00"
-        },
-        {
-          "title": "New Volkswagen ID.3 GTI: The First RWD GTI Is Here With More Power Than Ever",
-          "link": "https://insideevs.com/news/808505/vw-id3-gti-official-range-specs/",
-          "source": "InsideEVs",
-          "published": "2026-09-16T12:25:49+00:00"
-        },
-        {
-          "title": "The 2027 Porsche Cayenne EV Can Open Its Doors For You At The Press Of A Button",
-          "link": "https://insideevs.com/news/808453/2027-porsche-cayenne-electric-doors-updates/",
-          "source": "InsideEVs",
-          "published": "2026-09-16T12:00:00+00:00"
-        },
-        {
-          "title": "Tesla's New 'Accordion' Superchargers Promise Instant Commissioning",
-          "link": "https://insideevs.com/news/808477/tesla-accordion-supercharger-prefabricated/",
-          "source": "InsideEVs",
-          "published": "2026-09-16T10:06:59+00:00"
-        },
-        {
-          "title": "Renault 5 Nearly Matched Its Official Range On A Mountain Road Trip",
-          "link": "https://insideevs.com/news/808429/renault-5-mountain-drive-efficiency/",
-          "source": "InsideEVs",
-          "published": "2026-09-16T08:30:54+00:00"
-        },
-        {
-          "title": "The Hyundai IONIQ 5 is a bit more expensive to lease this month, but it’s still a great deal",
-          "link": "https://electrek.co/2026/09/15/hyundai-raised-ioniq-5-lease-rates-still-great-deal/",
-          "source": "Electrek",
-          "published": "2026-09-15T21:45:23+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 22,
+      "count": 24,
       "items": [
+        {
+          "title": "144 Tesla Megapacks power Australia’s first 8-hour grid battery",
+          "link": "https://electrek.co/2026/09/18/tesla-megapack-australia-first-8-hour-battery-rwe-limondale/",
+          "source": "Electrek",
+          "published": "2026-09-18T14:12:33+00:00"
+        },
+        {
+          "title": "Same Battery Size, Different Range: VW ID. Polo Takes On Renault 5",
+          "link": "https://insideevs.com/news/808776/id-polo-vs-r5-roadtrip/",
+          "source": "InsideEVs",
+          "published": "2026-09-18T13:40:34+00:00"
+        },
         {
           "title": "NLR Campus To Host US Department of Energy Geothermal Center of Excellence",
           "link": "https://cleantechnica.com/2026/09/17/nlr-campus-to-host-us-department-of-energy-geothermal-center-of-excellence/",
@@ -390,7 +402,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 11,
+      "count": 9,
       "items": [
         {
           "title": "헤리티지와 혁신 집약체 벤틀리 토르칼, 영국 크루에서 탄생 임박!",
@@ -415,12 +427,6 @@
           "link": "https://electrek.co/2026/09/16/engwe-e26-3-0-full-suspension-e-bike-eagle-electric-dirt-bike-anker-more/",
           "source": "Electrek",
           "published": "2026-09-16T18:00:00+00:00"
-        },
-        {
-          "title": "Renault 5 Nearly Matched Its Official Range On A Mountain Road Trip",
-          "link": "https://insideevs.com/news/808429/renault-5-mountain-drive-efficiency/",
-          "source": "InsideEVs",
-          "published": "2026-09-16T08:30:54+00:00"
         },
         {
           "title": "The world’s largest EV company just partnered with an African electric motorcycle company",
@@ -451,12 +457,6 @@
           "link": "https://electrek.co/2026/09/10/a-new-arizona-plant-is-going-after-the-rare-earth-supply-crunch/",
           "source": "Electrek",
           "published": "2026-09-10T18:50:00+00:00"
-        },
-        {
-          "title": "RGNT’s 85 MPH retro electric motorcycle just got a scrambler makeover",
-          "link": "https://electrek.co/2026/09/09/rgnts-85-mph-retro-electric-motorcycle-just-got-a-scrambler-makeover/",
-          "source": "Electrek",
-          "published": "2026-09-09T09:42:00+00:00"
         }
       ]
     },
@@ -470,6 +470,18 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48592",
           "source": "로봇신문",
           "published": "2026-09-18T17:48:49+00:00"
+        },
+        {
+          "title": "Neptune Medical earns FDA clearance for its Triton 1 robotic system",
+          "link": "https://www.therobotreport.com/neptune-medical-earns-fda-clearance-triton-1-robotic-system/",
+          "source": "The Robot Report",
+          "published": "2026-09-18T13:22:16+00:00"
+        },
+        {
+          "title": "Icarus Robotics flies ISS-bound robot in microgravity for the first time",
+          "link": "https://www.therobotreport.com/icarus-robotics-flies-iss-bound-robot-in-microgravity-for-the-first-time/",
+          "source": "The Robot Report",
+          "published": "2026-09-18T13:07:45+00:00"
         },
         {
           "title": "Designing long-travel axes: When rack and pinion outperforms ball screws and linear motors",
@@ -560,18 +572,6 @@
           "link": "https://www.therobotreport.com/ultrasound-offers-scalable-path-tactile-intelligence-physical-ai/",
           "source": "The Robot Report",
           "published": "2026-09-12T12:35:38+00:00"
-        },
-        {
-          "title": "One brick at a time: How Monumental uses robotics to build walls",
-          "link": "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls/",
-          "source": "The Robot Report",
-          "published": "2026-09-11T21:09:01+00:00"
-        },
-        {
-          "title": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
-          "link": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness/",
-          "source": "The Robot Report",
-          "published": "2026-09-11T19:49:40+00:00"
         },
         {
           "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
