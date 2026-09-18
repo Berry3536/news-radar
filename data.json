@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-09-17T20:56:04.381270+00:00",
+  "generated_at": "2026-09-18T03:07:56.102003+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "The Bronx will be breathing a little easier with new Volvo VNR Electric [update]",
+          "link": "https://electrek.co/2026/09/17/the-bronx-will-be-breathing-a-little-easier-with-new-volvo-vnr-electric/",
+          "source": "Electrek",
+          "published": "2026-09-18T01:00:00+00:00"
+        },
+        {
+          "title": "How Hankook Made Long-Lasting, Long-Range EV Tires",
+          "link": "https://insideevs.com/news/807719/hankook-demo-days-ion-tire/",
+          "source": "InsideEVs",
+          "published": "2026-09-17T21:48:57+00:00"
+        },
+        {
+          "title": "Porsche Is Working On Making Batteries From Its Own Recycled Materials",
+          "link": "https://insideevs.com/news/808687/porsche-recycled-battery-materials/",
+          "source": "InsideEVs",
+          "published": "2026-09-17T20:57:34+00:00"
+        },
         {
           "title": "Hyundai opens orders for its new electric van, starting at about $66,500",
           "link": "https://electrek.co/2026/09/17/hyundai-opens-orders-new-ev-van-starting-about-66500/",
@@ -227,24 +245,6 @@
           "link": "https://insideevs.com/news/808421/kia-pv7-800v-charging/",
           "source": "InsideEVs",
           "published": "2026-09-15T21:32:09+00:00"
-        },
-        {
-          "title": "NHTSA orders Tesla to prove its Cybercab is legal to sell, under oath",
-          "link": "https://electrek.co/2026/09/15/nhtsa-tesla-cybercab-special-order-fmvss-certification/",
-          "source": "Electrek",
-          "published": "2026-09-15T21:00:45+00:00"
-        },
-        {
-          "title": "GM's New UI For Trucks Plays Nice With CarPlay",
-          "link": "https://insideevs.com/news/808414/carplay-gm-ui-update-2027/",
-          "source": "InsideEVs",
-          "published": "2026-09-15T20:19:45+00:00"
-        },
-        {
-          "title": "BYD reveals the new Denza N8L EV, a smart luxury SUV with 960 km of range for about $45,000",
-          "link": "https://electrek.co/2026/09/15/byd-reveals-new-luxury-ev-suv-960-km-range-for-45000/",
-          "source": "Electrek",
-          "published": "2026-09-15T19:29:22+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 21,
       "items": [
+        {
+          "title": "Porsche Is Working On Making Batteries From Its Own Recycled Materials",
+          "link": "https://insideevs.com/news/808687/porsche-recycled-battery-materials/",
+          "source": "InsideEVs",
+          "published": "2026-09-17T20:57:34+00:00"
+        },
         {
           "title": "He Replaced The Battery In A Ford F-150 Lightning. Here's How Hard It Was",
           "link": "https://insideevs.com/news/808681/ford-f150-lightning-battery-swap/",
@@ -294,12 +300,6 @@
           "link": "https://cleantechnica.com/2026/09/15/holcim-integrates-two-joule-hive-thermal-batteries-into-its-cement-making-facility/",
           "source": "CleanTechnica",
           "published": "2026-09-15T21:42:41+00:00"
-        },
-        {
-          "title": "CATL's New Electric Truck Battery Is Coming For Diesel's Biggest Advantage",
-          "link": "https://insideevs.com/news/808395/catl-new-megawatt-battery-commercial/",
-          "source": "InsideEVs",
-          "published": "2026-09-15T19:13:23+00:00"
         },
         {
           "title": "Velotric Summit 1 multi-terrain e-bike $300 off, Jackery 2,048Wh HomePower V2 400W solar bundle, rare Husqvarna deal, more",
@@ -605,10 +605,10 @@
       "count": 40,
       "items": [
         {
-          "title": "게임 중 '멘붕' 온 아스트라...마인크래프트서 아이템 잃고 감자만 깼다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215401",
+          "title": "앤트로픽, 장기 개발 관리 에이전트 '클로드 코드 프로젝트' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215430",
           "source": "AI타임스",
-          "published": "2026-09-17T18:24:57+00:00"
+          "published": "2026-09-18T11:56:41+00:00"
         },
         {
           "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
