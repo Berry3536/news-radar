@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-09-19T15:20:09.137735+00:00",
+  "generated_at": "2026-09-19T20:00:54.445399+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Here’s all the dumb oil wars that electric cars have nothing to do with",
+          "link": "https://electrek.co/2026/09/19/heres-all-the-dumb-oil-wars-that-electric-cars-have-nothing-to-do-with/",
+          "source": "Electrek",
+          "published": "2026-09-19T16:30:00+00:00"
+        },
         {
           "title": "Climate XChange is giving away more EVs than ever before in its 11th Annual EV Raffle",
           "link": "https://electrek.co/2026/09/19/climate-xchange-is-giving-away-more-evs-than-ever-before-in-its-11th-annual-ev-raffle/",
@@ -31,7 +37,7 @@
           "published": "2026-09-19T11:00:00+00:00"
         },
         {
-          "title": "Hyundai's Answer For The EV Slowdown: Building Thousands Of Robotaxis",
+          "title": "Hyundai CEO's Answer For The EV Slowdown: Building Thousands Of Robotaxis",
           "link": "https://insideevs.com/news/808830/hyundais-answer-for-ev-slowdown-building-robotaxis/",
           "source": "InsideEVs",
           "published": "2026-09-19T10:30:00+00:00"
@@ -239,12 +245,6 @@
           "link": "https://electrek.co/2026/09/17/royal-enfields-flying-flea-electric-motorcycle-finally-goes-global-revealing-its-western-price/",
           "source": "Electrek",
           "published": "2026-09-17T13:22:08+00:00"
-        },
-        {
-          "title": "Lucid and Bolt to deploy 25,000 autonomous EVs across Europe",
-          "link": "https://electrek.co/2026/09/17/lucid-bolt-25000-autonomous-evs-europe/",
-          "source": "Electrek",
-          "published": "2026-09-17T12:56:46+00:00"
         }
       ]
     },
