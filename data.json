@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-09-18T20:22:59.985268+00:00",
+  "generated_at": "2026-09-19T03:04:16.881250+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "It’s finally here: Porsche puts wireless EV charging into production [video]",
+          "link": "https://electrek.co/2026/09/18/its-finally-here-porsche-puts-wireless-ev-charging-into-production-video/",
+          "source": "Electrek",
+          "published": "2026-09-19T01:26:44+00:00"
+        },
+        {
+          "title": "New self-loading tech for bulk cargo vessels cuts freight emissions in HALF",
+          "link": "https://electrek.co/2026/09/18/new-self-loading-tech-for-bulk-cargo-vessels-cuts-freight-emissions-in-half/",
+          "source": "Electrek",
+          "published": "2026-09-19T00:50:47+00:00"
+        },
+        {
+          "title": "Toyota’s new electric SUVs are catching on, with nearly 5,000 sold in August",
+          "link": "https://electrek.co/2026/09/18/toyotas-new-evs-catching-on-5000-sold-august/",
+          "source": "Electrek",
+          "published": "2026-09-18T20:39:19+00:00"
+        },
         {
           "title": "What If We're Thinking About EV Charging All Wrong?",
           "link": "https://insideevs.com/features/808817/ev-charging-podcast-tesla-roadster/",
@@ -227,24 +245,6 @@
           "link": "https://insideevs.com/news/808594/volvo-13-new-models-2030/",
           "source": "InsideEVs",
           "published": "2026-09-17T06:59:15+00:00"
-        },
-        {
-          "title": "This Hilarious 1961 Electric Shopper Can Get You To The Grocery Store And Back. But That's About It",
-          "link": "https://insideevs.com/news/808576/electric-shopper-for-sale/",
-          "source": "InsideEVs",
-          "published": "2026-09-16T21:32:17+00:00"
-        },
-        {
-          "title": "Out of this world performance at down to Earth prices: Ausom’s AWESOME fall sale",
-          "link": "https://electrek.co/2026/09/16/out-of-this-world-performance-down-to-earth-prices-ausoms-awesome-fall-sale/",
-          "source": "Electrek",
-          "published": "2026-09-16T21:30:00+00:00"
-        },
-        {
-          "title": "Tesla brings Cybercab to China, rules out sale and robotaxi service",
-          "link": "https://electrek.co/2026/09/16/tesla-cybercab-china-display-no-sale-robotaxi/",
-          "source": "Electrek",
-          "published": "2026-09-16T19:13:31+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 26,
       "items": [
+        {
+          "title": "Jackery SolarVault 3 Shows Potential To Scale From Balcony To Whole Home",
+          "link": "https://cleantechnica.com/2026/09/18/jackery-solarvault-3-shows-potential-to-scale-from-balcony-to-whole-home/",
+          "source": "CleanTechnica",
+          "published": "2026-09-18T20:42:01+00:00"
+        },
         {
           "title": "Anker SOLIX E10 system sale starts from exclusive $3,799 low, Heybike ALPHA mid-drive e-bike $1,099 low, EcoFlow, more",
           "link": "https://electrek.co/2026/09/18/anker-solix-e10-system-exclusive-heybike-alpha-mid-drive-e-bike-ecoflow-more/",
@@ -402,12 +408,6 @@
           "link": "https://electrek.co/2026/09/10/segway-myon-e-bike-ecoflow-power-station-sale-anker-security-more/",
           "source": "Electrek",
           "published": "2026-09-10T18:00:00+00:00"
-        },
-        {
-          "title": "Yozma electric mini dirt bikes exclusive $595 savings, EcoFlow flash 2x 3,072Wh DELTA 3 Ultra power stations $1,800 off, EGO, more",
-          "link": "https://electrek.co/2026/09/09/yozma-electric-mini-dirt-bikes-exclusive-ecoflow-3072wh-delta-3-ultra-power-stations-ego-more/",
-          "source": "Electrek",
-          "published": "2026-09-09T18:00:00+00:00"
         }
       ]
     },
@@ -629,10 +629,10 @@
       "count": 40,
       "items": [
         {
-          "title": "구글, AI 문제 해결에 ‘재귀적 자기개선’ 도입...탐색 비용 162배 절감",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215459",
+          "title": "디즈니, 사상 첫 CTO 선임…'저작권 마찰' 캐릭터닷AI CEO 영입",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215487",
           "source": "AI타임스",
-          "published": "2026-09-18T18:37:07+00:00"
+          "published": "2026-09-19T11:39:29+00:00"
         },
         {
           "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
