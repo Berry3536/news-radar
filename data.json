@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-09-19T10:16:45.769337+00:00",
+  "generated_at": "2026-09-19T15:20:09.137735+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Climate XChange is giving away more EVs than ever before in its 11th Annual EV Raffle",
+          "link": "https://electrek.co/2026/09/19/climate-xchange-is-giving-away-more-evs-than-ever-before-in-its-11th-annual-ev-raffle/",
+          "source": "Electrek",
+          "published": "2026-09-19T15:00:00+00:00"
+        },
+        {
+          "title": "E-quipment highlight: 4,400 hp Wabtec FLXDrive electric locomotive [update]",
+          "link": "https://electrek.co/2026/09/19/e-quipment-highlight-4400-hp-wabtec-flxdrive-electric-locomotive/",
+          "source": "Electrek",
+          "published": "2026-09-19T14:00:00+00:00"
+        },
+        {
+          "title": "Swaptopus inches towards reality as CATL reveals new semi truck battery",
+          "link": "https://electrek.co/2026/09/19/swaptopus-inches-towards-reality-as-catl-reveals-new-semi-truck-battery/",
+          "source": "Electrek",
+          "published": "2026-09-19T13:08:21+00:00"
+        },
+        {
+          "title": "Is This An E-Bike Or A Moped? It Depends On Who You Ask",
+          "link": "https://insideevs.com/reviews/808693/ebike-vs-emoto-aotos-flux-x26-pro-review/",
+          "source": "InsideEVs",
+          "published": "2026-09-19T11:00:00+00:00"
+        },
+        {
+          "title": "Hyundai's Answer For The EV Slowdown: Building Thousands Of Robotaxis",
+          "link": "https://insideevs.com/news/808830/hyundais-answer-for-ev-slowdown-building-robotaxis/",
+          "source": "InsideEVs",
+          "published": "2026-09-19T10:30:00+00:00"
+        },
         {
           "title": "‘The Trend Is Clear’: How EVs Are Closing In On Gas Car Prices",
           "link": "https://insideevs.com/news/808818/ev-gas-car-price-parity/",
@@ -215,36 +245,6 @@
           "link": "https://electrek.co/2026/09/17/lucid-bolt-25000-autonomous-evs-europe/",
           "source": "Electrek",
           "published": "2026-09-17T12:56:46+00:00"
-        },
-        {
-          "title": "Lucid And Bolt Want To Put 25,000+ Robotaxis On European Roads",
-          "link": "https://insideevs.com/news/808650/lucid-bolt-robotaxi-partnership-europe/",
-          "source": "InsideEVs",
-          "published": "2026-09-17T12:48:06+00:00"
-        },
-        {
-          "title": "Open source semi: Windrose puts its electric truck online, for free",
-          "link": "https://electrek.co/2026/09/17/open-source-semi-windrose-puts-its-electric-truck-online-for-free/",
-          "source": "Electrek",
-          "published": "2026-09-17T12:03:15+00:00"
-        },
-        {
-          "title": "Toyota's Hydrogen Pickup Is Coming In 2028 With 248-Mile Range",
-          "link": "https://insideevs.com/news/808641/toyota-hilux-hydrogen-confirmed-2028/",
-          "source": "InsideEVs",
-          "published": "2026-09-17T11:36:46+00:00"
-        },
-        {
-          "title": "Solid-state battery maker Factorial secures another big partnership",
-          "link": "https://electrek.co/2026/09/17/solid-state-battery-maker-factorial-secures-another-big-partnership/",
-          "source": "Electrek",
-          "published": "2026-09-17T11:00:00+00:00"
-        },
-        {
-          "title": "Tesla's European Megacharger Rollout Starts With Over 100 Megawatt-Capable Chargers",
-          "link": "https://insideevs.com/news/808615/tesla-megacharger-europe-rollout/",
-          "source": "InsideEVs",
-          "published": "2026-09-17T09:26:20+00:00"
         }
       ]
     },
@@ -253,6 +253,18 @@
       "label": "배터리",
       "count": 26,
       "items": [
+        {
+          "title": "E-quipment highlight: 4,400 hp Wabtec FLXDrive electric locomotive [update]",
+          "link": "https://electrek.co/2026/09/19/e-quipment-highlight-4400-hp-wabtec-flxdrive-electric-locomotive/",
+          "source": "Electrek",
+          "published": "2026-09-19T14:00:00+00:00"
+        },
+        {
+          "title": "Swaptopus inches towards reality as CATL reveals new semi truck battery",
+          "link": "https://electrek.co/2026/09/19/swaptopus-inches-towards-reality-as-catl-reveals-new-semi-truck-battery/",
+          "source": "Electrek",
+          "published": "2026-09-19T13:08:21+00:00"
+        },
         {
           "title": "Jackery SolarVault 3 Shows Potential To Scale From Balcony To Whole Home",
           "link": "https://cleantechnica.com/2026/09/18/jackery-solarvault-3-shows-potential-to-scale-from-balcony-to-whole-home/",
@@ -344,22 +356,10 @@
           "published": "2026-09-15T18:00:00+00:00"
         },
         {
-          "title": "Stellantis Expands Electric Commercial Vehicle Lineup at IAA Transportation",
-          "link": "https://cleantechnica.com/2026/09/15/stellantis-expands-electric-commercial-vehicle-lineup-at-iaa-transportation/",
-          "source": "CleanTechnica",
-          "published": "2026-09-15T16:32:11+00:00"
-        },
-        {
           "title": "The world’s largest EV company just partnered with an African electric motorcycle company",
           "link": "https://electrek.co/2026/09/15/the-worlds-largest-ev-company-just-partnered-with-an-african-electric-motorcycle-company/",
           "source": "Electrek",
           "published": "2026-09-15T15:15:00+00:00"
-        },
-        {
-          "title": "Scania Launches 720-KM Battery Electric Truck, Hydrogen Stakeholders Double Down",
-          "link": "https://cleantechnica.com/2026/09/15/electric-trucks-battery-fuel-cell-hydrogen-tesla-scania-volvo-daimler-toyot/",
-          "source": "CleanTechnica",
-          "published": "2026-09-15T12:44:52+00:00"
         },
         {
           "title": "Anker solar HomeKit-ready Wall Light Cam S4 launch deal, Anker SOLIX extends power station sale, Monarc e-bike bundles, more",
@@ -481,8 +481,14 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 23,
+      "count": 22,
       "items": [
+        {
+          "title": "Hirebotics adds line tracking and linear rail capabilities to its cobots",
+          "link": "https://www.therobotreport.com/hirebotics-adds-line-tracking-linear-rail-capabilities-cobots/",
+          "source": "The Robot Report",
+          "published": "2026-09-19T12:40:50+00:00"
+        },
         {
           "title": "The picks-and-shovels strategy behind the robotics boom",
           "link": "https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom/",
@@ -592,12 +598,6 @@
           "published": "2026-09-14T21:01:59+00:00"
         },
         {
-          "title": "Arm to discuss scaling physical AI at RoboBusiness",
-          "link": "https://www.therobotreport.com/arm-to-discuss-scaling-physical-ai-at-robobusiness/",
-          "source": "The Robot Report",
-          "published": "2026-09-14T16:09:27+00:00"
-        },
-        {
           "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
           "link": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
           "source": "IEEE Spectrum",
@@ -614,12 +614,6 @@
           "link": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
           "source": "IEEE Spectrum",
           "published": "2026-09-07T13:00:01+00:00"
-        },
-        {
-          "title": "Cyborg Roaches Can Stab You With Needles",
-          "link": "https://spectrum.ieee.org/cyborg-rescue-roach",
-          "source": "IEEE Spectrum",
-          "published": "2026-09-05T13:00:04+00:00"
         }
       ]
     },
@@ -629,10 +623,10 @@
       "count": 1,
       "items": [
         {
-          "title": "구글 '제미나이', 보안 테스트 환경 오류로 기업 3곳 침투 사고 발생",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215493",
+          "title": "[AI 이슈트렌드] 역대급 수출 실적 속 AI 속도조절론·대통령 지지율 최저 주목",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215491",
           "source": "AI타임스",
-          "published": "2026-09-19T19:06:23+00:00"
+          "published": "2026-09-19T21:57:09+00:00"
         }
       ]
     }
