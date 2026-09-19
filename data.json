@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-09-19T03:04:16.881250+00:00",
+  "generated_at": "2026-09-19T10:16:45.769337+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "‘The Trend Is Clear’: How EVs Are Closing In On Gas Car Prices",
+          "link": "https://insideevs.com/news/808818/ev-gas-car-price-parity/",
+          "source": "InsideEVs",
+          "published": "2026-09-19T10:00:00+00:00"
+        },
         {
           "title": "It’s finally here: Porsche puts wireless EV charging into production [video]",
           "link": "https://electrek.co/2026/09/18/its-finally-here-porsche-puts-wireless-ev-charging-into-production-video/",
@@ -239,12 +245,6 @@
           "link": "https://insideevs.com/news/808615/tesla-megacharger-europe-rollout/",
           "source": "InsideEVs",
           "published": "2026-09-17T09:26:20+00:00"
-        },
-        {
-          "title": "Volvo Is Planning 13 New Cars This Decade In Its Biggest Product Push Yet",
-          "link": "https://insideevs.com/news/808594/volvo-13-new-models-2030/",
-          "source": "InsideEVs",
-          "published": "2026-09-17T06:59:15+00:00"
         }
       ]
     },
@@ -626,247 +626,13 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 40,
+      "count": 1,
       "items": [
         {
-          "title": "디즈니, 사상 첫 CTO 선임…'저작권 마찰' 캐릭터닷AI CEO 영입",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215487",
+          "title": "구글 '제미나이', 보안 테스트 환경 오류로 기업 3곳 침투 사고 발생",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215493",
           "source": "AI타임스",
-          "published": "2026-09-19T11:39:29+00:00"
-        },
-        {
-          "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
-          "link": "https://arxiv.org/abs/2609.19170",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
-          "link": "https://arxiv.org/abs/2609.19180",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
-          "link": "https://arxiv.org/abs/2609.19182",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
-          "link": "https://arxiv.org/abs/2609.19203",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
-          "link": "https://arxiv.org/abs/2609.19212",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
-          "link": "https://arxiv.org/abs/2609.19244",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "Do AI Agents Understand Computer Architecture?",
-          "link": "https://arxiv.org/abs/2609.19387",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
-          "link": "https://arxiv.org/abs/2609.19391",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
-          "link": "https://arxiv.org/abs/2609.19425",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "The syntax and semantics of goals",
-          "link": "https://arxiv.org/abs/2609.19448",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "Compositional Reasoning in Language Models under Reinforcement Learning Post-Training",
-          "link": "https://arxiv.org/abs/2609.19465",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "Safety Beyond the Interface: Detecting Harm via Latent States in Large Language Models",
-          "link": "https://arxiv.org/abs/2609.19472",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "QVAC Genesis III: A Large-Scale, High-Quality Open Synthetic STEM Corpus for Efficient Language Model Pre-Training",
-          "link": "https://arxiv.org/abs/2609.19513",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "LLM-as-an-Improver: Turning Verification into Better Candidates",
-          "link": "https://arxiv.org/abs/2609.19515",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "An Architecture for Long-Horizon Agents: Levels, Ticks and Cascaded Intelligence",
-          "link": "https://arxiv.org/abs/2609.19519",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "EconSkills: Studying Skill Transfer and Retrieval for Web Agents on Live Economic Data",
-          "link": "https://arxiv.org/abs/2609.19523",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "A Unified Evaluation Framework for Trustworthy Large Language Models, Agentic AI, and Multimodal Systems",
-          "link": "https://arxiv.org/abs/2609.19524",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "Self Improvement via Fast Tree-search",
-          "link": "https://arxiv.org/abs/2609.19526",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "When Hiring Becomes Agent-Mediated: Evaluating Access and Recurrence in Two-Agent R\\'esum\\'e Screening",
-          "link": "https://arxiv.org/abs/2609.19530",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "Agentic AI Networking for Heterogeneous Unmanned Aerial Systems in Low-Altitude Wireless Networks",
-          "link": "https://arxiv.org/abs/2609.19538",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "Continual Enterprise World Model Discovery in Dynamic Systems",
-          "link": "https://arxiv.org/abs/2609.19551",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "SIMLIFE: Pattern Understanding for Long-Horizon Human-Agent Partnership",
-          "link": "https://arxiv.org/abs/2609.19610",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "From Intent to Action: Benchmarking LLM Safety in Vehicle Voice Command Authorization",
-          "link": "https://arxiv.org/abs/2609.19630",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "Reach or Solve? Attributing Agentic RL Gains with Checkpoint Handoffs",
-          "link": "https://arxiv.org/abs/2609.19636",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "ScientistTwo: Pioneering the Human Knowledge Frontier with Autonomous AI",
-          "link": "https://arxiv.org/abs/2609.19644",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "Replan, Repair, or Edit? A Unified Empirical Evaluation of Travel Agents for Itinerary Revision under Resource Disruptions",
-          "link": "https://arxiv.org/abs/2609.19654",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "When2Think: Learning Difficulty-Aware Length Control for Efficient Hybrid Reasoning Models",
-          "link": "https://arxiv.org/abs/2609.19671",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "FINSKILLOPS: A Self-Evolving Multi-Agent System for SEC Filing QA",
-          "link": "https://arxiv.org/abs/2609.19680",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "LearnActCoder: Role-Aware Error Memory for Adaptive Clinical Coding Agents",
-          "link": "https://arxiv.org/abs/2609.19721",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "AutoData: Agentic Search for Pre-training Data Selection",
-          "link": "https://arxiv.org/abs/2609.19754",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "Rethinking Multi-Agent Collaboration: When More Is Less",
-          "link": "https://arxiv.org/abs/2609.19759",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "TorchCraft: Unified binder design by inverting an all-atom structure predictor",
-          "link": "https://arxiv.org/abs/2609.19770",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "Integrating knowledge from case reports: a medical ontology based multimodal information system with structured summary",
-          "link": "https://arxiv.org/abs/2609.19775",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "Contagion on the Trading Floor: How Adversarial Signals Spread in Multi-Agent Trading Systems",
-          "link": "https://arxiv.org/abs/2609.19789",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "Steering Equilibrium Selection in Regularized Self-Play via the Reference Policy",
-          "link": "https://arxiv.org/abs/2609.19820",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "Dual-Axis Policy Optimization for LLM Agents: Bayesian Feedback Attribution and Trajectory Mass Normalization",
-          "link": "https://arxiv.org/abs/2609.19830",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "MetaRTL: Meta-path Attention Enhanced Relational Table Learning",
-          "link": "https://arxiv.org/abs/2609.19832",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents",
-          "link": "https://arxiv.org/abs/2609.19843",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
-        },
-        {
-          "title": "Constraint-Safe Graph-Context Scoring for Stable Point-Feature Labels Under Text-Width and Accessibility-Inspired Profiles",
-          "link": "https://arxiv.org/abs/2609.19848",
-          "source": "arXiv cs.AI",
-          "published": "2026-09-18T04:00:00+00:00"
+          "published": "2026-09-19T19:06:23+00:00"
         }
       ]
     }
