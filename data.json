@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:35:29.316739+00:00",
+  "generated_at": "2026-09-20T15:24:42.100248+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,7 +7,25 @@
       "count": 40,
       "items": [
         {
-          "title": "SONDORS’ forgotten 3-wheeled electric car just showed up for sale on eBay",
+          "title": "Cadillac’s go-fast electric SUV arrives makes its way Down Under",
+          "link": "https://electrek.co/2026/09/20/cadillacs-go-fast-electric-suv-arrives-makes-its-way-down-under/",
+          "source": "Electrek",
+          "published": "2026-09-20T13:46:43+00:00"
+        },
+        {
+          "title": "As diesel hits $10/gal., rumors swirl that stations are running out",
+          "link": "https://electrek.co/2026/09/20/as-diesel-hits-10-gal-rumors-swirl-that-stations-are-running-out/",
+          "source": "Electrek",
+          "published": "2026-09-20T13:06:10+00:00"
+        },
+        {
+          "title": "From 10-97% SOC in 9 minutes: Sunwoda joins the flash charging race",
+          "link": "https://electrek.co/2026/09/20/from-10-97-soc-in-9-minutes-sunwoda-joins-the-flash-charging-race/",
+          "source": "Electrek",
+          "published": "2026-09-20T11:55:09+00:00"
+        },
+        {
+          "title": "SONDORS’ abandoned 3-wheeled electric car just showed up for sale on eBay",
           "link": "https://electrek.co/2026/09/20/sondors-forgotten-3-wheeled-electric-car-just-showed-up-for-sale-on-ebay/",
           "source": "Electrek",
           "published": "2026-09-20T09:55:29+00:00"
@@ -227,32 +245,26 @@
           "link": "https://insideevs.com/news/808676/tesla-model-y-i8-drag/",
           "source": "InsideEVs",
           "published": "2026-09-17T17:38:29+00:00"
-        },
-        {
-          "title": "Volvo teases its new vehicle design, including a surprise inside",
-          "link": "https://electrek.co/2026/09/17/volvo-teases-new-vehicle-design-surprise-inside/",
-          "source": "Electrek",
-          "published": "2026-09-17T17:28:48+00:00"
-        },
-        {
-          "title": "Tesla to run public Megachargers at 3 Forum Mobility Semi depots",
-          "link": "https://electrek.co/2026/09/17/tesla-public-megachargers-forum-mobility-semi-depots/",
-          "source": "Electrek",
-          "published": "2026-09-17T14:51:51+00:00"
-        },
-        {
-          "title": "Kia expects its bigger electric vans to outsell the PV5 as it targets 250,000 by 2030",
-          "link": "https://electrek.co/2026/09/17/kia-bigger-electric-vans-outsell-pv5-2030/",
-          "source": "Electrek",
-          "published": "2026-09-17T14:21:10+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 26,
+      "count": 27,
       "items": [
+        {
+          "title": "Ziroth is Wrong: Donut Lab’s Battery Is Not NMC",
+          "link": "https://cleantechnica.com/2026/09/20/ziroth-is-wrong-donut-labs-battery-is-not-nmc/",
+          "source": "CleanTechnica",
+          "published": "2026-09-20T14:41:53+00:00"
+        },
+        {
+          "title": "From 10-97% SOC in 9 minutes: Sunwoda joins the flash charging race",
+          "link": "https://electrek.co/2026/09/20/from-10-97-soc-in-9-minutes-sunwoda-joins-the-flash-charging-race/",
+          "source": "Electrek",
+          "published": "2026-09-20T11:55:09+00:00"
+        },
         {
           "title": "E-quipment highlight: 4,400 hp Wabtec FLXDrive electric locomotive [update]",
           "link": "https://electrek.co/2026/09/19/e-quipment-highlight-4400-hp-wabtec-flxdrive-electric-locomotive/",
@@ -342,12 +354,6 @@
           "link": "https://cleantechnica.com/2026/09/16/actionaid-report-argues-for-cancelling-debt-in-climate-vulnerable-countries/",
           "source": "CleanTechnica",
           "published": "2026-09-16T13:33:13+00:00"
-        },
-        {
-          "title": "Holcim Integrates Two Joule Hive Thermal Batteries Into Its Cement Making Facility",
-          "link": "https://cleantechnica.com/2026/09/15/holcim-integrates-two-joule-hive-thermal-batteries-into-its-cement-making-facility/",
-          "source": "CleanTechnica",
-          "published": "2026-09-15T21:42:41+00:00"
         },
         {
           "title": "Velotric Summit 1 multi-terrain e-bike $300 off, Jackery 2,048Wh HomePower V2 400W solar bundle, rare Husqvarna deal, more",
@@ -484,6 +490,18 @@
       "count": 22,
       "items": [
         {
+          "title": "[기고] AGI 시대, 직업교육의 속도가 국가의 경쟁력이다",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48606",
+          "source": "로봇신문",
+          "published": "2026-09-20T20:23:22+00:00"
+        },
+        {
+          "title": "What do you do with a humanoid robot when it breaks down?",
+          "link": "https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down/",
+          "source": "The Robot Report",
+          "published": "2026-09-20T12:45:45+00:00"
+        },
+        {
           "title": "Hirebotics adds line tracking and linear rail capabilities to its cobots",
           "link": "https://www.therobotreport.com/hirebotics-adds-line-tracking-linear-rail-capabilities-cobots/",
           "source": "The Robot Report",
@@ -494,12 +512,6 @@
           "link": "https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom/",
           "source": "The Robot Report",
           "published": "2026-09-18T18:57:36+00:00"
-        },
-        {
-          "title": "경북도, 푸드테크 연구지원센터 전국 첫 준공",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48592",
-          "source": "로봇신문",
-          "published": "2026-09-18T17:48:49+00:00"
         },
         {
           "title": "SoftBank agrees to acquire Robotics and AI Institute",
@@ -590,12 +602,6 @@
           "link": "https://www.therobotreport.com/why-raas-needs-more-than-a-subscription-model/",
           "source": "The Robot Report",
           "published": "2026-09-14T21:45:57+00:00"
-        },
-        {
-          "title": "Report covers advances in surgical robots, deploying warehouse automation in the real world",
-          "link": "https://www.therobotreport.com/report-covers-surgical-robot-advances-deploying-warehouse-automation-real-world/",
-          "source": "The Robot Report",
-          "published": "2026-09-14T21:01:59+00:00"
         },
         {
           "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
