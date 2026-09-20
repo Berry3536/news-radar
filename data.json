@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-09-20T03:20:14.689881+00:00",
+  "generated_at": "2026-09-20T10:35:29.316739+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "SONDORS’ forgotten 3-wheeled electric car just showed up for sale on eBay",
+          "link": "https://electrek.co/2026/09/20/sondors-forgotten-3-wheeled-electric-car-just-showed-up-for-sale-on-ebay/",
+          "source": "Electrek",
+          "published": "2026-09-20T09:55:29+00:00"
+        },
         {
           "title": "Here’s all the dumb oil wars that electric cars have nothing to do with",
           "link": "https://electrek.co/2026/09/19/heres-all-the-dumb-oil-wars-that-electric-cars-have-nothing-to-do-with/",
@@ -239,12 +245,6 @@
           "link": "https://electrek.co/2026/09/17/kia-bigger-electric-vans-outsell-pv5-2030/",
           "source": "Electrek",
           "published": "2026-09-17T14:21:10+00:00"
-        },
-        {
-          "title": "Royal Enfield’s Flying Flea electric motorcycle finally goes global, revealing its Western price",
-          "link": "https://electrek.co/2026/09/17/royal-enfields-flying-flea-electric-motorcycle-finally-goes-global-revealing-its-western-price/",
-          "source": "Electrek",
-          "published": "2026-09-17T13:22:08+00:00"
         }
       ]
     },
@@ -623,10 +623,10 @@
       "count": 1,
       "items": [
         {
-          "title": "프랑스 검찰, 스마트 안경 이용한 '성희롱·불법 촬영' 수사 착수",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215497",
+          "title": "“문장 생성 버렸다”…판단 전용 AI ‘제브’에 개발자 반응 폭발",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215506",
           "source": "AI타임스",
-          "published": "2026-09-20T11:43:24+00:00"
+          "published": "2026-09-20T17:40:45+00:00"
         }
       ]
     }
