@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-09-20T15:24:42.100248+00:00",
+  "generated_at": "2026-09-20T20:18:24.006684+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Tesla reopens $50,000 Roadster reservations ahead of October 1 unveil",
+          "link": "https://electrek.co/2026/09/20/tesla-reopens-50000-roadster-reservations-october-1-unveil/",
+          "source": "Electrek",
+          "published": "2026-09-20T17:31:30+00:00"
+        },
         {
           "title": "Cadillac’s go-fast electric SUV arrives makes its way Down Under",
           "link": "https://electrek.co/2026/09/20/cadillacs-go-fast-electric-suv-arrives-makes-its-way-down-under/",
@@ -239,19 +245,13 @@
           "link": "https://electrek.co/2026/09/17/tenways-e-bikes-mammotion-luba-mini-2-awd-robot-mower-ego-string-trimmer-jetson-more/",
           "source": "Electrek",
           "published": "2026-09-17T18:00:00+00:00"
-        },
-        {
-          "title": "A BMW i8, Tesla Model Y, And Audi E-Tron GT All Drag Race, But The Results Are Closer Than You'd Think",
-          "link": "https://insideevs.com/news/808676/tesla-model-y-i8-drag/",
-          "source": "InsideEVs",
-          "published": "2026-09-17T17:38:29+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 27,
+      "count": 26,
       "items": [
         {
           "title": "Ziroth is Wrong: Donut Lab’s Battery Is Not NMC",
@@ -408,12 +408,6 @@
           "link": "https://electrek.co/2026/09/10/tesla-cybertruck-powershare-powerwall-3-home-backup/",
           "source": "Electrek",
           "published": "2026-09-10T19:27:50+00:00"
-        },
-        {
-          "title": "Segway Myon e-bike + $150 FREE accessory credit $1,800 ($350 off), EcoFlow 50% off power station sale, Anker security, more",
-          "link": "https://electrek.co/2026/09/10/segway-myon-e-bike-ecoflow-power-station-sale-anker-security-more/",
-          "source": "Electrek",
-          "published": "2026-09-10T18:00:00+00:00"
         }
       ]
     },
@@ -490,10 +484,10 @@
       "count": 22,
       "items": [
         {
-          "title": "[기고] AGI 시대, 직업교육의 속도가 국가의 경쟁력이다",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48606",
+          "title": "[Books] 피지컬 AI 로봇",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48609",
           "source": "로봇신문",
-          "published": "2026-09-20T20:23:22+00:00"
+          "published": "2026-09-21T01:51:58+00:00"
         },
         {
           "title": "What do you do with a humanoid robot when it breaks down?",
