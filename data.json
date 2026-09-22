@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T10:56:53.541995+00:00",
+  "generated_at": "2026-09-22T16:14:54.589995+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,60 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44560",
           "source": "모터그래프",
           "published": "2026-09-22T17:18:37+00:00"
+        },
+        {
+          "title": "Mercedes-Benz signs deal to put Wayve AI Driver in cars within 2 years",
+          "link": "https://electrek.co/2026/09/22/mercedes-benz-wayve-ai-driver-production-agreement/",
+          "source": "Electrek",
+          "published": "2026-09-22T14:49:05+00:00"
+        },
+        {
+          "title": "Tesla Full Self-Driving bug falsely flags dirty cameras, demands service",
+          "link": "https://electrek.co/2026/09/22/tesla-fsd-v14-3-9-false-camera-service-alerts/",
+          "source": "Electrek",
+          "published": "2026-09-22T14:26:44+00:00"
+        },
+        {
+          "title": "BYD offers a closer look at the new Seagull EV [Images]",
+          "link": "https://electrek.co/2026/09/22/byd-offers-closer-look-new-seagull-ev-images/",
+          "source": "Electrek",
+          "published": "2026-09-22T14:12:48+00:00"
+        },
+        {
+          "title": "Waymo riders can now get $2.85 back when pairing a ride with public transit",
+          "link": "https://electrek.co/2026/09/22/waymo-riders-can-now-get-2-85-back-when-pairing-a-ride-with-public-transit/",
+          "source": "Electrek",
+          "published": "2026-09-22T14:00:00+00:00"
+        },
+        {
+          "title": "Tesla’s active robotaxi fleet in Austin crashes back to 8 vehicles after Cybercab pump",
+          "link": "https://electrek.co/2026/09/22/tesla-robotaxi-active-fleet-austin-crashes-8-vehicles/",
+          "source": "Electrek",
+          "published": "2026-09-22T13:45:22+00:00"
+        },
+        {
+          "title": "Honda just unveiled an electric mountain bike, and it looks serious",
+          "link": "https://electrek.co/2026/09/22/honda-just-unveiled-an-electric-mountain-bike-and-it-looks-serious/",
+          "source": "Electrek",
+          "published": "2026-09-22T13:02:13+00:00"
+        },
+        {
+          "title": "Voltpost’s Lamppost EV Chargers Are Expanding, With Free Top-Ups In Brooklyn",
+          "link": "https://insideevs.com/news/809103/voltpost-new-ev-pole-chargers-new-york-free/",
+          "source": "InsideEVs",
+          "published": "2026-09-22T13:00:00+00:00"
+        },
+        {
+          "title": "Massive UK study finds high-mileage electric cars more durable than petrol",
+          "link": "https://electrek.co/2026/09/22/massive-uk-study-finds-high-mileage-electric-cars-more-durable-than-petrol/",
+          "source": "Electrek",
+          "published": "2026-09-22T12:00:00+00:00"
+        },
+        {
+          "title": "The Tesla Semi Had This Reviewer Skeptical. Now He Thinks It’s A Game Changer",
+          "link": "https://insideevs.com/news/808967/top-gear-tesla-semi-ride/",
+          "source": "InsideEVs",
+          "published": "2026-09-22T12:00:00+00:00"
         },
         {
           "title": "This 1970 Scout Sat In A Field For Years. Now It’s An EV With Its Original 4-Speed Manual",
@@ -191,68 +245,20 @@
           "link": "https://electrek.co/2026/09/20/from-10-97-soc-in-9-minutes-sunwoda-joins-the-flash-charging-race/",
           "source": "Electrek",
           "published": "2026-09-20T11:55:09+00:00"
-        },
-        {
-          "title": "SONDORS’ abandoned 3-wheeled electric car just showed up for sale on eBay",
-          "link": "https://electrek.co/2026/09/20/sondors-forgotten-3-wheeled-electric-car-just-showed-up-for-sale-on-ebay/",
-          "source": "Electrek",
-          "published": "2026-09-20T09:55:29+00:00"
-        },
-        {
-          "title": "Here’s all the dumb oil wars that electric cars have nothing to do with",
-          "link": "https://electrek.co/2026/09/19/heres-all-the-dumb-oil-wars-that-electric-cars-have-nothing-to-do-with/",
-          "source": "Electrek",
-          "published": "2026-09-19T16:30:00+00:00"
-        },
-        {
-          "title": "Climate XChange is giving away more EVs than ever before in its 11th Annual EV Raffle",
-          "link": "https://electrek.co/2026/09/19/climate-xchange-is-giving-away-more-evs-than-ever-before-in-its-11th-annual-ev-raffle/",
-          "source": "Electrek",
-          "published": "2026-09-19T15:00:00+00:00"
-        },
-        {
-          "title": "E-quipment highlight: 4,400 hp Wabtec FLXDrive electric locomotive [update]",
-          "link": "https://electrek.co/2026/09/19/e-quipment-highlight-4400-hp-wabtec-flxdrive-electric-locomotive/",
-          "source": "Electrek",
-          "published": "2026-09-19T14:00:00+00:00"
-        },
-        {
-          "title": "Swaptopus inches towards reality as CATL reveals new semi truck battery",
-          "link": "https://electrek.co/2026/09/19/swaptopus-inches-towards-reality-as-catl-reveals-new-semi-truck-battery/",
-          "source": "Electrek",
-          "published": "2026-09-19T13:08:21+00:00"
-        },
-        {
-          "title": "Is This An E-Bike Or A Moped? It Depends On Who You Ask",
-          "link": "https://insideevs.com/reviews/808693/ebike-vs-emoto-aotos-flux-x26-pro-review/",
-          "source": "InsideEVs",
-          "published": "2026-09-19T11:00:00+00:00"
-        },
-        {
-          "title": "Hyundai CEO's Answer For The EV Slowdown: Build Robotaxis",
-          "link": "https://insideevs.com/news/808830/hyundais-answer-for-ev-slowdown-building-robotaxis/",
-          "source": "InsideEVs",
-          "published": "2026-09-19T10:30:00+00:00"
-        },
-        {
-          "title": "‘The Trend Is Clear’: How EVs Are Closing In On Gas Car Prices",
-          "link": "https://insideevs.com/news/808818/ev-gas-car-price-parity/",
-          "source": "InsideEVs",
-          "published": "2026-09-19T10:00:00+00:00"
-        },
-        {
-          "title": "It’s finally here: Porsche puts wireless EV charging into production [video]",
-          "link": "https://electrek.co/2026/09/18/its-finally-here-porsche-puts-wireless-ev-charging-into-production-video/",
-          "source": "Electrek",
-          "published": "2026-09-19T01:26:44+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 27,
+      "count": 26,
       "items": [
+        {
+          "title": "Why Tugboats Fit Batteries Better Than Their Power Ratings Suggest",
+          "link": "https://cleantechnica.com/2026/09/22/electric-tugboats-battery-duty-cycle/",
+          "source": "CleanTechnica",
+          "published": "2026-09-22T15:55:15+00:00"
+        },
         {
           "title": "Irizar Completes Delivery of 31 Electric Buses to Poland’s GZM Network",
           "link": "https://cleantechnica.com/2026/09/21/irizar-completes-delivery-of-31-electric-buses-to-polands-gzm-network/",
@@ -344,12 +350,6 @@
           "published": "2026-09-18T18:00:00+00:00"
         },
         {
-          "title": "'Can't Be Done By One Company': Factorial Is Rallying A Team To Build Solid-State Batteries",
-          "link": "https://insideevs.com/news/808779/factorial-solid-state-ev-battery-coalition-mitsui-kinzoku/",
-          "source": "InsideEVs",
-          "published": "2026-09-18T17:05:13+00:00"
-        },
-        {
           "title": "144 Tesla Megapacks power Australia’s first 8-hour grid battery",
           "link": "https://electrek.co/2026/09/18/tesla-megapack-australia-first-8-hour-battery-rwe-limondale/",
           "source": "Electrek",
@@ -408,25 +408,25 @@
           "link": "https://electrek.co/2026/09/11/amazon-puts-50-mercedes-benz-eactros-electric-semi-trucks-to-work-in-germany/",
           "source": "Electrek",
           "published": "2026-09-12T00:33:03+00:00"
-        },
-        {
-          "title": "Upcoming electric Porsche Boxster spotted with no camo on Nurburgring",
-          "link": "https://electrek.co/2026/09/11/upcoming-electric-porsche-boxster-spotted-with-no-camo-on-nurburgring/",
-          "source": "Electrek",
-          "published": "2026-09-11T18:47:03+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 11,
+      "count": 12,
       "items": [
         {
           "title": "현대 모터스튜디오 12년 여정 담은 다큐멘터리 영화, 더 스튜디오 공개",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44571",
           "source": "모터그래프",
           "published": "2026-09-22T17:15:59+00:00"
+        },
+        {
+          "title": "Honda just unveiled an electric mountain bike, and it looks serious",
+          "link": "https://electrek.co/2026/09/22/honda-just-unveiled-an-electric-mountain-bike-and-it-looks-serious/",
+          "source": "Electrek",
+          "published": "2026-09-22T13:02:13+00:00"
         },
         {
           "title": "Chevrolet Bolt EV 2026 Review: Can the new powertrain save it?",
@@ -493,13 +493,25 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 21,
+      "count": 22,
       "items": [
         {
           "title": "펀진, KAI와 ‘K-온디바이스 AI’ 개발 나서",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48649",
           "source": "로봇신문",
           "published": "2026-09-22T17:54:55+00:00"
+        },
+        {
+          "title": "Barbara Mazzolai Wants to Build a New Field of Robotics",
+          "link": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
+          "source": "IEEE Spectrum",
+          "published": "2026-09-22T14:00:04+00:00"
+        },
+        {
+          "title": "Intrinsic open sources key parts of its platform for easier development",
+          "link": "https://www.therobotreport.com/intrinsic-open-sources-key-parts-platform-easier-development/",
+          "source": "The Robot Report",
+          "published": "2026-09-22T11:55:37+00:00"
         },
         {
           "title": "IAC completes autonomous racing event at Laguna Seca",
@@ -602,12 +614,6 @@
           "link": "https://spectrum.ieee.org/humanoid-robot-safety",
           "source": "IEEE Spectrum",
           "published": "2026-09-15T15:22:30+00:00"
-        },
-        {
-          "title": "InOrbit.AI releases OpenRobOps ISO 21423 reference implementation",
-          "link": "https://www.therobotreport.com/inorbit-ai-releases-openrobops-iso-21423-reference-implementation/",
-          "source": "The Robot Report",
-          "published": "2026-09-15T12:58:29+00:00"
         },
         {
           "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
