@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-09-21T18:03:59.589730+00:00",
+  "generated_at": "2026-09-22T03:15:01.072832+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "This Chinese SUV Has Built-In Propellers So It Can Drive Across Water",
+          "link": "https://insideevs.com/news/809021/geely-battleship-700-water-swim/",
+          "source": "InsideEVs",
+          "published": "2026-09-21T23:20:18+00:00"
+        },
+        {
+          "title": "These Absolutely Wild-Looking EVs Are Saudi Arabia's First Homegrown Cars",
+          "link": "https://insideevs.com/news/809011/ceer-exobot-sedan-suv/",
+          "source": "InsideEVs",
+          "published": "2026-09-21T22:31:08+00:00"
+        },
+        {
+          "title": "Kia reveals EV3 offers and deals, including a $1,500 customer cash discount",
+          "link": "https://electrek.co/2026/09/21/kia-ev3-offers-1500-customer-cash-discount/",
+          "source": "Electrek",
+          "published": "2026-09-21T21:12:42+00:00"
+        },
+        {
+          "title": "Tesla Wants $50,000 Deposits For A Roadster Nobody Has Seen Yet",
+          "link": "https://insideevs.com/news/808999/tesla-roadster-orders-reopen-50000/",
+          "source": "InsideEVs",
+          "published": "2026-09-21T20:59:26+00:00"
+        },
+        {
+          "title": "Geely one-ups BYD with 2.2MW charger, allowing 4-minute EV charges",
+          "link": "https://electrek.co/2026/09/21/geely-one-ups-byd-with-2-2mw-charger-allowing-4-minute-ev-charges/",
+          "source": "Electrek",
+          "published": "2026-09-21T20:24:49+00:00"
+        },
+        {
+          "title": "Ceer unveils its EXOBOT EVs, Saudi Arabia’s first electric SUV and sedan",
+          "link": "https://electrek.co/2026/09/21/ceer-unveils-exobot-evs-saudi-arabias-first-electric-vehicles/",
+          "source": "Electrek",
+          "published": "2026-09-21T19:42:29+00:00"
+        },
+        {
+          "title": "Tesla Cybercab Inherited One Of The Most Annoying Things About Owning A Tesla",
+          "link": "https://insideevs.com/news/808696/tesla-cybercab-navigation-problems-issues/",
+          "source": "InsideEVs",
+          "published": "2026-09-21T18:40:14+00:00"
+        },
+        {
+          "title": "Rivian R3 Will Be Priced 'Materially Lower' Than R2, CEO Says",
+          "link": "https://insideevs.com/news/809000/rivian-r3-price-materially-lower-than-r2-rj-scaringe/",
+          "source": "InsideEVs",
+          "published": "2026-09-21T18:29:38+00:00"
+        },
         {
           "title": "EcoFlow Early Prime Day Sale 3,072Wh DELTA Ultra Plus solar bundle $900 off, EGO snow blower bundle $949 2026 low, more",
           "link": "https://electrek.co/2026/09/21/ecoflow-early-prime-day-3072wh-delta-ultra-plus-solar-bundle-ego-snow-blower-more/",
@@ -73,7 +121,7 @@
           "published": "2026-09-21T12:59:44+00:00"
         },
         {
-          "title": "CATL’s New Batteries Target American Pickups. They Could Made In The U.S.",
+          "title": "CATL’s New Batteries Target American Pickups. They Could Be Made In The U.S.",
           "link": "https://insideevs.com/news/808953/catl-us-pickup-battery-cells/",
           "source": "InsideEVs",
           "published": "2026-09-21T12:58:10+00:00"
@@ -197,54 +245,6 @@
           "link": "https://electrek.co/2026/09/18/toyotas-new-evs-catching-on-5000-sold-august/",
           "source": "Electrek",
           "published": "2026-09-18T20:39:19+00:00"
-        },
-        {
-          "title": "What If We're Thinking About EV Charging All Wrong?",
-          "link": "https://insideevs.com/features/808817/ev-charging-podcast-tesla-roadster/",
-          "source": "InsideEVs",
-          "published": "2026-09-18T19:52:18+00:00"
-        },
-        {
-          "title": "Podcast: Tesla Roadster gets a date, VW XL1 comes back electric, BYD’s new Tesla fighter, and more",
-          "link": "https://electrek.co/2026/09/18/podcast-tesla-roadster-gets-a-date-vw-xl1-comes-back-electric-byds-new-tesla-fighter-and-more/",
-          "source": "Electrek",
-          "published": "2026-09-18T19:36:33+00:00"
-        },
-        {
-          "title": "Want to get off gas? Learn how at Drive Electric Month events across the US",
-          "link": "https://electrek.co/2026/09/18/learn-how-to-save-money-on-gas-at-us-drive-electric-month-events-all-month/",
-          "source": "Electrek",
-          "published": "2026-09-18T19:00:00+00:00"
-        },
-        {
-          "title": "Hyundai warns the US may be next in line for a wave of cheaper Chinese EVs",
-          "link": "https://electrek.co/2026/09/18/hyundai-warns-us-wave-cheaper-chinese-evs/",
-          "source": "Electrek",
-          "published": "2026-09-18T18:10:04+00:00"
-        },
-        {
-          "title": "Anker SOLIX E10 system sale starts from exclusive $3,799 low, Heybike ALPHA mid-drive e-bike $1,099 low, EcoFlow, more",
-          "link": "https://electrek.co/2026/09/18/anker-solix-e10-system-exclusive-heybike-alpha-mid-drive-e-bike-ecoflow-more/",
-          "source": "Electrek",
-          "published": "2026-09-18T18:00:00+00:00"
-        },
-        {
-          "title": "'Can't Be Done By One Company': Factorial Is Rallying A Team To Build Solid-State Batteries",
-          "link": "https://insideevs.com/news/808779/factorial-solid-state-ev-battery-coalition-mitsui-kinzoku/",
-          "source": "InsideEVs",
-          "published": "2026-09-18T17:05:13+00:00"
-        },
-        {
-          "title": "BMW begins iX3 deliveries early in the US as demand surges",
-          "link": "https://electrek.co/2026/09/18/bmw-begins-ix3-deliveries-early-us/",
-          "source": "Electrek",
-          "published": "2026-09-18T16:19:42+00:00"
-        },
-        {
-          "title": "XPeng shops its self-driving tech to automakers — Tesla found no takers",
-          "link": "https://electrek.co/2026/09/18/xpeng-license-self-driving-tech-automakers-tesla-fsd/",
-          "source": "Electrek",
-          "published": "2026-09-18T15:43:15+00:00"
         }
       ]
     },
@@ -253,6 +253,24 @@
       "label": "배터리",
       "count": 27,
       "items": [
+        {
+          "title": "Norway’s Bastø Electric Shows What Five Years of Ferry Electrification Looks Like",
+          "link": "https://cleantechnica.com/2026/09/21/norways-basto-electric-shows-what-five-years-of-ferry-electrification-looks-like/",
+          "source": "CleanTechnica",
+          "published": "2026-09-22T02:47:22+00:00"
+        },
+        {
+          "title": "Geely one-ups BYD with 2.2MW charger, allowing 4-minute EV charges",
+          "link": "https://electrek.co/2026/09/21/geely-one-ups-byd-with-2-2mw-charger-allowing-4-minute-ev-charges/",
+          "source": "Electrek",
+          "published": "2026-09-21T20:24:49+00:00"
+        },
+        {
+          "title": "Federal Court Rules Cancellation Of Solar For All Program Was Unlawful",
+          "link": "https://cleantechnica.com/2026/09/21/federal-court-rules-cancellation-of-solar-for-all-program-was-unlawful/",
+          "source": "CleanTechnica",
+          "published": "2026-09-21T19:00:31+00:00"
+        },
         {
           "title": "EcoFlow Early Prime Day Sale 3,072Wh DELTA Ultra Plus solar bundle $900 off, EGO snow blower bundle $949 2026 low, more",
           "link": "https://electrek.co/2026/09/21/ecoflow-early-prime-day-3072wh-delta-ultra-plus-solar-bundle-ego-snow-blower-more/",
@@ -266,7 +284,7 @@
           "published": "2026-09-21T13:03:03+00:00"
         },
         {
-          "title": "CATL’s New Batteries Target American Pickups. They Could Made In The U.S.",
+          "title": "CATL’s New Batteries Target American Pickups. They Could Be Made In The U.S.",
           "link": "https://insideevs.com/news/808953/catl-us-pickup-battery-cells/",
           "source": "InsideEVs",
           "published": "2026-09-21T12:58:10+00:00"
@@ -344,28 +362,10 @@
           "published": "2026-09-18T03:57:32+00:00"
         },
         {
-          "title": "Porsche Is Working On Making Batteries From Its Own Recycled Materials",
-          "link": "https://insideevs.com/news/808687/porsche-recycled-battery-materials/",
-          "source": "InsideEVs",
-          "published": "2026-09-17T20:57:34+00:00"
-        },
-        {
           "title": "Solid-state battery maker Factorial secures another big partnership",
           "link": "https://electrek.co/2026/09/17/solid-state-battery-maker-factorial-secures-another-big-partnership/",
           "source": "Electrek",
           "published": "2026-09-17T11:00:00+00:00"
-        },
-        {
-          "title": "Good News, Bad News From IAA Transportation Show In Germany",
-          "link": "https://cleantechnica.com/2026/09/16/good-news-bad-news-from-iaa-transportation-show-in-germany/",
-          "source": "CleanTechnica",
-          "published": "2026-09-16T15:54:44+00:00"
-        },
-        {
-          "title": "Europe’s Electric Backbone",
-          "link": "https://cleantechnica.com/2026/09/16/europes-electric-backbone/",
-          "source": "CleanTechnica",
-          "published": "2026-09-16T14:07:50+00:00"
         },
         {
           "title": "Velotric Summit 1 multi-terrain e-bike $300 off, Jackery 2,048Wh HomePower V2 400W solar bundle, rare Husqvarna deal, more",
@@ -502,6 +502,12 @@
           "published": "2026-09-21T21:13:43+00:00"
         },
         {
+          "title": "IAC completes autonomous racing event at Laguna Seca",
+          "link": "https://www.therobotreport.com/iac-completes-autonomous-racing-event-at-laguna-seca/",
+          "source": "The Robot Report",
+          "published": "2026-09-21T18:02:09+00:00"
+        },
+        {
           "title": "Boston Dynamics opens Metaplant Application Center to train Atlas humanoids",
           "link": "https://www.therobotreport.com/boston-dynamics-opens-metaplant-application-center-train-atlas-humanoid-robots/",
           "source": "The Robot Report",
@@ -604,12 +610,6 @@
           "published": "2026-09-15T12:58:29+00:00"
         },
         {
-          "title": "Agility’s Digit 5 humanoid has new legs, batteries, and safety upgrades",
-          "link": "https://www.therobotreport.com/agilitys-digit-5-humanoid-has-new-legs-batteries-safety-upgrades/",
-          "source": "The Robot Report",
-          "published": "2026-09-15T10:55:15+00:00"
-        },
-        {
           "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
           "link": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
           "source": "IEEE Spectrum",
@@ -629,10 +629,10 @@
       "count": 40,
       "items": [
         {
-          "title": "알리바바, 통역 지연 '2.3초'로 줄인 AI '큐원3.8-라이브트랜스레이트' 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215516",
+          "title": "LG, MS와 파트너십 체결...\"AI 데이터센터·AX·피지컬AI 3대 협력\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215550",
           "source": "AI타임스",
-          "published": "2026-09-21T18:20:59+00:00"
+          "published": "2026-09-22T11:58:50+00:00"
         },
         {
           "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
