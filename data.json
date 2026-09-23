@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-09-22T20:52:06.608450+00:00",
+  "generated_at": "2026-09-23T03:15:12.581205+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Mercedes Taps Wayve For Tesla FSD-Like System Within 2 Years",
+          "link": "https://insideevs.com/news/809174/mercedes-taps-wayve-for-tesla-fsd-like-driver-assistance/",
+          "source": "InsideEVs",
+          "published": "2026-09-23T00:35:38+00:00"
+        },
+        {
+          "title": "Rivian Says The R2 Has Half The Carbon Footprint Of An R1S",
+          "link": "https://insideevs.com/news/809176/rivian-r2-half-carbon-footprint/",
+          "source": "InsideEVs",
+          "published": "2026-09-22T21:36:29+00:00"
+        },
+        {
+          "title": "Rivian R3 will be ‘materially’ cheaper than R2, and R4 goes even lower",
+          "link": "https://electrek.co/2026/09/22/rivian-r3-materially-cheaper-than-r2-r4-lower/",
+          "source": "Electrek",
+          "published": "2026-09-22T21:30:59+00:00"
+        },
+        {
+          "title": "Teslas Are Way More Likely To Have Salvage Titles: Report",
+          "link": "https://insideevs.com/news/809165/tesla-salvage-title-auction-rate/",
+          "source": "InsideEVs",
+          "published": "2026-09-22T21:24:18+00:00"
+        },
+        {
+          "title": "Electric Porsche Boxster spotted plugged in at Tesla Supercharger in California",
+          "link": "https://electrek.co/2026/09/22/electric-porsche-boxster-spotted-plugged-in-at-tesla-supercharger-in-california/",
+          "source": "Electrek",
+          "published": "2026-09-22T21:16:18+00:00"
+        },
+        {
+          "title": "BMW’s new iX3 gets an early loyalty discount",
+          "link": "https://electrek.co/2026/09/22/bmws-new-ix3-early-loyalty-discount/",
+          "source": "Electrek",
+          "published": "2026-09-22T20:52:56+00:00"
+        },
         {
           "title": "Toyota Is Reportedly Getting Into EREVs. Here's What We Know",
           "link": "https://insideevs.com/news/809159/toyota-build-erevs-china/",
@@ -209,49 +245,13 @@
           "link": "https://electrek.co/2026/09/21/south-park-just-took-on-americas-e-bike-problem-and-surprisingly-nailed-a-lot-of-it/",
           "source": "Electrek",
           "published": "2026-09-21T14:14:31+00:00"
-        },
-        {
-          "title": "Volkswagen’s new ID. Cross brings a more affordable electric SUV to the lineup",
-          "link": "https://electrek.co/2026/09/21/volkswagen-adds-more-affordable-id-cross-electric-suv/",
-          "source": "Electrek",
-          "published": "2026-09-21T14:14:06+00:00"
-        },
-        {
-          "title": "Musk pitches 200-mph Austin-San Antonio ‘Hyperloop’ tunnel, again",
-          "link": "https://electrek.co/2026/09/21/musk-boring-company-austin-san-antonio-hyperloop-tunnel/",
-          "source": "Electrek",
-          "published": "2026-09-21T14:06:51+00:00"
-        },
-        {
-          "title": "Tesla and Sunrun’s virtual power plant dispatch record 580 MW to California grid",
-          "link": "https://electrek.co/2026/09/21/sunrun-tesla-580-mw-california-grid-record/",
-          "source": "Electrek",
-          "published": "2026-09-21T13:03:03+00:00"
-        },
-        {
-          "title": "Hyundai Recalls Ioniq 9 EV Because Rear Seats Could Trap Children",
-          "link": "https://insideevs.com/news/808955/hyundai-ioniq-9-ev-recall-child-trap-rear-seats/",
-          "source": "InsideEVs",
-          "published": "2026-09-21T12:59:44+00:00"
-        },
-        {
-          "title": "CATL’s New Batteries Target American Pickups. They Could Be Made In The U.S.",
-          "link": "https://insideevs.com/news/808953/catl-us-pickup-battery-cells/",
-          "source": "InsideEVs",
-          "published": "2026-09-21T12:58:10+00:00"
-        },
-        {
-          "title": "Nissan's New Rogue Is A Different Kind Of Hybrid. Here's How Much It Costs.",
-          "link": "https://insideevs.com/news/808948/2027-nissan-rogue-hybrid-prices/",
-          "source": "InsideEVs",
-          "published": "2026-09-21T12:36:43+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 30,
+      "count": 26,
       "items": [
         {
           "title": "Tesla Semi wins 2,500-truck order, doubling US electric Class 8 fleet",
@@ -332,12 +332,6 @@
           "published": "2026-09-21T09:18:51+00:00"
         },
         {
-          "title": "This VW ID. Buzz Finished A 62,000-Mile World Trip With Nearly 96% Battery Health",
-          "link": "https://insideevs.com/news/808905/vw-id-buzz-world-trip/",
-          "source": "InsideEVs",
-          "published": "2026-09-21T08:40:46+00:00"
-        },
-        {
           "title": "Ziroth is Wrong: Donut Lab’s Battery Is Not NMC",
           "link": "https://cleantechnica.com/2026/09/20/ziroth-is-wrong-donut-labs-battery-is-not-nmc/",
           "source": "CleanTechnica",
@@ -380,12 +374,6 @@
           "published": "2026-09-18T14:12:33+00:00"
         },
         {
-          "title": "NLR Campus To Host US Department of Energy Geothermal Center of Excellence",
-          "link": "https://cleantechnica.com/2026/09/17/nlr-campus-to-host-us-department-of-energy-geothermal-center-of-excellence/",
-          "source": "CleanTechnica",
-          "published": "2026-09-18T03:57:32+00:00"
-        },
-        {
           "title": "Solid-state battery maker Factorial secures another big partnership",
           "link": "https://electrek.co/2026/09/17/solid-state-battery-maker-factorial-secures-another-big-partnership/",
           "source": "Electrek",
@@ -420,18 +408,6 @@
           "link": "https://electrek.co/2026/09/14/shell-faw-partner-on-better-safer-electric-semi-truck-batteries/",
           "source": "Electrek",
           "published": "2026-09-14T12:23:46+00:00"
-        },
-        {
-          "title": "New fleet of battery electric trains promises faster, more reliable UK travel",
-          "link": "https://electrek.co/2026/09/12/new-fleet-of-battery-electric-trains-promises-faster-more-reliable-uk-travel/",
-          "source": "Electrek",
-          "published": "2026-09-12T14:50:51+00:00"
-        },
-        {
-          "title": "Amazon puts 50 Mercedes-Benz eActros electric semi trucks to work in Germany",
-          "link": "https://electrek.co/2026/09/11/amazon-puts-50-mercedes-benz-eactros-electric-semi-trucks-to-work-in-germany/",
-          "source": "Electrek",
-          "published": "2026-09-12T00:33:03+00:00"
         }
       ]
     },
@@ -525,6 +501,18 @@
       "label": "로봇",
       "count": 22,
       "items": [
+        {
+          "title": "Intel to discuss the infrastructure needed to scale physical AI at RoboBusiness",
+          "link": "https://www.therobotreport.com/intel-discusses-infrastructure-needed-to-scale-physical-ai-robobusiness/",
+          "source": "The Robot Report",
+          "published": "2026-09-22T21:31:19+00:00"
+        },
+        {
+          "title": "Why outdoor robots fail (and how to build systems that survive)",
+          "link": "https://www.therobotreport.com/why-outdoor-robots-fail-how-to-build-systems-that-survive/",
+          "source": "The Robot Report",
+          "published": "2026-09-22T18:00:37+00:00"
+        },
         {
           "title": "펀진, KAI와 ‘K-온디바이스 AI’ 개발 나서",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48649",
@@ -622,18 +610,6 @@
           "published": "2026-09-17T16:18:55+00:00"
         },
         {
-          "title": "Arm Total Design for Physical AI brings more than 80 developers together",
-          "link": "https://www.therobotreport.com/arm-total-design-for-physical-ai-brings-more-than-80-developers-together/",
-          "source": "The Robot Report",
-          "published": "2026-09-17T12:30:13+00:00"
-        },
-        {
-          "title": "OLogic to share how robots can learn from human demonstrations at RoboBusiness",
-          "link": "https://www.therobotreport.com/ologic-to-share-how-robots-can-learn-from-human-demonstrations-at-robobusiness/",
-          "source": "The Robot Report",
-          "published": "2026-09-16T20:31:29+00:00"
-        },
-        {
           "title": "Rethinking Robot Safety in the Age of AI",
           "link": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
           "source": "IEEE Spectrum",
@@ -665,10 +641,10 @@
       "count": 40,
       "items": [
         {
-          "title": "새로운 최고 성능·가격 40% 인하…앤트로픽, '클로드 오퍼스 5.5' 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215583",
+          "title": "트럼프 \"AI 명칭 '초지능'으로 변경\"…글로벌 규약도 거부",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215609",
           "source": "AI타임스",
-          "published": "2026-09-23T05:36:34+00:00"
+          "published": "2026-09-23T11:56:45+00:00"
         },
         {
           "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
