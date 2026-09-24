@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:05:11.594466+00:00",
+  "generated_at": "2026-09-24T16:28:32.559162+00:00",
   "categories": [
     {
       "key": "ev",
@@ -11,6 +11,36 @@
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44594",
           "source": "모터그래프",
           "published": "2026-09-24T16:59:28+00:00"
+        },
+        {
+          "title": "BYD releases the first official images of the ‘bigger’ Seagull EV ahead of its debut",
+          "link": "https://electrek.co/2026/09/24/byd-releases-first-official-images-bigger-seagull-ev/",
+          "source": "Electrek",
+          "published": "2026-09-24T15:50:13+00:00"
+        },
+        {
+          "title": "Volkswagen Delays The ID. Buzz's Return To The U.S. Again",
+          "link": "https://insideevs.com/news/809464/volkswagen-id-buzz-delayed-to-model-year-2028/",
+          "source": "InsideEVs",
+          "published": "2026-09-24T15:48:10+00:00"
+        },
+        {
+          "title": "Kia patent reveals a tough-looking off-road electric SUV",
+          "link": "https://electrek.co/2026/09/24/kia-patent-reveals-tough-looking-off-road-electric-suv/",
+          "source": "Electrek",
+          "published": "2026-09-24T14:44:04+00:00"
+        },
+        {
+          "title": "Tesla Semi launch sneak peek: several customers are being announced",
+          "link": "https://electrek.co/2026/09/24/tesla-semi-launch-sneak-peek-customers-announced/",
+          "source": "Electrek",
+          "published": "2026-09-24T14:10:48+00:00"
+        },
+        {
+          "title": "Waymo says it has stopped 841 injuries in 271 million autonomous miles",
+          "link": "https://electrek.co/2026/09/24/waymo-says-it-has-stopped-841-injuries-in-271-million-autonomous-miles/",
+          "source": "Electrek",
+          "published": "2026-09-24T13:00:00+00:00"
         },
         {
           "title": "GM Is Giving Away Free EV Chargers—And Paying New Owners To Charge",
@@ -215,43 +245,13 @@
           "link": "https://electrek.co/2026/09/22/jackery-early-access-prime-day-sale-3584wh-homepower-3600-pro-max-lectric-e-bikes-more/",
           "source": "Electrek",
           "published": "2026-09-22T18:00:00+00:00"
-        },
-        {
-          "title": "High-Mileage EVs May Hold Up Better Than Gas Cars: Study",
-          "link": "https://insideevs.com/news/809127/ev-durability-gas-uk-study/",
-          "source": "InsideEVs",
-          "published": "2026-09-22T17:28:25+00:00"
-        },
-        {
-          "title": "Your Next Cadillac Or Chevy EV Could Have A Recycled Battery",
-          "link": "https://insideevs.com/news/809134/gm-recycled-ev-battery-cirba-solutions/",
-          "source": "InsideEVs",
-          "published": "2026-09-22T16:26:20+00:00"
-        },
-        {
-          "title": "Volkswagen’s new EVs are so popular that the company is now cutting ICE shifts",
-          "link": "https://electrek.co/2026/09/22/volkswagens-new-evs-so-popular-cutting-ice-shifts/",
-          "source": "Electrek",
-          "published": "2026-09-22T16:19:02+00:00"
-        },
-        {
-          "title": "Mercedes-Benz signs deal to put Wayve AI Driver in cars within 2 years",
-          "link": "https://electrek.co/2026/09/22/mercedes-benz-wayve-ai-driver-production-agreement/",
-          "source": "Electrek",
-          "published": "2026-09-22T14:49:05+00:00"
-        },
-        {
-          "title": "Tesla Full Self-Driving bug falsely flags dirty cameras, demands service",
-          "link": "https://electrek.co/2026/09/22/tesla-fsd-v14-3-9-false-camera-service-alerts/",
-          "source": "Electrek",
-          "published": "2026-09-22T14:26:44+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 29,
+      "count": 28,
       "items": [
         {
           "title": "Nissan's Newest EV Isn't Actually A Nissan",
@@ -420,12 +420,6 @@
           "link": "https://electrek.co/2026/09/15/the-worlds-largest-ev-company-just-partnered-with-an-african-electric-motorcycle-company/",
           "source": "Electrek",
           "published": "2026-09-15T15:15:00+00:00"
-        },
-        {
-          "title": "Anker solar HomeKit-ready Wall Light Cam S4 launch deal, Anker SOLIX extends power station sale, Monarc e-bike bundles, more",
-          "link": "https://electrek.co/2026/09/14/anker-solar-homekit-wall-light-cam-s4-anker-solix-power-station-sale-monarc-e-bike-more/",
-          "source": "Electrek",
-          "published": "2026-09-14T18:00:59+00:00"
         }
       ]
     },
@@ -513,6 +507,18 @@
       "label": "로봇",
       "count": 22,
       "items": [
+        {
+          "title": "Epson introduces AX6 cobot with compact design, no-code programming",
+          "link": "https://www.therobotreport.com/epson-introduces-ax6-cobot-compact-design-no-code-programming/",
+          "source": "The Robot Report",
+          "published": "2026-09-24T14:51:07+00:00"
+        },
+        {
+          "title": "ANYbotics opens the door for inspections with ANYmal robots",
+          "link": "https://www.therobotreport.com/anybotics-opens-the-door-for-inspections-with-anymal-robots/",
+          "source": "The Robot Report",
+          "published": "2026-09-24T13:27:58+00:00"
+        },
         {
           "title": "마라톤 풀코스 뛴 KAIST 4족 로봇 ‘라이보2’ 기술, 네이처 본지에 실렸다",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48675",
@@ -604,18 +610,6 @@
           "published": "2026-09-18T18:57:36+00:00"
         },
         {
-          "title": "SoftBank agrees to acquire Robotics and AI Institute",
-          "link": "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/",
-          "source": "The Robot Report",
-          "published": "2026-09-18T17:14:32+00:00"
-        },
-        {
-          "title": "F-Prime Capital to give insights on the state of robotics investments at RoboBusiness",
-          "link": "https://www.therobotreport.com/f-prime-capital-give-insights-state-robotics-investments-robobusiness/",
-          "source": "The Robot Report",
-          "published": "2026-09-18T16:16:44+00:00"
-        },
-        {
           "title": "Video Friday: Two Birotors Make a Quadrotor",
           "link": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
           "source": "IEEE Spectrum",
@@ -653,10 +647,10 @@
       "count": 40,
       "items": [
         {
-          "title": "앤트로픽, '오퍼스 5.5' 프롬프트 팁 공개...\"불필요 문구 삭제해야\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215638",
+          "title": "메타, 펜던트형 AI 기기 '뮤즈 참' 12월 출시 예고",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215647",
           "source": "AI타임스",
-          "published": "2026-09-24T19:54:31+00:00"
+          "published": "2026-09-24T22:59:56+00:00"
         },
         {
           "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
