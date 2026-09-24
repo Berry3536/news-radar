@@ -1,11 +1,65 @@
 {
-  "generated_at": "2026-09-24T16:28:32.559162+00:00",
+  "generated_at": "2026-09-24T21:07:29.712158+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Volkswagen delays its electric minibus for the US — again",
+          "link": "https://electrek.co/2026/09/24/volkswagen-delays-electric-minibus-us-again/",
+          "source": "Electrek",
+          "published": "2026-09-24T20:49:10+00:00"
+        },
+        {
+          "title": "Americans Are Buying Hybrids At A Record Pace. And It's Not Just Toyota Anymore",
+          "link": "https://insideevs.com/news/809482/record-hybrid-growth-america/",
+          "source": "InsideEVs",
+          "published": "2026-09-24T20:20:10+00:00"
+        },
+        {
+          "title": "Tesla ‘FSD’ sped in 55% of Brussels 30 km/h zones ahead of EU vote",
+          "link": "https://electrek.co/2026/09/24/tesla-fsd-belgium-test-speeding-30-kmh-eu-vote/",
+          "source": "Electrek",
+          "published": "2026-09-24T19:50:49+00:00"
+        },
+        {
+          "title": "NHTSA investigates comma.ai’s openpilot over 5 crashes that killed 3",
+          "link": "https://electrek.co/2026/09/24/comma-ai-openpilot-nhtsa-investigation-crashes/",
+          "source": "Electrek",
+          "published": "2026-09-24T19:12:57+00:00"
+        },
+        {
+          "title": "Thinking about buying a second car? Here’s a $1,000 alternative",
+          "link": "https://electrek.co/2026/09/24/thinking-about-buying-a-second-car-heres-a-1000-alternative/",
+          "source": "Electrek",
+          "published": "2026-09-24T18:54:50+00:00"
+        },
+        {
+          "title": "Mercedes-Benz gets first dibs on ProLogium’s Gen4 solid-state EV battery cells",
+          "link": "https://electrek.co/2026/09/24/mercedes-priority-prologiums-gen4-solid-state-ev-battery/",
+          "source": "Electrek",
+          "published": "2026-09-24T18:33:12+00:00"
+        },
+        {
+          "title": "This Audi EV Set A Guinness World Record By Driving 831 Miles Without Recharging",
+          "link": "https://insideevs.com/news/809472/audi-a6-etron-guinness-record/",
+          "source": "InsideEVs",
+          "published": "2026-09-24T18:23:43+00:00"
+        },
+        {
+          "title": "Volkswagen Bets You'll Pay Up For In-Car Gaming",
+          "link": "https://insideevs.com/news/809461/volkswagen-bets-youll-pay-up-for-in-car-gaming/",
+          "source": "InsideEVs",
+          "published": "2026-09-24T18:05:23+00:00"
+        },
+        {
+          "title": "Anker security cameras up to 46% off in early Prime Day Sale, EcoFlow Monthly Madness flash sale, EGO snow blower bundles, more",
+          "link": "https://electrek.co/2026/09/24/anker-security-cameras-early-prime-day-sale-ecoflow-monthly-madness-flash-sale-ego-snow-blower/",
+          "source": "Electrek",
+          "published": "2026-09-24T18:00:00+00:00"
+        },
         {
           "title": "베일 벗은 브랜드 첫 순수 전기차, 벤틀리 토르칼 세계 최초 공개",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44594",
@@ -191,68 +245,32 @@
           "link": "https://insideevs.com/news/809176/rivian-r2-half-carbon-footprint/",
           "source": "InsideEVs",
           "published": "2026-09-22T21:36:29+00:00"
-        },
-        {
-          "title": "Rivian R3 will be ‘materially’ cheaper than R2, and R4 goes even lower",
-          "link": "https://electrek.co/2026/09/22/rivian-r3-materially-cheaper-than-r2-r4-lower/",
-          "source": "Electrek",
-          "published": "2026-09-22T21:30:59+00:00"
-        },
-        {
-          "title": "Teslas Are Way More Likely To Have Salvage Titles: Report",
-          "link": "https://insideevs.com/news/809165/tesla-salvage-title-auction-rate/",
-          "source": "InsideEVs",
-          "published": "2026-09-22T21:24:18+00:00"
-        },
-        {
-          "title": "Electric Porsche Boxster spotted plugged in at Tesla Supercharger in California",
-          "link": "https://electrek.co/2026/09/22/electric-porsche-boxster-spotted-plugged-in-at-tesla-supercharger-in-california/",
-          "source": "Electrek",
-          "published": "2026-09-22T21:16:18+00:00"
-        },
-        {
-          "title": "BMW’s new iX3 gets an early loyalty discount",
-          "link": "https://electrek.co/2026/09/22/bmws-new-ix3-early-loyalty-discount/",
-          "source": "Electrek",
-          "published": "2026-09-22T20:52:56+00:00"
-        },
-        {
-          "title": "Toyota Is Reportedly Getting Into EREVs. Here's What We Know",
-          "link": "https://insideevs.com/news/809159/toyota-build-erevs-china/",
-          "source": "InsideEVs",
-          "published": "2026-09-22T20:31:33+00:00"
-        },
-        {
-          "title": "Tesla Semi wins 2,500-truck order, doubling US electric Class 8 fleet",
-          "link": "https://electrek.co/2026/09/22/tesla-semi-2500-truck-order-zet-scale-largest-us/",
-          "source": "Electrek",
-          "published": "2026-09-22T19:56:06+00:00"
-        },
-        {
-          "title": "PHEV Batteries Take A Beating If Used Right. But They Still Last",
-          "link": "https://insideevs.com/features/806631/phev-battery-degradation-diaries/",
-          "source": "InsideEVs",
-          "published": "2026-09-22T19:34:29+00:00"
-        },
-        {
-          "title": "Toyota’s popular $15,000 Chinese EV spotted testing overseas in RHD [Images]",
-          "link": "https://electrek.co/2026/09/22/toyotas-15000-chinese-ev-spotted-overseas-rhd-images/",
-          "source": "Electrek",
-          "published": "2026-09-22T18:10:14+00:00"
-        },
-        {
-          "title": "Jackery Early Access Prime Day Sale drops 3,584Wh HomePower 3600 Pro Max to $1,799, Lectric e-bikes up to $804 off, more",
-          "link": "https://electrek.co/2026/09/22/jackery-early-access-prime-day-sale-3584wh-homepower-3600-pro-max-lectric-e-bikes-more/",
-          "source": "Electrek",
-          "published": "2026-09-22T18:00:00+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 28,
+      "count": 29,
       "items": [
+        {
+          "title": "Mercedes-Benz gets first dibs on ProLogium’s Gen4 solid-state EV battery cells",
+          "link": "https://electrek.co/2026/09/24/mercedes-priority-prologiums-gen4-solid-state-ev-battery/",
+          "source": "Electrek",
+          "published": "2026-09-24T18:33:12+00:00"
+        },
+        {
+          "title": "Anker security cameras up to 46% off in early Prime Day Sale, EcoFlow Monthly Madness flash sale, EGO snow blower bundles, more",
+          "link": "https://electrek.co/2026/09/24/anker-security-cameras-early-prime-day-sale-ecoflow-monthly-madness-flash-sale-ego-snow-blower/",
+          "source": "Electrek",
+          "published": "2026-09-24T18:00:00+00:00"
+        },
+        {
+          "title": "Glut Of Chinese Plug-In Hybrids Threatens European Automakers",
+          "link": "https://cleantechnica.com/2026/09/24/glut-of-chinese-plug-in-hybrids-threatens-european-automakers/",
+          "source": "CleanTechnica",
+          "published": "2026-09-24T17:17:50+00:00"
+        },
         {
           "title": "Nissan's Newest EV Isn't Actually A Nissan",
           "link": "https://insideevs.com/news/809325/nissan-newest-ev-pixo-renault-twingo-twin/",
@@ -308,22 +326,10 @@
           "published": "2026-09-22T19:56:06+00:00"
         },
         {
-          "title": "PHEV Batteries Take A Beating If Used Right. But They Still Last",
-          "link": "https://insideevs.com/features/806631/phev-battery-degradation-diaries/",
-          "source": "InsideEVs",
-          "published": "2026-09-22T19:34:29+00:00"
-        },
-        {
           "title": "Jackery Early Access Prime Day Sale drops 3,584Wh HomePower 3600 Pro Max to $1,799, Lectric e-bikes up to $804 off, more",
           "link": "https://electrek.co/2026/09/22/jackery-early-access-prime-day-sale-3584wh-homepower-3600-pro-max-lectric-e-bikes-more/",
           "source": "Electrek",
           "published": "2026-09-22T18:00:00+00:00"
-        },
-        {
-          "title": "Your Next Cadillac Or Chevy EV Could Have A Recycled Battery",
-          "link": "https://insideevs.com/news/809134/gm-recycled-ev-battery-cirba-solutions/",
-          "source": "InsideEVs",
-          "published": "2026-09-22T16:26:20+00:00"
         },
         {
           "title": "Why Tugboats Fit Batteries Better Than Their Power Ratings Suggest",
@@ -426,7 +432,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 12,
+      "count": 11,
       "items": [
         {
           "title": "베일 벗은 브랜드 첫 순수 전기차, 벤틀리 토르칼 세계 최초 공개",
@@ -451,12 +457,6 @@
           "link": "https://insideevs.com/news/809159/toyota-build-erevs-china/",
           "source": "InsideEVs",
           "published": "2026-09-22T20:31:33+00:00"
-        },
-        {
-          "title": "Your Next Cadillac Or Chevy EV Could Have A Recycled Battery",
-          "link": "https://insideevs.com/news/809134/gm-recycled-ev-battery-cirba-solutions/",
-          "source": "InsideEVs",
-          "published": "2026-09-22T16:26:20+00:00"
         },
         {
           "title": "Honda just unveiled an electric mountain bike, and it looks serious",
@@ -507,6 +507,24 @@
       "label": "로봇",
       "count": 22,
       "items": [
+        {
+          "title": "5 million robots are now at work in factories worldwide, reports the IFR",
+          "link": "https://www.therobotreport.com/5-million-robots-now-working-factories-worldwide-ifr-reports/",
+          "source": "The Robot Report",
+          "published": "2026-09-24T20:15:51+00:00"
+        },
+        {
+          "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
+          "link": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
+          "source": "IEEE Spectrum",
+          "published": "2026-09-24T18:00:04+00:00"
+        },
+        {
+          "title": "Why you should look beyond the spec sheet when choosing motion architecture",
+          "link": "https://www.therobotreport.com/why-you-should-look-beyond-spec-sheet-when-choosing-motion-architecture/",
+          "source": "The Robot Report",
+          "published": "2026-09-24T16:39:14+00:00"
+        },
         {
           "title": "Epson introduces AX6 cobot with compact design, no-code programming",
           "link": "https://www.therobotreport.com/epson-introduces-ax6-cobot-compact-design-no-code-programming/",
@@ -598,18 +616,6 @@
           "published": "2026-09-20T12:45:45+00:00"
         },
         {
-          "title": "Hirebotics adds line tracking and linear rail capabilities to its cobots",
-          "link": "https://www.therobotreport.com/hirebotics-adds-line-tracking-linear-rail-capabilities-cobots/",
-          "source": "The Robot Report",
-          "published": "2026-09-19T12:40:50+00:00"
-        },
-        {
-          "title": "The picks-and-shovels strategy behind the robotics boom",
-          "link": "https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom/",
-          "source": "The Robot Report",
-          "published": "2026-09-18T18:57:36+00:00"
-        },
-        {
           "title": "Video Friday: Two Birotors Make a Quadrotor",
           "link": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
           "source": "IEEE Spectrum",
@@ -632,12 +638,6 @@
           "link": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
           "source": "IEEE Spectrum",
           "published": "2026-09-11T15:30:04+00:00"
-        },
-        {
-          "title": "Robots Are Learning to Feel",
-          "link": "https://spectrum.ieee.org/tactile-data-robots",
-          "source": "IEEE Spectrum",
-          "published": "2026-09-10T18:22:35+00:00"
         }
       ]
     },
