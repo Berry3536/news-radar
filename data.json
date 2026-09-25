@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T21:07:29.712158+00:00",
+  "generated_at": "2026-09-25T03:21:59.238765+00:00",
   "categories": [
     {
       "key": "ev",
@@ -254,6 +254,12 @@
       "count": 29,
       "items": [
         {
+          "title": "LA Metro Secures 220 New Battery-Electric Transit Buses",
+          "link": "https://cleantechnica.com/2026/09/24/la-metro-secures-220-new-battery-electric-transit-buses/",
+          "source": "CleanTechnica",
+          "published": "2026-09-24T23:51:37+00:00"
+        },
+        {
           "title": "Mercedes-Benz gets first dibs on ProLogium’s Gen4 solid-state EV battery cells",
           "link": "https://electrek.co/2026/09/24/mercedes-priority-prologiums-gen4-solid-state-ev-battery/",
           "source": "Electrek",
@@ -372,12 +378,6 @@
           "link": "https://electrek.co/2026/09/21/sunrun-tesla-580-mw-california-grid-record/",
           "source": "Electrek",
           "published": "2026-09-21T13:03:03+00:00"
-        },
-        {
-          "title": "Ziroth is Wrong: Donut Lab’s Battery Is Not NMC",
-          "link": "https://cleantechnica.com/2026/09/20/ziroth-is-wrong-donut-labs-battery-is-not-nmc/",
-          "source": "CleanTechnica",
-          "published": "2026-09-20T14:41:53+00:00"
         },
         {
           "title": "From 10-97% SOC in 9 minutes: Sunwoda joins the flash charging race",
@@ -647,10 +647,10 @@
       "count": 40,
       "items": [
         {
-          "title": "메타, 펜던트형 AI 기기 '뮤즈 참' 12월 출시 예고",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215647",
+          "title": "독일 변전소 1313곳, 배터리 연결로 태양광 150GW 추가 수용 가능",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215592",
           "source": "AI타임스",
-          "published": "2026-09-24T22:59:56+00:00"
+          "published": "2026-09-25T09:40:00+00:00"
         },
         {
           "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
