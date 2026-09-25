@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-09-25T11:06:25.923606+00:00",
+  "generated_at": "2026-09-25T16:29:38.413486+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Volkswagen is clearing out ID.4 EVs with a $12,500 discount",
+          "link": "https://electrek.co/2026/09/25/volkswagen-clearing-out-id-4-evs-12500-discount/",
+          "source": "Electrek",
+          "published": "2026-09-25T16:28:35+00:00"
+        },
+        {
+          "title": "Tesla patent shows new Roadster with a hidden 700 kg-downforce rear wing",
+          "link": "https://electrek.co/2026/09/25/tesla-patent-new-roadster-hidden-active-rear-wing-700-kg-downforce/",
+          "source": "Electrek",
+          "published": "2026-09-25T16:13:57+00:00"
+        },
+        {
+          "title": "Tesla ramps Optimus to hundreds a week, but the robots can’t generalize",
+          "link": "https://electrek.co/2026/09/25/tesla-optimus-production-ramp-hands-ai-generalization-problems/",
+          "source": "Electrek",
+          "published": "2026-09-25T14:45:34+00:00"
+        },
+        {
+          "title": "Lexus’ electric 3-row SUV makes its first public appearance",
+          "link": "https://electrek.co/2026/09/25/lexus-electric-3-row-suv-first-public-appearance/",
+          "source": "Electrek",
+          "published": "2026-09-25T13:53:25+00:00"
+        },
+        {
+          "title": "Geely’s AI fast charging ‘heals’ EV batteries for 20% more cycle life",
+          "link": "https://electrek.co/2026/09/25/geely-ai-fast-charging-heals-ev-batteries-pulse-restoration/",
+          "source": "Electrek",
+          "published": "2026-09-25T13:13:52+00:00"
+        },
+        {
+          "title": "Green Water & Power powers up its 10,000th EV charger in just 3 years",
+          "link": "https://electrek.co/2026/09/25/green-water-power-powers-up-its-10000th-ev-charger-in-just-3-years/",
+          "source": "Electrek",
+          "published": "2026-09-25T13:01:57+00:00"
+        },
+        {
+          "title": "Wheel-E Podcast: South Park e-bikes, Honda eMTB, more",
+          "link": "https://electrek.co/2026/09/25/wheel-e-podcast-south-park-e-bikes-honda-emtb-more/",
+          "source": "Electrek",
+          "published": "2026-09-25T12:37:55+00:00"
+        },
+        {
+          "title": "Tesla Semi finally enters volume production, 7 years behind schedule",
+          "link": "https://electrek.co/2026/09/25/tesla-semi-volume-production-launch-nevada-factory/",
+          "source": "Electrek",
+          "published": "2026-09-25T12:31:37+00:00"
+        },
         {
           "title": "EV Sales Keep Surging In Europe, Now Make Up 29% Of New Car Sales",
           "link": "https://insideevs.com/news/809592/ev-sales-europe-august-market-share/",
@@ -197,62 +245,20 @@
           "link": "https://electrek.co/2026/09/23/nissan-reveals-new-affordable-pixo-ev-259-km-range/",
           "source": "Electrek",
           "published": "2026-09-23T14:17:29+00:00"
-        },
-        {
-          "title": "Tesla’s ‘hardcore lawyers’ went a little too hardcore",
-          "link": "https://electrek.co/2026/09/23/tesla-hardcore-lawyers-misled-witness-racism-trial/",
-          "source": "Electrek",
-          "published": "2026-09-23T14:15:16+00:00"
-        },
-        {
-          "title": "Donut Lab really wants us to believe its ‘miracle solid-state battery’ is real",
-          "link": "https://electrek.co/2026/09/23/donut-lab-intertek-lithium-test-solid-state-battery/",
-          "source": "Electrek",
-          "published": "2026-09-23T13:27:46+00:00"
-        },
-        {
-          "title": "Get paid to charge, a free charger, *and* save the grid with a new GM EV in CA",
-          "link": "https://electrek.co/2026/09/23/get-a-free-charger-get-paid-to-charge-and-save-the-grid-with-a-new-gm-ev-on-pge-in-california/",
-          "source": "Electrek",
-          "published": "2026-09-23T13:00:00+00:00"
-        },
-        {
-          "title": "Trucks gone wild! VinFast launches VF Wild EREV pickup",
-          "link": "https://electrek.co/2026/09/23/trucks-gone-wild-vinfast-launches-vf-wild-erev-pickup/",
-          "source": "Electrek",
-          "published": "2026-09-23T12:25:16+00:00"
-        },
-        {
-          "title": "The New BMW i3 EV Is Coming To The U.S. Sooner Than Expected",
-          "link": "https://insideevs.com/news/809247/bmw-i3-us-reservations-sooner-than-expected/",
-          "source": "InsideEVs",
-          "published": "2026-09-23T12:01:59+00:00"
-        },
-        {
-          "title": "Volkswagen Is Now Selling More EVs Than Gas Cars In Germany. That Changes The Plan",
-          "link": "https://insideevs.com/news/809219/vw-more-orders-evs-combustion-cars-germany/",
-          "source": "InsideEVs",
-          "published": "2026-09-23T09:23:14+00:00"
-        },
-        {
-          "title": "The BMW iX3 Beat Mercedes And Volvo On Efficiency And Range In A Highway Test",
-          "link": "https://insideevs.com/news/809214/ix3-glc-ex60-highway-range/",
-          "source": "InsideEVs",
-          "published": "2026-09-23T08:54:49+00:00"
-        },
-        {
-          "title": "The Tesla Semi Just Got A Massive Boost From The Biggest U.S. Electric Truck Order Ever",
-          "link": "https://insideevs.com/news/809205/largest-electric-truck-order-us-tesla-semi/",
-          "source": "InsideEVs",
-          "published": "2026-09-23T07:58:25+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 29,
+      "count": 28,
       "items": [
+        {
+          "title": "Geely’s AI fast charging ‘heals’ EV batteries for 20% more cycle life",
+          "link": "https://electrek.co/2026/09/25/geely-ai-fast-charging-heals-ev-batteries-pulse-restoration/",
+          "source": "Electrek",
+          "published": "2026-09-25T13:13:52+00:00"
+        },
         {
           "title": "LA Metro Secures 220 New Battery-Electric Transit Buses",
           "link": "https://cleantechnica.com/2026/09/24/la-metro-secures-220-new-battery-electric-transit-buses/",
@@ -414,25 +420,13 @@
           "link": "https://electrek.co/2026/09/17/solid-state-battery-maker-factorial-secures-another-big-partnership/",
           "source": "Electrek",
           "published": "2026-09-17T11:00:00+00:00"
-        },
-        {
-          "title": "Velotric Summit 1 multi-terrain e-bike $300 off, Jackery 2,048Wh HomePower V2 400W solar bundle, rare Husqvarna deal, more",
-          "link": "https://electrek.co/2026/09/15/velotric-summit-1-multi-terrain-e-bike-jackery-2048wh-homepower-v2-husqvarna-more/",
-          "source": "Electrek",
-          "published": "2026-09-15T18:00:00+00:00"
-        },
-        {
-          "title": "The world’s largest EV company just partnered with an African electric motorcycle company",
-          "link": "https://electrek.co/2026/09/15/the-worlds-largest-ev-company-just-partnered-with-an-african-electric-motorcycle-company/",
-          "source": "Electrek",
-          "published": "2026-09-15T15:15:00+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 10,
+      "count": 9,
       "items": [
         {
           "title": "베일 벗은 브랜드 첫 순수 전기차, 벤틀리 토르칼 세계 최초 공개",
@@ -487,12 +481,6 @@
           "link": "https://electrek.co/2026/09/16/engwe-e26-3-0-full-suspension-e-bike-eagle-electric-dirt-bike-anker-more/",
           "source": "Electrek",
           "published": "2026-09-16T18:00:00+00:00"
-        },
-        {
-          "title": "The world’s largest EV company just partnered with an African electric motorcycle company",
-          "link": "https://electrek.co/2026/09/15/the-worlds-largest-ev-company-just-partnered-with-an-african-electric-motorcycle-company/",
-          "source": "Electrek",
-          "published": "2026-09-15T15:15:00+00:00"
         }
       ]
     },
@@ -501,6 +489,24 @@
       "label": "로봇",
       "count": 22,
       "items": [
+        {
+          "title": "Video Friday: Life’s Better With a Little Robot Goose",
+          "link": "https://spectrum.ieee.org/video-friday-goose-household-robots",
+          "source": "IEEE Spectrum",
+          "published": "2026-09-25T16:00:04+00:00"
+        },
+        {
+          "title": "Agility Robotics, maker of Digit humanoid, exploring wheeled robots",
+          "link": "https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/",
+          "source": "The Robot Report",
+          "published": "2026-09-25T14:08:27+00:00"
+        },
+        {
+          "title": "Farmers are facing more pressure; CNH says robotics can help",
+          "link": "https://www.therobotreport.com/farmers-are-facing-more-pressure-cnh-says-robotics-can-help/",
+          "source": "The Robot Report",
+          "published": "2026-09-25T12:18:36+00:00"
+        },
         {
           "title": "5 million robots are now at work in factories worldwide, reports the IFR",
           "link": "https://www.therobotreport.com/5-million-robots-now-working-factories-worldwide-ifr-reports/",
@@ -598,18 +604,6 @@
           "published": "2026-09-21T18:02:09+00:00"
         },
         {
-          "title": "Boston Dynamics opens Metaplant Application Center to train Atlas humanoids",
-          "link": "https://www.therobotreport.com/boston-dynamics-opens-metaplant-application-center-train-atlas-humanoid-robots/",
-          "source": "The Robot Report",
-          "published": "2026-09-21T12:59:00+00:00"
-        },
-        {
-          "title": "What do you do with a humanoid robot when it breaks down?",
-          "link": "https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down/",
-          "source": "The Robot Report",
-          "published": "2026-09-20T12:45:45+00:00"
-        },
-        {
           "title": "Video Friday: Two Birotors Make a Quadrotor",
           "link": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
           "source": "IEEE Spectrum",
@@ -626,12 +620,6 @@
           "link": "https://spectrum.ieee.org/humanoid-robot-safety",
           "source": "IEEE Spectrum",
           "published": "2026-09-15T15:22:30+00:00"
-        },
-        {
-          "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
-          "link": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
-          "source": "IEEE Spectrum",
-          "published": "2026-09-11T15:30:04+00:00"
         }
       ]
     },
@@ -641,10 +629,10 @@
       "count": 40,
       "items": [
         {
-          "title": "앤트로픽, 거부된 클로드 요청도 과금…‘모델 증류 공격’ 방어선 구축",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215649",
+          "title": "백악관, 오픈AI·앤트로픽에 \"신모델, 영국 사전 검증 거부하라\" 압박",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215658",
           "source": "AI타임스",
-          "published": "2026-09-25T19:53:13+00:00"
+          "published": "2026-09-25T23:18:42+00:00"
         },
         {
           "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
