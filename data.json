@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-09-26T10:47:29.415865+00:00",
+  "generated_at": "2026-09-26T15:44:43.036602+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "These Battery Cells Were Tested After 14 Years Of Hard Work. They're Good For Another Decade",
+          "link": "https://insideevs.com/news/809604/catl-lfp-prismatic-cell-age-test/",
+          "source": "InsideEVs",
+          "published": "2026-09-26T13:00:00+00:00"
+        },
+        {
+          "title": "Renault 8 Gordini reborn as 270 hp electric rally retromobile",
+          "link": "https://electrek.co/2026/09/26/renault-8-gordini-reborn-as-270-hp-electric-rally-retromobile/",
+          "source": "Electrek",
+          "published": "2026-09-26T12:58:45+00:00"
+        },
+        {
+          "title": "JUNA puts more than 100 Scania electric semi trucks to work",
+          "link": "https://electrek.co/2026/09/26/juna-puts-more-than-100-scania-electric-semi-trucks-to-work/",
+          "source": "Electrek",
+          "published": "2026-09-26T11:55:52+00:00"
+        },
+        {
+          "title": "Forget Politics. EVs Have An Age Problem",
+          "link": "https://insideevs.com/news/809672/forget-politics-evs-have-an-age-problem/",
+          "source": "InsideEVs",
+          "published": "2026-09-26T11:15:00+00:00"
+        },
+        {
+          "title": "Bentley Goes Electric As China's EV Charging War Gets Ridiculous",
+          "link": "https://insideevs.com/features/809673/bentley-torcal-geely-ev-charging-ceer-exobot-podcast/",
+          "source": "InsideEVs",
+          "published": "2026-09-26T11:00:00+00:00"
+        },
         {
           "title": "Volkswagen Delays Ontario Battery Plant",
           "link": "https://insideevs.com/news/809662/vw-ontario-battery-plant-delay/",
@@ -215,36 +245,6 @@
           "link": "https://electrek.co/2026/09/24/waymo-says-it-has-stopped-841-injuries-in-271-million-autonomous-miles/",
           "source": "Electrek",
           "published": "2026-09-24T13:00:00+00:00"
-        },
-        {
-          "title": "GM Is Giving Away Free EV Chargers—And Paying New Owners To Charge",
-          "link": "https://insideevs.com/news/809418/gm-ev-free-charger-money-back/",
-          "source": "InsideEVs",
-          "published": "2026-09-24T10:46:18+00:00"
-        },
-        {
-          "title": "The Renault 8 Gordini Is Back As A Gorgeous Rear-Wheel Drive EV",
-          "link": "https://insideevs.com/news/809375/renault-8-gordini-concept-ev-specs-photos/",
-          "source": "InsideEVs",
-          "published": "2026-09-24T07:31:19+00:00"
-        },
-        {
-          "title": "Nissan's Newest EV Isn't Actually A Nissan",
-          "link": "https://insideevs.com/news/809325/nissan-newest-ev-pixo-renault-twingo-twin/",
-          "source": "InsideEVs",
-          "published": "2026-09-23T23:18:25+00:00"
-        },
-        {
-          "title": "BMW fast-tracks the new i3, with reservations now opening next week",
-          "link": "https://electrek.co/2026/09/23/bmw-fast-tracks-new-i3-reservations-opening-next-week/",
-          "source": "Electrek",
-          "published": "2026-09-23T21:16:42+00:00"
-        },
-        {
-          "title": "8 Cheap EVs Were Driven Until They Died. One Stood Out",
-          "link": "https://insideevs.com/news/809323/fiat-grande-panda-range-test/",
-          "source": "InsideEVs",
-          "published": "2026-09-23T20:52:40+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 29,
       "items": [
+        {
+          "title": "These Battery Cells Were Tested After 14 Years Of Hard Work. They're Good For Another Decade",
+          "link": "https://insideevs.com/news/809604/catl-lfp-prismatic-cell-age-test/",
+          "source": "InsideEVs",
+          "published": "2026-09-26T13:00:00+00:00"
+        },
         {
           "title": "Volkswagen Delays Ontario Battery Plant",
           "link": "https://insideevs.com/news/809662/vw-ontario-battery-plant-delay/",
@@ -366,12 +372,6 @@
           "link": "https://cleantechnica.com/2026/09/22/electric-tugboats-battery-duty-cycle/",
           "source": "CleanTechnica",
           "published": "2026-09-22T15:55:15+00:00"
-        },
-        {
-          "title": "Irizar Completes Delivery of 31 Electric Buses to Poland’s GZM Network",
-          "link": "https://cleantechnica.com/2026/09/21/irizar-completes-delivery-of-31-electric-buses-to-polands-gzm-network/",
-          "source": "CleanTechnica",
-          "published": "2026-09-22T03:52:49+00:00"
         },
         {
           "title": "Geely one-ups BYD with 2.2MW charger, allowing 4-minute EV charges",
@@ -502,6 +502,18 @@
       "count": 22,
       "items": [
         {
+          "title": "일본, 국제우주정거장(ISS)에서 'AI 로봇 경진대회' 연다",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48638",
+          "source": "로봇신문",
+          "published": "2026-09-26T19:39:37+00:00"
+        },
+        {
+          "title": "From 14 cities to 15,000: What it will take to scale robotaxis?",
+          "link": "https://www.therobotreport.com/from-14-cities-to-15000-what-it-will-take-to-scale-robotaxis/",
+          "source": "The Robot Report",
+          "published": "2026-09-26T12:34:55+00:00"
+        },
+        {
           "title": "Amazon to invest $100M in new Indiana manufacturing facility",
           "link": "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility/",
           "source": "The Robot Report",
@@ -562,12 +574,6 @@
           "published": "2026-09-24T13:27:58+00:00"
         },
         {
-          "title": "마라톤 풀코스 뛴 KAIST 4족 로봇 ‘라이보2’ 기술, 네이처 본지에 실렸다",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48675",
-          "source": "로봇신문",
-          "published": "2026-09-24T00:28:34+00:00"
-        },
-        {
           "title": "With the new VENTUNO Q board, Arduino hopes to make robotics development easier",
           "link": "https://www.therobotreport.com/new-ventuno-q-board-arduino-hopes-make-robotics-development-easier/",
           "source": "The Robot Report",
@@ -602,12 +608,6 @@
           "link": "https://www.therobotreport.com/why-outdoor-robots-fail-how-to-build-systems-that-survive/",
           "source": "The Robot Report",
           "published": "2026-09-22T18:00:37+00:00"
-        },
-        {
-          "title": "Isaac ROS 5.0 brings AI agents to robotics development, says NVIDIA",
-          "link": "https://www.therobotreport.com/isaac-ros-5-0-brings-ai-agents-robotics-development-says-nvidia/",
-          "source": "The Robot Report",
-          "published": "2026-09-22T17:51:19+00:00"
         },
         {
           "title": "Barbara Mazzolai Wants to Build a New Field of Robotics",
