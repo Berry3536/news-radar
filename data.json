@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-09-27T16:22:02.173183+00:00",
+  "generated_at": "2026-09-27T20:51:15.258289+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Survey Sunday: When self driving cars crash, who gets the blame?",
+          "link": "https://electrek.co/2026/09/27/survey-sunday-when-self-driving-cars-crash-who-gets-the-blame/",
+          "source": "Electrek",
+          "published": "2026-09-27T19:24:30+00:00"
+        },
+        {
+          "title": "Mazda adds LiDAR to CX-6e, rolls out “self driving” tech in China",
+          "link": "https://electrek.co/2026/09/27/mazda-adds-lidar-to-cx-6e-rolls-out-self-driving-tech-in-china/",
+          "source": "Electrek",
+          "published": "2026-09-27T16:40:43+00:00"
+        },
         {
           "title": "Charge up your Christmas tree with this Hallmark Keepsake Daytona Scat Pack",
           "link": "https://electrek.co/2026/09/27/charge-up-your-christmas-tree-with-this-hallmark-keepsake-daytona-scat-pack/",
@@ -233,25 +245,13 @@
           "link": "https://electrek.co/2026/09/24/mercedes-priority-prologiums-gen4-solid-state-ev-battery/",
           "source": "Electrek",
           "published": "2026-09-24T18:33:12+00:00"
-        },
-        {
-          "title": "This Audi EV Set A Guinness World Record By Driving 831 Miles Without Recharging",
-          "link": "https://insideevs.com/news/809472/audi-a6-etron-guinness-record/",
-          "source": "InsideEVs",
-          "published": "2026-09-24T18:23:43+00:00"
-        },
-        {
-          "title": "Volkswagen Bets You'll Pay Up For In-Car Gaming",
-          "link": "https://insideevs.com/news/809461/volkswagen-bets-youll-pay-up-for-in-car-gaming/",
-          "source": "InsideEVs",
-          "published": "2026-09-24T18:05:23+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 31,
+      "count": 30,
       "items": [
         {
           "title": "‘Cannot Give Up Right Now’: Hyundai’s R&D Boss On The Solid-State Battery Bet",
@@ -432,12 +432,6 @@
           "link": "https://electrek.co/2026/09/18/tesla-megapack-australia-first-8-hour-battery-rwe-limondale/",
           "source": "Electrek",
           "published": "2026-09-18T14:12:33+00:00"
-        },
-        {
-          "title": "Solid-state battery maker Factorial secures another big partnership",
-          "link": "https://electrek.co/2026/09/17/solid-state-battery-maker-factorial-secures-another-big-partnership/",
-          "source": "Electrek",
-          "published": "2026-09-17T11:00:00+00:00"
         }
       ]
     },
@@ -508,10 +502,10 @@
       "count": 22,
       "items": [
         {
-          "title": "금주의 로봇 캘린더(2026. 9. 28 ~ 10. 4)",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48709",
+          "title": "휴머노이드 시대, 피지컬 AI만으로 충분한가? (0) 로봇이 마주하는 두 세계 - 피지컬 AI와 소셜 AI",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48710",
           "source": "로봇신문",
-          "published": "2026-09-28T00:30:23+00:00"
+          "published": "2026-09-28T01:22:34+00:00"
         },
         {
           "title": "Asimov’s laws are not enough to keep robotics and AI safe",
