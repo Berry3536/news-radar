@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-09-27T11:22:30.528704+00:00",
+  "generated_at": "2026-09-27T16:22:02.173183+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Charge up your Christmas tree with this Hallmark Keepsake Daytona Scat Pack",
+          "link": "https://electrek.co/2026/09/27/charge-up-your-christmas-tree-with-this-hallmark-keepsake-daytona-scat-pack/",
+          "source": "Electrek",
+          "published": "2026-09-27T16:09:19+00:00"
+        },
+        {
+          "title": "‘Cannot Give Up Right Now’: Hyundai’s R&D Boss On The Solid-State Battery Bet",
+          "link": "https://insideevs.com/news/809671/hyundai-solid-state-battery-bet-manfred-harrer/",
+          "source": "InsideEVs",
+          "published": "2026-09-27T11:30:00+00:00"
+        },
         {
           "title": "The Genesis GV90 Has A Huge Screen. Park And It Gets Even Bigger",
           "link": "https://insideevs.com/news/809700/genesis-gv90-rising-screen-theater/",
@@ -233,26 +245,20 @@
           "link": "https://insideevs.com/news/809461/volkswagen-bets-youll-pay-up-for-in-car-gaming/",
           "source": "InsideEVs",
           "published": "2026-09-24T18:05:23+00:00"
-        },
-        {
-          "title": "Anker security cameras up to 46% off in early Prime Day Sale, EcoFlow Monthly Madness flash sale, EGO snow blower bundles, more",
-          "link": "https://electrek.co/2026/09/24/anker-security-cameras-early-prime-day-sale-ecoflow-monthly-madness-flash-sale-ego-snow-blower/",
-          "source": "Electrek",
-          "published": "2026-09-24T18:00:00+00:00"
-        },
-        {
-          "title": "베일 벗은 브랜드 첫 순수 전기차, 벤틀리 토르칼 세계 최초 공개",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44594",
-          "source": "모터그래프",
-          "published": "2026-09-24T16:59:28+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 30,
+      "count": 31,
       "items": [
+        {
+          "title": "‘Cannot Give Up Right Now’: Hyundai’s R&D Boss On The Solid-State Battery Bet",
+          "link": "https://insideevs.com/news/809671/hyundai-solid-state-battery-bet-manfred-harrer/",
+          "source": "InsideEVs",
+          "published": "2026-09-27T11:30:00+00:00"
+        },
         {
           "title": "CATL Unveils TECTRANS II Battery Platform at IAA Transport Show",
           "link": "https://cleantechnica.com/2026/09/27/catl-unveils-tectrans-ii-battery-platform-with-1000-kilometer-range-for-commercial-vehicles/",
@@ -438,7 +444,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 10,
+      "count": 9,
       "items": [
         {
           "title": "The Genesis GV90 Has A Huge Screen. Park And It Gets Even Bigger",
@@ -493,12 +499,6 @@
           "link": "https://electrek.co/2026/09/17/royal-enfields-flying-flea-electric-motorcycle-finally-goes-global-revealing-its-western-price/",
           "source": "Electrek",
           "published": "2026-09-17T13:22:08+00:00"
-        },
-        {
-          "title": "Out of this world performance at down to Earth prices: Ausom’s AWESOME fall sale",
-          "link": "https://electrek.co/2026/09/16/out-of-this-world-performance-down-to-earth-prices-ausoms-awesome-fall-sale/",
-          "source": "Electrek",
-          "published": "2026-09-16T21:30:00+00:00"
         }
       ]
     },
@@ -508,10 +508,16 @@
       "count": 22,
       "items": [
         {
-          "title": "유니트리, 휴머노이드 새 버전 'G1+' 공개…가격은 1900만원 대",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48699",
+          "title": "금주의 로봇 캘린더(2026. 9. 28 ~ 10. 4)",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48709",
           "source": "로봇신문",
-          "published": "2026-09-27T19:52:01+00:00"
+          "published": "2026-09-28T00:30:23+00:00"
+        },
+        {
+          "title": "Asimov’s laws are not enough to keep robotics and AI safe",
+          "link": "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/",
+          "source": "The Robot Report",
+          "published": "2026-09-27T12:26:44+00:00"
         },
         {
           "title": "From 14 cities to 15,000: What it will take to scale robotaxis?",
@@ -608,12 +614,6 @@
           "link": "https://www.therobotreport.com/intel-discusses-infrastructure-needed-to-scale-physical-ai-robobusiness/",
           "source": "The Robot Report",
           "published": "2026-09-22T21:31:19+00:00"
-        },
-        {
-          "title": "Why outdoor robots fail (and how to build systems that survive)",
-          "link": "https://www.therobotreport.com/why-outdoor-robots-fail-how-to-build-systems-that-survive/",
-          "source": "The Robot Report",
-          "published": "2026-09-22T18:00:37+00:00"
         },
         {
           "title": "Barbara Mazzolai Wants to Build a New Field of Robotics",
