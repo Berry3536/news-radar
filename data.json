@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-09-26T20:37:38.163816+00:00",
+  "generated_at": "2026-09-27T03:35:54.218787+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Think gas prices are too low? Don’t fret, Trump plans to raise them Monday",
+          "link": "https://electrek.co/2026/09/26/republicans-are-about-to-announce-an-effort-to-raise-your-fuel-costs-by-45/",
+          "source": "Electrek",
+          "published": "2026-09-26T23:55:00+00:00"
+        },
+        {
+          "title": "Survey rewind: how much pain at the pump will it take to switch to EV? [update]",
+          "link": "https://electrek.co/2026/09/26/survey-sunday-how-much-pain-at-the-pump-will-it-take-to-switch-to-ev/",
+          "source": "Electrek",
+          "published": "2026-09-26T21:00:50+00:00"
+        },
+        {
+          "title": "E-quipment highlight: EGO POWER+ Leaf Vacuum and Mulcher",
+          "link": "https://electrek.co/2026/09/26/e-quipment-highlight-ego-power-leaf-vacuum-and-mulcher/",
+          "source": "Electrek",
+          "published": "2026-09-26T20:38:14+00:00"
+        },
         {
           "title": "New Kempower charging deal powers up Canadian port operations",
           "link": "https://electrek.co/2026/09/26/new-kempower-charging-deal-powers-up-canadian-port-operations/",
@@ -227,24 +245,6 @@
           "link": "https://electrek.co/2026/09/24/byd-releases-first-official-images-bigger-seagull-ev/",
           "source": "Electrek",
           "published": "2026-09-24T15:50:13+00:00"
-        },
-        {
-          "title": "Volkswagen Delays The ID. Buzz's Return To The U.S. Again",
-          "link": "https://insideevs.com/news/809464/volkswagen-id-buzz-delayed-to-model-year-2028/",
-          "source": "InsideEVs",
-          "published": "2026-09-24T15:48:10+00:00"
-        },
-        {
-          "title": "Kia patent reveals a tough-looking off-road electric SUV",
-          "link": "https://electrek.co/2026/09/24/kia-patent-reveals-tough-looking-off-road-electric-suv/",
-          "source": "Electrek",
-          "published": "2026-09-24T14:44:04+00:00"
-        },
-        {
-          "title": "Tesla Semi launch sneak peek: several customers are being announced",
-          "link": "https://electrek.co/2026/09/24/tesla-semi-launch-sneak-peek-customers-announced/",
-          "source": "Electrek",
-          "published": "2026-09-24T14:10:48+00:00"
         }
       ]
     },
@@ -426,7 +426,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 10,
+      "count": 9,
       "items": [
         {
           "title": "EU delays Tesla ‘Full Self-Driving’ vote to December at the earliest",
@@ -481,12 +481,6 @@
           "link": "https://electrek.co/2026/09/16/out-of-this-world-performance-down-to-earth-prices-ausoms-awesome-fall-sale/",
           "source": "Electrek",
           "published": "2026-09-16T21:30:00+00:00"
-        },
-        {
-          "title": "ENGWE E26 3.0 full suspension e-bike with $343 FREE bundle at new $1,499 low + Eagle electric dirt bike new $899 low, Anker, more",
-          "link": "https://electrek.co/2026/09/16/engwe-e26-3-0-full-suspension-e-bike-eagle-electric-dirt-bike-anker-more/",
-          "source": "Electrek",
-          "published": "2026-09-16T18:00:00+00:00"
         }
       ]
     },
@@ -635,10 +629,10 @@
       "count": 1,
       "items": [
         {
-          "title": "말 못하는 AI '제브'가 실리콘밸리 흔들었다...\"일주일 새 몸값 50배 뛰어\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215675",
+          "title": "\"제브보다 9배 빠르다\"...스탠퍼드·엔비디아, 'CLM-8B'로 맞불",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215683",
           "source": "AI타임스",
-          "published": "2026-09-26T15:30:49+00:00"
+          "published": "2026-09-27T12:08:03+00:00"
         }
       ]
     }
