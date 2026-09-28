@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-09-27T20:51:15.258289+00:00",
+  "generated_at": "2026-09-28T03:34:10.842764+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "NIO sells 30% of battery swap unit to Geely at more than $2 billion",
+          "link": "https://electrek.co/2026/09/27/nio-power-geely-30-stake-battery-swap-rmb16-billion/",
+          "source": "Electrek",
+          "published": "2026-09-28T01:08:29+00:00"
+        },
         {
           "title": "Survey Sunday: When self driving cars crash, who gets the blame?",
           "link": "https://electrek.co/2026/09/27/survey-sunday-when-self-driving-cars-crash-who-gets-the-blame/",
@@ -239,20 +245,32 @@
           "link": "https://electrek.co/2026/09/24/thinking-about-buying-a-second-car-heres-a-1000-alternative/",
           "source": "Electrek",
           "published": "2026-09-24T18:54:50+00:00"
-        },
-        {
-          "title": "Mercedes-Benz gets first dibs on ProLogium’s Gen4 solid-state EV battery cells",
-          "link": "https://electrek.co/2026/09/24/mercedes-priority-prologiums-gen4-solid-state-ev-battery/",
-          "source": "Electrek",
-          "published": "2026-09-24T18:33:12+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 30,
+      "count": 33,
       "items": [
+        {
+          "title": "Kia PH Brings EV3 to Shake Up Compact Electric Crossover Market",
+          "link": "https://cleantechnica.com/2026/09/27/kia-ph-brings-ev3-to-shake-up-compact-electric-crossover-market/",
+          "source": "CleanTechnica",
+          "published": "2026-09-28T02:58:51+00:00"
+        },
+        {
+          "title": "NIO sells 30% of battery swap unit to Geely at more than $2 billion",
+          "link": "https://electrek.co/2026/09/27/nio-power-geely-30-stake-battery-swap-rmb16-billion/",
+          "source": "Electrek",
+          "published": "2026-09-28T01:08:29+00:00"
+        },
+        {
+          "title": "Solar, Wind, Battery Storage, And Politics — It’s Complicated",
+          "link": "https://cleantechnica.com/2026/09/27/solar-wind-battery-storage-and-politics-its-complicated/",
+          "source": "CleanTechnica",
+          "published": "2026-09-27T20:43:24+00:00"
+        },
         {
           "title": "‘Cannot Give Up Right Now’: Hyundai’s R&D Boss On The Solid-State Battery Bet",
           "link": "https://insideevs.com/news/809671/hyundai-solid-state-battery-bet-manfred-harrer/",
@@ -641,10 +659,10 @@
       "count": 1,
       "items": [
         {
-          "title": "GPT-6 아스트라, 물리적 명령에 잇따라 치명적 행위 실행",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215692",
+          "title": "메타, 스마트폰으로 AI 게임 만드는 '호라이즌 크리에이트' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215710",
           "source": "AI타임스",
-          "published": "2026-09-27T17:39:33+00:00"
+          "published": "2026-09-28T12:00:57+00:00"
         }
       ]
     }
