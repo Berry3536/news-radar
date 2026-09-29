@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-09-29T04:09:30.147867+00:00",
+  "generated_at": "2026-09-29T12:06:04.479428+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "자동차 산업의 핵심, 라이다를 지지하는 접착제",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44609",
+          "source": "모터그래프",
+          "published": "2026-09-29T16:57:01+00:00"
+        },
+        {
+          "title": "The 2027 Mercedes G 580 EV Gets A NACS Port, More Range, And Faster Charging",
+          "link": "https://insideevs.com/news/809978/2027-mercedes-g-class-ev-more-range-nacs-port/",
+          "source": "InsideEVs",
+          "published": "2026-09-29T07:40:34+00:00"
+        },
         {
           "title": "Tesla’s two week notice, Volvo’s autonomous milestone, and fun with LEGO",
           "link": "https://electrek.co/2026/09/28/teslas-two-week-notice-volvos-autonomous-milestone-and-fun-with-lego/",
@@ -89,12 +101,6 @@
           "link": "https://electrek.co/2026/09/28/anker-solix-early-prime-day-sale-s2000-400w-solar-bundle-lectric-e-bike-flash-sale-more/",
           "source": "Electrek",
           "published": "2026-09-28T18:00:00+00:00"
-        },
-        {
-          "title": "글로벌 주요 매체가 주목한 新럭셔리, 제네시스 GV90",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44600",
-          "source": "모터그래프",
-          "published": "2026-09-28T17:07:22+00:00"
         },
         {
           "title": "America's Clean Car Retreat Is Complete. The World Will Move On Without Us",
@@ -239,12 +245,6 @@
           "link": "https://insideevs.com/news/809672/forget-politics-evs-have-an-age-problem/",
           "source": "InsideEVs",
           "published": "2026-09-26T11:15:00+00:00"
-        },
-        {
-          "title": "Bentley Goes Electric As China's EV Charging War Gets Ridiculous",
-          "link": "https://insideevs.com/features/809673/bentley-torcal-geely-ev-charging-ceer-exobot-podcast/",
-          "source": "InsideEVs",
-          "published": "2026-09-26T11:00:00+00:00"
         }
       ]
     },
@@ -465,10 +465,10 @@
       "count": 8,
       "items": [
         {
-          "title": "한국인 최초 F1 도전’ 이규호, GB3 7라운드 완주",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44603",
+          "title": "람보르기니 서울, 서초 전시장 신규 오픈",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44606",
           "source": "모터그래프",
-          "published": "2026-09-28T17:04:22+00:00"
+          "published": "2026-09-29T16:56:20+00:00"
         },
         {
           "title": "The Genesis GV90 Has A Huge Screen. Park And It Gets Even Bigger",
@@ -520,16 +520,16 @@
       "count": 23,
       "items": [
         {
+          "title": "[사진] 빅웨이브로보틱스 코스닥 시장 성공적 입성",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48745",
+          "source": "로봇신문",
+          "published": "2026-09-29T17:48:47+00:00"
+        },
+        {
           "title": "A Day in the Life of a Roboticist: Charlie Kemp",
           "link": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
           "source": "IEEE Spectrum",
           "published": "2026-09-28T21:48:56+00:00"
-        },
-        {
-          "title": "윔, '엔비디아 인셉션 그랜드 챌린지 2026' 결승에서 ‘톱10 기업’ 수상",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48725",
-          "source": "로봇신문",
-          "published": "2026-09-28T18:22:19+00:00"
         },
         {
           "title": "Gecko Robotics works with NVIDIA to add AI agent security and control",
@@ -665,10 +665,10 @@
       "count": 40,
       "items": [
         {
-          "title": "엔비디아, 에이전트 '보안 플랫폼' 공개...\"허깅페이스 사태 막았을 것\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215739",
+          "title": "\"한도 차면 할인 끝\" 앤트로픽…오픈AI는 '파격 할인'으로 고객 빼앗기",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215761",
           "source": "AI타임스",
-          "published": "2026-09-29T12:32:20+00:00"
+          "published": "2026-09-29T18:13:54+00:00"
         },
         {
           "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
