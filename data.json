@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-09-29T21:50:22.528105+00:00",
+  "generated_at": "2026-09-30T03:55:21.386442+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "The Range Rover Sport Electric Is Here To Take On The Lucid Gravity",
+          "link": "https://insideevs.com/news/810006/range-rover-sport-electric-official-battery-specs-debut/",
+          "source": "InsideEVs",
+          "published": "2026-09-29T23:01:00+00:00"
+        },
+        {
+          "title": "The Government Rolled Back Fuel Economy Standards. Here's How Many Lives It Will Cost",
+          "link": "https://insideevs.com/news/810071/trump-administration-lowers-emission-regulations/",
+          "source": "InsideEVs",
+          "published": "2026-09-29T22:53:51+00:00"
+        },
+        {
+          "title": "Connected Cars Share A Lot More Data With Companies Than Owners May Realize",
+          "link": "https://insideevs.com/news/810073/connected-cars-advertisers-send-data/",
+          "source": "InsideEVs",
+          "published": "2026-09-29T22:30:54+00:00"
+        },
+        {
+          "title": "Tesla Patents 'Electric Fan Car' Weeks Before Roadster Reveal",
+          "link": "https://insideevs.com/news/810100/tesla-electric-fan-car-patent/",
+          "source": "InsideEVs",
+          "published": "2026-09-29T22:18:52+00:00"
+        },
+        {
+          "title": "Tesla takes on $30 billion in credit as it approaches unprofitability",
+          "link": "https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/",
+          "source": "Electrek",
+          "published": "2026-09-29T21:55:02+00:00"
+        },
         {
           "title": "BYD tests new ultra-luxury EV with coach doors and a solid-state battery",
           "link": "https://electrek.co/2026/09/29/byd-tests-ultra-luxury-ev-coach-doors-solid-state-battery/",
@@ -215,44 +245,20 @@
           "link": "https://insideevs.com/features/809886/us-fuel-economy-standards-rollback/",
           "source": "InsideEVs",
           "published": "2026-09-28T16:57:04+00:00"
-        },
-        {
-          "title": "Tesla (TSLA) Q3 2026 delivery estimates range from 422,000 to 482,000",
-          "link": "https://electrek.co/2026/09/28/tesla-q3-2026-delivery-estimates-wall-street-split/",
-          "source": "Electrek",
-          "published": "2026-09-28T16:33:05+00:00"
-        },
-        {
-          "title": "BYD is overhauling its cheapest EV, and it’s bigger than expected",
-          "link": "https://electrek.co/2026/09/28/byd-overhauling-cheapest-ev-bigger/",
-          "source": "Electrek",
-          "published": "2026-09-28T16:29:06+00:00"
-        },
-        {
-          "title": "Think gas prices are too low? Don’t fret, Trump just raised them even higher",
-          "link": "https://electrek.co/2026/09/28/republicans-are-about-to-announce-an-effort-to-raise-your-fuel-costs-by-45/",
-          "source": "Electrek",
-          "published": "2026-09-28T16:03:00+00:00"
-        },
-        {
-          "title": "Omoda & Jaecoo confirm Canada launch in late 2026: here’s the EV lineup",
-          "link": "https://electrek.co/2026/09/28/omoda-jaecoo-canada-launch-late-2026-ev-lineup/",
-          "source": "Electrek",
-          "published": "2026-09-28T14:51:52+00:00"
-        },
-        {
-          "title": "Volkswagen’s best-seller is going electric in 2027 to replace the ID.4 and ID.5 [Images]",
-          "link": "https://electrek.co/2026/09/28/volkswagens-best-seller-electric-2027-replace-id-4-id-5-images/",
-          "source": "Electrek",
-          "published": "2026-09-28T14:29:38+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 34,
+      "count": 32,
       "items": [
+        {
+          "title": "GM Really Wasn’t Kidding About Those New LMR EV Batteries",
+          "link": "https://cleantechnica.com/2026/09/29/ev-batteries-gm-lmr-lithium-manganese-rich/",
+          "source": "CleanTechnica",
+          "published": "2026-09-30T03:39:44+00:00"
+        },
         {
           "title": "BYD tests new ultra-luxury EV with coach doors and a solid-state battery",
           "link": "https://electrek.co/2026/09/29/byd-tests-ultra-luxury-ev-coach-doors-solid-state-battery/",
@@ -344,12 +350,6 @@
           "published": "2026-09-27T20:43:24+00:00"
         },
         {
-          "title": "‘Cannot Give Up’: Hyundai’s R&D Boss On The Solid-State Battery Bet",
-          "link": "https://insideevs.com/news/809671/hyundai-solid-state-battery-bet-manfred-harrer/",
-          "source": "InsideEVs",
-          "published": "2026-09-27T11:30:00+00:00"
-        },
-        {
           "title": "CATL Unveils TECTRANS II Battery Platform at IAA Transport Show",
           "link": "https://cleantechnica.com/2026/09/27/catl-unveils-tectrans-ii-battery-platform-with-1000-kilometer-range-for-commercial-vehicles/",
           "source": "CleanTechnica",
@@ -362,22 +362,10 @@
           "published": "2026-09-27T08:34:52+00:00"
         },
         {
-          "title": "These Battery Cells Were Tested After 14 Years Of Hard Work. They're Good For Another Decade",
-          "link": "https://insideevs.com/news/809604/catl-lfp-prismatic-cell-age-test/",
-          "source": "InsideEVs",
-          "published": "2026-09-26T13:00:00+00:00"
-        },
-        {
           "title": "Donut Battery Vindicated: Element Analysis Proves Battery Not Lithium Or Sodium",
           "link": "https://cleantechnica.com/2026/09/25/donut-battery-vindicated-element-analysis-proves-battery-not-lithium-or-sodium/",
           "source": "CleanTechnica",
           "published": "2026-09-26T02:52:53+00:00"
-        },
-        {
-          "title": "XPENG Launches in the Philippines With Six EV Variants",
-          "link": "https://cleantechnica.com/2026/09/25/xpeng-launches-in-the-philippines-with-six-ev-variants/",
-          "source": "CleanTechnica",
-          "published": "2026-09-25T23:30:54+00:00"
         },
         {
           "title": "Podcast: Tesla Semi launch, Geely’s battery healing fast-charging, Rivian R3, and more",
@@ -462,7 +450,7 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 10,
+      "count": 9,
       "items": [
         {
           "title": "We don’t need more e-bike laws. This 11-year-old’s ticket shows why",
@@ -487,12 +475,6 @@
           "link": "https://insideevs.com/news/810064/gm-lmr-battery-production-at-spring-hill-lges/",
           "source": "InsideEVs",
           "published": "2026-09-29T16:46:06+00:00"
-        },
-        {
-          "title": "The Genesis GV90 Has A Huge Screen. Park And It Gets Even Bigger",
-          "link": "https://insideevs.com/news/809700/genesis-gv90-rising-screen-theater/",
-          "source": "InsideEVs",
-          "published": "2026-09-27T10:51:57+00:00"
         },
         {
           "title": "EU delays Tesla ‘Full Self-Driving’ vote to December at the earliest",
@@ -532,10 +514,10 @@
       "count": 22,
       "items": [
         {
-          "title": "로봇으로 만나는 문화… 한국 팀들, WRO 아시아·태평양 대회서 창의적 해법 선보여",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48747",
+          "title": "휴머노이드 시대, 피지컬 AI만으로 충분한가? (2) 데이터로 잡히지 않는 사회적 정답 – 부분관찰성과 맥락 의존성",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48759",
           "source": "로봇신문",
-          "published": "2026-09-29T22:23:47+00:00"
+          "published": "2026-09-30T11:42:53+00:00"
         },
         {
           "title": "ForceN to give a crash course on force and torque sensing for humanoids at RoboBusiness",
@@ -671,10 +653,10 @@
       "count": 40,
       "items": [
         {
-          "title": "\"아스트라급 지능을 5분의 1 가격에\"…오픈AI, 'GPT-6.1 솔' 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215778",
+          "title": "앤트로픽, IPO 신청서에 \"AI의 실존적 위험\" 공식 경고",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215790",
           "source": "AI타임스",
-          "published": "2026-09-30T05:54:18+00:00"
+          "published": "2026-09-30T12:53:41+00:00"
         },
         {
           "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
