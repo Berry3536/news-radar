@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T11:51:18.492651+00:00",
+  "generated_at": "2026-10-02T17:25:47.265611+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,10 +7,100 @@
       "count": 40,
       "items": [
         {
-          "title": "BMW 코리아, 순수 전기 모델 i5·iX로 구성한 10월 온라인 한정 에디션",
+          "title": "순수 전기 모델 i5, iX로 구성한 10월 BMW 코리아 온라인 한정 에디션",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44638",
           "source": "모터그래프",
           "published": "2026-10-02T17:40:55+00:00"
+        },
+        {
+          "title": "UK EV sales surge 36% to record high in September",
+          "link": "https://electrek.co/2026/10/02/uk-ev-sales-record-september-2026-tesla-model-3/",
+          "source": "Electrek",
+          "published": "2026-10-02T17:17:08+00:00"
+        },
+        {
+          "title": "Mercedes will no longer offer these EVs in 2027",
+          "link": "https://electrek.co/2026/10/02/mercedes-cuts-several-evs-lineup-2027/",
+          "source": "Electrek",
+          "published": "2026-10-02T17:15:37+00:00"
+        },
+        {
+          "title": "I Thought Fake Gears Made EVs Better. Than I Drove This Porsche Taycan",
+          "link": "https://insideevs.com/features/810445/porsche-taycan-fake-gears-reevaluated/",
+          "source": "InsideEVs",
+          "published": "2026-10-02T16:52:34+00:00"
+        },
+        {
+          "title": "Environmental groups sue Trump for raising your fuel costs",
+          "link": "https://electrek.co/2026/10/02/environmental-groups-sue-trump-for-raising-your-fuel-costs/",
+          "source": "Electrek",
+          "published": "2026-10-02T16:42:43+00:00"
+        },
+        {
+          "title": "Tesla Sales Are Down. But They're Doing A Lot Better Than Some Competitors",
+          "link": "https://insideevs.com/news/810643/tesla-deliveries-q3-2026/",
+          "source": "InsideEVs",
+          "published": "2026-10-02T16:02:50+00:00"
+        },
+        {
+          "title": "Tesla Will Now Let You Drive Away From A Supercharger In An Emergency",
+          "link": "https://insideevs.com/news/810521/tesla-emergency-eject-supercharger-port/",
+          "source": "InsideEVs",
+          "published": "2026-10-02T15:54:28+00:00"
+        },
+        {
+          "title": "Ford’s Fathom pickup couldn’t come soon enough as EV sales drop 80% in Q3",
+          "link": "https://electrek.co/2026/10/02/fords-fathom-pickup-couldnt-come-soon-after-ev-sales-drop-80/",
+          "source": "Electrek",
+          "published": "2026-10-02T15:17:16+00:00"
+        },
+        {
+          "title": "Tesla might charge you up $25,000 if you use its latest feature",
+          "link": "https://electrek.co/2026/10/02/tesla-emergency-drive-away-25000-supercharger-damage-who-pays/",
+          "source": "Electrek",
+          "published": "2026-10-02T14:59:01+00:00"
+        },
+        {
+          "title": "Rivian Just Had Its Best Quarter Ever. Thank The R2",
+          "link": "https://insideevs.com/news/810613/rivian-q3-sales-2026-r2/",
+          "source": "InsideEVs",
+          "published": "2026-10-02T14:32:12+00:00"
+        },
+        {
+          "title": "Kia emerges as Europe’s fastest-growing top 10 car brand after EV sales surge 58%",
+          "link": "https://electrek.co/2026/10/02/kia-europes-fastest-growing-top-10-brand-ev-sales-surge-58/",
+          "source": "Electrek",
+          "published": "2026-10-02T13:52:46+00:00"
+        },
+        {
+          "title": "Tesla (TSLA) Q3 2026 deliveries slip 2% to 486,532, but beat estimates",
+          "link": "https://electrek.co/2026/10/02/tesla-q3-2026-deliveries-486532/",
+          "source": "Electrek",
+          "published": "2026-10-02T13:11:13+00:00"
+        },
+        {
+          "title": "The Tesla Model 3 Gets A Range Bump And A New Screen In The U.S.",
+          "link": "https://insideevs.com/news/810593/tesla-model-3-us-screen-range-update-2026/",
+          "source": "InsideEVs",
+          "published": "2026-10-02T13:03:15+00:00"
+        },
+        {
+          "title": "Rivian continues to ramp with R2 even as EV market growth slows",
+          "link": "https://electrek.co/2026/10/02/rivian-continues-to-ramp-with-r2-even-as-ev-market-growth-slows/",
+          "source": "Electrek",
+          "published": "2026-10-02T12:37:40+00:00"
+        },
+        {
+          "title": "Germany Wants Parked EVs To Earn Money",
+          "link": "https://insideevs.com/news/810587/germany-bidirectional-ev-charging-paid/",
+          "source": "InsideEVs",
+          "published": "2026-10-02T12:22:15+00:00"
+        },
+        {
+          "title": "Dead: Mercedes-Benz EQE Sedan",
+          "link": "https://insideevs.com/news/810584/2027-mercedes-benz-eqe-discontinued-us/",
+          "source": "InsideEVs",
+          "published": "2026-10-02T12:16:46+00:00"
         },
         {
           "title": "Ride1Up just launched a 28 MPH German mid-drive e-bike for an insanely low $1,295",
@@ -155,104 +245,20 @@
           "link": "https://insideevs.com/news/810423/fedex-harbinger-electric-trucks-us-canada/",
           "source": "InsideEVs",
           "published": "2026-10-01T08:30:58+00:00"
-        },
-        {
-          "title": "The Tesla Model 3 Gets A Big Upgrade, But The U.S. Is Left Out",
-          "link": "https://insideevs.com/news/810402/tesla-model-3-v2l-export/",
-          "source": "InsideEVs",
-          "published": "2026-10-01T07:38:12+00:00"
-        },
-        {
-          "title": "Tesla upgrades China Model 3 with 16-inch screen and V2L, US left out",
-          "link": "https://electrek.co/2026/09/30/tesla-model-3-china-16-inch-screen-v2l-us/",
-          "source": "Electrek",
-          "published": "2026-10-01T04:49:34+00:00"
-        },
-        {
-          "title": "NIO (NIO) Q3 deliveries rise 25%, but September growth slows to 7.7%",
-          "link": "https://electrek.co/2026/09/30/nio-q3-2026-deliveries-september-growth-slows-onvo/",
-          "source": "Electrek",
-          "published": "2026-10-01T04:43:53+00:00"
-        },
-        {
-          "title": "Chicago Metra calls its new battery-electric locomotive a first of its kind",
-          "link": "https://electrek.co/2026/09/30/chicago-metra-calls-its-new-battery-electric-locomotive-a-first-of-its-kind/",
-          "source": "Electrek",
-          "published": "2026-09-30T22:23:50+00:00"
-        },
-        {
-          "title": "Mercedes Won't Be Banned In America: Senator",
-          "link": "https://insideevs.com/news/810367/mercedes-chinese-owned-bill/",
-          "source": "InsideEVs",
-          "published": "2026-09-30T21:53:07+00:00"
-        },
-        {
-          "title": "Commercial EVs take off as Workhorse announces fresh, 200 truck order",
-          "link": "https://electrek.co/2026/09/30/commercial-ev-demand-takes-off-as-workhorse-announces-fresh-200-truck-order/",
-          "source": "Electrek",
-          "published": "2026-09-30T21:28:34+00:00"
-        },
-        {
-          "title": "Ford CEO Thinks Its 'Too Late' For Europe To Take On Chinese Automakers",
-          "link": "https://insideevs.com/news/810341/ford-ceo-europe-china-caution/",
-          "source": "InsideEVs",
-          "published": "2026-09-30T19:53:05+00:00"
-        },
-        {
-          "title": "Toyota dropped a 1,675 lb caravan on its electric truck, and it drove off unfazed [Video]",
-          "link": "https://electrek.co/2026/09/30/toyota-dropped-1675-lb-caravan-on-ev-truck-video/",
-          "source": "Electrek",
-          "published": "2026-09-30T19:45:04+00:00"
-        },
-        {
-          "title": "You Won't Be Able To Buy A Rivian R2 With Lidar This Year After All",
-          "link": "https://insideevs.com/news/810319/rivian-r2-lidar-rap1-2027/",
-          "source": "InsideEVs",
-          "published": "2026-09-30T18:24:20+00:00"
-        },
-        {
-          "title": "BYD’s cheapest EV is getting bigger and fancier",
-          "link": "https://electrek.co/2026/09/30/byds-cheapest-ev-getting-bigger-fancier/",
-          "source": "Electrek",
-          "published": "2026-09-30T18:04:51+00:00"
-        },
-        {
-          "title": "Monarc smart e-bikes get largest $838 FREE bundles, EcoFlow power station flash sale, Anker SOLIX E10 exclusive lows, Worx, more",
-          "link": "https://electrek.co/2026/09/30/monarc-smart-e-bikes-ecoflow-power-station-flash-sale-anker-solix-e10-worx-more/",
-          "source": "Electrek",
-          "published": "2026-09-30T18:00:00+00:00"
-        },
-        {
-          "title": "E-bikes are giving teenagers something we thought they’d lost",
-          "link": "https://electrek.co/2026/09/30/e-bikes-are-giving-teenagers-something-we-thought-theyd-lost/",
-          "source": "Electrek",
-          "published": "2026-09-30T17:39:19+00:00"
-        },
-        {
-          "title": "Nissan Wants Hybrids To Be Its Primary Powertrain By 2030",
-          "link": "https://insideevs.com/news/810339/nissan-primary-power-hybrid-push/",
-          "source": "InsideEVs",
-          "published": "2026-09-30T16:56:37+00:00"
-        },
-        {
-          "title": "Rivian: LiDAR R2 reaches customers in 2027, employees get it this year",
-          "link": "https://electrek.co/2026/09/30/rivian-lidar-r2-customers-2027-autonomy-update/",
-          "source": "Electrek",
-          "published": "2026-09-30T16:56:17+00:00"
-        },
-        {
-          "title": "The new 2027 BMW i3 is here with up to 468 miles of range, but it’s not cheap",
-          "link": "https://electrek.co/2026/09/30/bmw-announces-2027-i3-prices-range-up-to-468-miles/",
-          "source": "Electrek",
-          "published": "2026-09-30T16:54:50+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 29,
+      "count": 24,
       "items": [
+        {
+          "title": "UK EV sales surge 36% to record high in September",
+          "link": "https://electrek.co/2026/10/02/uk-ev-sales-record-september-2026-tesla-model-3/",
+          "source": "Electrek",
+          "published": "2026-10-02T17:17:08+00:00"
+        },
         {
           "title": "Ride1Up just launched a 28 MPH German mid-drive e-bike for an insanely low $1,295",
           "link": "https://electrek.co/2026/10/02/ride1up-just-launched-a-28-mph-german-mid-drive-e-bike-for-an-insanely-low-1295/",
@@ -314,18 +320,6 @@
           "published": "2026-09-30T18:00:00+00:00"
         },
         {
-          "title": "How Geely's New Battery Handles A Megawatt Of Charging Power Without Crazy Degradation",
-          "link": "https://insideevs.com/news/810093/geely-ev-battery-degradation-megawatt-charging/",
-          "source": "InsideEVs",
-          "published": "2026-09-30T16:37:13+00:00"
-        },
-        {
-          "title": "BMW’s Cheaper i3 Has A Smaller Battery, But Its Range Is Still Impressive",
-          "link": "https://insideevs.com/news/810165/bmw-i3-cheaper-version-price-specs/",
-          "source": "InsideEVs",
-          "published": "2026-09-30T06:29:11+00:00"
-        },
-        {
           "title": "GM Really Wasn’t Kidding About Those New LMR EV Batteries",
           "link": "https://cleantechnica.com/2026/09/29/ev-batteries-gm-lmr-lithium-manganese-rich/",
           "source": "CleanTechnica",
@@ -374,12 +368,6 @@
           "published": "2026-09-28T19:25:33+00:00"
         },
         {
-          "title": "Leipzig’s Hydrogen Garbage Trucks Fail The Tuesday Test",
-          "link": "https://cleantechnica.com/2026/09/28/leipzig-hydrogen-garbage-trucks-availability/",
-          "source": "CleanTechnica",
-          "published": "2026-09-28T14:24:23+00:00"
-        },
-        {
           "title": "NIO sells 30% of battery swap unit to Geely at more than $2 billion",
           "link": "https://electrek.co/2026/09/27/nio-power-geely-30-stake-battery-swap-rmb16-billion/",
           "source": "Electrek",
@@ -408,37 +396,25 @@
           "link": "https://electrek.co/2026/09/24/anker-security-cameras-early-prime-day-sale-ecoflow-monthly-madness-flash-sale-ego-snow-blower/",
           "source": "Electrek",
           "published": "2026-09-24T18:00:00+00:00"
-        },
-        {
-          "title": "Bentley unveils Torcal, its first EV: 888 PS, 375 miles of range",
-          "link": "https://electrek.co/2026/09/23/bentley-torcal-first-electric-bentley-unveiled/",
-          "source": "Electrek",
-          "published": "2026-09-23T19:33:17+00:00"
-        },
-        {
-          "title": "Jackery 5,040Wh Explorer 5000 Plus power station exclusive $1,000 off, Final day of Bluetti’s Anniversary Sale, Worx, more",
-          "link": "https://electrek.co/2026/09/23/jackery-5040wh-explorer-5000-plus-power-station-bluetti-anniversary-sale-worx-more/",
-          "source": "Electrek",
-          "published": "2026-09-23T18:00:00+00:00"
-        },
-        {
-          "title": "Donut Lab really wants us to believe its ‘miracle solid-state battery’ is real",
-          "link": "https://electrek.co/2026/09/23/donut-lab-intertek-lithium-test-solid-state-battery/",
-          "source": "Electrek",
-          "published": "2026-09-23T13:27:46+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 8,
+      "count": 7,
       "items": [
         {
-          "title": "브리지스톤, ABB FIA 포뮬러 E 월드 챔피언십 단독 타이어 공급사로 선",
+          "title": "브리지스톤, ABB FIA 포뮬러 E 월드 챔피언십 단독 타이어 공급사로 선정",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44640",
           "source": "모터그래프",
           "published": "2026-10-02T17:40:00+00:00"
+        },
+        {
+          "title": "UK EV sales surge 36% to record high in September",
+          "link": "https://electrek.co/2026/10/02/uk-ev-sales-record-september-2026-tesla-model-3/",
+          "source": "Electrek",
+          "published": "2026-10-02T17:17:08+00:00"
         },
         {
           "title": "Ride1Up just launched a 28 MPH German mid-drive e-bike for an insanely low $1,295",
@@ -453,22 +429,10 @@
           "published": "2026-10-01T18:09:27+00:00"
         },
         {
-          "title": "Nissan Wants Hybrids To Be Its Primary Powertrain By 2030",
-          "link": "https://insideevs.com/news/810339/nissan-primary-power-hybrid-push/",
-          "source": "InsideEVs",
-          "published": "2026-09-30T16:56:37+00:00"
-        },
-        {
           "title": "Range Rover Sport EV orders open at nearly $150,000 with up to 378 miles of range",
           "link": "https://electrek.co/2026/09/30/range-rover-sport-ev-orders-open-nearly-150000-378-miles-range/",
           "source": "Electrek",
           "published": "2026-09-30T14:36:45+00:00"
-        },
-        {
-          "title": "BMW’s Cheaper i3 Has A Smaller Battery, But Its Range Is Still Impressive",
-          "link": "https://insideevs.com/news/810165/bmw-i3-cheaper-version-price-specs/",
-          "source": "InsideEVs",
-          "published": "2026-09-30T06:29:11+00:00"
         },
         {
           "title": "We don’t need more e-bike laws. This 11-year-old’s ticket shows why",
@@ -494,6 +458,18 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48815",
           "source": "로봇신문",
           "published": "2026-10-02T18:19:11+00:00"
+        },
+        {
+          "title": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away",
+          "link": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
+          "source": "IEEE Spectrum",
+          "published": "2026-10-02T16:30:02+00:00"
+        },
+        {
+          "title": "Calling robotics startups: Submissions for the 2026 Robotics Startup Radar close soon",
+          "link": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/",
+          "source": "The Robot Report",
+          "published": "2026-10-02T14:00:59+00:00"
         },
         {
           "title": "Top 10 robotics stories of September 2026",
@@ -592,12 +568,6 @@
           "published": "2026-09-28T13:56:56+00:00"
         },
         {
-          "title": "Raise Robotics to discuss scaling field robots at RoboBusiness",
-          "link": "https://www.therobotreport.com/raise-robotics-discuss-scaling-field-robots-robobusiness/",
-          "source": "The Robot Report",
-          "published": "2026-09-28T13:22:53+00:00"
-        },
-        {
           "title": "Video Friday: Life’s Better With a Little Robot Goose",
           "link": "https://spectrum.ieee.org/video-friday-goose-household-robots",
           "source": "IEEE Spectrum",
@@ -614,12 +584,6 @@
           "link": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
           "source": "IEEE Spectrum",
           "published": "2026-09-22T14:00:04+00:00"
-        },
-        {
-          "title": "Video Friday: Two Birotors Make a Quadrotor",
-          "link": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
-          "source": "IEEE Spectrum",
-          "published": "2026-09-18T16:01:05+00:00"
         }
       ]
     },
