@@ -1,11 +1,53 @@
 {
-  "generated_at": "2026-10-02T17:25:47.265611+00:00",
+  "generated_at": "2026-10-02T21:48:06.059961+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Is The BMW i3's 468-Mile Range Overkill?",
+          "link": "https://insideevs.com/features/810672/bmw-i3-cafe-chevy-bolt-ev-podcast/",
+          "source": "InsideEVs",
+          "published": "2026-10-02T21:45:32+00:00"
+        },
+        {
+          "title": "Kia sweetens EV deals with up to $10,000 off",
+          "link": "https://electrek.co/2026/10/02/kia-sweetens-ev-deals-10000-off/",
+          "source": "Electrek",
+          "published": "2026-10-02T21:06:34+00:00"
+        },
+        {
+          "title": "Ford backs a big new solar farm for its Michigan factories",
+          "link": "https://electrek.co/2026/10/02/ford-backs-a-big-new-solar-farm-for-its-michigan-factories/",
+          "source": "Electrek",
+          "published": "2026-10-02T19:52:03+00:00"
+        },
+        {
+          "title": "Jeep’s off-road electric SUV managed just 160 miles in a real-world highway range test",
+          "link": "https://electrek.co/2026/10/02/jeeps-off-road-ev-drove-160-miles-real-world-highway-range-test/",
+          "source": "Electrek",
+          "published": "2026-10-02T19:30:17+00:00"
+        },
+        {
+          "title": "Podcast: Tesla Roadster delay, EV deliveries, battery swap comes back, and more",
+          "link": "https://electrek.co/2026/10/02/podcast-tesla-roadster-delay-ev-deliveries-battery-swap-comes-back-and-more/",
+          "source": "Electrek",
+          "published": "2026-10-02T19:20:55+00:00"
+        },
+        {
+          "title": "The world’s tallest wind turbine just reached 1,197 feet",
+          "link": "https://electrek.co/2026/10/02/the-worlds-tallest-wind-turbine-just-reached-1197-feet/",
+          "source": "Electrek",
+          "published": "2026-10-02T18:21:02+00:00"
+        },
+        {
+          "title": "Yozma IN 10 Pro electric dirt bike exclusive low ($700 off), EcoFlow + Bluetti 192Wh and 288Wh power stations, Worx mulcher, more",
+          "link": "https://electrek.co/2026/10/02/yozma-in-10-pro-electric-dirt-bike-ecoflow-bluetti-power-stations-worx-mulcher-more/",
+          "source": "Electrek",
+          "published": "2026-10-02T18:00:00+00:00"
+        },
         {
           "title": "순수 전기 모델 i5, iX로 구성한 10월 BMW 코리아 온라인 한정 에디션",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44638",
@@ -25,7 +67,7 @@
           "published": "2026-10-02T17:15:37+00:00"
         },
         {
-          "title": "I Thought Fake Gears Made EVs Better. Than I Drove This Porsche Taycan",
+          "title": "I Thought Fake Gears Made EVs Better. Then I Drove This Porsche Taycan",
           "link": "https://insideevs.com/features/810445/porsche-taycan-fake-gears-reevaluated/",
           "source": "InsideEVs",
           "published": "2026-10-02T16:52:34+00:00"
@@ -61,7 +103,7 @@
           "published": "2026-10-02T14:59:01+00:00"
         },
         {
-          "title": "Rivian Just Had Its Best Quarter Ever. Thank The R2",
+          "title": "Rivian’s Big R2 Bet Is Already Paying Off",
           "link": "https://insideevs.com/news/810613/rivian-q3-sales-2026-r2/",
           "source": "InsideEVs",
           "published": "2026-10-02T14:32:12+00:00"
@@ -203,56 +245,26 @@
           "link": "https://electrek.co/2026/10/01/fords-30000-ev-pickup-production-launch-faces-uncertainty/",
           "source": "Electrek",
           "published": "2026-10-01T14:37:03+00:00"
-        },
-        {
-          "title": "Aptera (SEV) now says it needs $25M to start production, stock drops 15%",
-          "link": "https://electrek.co/2026/10/01/aptera-sev-cuts-production-capital-25-million-stock-drops/",
-          "source": "Electrek",
-          "published": "2026-10-01T14:19:12+00:00"
-        },
-        {
-          "title": "Kia’s new EV3 is just getting started after 500+ first-month sales",
-          "link": "https://electrek.co/2026/10/01/kias-new-ev3-just-getting-started-500-first-month-sales/",
-          "source": "Electrek",
-          "published": "2026-10-01T14:15:21+00:00"
-        },
-        {
-          "title": "A Cheap BMW Neue Klasse EV Is Coming In 2028",
-          "link": "https://insideevs.com/news/810456/bmw-i1-neue-classe-affordable-ev/",
-          "source": "InsideEVs",
-          "published": "2026-10-01T12:49:55+00:00"
-        },
-        {
-          "title": "Gazelle just made its premium electric bikes a lot more affordable",
-          "link": "https://electrek.co/2026/10/01/gazelle-just-made-its-premium-electric-bikes-a-lot-more-affordable/",
-          "source": "Electrek",
-          "published": "2026-10-01T12:38:11+00:00"
-        },
-        {
-          "title": "A gas utility is picking up the upfront tab for geothermal",
-          "link": "https://electrek.co/2026/10/01/a-gas-utility-is-picking-up-the-upfront-tab-for-geothermal/",
-          "source": "Electrek",
-          "published": "2026-10-01T12:00:00+00:00"
-        },
-        {
-          "title": "E-quipment highlight: 16-tonne Hyundai 160B-X battery-electric forklift",
-          "link": "https://electrek.co/2026/10/01/e-quipment-highlight-hyundai-160b-x-battery-electric-forklift/",
-          "source": "Electrek",
-          "published": "2026-10-01T11:05:12+00:00"
-        },
-        {
-          "title": "FedEx Just Ordered 2,000 Electric Trucks That Will Save $40 Million Every Year On Fuel",
-          "link": "https://insideevs.com/news/810423/fedex-harbinger-electric-trucks-us-canada/",
-          "source": "InsideEVs",
-          "published": "2026-10-01T08:30:58+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 24,
+      "count": 25,
       "items": [
+        {
+          "title": "Ford backs a big new solar farm for its Michigan factories",
+          "link": "https://electrek.co/2026/10/02/ford-backs-a-big-new-solar-farm-for-its-michigan-factories/",
+          "source": "Electrek",
+          "published": "2026-10-02T19:52:03+00:00"
+        },
+        {
+          "title": "Podcast: Tesla Roadster delay, EV deliveries, battery swap comes back, and more",
+          "link": "https://electrek.co/2026/10/02/podcast-tesla-roadster-delay-ev-deliveries-battery-swap-comes-back-and-more/",
+          "source": "Electrek",
+          "published": "2026-10-02T19:20:55+00:00"
+        },
         {
           "title": "UK EV sales surge 36% to record high in September",
           "link": "https://electrek.co/2026/10/02/uk-ev-sales-record-september-2026-tesla-model-3/",
@@ -390,12 +402,6 @@
           "link": "https://electrek.co/2026/09/24/mercedes-priority-prologiums-gen4-solid-state-ev-battery/",
           "source": "Electrek",
           "published": "2026-09-24T18:33:12+00:00"
-        },
-        {
-          "title": "Anker security cameras up to 46% off in early Prime Day Sale, EcoFlow Monthly Madness flash sale, EGO snow blower bundles, more",
-          "link": "https://electrek.co/2026/09/24/anker-security-cameras-early-prime-day-sale-ecoflow-monthly-madness-flash-sale-ego-snow-blower/",
-          "source": "Electrek",
-          "published": "2026-09-24T18:00:00+00:00"
         }
       ]
     },
@@ -453,6 +459,18 @@
       "label": "로봇",
       "count": 22,
       "items": [
+        {
+          "title": "Eli Lilly, Purdue to share field learnings on human robot interaction at RoboBusiness",
+          "link": "https://www.therobotreport.com/eli-lilly-purdue-to-share-field-learnings-on-human-robot-interaction-at-robobusiness/",
+          "source": "The Robot Report",
+          "published": "2026-10-02T21:12:14+00:00"
+        },
+        {
+          "title": "Runway introduces Praxis-1 world action model for robotics",
+          "link": "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics/",
+          "source": "The Robot Report",
+          "published": "2026-10-02T18:32:13+00:00"
+        },
         {
           "title": "美 토보라이프 AI, 유니트리 G1 풀바디 원격운영시스템 출시",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48815",
@@ -554,18 +572,6 @@
           "link": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
           "source": "IEEE Spectrum",
           "published": "2026-09-28T21:48:56+00:00"
-        },
-        {
-          "title": "Gecko Robotics works with NVIDIA to add AI agent security and control",
-          "link": "https://www.therobotreport.com/gecko-robotics-works-with-nvidia-adds-ai-agent-security-and-control/",
-          "source": "The Robot Report",
-          "published": "2026-09-28T17:41:32+00:00"
-        },
-        {
-          "title": "Robonomics on the threshold: Economic autonomy, smart cities, and crypto wallets for humanoids",
-          "link": "https://www.therobotreport.com/robotics-threshold-economic-autonomy-crypto-wallets-humanoids/",
-          "source": "The Robot Report",
-          "published": "2026-09-28T13:56:56+00:00"
         },
         {
           "title": "Video Friday: Life’s Better With a Little Robot Goose",
