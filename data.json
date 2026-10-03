@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T03:44:55.240007+00:00",
+  "generated_at": "2026-10-03T11:05:03.492563+00:00",
   "categories": [
     {
       "key": "ev",
@@ -251,7 +251,7 @@
     {
       "key": "battery",
       "label": "배터리",
-      "count": 25,
+      "count": 24,
       "items": [
         {
           "title": "Ford backs a big new solar farm for its Michigan factories",
@@ -366,12 +366,6 @@
           "link": "https://electrek.co/2026/09/29/silverado-ev-concert-tour-150-kwh-mobile-power-plant/",
           "source": "Electrek",
           "published": "2026-09-29T15:01:52+00:00"
-        },
-        {
-          "title": "Geely Gets 30% of NIO Power",
-          "link": "https://cleantechnica.com/2026/09/28/geely-gets-30-of-nio-power/",
-          "source": "CleanTechnica",
-          "published": "2026-09-29T02:59:00+00:00"
         },
         {
           "title": "EIA: 83 GW of renewables and storage coming in 12 months as fossil fuel capacity to fall",
@@ -599,244 +593,244 @@
       "count": 40,
       "items": [
         {
-          "title": "엔비디아, 4999달러짜리 ‘DGX 스파크’ 출시...메모리 대란에 가격 낮췄다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215937",
+          "title": "[AI 이슈트렌드] 계속된 DMZ 논란 속 트럼프 LNG 협박·청주 흉기 성폭행 화제",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215940",
           "source": "AI타임스",
-          "published": "2026-10-03T12:01:35+00:00"
+          "published": "2026-10-03T19:05:59+00:00"
         },
         {
-          "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
-          "link": "https://arxiv.org/abs/2610.00010",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer Drug-Response Matrices",
+          "link": "https://arxiv.org/abs/2610.00002",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "When Do Causal World Models Help Modular LLM Agents",
-          "link": "https://arxiv.org/abs/2610.00012",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "How Far is Adam from Natural Gradient Descent?",
+          "link": "https://arxiv.org/abs/2610.00004",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
-          "link": "https://arxiv.org/abs/2610.00015",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law",
+          "link": "https://arxiv.org/abs/2610.00009",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
-          "link": "https://arxiv.org/abs/2610.00018",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Integrating Fairness and Explainability in a Multiple Instance Reinforcement Learning System",
+          "link": "https://arxiv.org/abs/2610.00035",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
-          "link": "https://arxiv.org/abs/2610.00025",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Fast Polynomial Transcendentals for LLMs",
+          "link": "https://arxiv.org/abs/2610.00049",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
-          "link": "https://arxiv.org/abs/2610.00047",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "SW-KAN: Kolmogorov-Arnold Networks with Stieltjes-Wigert q-Orthogonal Polynomials",
+          "link": "https://arxiv.org/abs/2610.00050",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
-          "link": "https://arxiv.org/abs/2610.00061",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Format-Aware Fusion for Fast FP4 Pretraining",
+          "link": "https://arxiv.org/abs/2610.00053",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
-          "link": "https://arxiv.org/abs/2610.00074",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "\"very likely\" Means \"uncertain\"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification",
+          "link": "https://arxiv.org/abs/2610.00083",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks",
-          "link": "https://arxiv.org/abs/2610.00084",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Nous: Learning and Certifying Memory Decisions Before Source Calibration",
+          "link": "https://arxiv.org/abs/2610.00094",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Comedic Fool's Gold: Reward Exploits and Countermeasures in Conversational Humor",
-          "link": "https://arxiv.org/abs/2610.00197",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "One Mastery Threshold Does Not Fit All Knowledge Tracing Models",
+          "link": "https://arxiv.org/abs/2610.00095",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "EviGraph: Proof-Carrying Selective Recommendation over Temporal Public-Service Knowledge Graphs",
-          "link": "https://arxiv.org/abs/2610.00212",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Uncertainty-Aware Learning from Multi-Expert Interval Targets",
+          "link": "https://arxiv.org/abs/2610.00102",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Build2SPARQL: A Large-Scale Text-to-SPARQL Benchmark Dataset for Building Knowledge Graph Querying",
-          "link": "https://arxiv.org/abs/2610.00224",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "The Hidden Costs of 99% Accuracy: A Trustworthiness Audit of the Telco Customer Churn Benchmark",
+          "link": "https://arxiv.org/abs/2610.00118",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Robust Is Salient: An Informed Adversary Moves the Optimal Signal onto the Salience Pole",
-          "link": "https://arxiv.org/abs/2610.00233",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Generalized Biomedicine Discovery",
+          "link": "https://arxiv.org/abs/2610.00120",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Conflicting Supervision Moves Commitment, Not Capability: A 12.29{\\sigma} arrangement effect that is exactly zero under a convention-agnostic score",
-          "link": "https://arxiv.org/abs/2610.00234",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Classification Based on Association Rules Algorithm for Breast Cancer",
+          "link": "https://arxiv.org/abs/2610.00174",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Knowing When to Yield: Grounded Arbitration of User Corrections in Text-Based Embodied Agents",
-          "link": "https://arxiv.org/abs/2610.00282",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Four Ways to Grow a Classifier and Why One of Them Cannot Learn",
+          "link": "https://arxiv.org/abs/2610.00180",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Rules to Tools: Executable Checks for LLM Agents in Scientific Computing",
-          "link": "https://arxiv.org/abs/2610.00313",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Uncertainty-Aware RL-Controlled Adaptive 3D Mapping",
+          "link": "https://arxiv.org/abs/2610.00188",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Predictive Credit: Measuring What Scientific Explanations Add to Experimental Forecasts",
-          "link": "https://arxiv.org/abs/2610.00314",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Energy Time-Series Imputation with Differentially Private Diffusion Models via Clipping-Aware Objective Conditioning",
+          "link": "https://arxiv.org/abs/2610.00209",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "ContractRL: Shielded Group-Relative Policy Optimization for Auditable Tool-Call Repair",
-          "link": "https://arxiv.org/abs/2610.00328",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Useful to Whom? Sample Value Is Defined Only Relative to the Learner",
+          "link": "https://arxiv.org/abs/2610.00221",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Mathematical Transfer in LLMs Follows Reasoning Approach More Than Topic",
-          "link": "https://arxiv.org/abs/2610.00331",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Constant-Memory Recall: Learned Associations in a Fixed Matrix State",
+          "link": "https://arxiv.org/abs/2610.00232",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Fault-Tolerant Budget Conservation in Distributed Multi-Agent Delegation",
-          "link": "https://arxiv.org/abs/2610.00349",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "How Many Categories Are Enough? Distribution-Free Certification Limits for Few-Shot Anomaly Thresholds",
+          "link": "https://arxiv.org/abs/2610.00236",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "JusticeAxis: Benchmarking Legal Judgment between Rigid Rule Application and Ungrounded Discretion",
-          "link": "https://arxiv.org/abs/2610.00353",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Contingent Exposure Routing for Financial AI: Outage Risk and the Cost of Indivisible Decisions",
+          "link": "https://arxiv.org/abs/2610.00239",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "What Should an Agent Remember? Disentangling Retention from Retrieval in Bounded-Memory Evaluation",
-          "link": "https://arxiv.org/abs/2610.00366",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "The Null Is the Hard Part: Exact Tests for Memorization in Generative Models",
+          "link": "https://arxiv.org/abs/2610.00251",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "When Harnesses Lose the Signal: Causal Evaluation of Recovery in LLM Agents",
-          "link": "https://arxiv.org/abs/2610.00372",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Sharp Oracle-Regret Tradeoffs for Projection-Free Online Convex Optimization",
+          "link": "https://arxiv.org/abs/2610.00254",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Benchmarking Prompt Optimization of Large Language Models With Chess",
-          "link": "https://arxiv.org/abs/2610.00416",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Verification Pulses and the Cost of Escaping Wrong Consensus",
+          "link": "https://arxiv.org/abs/2610.00256",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "JevSpawn: Adaptive Agentic Inference through Compositional Action Spaces",
-          "link": "https://arxiv.org/abs/2610.00437",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Attention Manifolds: Steering or Blocking Language Models by Editing Learned B-Spline Surfaces",
+          "link": "https://arxiv.org/abs/2610.00257",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Frozen Scenes, Shifting Winners: Configuration Fragility in Text-to-3D Evaluation",
-          "link": "https://arxiv.org/abs/2610.00447",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Large Language Bayes Is Not Reparameterisation-Invariant",
+          "link": "https://arxiv.org/abs/2610.00265",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Before Agents Decide: Epistemic Action in LLM-Based Systems",
-          "link": "https://arxiv.org/abs/2610.00511",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "MOVE: Multimodal Open-world Verification and Expansion for Graph Learning",
+          "link": "https://arxiv.org/abs/2610.00268",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Ontology-Based Contextual AI Evaluations (OB-CAIE) Methodology",
-          "link": "https://arxiv.org/abs/2610.00529",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Coupling Perception and Reasoning in Federated Multimodal Graph Foundation Models",
+          "link": "https://arxiv.org/abs/2610.00277",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Science or Slop?: Benchmarking and Mitigating Scientific Slop in AI-Generated Papers",
-          "link": "https://arxiv.org/abs/2610.00531",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Stable and Counterfactually Robust Physical World Models from Imposed Structure and Learned Physics",
+          "link": "https://arxiv.org/abs/2610.00280",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams",
-          "link": "https://arxiv.org/abs/2610.00583",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Partial AUC Maximization from Positive-unlabeled Data",
+          "link": "https://arxiv.org/abs/2610.00284",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Legal Research Bench: Measuring End-to-End Reliability in Long-Horizon Legal Research Agents",
-          "link": "https://arxiv.org/abs/2610.00609",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Bellman-Certified Rounding for Sparse Policy Deployment in MDPs",
+          "link": "https://arxiv.org/abs/2610.00325",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Spatial Strategies, Not Actions: Vector-Quantized Geodesics as Tools for LLM-Driven Agents",
-          "link": "https://arxiv.org/abs/2610.00613",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Beyond Diagonal State Space Models: Exact Non-Abelian Group Tracking, Solvability Barriers, and Geometric Physical Manifolds",
+          "link": "https://arxiv.org/abs/2610.00329",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "CompMat-Bench: Benchmarking AI Agents for Computational Materials Science",
-          "link": "https://arxiv.org/abs/2610.00636",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "The Weakest Link: Distilling LLM Reasoning with Worst-Case Constrained Reinforcement Learning",
+          "link": "https://arxiv.org/abs/2610.00332",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Incident-Arena: Getting agents to the last nine of reliability",
-          "link": "https://arxiv.org/abs/2610.00648",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Benchmarking System One decision models against trained classifiers and language models for automated decision gates",
+          "link": "https://arxiv.org/abs/2610.00346",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Agent Evaluation Reliability: More Tasks Won't (Always) Fix An Agent Leaderboard",
-          "link": "https://arxiv.org/abs/2610.00651",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Deep Learning for Anomaly Detection in Railway Systems: A Structured Survey",
+          "link": "https://arxiv.org/abs/2610.00363",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "When More Data Is Not Enough: The Context-Sufficiency Frontier in Generative AI Personalization",
-          "link": "https://arxiv.org/abs/2610.00654",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "Manifold-Constrained Initial Noise Optimization for Efficient Generative Model Alignment",
+          "link": "https://arxiv.org/abs/2610.00365",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Backdoor Containment via Expert Quarantine and Shutdown in LLMs",
-          "link": "https://arxiv.org/abs/2610.00663",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "MoRA: MoE Pruning via Router Bias Learning and Expert Approximation",
+          "link": "https://arxiv.org/abs/2610.00367",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "A Simple Doxastic Deontic Logic for Norm-Guided Decision Making",
-          "link": "https://arxiv.org/abs/2610.00668",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "M$^2$Weather: A Benchmark for Joint Multi-Station and Multi-Variable Weather Forecasting",
+          "link": "https://arxiv.org/abs/2610.00370",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         },
         {
-          "title": "Ontology-Grounded, Reasoner-Verified Benchmarks for Evaluating LLM Reasoning in Scientific AI",
-          "link": "https://arxiv.org/abs/2610.00682",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-02T04:00:00+00:00"
+          "title": "When Do Attention-Head Ablations Support Causal Claims? Projection-Level Confounds, Floor Effects, and Matched Controls",
+          "link": "https://arxiv.org/abs/2610.00373",
+          "source": "arXiv cs.LG",
+          "published": "2026-10-03T04:00:00+00:00"
         }
       ]
     }
