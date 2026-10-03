@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T21:48:06.059961+00:00",
+  "generated_at": "2026-10-03T03:44:55.240007+00:00",
   "categories": [
     {
       "key": "ev",
@@ -460,6 +460,12 @@
       "count": 22,
       "items": [
         {
+          "title": "Inside Omron’s next-generation LD mobile robots",
+          "link": "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots/",
+          "source": "The Robot Report",
+          "published": "2026-10-02T23:01:36+00:00"
+        },
+        {
           "title": "Eli Lilly, Purdue to share field learnings on human robot interaction at RoboBusiness",
           "link": "https://www.therobotreport.com/eli-lilly-purdue-to-share-field-learnings-on-human-robot-interaction-at-robobusiness/",
           "source": "The Robot Report",
@@ -562,12 +568,6 @@
           "published": "2026-09-29T14:00:12+00:00"
         },
         {
-          "title": "State of Robots in Manufacturing",
-          "link": "https://www.therobotreport.com/state-of-robots-in-manufacturing/",
-          "source": "The Robot Report",
-          "published": "2026-09-29T13:22:56+00:00"
-        },
-        {
           "title": "A Day in the Life of a Roboticist: Charlie Kemp",
           "link": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
           "source": "IEEE Spectrum",
@@ -599,10 +599,10 @@
       "count": 40,
       "items": [
         {
-          "title": "플리토, 첫 브랜드 ‘보글’로 글로벌 통역 시장 조준…\"매출 상승 이어갈 것\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215927",
+          "title": "엔비디아, 4999달러짜리 ‘DGX 스파크’ 출시...메모리 대란에 가격 낮췄다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215937",
           "source": "AI타임스",
-          "published": "2026-10-02T18:20:00+00:00"
+          "published": "2026-10-03T12:01:35+00:00"
         },
         {
           "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
