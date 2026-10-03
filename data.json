@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-10-03T11:05:03.492563+00:00",
+  "generated_at": "2026-10-03T15:41:45.015947+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "China Wants Mass-Produced Solid-State Batteries By 2030. CATL Knows That's Hard",
+          "link": "https://insideevs.com/news/810656/china-solid-state-batteries-2030/",
+          "source": "InsideEVs",
+          "published": "2026-10-03T15:00:00+00:00"
+        },
+        {
+          "title": "Musk explains why Tesla Robotaxi is not running at night, and lidar is the answer",
+          "link": "https://electrek.co/2026/10/03/tesla-robotaxi-pets-night-musk-lidar/",
+          "source": "Electrek",
+          "published": "2026-10-03T14:36:59+00:00"
+        },
+        {
+          "title": "I tried taking the budget-priced Ride1Up Roadster V3 e-bike off-roading. Here’s what happened next",
+          "link": "https://electrek.co/2026/10/03/i-took-the-budget-priced-ride1up-roadster-v3-e-bike-offroading-heres-what-happened-next/",
+          "source": "Electrek",
+          "published": "2026-10-03T13:26:52+00:00"
+        },
+        {
+          "title": "FedEx believes $300M electric truck spend will save them $800M in diesel",
+          "link": "https://electrek.co/2026/10/03/fedex-believes-300m-electric-truck-spend-will-save-them-800m-in-diesel/",
+          "source": "Electrek",
+          "published": "2026-10-03T12:54:10+00:00"
+        },
+        {
+          "title": "The 2027 Cadillac Escalade IQ Gets A NACS Port And Faster Home Charging",
+          "link": "https://insideevs.com/news/810603/2027-cadillac-escalade-nacs-home-charging-upgrade/",
+          "source": "InsideEVs",
+          "published": "2026-10-03T12:00:00+00:00"
+        },
+        {
+          "title": "Watt’s up, doc? Huddig hybrid loader gets a big battery boost [video]",
+          "link": "https://electrek.co/2026/10/03/watts-up-doc-huddig-hybrid-loader-gets-a-big-battery-boost-video/",
+          "source": "Electrek",
+          "published": "2026-10-03T11:58:43+00:00"
+        },
         {
           "title": "Is The BMW i3's 468-Mile Range Overkill?",
           "link": "https://insideevs.com/features/810672/bmw-i3-cafe-chevy-bolt-ev-podcast/",
@@ -209,50 +245,26 @@
           "link": "https://electrek.co/2026/10/01/tenways-ago-x-mid-drive-e-bike-anker-solix-2048wh-c2000-gen-2-power-station-hiboy-more/",
           "source": "Electrek",
           "published": "2026-10-01T18:00:00+00:00"
-        },
-        {
-          "title": "Here are all the jobs and investment lost from republican attacks on manufacturing",
-          "link": "https://electrek.co/2026/10/01/here-are-all-the-jobs-and-investment-lost-from-republican-attacks-on-manufacturing/",
-          "source": "Electrek",
-          "published": "2026-10-01T17:48:18+00:00"
-        },
-        {
-          "title": "Over 60% Of Toyotas Sold In Q3 Were Electrified",
-          "link": "https://insideevs.com/news/810488/toyota-lexus-q3-hybrid-ev-sales/",
-          "source": "InsideEVs",
-          "published": "2026-10-01T17:38:02+00:00"
-        },
-        {
-          "title": "Chevy Equinox EV sales plunge 92% as Cadillac’s SUVs suddenly take the lead",
-          "link": "https://electrek.co/2026/10/01/chevy-equinox-ev-sales-plunge-92-cadillacs-suvs-take-over/",
-          "source": "Electrek",
-          "published": "2026-10-01T17:27:10+00:00"
-        },
-        {
-          "title": "VW’s Electric Polo Is Expensive. But After Driving It, It's Not Hard To See Why",
-          "link": "https://insideevs.com/reviews/809842/vw-id-polo-road-trip/",
-          "source": "InsideEVs",
-          "published": "2026-10-01T17:18:44+00:00"
-        },
-        {
-          "title": "BMW is launching a smaller, more affordable EV",
-          "link": "https://electrek.co/2026/10/01/bmw-launching-smaller-more-affordable-ev/",
-          "source": "Electrek",
-          "published": "2026-10-01T16:03:18+00:00"
-        },
-        {
-          "title": "Ford’s $30,000 Fathom EV pickup production launch faces uncertainty [Update]",
-          "link": "https://electrek.co/2026/10/01/fords-30000-ev-pickup-production-launch-faces-uncertainty/",
-          "source": "Electrek",
-          "published": "2026-10-01T14:37:03+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 24,
+      "count": 25,
       "items": [
+        {
+          "title": "China Wants Mass-Produced Solid-State Batteries By 2030. CATL Knows That's Hard",
+          "link": "https://insideevs.com/news/810656/china-solid-state-batteries-2030/",
+          "source": "InsideEVs",
+          "published": "2026-10-03T15:00:00+00:00"
+        },
+        {
+          "title": "Watt’s up, doc? Huddig hybrid loader gets a big battery boost [video]",
+          "link": "https://electrek.co/2026/10/03/watts-up-doc-huddig-hybrid-loader-gets-a-big-battery-boost-video/",
+          "source": "Electrek",
+          "published": "2026-10-03T11:58:43+00:00"
+        },
         {
           "title": "Ford backs a big new solar farm for its Michigan factories",
           "link": "https://electrek.co/2026/10/02/ford-backs-a-big-new-solar-farm-for-its-michigan-factories/",
@@ -390,12 +402,6 @@
           "link": "https://electrek.co/2026/09/25/geely-ai-fast-charging-heals-ev-batteries-pulse-restoration/",
           "source": "Electrek",
           "published": "2026-09-25T13:13:52+00:00"
-        },
-        {
-          "title": "Mercedes-Benz gets first dibs on ProLogium’s Gen4 solid-state EV battery cells",
-          "link": "https://electrek.co/2026/09/24/mercedes-priority-prologiums-gen4-solid-state-ev-battery/",
-          "source": "Electrek",
-          "published": "2026-09-24T18:33:12+00:00"
         }
       ]
     },
@@ -453,6 +459,12 @@
       "label": "로봇",
       "count": 22,
       "items": [
+        {
+          "title": "The physical AI race will be won in the patent office",
+          "link": "https://www.therobotreport.com/physical-ai-race-will-be-won-in-patent-office/",
+          "source": "The Robot Report",
+          "published": "2026-10-03T14:30:07+00:00"
+        },
         {
           "title": "Inside Omron’s next-generation LD mobile robots",
           "link": "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots/",
@@ -556,12 +568,6 @@
           "published": "2026-09-29T19:52:46+00:00"
         },
         {
-          "title": "Meet Flourish One, the Raspberry Pi-powered humanoid built for busy parents",
-          "link": "https://www.therobotreport.com/meet-flourish-one-raspberry-pi-powered-humanoid-built-busy-parents/",
-          "source": "The Robot Report",
-          "published": "2026-09-29T14:00:12+00:00"
-        },
-        {
           "title": "A Day in the Life of a Roboticist: Charlie Kemp",
           "link": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
           "source": "IEEE Spectrum",
@@ -593,10 +599,10 @@
       "count": 40,
       "items": [
         {
-          "title": "[AI 이슈트렌드] 계속된 DMZ 논란 속 트럼프 LNG 협박·청주 흉기 성폭행 화제",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215940",
+          "title": "\"수익성 불투명한 10조달러 투자\"...월가, AI 거품 붕괴 경고",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215942",
           "source": "AI타임스",
-          "published": "2026-10-03T19:05:59+00:00"
+          "published": "2026-10-03T21:55:05+00:00"
         },
         {
           "title": "Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer Drug-Response Matrices",
