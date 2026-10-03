@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-10-03T15:41:45.015947+00:00",
+  "generated_at": "2026-10-03T20:34:46.481345+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Hasta la vista, baby – Figure F.02 humanoid robots decommissioned, T2-style",
+          "link": "https://electrek.co/2026/10/03/hasta-la-vista-baby-figure-f-02-humanoid-robots-decommissioned-t2-style/",
+          "source": "Electrek",
+          "published": "2026-10-03T19:31:13+00:00"
+        },
         {
           "title": "China Wants Mass-Produced Solid-State Batteries By 2030. CATL Knows That's Hard",
           "link": "https://insideevs.com/news/810656/china-solid-state-batteries-2030/",
@@ -239,20 +245,26 @@
           "link": "https://insideevs.com/news/810487/gm-ev-sales-down-2026/",
           "source": "InsideEVs",
           "published": "2026-10-01T18:09:27+00:00"
-        },
-        {
-          "title": "Tenways AGO X mid-drive e-bike $905 savings, Anker SOLIX 2,048Wh C2000 Gen 2 power station $900, Hiboy EV sale, more",
-          "link": "https://electrek.co/2026/10/01/tenways-ago-x-mid-drive-e-bike-anker-solix-2048wh-c2000-gen-2-power-station-hiboy-more/",
-          "source": "Electrek",
-          "published": "2026-10-01T18:00:00+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 25,
+      "count": 27,
       "items": [
+        {
+          "title": "Australian Government Accelerates Renewable Energy Transition",
+          "link": "https://cleantechnica.com/2026/10/03/australian-government-accelerates-renewable-energy-transition/",
+          "source": "CleanTechnica",
+          "published": "2026-10-03T20:08:26+00:00"
+        },
+        {
+          "title": "US Q3 EV Sales Report: The Good, The Bad, And The Ugly",
+          "link": "https://cleantechnica.com/2026/10/03/us-q3-ev-sales-report-the-good-the-bad-and-the-ugly/",
+          "source": "CleanTechnica",
+          "published": "2026-10-03T18:23:03+00:00"
+        },
         {
           "title": "China Wants Mass-Produced Solid-State Batteries By 2030. CATL Knows That's Hard",
           "link": "https://insideevs.com/news/810656/china-solid-state-batteries-2030/",
