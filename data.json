@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-04T11:45:55.105290+00:00",
+  "generated_at": "2026-10-04T16:24:41.184915+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Tough times for Audi, VW, and Porsche could make October a great time to buy",
+          "link": "https://electrek.co/2026/10/04/tough-times-for-audi-vw-and-porsche-make-make-october-a-great-time-to-buy/",
+          "source": "Electrek",
+          "published": "2026-10-04T15:15:00+00:00"
+        },
+        {
+          "title": "Autonomous Orange: YMX adds self-driving tech to its electric yard trucks",
+          "link": "https://electrek.co/2026/10/04/autonomous-orange-ymx-adds-outrider-self-driving-tech-to-its-electric-yard-trucks/",
+          "source": "Electrek",
+          "published": "2026-10-04T13:48:54+00:00"
+        },
+        {
+          "title": "The Genesis GV60 Magma Is One Of The Quirkiest Performance EVs On Sale",
+          "link": "https://insideevs.com/news/810490/genesis-gv60-magma-doug-demuro/",
+          "source": "InsideEVs",
+          "published": "2026-10-04T13:00:00+00:00"
+        },
+        {
+          "title": "Here's What's Good (And Bad) About Owning An Audi E-Tron GT",
+          "link": "https://insideevs.com/news/810658/audi-e-tron-gt-owner-review/",
+          "source": "InsideEVs",
+          "published": "2026-10-04T12:00:00+00:00"
+        },
         {
           "title": "Rivian’s delayed ALSO e-bikes are finally arriving to first customers, with mixed early feedback",
           "link": "https://electrek.co/2026/10/04/rivians-delayed-also-e-bikes-are-finally-arriving-to-first-customers-with-mixed-early-feedback/",
@@ -221,30 +245,6 @@
           "link": "https://electrek.co/2026/10/01/tesla-emergency-drive-away-supercharger-shooting/",
           "source": "Electrek",
           "published": "2026-10-01T23:28:32+00:00"
-        },
-        {
-          "title": "California gives the green light to balcony solar",
-          "link": "https://electrek.co/2026/10/01/california-gives-the-green-light-to-balcony-solar/",
-          "source": "Electrek",
-          "published": "2026-10-01T21:04:23+00:00"
-        },
-        {
-          "title": "The Hyundai IONIQ 5 is still in the EV sales mix, with 31,000+ sold in 2026",
-          "link": "https://electrek.co/2026/10/01/hyundai-ioniq-5-still-in-ev-sales-mix-31000-sold/",
-          "source": "Electrek",
-          "published": "2026-10-01T21:02:46+00:00"
-        },
-        {
-          "title": "The Fathom Is Ford's Shot At EV Redemption. The CEO Knows He Has To Get It Right",
-          "link": "https://insideevs.com/news/810492/ford-fathom-ev-redemption-ceo/",
-          "source": "InsideEVs",
-          "published": "2026-10-01T20:53:38+00:00"
-        },
-        {
-          "title": "Toyota bucks the trend as new EVs drive growth",
-          "link": "https://electrek.co/2026/10/01/toyota-bucks-trend-new-evs-drive-growth/",
-          "source": "Electrek",
-          "published": "2026-10-01T19:12:24+00:00"
         }
       ]
     },
@@ -472,6 +472,12 @@
       "count": 22,
       "items": [
         {
+          "title": "How robotics and physical AI can responsibly tackle key physical security challenges",
+          "link": "https://www.therobotreport.com/how-robotics-physical-ai-can-responsibly-tackle-key-physical-security-challenges/",
+          "source": "The Robot Report",
+          "published": "2026-10-04T12:52:11+00:00"
+        },
+        {
           "title": "The physical AI race will be won in the patent office",
           "link": "https://www.therobotreport.com/physical-ai-race-will-be-won-in-patent-office/",
           "source": "The Robot Report",
@@ -572,12 +578,6 @@
           "link": "https://www.therobotreport.com/tackling-construction-labor-shortages-asi-softbank-partner-autonomous-fleets/",
           "source": "The Robot Report",
           "published": "2026-09-30T12:30:17+00:00"
-        },
-        {
-          "title": "ForceN to give a crash course on force and torque sensing for humanoids at RoboBusiness",
-          "link": "https://www.therobotreport.com/forcen-gives-crash-course-force-torque-sensing-humanoids-robobusiness-2026/",
-          "source": "The Robot Report",
-          "published": "2026-09-29T19:52:46+00:00"
         },
         {
           "title": "A Day in the Life of a Roboticist: Charlie Kemp",
