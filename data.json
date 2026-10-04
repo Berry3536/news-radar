@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-10-04T04:15:17.116296+00:00",
+  "generated_at": "2026-10-04T11:45:55.105290+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Rivian’s delayed ALSO e-bikes are finally arriving to first customers, with mixed early feedback",
+          "link": "https://electrek.co/2026/10/04/rivians-delayed-also-e-bikes-are-finally-arriving-to-first-customers-with-mixed-early-feedback/",
+          "source": "Electrek",
+          "published": "2026-10-04T11:42:00+00:00"
+        },
         {
           "title": "Hasta la vista, baby – Figure F.02 humanoid robots decommissioned, T2-style",
           "link": "https://electrek.co/2026/10/03/hasta-la-vista-baby-figure-f-02-humanoid-robots-decommissioned-t2-style/",
@@ -239,12 +245,6 @@
           "link": "https://electrek.co/2026/10/01/toyota-bucks-trend-new-evs-drive-growth/",
           "source": "Electrek",
           "published": "2026-10-01T19:12:24+00:00"
-        },
-        {
-          "title": "General Motors' EV Sales Are Way Down. But It's Not As Bleak As It Seems",
-          "link": "https://insideevs.com/news/810487/gm-ev-sales-down-2026/",
-          "source": "InsideEVs",
-          "published": "2026-10-01T18:09:27+00:00"
         }
       ]
     },
@@ -611,10 +611,10 @@
       "count": 1,
       "items": [
         {
-          "title": "오픈AI 내부 모델, 종료 일정 알아채고 '생존 조치' 모색",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215950",
+          "title": "원프레딕트 “버려지던 제조 데이터, AI 자산으로 바꾸겠다”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215688",
           "source": "AI타임스",
-          "published": "2026-10-04T11:44:13+00:00"
+          "published": "2026-10-04T18:49:42+00:00"
         }
       ]
     }
