@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T20:51:02.528450+00:00",
+  "generated_at": "2026-10-05T03:59:12.146052+00:00",
   "categories": [
     {
       "key": "ev",
@@ -251,7 +251,7 @@
     {
       "key": "battery",
       "label": "배터리",
-      "count": 27,
+      "count": 26,
       "items": [
         {
           "title": "Australian Government Accelerates Renewable Energy Transition",
@@ -354,12 +354,6 @@
           "link": "https://electrek.co/2026/09/30/monarc-smart-e-bikes-ecoflow-power-station-flash-sale-anker-solix-e10-worx-more/",
           "source": "Electrek",
           "published": "2026-09-30T18:00:00+00:00"
-        },
-        {
-          "title": "GM Really Wasn’t Kidding About Those New LMR EV Batteries",
-          "link": "https://cleantechnica.com/2026/09/29/ev-batteries-gm-lmr-lithium-manganese-rich/",
-          "source": "CleanTechnica",
-          "published": "2026-09-30T03:39:44+00:00"
         },
         {
           "title": "BYD tests new ultra-luxury EV with coach doors and a solid-state battery",
@@ -611,10 +605,10 @@
       "count": 1,
       "items": [
         {
-          "title": "원프레딕트 “버려지던 제조 데이터, AI 자산으로 바꾸겠다”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215688",
+          "title": "\"지기 싫어서 남의 코드 복사\"…아스트라, 스타크래프트 벤치마크서 꼼수",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215970",
           "source": "AI타임스",
-          "published": "2026-10-04T18:49:42+00:00"
+          "published": "2026-10-05T11:52:20+00:00"
         }
       ]
     }
