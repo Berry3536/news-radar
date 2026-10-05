@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-10-05T03:59:12.146052+00:00",
+  "generated_at": "2026-10-05T13:33:50.892252+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "FIA WEC 6 HOURS OF FUJI 2026 by 웨이브진 정인성",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44654",
+          "source": "모터그래프",
+          "published": "2026-10-05T17:13:43+00:00"
+        },
+        {
+          "title": "It’s now easier than ever to get your motorcycle license on an electric bike",
+          "link": "https://electrek.co/2026/10/05/its-now-easier-than-ever-to-get-your-motorcycle-license-on-an-electric-bike/",
+          "source": "Electrek",
+          "published": "2026-10-05T11:39:00+00:00"
+        },
+        {
+          "title": "The BMW M3 EV Is Almost Done Hiding",
+          "link": "https://insideevs.com/news/810777/bmw-m3-ev-teaser-production/",
+          "source": "InsideEVs",
+          "published": "2026-10-05T11:32:19+00:00"
+        },
+        {
+          "title": "The Jeep Recon Was Driven On The Highway Until It Died. Its Range Fell Short",
+          "link": "https://insideevs.com/news/810756/jeep-recon-highway-range-test-75-mph/",
+          "source": "InsideEVs",
+          "published": "2026-10-05T09:23:03+00:00"
+        },
+        {
+          "title": "Mazda’s New EV SUV Can Tell Pedestrians Whatever You Want—Even Naughty Words",
+          "link": "https://insideevs.com/news/810746/mazda-cx-6e-ev-external-speaker-bad-words/",
+          "source": "InsideEVs",
+          "published": "2026-10-05T08:33:12+00:00"
+        },
         {
           "title": "Tough times for Audi, VW, and Porsche could make October a great time to buy",
           "link": "https://electrek.co/2026/10/04/tough-times-for-audi-vw-and-porsche-make-make-october-a-great-time-to-buy/",
@@ -121,12 +151,6 @@
           "published": "2026-10-02T18:00:00+00:00"
         },
         {
-          "title": "순수 전기 모델 i5, iX로 구성한 10월 BMW 코리아 온라인 한정 에디션",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44638",
-          "source": "모터그래프",
-          "published": "2026-10-02T17:40:55+00:00"
-        },
-        {
           "title": "UK EV sales surge 36% to record high in September",
           "link": "https://electrek.co/2026/10/02/uk-ev-sales-record-september-2026-tesla-model-3/",
           "source": "Electrek",
@@ -221,37 +245,13 @@
           "link": "https://electrek.co/2026/10/02/ride1up-just-launched-a-28-mph-german-mid-drive-e-bike-for-an-insanely-low-1295/",
           "source": "Electrek",
           "published": "2026-10-02T11:16:00+00:00"
-        },
-        {
-          "title": "Volvo Sales Tumble, Forcing The Company To Abandon Its Full-Year Guidance",
-          "link": "https://insideevs.com/news/810571/volvo-pulls-full-year-guidance-sales-fall-q3-2026/",
-          "source": "InsideEVs",
-          "published": "2026-10-02T11:08:27+00:00"
-        },
-        {
-          "title": "2027 Hyundai Tucson Bets On Hybrids And A Modern Infotainment System",
-          "link": "https://insideevs.com/news/810548/2027-hyundai-tucson-hybrid-phev-specs-official/",
-          "source": "InsideEVs",
-          "published": "2026-10-02T08:01:59+00:00"
-        },
-        {
-          "title": "Tesla Model 3 gets range and performance boost, plus a new 16-inch screen in US",
-          "link": "https://electrek.co/2026/10/01/tesla-model-3-us-16-inch-screen-performance-528-hp/",
-          "source": "Electrek",
-          "published": "2026-10-02T00:54:04+00:00"
-        },
-        {
-          "title": "Tesla launches capability to drive away while plugged in after deadly Supercharger shooting",
-          "link": "https://electrek.co/2026/10/01/tesla-emergency-drive-away-supercharger-shooting/",
-          "source": "Electrek",
-          "published": "2026-10-01T23:28:32+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 26,
+      "count": 25,
       "items": [
         {
           "title": "Australian Government Accelerates Renewable Energy Transition",
@@ -402,25 +402,25 @@
           "link": "https://electrek.co/2026/09/25/early-podcast-tesla-semi-launch-geelys-battery-healing-fast-charging-rivian-r3-and-more/",
           "source": "Electrek",
           "published": "2026-09-25T17:16:47+00:00"
-        },
-        {
-          "title": "Geely’s AI fast charging ‘heals’ EV batteries for 20% more cycle life",
-          "link": "https://electrek.co/2026/09/25/geely-ai-fast-charging-heals-ev-batteries-pulse-restoration/",
-          "source": "Electrek",
-          "published": "2026-09-25T13:13:52+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 7,
+      "count": 8,
       "items": [
         {
-          "title": "브리지스톤, ABB FIA 포뮬러 E 월드 챔피언십 단독 타이어 공급사로 선정",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44640",
+          "title": "극한의 24시간 레이스 도전 담은 모터스포츠 다큐멘터리 ‘더 퍼스트 4’ 공개",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44650",
           "source": "모터그래프",
-          "published": "2026-10-02T17:40:00+00:00"
+          "published": "2026-10-05T17:12:25+00:00"
+        },
+        {
+          "title": "It’s now easier than ever to get your motorcycle license on an electric bike",
+          "link": "https://electrek.co/2026/10/05/its-now-easier-than-ever-to-get-your-motorcycle-license-on-an-electric-bike/",
+          "source": "Electrek",
+          "published": "2026-10-05T11:39:00+00:00"
         },
         {
           "title": "UK EV sales surge 36% to record high in September",
@@ -466,6 +466,12 @@
       "count": 22,
       "items": [
         {
+          "title": "휴머노이드 시대, 피지컬 AI만으로 충분한가? (5) 행동 모방을 넘어 규범 학습으로 – 데이터·규칙·감독의 결합",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48835",
+          "source": "로봇신문",
+          "published": "2026-10-05T20:53:52+00:00"
+        },
+        {
           "title": "How robotics and physical AI can responsibly tackle key physical security challenges",
           "link": "https://www.therobotreport.com/how-robotics-physical-ai-can-responsibly-tackle-key-physical-security-challenges/",
           "source": "The Robot Report",
@@ -494,12 +500,6 @@
           "link": "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics/",
           "source": "The Robot Report",
           "published": "2026-10-02T18:32:13+00:00"
-        },
-        {
-          "title": "美 토보라이프 AI, 유니트리 G1 풀바디 원격운영시스템 출시",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48815",
-          "source": "로봇신문",
-          "published": "2026-10-02T18:19:11+00:00"
         },
         {
           "title": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away",
@@ -602,13 +602,247 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 1,
+      "count": 40,
       "items": [
         {
-          "title": "\"지기 싫어서 남의 코드 복사\"…아스트라, 스타크래프트 벤치마크서 꼼수",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215970",
+          "title": "구글, 'AI 프로' 국내 한정 40% 할인...연간 구독권 프로모션 진행",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215976",
           "source": "AI타임스",
-          "published": "2026-10-05T11:52:20+00:00"
+          "published": "2026-10-05T21:01:19+00:00"
+        },
+        {
+          "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+          "link": "https://arxiv.org/abs/2610.02260",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+          "link": "https://arxiv.org/abs/2610.02267",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
+          "link": "https://arxiv.org/abs/2610.02281",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
+          "link": "https://arxiv.org/abs/2610.02300",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
+          "link": "https://arxiv.org/abs/2610.02330",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "World Editing: Intervening on Executable Worlds at Increasing Depth",
+          "link": "https://arxiv.org/abs/2610.02331",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "A Multi Method Importance and Performance Efficiency Analysis of Topological Metrics for Natural Visibility Graph Based Cyber Attack Detection",
+          "link": "https://arxiv.org/abs/2610.02342",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents",
+          "link": "https://arxiv.org/abs/2610.02351",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "Traversing the Satisfaction-Diversity Frontier in Text-to-Image Diffusion",
+          "link": "https://arxiv.org/abs/2610.02372",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "THPL: A Vision-to-Language Decision Support Framework for Rainbow Trout Feeding Management in RAS",
+          "link": "https://arxiv.org/abs/2610.02378",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "FlashSinkhorn 2: Block-Sparse Entropic Optimal Transport",
+          "link": "https://arxiv.org/abs/2610.02395",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "When Terminal-Agent Training Stalls: Demystifying Data Generation and Verification Challenge",
+          "link": "https://arxiv.org/abs/2610.02405",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "Reinforcement Learning Techniques for the Optimization of Target Polarization in Nuclear Physics Scattering Experiments",
+          "link": "https://arxiv.org/abs/2610.02452",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "Tropical Reinforcement Learning",
+          "link": "https://arxiv.org/abs/2610.02478",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "MEA: A Reward-Driven Multi-Agent System for Faithful Model Explanations",
+          "link": "https://arxiv.org/abs/2610.02480",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "What Does a Token Cost? A Mixture-of-Agents Measurement of Sufficient Per-Token Compute",
+          "link": "https://arxiv.org/abs/2610.02491",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "Right Order, Wrong Scale: Auditing LLM Judges for Occupational AI Measurement",
+          "link": "https://arxiv.org/abs/2610.02492",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "\"I just assumed that it would translate\": examining MT risk awareness among healthcare staff with abbreviations as a use case",
+          "link": "https://arxiv.org/abs/2610.02496",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "HXAI: Hierarchical Privacy-Preserving Explainable AI in Distributed Energy Systems",
+          "link": "https://arxiv.org/abs/2610.02504",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "World Action Modeling with Progressive Visual Planning",
+          "link": "https://arxiv.org/abs/2610.02508",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "On-Premises Multi-Course RAG Tutoring for Business Education: Hardware-Software Trade-offs in a Campus AI Tutor",
+          "link": "https://arxiv.org/abs/2610.02510",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "Hypothesis-guided discovery of cognitive algorithms via program refinement",
+          "link": "https://arxiv.org/abs/2610.02523",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "Learning What to Investigate Next: Meta-Reasoning for Long-Horizon Research Agents",
+          "link": "https://arxiv.org/abs/2610.02525",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "How To Train Your World Model: Fine-tuning vs RAG for LM-based World Modeling",
+          "link": "https://arxiv.org/abs/2610.02542",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "How to Have a Sensitive Debate: An Instance-Optimal Protocol for AI Debate",
+          "link": "https://arxiv.org/abs/2610.02557",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "Mitigating Social Sycophancy via Pluralistic Preference Optimization",
+          "link": "https://arxiv.org/abs/2610.02568",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "Answering clinicians' questions over trial evidence tables with verifiable, feedback-driven language models",
+          "link": "https://arxiv.org/abs/2610.02576",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "Labels Override Definitions in Jev-Style Typed Decision Models",
+          "link": "https://arxiv.org/abs/2610.02586",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "Open-Endedness Bench: Measuring Epistemic Process from Agent Records",
+          "link": "https://arxiv.org/abs/2610.02588",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "TasteBench: Multimodal Benchmark for Sensory Prediction, from Molecules to Sustainable Foods",
+          "link": "https://arxiv.org/abs/2610.02599",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "Time Series Forecasting Benchmarks Need Scenario-Grounded Stress Testing",
+          "link": "https://arxiv.org/abs/2610.02608",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "VERSE: Verified Self-Evolving Optimizer for Agent Harnesses",
+          "link": "https://arxiv.org/abs/2610.02616",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "CuBEs: Culturally-Situated Behavioral Evaluations and the Limitations of Culture-Blind LLM Judges",
+          "link": "https://arxiv.org/abs/2610.02622",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "Lost in the Request: How Communication Variation Disrupts Retrieval and Action in Email Agents",
+          "link": "https://arxiv.org/abs/2610.02627",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "Designing the Future of User Feedback for Generative AI",
+          "link": "https://arxiv.org/abs/2610.02631",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "Batched Speech Decisions Without Decoding: Single-Token Supervision Lets a Frozen LLM Hear Beyond the Transcript",
+          "link": "https://arxiv.org/abs/2610.02638",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "Coherence-Driven Belief Formation and Population Dynamics of Contagion in LLM Agents",
+          "link": "https://arxiv.org/abs/2610.02654",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "A GHOST in Long-Horizon Agents: Governance Hazard from Overlooked Safety Constraints across Turns",
+          "link": "https://arxiv.org/abs/2610.02664",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
+        },
+        {
+          "title": "Spend Teacher Tokens Where They Matter: Success-Referenced On-Policy Distillation",
+          "link": "https://arxiv.org/abs/2610.02678",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-05T04:00:00+00:00"
         }
       ]
     }
