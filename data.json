@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T23:42:44.421494+00:00",
+  "generated_at": "2026-10-06T04:48:13.616873+00:00",
   "categories": [
     {
       "key": "ev",
@@ -418,6 +418,12 @@
       "count": 22,
       "items": [
         {
+          "title": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing",
+          "link": "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/",
+          "source": "The Robot Report",
+          "published": "2026-10-05T23:34:35+00:00"
+        },
+        {
           "title": "‘젊은 로봇 공학자’ (93) 고려대 전기전자공학부 신희섭 교수",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48836",
           "source": "로봇신문",
@@ -520,12 +526,6 @@
           "published": "2026-09-30T14:03:31+00:00"
         },
         {
-          "title": "Innodata opens motion-capture lab to help humanoids move more like people",
-          "link": "https://www.therobotreport.com/innodata-opens-motion-capture-lab-help-humanoids-move-more-like-people/",
-          "source": "The Robot Report",
-          "published": "2026-09-30T12:59:12+00:00"
-        },
-        {
           "title": "A Day in the Life of a Roboticist: Charlie Kemp",
           "link": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
           "source": "IEEE Spectrum",
@@ -554,247 +554,13 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 40,
+      "count": 1,
       "items": [
         {
-          "title": "구글, 'AI 프로' 국내 한정 40% 할인...연간 구독권 프로모션 진행",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215976",
+          "title": "오픈AI, 28일 연속 '코덱스' 개선 예고...첫날부터 처리 속도 50% 향상",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215992",
           "source": "AI타임스",
-          "published": "2026-10-05T21:01:19+00:00"
-        },
-        {
-          "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
-          "link": "https://arxiv.org/abs/2610.02260",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
-          "link": "https://arxiv.org/abs/2610.02267",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
-          "link": "https://arxiv.org/abs/2610.02281",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
-          "link": "https://arxiv.org/abs/2610.02300",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
-          "link": "https://arxiv.org/abs/2610.02330",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "World Editing: Intervening on Executable Worlds at Increasing Depth",
-          "link": "https://arxiv.org/abs/2610.02331",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "A Multi Method Importance and Performance Efficiency Analysis of Topological Metrics for Natural Visibility Graph Based Cyber Attack Detection",
-          "link": "https://arxiv.org/abs/2610.02342",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents",
-          "link": "https://arxiv.org/abs/2610.02351",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Traversing the Satisfaction-Diversity Frontier in Text-to-Image Diffusion",
-          "link": "https://arxiv.org/abs/2610.02372",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "THPL: A Vision-to-Language Decision Support Framework for Rainbow Trout Feeding Management in RAS",
-          "link": "https://arxiv.org/abs/2610.02378",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "FlashSinkhorn 2: Block-Sparse Entropic Optimal Transport",
-          "link": "https://arxiv.org/abs/2610.02395",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "When Terminal-Agent Training Stalls: Demystifying Data Generation and Verification Challenge",
-          "link": "https://arxiv.org/abs/2610.02405",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Reinforcement Learning Techniques for the Optimization of Target Polarization in Nuclear Physics Scattering Experiments",
-          "link": "https://arxiv.org/abs/2610.02452",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Tropical Reinforcement Learning",
-          "link": "https://arxiv.org/abs/2610.02478",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "MEA: A Reward-Driven Multi-Agent System for Faithful Model Explanations",
-          "link": "https://arxiv.org/abs/2610.02480",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "What Does a Token Cost? A Mixture-of-Agents Measurement of Sufficient Per-Token Compute",
-          "link": "https://arxiv.org/abs/2610.02491",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Right Order, Wrong Scale: Auditing LLM Judges for Occupational AI Measurement",
-          "link": "https://arxiv.org/abs/2610.02492",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "\"I just assumed that it would translate\": examining MT risk awareness among healthcare staff with abbreviations as a use case",
-          "link": "https://arxiv.org/abs/2610.02496",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "HXAI: Hierarchical Privacy-Preserving Explainable AI in Distributed Energy Systems",
-          "link": "https://arxiv.org/abs/2610.02504",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "World Action Modeling with Progressive Visual Planning",
-          "link": "https://arxiv.org/abs/2610.02508",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "On-Premises Multi-Course RAG Tutoring for Business Education: Hardware-Software Trade-offs in a Campus AI Tutor",
-          "link": "https://arxiv.org/abs/2610.02510",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Hypothesis-guided discovery of cognitive algorithms via program refinement",
-          "link": "https://arxiv.org/abs/2610.02523",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Learning What to Investigate Next: Meta-Reasoning for Long-Horizon Research Agents",
-          "link": "https://arxiv.org/abs/2610.02525",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "How To Train Your World Model: Fine-tuning vs RAG for LM-based World Modeling",
-          "link": "https://arxiv.org/abs/2610.02542",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "How to Have a Sensitive Debate: An Instance-Optimal Protocol for AI Debate",
-          "link": "https://arxiv.org/abs/2610.02557",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Mitigating Social Sycophancy via Pluralistic Preference Optimization",
-          "link": "https://arxiv.org/abs/2610.02568",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Answering clinicians' questions over trial evidence tables with verifiable, feedback-driven language models",
-          "link": "https://arxiv.org/abs/2610.02576",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Labels Override Definitions in Jev-Style Typed Decision Models",
-          "link": "https://arxiv.org/abs/2610.02586",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Open-Endedness Bench: Measuring Epistemic Process from Agent Records",
-          "link": "https://arxiv.org/abs/2610.02588",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "TasteBench: Multimodal Benchmark for Sensory Prediction, from Molecules to Sustainable Foods",
-          "link": "https://arxiv.org/abs/2610.02599",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Time Series Forecasting Benchmarks Need Scenario-Grounded Stress Testing",
-          "link": "https://arxiv.org/abs/2610.02608",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "VERSE: Verified Self-Evolving Optimizer for Agent Harnesses",
-          "link": "https://arxiv.org/abs/2610.02616",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "CuBEs: Culturally-Situated Behavioral Evaluations and the Limitations of Culture-Blind LLM Judges",
-          "link": "https://arxiv.org/abs/2610.02622",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Lost in the Request: How Communication Variation Disrupts Retrieval and Action in Email Agents",
-          "link": "https://arxiv.org/abs/2610.02627",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Designing the Future of User Feedback for Generative AI",
-          "link": "https://arxiv.org/abs/2610.02631",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Batched Speech Decisions Without Decoding: Single-Token Supervision Lets a Frozen LLM Hear Beyond the Transcript",
-          "link": "https://arxiv.org/abs/2610.02638",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Coherence-Driven Belief Formation and Population Dynamics of Contagion in LLM Agents",
-          "link": "https://arxiv.org/abs/2610.02654",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "A GHOST in Long-Horizon Agents: Governance Hazard from Overlooked Safety Constraints across Turns",
-          "link": "https://arxiv.org/abs/2610.02664",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
-        },
-        {
-          "title": "Spend Teacher Tokens Where They Matter: Success-Referenced On-Policy Distillation",
-          "link": "https://arxiv.org/abs/2610.02678",
-          "source": "arXiv cs.AI",
-          "published": "2026-10-05T04:00:00+00:00"
+          "published": "2026-10-06T13:21:15+00:00"
         }
       ]
     }
