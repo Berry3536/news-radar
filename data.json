@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-10-06T04:48:13.616873+00:00",
+  "generated_at": "2026-10-06T12:43:32.819547+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "이틀 간 운영된 스포츠카 테마 파크, 2026 포르쉐 바이브 서울",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44664",
+          "source": "모터그래프",
+          "published": "2026-10-06T17:23:40+00:00"
+        },
+        {
+          "title": "Fall Prime Day 2026 Green Deals: EVs, power stations, electric tools, smart devices, and much more",
+          "link": "https://electrek.co/2026/10/06/fall-prime-day-2026-deals-ebike-power-stations-electric-tools/",
+          "source": "Electrek",
+          "published": "2026-10-06T12:36:42+00:00"
+        },
+        {
+          "title": "Renault’s E-Space Concept Brings Back The Minivan With A 1980s-Inspired Twist",
+          "link": "https://insideevs.com/news/810923/renault-e-space-minivan-ev-concept/",
+          "source": "InsideEVs",
+          "published": "2026-10-06T11:32:17+00:00"
+        },
+        {
+          "title": "Gas Cars’ Dominance Is Fading: Global Sales Fall Below 50% For The First Time Since The 1920s",
+          "link": "https://insideevs.com/news/810909/gas-vehicles-global-sales-below-50/",
+          "source": "InsideEVs",
+          "published": "2026-10-06T10:33:45+00:00"
+        },
+        {
+          "title": "Lucid Production Plunges As The EV Maker Tries To Clear Inventory",
+          "link": "https://insideevs.com/news/810884/lucid-sales-production-q3-2026/",
+          "source": "InsideEVs",
+          "published": "2026-10-06T07:55:50+00:00"
+        },
         {
           "title": "Not sold on Tesla Powerwall? There are great battery alternatives out there [update]",
           "link": "https://electrek.co/2026/10/05/not-sold-on-tesla-powerwall-there-are-some-great-home-battery-alternatives-out-there/",
@@ -71,12 +101,6 @@
           "link": "https://insideevs.com/news/810822/europe-ev-sales-january-august/",
           "source": "InsideEVs",
           "published": "2026-10-05T17:16:54+00:00"
-        },
-        {
-          "title": "FIA WEC 6 HOURS OF FUJI 2026 by 웨이브진 정인성",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44654",
-          "source": "모터그래프",
-          "published": "2026-10-05T17:13:43+00:00"
         },
         {
           "title": "Toyota gets the green light for a new EV built to take on China",
@@ -221,30 +245,6 @@
           "link": "https://electrek.co/2026/10/02/ford-backs-a-big-new-solar-farm-for-its-michigan-factories/",
           "source": "Electrek",
           "published": "2026-10-02T19:52:03+00:00"
-        },
-        {
-          "title": "Jeep’s off-road electric SUV managed just 160 miles in a real-world highway range test",
-          "link": "https://electrek.co/2026/10/02/jeeps-off-road-ev-drove-160-miles-real-world-highway-range-test/",
-          "source": "Electrek",
-          "published": "2026-10-02T19:30:17+00:00"
-        },
-        {
-          "title": "Podcast: Tesla Roadster delay, EV deliveries, battery swap comes back, and more",
-          "link": "https://electrek.co/2026/10/02/podcast-tesla-roadster-delay-ev-deliveries-battery-swap-comes-back-and-more/",
-          "source": "Electrek",
-          "published": "2026-10-02T19:20:55+00:00"
-        },
-        {
-          "title": "The world’s tallest wind turbine just reached 1,197 feet",
-          "link": "https://electrek.co/2026/10/02/the-worlds-tallest-wind-turbine-just-reached-1197-feet/",
-          "source": "Electrek",
-          "published": "2026-10-02T18:21:02+00:00"
-        },
-        {
-          "title": "Yozma IN 10 Pro electric dirt bike exclusive low ($700 off), EcoFlow + Bluetti 192Wh and 288Wh power stations, Worx mulcher, more",
-          "link": "https://electrek.co/2026/10/02/yozma-in-10-pro-electric-dirt-bike-ecoflow-bluetti-power-stations-worx-mulcher-more/",
-          "source": "Electrek",
-          "published": "2026-10-02T18:00:00+00:00"
         }
       ]
     },
@@ -375,10 +375,10 @@
       "count": 6,
       "items": [
         {
-          "title": "극한의 24시간 레이스 도전 담은 모터스포츠 다큐멘터리 ‘더 퍼스트 4’ 공개",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44650",
+          "title": "주행성능, 연비, EV 감성까지 갖춘 럭셔리 SUV, 제네시스 GV80 하이브리드",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44656",
           "source": "모터그래프",
-          "published": "2026-10-05T17:12:25+00:00"
+          "published": "2026-10-06T17:23:17+00:00"
         },
         {
           "title": "It’s now easier than ever to get your motorcycle license on an electric bike",
@@ -418,16 +418,16 @@
       "count": 22,
       "items": [
         {
+          "title": "카카오모빌리티-고려대, 모빌리티 플랫폼 기술로 국방 AX 가속화 나서",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48862",
+          "source": "로봇신문",
+          "published": "2026-10-06T17:33:21+00:00"
+        },
+        {
           "title": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing",
           "link": "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/",
           "source": "The Robot Report",
           "published": "2026-10-05T23:34:35+00:00"
-        },
-        {
-          "title": "‘젊은 로봇 공학자’ (93) 고려대 전기전자공학부 신희섭 교수",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48836",
-          "source": "로봇신문",
-          "published": "2026-10-05T22:42:06+00:00"
         },
         {
           "title": "FCC robot restrictions could accelerate shift to local AI",
@@ -557,10 +557,10 @@
       "count": 1,
       "items": [
         {
-          "title": "오픈AI, 28일 연속 '코덱스' 개선 예고...첫날부터 처리 속도 50% 향상",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215992",
+          "title": "'미국 오픈소스 대표' 리플렉션 AI, 첫 모델 공개…반응은 엇갈려",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215987",
           "source": "AI타임스",
-          "published": "2026-10-06T13:21:15+00:00"
+          "published": "2026-10-06T18:19:10+00:00"
         }
       ]
     }
