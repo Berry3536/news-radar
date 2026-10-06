@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T12:43:32.819547+00:00",
+  "generated_at": "2026-10-06T22:18:14.607904+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,16 +7,118 @@
       "count": 40,
       "items": [
         {
+          "title": "The Tesla Model 3 And Model Y Can Now Power Your Home In A Blackout",
+          "link": "https://insideevs.com/news/810989/tesla-model-y-model-3-home-backup-powershare/",
+          "source": "InsideEVs",
+          "published": "2026-10-06T22:03:18+00:00"
+        },
+        {
+          "title": "Fall Prime Day 2026 Green Deals: EVs, power stations, electric tools, smart devices, and much more",
+          "link": "https://electrek.co/2026/10/06/fall-prime-day-2026-deals-ebike-power-stations-electric-tools/",
+          "source": "Electrek",
+          "published": "2026-10-06T21:42:16+00:00"
+        },
+        {
+          "title": "US gas plant plans jump 44% in just 8 months – here’s why",
+          "link": "https://electrek.co/2026/10/06/us-gas-plant-plans-jump-44-in-just-8-months-heres-why/",
+          "source": "Electrek",
+          "published": "2026-10-06T21:19:12+00:00"
+        },
+        {
+          "title": "Ionna Wants To Teach Car Dealers How To Sell EVs",
+          "link": "https://insideevs.com/news/810966/ionna-charging-dealership-training/",
+          "source": "InsideEVs",
+          "published": "2026-10-06T21:06:26+00:00"
+        },
+        {
+          "title": "This electric minivan is bringing an ’80s icon back to life",
+          "link": "https://electrek.co/2026/10/06/electric-minivan-bringing-80s-icon-back-to-life/",
+          "source": "Electrek",
+          "published": "2026-10-06T21:02:27+00:00"
+        },
+        {
+          "title": "Mitsubishi's Clone Of The Nissan Leaf Isn't All That Cheap",
+          "link": "https://insideevs.com/news/810979/mitsubishi-eclipse-ev-more-expensive/",
+          "source": "InsideEVs",
+          "published": "2026-10-06T20:46:41+00:00"
+        },
+        {
+          "title": "Honda Will Test Wireless EV Chargers On The Highway In 2027",
+          "link": "https://insideevs.com/news/810955/honda-wireless-highway-ev-charging/",
+          "source": "InsideEVs",
+          "published": "2026-10-06T19:31:09+00:00"
+        },
+        {
+          "title": "Toyota shuts down rumors claiming that it’s ‘slashing prices’ in China",
+          "link": "https://electrek.co/2026/10/06/toyota-shuts-down-rumors-slashing-prices-china/",
+          "source": "Electrek",
+          "published": "2026-10-06T19:08:35+00:00"
+        },
+        {
+          "title": "Prime Day-1 Green Deals: Increased savings on Anker SOLIX and EcoFlow power stations, Segway e-scooters up to 37% off, ENGWE, more",
+          "link": "https://electrek.co/2026/10/06/prime-day-1-green-deals-anker-solix-ecoflow-power-stations-segway-e-scooters-engwe-more/",
+          "source": "Electrek",
+          "published": "2026-10-06T17:48:22+00:00"
+        },
+        {
           "title": "이틀 간 운영된 스포츠카 테마 파크, 2026 포르쉐 바이브 서울",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44664",
           "source": "모터그래프",
           "published": "2026-10-06T17:23:40+00:00"
         },
         {
-          "title": "Fall Prime Day 2026 Green Deals: EVs, power stations, electric tools, smart devices, and much more",
-          "link": "https://electrek.co/2026/10/06/fall-prime-day-2026-deals-ebike-power-stations-electric-tools/",
+          "title": "Mitsubishi’s new EV costs nearly $8,000 more than the Nissan LEAF",
+          "link": "https://electrek.co/2026/10/06/mitsubishis-new-ev-costs-8000-more-than-nissan-leaf/",
           "source": "Electrek",
-          "published": "2026-10-06T12:36:42+00:00"
+          "published": "2026-10-06T17:03:31+00:00"
+        },
+        {
+          "title": "Tesla Model 3 and Model Y can finally power your home",
+          "link": "https://electrek.co/2026/10/06/tesla-powershare-home-backup-model-3-model-y-powerwall-3/",
+          "source": "Electrek",
+          "published": "2026-10-06T16:57:17+00:00"
+        },
+        {
+          "title": "Even Russia Is Beating The U.S. In EV and PHEV Market Share",
+          "link": "https://insideevs.com/news/810941/russia-passes-america-ev-share/",
+          "source": "InsideEVs",
+          "published": "2026-10-06T16:47:23+00:00"
+        },
+        {
+          "title": "BMW’s new iX4 leaks days ahead of its debut [Images]",
+          "link": "https://electrek.co/2026/10/06/bmws-new-ix4-leaks-days-ahead-of-debut-images/",
+          "source": "Electrek",
+          "published": "2026-10-06T15:35:30+00:00"
+        },
+        {
+          "title": "Suzuki undercuts BYD with a $13,500 mini EV powered by BYD batteries",
+          "link": "https://electrek.co/2026/10/06/suzuki-undercuts-byd-13500-mini-ev-using-byd-batteries/",
+          "source": "Electrek",
+          "published": "2026-10-06T14:11:47+00:00"
+        },
+        {
+          "title": "Tesla sold under 1,000 cars in its first year in India, but it’s ramping",
+          "link": "https://electrek.co/2026/10/06/tesla-india-first-year-under-1000-cars-model-y-l-ramp/",
+          "source": "Electrek",
+          "published": "2026-10-06T13:58:28+00:00"
+        },
+        {
+          "title": "Kia EV3 first drive: the affordable EV we have been waiting for",
+          "link": "https://electrek.co/2026/10/06/kia-ev3-first-drive-affordable-ev/",
+          "source": "Electrek",
+          "published": "2026-10-06T13:28:02+00:00"
+        },
+        {
+          "title": "This funky solar electric scooter could handle your commute without ever plugging in",
+          "link": "https://electrek.co/2026/10/06/this-funky-solar-electric-scooter-could-handle-your-commute-without-ever-plugging-in/",
+          "source": "Electrek",
+          "published": "2026-10-06T13:11:43+00:00"
+        },
+        {
+          "title": "I Drove the $30,000 Kia EV3—And It Might Be the Best Value EV Yet",
+          "link": "https://insideevs.com/reviews/810861/kia-ev3-review-drive-best-affordable-ev/",
+          "source": "InsideEVs",
+          "published": "2026-10-06T13:01:00+00:00"
         },
         {
           "title": "Renault’s E-Space Concept Brings Back The Minivan With A 1980s-Inspired Twist",
@@ -143,116 +245,26 @@
           "link": "https://insideevs.com/news/810777/bmw-m3-ev-teaser-production/",
           "source": "InsideEVs",
           "published": "2026-10-05T11:32:19+00:00"
-        },
-        {
-          "title": "The Jeep Recon EV Went Just 160 Miles In A Highway Range Test",
-          "link": "https://insideevs.com/news/810756/jeep-recon-highway-range-test-75-mph/",
-          "source": "InsideEVs",
-          "published": "2026-10-05T09:23:03+00:00"
-        },
-        {
-          "title": "Mazda’s New EV SUV Can Tell Pedestrians Whatever You Want—Even Naughty Words",
-          "link": "https://insideevs.com/news/810746/mazda-cx-6e-ev-external-speaker-bad-words/",
-          "source": "InsideEVs",
-          "published": "2026-10-05T08:33:12+00:00"
-        },
-        {
-          "title": "Tough times for Audi, VW, and Porsche could make October a great time to buy",
-          "link": "https://electrek.co/2026/10/04/tough-times-for-audi-vw-and-porsche-make-make-october-a-great-time-to-buy/",
-          "source": "Electrek",
-          "published": "2026-10-04T15:15:00+00:00"
-        },
-        {
-          "title": "Autonomous Orange: YMX adds self-driving tech to its electric yard trucks",
-          "link": "https://electrek.co/2026/10/04/autonomous-orange-ymx-adds-outrider-self-driving-tech-to-its-electric-yard-trucks/",
-          "source": "Electrek",
-          "published": "2026-10-04T13:48:54+00:00"
-        },
-        {
-          "title": "The Genesis GV60 Magma Is One Of The Quirkiest Performance EVs On Sale",
-          "link": "https://insideevs.com/news/810490/genesis-gv60-magma-doug-demuro/",
-          "source": "InsideEVs",
-          "published": "2026-10-04T13:00:00+00:00"
-        },
-        {
-          "title": "Here's What's Good (And Bad) About Owning An Audi E-Tron GT",
-          "link": "https://insideevs.com/news/810658/audi-e-tron-gt-owner-review/",
-          "source": "InsideEVs",
-          "published": "2026-10-04T12:00:00+00:00"
-        },
-        {
-          "title": "Rivian’s delayed ALSO e-bikes are finally arriving to first customers, with mixed early feedback",
-          "link": "https://electrek.co/2026/10/04/rivians-delayed-also-e-bikes-are-finally-arriving-to-first-customers-with-mixed-early-feedback/",
-          "source": "Electrek",
-          "published": "2026-10-04T11:42:00+00:00"
-        },
-        {
-          "title": "Hasta la vista, baby – Figure F.02 humanoid robots decommissioned, T2-style",
-          "link": "https://electrek.co/2026/10/03/hasta-la-vista-baby-figure-f-02-humanoid-robots-decommissioned-t2-style/",
-          "source": "Electrek",
-          "published": "2026-10-03T19:31:13+00:00"
-        },
-        {
-          "title": "China Wants Mass-Produced Solid-State Batteries By 2030. CATL Knows That's Hard",
-          "link": "https://insideevs.com/news/810656/china-solid-state-batteries-2030/",
-          "source": "InsideEVs",
-          "published": "2026-10-03T15:00:00+00:00"
-        },
-        {
-          "title": "Musk explains why Tesla Robotaxi is not running at night, and lidar is the answer",
-          "link": "https://electrek.co/2026/10/03/tesla-robotaxi-pets-night-musk-lidar/",
-          "source": "Electrek",
-          "published": "2026-10-03T14:36:59+00:00"
-        },
-        {
-          "title": "I tried taking the budget-priced Ride1Up Roadster V3 e-bike off-roading. Here’s what happened next",
-          "link": "https://electrek.co/2026/10/03/i-took-the-budget-priced-ride1up-roadster-v3-e-bike-offroading-heres-what-happened-next/",
-          "source": "Electrek",
-          "published": "2026-10-03T13:26:52+00:00"
-        },
-        {
-          "title": "FedEx believes $300M electric truck spend will save them $800M in diesel",
-          "link": "https://electrek.co/2026/10/03/fedex-believes-300m-electric-truck-spend-will-save-them-800m-in-diesel/",
-          "source": "Electrek",
-          "published": "2026-10-03T12:54:10+00:00"
-        },
-        {
-          "title": "The 2027 Cadillac Escalade IQ Gets A NACS Port And Faster Home Charging",
-          "link": "https://insideevs.com/news/810603/2027-cadillac-escalade-nacs-home-charging-upgrade/",
-          "source": "InsideEVs",
-          "published": "2026-10-03T12:00:00+00:00"
-        },
-        {
-          "title": "Watt’s up, doc? Huddig hybrid loader gets a big battery boost [video]",
-          "link": "https://electrek.co/2026/10/03/watts-up-doc-huddig-hybrid-loader-gets-a-big-battery-boost-video/",
-          "source": "Electrek",
-          "published": "2026-10-03T11:58:43+00:00"
-        },
-        {
-          "title": "Is The BMW i3's 468-Mile Range Overkill?",
-          "link": "https://insideevs.com/features/810672/bmw-i3-cafe-chevy-bolt-ev-podcast/",
-          "source": "InsideEVs",
-          "published": "2026-10-02T21:45:32+00:00"
-        },
-        {
-          "title": "Kia sweetens EV deals with up to $10,000 off",
-          "link": "https://electrek.co/2026/10/02/kia-sweetens-ev-deals-10000-off/",
-          "source": "Electrek",
-          "published": "2026-10-02T21:06:34+00:00"
-        },
-        {
-          "title": "Ford backs a big new solar farm for its Michigan factories",
-          "link": "https://electrek.co/2026/10/02/ford-backs-a-big-new-solar-farm-for-its-michigan-factories/",
-          "source": "Electrek",
-          "published": "2026-10-02T19:52:03+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 19,
+      "count": 20,
       "items": [
+        {
+          "title": "Suzuki undercuts BYD with a $13,500 mini EV powered by BYD batteries",
+          "link": "https://electrek.co/2026/10/06/suzuki-undercuts-byd-13500-mini-ev-using-byd-batteries/",
+          "source": "Electrek",
+          "published": "2026-10-06T14:11:47+00:00"
+        },
+        {
+          "title": "Kia EV3 first drive: the affordable EV we have been waiting for",
+          "link": "https://electrek.co/2026/10/06/kia-ev3-first-drive-affordable-ev/",
+          "source": "Electrek",
+          "published": "2026-10-06T13:28:02+00:00"
+        },
         {
           "title": "Not sold on Tesla Powerwall? There are great battery alternatives out there [update]",
           "link": "https://electrek.co/2026/10/05/not-sold-on-tesla-powerwall-there-are-some-great-home-battery-alternatives-out-there/",
@@ -360,25 +372,25 @@
           "link": "https://electrek.co/2026/09/28/eia-83-gw-of-renewables-and-storage-coming-in-12-months-as-fossil-fuel-capacity-to-fall/",
           "source": "Electrek",
           "published": "2026-09-28T19:25:33+00:00"
-        },
-        {
-          "title": "NIO sells 30% of battery swap unit to Geely at more than $2 billion",
-          "link": "https://electrek.co/2026/09/27/nio-power-geely-30-stake-battery-swap-rmb16-billion/",
-          "source": "Electrek",
-          "published": "2026-09-28T01:08:29+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 6,
+      "count": 7,
       "items": [
         {
           "title": "주행성능, 연비, EV 감성까지 갖춘 럭셔리 SUV, 제네시스 GV80 하이브리드",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44656",
           "source": "모터그래프",
           "published": "2026-10-06T17:23:17+00:00"
+        },
+        {
+          "title": "This funky solar electric scooter could handle your commute without ever plugging in",
+          "link": "https://electrek.co/2026/10/06/this-funky-solar-electric-scooter-could-handle-your-commute-without-ever-plugging-in/",
+          "source": "Electrek",
+          "published": "2026-10-06T13:11:43+00:00"
         },
         {
           "title": "It’s now easier than ever to get your motorcycle license on an electric bike",
@@ -415,13 +427,43 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 22,
+      "count": 21,
       "items": [
+        {
+          "title": "Boston Dynamics appoints former Amazon exec Rohit Prasad as new CEO",
+          "link": "https://www.therobotreport.com/boston-dynamics-appoints-former-amazon-executive-rohit-prasad-new-ceo/",
+          "source": "The Robot Report",
+          "published": "2026-10-06T21:00:30+00:00"
+        },
+        {
+          "title": "Pegasus 1.6 brings video understanding to physical AI, says TwelveLabs",
+          "link": "https://www.therobotreport.com/pegasus-1-6-brings-video-understanding-physical-ai-says-twelvelabs/",
+          "source": "The Robot Report",
+          "published": "2026-10-06T20:07:48+00:00"
+        },
+        {
+          "title": "Sovereign AI, same landlord — thoughts on the physical AI race",
+          "link": "https://www.therobotreport.com/sovereign-ai-same-landlord-thoughts-physical-ai-race/",
+          "source": "The Robot Report",
+          "published": "2026-10-06T17:47:50+00:00"
+        },
         {
           "title": "카카오모빌리티-고려대, 모빌리티 플랫폼 기술로 국방 AX 가속화 나서",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48862",
           "source": "로봇신문",
           "published": "2026-10-06T17:33:21+00:00"
+        },
+        {
+          "title": "FireDome builds autonomous ‘artillery’ for wildfire defense",
+          "link": "https://www.therobotreport.com/firedome-builds-autonomous-artillery-for-wildfire-defense/",
+          "source": "The Robot Report",
+          "published": "2026-10-06T16:00:31+00:00"
+        },
+        {
+          "title": "Overview AI launches OV Spark line of AI inspection cameras",
+          "link": "https://www.therobotreport.com/overview-ai-launches-ov-spark-line-ai-inspection-cameras/",
+          "source": "The Robot Report",
+          "published": "2026-10-06T14:51:48+00:00"
         },
         {
           "title": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing",
@@ -490,40 +532,10 @@
           "published": "2026-10-01T17:52:51+00:00"
         },
         {
-          "title": "Precision In Motion. Vishay Precision Group, Inc. (VPG) to Showcase Custom Sensing Capabilities for Humanoid Robotics at RoboBusiness 2026",
-          "link": "https://www.therobotreport.com/precision-in-motion-vishay-precision-group-inc-vpg-to-showcase-custom-sensing-capabilities-for-humanoid-robotics-at-robobusiness-2026/",
-          "source": "The Robot Report",
-          "published": "2026-10-01T15:29:55+00:00"
-        },
-        {
-          "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
-          "link": "https://www.therobotreport.com/your-robots-safety-functions-already-work-what-if-the-input-lies/",
-          "source": "The Robot Report",
-          "published": "2026-10-01T15:02:19+00:00"
-        },
-        {
           "title": "Atlas Robot’s New Hand May Outperform Humanlike Designs",
           "link": "https://spectrum.ieee.org/robust-robot-hand",
           "source": "IEEE Spectrum",
           "published": "2026-10-01T14:40:12+00:00"
-        },
-        {
-          "title": "How Maven Robotics plans to automate industrial work, one task at a time",
-          "link": "https://www.therobotreport.com/how-maven-robotics-plans-automate-industrial-work-one-task-at-a-time/",
-          "source": "The Robot Report",
-          "published": "2026-10-01T12:30:39+00:00"
-        },
-        {
-          "title": "ANYbotics launches Shift to streamline robot fleet operations, scale inspections",
-          "link": "https://www.therobotreport.com/anybotics-launches-shift-streamline-robot-fleet-operations-scale-autonomous-inspections/",
-          "source": "The Robot Report",
-          "published": "2026-10-01T07:59:59+00:00"
-        },
-        {
-          "title": "The Robot Report parent Arrowfly launches AI for Engineers platform, events for engineers navigating AI",
-          "link": "https://www.therobotreport.com/robot-report-parent-arrowfly-launches-ai-for-engineers-platform-events-engineers-navigating-ai/",
-          "source": "The Robot Report",
-          "published": "2026-09-30T14:03:31+00:00"
         },
         {
           "title": "A Day in the Life of a Roboticist: Charlie Kemp",
@@ -542,12 +554,6 @@
           "link": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
           "source": "IEEE Spectrum",
           "published": "2026-09-24T18:00:04+00:00"
-        },
-        {
-          "title": "Barbara Mazzolai Wants to Build a New Field of Robotics",
-          "link": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
-          "source": "IEEE Spectrum",
-          "published": "2026-09-22T14:00:04+00:00"
         }
       ]
     },
@@ -557,10 +563,10 @@
       "count": 1,
       "items": [
         {
-          "title": "'미국 오픈소스 대표' 리플렉션 AI, 첫 모델 공개…반응은 엇갈려",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215987",
+          "title": "[10월6일] “아모데이와 같은 방향이라더니”…알트먼, “앤트로픽과 근본적으로 다르다”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215995",
           "source": "AI타임스",
-          "published": "2026-10-06T18:19:10+00:00"
+          "published": "2026-10-07T07:00:00+00:00"
         }
       ]
     }
