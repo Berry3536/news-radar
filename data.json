@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-10-08T04:26:26.031191+00:00",
+  "generated_at": "2026-10-08T12:47:17.501913+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "귀찮을 때는 Ai에게 물어 봐",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44666",
+          "source": "모터그래프",
+          "published": "2026-10-08T16:57:47+00:00"
+        },
+        {
+          "title": "The BMW iX3 Gets 603 HP. And M Isn’t Finished Yet",
+          "link": "https://insideevs.com/news/811120/bmw-ix3-m60-603-horsepower-yellow-headlights/",
+          "source": "InsideEVs",
+          "published": "2026-10-08T07:07:51+00:00"
+        },
         {
           "title": "Shore power dramatically cuts emissions at ports – but will anyone use it?",
           "link": "https://electrek.co/2026/10/07/shore-power-dramatically-cuts-emissions-at-ports-but-will-anyone-use-it/",
@@ -95,12 +107,6 @@
           "link": "https://insideevs.com/news/811088/tesla-fsd-gains-support-germany/",
           "source": "InsideEVs",
           "published": "2026-10-07T17:18:35+00:00"
-        },
-        {
-          "title": "컨슈머인사이트 2026 올해의 차, 렉서스 ES 300h 종합 1위, NX SUV 부문 1위",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44677",
-          "source": "모터그래프",
-          "published": "2026-10-07T17:06:44+00:00"
         },
         {
           "title": "California offers up to $100,000 per port for EV fast chargers",
@@ -239,12 +245,6 @@
           "link": "https://electrek.co/2026/10/06/toyota-shuts-down-rumors-slashing-prices-china/",
           "source": "Electrek",
           "published": "2026-10-06T19:08:35+00:00"
-        },
-        {
-          "title": "Prime Day-1 Green Deals: Increased savings on Anker SOLIX and EcoFlow power stations, Segway e-scooters up to 37% off, ENGWE, more",
-          "link": "https://electrek.co/2026/10/06/prime-day-1-green-deals-anker-solix-ecoflow-power-stations-segway-e-scooters-engwe-more/",
-          "source": "Electrek",
-          "published": "2026-10-06T17:48:22+00:00"
         }
       ]
     },
@@ -366,8 +366,14 @@
     {
       "key": "motor",
       "label": "모터",
-      "count": 7,
+      "count": 8,
       "items": [
+        {
+          "title": "The BMW iX3 Gets 603 HP. And M Isn’t Finished Yet",
+          "link": "https://insideevs.com/news/811120/bmw-ix3-m60-603-horsepower-yellow-headlights/",
+          "source": "InsideEVs",
+          "published": "2026-10-08T07:07:51+00:00"
+        },
         {
           "title": "This e-bike fits seven riders, and that’s not even the craziest thing about it",
           "link": "https://electrek.co/2026/10/07/this-e-bike-fits-seven-riders-and-thats-not-even-the-craziest-thing-about-it/",
@@ -415,13 +421,19 @@
     {
       "key": "robot",
       "label": "로봇",
-      "count": 22,
+      "count": 23,
       "items": [
         {
-          "title": "휴머노이드 시대, 피지컬 AI만으로 충분한가? (7) 판단에서 실행까지 – Physical x Social 통합 아키텍처",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48883",
+          "title": "한국섬유기계융합연구원, ‘2026년 첨단제조로봇 실증' 중간점검회 개최",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48910",
           "source": "로봇신문",
-          "published": "2026-10-08T11:25:47+00:00"
+          "published": "2026-10-08T17:45:25+00:00"
+        },
+        {
+          "title": "This Disembodied Hand Is All the Robot You Need",
+          "link": "https://spectrum.ieee.org/walking-robotic-hand",
+          "source": "IEEE Spectrum",
+          "published": "2026-10-08T12:00:02+00:00"
         },
         {
           "title": "PTC acquisition positions Schneider Electric to challenge Siemens",
@@ -557,10 +569,10 @@
       "count": 40,
       "items": [
         {
-          "title": "스페이스X, AI 칩 구매에 53조 조달 추진...GPU 121만개 확보 나선다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216061",
+          "title": "구글, 텍스트 입력으로 게임 만드는 플랫폼 공개…유니티와 협력",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216076",
           "source": "AI타임스",
-          "published": "2026-10-08T12:58:02+00:00"
+          "published": "2026-10-08T17:12:53+00:00"
         },
         {
           "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
