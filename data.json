@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T12:47:17.501913+00:00",
+  "generated_at": "2026-10-08T22:51:48.673912+00:00",
   "categories": [
     {
       "key": "ev",
@@ -7,13 +7,109 @@
       "count": 40,
       "items": [
         {
+          "title": "VW ID.4 Recalled Over Fire Risk, Owners Told Not To Charge Past 80%",
+          "link": "https://insideevs.com/news/811244/vw-id4-battery-fire-recall/",
+          "source": "InsideEVs",
+          "published": "2026-10-08T22:10:27+00:00"
+        },
+        {
+          "title": "The Hyundai IONIQ 7 is coming as a big sibling to the IONIQ 5",
+          "link": "https://electrek.co/2026/10/08/hyundai-ioniq-7-coming-big-sibling-to-ioniq-5/",
+          "source": "Electrek",
+          "published": "2026-10-08T21:14:45+00:00"
+        },
+        {
+          "title": "Nissan's New Plug-In Hybrid Pickup Is Part Of A Much Bigger China Trend",
+          "link": "https://insideevs.com/news/811236/navara-pro-phev-mexico-world/",
+          "source": "InsideEVs",
+          "published": "2026-10-08T21:01:40+00:00"
+        },
+        {
+          "title": "Rivian brings Ghostbusters to its vehicles in 2026 Halloween update",
+          "link": "https://electrek.co/2026/10/08/rivian-brings-ghostbusters-to-its-vehicles-in-2026-halloween-update/",
+          "source": "Electrek",
+          "published": "2026-10-08T20:00:00+00:00"
+        },
+        {
+          "title": "BYD reveals tech-savvy 5-seat SUV interior with two massive 30-inch+ screens",
+          "link": "https://electrek.co/2026/10/08/byd-reveals-tech-savvy-5-seat-suv-interior-with-two-30-screens/",
+          "source": "Electrek",
+          "published": "2026-10-08T19:39:22+00:00"
+        },
+        {
+          "title": "Polestar Sales Are Booming. Thank The Country That Just Banned It",
+          "link": "https://insideevs.com/news/811238/polestar-q3-2026-sales-report/",
+          "source": "InsideEVs",
+          "published": "2026-10-08T19:37:24+00:00"
+        },
+        {
+          "title": "The 2027 Chevy Bolt Can Drive Farther Than You Think At 60 MPH",
+          "link": "https://insideevs.com/news/811230/chevy-bolt-60-mph-range/",
+          "source": "InsideEVs",
+          "published": "2026-10-08T18:26:21+00:00"
+        },
+        {
+          "title": "EcoFlow 2x 1,024Wh DELTA 3 Classic power stations $889, Segway extended 50% off e-scooter sale, Anker SOLIX, EGO, much more",
+          "link": "https://electrek.co/2026/10/08/ecoflow-1024wh-delta-3-classic-power-stations-segway-e-scooter-sale-anker-solix-ego-more/",
+          "source": "Electrek",
+          "published": "2026-10-08T18:00:00+00:00"
+        },
+        {
+          "title": "Volkswagen recalls more than 22,500 ID.4 EVs and tells owners to charge to just 80%",
+          "link": "https://electrek.co/2026/10/08/volkswagen-recalls-22500-id-4-evs-tells-owners-charge-to-80/",
+          "source": "Electrek",
+          "published": "2026-10-08T17:59:54+00:00"
+        },
+        {
+          "title": "Rivian R2's Ventilated Seats Just Got Downgraded. Buyers Are Outraged",
+          "link": "https://insideevs.com/news/811213/rivian-seat-ventilation-internet-uproar/",
+          "source": "InsideEVs",
+          "published": "2026-10-08T17:51:26+00:00"
+        },
+        {
+          "title": "BMW adds new iX3 M60 xDrive with 603 hp and ‘extensive’ M upgrades",
+          "link": "https://electrek.co/2026/10/08/bmw-adds-ix3-m60-xdrive-603-hp-extensive-m-upgrades/",
+          "source": "Electrek",
+          "published": "2026-10-08T17:07:22+00:00"
+        },
+        {
+          "title": "Tesla Supplier Reports Record Earnings From EV And Energy Storage Batteries",
+          "link": "https://insideevs.com/news/811218/lges-record-ev-ess-battery-sales/",
+          "source": "InsideEVs",
+          "published": "2026-10-08T16:58:19+00:00"
+        },
+        {
           "title": "귀찮을 때는 Ai에게 물어 봐",
           "link": "https://www.motorgraph.com/news/articleView.html?idxno=44666",
           "source": "모터그래프",
           "published": "2026-10-08T16:57:47+00:00"
         },
         {
-          "title": "The BMW iX3 Gets 603 HP. And M Isn’t Finished Yet",
+          "title": "VinFast plans US electric buses – and it’ll handle more than the ride",
+          "link": "https://electrek.co/2026/10/08/vinfast-plans-us-electric-buses-and-itll-handle-more-than-the-ride/",
+          "source": "Electrek",
+          "published": "2026-10-08T15:40:26+00:00"
+        },
+        {
+          "title": "Tesla files permit for Semi service center in Las Vegas as ramp begins",
+          "link": "https://electrek.co/2026/10/08/tesla-semi-service-center-las-vegas-permit/",
+          "source": "Electrek",
+          "published": "2026-10-08T15:20:05+00:00"
+        },
+        {
+          "title": "BMW’s new iX4 has 428 miles of range, but it starts at north of $66,000 [Images]",
+          "link": "https://electrek.co/2026/10/08/bmws-new-ix4-428-miles-range-66000-price-tag/",
+          "source": "Electrek",
+          "published": "2026-10-08T15:02:30+00:00"
+        },
+        {
+          "title": "Tesla leaned on Dutch regulator to ease its FSD review, emails show",
+          "link": "https://electrek.co/2026/10/08/tesla-fsd-europe-rdw-pressure-reuters/",
+          "source": "Electrek",
+          "published": "2026-10-08T13:57:06+00:00"
+        },
+        {
+          "title": "The BMW iX3 M60 Gets 603 Horsepower And Yellow Lights",
           "link": "https://insideevs.com/news/811120/bmw-ix3-m60-603-horsepower-yellow-headlights/",
           "source": "InsideEVs",
           "published": "2026-10-08T07:07:51+00:00"
@@ -43,7 +139,7 @@
           "published": "2026-10-07T21:39:34+00:00"
         },
         {
-          "title": "Fall Prime Day 2026 Green Deals: EVs, power stations, electric tools, smart devices, and much more",
+          "title": "Extended Fall Prime Day 2026 Green Deals: EVs, power stations, electric tools, smart devices, and much more [Updated]",
           "link": "https://electrek.co/2026/10/07/fall-prime-day-2026-deals-ebike-power-stations-electric-tools/",
           "source": "Electrek",
           "published": "2026-10-07T21:09:35+00:00"
@@ -149,110 +245,32 @@
           "link": "https://electrek.co/2026/10/07/e-bikes-are-causing-a-surprising-new-problem-in-europe/",
           "source": "Electrek",
           "published": "2026-10-07T14:36:59+00:00"
-        },
-        {
-          "title": "Hyundai shelves IONIQ 3 launch in Australia as cheaper Chinese EVs take over",
-          "link": "https://electrek.co/2026/10/07/hyundai-cancels-ioniq-3-australia-over-cheap-chinese-evs/",
-          "source": "Electrek",
-          "published": "2026-10-07T13:50:00+00:00"
-        },
-        {
-          "title": "E-quipment highlight: AMT’s hot-swapping battery electric rail excavator",
-          "link": "https://electrek.co/2026/10/07/e-quipment-highlight-amts-hot-swapping-battery-electric-rail-excavator/",
-          "source": "Electrek",
-          "published": "2026-10-07T12:42:13+00:00"
-        },
-        {
-          "title": "Dodge Charger Daytona EV Sales Crater: Less Than 800 Deliveries This Year",
-          "link": "https://insideevs.com/news/811029/dodge-charger-daytona-ev-sales-q3-2026-us-crater/",
-          "source": "InsideEVs",
-          "published": "2026-10-07T09:09:04+00:00"
-        },
-        {
-          "title": "Porsche Just Killed Its Plans For A Gas-Powered 718",
-          "link": "https://insideevs.com/news/811014/porsche-718-ev-only-official-2027/",
-          "source": "InsideEVs",
-          "published": "2026-10-07T07:37:53+00:00"
-        },
-        {
-          "title": "Jaguar’s new Type 01 EV looks like a comic book villain would drive it",
-          "link": "https://electrek.co/2026/10/06/jaguars-controversial-type-01-ev-looks-like-a-comic-book-villain-would-drive-it/",
-          "source": "Electrek",
-          "published": "2026-10-07T03:55:31+00:00"
-        },
-        {
-          "title": "Jaguar Heard The Rebrand Haters. It Doesn't Think They're Its Customers",
-          "link": "https://insideevs.com/news/810986/jaguar-culture-war-result-ad/",
-          "source": "InsideEVs",
-          "published": "2026-10-07T00:01:00+00:00"
-        },
-        {
-          "title": "Jaguar Says America Is The Most Important Market For Its New Electric Sedan",
-          "link": "https://insideevs.com/news/810951/type-01-sedan-jaguar-important/",
-          "source": "InsideEVs",
-          "published": "2026-10-07T00:01:00+00:00"
-        },
-        {
-          "title": "The Jaguar Type 01 Won't Be The Only Model To Look Like This",
-          "link": "https://insideevs.com/news/810950/jaguar-new-model-coming-soon/",
-          "source": "InsideEVs",
-          "published": "2026-10-07T00:01:00+00:00"
-        },
-        {
-          "title": "The Jaguar Type 01 Is A 1,000-horsepower Beast. But It Isn’t For Everyone",
-          "link": "https://insideevs.com/news/810839/jaguar-type-01-launch-ev/",
-          "source": "InsideEVs",
-          "published": "2026-10-07T00:01:00+00:00"
-        },
-        {
-          "title": "The Tesla Model 3 And Model Y Can Now Power Your Home In A Blackout",
-          "link": "https://insideevs.com/news/810989/tesla-model-y-model-3-home-backup-powershare/",
-          "source": "InsideEVs",
-          "published": "2026-10-06T22:03:18+00:00"
-        },
-        {
-          "title": "US gas plant plans jump 44% in just 8 months – here’s why",
-          "link": "https://electrek.co/2026/10/06/us-gas-plant-plans-jump-44-in-just-8-months-heres-why/",
-          "source": "Electrek",
-          "published": "2026-10-06T21:19:12+00:00"
-        },
-        {
-          "title": "Ionna Wants To Teach Car Dealers How To Sell EVs",
-          "link": "https://insideevs.com/news/810966/ionna-charging-dealership-training/",
-          "source": "InsideEVs",
-          "published": "2026-10-06T21:06:26+00:00"
-        },
-        {
-          "title": "This electric minivan is bringing an ’80s icon back to life",
-          "link": "https://electrek.co/2026/10/06/electric-minivan-bringing-80s-icon-back-to-life/",
-          "source": "Electrek",
-          "published": "2026-10-06T21:02:27+00:00"
-        },
-        {
-          "title": "Mitsubishi's Clone Of The Nissan Leaf Isn't All That Cheap",
-          "link": "https://insideevs.com/news/810979/mitsubishi-eclipse-ev-more-expensive/",
-          "source": "InsideEVs",
-          "published": "2026-10-06T20:46:41+00:00"
-        },
-        {
-          "title": "Honda Will Test Wireless EV Chargers On The Highway In 2027",
-          "link": "https://insideevs.com/news/810955/honda-wireless-highway-ev-charging/",
-          "source": "InsideEVs",
-          "published": "2026-10-06T19:31:09+00:00"
-        },
-        {
-          "title": "Toyota shuts down rumors claiming that it’s ‘slashing prices’ in China",
-          "link": "https://electrek.co/2026/10/06/toyota-shuts-down-rumors-slashing-prices-china/",
-          "source": "Electrek",
-          "published": "2026-10-06T19:08:35+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 18,
+      "count": 19,
       "items": [
+        {
+          "title": "VW ID.4 Recalled Over Fire Risk, Owners Told Not To Charge Past 80%",
+          "link": "https://insideevs.com/news/811244/vw-id4-battery-fire-recall/",
+          "source": "InsideEVs",
+          "published": "2026-10-08T22:10:27+00:00"
+        },
+        {
+          "title": "Volkswagen recalls more than 22,500 ID.4 EVs and tells owners to charge to just 80%",
+          "link": "https://electrek.co/2026/10/08/volkswagen-recalls-22500-id-4-evs-tells-owners-charge-to-80/",
+          "source": "Electrek",
+          "published": "2026-10-08T17:59:54+00:00"
+        },
+        {
+          "title": "Tesla Supplier Reports Record Earnings From EV And Energy Storage Batteries",
+          "link": "https://insideevs.com/news/811218/lges-record-ev-ess-battery-sales/",
+          "source": "InsideEVs",
+          "published": "2026-10-08T16:58:19+00:00"
+        },
         {
           "title": "BYD’s ultra-luxury EV sedan with coach doors spotted ahead of imminent debut [Video]",
           "link": "https://electrek.co/2026/10/07/byds-ultra-luxury-ev-coach-doors-spotted-ahead-of-debut/",
@@ -348,28 +366,16 @@
           "link": "https://electrek.co/2026/09/30/monarc-smart-e-bikes-ecoflow-power-station-flash-sale-anker-solix-e10-worx-more/",
           "source": "Electrek",
           "published": "2026-09-30T18:00:00+00:00"
-        },
-        {
-          "title": "BYD tests new ultra-luxury EV with coach doors and a solid-state battery",
-          "link": "https://electrek.co/2026/09/29/byd-tests-ultra-luxury-ev-coach-doors-solid-state-battery/",
-          "source": "Electrek",
-          "published": "2026-09-29T20:49:14+00:00"
-        },
-        {
-          "title": "GM’s new EV battery tech will cut costs without sacrificing performance or range",
-          "link": "https://electrek.co/2026/09/29/gms-new-ev-battery-tech-cut-costs-without-sacrificing-range/",
-          "source": "Electrek",
-          "published": "2026-09-29T19:23:35+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 8,
+      "count": 7,
       "items": [
         {
-          "title": "The BMW iX3 Gets 603 HP. And M Isn’t Finished Yet",
+          "title": "The BMW iX3 M60 Gets 603 Horsepower And Yellow Lights",
           "link": "https://insideevs.com/news/811120/bmw-ix3-m60-603-horsepower-yellow-headlights/",
           "source": "InsideEVs",
           "published": "2026-10-08T07:07:51+00:00"
@@ -409,25 +415,43 @@
           "link": "https://electrek.co/2026/10/02/ride1up-just-launched-a-28-mph-german-mid-drive-e-bike-for-an-insanely-low-1295/",
           "source": "Electrek",
           "published": "2026-10-02T11:16:00+00:00"
-        },
-        {
-          "title": "Range Rover Sport EV orders open at nearly $150,000 with up to 378 miles of range",
-          "link": "https://electrek.co/2026/09/30/range-rover-sport-ev-orders-open-nearly-150000-378-miles-range/",
-          "source": "Electrek",
-          "published": "2026-09-30T14:36:45+00:00"
         }
       ]
     },
     {
       "key": "robot",
       "label": "로봇",
-      "count": 23,
+      "count": 22,
       "items": [
+        {
+          "title": "SafeWorld emerges from stealth to build, deploy robot safety simulation technologies",
+          "link": "https://www.therobotreport.com/safeworld-emerges-stealth-build-deploy-robot-safety-simulation-technologies/",
+          "source": "The Robot Report",
+          "published": "2026-10-08T21:09:48+00:00"
+        },
         {
           "title": "한국섬유기계융합연구원, ‘2026년 첨단제조로봇 실증' 중간점검회 개최",
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48910",
           "source": "로봇신문",
           "published": "2026-10-08T17:45:25+00:00"
+        },
+        {
+          "title": "Jabil discusses the pace of humanoid robot development and production",
+          "link": "https://www.therobotreport.com/jabil-discusses-pace-humanoid-robot-development-production/",
+          "source": "The Robot Report",
+          "published": "2026-10-08T16:16:21+00:00"
+        },
+        {
+          "title": "Helm.ai reaches $70M in signed commercial contracts for its foundation models",
+          "link": "https://www.therobotreport.com/helm-ai-reaches-70m-signed-commercial-contracts-foundation-models/",
+          "source": "The Robot Report",
+          "published": "2026-10-08T15:55:31+00:00"
+        },
+        {
+          "title": "AWS launches open-source Physical AI Toolchain for robotics",
+          "link": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
+          "source": "The Robot Report",
+          "published": "2026-10-08T13:23:58+00:00"
         },
         {
           "title": "This Disembodied Hand Is All the Robot You Need",
@@ -508,30 +532,6 @@
           "published": "2026-10-04T12:52:11+00:00"
         },
         {
-          "title": "The physical AI race will be won in the patent office",
-          "link": "https://www.therobotreport.com/physical-ai-race-will-be-won-in-patent-office/",
-          "source": "The Robot Report",
-          "published": "2026-10-03T14:30:07+00:00"
-        },
-        {
-          "title": "Inside Omron’s next-generation LD mobile robots",
-          "link": "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots/",
-          "source": "The Robot Report",
-          "published": "2026-10-02T23:01:36+00:00"
-        },
-        {
-          "title": "Eli Lilly, Purdue to share field learnings on human robot interaction at RoboBusiness",
-          "link": "https://www.therobotreport.com/eli-lilly-purdue-to-share-field-learnings-on-human-robot-interaction-at-robobusiness/",
-          "source": "The Robot Report",
-          "published": "2026-10-02T21:12:14+00:00"
-        },
-        {
-          "title": "Runway introduces Praxis-1 world action model for robotics",
-          "link": "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics/",
-          "source": "The Robot Report",
-          "published": "2026-10-02T18:32:13+00:00"
-        },
-        {
           "title": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away",
           "link": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
           "source": "IEEE Spectrum",
@@ -554,12 +554,6 @@
           "link": "https://spectrum.ieee.org/video-friday-goose-household-robots",
           "source": "IEEE Spectrum",
           "published": "2026-09-25T16:00:04+00:00"
-        },
-        {
-          "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
-          "link": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
-          "source": "IEEE Spectrum",
-          "published": "2026-09-24T18:00:04+00:00"
         }
       ]
     },
@@ -569,10 +563,10 @@
       "count": 40,
       "items": [
         {
-          "title": "구글, 텍스트 입력으로 게임 만드는 플랫폼 공개…유니티와 협력",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216076",
+          "title": "[10월8일] “수학 문제 4000개에 AI 투입해 성과”…오픈AI가 보여준 과학연구의 변화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216072",
           "source": "AI타임스",
-          "published": "2026-10-08T17:12:53+00:00"
+          "published": "2026-10-09T07:00:00+00:00"
         },
         {
           "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
