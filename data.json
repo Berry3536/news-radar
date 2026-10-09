@@ -1,11 +1,53 @@
 {
-  "generated_at": "2026-10-09T04:30:33.360077+00:00",
+  "generated_at": "2026-10-09T12:32:46.711762+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "진정한 세그먼트 파괴자, 8세대 아반떼",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44693",
+          "source": "모터그래프",
+          "published": "2026-10-09T17:06:15+00:00"
+        },
+        {
+          "title": "California Is Paying Up To $100,000 For A Single Public EV Charging Port",
+          "link": "https://insideevs.com/news/811341/california-ev-charger-installation-incentives-100000-usd/",
+          "source": "InsideEVs",
+          "published": "2026-10-09T11:46:06+00:00"
+        },
+        {
+          "title": "Rivian EVs Are Becoming Ghostbusters This Halloween",
+          "link": "https://insideevs.com/news/811328/rivian-halloween-mode-2026-ghostbusters-software/",
+          "source": "InsideEVs",
+          "published": "2026-10-09T10:12:41+00:00"
+        },
+        {
+          "title": "The Volkswagen ID. Tiguan Looks Like A Big Upgrade Over The ID.4",
+          "link": "https://insideevs.com/news/811254/vw-id-tiguan-launch-id4/",
+          "source": "InsideEVs",
+          "published": "2026-10-09T10:00:00+00:00"
+        },
+        {
+          "title": "VW’s Electric Polo GTI Just Got Faster. Thank The Customers",
+          "link": "https://insideevs.com/news/811298/volkswagen-id-polo-gti-priced/",
+          "source": "InsideEVs",
+          "published": "2026-10-09T09:09:46+00:00"
+        },
+        {
+          "title": "Max stupid: EU may loosen EV rules for third time in two years, aiding China",
+          "link": "https://electrek.co/2026/10/09/max-stupid-eu-may-loosen-ev-rules-for-third-time-in-two-years-aiding-china/",
+          "source": "Electrek",
+          "published": "2026-10-09T09:05:24+00:00"
+        },
+        {
+          "title": "Tesla Is Building Megachargers For Semis Where Truckers Already Stop",
+          "link": "https://insideevs.com/news/811284/pilot-tesla-megacharger-rollout/",
+          "source": "InsideEVs",
+          "published": "2026-10-09T07:14:28+00:00"
+        },
         {
           "title": "VW ID.4 Recalled Over Fire Risk, Owners Told Not To Charge Past 80%",
           "link": "https://insideevs.com/news/811244/vw-id4-battery-fire-recall/",
@@ -77,12 +119,6 @@
           "link": "https://insideevs.com/news/811218/lges-record-ev-ess-battery-sales/",
           "source": "InsideEVs",
           "published": "2026-10-08T16:58:19+00:00"
-        },
-        {
-          "title": "귀찮을 때는 Ai에게 물어 봐",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44666",
-          "source": "모터그래프",
-          "published": "2026-10-08T16:57:47+00:00"
         },
         {
           "title": "VinFast plans US electric buses – and it’ll handle more than the ride",
@@ -209,42 +245,6 @@
           "link": "https://electrek.co/2026/10/07/487010/",
           "source": "Electrek",
           "published": "2026-10-07T17:00:00+00:00"
-        },
-        {
-          "title": "Kia’s EV2 draws ‘significant and immediate demand,’ with 3,386 registrations in the UK",
-          "link": "https://electrek.co/2026/10/07/kia-ev2-sees-significant-immediate-demand-3386-registrations-uk/",
-          "source": "Electrek",
-          "published": "2026-10-07T16:52:29+00:00"
-        },
-        {
-          "title": "Tesla’s Cybertruck sales still unimpressive despite cheaper model",
-          "link": "https://electrek.co/2026/10/07/tesla-other-models-deliveries-crash-cybertruck-sales/",
-          "source": "Electrek",
-          "published": "2026-10-07T16:19:19+00:00"
-        },
-        {
-          "title": "This e-bike fits seven riders, and that’s not even the craziest thing about it",
-          "link": "https://electrek.co/2026/10/07/this-e-bike-fits-seven-riders-and-thats-not-even-the-craziest-thing-about-it/",
-          "source": "Electrek",
-          "published": "2026-10-07T15:26:54+00:00"
-        },
-        {
-          "title": "Rivian R2 gets live Pet Cam in update, AI assistant, and more",
-          "link": "https://electrek.co/2026/10/07/rivian-r2-pet-cam-software-update-2026-36/",
-          "source": "Electrek",
-          "published": "2026-10-07T15:25:22+00:00"
-        },
-        {
-          "title": "Hyundai’s off-road electric SUV makes its virtual debut, but will it ever hit the road?",
-          "link": "https://electrek.co/2026/10/07/hyundais-off-road-electric-suv-virtual-debut/",
-          "source": "Electrek",
-          "published": "2026-10-07T15:13:48+00:00"
-        },
-        {
-          "title": "E-bikes are causing a surprising new problem in Europe",
-          "link": "https://electrek.co/2026/10/07/e-bikes-are-causing-a-surprising-new-problem-in-europe/",
-          "source": "Electrek",
-          "published": "2026-10-07T14:36:59+00:00"
         }
       ]
     },
@@ -375,6 +375,12 @@
       "count": 7,
       "items": [
         {
+          "title": "BYD코리아, 한국 진출 10주년 기념 ‘씨라이언 6 DM-i 전국 연비 챌린지’",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44687",
+          "source": "모터그래프",
+          "published": "2026-10-09T17:04:15+00:00"
+        },
+        {
           "title": "The BMW iX3 M60 Gets 603 Horsepower And Yellow Lights",
           "link": "https://insideevs.com/news/811120/bmw-ix3-m60-603-horsepower-yellow-headlights/",
           "source": "InsideEVs",
@@ -385,12 +391,6 @@
           "link": "https://electrek.co/2026/10/07/this-e-bike-fits-seven-riders-and-thats-not-even-the-craziest-thing-about-it/",
           "source": "Electrek",
           "published": "2026-10-07T15:26:54+00:00"
-        },
-        {
-          "title": "주행성능, 연비, EV 감성까지 갖춘 럭셔리 SUV, 제네시스 GV80 하이브리드",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44656",
-          "source": "모터그래프",
-          "published": "2026-10-06T17:23:17+00:00"
         },
         {
           "title": "This funky solar electric scooter could handle your commute without ever plugging in",
@@ -563,10 +563,10 @@
       "count": 40,
       "items": [
         {
-          "title": "오픈AI 해고 연구원 3인 \"AI 추론 감시 기능 보존해야\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216093",
+          "title": "오픈AI, 연구원 해고 논란 해명...\"안전 제기 보복 아닌 보안 위반\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216105",
           "source": "AI타임스",
-          "published": "2026-10-09T12:45:25+00:00"
+          "published": "2026-10-09T20:58:49+00:00"
         },
         {
           "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
