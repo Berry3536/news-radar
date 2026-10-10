@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-10-10T04:16:11.075441+00:00",
+  "generated_at": "2026-10-10T11:53:21.783145+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Battery swap works: Nio completes 1.2 million swaps in a SINGLE WEEK",
+          "link": "https://electrek.co/2026/10/10/battery-swap-works-nio-completes-1-2-million-swaps-in-a-single-week/",
+          "source": "Electrek",
+          "published": "2026-10-10T11:44:31+00:00"
+        },
         {
           "title": "Tesla’s next big clean energy source is rising in the Arizona desert",
           "link": "https://electrek.co/2026/10/09/teslas-next-big-clean-energy-source-is-rising-in-the-arizona-desert/",
@@ -239,20 +245,20 @@
           "link": "https://electrek.co/2026/10/08/bmws-new-ix4-428-miles-range-66000-price-tag/",
           "source": "Electrek",
           "published": "2026-10-08T15:02:30+00:00"
-        },
-        {
-          "title": "Tesla leaned on Dutch regulator to ease its FSD review, emails show",
-          "link": "https://electrek.co/2026/10/08/tesla-fsd-europe-rdw-pressure-reuters/",
-          "source": "Electrek",
-          "published": "2026-10-08T13:57:06+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 17,
+      "count": 18,
       "items": [
+        {
+          "title": "Battery swap works: Nio completes 1.2 million swaps in a SINGLE WEEK",
+          "link": "https://electrek.co/2026/10/10/battery-swap-works-nio-completes-1-2-million-swaps-in-a-single-week/",
+          "source": "Electrek",
+          "published": "2026-10-10T11:44:31+00:00"
+        },
         {
           "title": "Tesla’s next big clean energy source is rising in the Arizona desert",
           "link": "https://electrek.co/2026/10/09/teslas-next-big-clean-energy-source-is-rising-in-the-arizona-desert/",
@@ -557,10 +563,10 @@
       "count": 1,
       "items": [
         {
-          "title": "타입세이프, '제브' 출시 3주 만에 대규모 투자 유치...기업가치 10조 등극",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216111",
+          "title": "엔비디아, AI 추론 칩 d-매트릭스에 투자 계획…GPU 중심 생태계 확장",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216122",
           "source": "AI타임스",
-          "published": "2026-10-10T11:48:28+00:00"
+          "published": "2026-10-10T20:35:00+00:00"
         }
       ]
     }
