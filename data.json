@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-10-10T11:53:21.783145+00:00",
+  "generated_at": "2026-10-10T16:56:29.682574+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "This YouTuber Got Burned By His Lucid Air And Elon Musk. So He Bought A Mustang Mach-E GT",
+          "link": "https://insideevs.com/reviews/811410/engineering-explained-mustang-mach-e/",
+          "source": "InsideEVs",
+          "published": "2026-10-10T14:00:00+00:00"
+        },
+        {
+          "title": "BYD builds 150,000th commercial NEV – an 800 hp Q3 electric semi truck",
+          "link": "https://electrek.co/2026/10/10/byd-builds-150000th-commercial-nev-an-800-hp-q3-electric-semi-truck/",
+          "source": "Electrek",
+          "published": "2026-10-10T12:53:18+00:00"
+        },
+        {
+          "title": "Kia Expects The Affordable EV3 To Be Its Best-Selling EV In The U.S.",
+          "link": "https://insideevs.com/news/811416/kia-ev3-rollout-sales-us-chevy-bolt-nissan-leaf/",
+          "source": "InsideEVs",
+          "published": "2026-10-10T12:00:00+00:00"
+        },
         {
           "title": "Battery swap works: Nio completes 1.2 million swaps in a SINGLE WEEK",
           "link": "https://electrek.co/2026/10/10/battery-swap-works-nio-completes-1-2-million-swaps-in-a-single-week/",
@@ -227,32 +245,20 @@
           "link": "https://insideevs.com/news/811218/lges-record-ev-ess-battery-sales/",
           "source": "InsideEVs",
           "published": "2026-10-08T16:58:19+00:00"
-        },
-        {
-          "title": "VinFast plans US electric buses – and it’ll handle more than the ride",
-          "link": "https://electrek.co/2026/10/08/vinfast-plans-us-electric-buses-and-itll-handle-more-than-the-ride/",
-          "source": "Electrek",
-          "published": "2026-10-08T15:40:26+00:00"
-        },
-        {
-          "title": "Tesla files permit for Semi service center in Las Vegas as ramp begins",
-          "link": "https://electrek.co/2026/10/08/tesla-semi-service-center-las-vegas-permit/",
-          "source": "Electrek",
-          "published": "2026-10-08T15:20:05+00:00"
-        },
-        {
-          "title": "BMW’s new iX4 has 428 miles of range, but it starts at north of $66,000 [Images]",
-          "link": "https://electrek.co/2026/10/08/bmws-new-ix4-428-miles-range-66000-price-tag/",
-          "source": "Electrek",
-          "published": "2026-10-08T15:02:30+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 18,
+      "count": 19,
       "items": [
+        {
+          "title": "BYD builds 150,000th commercial NEV – an 800 hp Q3 electric semi truck",
+          "link": "https://electrek.co/2026/10/10/byd-builds-150000th-commercial-nev-an-800-hp-q3-electric-semi-truck/",
+          "source": "Electrek",
+          "published": "2026-10-10T12:53:18+00:00"
+        },
         {
           "title": "Battery swap works: Nio completes 1.2 million swaps in a SINGLE WEEK",
           "link": "https://electrek.co/2026/10/10/battery-swap-works-nio-completes-1-2-million-swaps-in-a-single-week/",
@@ -424,6 +430,12 @@
       "count": 22,
       "items": [
         {
+          "title": "Why dexterity is physical AI’s real bottleneck",
+          "link": "https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/",
+          "source": "The Robot Report",
+          "published": "2026-10-10T12:45:15+00:00"
+        },
+        {
           "title": "Why humanoid robot demos still fail the generalization test",
           "link": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/",
           "source": "The Robot Report",
@@ -530,12 +542,6 @@
           "link": "https://www.therobotreport.com/firedome-builds-autonomous-artillery-for-wildfire-defense/",
           "source": "The Robot Report",
           "published": "2026-10-06T16:00:31+00:00"
-        },
-        {
-          "title": "Overview AI launches OV Spark line of AI inspection cameras",
-          "link": "https://www.therobotreport.com/overview-ai-launches-ov-spark-line-ai-inspection-cameras/",
-          "source": "The Robot Report",
-          "published": "2026-10-06T14:51:48+00:00"
         },
         {
           "title": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away",
