@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T03:54:50.201097+00:00",
+  "generated_at": "2026-10-11T12:04:53.887872+00:00",
   "categories": [
     {
       "key": "ev",
@@ -430,6 +430,12 @@
       "count": 22,
       "items": [
         {
+          "title": "中서 '휴머노이드 유치원' 첫선…\"어린이처럼 모방·탐색 통해 지능 키워\"",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48917",
+          "source": "로봇신문",
+          "published": "2026-10-11T18:37:55+00:00"
+        },
+        {
           "title": "Why dexterity is physical AI’s real bottleneck",
           "link": "https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/",
           "source": "The Robot Report",
@@ -464,12 +470,6 @@
           "link": "https://www.therobotreport.com/safeworld-emerges-stealth-build-deploy-robot-safety-simulation-technologies/",
           "source": "The Robot Report",
           "published": "2026-10-08T21:09:48+00:00"
-        },
-        {
-          "title": "한국섬유기계융합연구원, ‘2026년 첨단제조로봇 실증' 중간점검회 개최",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48910",
-          "source": "로봇신문",
-          "published": "2026-10-08T17:45:25+00:00"
         },
         {
           "title": "Jabil discusses the pace of humanoid robot development and production",
@@ -569,10 +569,10 @@
       "count": 1,
       "items": [
         {
-          "title": "중국 AI 모델 안전성 평가 공개율 3.6%...출시 전 공개는 고작 1.1%",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216127",
+          "title": "앤트로픽, '클로드 스타트업' 무료 혜택 일시 중단…신청 폭증에 전면 재검토",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216136",
           "source": "AI타임스",
-          "published": "2026-10-11T11:26:29+00:00"
+          "published": "2026-10-11T19:46:59+00:00"
         }
       ]
     }
