@@ -1,11 +1,53 @@
 {
-  "generated_at": "2026-10-11T12:04:53.887872+00:00",
+  "generated_at": "2026-10-11T21:27:09.983979+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "The legendary Citroen 2CV is back as a €15k electric concept for 2028",
+          "link": "https://electrek.co/2026/10/11/the-legendary-citroen-2cv-is-back-as-a-e15k-electric-concept-for-2028/",
+          "source": "Electrek",
+          "published": "2026-10-11T21:08:45+00:00"
+        },
+        {
+          "title": "Survey Sunday: Electrek readers find the silver lining in high fuel prices",
+          "link": "https://electrek.co/2026/10/11/survey-sunday-electrek-readers-find-the-silver-lining-in-high-fuel-prices/",
+          "source": "Electrek",
+          "published": "2026-10-11T19:38:37+00:00"
+        },
+        {
+          "title": "Citroen Is Finally Bringing Back The 2CV. And I’m Here For It",
+          "link": "https://insideevs.com/news/811436/citroen-2cv-electric-reborn-concept/",
+          "source": "InsideEVs",
+          "published": "2026-10-11T17:00:00+00:00"
+        },
+        {
+          "title": "Back in the real world: electric equipment is saving job sites BIG MONEY",
+          "link": "https://electrek.co/2026/10/11/back-in-the-real-world-electric-equipment-is-saving-job-sites-big-money/",
+          "source": "Electrek",
+          "published": "2026-10-11T16:04:15+00:00"
+        },
+        {
+          "title": "Chinese EVs Are Praised For Value, But This $150,000 Minivan Has A Serious Braking Problem",
+          "link": "https://insideevs.com/news/811352/maextro-v800-luxury-minivan-brake-failure/",
+          "source": "InsideEVs",
+          "published": "2026-10-11T14:00:00+00:00"
+        },
+        {
+          "title": "As electric semi truck race heats up, SoCal is getting another charging hub",
+          "link": "https://electrek.co/2026/10/11/as-electric-semi-truck-race-heats-up-socal-is-getting-another-charging-hub/",
+          "source": "Electrek",
+          "published": "2026-10-11T13:21:14+00:00"
+        },
+        {
+          "title": "459 hp, 0-60 in 3.9 sec, and AWD – meet Mitsubishi’s new-age electric EVO [video]",
+          "link": "https://electrek.co/2026/10/11/459-hp-0-60-in-3-9-sec-and-awd-meet-mitsubishis-new-age-electric-evo-video/",
+          "source": "Electrek",
+          "published": "2026-10-11T12:16:33+00:00"
+        },
         {
           "title": "This YouTuber Got Burned By His Lucid Air And Elon Musk. So He Bought A Mustang Mach-E GT",
           "link": "https://insideevs.com/reviews/811410/engineering-explained-mustang-mach-e/",
@@ -203,48 +245,6 @@
           "link": "https://electrek.co/2026/10/08/byd-reveals-tech-savvy-5-seat-suv-interior-with-two-30-screens/",
           "source": "Electrek",
           "published": "2026-10-08T19:39:22+00:00"
-        },
-        {
-          "title": "Polestar Sales Are Booming. Thank The Country That Just Banned It",
-          "link": "https://insideevs.com/news/811238/polestar-q3-2026-sales-report/",
-          "source": "InsideEVs",
-          "published": "2026-10-08T19:37:24+00:00"
-        },
-        {
-          "title": "The 2027 Chevy Bolt Can Drive Farther Than You Think At 60 MPH",
-          "link": "https://insideevs.com/news/811230/chevy-bolt-60-mph-range/",
-          "source": "InsideEVs",
-          "published": "2026-10-08T18:26:21+00:00"
-        },
-        {
-          "title": "EcoFlow 2x 1,024Wh DELTA 3 Classic power stations $889, Segway extended 50% off e-scooter sale, Anker SOLIX, EGO, much more",
-          "link": "https://electrek.co/2026/10/08/ecoflow-1024wh-delta-3-classic-power-stations-segway-e-scooter-sale-anker-solix-ego-more/",
-          "source": "Electrek",
-          "published": "2026-10-08T18:00:00+00:00"
-        },
-        {
-          "title": "Volkswagen recalls more than 22,500 ID.4 EVs and tells owners to charge to just 80%",
-          "link": "https://electrek.co/2026/10/08/volkswagen-recalls-22500-id-4-evs-tells-owners-charge-to-80/",
-          "source": "Electrek",
-          "published": "2026-10-08T17:59:54+00:00"
-        },
-        {
-          "title": "Rivian R2's Ventilated Seats Just Got Downgraded. Buyers Are Outraged",
-          "link": "https://insideevs.com/news/811213/rivian-seat-ventilation-internet-uproar/",
-          "source": "InsideEVs",
-          "published": "2026-10-08T17:51:26+00:00"
-        },
-        {
-          "title": "BMW adds new iX3 M60 xDrive with 603 hp and ‘extensive’ M upgrades",
-          "link": "https://electrek.co/2026/10/08/bmw-adds-ix3-m60-xdrive-603-hp-extensive-m-upgrades/",
-          "source": "Electrek",
-          "published": "2026-10-08T17:07:22+00:00"
-        },
-        {
-          "title": "Tesla Supplier Reports Record Earnings From EV And Energy Storage Batteries",
-          "link": "https://insideevs.com/news/811218/lges-record-ev-ess-battery-sales/",
-          "source": "InsideEVs",
-          "published": "2026-10-08T16:58:19+00:00"
         }
       ]
     },
@@ -253,6 +253,12 @@
       "label": "배터리",
       "count": 19,
       "items": [
+        {
+          "title": "Back in the real world: electric equipment is saving job sites BIG MONEY",
+          "link": "https://electrek.co/2026/10/11/back-in-the-real-world-electric-equipment-is-saving-job-sites-big-money/",
+          "source": "Electrek",
+          "published": "2026-10-11T16:04:15+00:00"
+        },
         {
           "title": "BYD builds 150,000th commercial NEV – an 800 hp Q3 electric semi truck",
           "link": "https://electrek.co/2026/10/10/byd-builds-150000th-commercial-nev-an-800-hp-q3-electric-semi-truck/",
@@ -360,19 +366,13 @@
           "link": "https://electrek.co/2026/10/02/ride1up-just-launched-a-28-mph-german-mid-drive-e-bike-for-an-insanely-low-1295/",
           "source": "Electrek",
           "published": "2026-10-02T11:16:00+00:00"
-        },
-        {
-          "title": "Here are all the jobs and investment lost from republican attacks on manufacturing",
-          "link": "https://electrek.co/2026/10/01/here-are-all-the-jobs-and-investment-lost-from-republican-attacks-on-manufacturing/",
-          "source": "Electrek",
-          "published": "2026-10-01T17:48:18+00:00"
         }
       ]
     },
     {
       "key": "motor",
       "label": "모터",
-      "count": 8,
+      "count": 7,
       "items": [
         {
           "title": "BYD코리아, 한국 진출 10주년 기념 ‘씨라이언 6 DM-i 전국 연비 챌린지’",
@@ -385,12 +385,6 @@
           "link": "https://electrek.co/2026/10/09/wheel-e-podcast-7-seater-e-bike-solar-powered-scooter-more/",
           "source": "Electrek",
           "published": "2026-10-09T12:43:18+00:00"
-        },
-        {
-          "title": "The BMW iX3 M60 Gets 603 Horsepower And Yellow Lights",
-          "link": "https://insideevs.com/news/811120/bmw-ix3-m60-603-horsepower-yellow-headlights/",
-          "source": "InsideEVs",
-          "published": "2026-10-08T07:07:51+00:00"
         },
         {
           "title": "This e-bike fits seven riders, and that’s not even the craziest thing about it",
@@ -430,10 +424,16 @@
       "count": 22,
       "items": [
         {
-          "title": "中서 '휴머노이드 유치원' 첫선…\"어린이처럼 모방·탐색 통해 지능 키워\"",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48917",
+          "title": "리얼월드, 도쿄 도심서 피지컬 AI 로봇 실증한다",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48922",
           "source": "로봇신문",
-          "published": "2026-10-11T18:37:55+00:00"
+          "published": "2026-10-11T23:41:58+00:00"
+        },
+        {
+          "title": "Will ‘boring’ robots win in the real world? Why robotic form should follow workflow",
+          "link": "https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow/",
+          "source": "The Robot Report",
+          "published": "2026-10-11T12:36:24+00:00"
         },
         {
           "title": "Why dexterity is physical AI’s real bottleneck",
@@ -536,12 +536,6 @@
           "link": "https://www.therobotreport.com/sovereign-ai-same-landlord-thoughts-physical-ai-race/",
           "source": "The Robot Report",
           "published": "2026-10-06T17:47:50+00:00"
-        },
-        {
-          "title": "FireDome builds autonomous ‘artillery’ for wildfire defense",
-          "link": "https://www.therobotreport.com/firedome-builds-autonomous-artillery-for-wildfire-defense/",
-          "source": "The Robot Report",
-          "published": "2026-10-06T16:00:31+00:00"
         },
         {
           "title": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away",
