@@ -1,0 +1,24 @@
+[project]
+name = "news-radar"
+version = "1.0.0"
+description = "Serverless tech news dashboard: scheduled RSS aggregation published to GitHub Pages"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "feedparser>=6.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "ruff>=0.5",
+]
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+line-length = 120
+target-version = "py313"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]

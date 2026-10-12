@@ -64,7 +64,15 @@
       "Bash(git branch*)",
       "PowerShell(git branch*)",
       "Bash(git stash*)",
-      "PowerShell(git stash*)"
+      "PowerShell(git stash*)",
+      "Bash(uv sync*)",
+      "PowerShell(uv sync*)",
+      "Bash(uv lock --check*)",
+      "PowerShell(uv lock --check*)",
+      "Bash(uv tree*)",
+      "PowerShell(uv tree*)",
+      "Bash(uv run ruff format --check*)",
+      "PowerShell(uv run ruff format --check*)"
     ],
     "ask": [
       "Bash(git push*)",

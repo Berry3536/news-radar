@@ -2,15 +2,15 @@
   "level": "standard",
   "commands": {
     "verify": [
-      "ruff check .",
-      "python -m py_compile aggregate.py",
-      "python -c \"import json; json.load(open('feeds.json', encoding='utf-8'))\"",
+      "uv run ruff check .",
+      "uv run python -m py_compile aggregate.py",
+      "uv run python -c \"import json; json.load(open('feeds.json', encoding='utf-8'))\"",
       "git diff --check"
     ],
     "smoke": []
   },
   "release": {
-    "version_file": null,
+    "version_file": "pyproject.toml",
     "notes_file": null,
     "preflight": [],
     "branch_edits": []
