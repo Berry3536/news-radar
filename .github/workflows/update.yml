@@ -21,17 +21,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
 
-      - name: Setup Python
-        uses: actions/setup-python@v7
+      - name: Setup uv (Python from .python-version)
+        uses: astral-sh/setup-uv@v10.3.0
         with:
-          python-version: "3.13"
-          cache: pip
+          enable-cache: true
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: uv sync --locked
 
       - name: Aggregate feeds
-        run: python aggregate.py
+        run: uv run python aggregate.py
 
       # 결과물은 gh-pages 브랜치(커밋 1개, 매번 덮어씀)로만 배포한다.
       # master/develop에는 봇 커밋이 남지 않는다(gitflow: master는 release/hotfix 머지만).

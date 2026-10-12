@@ -14,7 +14,7 @@ from __future__ import annotations
 
 import json
 import sys
-from datetime import datetime, timedelta, timezone
+from datetime import UTC, datetime, timedelta
 from email.utils import parsedate_to_datetime
 from html import unescape
 
@@ -42,7 +42,7 @@ def parse_date(entry) -> datetime | None:
         st = entry.get(key)
         if st:
             try:
-                return datetime(*st[:6], tzinfo=timezone.utc)
+                return datetime(*st[:6], tzinfo=UTC)
             except (TypeError, ValueError):
                 pass
 
@@ -55,8 +55,8 @@ def parse_date(entry) -> datetime | None:
                 dt = None
             if dt is not None:
                 if dt.tzinfo is None:
-                    dt = dt.replace(tzinfo=timezone.utc)
-                return dt.astimezone(timezone.utc)
+                    dt = dt.replace(tzinfo=UTC)
+                return dt.astimezone(UTC)
 
     return None
 
@@ -123,7 +123,7 @@ def collect_feed(name: str, url: str) -> list[dict]:
 
 def build_category(cat: dict, max_age_days: int, max_items: int) -> dict:
     """카테고리 하나를 수집/필터/정렬/중복제거해 출력 형태로 만든다."""
-    cutoff = datetime.now(timezone.utc) - timedelta(days=max_age_days)
+    cutoff = datetime.now(UTC) - timedelta(days=max_age_days)
     include = cat.get("include_keywords", []) or []
     exclude = cat.get("exclude_keywords", []) or []
 
@@ -155,7 +155,7 @@ def build_category(cat: dict, max_age_days: int, max_items: int) -> dict:
             collected.append(item)
 
     # 최신순 정렬 (날짜 None은 맨 뒤)
-    far_past = datetime.min.replace(tzinfo=timezone.utc)
+    far_past = datetime.min.replace(tzinfo=UTC)
     collected.sort(key=lambda it: it["dt"] or far_past, reverse=True)
 
     # 카테고리당 상한
@@ -199,7 +199,7 @@ def main() -> int:
         categories_out.append(result)
 
     output = {
-        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "generated_at": datetime.now(UTC).isoformat(),
         "categories": categories_out,
     }
 

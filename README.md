@@ -31,10 +31,11 @@
 .
 ├── feeds.json                  # 소스/카테고리/필터 설정 (운영 시 이 파일만 수정)
 ├── aggregate.py                # 수집기 (Python 3.13, feedparser)
-├── requirements.txt            # feedparser
+├── pyproject.toml / uv.lock    # 의존성 (feedparser), uv로 잠금
 ├── data.json                   # 수집 결과(로컬 생성, git 미추적; 배포본은 gh-pages 브랜치)
 ├── index.html                  # 단일 파일 대시보드 (외부 JS 의존성 없음)
-└── .github/workflows/update.yml# 스케줄 수집 워크플로
+├── .github/workflows/update.yml# 스케줄 수집 → gh-pages 배포 워크플로
+└── .github/workflows/ci.yml    # ruff·문법·feeds.json 검사
 ```
 
 ## 배포 절차
@@ -94,9 +95,9 @@
 ## 로컬 실행/검증
 
 ```bash
-pip install -r requirements.txt
-python aggregate.py            # data.json 생성 (네트워크 필요)
-python -m http.server          # http://localhost:8000 에서 index.html 확인
+uv sync                        # .venv 생성 (Python 3.13, uv.lock 기준)
+uv run python aggregate.py     # data.json 생성 (네트워크 필요)
+uv run python -m http.server   # http://localhost:8000 에서 index.html 확인
 ```
 
 `data.json`은 git에서 추적하지 않는다. 네트워크가 막힌 환경이라면 `gh-pages` 브랜치의 `data.json`을

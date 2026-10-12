@@ -17,9 +17,9 @@ Public repository — never commit anything private.
 ## Commands
 
 ```powershell
-python -m pip install -r requirements.txt
-python aggregate.py                  # writes data.json (network)
-python -m http.server                # preview at http://localhost:8000
+uv sync --extra dev                  # .venv from uv.lock (Python 3.13)
+uv run python aggregate.py           # writes data.json (network)
+uv run python -m http.server         # preview at http://localhost:8000
 ```
 
 ## Forbidden
@@ -27,7 +27,7 @@ python -m http.server                # preview at http://localhost:8000
 - Committing `data.json` to `master`/`develop`; it is published only on `gh-pages`.
 - Pushing to `gh-pages` by hand; only the workflow writes it.
 
-<!-- stark-kit:begin level=standard kit=0.1.3 — generated; edit stark-kit, then `kit.py sync` -->
+<!-- stark-kit:begin level=standard kit=0.2.0 — generated; edit stark-kit, then `kit.py sync` -->
 
 # Kit rules
 
