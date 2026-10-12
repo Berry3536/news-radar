@@ -1,11 +1,89 @@
 {
-  "generated_at": "2026-10-12T04:15:56.325736+00:00",
+  "generated_at": "2026-10-12T14:23:11.834726+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "강렬한 블랙 디테일, 포르쉐 카이엔 블랙 에디션",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44699",
+          "source": "모터그래프",
+          "published": "2026-10-12T17:39:09+00:00"
+        },
+        {
+          "title": "BYD reveals flagship 7-seat electric SUV with over 400 miles of range",
+          "link": "https://electrek.co/2026/10/12/byd-reveals-flagship-7-seat-electric-suv-400-miles-of-range/",
+          "source": "Electrek",
+          "published": "2026-10-12T14:20:29+00:00"
+        },
+        {
+          "title": "NHTSA weighs probe into claims Tesla Robotaxis speed in school zones",
+          "link": "https://electrek.co/2026/10/12/nhtsa-tesla-robotaxi-school-zone-speeding-petition/",
+          "source": "Electrek",
+          "published": "2026-10-12T13:24:01+00:00"
+        },
+        {
+          "title": "Electric trucks meet hydro power at one of Canada’s busiest ports",
+          "link": "https://electrek.co/2026/10/12/electric-trucks-meet-hydro-power-at-one-of-canadas-busiest-ports/",
+          "source": "Electrek",
+          "published": "2026-10-12T13:18:57+00:00"
+        },
+        {
+          "title": "The New Citroen 2CV Van Is The Perfect Match For Trendy Baristas",
+          "link": "https://insideevs.com/news/811618/citroen-2cv-van-ev-concept-fourgonette/",
+          "source": "InsideEVs",
+          "published": "2026-10-12T13:10:33+00:00"
+        },
+        {
+          "title": "Honda’s New Hybrids Are Getting Electric All-Wheel Drive",
+          "link": "https://insideevs.com/news/811607/honda-hybrid-e-awd-2027-north-america/",
+          "source": "InsideEVs",
+          "published": "2026-10-12T11:59:09+00:00"
+        },
+        {
+          "title": "Autonomous military 6×6 packs electric drive and go-anywhere grit [video]",
+          "link": "https://electrek.co/2026/10/12/autonomous-military-6x6-packs-electric-drive-and-go-anywhere-grit-video/",
+          "source": "Electrek",
+          "published": "2026-10-12T11:48:37+00:00"
+        },
+        {
+          "title": "This electric motorcycle company just hit 10 million battery swaps – and it’s profitable",
+          "link": "https://electrek.co/2026/10/12/this-electric-motorcycle-company-just-hit-10-million-battery-swaps-and-its-profitable/",
+          "source": "Electrek",
+          "published": "2026-10-12T11:30:51+00:00"
+        },
+        {
+          "title": "The Tiny Smart EV Is Back With An Answer To Its Biggest Weakness",
+          "link": "https://insideevs.com/news/811594/smart-2-electric-city-car/",
+          "source": "InsideEVs",
+          "published": "2026-10-12T11:08:26+00:00"
+        },
+        {
+          "title": "This Wild Electric Hot Hatch Concept Is Hiding Peugeot’s Next Small Car",
+          "link": "https://insideevs.com/news/811587/peuget-et16-208-rally-concept/",
+          "source": "InsideEVs",
+          "published": "2026-10-12T10:24:29+00:00"
+        },
+        {
+          "title": "Peugeot Revives The RCZ As A Sexy Solid-State Sports Car",
+          "link": "https://insideevs.com/news/811555/peugeot-rcz-solid-state-concept/",
+          "source": "InsideEVs",
+          "published": "2026-10-12T09:09:28+00:00"
+        },
+        {
+          "title": "America’s Biggest Non-Tesla EV Fast Charging Network Just Hit A New Milestone",
+          "link": "https://insideevs.com/news/811566/electrify-america-growth-6000-ev-charging-ports/",
+          "source": "InsideEVs",
+          "published": "2026-10-12T08:58:47+00:00"
+        },
+        {
+          "title": "The Fiat Multipla Is Back—And It’s A Pickup, A Minivan, And An SUV",
+          "link": "https://insideevs.com/news/811536/fiat-multiplay-concept-modular-suv-minivan/",
+          "source": "InsideEVs",
+          "published": "2026-10-12T07:21:09+00:00"
+        },
         {
           "title": "The legendary Citroen 2CV is back as a €15k electric concept for 2028",
           "link": "https://electrek.co/2026/10/11/the-legendary-citroen-2cv-is-back-as-a-e15k-electric-concept-for-2028/",
@@ -115,12 +193,6 @@
           "published": "2026-10-09T17:07:52+00:00"
         },
         {
-          "title": "진정한 세그먼트 파괴자, 8세대 아반떼",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44693",
-          "source": "모터그래프",
-          "published": "2026-10-09T17:06:15+00:00"
-        },
-        {
           "title": "I Tested New York City’s First Lamppost EV Charger. It’s A Game Changer",
           "link": "https://insideevs.com/news/811388/voltpost-air-lamppost-ev-charger-review-insideevs/",
           "source": "InsideEVs",
@@ -173,86 +245,50 @@
           "link": "https://insideevs.com/news/811344/hyundai-ioniq-4-7-report/",
           "source": "InsideEVs",
           "published": "2026-10-09T12:51:26+00:00"
-        },
-        {
-          "title": "Wheel-E Podcast: 7-seater e-bike, solar-powered scooter, more",
-          "link": "https://electrek.co/2026/10/09/wheel-e-podcast-7-seater-e-bike-solar-powered-scooter-more/",
-          "source": "Electrek",
-          "published": "2026-10-09T12:43:18+00:00"
-        },
-        {
-          "title": "California Opens Up $28 Million In Funding For EV Chargers",
-          "link": "https://insideevs.com/news/811341/california-ev-charger-installation-incentives-100000-usd/",
-          "source": "InsideEVs",
-          "published": "2026-10-09T11:46:06+00:00"
-        },
-        {
-          "title": "Rivian EVs Are Becoming Ghostbusters This Halloween",
-          "link": "https://insideevs.com/news/811328/rivian-halloween-mode-2026-ghostbusters-software/",
-          "source": "InsideEVs",
-          "published": "2026-10-09T10:12:41+00:00"
-        },
-        {
-          "title": "The Volkswagen ID. Tiguan Looks Like A Big Upgrade Over The ID.4",
-          "link": "https://insideevs.com/news/811254/vw-id-tiguan-launch-id4/",
-          "source": "InsideEVs",
-          "published": "2026-10-09T10:00:00+00:00"
-        },
-        {
-          "title": "VW’s Electric Polo GTI Just Got Faster. Thank The Customers",
-          "link": "https://insideevs.com/news/811298/volkswagen-id-polo-gti-priced/",
-          "source": "InsideEVs",
-          "published": "2026-10-09T09:09:46+00:00"
-        },
-        {
-          "title": "Max stupid: EU may loosen EV rules for third time in two years, aiding China",
-          "link": "https://electrek.co/2026/10/09/max-stupid-eu-may-loosen-ev-rules-for-third-time-in-two-years-aiding-china/",
-          "source": "Electrek",
-          "published": "2026-10-09T09:05:24+00:00"
-        },
-        {
-          "title": "Tesla Is Building Megachargers For Semis Where Truckers Already Stop",
-          "link": "https://insideevs.com/news/811284/pilot-tesla-megacharger-rollout/",
-          "source": "InsideEVs",
-          "published": "2026-10-09T07:14:28+00:00"
-        },
-        {
-          "title": "VW ID.4 Recalled Over Fire Risk, Owners Told Not To Charge Past 80%",
-          "link": "https://insideevs.com/news/811244/vw-id4-battery-fire-recall/",
-          "source": "InsideEVs",
-          "published": "2026-10-08T22:10:27+00:00"
-        },
-        {
-          "title": "The Hyundai IONIQ 7 is coming as a big sibling to the IONIQ 5",
-          "link": "https://electrek.co/2026/10/08/hyundai-ioniq-7-coming-big-sibling-to-ioniq-5/",
-          "source": "Electrek",
-          "published": "2026-10-08T21:14:45+00:00"
-        },
-        {
-          "title": "Nissan's New Plug-In Hybrid Pickup Is Part Of A Much Bigger China Trend",
-          "link": "https://insideevs.com/news/811236/navara-pro-phev-mexico-world/",
-          "source": "InsideEVs",
-          "published": "2026-10-08T21:01:40+00:00"
-        },
-        {
-          "title": "Rivian brings Ghostbusters to its vehicles in 2026 Halloween update",
-          "link": "https://electrek.co/2026/10/08/rivian-brings-ghostbusters-to-its-vehicles-in-2026-halloween-update/",
-          "source": "Electrek",
-          "published": "2026-10-08T20:00:00+00:00"
-        },
-        {
-          "title": "BYD reveals tech-savvy 5-seat SUV interior with two massive 30-inch+ screens",
-          "link": "https://electrek.co/2026/10/08/byd-reveals-tech-savvy-5-seat-suv-interior-with-two-30-screens/",
-          "source": "Electrek",
-          "published": "2026-10-08T19:39:22+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 25,
+      "count": 28,
       "items": [
+        {
+          "title": "BYD reveals flagship 7-seat electric SUV with over 400 miles of range",
+          "link": "https://electrek.co/2026/10/12/byd-reveals-flagship-7-seat-electric-suv-400-miles-of-range/",
+          "source": "Electrek",
+          "published": "2026-10-12T14:20:29+00:00"
+        },
+        {
+          "title": "Electric trucks meet hydro power at one of Canada’s busiest ports",
+          "link": "https://electrek.co/2026/10/12/electric-trucks-meet-hydro-power-at-one-of-canadas-busiest-ports/",
+          "source": "Electrek",
+          "published": "2026-10-12T13:18:57+00:00"
+        },
+        {
+          "title": "This electric motorcycle company just hit 10 million battery swaps – and it’s profitable",
+          "link": "https://electrek.co/2026/10/12/this-electric-motorcycle-company-just-hit-10-million-battery-swaps-and-its-profitable/",
+          "source": "Electrek",
+          "published": "2026-10-12T11:30:51+00:00"
+        },
+        {
+          "title": "The Tiny Smart EV Is Back With An Answer To Its Biggest Weakness",
+          "link": "https://insideevs.com/news/811594/smart-2-electric-city-car/",
+          "source": "InsideEVs",
+          "published": "2026-10-12T11:08:26+00:00"
+        },
+        {
+          "title": "Peugeot Revives The RCZ As A Sexy Solid-State Sports Car",
+          "link": "https://insideevs.com/news/811555/peugeot-rcz-solid-state-concept/",
+          "source": "InsideEVs",
+          "published": "2026-10-12T09:09:28+00:00"
+        },
+        {
+          "title": "Bus Buyers Have Overwhelmingly Chosen Battery-Electric",
+          "link": "https://cleantechnica.com/2026/10/12/zero-emission-bus-procurement-battery-electric/",
+          "source": "CleanTechnica",
+          "published": "2026-10-12T05:35:47+00:00"
+        },
         {
           "title": "Back in the real world: electric equipment is saving job sites BIG MONEY",
           "link": "https://electrek.co/2026/10/11/back-in-the-real-world-electric-equipment-is-saving-job-sites-big-money/",
@@ -302,22 +338,10 @@
           "published": "2026-10-09T18:36:38+00:00"
         },
         {
-          "title": "VW ID.4 Recalled Over Fire Risk, Owners Told Not To Charge Past 80%",
-          "link": "https://insideevs.com/news/811244/vw-id4-battery-fire-recall/",
-          "source": "InsideEVs",
-          "published": "2026-10-08T22:10:27+00:00"
-        },
-        {
           "title": "Volkswagen recalls more than 22,500 ID.4 EVs and tells owners to charge to just 80%",
           "link": "https://electrek.co/2026/10/08/volkswagen-recalls-22500-id-4-evs-tells-owners-charge-to-80/",
           "source": "Electrek",
           "published": "2026-10-08T17:59:54+00:00"
-        },
-        {
-          "title": "Tesla Supplier Reports Record Earnings From EV And Energy Storage Batteries",
-          "link": "https://insideevs.com/news/811218/lges-record-ev-ess-battery-sales/",
-          "source": "InsideEVs",
-          "published": "2026-10-08T16:58:19+00:00"
         },
         {
           "title": "BYD’s ultra-luxury EV sedan with coach doors spotted ahead of imminent debut [Video]",
@@ -396,12 +420,6 @@
           "link": "https://electrek.co/2026/10/02/uk-ev-sales-record-september-2026-tesla-model-3/",
           "source": "Electrek",
           "published": "2026-10-02T17:17:08+00:00"
-        },
-        {
-          "title": "Ride1Up just launched a 28 MPH German mid-drive e-bike for an insanely low $1,295",
-          "link": "https://electrek.co/2026/10/02/ride1up-just-launched-a-28-mph-german-mid-drive-e-bike-for-an-insanely-low-1295/",
-          "source": "Electrek",
-          "published": "2026-10-02T11:16:00+00:00"
         }
       ]
     },
@@ -411,10 +429,16 @@
       "count": 7,
       "items": [
         {
-          "title": "BYD코리아, 한국 진출 10주년 기념 ‘씨라이언 6 DM-i 전국 연비 챌린지’",
-          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44687",
+          "title": "글로벌 고객이 인정한 현대 투싼, 핵심 기술 공개",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44696",
           "source": "모터그래프",
-          "published": "2026-10-09T17:04:15+00:00"
+          "published": "2026-10-12T17:38:41+00:00"
+        },
+        {
+          "title": "This electric motorcycle company just hit 10 million battery swaps – and it’s profitable",
+          "link": "https://electrek.co/2026/10/12/this-electric-motorcycle-company-just-hit-10-million-battery-swaps-and-its-profitable/",
+          "source": "Electrek",
+          "published": "2026-10-12T11:30:51+00:00"
         },
         {
           "title": "Wheel-E Podcast: 7-seater e-bike, solar-powered scooter, more",
@@ -445,12 +469,6 @@
           "link": "https://electrek.co/2026/10/02/uk-ev-sales-record-september-2026-tesla-model-3/",
           "source": "Electrek",
           "published": "2026-10-02T17:17:08+00:00"
-        },
-        {
-          "title": "Ride1Up just launched a 28 MPH German mid-drive e-bike for an insanely low $1,295",
-          "link": "https://electrek.co/2026/10/02/ride1up-just-launched-a-28-mph-german-mid-drive-e-bike-for-an-insanely-low-1295/",
-          "source": "Electrek",
-          "published": "2026-10-02T11:16:00+00:00"
         }
       ]
     },
@@ -460,10 +478,10 @@
       "count": 22,
       "items": [
         {
-          "title": "리얼월드, 도쿄 도심서 피지컬 AI 로봇 실증한다",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48922",
+          "title": "인천TP, ‘2026 인천 산업단지 조성현황 및 분양 설명회’ 14일 개최",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48950",
           "source": "로봇신문",
-          "published": "2026-10-11T23:41:58+00:00"
+          "published": "2026-10-12T17:37:57+00:00"
         },
         {
           "title": "Will ‘boring’ robots win in the real world? Why robotic form should follow workflow",
@@ -599,10 +617,10 @@
       "count": 40,
       "items": [
         {
-          "title": "AI로 복제한 어도비 무료 대안 '아트크래프트' 등장…저작권 논란",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216149",
+          "title": "\"말 한마디로 작동하는 3D 기계 그려\"...클로드 코드용 '아나토미' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216170",
           "source": "AI타임스",
-          "published": "2026-10-12T12:58:17+00:00"
+          "published": "2026-10-12T18:00:00+00:00"
         },
         {
           "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
