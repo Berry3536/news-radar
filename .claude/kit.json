@@ -1,0 +1,26 @@
+{
+  "level": "standard",
+  "commands": {
+    "verify": [
+      "ruff check .",
+      "python -m py_compile aggregate.py",
+      "python -c \"import json; json.load(open('feeds.json', encoding='utf-8'))\"",
+      "git diff --check"
+    ],
+    "smoke": []
+  },
+  "release": {
+    "version_file": null,
+    "notes_file": null,
+    "preflight": [],
+    "branch_edits": []
+  },
+  "settings": {
+    "permissions": {
+      "deny": [
+        "Bash(git push*gh-pages*)",
+        "PowerShell(git push*gh-pages*)"
+      ]
+    }
+  }
+}

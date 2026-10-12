@@ -1,0 +1,3 @@
+#!/bin/sh
+# stark-kit managed: delegates to the shared gitflow guard.
+exec python "$(git rev-parse --show-toplevel)/.claude/hooks/gitflow_guard.py" pre-merge-commit "$@"

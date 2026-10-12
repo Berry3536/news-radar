@@ -12,7 +12,7 @@
 │  (.github/workflows) │                            │  feedparser로 수집 │
 └─────────────────────┘                            └────────┬─────────┘
             ▲                                                │ 생성
-            │ commit & push (변경 시에만)                      ▼
+            │ gh-pages 브랜치로 force push                      ▼
             │                                          ┌──────────────┐
             └──────────────────────────────────────── │  data.json    │
                                                        └──────┬───────┘
@@ -22,17 +22,17 @@
                   └────────────────────────────┘
 ```
 
-`GitHub Actions(cron)` → `aggregate.py` 실행 → `data.json` 생성/커밋 → `GitHub Pages`가
-`index.html` + `data.json` 서빙.
+`GitHub Actions(cron)` → `aggregate.py` 실행 → `index.html` + `data.json`을 `gh-pages` 브랜치(커밋 1개,
+매번 덮어씀)로 push → `GitHub Pages`가 `gh-pages`를 서빙. `master`/`develop`에는 봇 커밋이 남지 않는다.
 
 ## 파일 구조
 
 ```
 .
 ├── feeds.json                  # 소스/카테고리/필터 설정 (운영 시 이 파일만 수정)
-├── aggregate.py                # 수집기 (Python 3.12, feedparser)
+├── aggregate.py                # 수집기 (Python 3.13, feedparser)
 ├── requirements.txt            # feedparser
-├── data.json                   # 수집 결과(자동 생성·커밋). 초기엔 (샘플) 데이터
+├── data.json                   # 수집 결과(로컬 생성, git 미추적; 배포본은 gh-pages 브랜치)
 ├── index.html                  # 단일 파일 대시보드 (외부 JS 의존성 없음)
 └── .github/workflows/update.yml# 스케줄 수집 워크플로
 ```
@@ -42,7 +42,7 @@
 1. **레포 push** — 이 디렉터리를 GitHub 저장소에 올린다.
 2. **Pages 켜기** — `Settings → Pages → Build and deployment`
    - Source: **Deploy from a branch**
-   - Branch: 기본 브랜치(`main`/`master`) `/ (root)` 선택 후 저장
+   - Branch: `gh-pages` `/ (root)` 선택 후 저장 (첫 워크플로 실행 후 브랜치가 생긴다)
 3. **Actions write 권한** — `Settings → Actions → General → Workflow permissions`
    에서 **Read and write permissions** 선택(워크플로의 `permissions: contents: write`로도
    커버되지만, 조직/레포 기본값이 read-only면 여기서 풀어줘야 함).
@@ -84,8 +84,8 @@
 
 - **scheduled cron은 정시를 보장하지 않는다.** GitHub의 부하에 따라 **수 분~수십 분 지연되거나
   스킵**될 수 있다. 정확한 타이밍이 필요한 용도에는 부적합하다.
-- **60일간 저장소 활동이 없으면 scheduled 워크플로가 자동 비활성화**된다. 가끔 커밋이 일어나면
-  유지되지만, 비활성화되면 Actions 탭에서 다시 켜야 한다.
+- **60일간 저장소 활동이 없으면 scheduled 워크플로가 자동 비활성화**될 수 있다. 비활성화되면
+  Actions 탭에서 다시 켜야 한다.
 - **피드 URL은 바뀌거나 죽을 수 있다.** 수집기는 피드 단위로 예외를 격리해, 죽은 피드 하나가
   전체 수집을 막지 않는다. 실패는 로그에 `[FAIL]`, 성공은 `[OK]`로 남는다.
 - **RSS/Atom이 없는 소스는 수집 불가.** 본 도구는 피드만 처리하며, 스크래핑은 하지 않는다.
@@ -99,4 +99,5 @@ python aggregate.py            # data.json 생성 (네트워크 필요)
 python -m http.server          # http://localhost:8000 에서 index.html 확인
 ```
 
-네트워크가 막힌 환경이라면 `data.json`(샘플)만으로도 `index.html` 렌더링을 확인할 수 있다.
+`data.json`은 git에서 추적하지 않는다. 네트워크가 막힌 환경이라면 `gh-pages` 브랜치의 `data.json`을
+받아(`git show origin/gh-pages:data.json > data.json`) 렌더링을 확인한다.

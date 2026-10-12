@@ -1,0 +1,3 @@
+# stark-kit: hook scripts must keep LF endings
+.githooks/* text eol=lf
+.claude/hooks/*.py text eol=lf
