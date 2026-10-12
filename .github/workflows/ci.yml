@@ -4,10 +4,8 @@ name: CI
 on:
   push:
     branches: [develop, master]
-    paths-ignore: ["**.md", "docs/**"]
   pull_request:
     branches: [develop, master]
-    paths-ignore: ["**.md", "docs/**"]
 
 concurrency:
   group: ci-${{ github.ref }}-${{ github.event_name }}
@@ -25,7 +23,7 @@ jobs:
         with:
           enable-cache: true
       - name: Install
-        run: uv sync --locked --extra dev
+        run: uv sync --locked
       - name: Verify
         run: |
           uv run ruff check .
