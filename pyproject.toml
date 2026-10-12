@@ -8,7 +8,8 @@ dependencies = [
     "feedparser>=6.0.0",
 ]
 
-[project.optional-dependencies]
+# Dev tooling as a dependency group: `uv sync` installs it by default.
+[dependency-groups]
 dev = [
     "ruff>=0.5",
 ]
