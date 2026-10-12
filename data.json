@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T21:27:09.983979+00:00",
+  "generated_at": "2026-10-12T04:15:56.325736+00:00",
   "categories": [
     {
       "key": "ev",
@@ -251,13 +251,31 @@
     {
       "key": "battery",
       "label": "배터리",
-      "count": 19,
+      "count": 25,
       "items": [
         {
           "title": "Back in the real world: electric equipment is saving job sites BIG MONEY",
           "link": "https://electrek.co/2026/10/11/back-in-the-real-world-electric-equipment-is-saving-job-sites-big-money/",
           "source": "Electrek",
           "published": "2026-10-11T16:04:15+00:00"
+        },
+        {
+          "title": "Battery Swap Uses Fewer Batteries Than You Think",
+          "link": "https://cleantechnica.com/2026/10/10/battery-swap-uses-fewer-batteries-than-you-think/",
+          "source": "CleanTechnica",
+          "published": "2026-10-11T01:41:38+00:00"
+        },
+        {
+          "title": "China & EU Make Deal to Cut Flood of Hybrids into EU",
+          "link": "https://cleantechnica.com/2026/10/10/china-eu-make-deal-to-cut-flood-of-hybrids-into-eu/",
+          "source": "CleanTechnica",
+          "published": "2026-10-10T18:45:19+00:00"
+        },
+        {
+          "title": "NIO Performs 1.2 Million Battery Swaps in Just 7 Days",
+          "link": "https://cleantechnica.com/2026/10/10/nio-performs-1-2-million-battery-swaps-in-just-7-days/",
+          "source": "CleanTechnica",
+          "published": "2026-10-10T13:59:46+00:00"
         },
         {
           "title": "BYD builds 150,000th commercial NEV – an 800 hp Q3 electric semi truck",
@@ -276,6 +294,12 @@
           "link": "https://electrek.co/2026/10/09/teslas-next-big-clean-energy-source-is-rising-in-the-arizona-desert/",
           "source": "Electrek",
           "published": "2026-10-10T00:05:22+00:00"
+        },
+        {
+          "title": "Falco Construction In UK Takes Delivery of 15 Takeuchi Electric Mini Excavators",
+          "link": "https://cleantechnica.com/2026/10/09/falco-construction-in-uk-takes-delivery-of-15-takeuchi-electric-mini-excavators/",
+          "source": "CleanTechnica",
+          "published": "2026-10-09T18:36:38+00:00"
         },
         {
           "title": "VW ID.4 Recalled Over Fire Risk, Owners Told Not To Charge Past 80%",
@@ -302,10 +326,22 @@
           "published": "2026-10-07T20:34:08+00:00"
         },
         {
+          "title": "Jackery & Pebble Partner On Self-Powered RVs",
+          "link": "https://cleantechnica.com/2026/10/07/jackery-pebble-partner-on-self-powered-rvs/",
+          "source": "CleanTechnica",
+          "published": "2026-10-07T17:18:51+00:00"
+        },
+        {
           "title": "This e-bike fits seven riders, and that’s not even the craziest thing about it",
           "link": "https://electrek.co/2026/10/07/this-e-bike-fits-seven-riders-and-thats-not-even-the-craziest-thing-about-it/",
           "source": "Electrek",
           "published": "2026-10-07T15:26:54+00:00"
+        },
+        {
+          "title": "The Solar Century: Landmark Moments in the History of Solar Energy",
+          "link": "https://cleantechnica.com/2026/10/07/the-solar-century-landmark-moments-in-the-history-of-solar-energy/",
+          "source": "CleanTechnica",
+          "published": "2026-10-07T14:06:17+00:00"
         },
         {
           "title": "E-quipment highlight: AMT’s hot-swapping battery electric rail excavator",
@@ -560,13 +596,247 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 1,
+      "count": 40,
       "items": [
         {
-          "title": "앤트로픽, '클로드 스타트업' 무료 혜택 일시 중단…신청 폭증에 전면 재검토",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216136",
+          "title": "AI로 복제한 어도비 무료 대안 '아트크래프트' 등장…저작권 논란",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216149",
           "source": "AI타임스",
-          "published": "2026-10-11T19:46:59+00:00"
+          "published": "2026-10-12T12:58:17+00:00"
+        },
+        {
+          "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+          "link": "https://arxiv.org/abs/2610.12493",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
+          "link": "https://arxiv.org/abs/2610.12536",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
+          "link": "https://arxiv.org/abs/2610.12542",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
+          "link": "https://arxiv.org/abs/2610.12593",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
+          "link": "https://arxiv.org/abs/2610.12596",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents",
+          "link": "https://arxiv.org/abs/2610.12598",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
+          "link": "https://arxiv.org/abs/2610.12655",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis",
+          "link": "https://arxiv.org/abs/2610.12659",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs",
+          "link": "https://arxiv.org/abs/2610.12762",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Representation Alignment from a Few Paired Data via Distilled Optimal Transport",
+          "link": "https://arxiv.org/abs/2610.12781",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "EvoBelief: Falsifiable World Models for Self-Improving LLM Agents",
+          "link": "https://arxiv.org/abs/2610.12789",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "VEPA: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails",
+          "link": "https://arxiv.org/abs/2610.12813",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Reward Hacking as a Transmissible Strategy in Multi-Agent Coding Systems",
+          "link": "https://arxiv.org/abs/2610.12822",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Neural networks are more modular than single neurons suggest",
+          "link": "https://arxiv.org/abs/2610.12842",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Towards Defining, Measuring, and Leveraging Creativity in AI Applications",
+          "link": "https://arxiv.org/abs/2610.12845",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Mitigating Capability Degradation in LLM Self-Improvement via Representation Geometry Regularization",
+          "link": "https://arxiv.org/abs/2610.12855",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Collaborative Theory of Mind: Learning to Self-Revise by Anticipating User Responses",
+          "link": "https://arxiv.org/abs/2610.12872",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "One-Step Text Generation by Seq-Drifting",
+          "link": "https://arxiv.org/abs/2610.12879",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Mind the Spatial Gap: A Benchmark for Geospatial Reasoning and Constrained Spatial Editing",
+          "link": "https://arxiv.org/abs/2610.12881",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models",
+          "link": "https://arxiv.org/abs/2610.12914",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "DeFiRank: Federated Pairwise Ranking for Governance in Decentralized Financial Networks",
+          "link": "https://arxiv.org/abs/2610.12916",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "AI-Mediation in Retail Markets: Revenue Effects and Assortment Optimization",
+          "link": "https://arxiv.org/abs/2610.12917",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Teaching neural decoders with language",
+          "link": "https://arxiv.org/abs/2610.12921",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Collaborative Learning and Reasoning over Model Slices",
+          "link": "https://arxiv.org/abs/2610.12927",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Learning More by Training Less: Uncertainty-Guided Progressive Contraction for Efficient Reasoning Post-Training",
+          "link": "https://arxiv.org/abs/2610.12933",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "MathVis: Can AI Reason through Drawing? A Benchmark for Mathematical Figure Generation",
+          "link": "https://arxiv.org/abs/2610.12954",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "SmartSalesBench: A Resistance-Aware Multi-Turn Benchmark for Evaluating LLM Sales Agents",
+          "link": "https://arxiv.org/abs/2610.12975",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Beyond Semantic IDs: Finite-Beam Reachability and Continuous-Query Generation in Generative Recommendation",
+          "link": "https://arxiv.org/abs/2610.12977",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction",
+          "link": "https://arxiv.org/abs/2610.12984",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Benchmarking Embedding Geometries and Clustering Algorithms for Unsupervised Patent Claim Classification",
+          "link": "https://arxiv.org/abs/2610.12997",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Hindsight Structured Advice Distillation: Steering Executor Agents with Advisors Trained on Their Failures and Task Characteristics",
+          "link": "https://arxiv.org/abs/2610.13000",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Scaling Empowered Agents",
+          "link": "https://arxiv.org/abs/2610.13002",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Provenance-Aware Belief Updating in Human-AI Feedback Loops",
+          "link": "https://arxiv.org/abs/2610.13008",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "EmbodiedCLBench: Evaluating Continual Learning for Self-Evolving Embodied Agents",
+          "link": "https://arxiv.org/abs/2610.13021",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Travel Back To Move Forward: Retrospective Exploration and Evolving for Long Horizon Agents",
+          "link": "https://arxiv.org/abs/2610.13058",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "LongHarness: Advancing Agentic Reasoning over 100M-Token Corpora via Stateful Evidence Management",
+          "link": "https://arxiv.org/abs/2610.13075",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "Attention Sees, MLP Refuses: Tracing the Attention-to-MLP Safety Pathway in LLMs",
+          "link": "https://arxiv.org/abs/2610.13078",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "SWEAR: Section-Wise Efficient Audio Reasoning via Self-Rated Difficulty",
+          "link": "https://arxiv.org/abs/2610.13081",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
+        },
+        {
+          "title": "When Faster Decisions Do Not Make Better Agents: An Empirical Study of Jev in Agent Workflows",
+          "link": "https://arxiv.org/abs/2610.13092",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-12T04:00:00+00:00"
         }
       ]
     }
