@@ -8,7 +8,7 @@ on:
   workflow_dispatch: {}
 
 permissions:
-  contents: write          # data.json 커밋/푸시에 필수
+  contents: write          # gh-pages 브랜치 push에 필수
 
 concurrency:
   group: aggregate
@@ -19,28 +19,32 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - name: Setup uv (Python from .python-version)
+        uses: astral-sh/setup-uv@v10.3.0
         with:
-          python-version: "3.12"
-          cache: pip
+          enable-cache: true
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: uv sync --locked
 
       - name: Aggregate feeds
-        run: python aggregate.py
+        run: uv run python aggregate.py
 
-      - name: Commit data.json if changed
+      # 결과물은 gh-pages 브랜치(커밋 1개, 매번 덮어씀)로만 배포한다.
+      # master/develop에는 봇 커밋이 남지 않는다(gitflow: master는 release/hotfix 머지만).
+      - name: Publish to gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          mkdir site
+          cp index.html data.json site/
+          touch site/.nojekyll
+          cd site
+          git init -q -b gh-pages
           git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- data.json; then
-            echo "data.json 변경 없음 — 커밋 스킵"
-          else
-            git add data.json
-            git commit -m "chore: update data.json [skip ci]"
-            git push
-          fi
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "chore: publish data.json ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push -q --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" gh-pages

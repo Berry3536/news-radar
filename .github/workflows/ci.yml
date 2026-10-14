@@ -1,0 +1,31 @@
+# Standalone CI: this repository is public, so it cannot call stark-kit's private reusable workflows.
+name: CI
+
+on:
+  push:
+    branches: [develop, master]
+  pull_request:
+    branches: [develop, master]
+
+concurrency:
+  group: ci-${{ github.ref }}-${{ github.event_name }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: astral-sh/setup-uv@v10.3.0
+        with:
+          enable-cache: true
+      - name: Install
+        run: uv sync --locked
+      - name: Verify
+        run: |
+          uv run ruff check .
+          uv run python -m py_compile aggregate.py
+          uv run python -c "import json; json.load(open('feeds.json', encoding='utf-8'))"

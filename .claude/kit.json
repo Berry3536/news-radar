@@ -1,0 +1,26 @@
+{
+  "level": "standard",
+  "commands": {
+    "verify": [
+      "uv run ruff check .",
+      "uv run python -m py_compile aggregate.py",
+      "uv run python -c \"import json; json.load(open('feeds.json', encoding='utf-8'))\"",
+      "git diff --check"
+    ],
+    "smoke": []
+  },
+  "release": {
+    "version_file": "pyproject.toml",
+    "notes_file": null,
+    "preflight": [],
+    "branch_edits": []
+  },
+  "settings": {
+    "permissions": {
+      "deny": [
+        "Bash(git push*gh-pages*)",
+        "PowerShell(git push*gh-pages*)"
+      ]
+    }
+  }
+}
