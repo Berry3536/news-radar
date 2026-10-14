@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-10-13T22:16:36.762707+00:00",
+  "generated_at": "2026-10-14T03:28:46.397326+00:00",
   "categories": [
     {
       "key": "ev",
       "label": "전기차",
       "count": 40,
       "items": [
+        {
+          "title": "Tesla is unveiling the new Roadster for real this time, promise",
+          "link": "https://electrek.co/2026/10/13/tesla-roadster-event-thursday-nine-years-delays/",
+          "source": "Electrek",
+          "published": "2026-10-14T01:36:48+00:00"
+        },
+        {
+          "title": "Electric cars saved $20B in oil – and the US is falling behind",
+          "link": "https://electrek.co/2026/10/13/electric-cars-saved-20b-in-oil-and-the-us-is-falling-behind/",
+          "source": "Electrek",
+          "published": "2026-10-13T23:01:00+00:00"
+        },
         {
           "title": "The BMW i3 is nearly $80 less a month to lease than the new iX3, but it’s the same price",
           "link": "https://electrek.co/2026/10/13/bmw-i3-nearly-80-less-a-month-to-lease-than-new-ix3/",
@@ -233,26 +245,20 @@
           "link": "https://electrek.co/2026/10/12/autonomous-military-6x6-packs-electric-drive-and-go-anywhere-grit-video/",
           "source": "Electrek",
           "published": "2026-10-12T11:48:37+00:00"
-        },
-        {
-          "title": "This electric motorcycle company just hit 10 million battery swaps – and it’s profitable",
-          "link": "https://electrek.co/2026/10/12/this-electric-motorcycle-company-just-hit-10-million-battery-swaps-and-its-profitable/",
-          "source": "Electrek",
-          "published": "2026-10-12T11:30:51+00:00"
-        },
-        {
-          "title": "The Tiny Smart EV Is Back With An Answer To Its Biggest Weakness",
-          "link": "https://insideevs.com/news/811594/smart-2-electric-city-car/",
-          "source": "InsideEVs",
-          "published": "2026-10-12T11:08:26+00:00"
         }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
-      "count": 25,
+      "count": 26,
       "items": [
+        {
+          "title": "EU-UK TCA: Getting Made in Europe Rules Right",
+          "link": "https://cleantechnica.com/2026/10/13/eu-uk-tca-getting-made-in-europe-rules-right/",
+          "source": "CleanTechnica",
+          "published": "2026-10-14T01:39:22+00:00"
+        },
         {
           "title": "Pebble Upgrades the 2027 Flow, Turning It Into A Microgrid To Power Your Adventures & Your Home,",
           "link": "https://cleantechnica.com/2026/10/12/pebble-upgrades-the-2027-flow-turning-it-into-a-microgrid-to-power-your-adventures-your-home/",
@@ -478,6 +484,12 @@
       "count": 22,
       "items": [
         {
+          "title": "NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors",
+          "link": "https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors/",
+          "source": "The Robot Report",
+          "published": "2026-10-13T23:22:05+00:00"
+        },
+        {
           "title": "Hello Robot, A&K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness",
           "link": "https://www.therobotreport.com/hello-robot-ak-robotics-discuss-how-robots-navigate-crowded-indoor-spaces-robobusiness/",
           "source": "The Robot Report",
@@ -592,12 +604,6 @@
           "published": "2026-10-07T13:49:48+00:00"
         },
         {
-          "title": "Harmonic Drive to share how integrated actuators can reduce engineering at RoboBusiness",
-          "link": "https://www.therobotreport.com/harmonic-drive-share-how-integrated-actuators-reduce-engineering-robobusiness/",
-          "source": "The Robot Report",
-          "published": "2026-10-07T12:24:09+00:00"
-        },
-        {
           "title": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away",
           "link": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
           "source": "IEEE Spectrum",
@@ -617,10 +623,10 @@
       "count": 40,
       "items": [
         {
-          "title": "[10월13일] 1년 반 만에 약속 지킨 저커버그…이제는 '개인용 초지능' 승부",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216183",
+          "title": "캐릭터닷AI, 파산 신청...디즈니에 270억 자산 매각 추진",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216237",
           "source": "AI타임스",
-          "published": "2026-10-14T07:00:00+00:00"
+          "published": "2026-10-14T11:58:29+00:00"
         },
         {
           "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
