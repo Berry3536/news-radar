@@ -31,7 +31,7 @@ COMMIT_RE = re.compile(
 TAG_RE = re.compile(r"^v\d+\.\d+\.\d+$")
 MERGE_SOURCES = {
     "master": ("release/", "hotfix/"),
-    "develop": ("feature/", "bugfix/", "release/", "hotfix/", "master"),  # master: gitflow sync
+    "develop": ("feature/", "bugfix/", "release/", "hotfix/", "master", "dependabot/"),  # master: resync
 }
 
 
