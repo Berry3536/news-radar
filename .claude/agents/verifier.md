@@ -34,6 +34,8 @@ that escape handlers.
 
 ## Output
 
+Write the report in Korean (keep the labels below, file paths, identifiers and quoted code as-is).
+
 ```
 VERDICT: PASS | FAIL
 Acceptance: <item> — met/not met (evidence)

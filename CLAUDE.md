@@ -18,6 +18,7 @@ Public repository — never commit anything private.
 
 ```powershell
 uv sync                              # .venv from uv.lock (Python 3.13), incl. ruff
+uv run pytest                        # unit tests for the filter/date/dedup helpers
 uv run python aggregate.py           # writes data.json (network)
 uv run python -m http.server         # preview at http://localhost:8000
 ```
@@ -27,7 +28,7 @@ uv run python -m http.server         # preview at http://localhost:8000
 - Committing `data.json` to `master`/`develop`; it is published only on `gh-pages`.
 - Pushing to `gh-pages` by hand; only the workflow writes it.
 
-<!-- stark-kit:begin level=standard kit=0.2.2 — generated; edit stark-kit, then `kit.py sync` -->
+<!-- stark-kit:begin level=standard kit=0.3.0 — generated; edit stark-kit, then `kit.py sync` -->
 
 # Kit rules
 
@@ -59,13 +60,15 @@ pushes, and tags still need the user's request.
   below are active. If `git config core.hooksPath` is empty, tell the user.
 - Verify commands for this repo are in `.claude/kit.json` (`commands.verify`, `commands.smoke`).
 - Never run a command listed under **Forbidden** in the project section, even to test something.
+- Cross-cutting code (logging, config, files, time, errors) follows `.claude/CONVENTIONS.md`;
+  package layout and import layering are declared per repo (`kit.json` `layout`, `[tool.importlinter]`).
 
 ## Git (gitflow)
 
 | Branch | From | Merges into | Notes |
 |---|---|---|---|
 | `master` | — | — | Release history only. Every commit is a merge from `release/*` or `hotfix/*`, tagged `vX.Y.Z`. |
-| `develop` | `master` | — | Integration. Only merges from `feature/*`, `bugfix/*`, `release/*`, `hotfix/*` (and `master` to resync). |
+| `develop` | `master` | — | Integration. Only merges from `feature/*`, `bugfix/*`, `release/*`, `hotfix/*`, `dependabot/*` (and `master` to resync). |
 | `feature/<slug>` | `develop` | `develop` | New work. Slug may start with a tracker ID (`feature/BL-055-audit-fixes`). |
 | `bugfix/<slug>` | `develop` | `develop` | Fix for something not yet released. |
 | `release/X.Y.Z` | `develop` | `master` + `develop` | Version bump, release notes, last fixes only. Use the `release` skill. |
