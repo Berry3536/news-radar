@@ -37,8 +37,9 @@ Lazy imports to break a cycle are a smell — move the shared piece down instead
 
 - One named root logger per application (`"alfred"`, `"swap_candb"`), configured once at startup
   by a `setup_logging()`/`setup_logger()` in the app layer; libraries never configure handlers.
-- Module loggers are children of that root: `logging.getLogger(f"{APP_LOGGER}.{__name__}")` or a
-  package `__name__` that already lives under the root package name. Never a logger outside the tree.
+- Module loggers are children of that root, obtained through one helper that strips the package
+  prefix (e.g. `child_logger(__name__)` → `alfred.trading.engine`); the helper lives below the app
+  layer (`core`) so lower layers never import `app` for it. Never a logger outside the tree.
 - Never log secrets; redact at the boundary (see alfred `security/redaction.py` for the pattern).
 
 ## Configuration

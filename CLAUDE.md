@@ -28,7 +28,7 @@ uv run python -m http.server         # preview at http://localhost:8000
 - Committing `data.json` to `master`/`develop`; it is published only on `gh-pages`.
 - Pushing to `gh-pages` by hand; only the workflow writes it.
 
-<!-- stark-kit:begin level=standard kit=0.3.0 — generated; edit stark-kit, then `kit.py sync` -->
+<!-- stark-kit:begin level=standard kit=0.3.1 — generated; edit stark-kit, then `kit.py sync` -->
 
 # Kit rules
 
