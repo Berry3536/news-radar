@@ -22,9 +22,13 @@ Stop and ask before every step marked **[confirm]**. Stop on any failure.
    checks (read-only) and report them. **[confirm]**
 2. `git switch -c release/X.Y.Z`. Verify.
 3. Draft release notes from `git log --no-merges <last tag>..HEAD` (and the tracker's done
-   items, if the project has one). Korean, ≤ 10 bullets, user-visible changes only, plus a
-   "미지원 / 주의" line for known limits. Write to the scratchpad (and `release.notes_file`
-   if set) and show the user. **[confirm]**
+   items, if the project has one) **in the stark-kit format**: copy `templates/release-notes.md`
+   from the kit (same layout as every existing GitHub Release of the repo) and fill it —
+   Korean; title `## <제품> vX.Y.Z (YYYY-MM-DD)`; a one- or two-sentence 합니다체 summary;
+   sections `변경 사항` (≤ 10 개조식 bullets, bold lead + colon, user-visible only, tracker
+   IDs in parentheses), `미지원 / 주의`, `설치` (the repo's fixed install wording), then the
+   `전체 변경 내역:` compare link. Write to the scratchpad (and `release.notes_file` if set)
+   and show the user. **[confirm]**
 4. Set the version in `release.version_file` and apply `release.branch_edits`. Commit
    `chore: release vX.Y.Z` on the release branch with the version, notes file, and those
    edits. Only version, notes, release doc edits, and last-minute fixes go here.
@@ -33,8 +37,9 @@ Stop and ask before every step marked **[confirm]**. Stop on any failure.
 7. `git switch develop && git merge --no-ff release/X.Y.Z`. Verify. Then `git branch -d release/X.Y.Z`.
 8. `git push origin master develop vX.Y.Z`. **[confirm]** — this triggers the release
    workflow, which creates a **draft** GitHub Release.
-9. `gh run watch` the release run. Replace the draft body:
-   `gh release edit vX.Y.Z --notes-file <notes>`. Ask whether to mark it pre-release. **[confirm]**
+9. `gh run watch` the release run (if the repo has one; otherwise `gh release create vX.Y.Z --draft`).
+   Replace the generated body with the notes from step 3: `gh release edit vX.Y.Z --notes-file <notes>`
+   (the release title stays the tag). Ask whether to mark it pre-release. **[confirm]**
 10. Tell the user to review and publish the draft. Never publish it yourself.
 
 Rollback before push: delete the local tag and reset local `master`/`develop` only with the
