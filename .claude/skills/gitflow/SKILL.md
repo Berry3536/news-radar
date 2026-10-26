@@ -18,9 +18,19 @@ and `commands.smoke`.
 1. Clean tree on the branch; verify passes; the level workflow (CLAUDE.md) reached "report"
    and the user approved. **[confirm]**
 2. `git switch develop && git pull --ff-only origin develop`
-3. `git merge --no-ff <type>/<slug>` (default message). On conflict: stop and report.
-4. Verify on `develop`.
-5. `git branch -d <type>/<slug>`. Pushing `develop` is a separate request. **[confirm]**
+3. `git switch <type>/<slug> && git rebase develop` so the branch sits on the `develop` tip
+   (the branch is local). On conflict: stop and report. If the rebase moved the branch, re-run verify.
+4. `git switch develop && git merge --no-ff <type>/<slug>` (default message).
+5. Verify on `develop`.
+6. `git branch -d <type>/<slug>`. Pushing `develop` is a separate request. **[confirm]**
+
+## dependabot PR (into develop)
+
+One PR at a time. `git fetch origin`; if `origin/<dependabot-branch>` is not on the `develop`
+tip (`git merge-base --is-ancestor develop origin/<branch>` fails), comment `@dependabot rebase`
+on the PR (`gh pr comment <n> --body "@dependabot rebase"`) and wait for the bot's new head.
+Then `git switch develop && git merge --no-ff origin/<branch>`, verify, push `develop`
+**[confirm]**, and only then start the next PR (its rebase needs the pushed tip).
 
 ## hotfix (fix for a released version)
 
@@ -34,4 +44,4 @@ Set the version in `kit.json` `release.version_file` on the branch and commit
 ## sync
 
 If `develop` lacks commits that exist on `master` (`git log develop..master`), propose
-`git switch develop && git merge --no-ff master`. **[confirm]**
+`git switch develop && git merge --no-ff master`. **[confirm]** (`master` is never rebased.)
