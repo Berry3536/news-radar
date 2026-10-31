@@ -1,0 +1,994 @@
+{
+  "generated_at": "2026-10-31T16:47:36.398273+00:00",
+  "categories": [
+    {
+      "key": "ev",
+      "label": "전기차",
+      "count": 40,
+      "items": [
+        {
+          "title": "Rivian's Charging Network Grew 39% In A Year",
+          "link": "https://insideevs.com/news/813896/rivian-adventure-networks-dc-fast-chargers-growth-q3-2026/",
+          "source": "InsideEVs",
+          "published": "2026-10-31T14:00:00+00:00"
+        },
+        {
+          "title": "AI-Powered Coffee Runs And Service Visits Are Coming To Rivians Next Year, Software Chief Says",
+          "link": "https://insideevs.com/features/813951/rivian-chief-software-officer-wassym-bensaid-interview-ai-assistant/",
+          "source": "InsideEVs",
+          "published": "2026-10-31T12:00:00+00:00"
+        },
+        {
+          "title": "One Year Without EV Tax Credits: 4 Key Takeaways",
+          "link": "https://insideevs.com/features/813947/after-a-year-without-tax-credits-evs-are-down-not-out/",
+          "source": "InsideEVs",
+          "published": "2026-10-31T11:00:00+00:00"
+        },
+        {
+          "title": "BYD reveals a flashy new feature on its upcoming luxury EV",
+          "link": "https://electrek.co/2026/10/30/byd-reveals-flashy-new-feature-upcoming-luxury-ev/",
+          "source": "Electrek",
+          "published": "2026-10-30T20:19:39+00:00"
+        },
+        {
+          "title": "Podcast: Rivian earnings, Waymo partners with Toyota, Ford bets on V2H for Fathom, and more",
+          "link": "https://electrek.co/2026/10/30/podcast-rivian-earnings-waymo-partners-with-toyota-ford-bets-on-v2h-for-fathom-and-more/",
+          "source": "Electrek",
+          "published": "2026-10-30T19:30:35+00:00"
+        },
+        {
+          "title": "Waymo's Public Fast-Charging Problem Is Infuriating EV Drivers",
+          "link": "https://insideevs.com/news/813929/waymo-ev-charging-problem-california/",
+          "source": "InsideEVs",
+          "published": "2026-10-30T19:28:44+00:00"
+        },
+        {
+          "title": "Tesla drops car referral rewards, now pays owners in FSD for referrals",
+          "link": "https://electrek.co/2026/10/30/tesla-referral-program-fsd-car-rewards-dropped/",
+          "source": "Electrek",
+          "published": "2026-10-30T18:02:35+00:00"
+        },
+        {
+          "title": "Bluetti 288Wh Elite 30 Mini power station exclusive pre-order deals, Aventon Abound SR + LR cargo e-bikes first savings, more",
+          "link": "https://electrek.co/2026/10/30/bluetti-288wh-elite-30-mini-power-station-aventon-abound-sr-lr-cargo-e-bikes-more/",
+          "source": "Electrek",
+          "published": "2026-10-30T18:00:00+00:00"
+        },
+        {
+          "title": "Toyota reveals five new lifted Woodland concepts, including the bZ electric SUV",
+          "link": "https://electrek.co/2026/10/30/toyota-reveals-five-new-lifted-woodland-concepts-including-an-ev/",
+          "source": "Electrek",
+          "published": "2026-10-30T17:49:36+00:00"
+        },
+        {
+          "title": "2026 서울클래식카쇼 개막",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44843",
+          "source": "모터그래프",
+          "published": "2026-10-30T17:35:29+00:00"
+        },
+        {
+          "title": "Hyundai launches the new IONIQ 6 in the UK with up to 422 miles of range, starting at $45K",
+          "link": "https://electrek.co/2026/10/30/hyundai-launches-new-ioniq-6-uk-with-422-miles-range/",
+          "source": "Electrek",
+          "published": "2026-10-30T16:36:26+00:00"
+        },
+        {
+          "title": "Tesla's Cybercab Is Built In A Radical New Way. Here's How It Works",
+          "link": "https://insideevs.com/news/813774/tesla-cybercab-factory-munro-live/",
+          "source": "InsideEVs",
+          "published": "2026-10-30T15:57:11+00:00"
+        },
+        {
+          "title": "‘We Are Long-Term Committed In Europe’: Why Tariffs Won’t Scare Zeekr Off",
+          "link": "https://insideevs.com/news/813777/zeekr-europe-committed/",
+          "source": "InsideEVs",
+          "published": "2026-10-30T15:19:29+00:00"
+        },
+        {
+          "title": "Volkswagen hits pause on the Golf EV as it faces an ‘urgent need for action’",
+          "link": "https://electrek.co/2026/10/30/volkswagen-pauses-golf-ev-faces-urgent-need-for-action/",
+          "source": "Electrek",
+          "published": "2026-10-30T14:29:23+00:00"
+        },
+        {
+          "title": "Waymo picks Toyota bZ4X as its next robotaxi, starting in Japan in 2027",
+          "link": "https://electrek.co/2026/10/30/waymo-toyota-bz4x-robotaxi-japan-2027/",
+          "source": "Electrek",
+          "published": "2026-10-30T13:22:30+00:00"
+        },
+        {
+          "title": "Wheel-e Podcast: New Amflow, Trek e-bikes, ALSO runs out of charge, more",
+          "link": "https://electrek.co/2026/10/30/wheel-e-podcast-new-amflow-trek-e-bikes-also-runs-out-of-charge-more/",
+          "source": "Electrek",
+          "published": "2026-10-30T12:51:48+00:00"
+        },
+        {
+          "title": "Jasion Poki review: The Electric Minibike that packs heavy-duty fun",
+          "link": "https://electrek.co/2026/10/30/jasion-poki-review-the-electric-minibike-that-packs-heavy-duty-fun/",
+          "source": "Electrek",
+          "published": "2026-10-30T12:42:10+00:00"
+        },
+        {
+          "title": "Volkswagen Can't Afford Its Upcoming Electric Golf Right Now",
+          "link": "https://insideevs.com/news/813891/volkswagen-id-golf-development-paused-official/",
+          "source": "InsideEVs",
+          "published": "2026-10-30T12:13:30+00:00"
+        },
+        {
+          "title": "I Drove The 2027 Nissan Rogue Hybrid And Toyota RAV4 Back To Back. One Stood Out",
+          "link": "https://insideevs.com/reviews/813726/2027-nissan-rogue-hybrid-review-toyota-rav4-rival/",
+          "source": "InsideEVs",
+          "published": "2026-10-30T12:00:00+00:00"
+        },
+        {
+          "title": "Toyota Is Turning The bZ EV Into A Waymo Robotaxi, Starting in 2027",
+          "link": "https://insideevs.com/news/813848/toyota-bz-waymo-robotaxi-2027/",
+          "source": "InsideEVs",
+          "published": "2026-10-30T09:54:09+00:00"
+        },
+        {
+          "title": "Harley-Davidson’s electric motorcycle brand LiveWire warns it may not survive",
+          "link": "https://electrek.co/2026/10/30/harley-davidsons-electric-motorcycle-brand-livewire-warns-it-may-not-survive/",
+          "source": "Electrek",
+          "published": "2026-10-30T08:10:00+00:00"
+        },
+        {
+          "title": "Rivian's Amazon Van Got More Range And AWD To Cover More Routes",
+          "link": "https://insideevs.com/news/813820/rivian-electric-van-amazon-edv-battery-motor-upgrade/",
+          "source": "InsideEVs",
+          "published": "2026-10-30T07:47:06+00:00"
+        },
+        {
+          "title": "Someone ran Rivian’s pedal-by-wire e-bike out of battery and things got weird",
+          "link": "https://electrek.co/2026/10/29/someone-ran-rivians-pedal-by-wire-e-bike-out-of-battery-and-things-got-weird/",
+          "source": "Electrek",
+          "published": "2026-10-30T06:51:21+00:00"
+        },
+        {
+          "title": "Fiat's Tiny $15,000 EV Can Finally Hit American Streets",
+          "link": "https://insideevs.com/news/813789/fiat-topolino-finally-street-legal/",
+          "source": "InsideEVs",
+          "published": "2026-10-29T23:25:19+00:00"
+        },
+        {
+          "title": "BYD spotted testing a new minivan [Video]",
+          "link": "https://electrek.co/2026/10/29/byd-spotted-testing-new-minivan-video/",
+          "source": "Electrek",
+          "published": "2026-10-29T21:27:11+00:00"
+        },
+        {
+          "title": "Ford CEO Says Its New EV Tech Is 30% More Efficient Than BYD's",
+          "link": "https://insideevs.com/news/813781/ford-byd-motors-30-fathom/",
+          "source": "InsideEVs",
+          "published": "2026-10-29T21:11:40+00:00"
+        },
+        {
+          "title": "Rivian's R2 Is Already Its Best-Selling EV. Now The Company Expects Even Bigger Sales",
+          "link": "https://insideevs.com/news/813785/rivian-r2-best-seller-revised-delivery-guidance/",
+          "source": "InsideEVs",
+          "published": "2026-10-29T20:39:56+00:00"
+        },
+        {
+          "title": "Rivian’s electric van gets 30% more range and AWD, now delivering",
+          "link": "https://electrek.co/2026/10/29/rivian-electric-van-awd-30-percent-more-range/",
+          "source": "Electrek",
+          "published": "2026-10-29T20:04:01+00:00"
+        },
+        {
+          "title": "Toyota’s EV sales more than doubled in a year, but gas cars are getting crushed in China",
+          "link": "https://electrek.co/2026/10/29/toyotas-ev-sales-doubled-but-gas-cars-getting-crushed-china/",
+          "source": "Electrek",
+          "published": "2026-10-29T20:02:40+00:00"
+        },
+        {
+          "title": "Rivian (RIVN) Q3 2026 earnings: revenue up 38%, R2 now its best-seller",
+          "link": "https://electrek.co/2026/10/29/rivian-rivn-q3-2026-earnings-r2-best-seller/",
+          "source": "Electrek",
+          "published": "2026-10-29T20:02:00+00:00"
+        },
+        {
+          "title": "Ford Fathom Pricing Will Stretch Into the 'High $30,000 Range'",
+          "link": "https://insideevs.com/news/813746/ford-fathom-pricing-high-30k/",
+          "source": "InsideEVs",
+          "published": "2026-10-29T19:10:28+00:00"
+        },
+        {
+          "title": "Volkswagen's EVs Are Selling Like Crazy. That's Actually Hurting Its Profits",
+          "link": "https://insideevs.com/news/813762/vw-ev-sales-low-profits/",
+          "source": "InsideEVs",
+          "published": "2026-10-29T18:28:22+00:00"
+        },
+        {
+          "title": "EcoFlow 3,072Wh power station $1,299 in flash sale, exclusive refurb Anker SOLIX deals, Segway F3 e-scooter $650 low, more",
+          "link": "https://electrek.co/2026/10/29/ecoflow-delta-3-ultra-power-station-exclusive-refurb-anker-solix-segway-f3-e-scooter-more/",
+          "source": "Electrek",
+          "published": "2026-10-29T18:00:00+00:00"
+        },
+        {
+          "title": "Hyundai hints at IONIQ P as the name for its new entry-level EV",
+          "link": "https://electrek.co/2026/10/29/hyundai-ioniq-p-name-new-entry-level-ev/",
+          "source": "Electrek",
+          "published": "2026-10-29T17:08:23+00:00"
+        },
+        {
+          "title": "Ex-Tesla Autopilot head calls vision-only a ‘weird religious stance’",
+          "link": "https://electrek.co/2026/10/29/ex-tesla-autopilot-head-vision-only-weird-religious-stance/",
+          "source": "Electrek",
+          "published": "2026-10-29T16:10:00+00:00"
+        },
+        {
+          "title": "This $15,000 low-speed EV is now on sale, and it’s street-legal",
+          "link": "https://electrek.co/2026/10/29/15000-low-speed-ev-now-on-sale-street-legal/",
+          "source": "Electrek",
+          "published": "2026-10-29T15:34:03+00:00"
+        },
+        {
+          "title": "The Ford Escape may return as an EV based on the UEV platform [Update]",
+          "link": "https://electrek.co/2026/10/29/ford-escape-ev-uev-platform-update/",
+          "source": "Electrek",
+          "published": "2026-10-29T14:13:42+00:00"
+        },
+        {
+          "title": "BYD (BYDDY) Q3 profit jumps 28% on exports, but inventory balloons 60%",
+          "link": "https://electrek.co/2026/10/29/byd-q3-2026-earnings-profit-exports-inventory/",
+          "source": "Electrek",
+          "published": "2026-10-29T14:00:32+00:00"
+        },
+        {
+          "title": "Driving The Cheapest Lucid Air For 40,000 Miles Came With A Few Surprises",
+          "link": "https://insideevs.com/news/813727/lucid-air-pure-ownership-review-video/",
+          "source": "InsideEVs",
+          "published": "2026-10-29T13:46:31+00:00"
+        },
+        {
+          "title": "New Trek e-bike is first to get Bosch’s new motor with a major power upgrade",
+          "link": "https://electrek.co/2026/10/29/new-trek-e-bike-is-first-to-get-boschs-new-motor-with-a-major-power-upgrade/",
+          "source": "Electrek",
+          "published": "2026-10-29T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "key": "battery",
+      "label": "배터리",
+      "count": 39,
+      "items": [
+        {
+          "title": "The Share of Solar Generation with Co-located Battery Storage Is Increasing",
+          "link": "https://cleantechnica.com/2026/10/30/the-share-of-solar-generation-with-co-located-battery-storage-is-increasing/",
+          "source": "CleanTechnica",
+          "published": "2026-10-31T02:27:19+00:00"
+        },
+        {
+          "title": "BYD reveals a flashy new feature on its upcoming luxury EV",
+          "link": "https://electrek.co/2026/10/30/byd-reveals-flashy-new-feature-upcoming-luxury-ev/",
+          "source": "Electrek",
+          "published": "2026-10-30T20:19:39+00:00"
+        },
+        {
+          "title": "Rivian's Amazon Van Got More Range And AWD To Cover More Routes",
+          "link": "https://insideevs.com/news/813820/rivian-electric-van-amazon-edv-battery-motor-upgrade/",
+          "source": "InsideEVs",
+          "published": "2026-10-30T07:47:06+00:00"
+        },
+        {
+          "title": "Someone ran Rivian’s pedal-by-wire e-bike out of battery and things got weird",
+          "link": "https://electrek.co/2026/10/29/someone-ran-rivians-pedal-by-wire-e-bike-out-of-battery-and-things-got-weird/",
+          "source": "Electrek",
+          "published": "2026-10-30T06:51:21+00:00"
+        },
+        {
+          "title": "Rivian’s electric van gets 30% more range and AWD, now delivering",
+          "link": "https://electrek.co/2026/10/29/rivian-electric-van-awd-30-percent-more-range/",
+          "source": "Electrek",
+          "published": "2026-10-29T20:04:01+00:00"
+        },
+        {
+          "title": "Ireland’s Grid Flexibility Assessment Shows Why Location Matters",
+          "link": "https://cleantechnica.com/2026/10/29/grid-flexibility-location-ireland-naas/",
+          "source": "CleanTechnica",
+          "published": "2026-10-29T16:59:03+00:00"
+        },
+        {
+          "title": "Sure Looks Like Trump Loves EVs After All",
+          "link": "https://cleantechnica.com/2026/10/29/battman-batteries-evs-energy-storage-us-trump/",
+          "source": "CleanTechnica",
+          "published": "2026-10-29T14:25:06+00:00"
+        },
+        {
+          "title": "Scaling European Battery Recycling via the Circular Economy Act",
+          "link": "https://cleantechnica.com/2026/10/29/scaling-european-battery-recycling-via-the-circular-economy-act/",
+          "source": "CleanTechnica",
+          "published": "2026-10-29T14:08:52+00:00"
+        },
+        {
+          "title": "After Years-Long Community Objection, Dairyland Power Pulls the Plug on NTEC Gas Plant",
+          "link": "https://cleantechnica.com/2026/10/28/after-years-long-community-objection-dairyland-power-pulls-the-plug-on-ntec-gas-plant/",
+          "source": "CleanTechnica",
+          "published": "2026-10-29T00:25:58+00:00"
+        },
+        {
+          "title": "Volkswagen’s EV battery recall reaches over 85,000, with Audi now included",
+          "link": "https://electrek.co/2026/10/28/volkswagens-ev-battery-recall-reaches-over-85000-with-audi/",
+          "source": "Electrek",
+          "published": "2026-10-28T18:09:59+00:00"
+        },
+        {
+          "title": "China Steps Back From Promoting Second-Life EV Batteries",
+          "link": "https://cleantechnica.com/2026/10/28/china-second-life-ev-battery-reuse-rules/",
+          "source": "CleanTechnica",
+          "published": "2026-10-28T15:15:36+00:00"
+        },
+        {
+          "title": "CATL pushes ahead with 20 Ah solid-state EV batteries, with 500 Wh/kg in sight",
+          "link": "https://electrek.co/2026/10/28/catl-pushes-ahead-20-ah-solid-state-ev-batteries-500-wh-kg/",
+          "source": "Electrek",
+          "published": "2026-10-28T15:12:41+00:00"
+        },
+        {
+          "title": "Tesla Semi catches fire on I-880 with no crash, closes freeway for 10 hours",
+          "link": "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/",
+          "source": "Electrek",
+          "published": "2026-10-28T12:34:10+00:00"
+        },
+        {
+          "title": "Anker launches ‘world’s longest lasting’ 5,024Wh power station with $2,150 exclusive savings, Lectric XP Lite3 e-bike launch, more",
+          "link": "https://electrek.co/2026/10/27/anker-s5000-5024wh-power-station-exclusive-lectric-xp-lite3-e-bike-more/",
+          "source": "Electrek",
+          "published": "2026-10-27T18:00:00+00:00"
+        },
+        {
+          "title": "Future Cleantech Architects Has a Shipping Factsheet Worth Reading",
+          "link": "https://cleantechnica.com/2026/10/27/shipping-factsheet-future-cleantech-architects/",
+          "source": "CleanTechnica",
+          "published": "2026-10-27T17:49:49+00:00"
+        },
+        {
+          "title": "BYD names its ultra-luxury EV, and it could be a game changer next week",
+          "link": "https://electrek.co/2026/10/27/byd-names-ultra-luxury-ev-could-be-game-changer/",
+          "source": "Electrek",
+          "published": "2026-10-27T13:34:14+00:00"
+        },
+        {
+          "title": "Bluetti Elite 300 3,014Wh power station $600 off, EGO Select Cut + Touch Drive mower with 10.0Ah battery $909 low, more",
+          "link": "https://electrek.co/2026/10/26/bluetti-elite-300-3014wh-power-station-ego-select-cut-touch-drive-mower/",
+          "source": "Electrek",
+          "published": "2026-10-26T18:00:00+00:00"
+        },
+        {
+          "title": "Range Energy shows how its eTrailer saves almost as much as a Tesla Semi",
+          "link": "https://electrek.co/2026/10/26/range-energy-shows-how-its-etrailer-saves-almost-as-much-as-a-tesla-semi/",
+          "source": "Electrek",
+          "published": "2026-10-26T12:00:00+00:00"
+        },
+        {
+          "title": "All aboard! Massachusetts is getting 10 new electric transit trains",
+          "link": "https://electrek.co/2026/10/26/all-aboard-massachusetts-is-getting-10-new-electric-transit-trains/",
+          "source": "Electrek",
+          "published": "2026-10-26T11:42:24+00:00"
+        },
+        {
+          "title": "Amflow launches two powerful new electric bikes, including its first SUV-style e-bike",
+          "link": "https://electrek.co/2026/10/26/amflow-launches-two-powerful-new-electric-bikes-including-its-first-suv-style-e-bike/",
+          "source": "Electrek",
+          "published": "2026-10-26T08:01:59+00:00"
+        },
+        {
+          "title": "Battery electric, solar-powered reefer units reach their first customers",
+          "link": "https://electrek.co/2026/10/25/battery-electric-solar-powered-reefer-units-reach-their-first-customers/",
+          "source": "Electrek",
+          "published": "2026-10-25T17:28:39+00:00"
+        },
+        {
+          "title": "EGO Commercial expands ZTR line with mowers, blowers, and trimmers",
+          "link": "https://electrek.co/2026/10/24/ego-commercial-expands-ztr-line-with-mowers-blowers-and-trimmers/",
+          "source": "Electrek",
+          "published": "2026-10-24T11:59:07+00:00"
+        },
+        {
+          "title": "GM is betting on battery cells that don’t use lithium [updated]",
+          "link": "https://electrek.co/2026/10/23/gm-sodium-ion-battery-peak-energy/",
+          "source": "Electrek",
+          "published": "2026-10-23T22:59:39+00:00"
+        },
+        {
+          "title": "Anker SOLIX 4,096Wh expanded C2000 Gen 2 power station $1,519, 150-mile L16 utility e-bike lows from $649, Snow blower low, more",
+          "link": "https://electrek.co/2026/10/23/anker-solix-c2000-gen-2-power-station-l16-utility-e-bike-snow-blower-more/",
+          "source": "Electrek",
+          "published": "2026-10-23T18:00:00+00:00"
+        },
+        {
+          "title": "Tesla cancels Cybertruck in Australia and NZ after 7 years of deposits",
+          "link": "https://electrek.co/2026/10/23/tesla-cancels-cybertruck-australia-new-zealand/",
+          "source": "Electrek",
+          "published": "2026-10-23T14:35:37+00:00"
+        },
+        {
+          "title": "Yozma IN 11 review: The OG mini e-moto gets updates galore",
+          "link": "https://electrek.co/2026/10/23/yozma-in-11-review-the-og-mini-e-moto-gets-updates-galore/",
+          "source": "Electrek",
+          "published": "2026-10-23T12:39:08+00:00"
+        },
+        {
+          "title": "sonnen files for insolvency in Germany as US sales double",
+          "link": "https://electrek.co/2026/10/22/sonnen-files-for-insolvency-in-germany-as-us-sales-double/",
+          "source": "Electrek",
+          "published": "2026-10-22T22:07:26+00:00"
+        },
+        {
+          "title": "Fortescue is using KUKA welding robots to handle 6 MW charging cables [video]",
+          "link": "https://electrek.co/2026/10/22/fortescue-is-using-kuka-welding-robots-to-handle-6-mw-charging-cables-video/",
+          "source": "Electrek",
+          "published": "2026-10-22T14:10:00+00:00"
+        },
+        {
+          "title": "The 2027 Ford Mustang Mach-E gains a standard long-range battery and starts at $40,000",
+          "link": "https://electrek.co/2026/10/22/2027-ford-mustang-mach-e-adds-range-starts-40000/",
+          "source": "Electrek",
+          "published": "2026-10-22T13:00:00+00:00"
+        },
+        {
+          "title": "Redwood and Rivian set to expand their EV battery recycling partnership",
+          "link": "https://electrek.co/2026/10/22/redwood-and-rivian-set-to-expand-their-ev-battery-recycling-partnership/",
+          "source": "Electrek",
+          "published": "2026-10-22T11:00:00+00:00"
+        },
+        {
+          "title": "Rio Tinto eyes a giant hot-brick battery to cut fossil fuel use",
+          "link": "https://electrek.co/2026/10/21/rio-tinto-eyes-a-giant-hot-brick-battery-to-cut-fossil-fuel-use/",
+          "source": "Electrek",
+          "published": "2026-10-21T22:37:53+00:00"
+        },
+        {
+          "title": "Tesla energy revenue drops 16% as it refunds customers over tariffs",
+          "link": "https://electrek.co/2026/10/21/tesla-energy-revenue-drops-tariff-customer-refunds/",
+          "source": "Electrek",
+          "published": "2026-10-21T21:18:18+00:00"
+        },
+        {
+          "title": "Tesla blames battery supply for flat sales, but its prices keep falling",
+          "link": "https://electrek.co/2026/10/21/tesla-battery-supply-limiting-sales-prices-falling/",
+          "source": "Electrek",
+          "published": "2026-10-21T20:39:19+00:00"
+        },
+        {
+          "title": "Volkswagen recalls nearly 73,000 EVs due to faulty batteries",
+          "link": "https://electrek.co/2026/10/21/volkswagen-recalls-nearly-73000-evs-faulty-batteries/",
+          "source": "Electrek",
+          "published": "2026-10-21T13:56:20+00:00"
+        },
+        {
+          "title": "Segway E3 Go electric scooter launches at $100 off, Bluetti 2,016Wh FridgePower station exclusive $854 in Member Sale, more",
+          "link": "https://electrek.co/2026/10/20/segway-e3-go-electric-scooter-bluetti-2016wh-fridgepower-station-more/",
+          "source": "Electrek",
+          "published": "2026-10-20T18:00:00+00:00"
+        },
+        {
+          "title": "Volkswagen opens orders for the lower-priced ID. Cross, starting at about $31,000",
+          "link": "https://electrek.co/2026/10/19/vw-opens-orders-lower-priced-id-cross-starting-31000/",
+          "source": "Electrek",
+          "published": "2026-10-19T20:55:43+00:00"
+        },
+        {
+          "title": "EcoFlow Halloween Sale offers up to 57% spooky power station savings from $284, Monarc smart e-bikes from $1,399, more",
+          "link": "https://electrek.co/2026/10/19/ecoflow-halloween-sale-power-stations-monarc-smart-e-bikes-more/",
+          "source": "Electrek",
+          "published": "2026-10-19T18:00:00+00:00"
+        },
+        {
+          "title": "Huawei’s car unit joins CATL’s 2,520-station battery swap network",
+          "link": "https://electrek.co/2026/10/19/huawei-catl-battery-swap-choco-2520-stations/",
+          "source": "Electrek",
+          "published": "2026-10-19T16:07:58+00:00"
+        },
+        {
+          "title": "Why this major e-bike brand just started selling battery-less electric bikes",
+          "link": "https://electrek.co/2026/10/19/why-this-major-e-bike-brand-just-started-selling-battery-less-electric-bikes/",
+          "source": "Electrek",
+          "published": "2026-10-19T13:57:15+00:00"
+        }
+      ]
+    },
+    {
+      "key": "motor",
+      "label": "모터",
+      "count": 20,
+      "items": [
+        {
+          "title": "제너럴 모터스 온스타 AI, 자율주행 시대 새로운 가능성 제시",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44791",
+          "source": "모터그래프",
+          "published": "2026-10-30T16:57:36+00:00"
+        },
+        {
+          "title": "Wheel-e Podcast: New Amflow, Trek e-bikes, ALSO runs out of charge, more",
+          "link": "https://electrek.co/2026/10/30/wheel-e-podcast-new-amflow-trek-e-bikes-also-runs-out-of-charge-more/",
+          "source": "Electrek",
+          "published": "2026-10-30T12:51:48+00:00"
+        },
+        {
+          "title": "Harley-Davidson’s electric motorcycle brand LiveWire warns it may not survive",
+          "link": "https://electrek.co/2026/10/30/harley-davidsons-electric-motorcycle-brand-livewire-warns-it-may-not-survive/",
+          "source": "Electrek",
+          "published": "2026-10-30T08:10:00+00:00"
+        },
+        {
+          "title": "Ford CEO Says Its New EV Tech Is 30% More Efficient Than BYD's",
+          "link": "https://insideevs.com/news/813781/ford-byd-motors-30-fathom/",
+          "source": "InsideEVs",
+          "published": "2026-10-29T21:11:40+00:00"
+        },
+        {
+          "title": "Rivian’s electric van gets 30% more range and AWD, now delivering",
+          "link": "https://electrek.co/2026/10/29/rivian-electric-van-awd-30-percent-more-range/",
+          "source": "Electrek",
+          "published": "2026-10-29T20:04:01+00:00"
+        },
+        {
+          "title": "New Trek e-bike is first to get Bosch’s new motor with a major power upgrade",
+          "link": "https://electrek.co/2026/10/29/new-trek-e-bike-is-first-to-get-boschs-new-motor-with-a-major-power-upgrade/",
+          "source": "Electrek",
+          "published": "2026-10-29T12:00:00+00:00"
+        },
+        {
+          "title": "Toyota’s New Hybrids And Plug-In Hybrids Will Be 15% More Efficient",
+          "link": "https://insideevs.com/news/813645/new-toyota-hybrid-engine-more-efficient-smaller/",
+          "source": "InsideEVs",
+          "published": "2026-10-29T07:15:51+00:00"
+        },
+        {
+          "title": "New retro electric motorcycle to debut at EICMA with a novel feature: a second gear",
+          "link": "https://electrek.co/2026/10/28/new-retro-electric-motorcycle-to-debut-at-eicma-with-a-novel-feature-a-second-gear/",
+          "source": "Electrek",
+          "published": "2026-10-28T13:48:00+00:00"
+        },
+        {
+          "title": "Bosch’s popular e-bike motor just got upgraded with more power and less weight",
+          "link": "https://electrek.co/2026/10/28/boschs-popular-e-bike-motor-just-got-upgraded-with-more-power-and-less-weight/",
+          "source": "Electrek",
+          "published": "2026-10-28T07:32:46+00:00"
+        },
+        {
+          "title": "Ford’s new sub-$30K electric truck can power your home for a lot less",
+          "link": "https://electrek.co/2026/10/27/fords-new-sub-30k-electric-truck-can-power-your-home-for-a-lot-less/",
+          "source": "Electrek",
+          "published": "2026-10-27T13:00:00+00:00"
+        },
+        {
+          "title": "Range Energy shows how its eTrailer saves almost as much as a Tesla Semi",
+          "link": "https://electrek.co/2026/10/26/range-energy-shows-how-its-etrailer-saves-almost-as-much-as-a-tesla-semi/",
+          "source": "Electrek",
+          "published": "2026-10-26T12:00:00+00:00"
+        },
+        {
+          "title": "Wheel-E Podcast: New Lectric and Priority e-bikes, friction drive kit, more",
+          "link": "https://electrek.co/2026/10/23/wheel-e-podcast-new-lectric-and-priority-e-bikes-friction-drive-kit-more/",
+          "source": "Electrek",
+          "published": "2026-10-23T12:47:12+00:00"
+        },
+        {
+          "title": "Yozma IN 11 review: The OG mini e-moto gets updates galore",
+          "link": "https://electrek.co/2026/10/23/yozma-in-11-review-the-og-mini-e-moto-gets-updates-galore/",
+          "source": "Electrek",
+          "published": "2026-10-23T12:39:08+00:00"
+        },
+        {
+          "title": "Kia’s EV6 GT beat out the Tesla Model Y and BYD Sealion 7 in a German EV comparison test",
+          "link": "https://electrek.co/2026/10/22/kia-ev6-gt-beats-out-tesla-model-y-and-byd-german-ev-test/",
+          "source": "Electrek",
+          "published": "2026-10-22T14:39:02+00:00"
+        },
+        {
+          "title": "LiveWire set to show off several new electric motorcycles next month",
+          "link": "https://electrek.co/2026/10/21/livewire-set-to-show-off-several-new-electric-motorcycles-next-month/",
+          "source": "Electrek",
+          "published": "2026-10-21T08:29:23+00:00"
+        },
+        {
+          "title": "Polestar and Oxford wired up drivers to measure how performance feels",
+          "link": "https://electrek.co/2026/10/20/polestar-oxford-study-measure-ev-performance-feel/",
+          "source": "Electrek",
+          "published": "2026-10-20T13:06:20+00:00"
+        },
+        {
+          "title": "This new electric motorcycle with a giant hole in it wants to change how you ride",
+          "link": "https://electrek.co/2026/10/19/this-new-electric-motorcycle-with-a-giant-hole-in-it-wants-to-change-how-you-ride/",
+          "source": "Electrek",
+          "published": "2026-10-19T21:00:00+00:00"
+        },
+        {
+          "title": "BYD’s new high-tech 5-seat electric SUV revealed with 690 hp and dual 30″ screens",
+          "link": "https://electrek.co/2026/10/19/byds-new-high-tech-5-seat-ev-suv-revealed-two-30-screens/",
+          "source": "Electrek",
+          "published": "2026-10-19T19:59:38+00:00"
+        },
+        {
+          "title": "Foxconn pays $727M for half of Mitsubishi Electric’s car parts unit in EV push",
+          "link": "https://electrek.co/2026/10/19/foxconn-mitsubishi-electric-mobility-50-percent-stake-ev-push/",
+          "source": "Electrek",
+          "published": "2026-10-19T15:17:11+00:00"
+        },
+        {
+          "title": "Why this major e-bike brand just started selling battery-less electric bikes",
+          "link": "https://electrek.co/2026/10/19/why-this-major-e-bike-brand-just-started-selling-battery-less-electric-bikes/",
+          "source": "Electrek",
+          "published": "2026-10-19T13:57:15+00:00"
+        }
+      ]
+    },
+    {
+      "key": "robot",
+      "label": "로봇",
+      "count": 20,
+      "items": [
+        {
+          "title": "Unusual robotic animals can prove their utility",
+          "link": "https://www.therobotreport.com/unusual-robotic-animals-can-prove-their-utility/",
+          "source": "The Robot Report",
+          "published": "2026-10-31T12:30:46+00:00"
+        },
+        {
+          "title": "Percepto launches Axion AI platform to unify inspection data analysis",
+          "link": "https://www.therobotreport.com/percepto-launches-axion-ai-platform-unify-inspection-data-analysis/",
+          "source": "The Robot Report",
+          "published": "2026-10-30T19:05:34+00:00"
+        },
+        {
+          "title": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation",
+          "link": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
+          "source": "IEEE Spectrum",
+          "published": "2026-10-30T16:30:03+00:00"
+        },
+        {
+          "title": "Humanoid developer Agility now expects to raise $465M in SPAC deal",
+          "link": "https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/",
+          "source": "The Robot Report",
+          "published": "2026-10-30T16:19:16+00:00"
+        },
+        {
+          "title": "주간 로봇 기업 주가 동향(10/26 ~ 10/30)",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=49310",
+          "source": "로봇신문",
+          "published": "2026-10-30T15:38:23+00:00"
+        },
+        {
+          "title": "RoboBusiness 2026 recap",
+          "link": "https://www.therobotreport.com/robobusiness-2026-recap/",
+          "source": "The Robot Report",
+          "published": "2026-10-30T12:30:02+00:00"
+        },
+        {
+          "title": "White House makes Section 232 determination regarding foreign-made robots",
+          "link": "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/",
+          "source": "The Robot Report",
+          "published": "2026-10-29T20:46:53+00:00"
+        },
+        {
+          "title": "2026 Robotics Handbook looks at humanoids, AI, and design choices",
+          "link": "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/",
+          "source": "The Robot Report",
+          "published": "2026-10-29T19:36:12+00:00"
+        },
+        {
+          "title": "AGIBOT introduces Worken to measure robot productivity at AGIBOT Innovation Day 2026",
+          "link": "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026/",
+          "source": "The Robot Report",
+          "published": "2026-10-29T04:01:46+00:00"
+        },
+        {
+          "title": "North American robot orders climb 24.8% in Q3 of 2026, says A3",
+          "link": "https://www.therobotreport.com/north-american-robot-orders-climb-24-8-q3-2026-says-a3/",
+          "source": "The Robot Report",
+          "published": "2026-10-28T18:59:30+00:00"
+        },
+        {
+          "title": "What Symbotic’s Walmart growth teaches robotics startups about anchor customers",
+          "link": "https://www.therobotreport.com/what-symbotic-growth-with-walmart-teaches-robotics-startups-about-anchor-customers/",
+          "source": "The Robot Report",
+          "published": "2026-10-28T18:40:57+00:00"
+        },
+        {
+          "title": "Warp Sciences emerges from stealth, to apply robotics to drug research",
+          "link": "https://www.therobotreport.com/warp-sciences-emerges-stealth-apply-robotics-drug-research/",
+          "source": "The Robot Report",
+          "published": "2026-10-28T16:28:48+00:00"
+        },
+        {
+          "title": "WorldOracle Tests Whether World Models Can Reliably Predict Real-World Executions",
+          "link": "https://www.therobotreport.com/worldoracle-tests-whether-world-models-can-reliably-predict-real-world-executions/",
+          "source": "The Robot Report",
+          "published": "2026-10-28T13:44:31+00:00"
+        },
+        {
+          "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+          "link": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+          "source": "IEEE Spectrum",
+          "published": "2026-10-27T16:14:39+00:00"
+        },
+        {
+          "title": "ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres",
+          "link": "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres/",
+          "source": "The Robot Report",
+          "published": "2026-10-27T14:29:58+00:00"
+        },
+        {
+          "title": "Embotech and BMW move 1M vehicles with automated driving technology",
+          "link": "https://www.therobotreport.com/embotech-bmw-move-1m-vehicles-automated-driving-technology/",
+          "source": "The Robot Report",
+          "published": "2026-10-27T12:45:27+00:00"
+        },
+        {
+          "title": "Xpanner launches autonomous pile driver for solar farm contruction",
+          "link": "https://www.therobotreport.com/xpanner-launches-new-autonomous-pile-driver-solar-farm-contruction/",
+          "source": "The Robot Report",
+          "published": "2026-10-27T11:44:30+00:00"
+        },
+        {
+          "title": "Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges",
+          "link": "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/",
+          "source": "The Robot Report",
+          "published": "2026-10-26T21:15:00+00:00"
+        },
+        {
+          "title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
+          "link": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
+          "source": "IEEE Spectrum",
+          "published": "2026-10-23T15:30:02+00:00"
+        },
+        {
+          "title": "The Robot I Didn’t Expect to Build",
+          "link": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+          "source": "IEEE Spectrum",
+          "published": "2026-10-19T13:00:03+00:00"
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 40,
+      "items": [
+        {
+          "title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216851",
+          "source": "AI타임스",
+          "published": "2026-10-31T19:58:00+00:00"
+        },
+        {
+          "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+          "link": "https://arxiv.org/abs/2610.37720",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
+          "link": "https://arxiv.org/abs/2610.37731",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
+          "link": "https://arxiv.org/abs/2610.37732",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+          "link": "https://arxiv.org/abs/2610.37739",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+          "link": "https://arxiv.org/abs/2610.37786",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
+          "link": "https://arxiv.org/abs/2610.37809",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
+          "link": "https://arxiv.org/abs/2610.37830",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
+          "link": "https://arxiv.org/abs/2610.37849",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "Evaluating and improving AI agents for sequencing protocol understanding",
+          "link": "https://arxiv.org/abs/2610.37851",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
+          "link": "https://arxiv.org/abs/2610.37859",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "What Constitutes Food Similarity? Visual Representations and Retrieval in Indian Cuisine",
+          "link": "https://arxiv.org/abs/2610.37867",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "Verification Learning Theory: A Process Model of Checking and Retention in AI-Assisted Judgment",
+          "link": "https://arxiv.org/abs/2610.37875",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "The Anatomy of Socio-Demographics in Pluralistic Offensiveness Modeling: When and Where It Helps, and the Role of Reasoning",
+          "link": "https://arxiv.org/abs/2610.37896",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision",
+          "link": "https://arxiv.org/abs/2610.37905",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "Beyond Low-Pass Dynamics: Frequency-Selective Spiking Reservoirs with Resonant Neurons",
+          "link": "https://arxiv.org/abs/2610.37906",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "SciGame: Let Agents Play the Scientific Discovery Games in the Real and Counterfactual World",
+          "link": "https://arxiv.org/abs/2610.37919",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "VerifiedLab: Harnessing Knowns for Unknowns",
+          "link": "https://arxiv.org/abs/2610.37923",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "GARDEN: Generalist Autonomous Reward Design Through Evidence Navigation for Cooperative Multi-Agent Reinforcement Learning",
+          "link": "https://arxiv.org/abs/2610.37926",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "Understanding Large Language Models as Numerical Optimizers",
+          "link": "https://arxiv.org/abs/2610.37932",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "SkillMem: Compact External Skill Memory for Latent Multi-Agent Reasoning",
+          "link": "https://arxiv.org/abs/2610.37935",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "GAUSS: A Workload-Aware Analytical and Monte-Carlo Simulator for LLM Inference Serving",
+          "link": "https://arxiv.org/abs/2610.37989",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "Algorithmic Bias from the Perspectives of Healthcare Professionals",
+          "link": "https://arxiv.org/abs/2610.38006",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "Assessing Language Models for Scientific Applications: Inertial Confinement Fusion as a Use Case",
+          "link": "https://arxiv.org/abs/2610.38024",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "PromptSense: Sentiment-Aware Mental Health Chatbot with Dynamic Prompting",
+          "link": "https://arxiv.org/abs/2610.38044",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "Evaluating Causal Reasoning in LLMs: A Case Study in the Challenges of Procedural Generation",
+          "link": "https://arxiv.org/abs/2610.38100",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "AI-Driven Digital Twin Framework for Warehouse Logistics Automation Optimization",
+          "link": "https://arxiv.org/abs/2610.38101",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "Too Hard, Too Easy, Just Right: Performance-Driven Challenge Adaptation in Virtual Reality Firefighter Training",
+          "link": "https://arxiv.org/abs/2610.38117",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "Post-Training Large Language Models with LLMON",
+          "link": "https://arxiv.org/abs/2610.38120",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "Decompose, Don't Expand: Capability-Independent AI Systems by Construction",
+          "link": "https://arxiv.org/abs/2610.38144",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "SkillCT: A Multidimensional Benchmark and Execution-Free Baseline for Agent Skill Assessment",
+          "link": "https://arxiv.org/abs/2610.38147",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "BridgeRouter: Gain-Aware Instance Routing over Cross-Modal Bridge Portfolios",
+          "link": "https://arxiv.org/abs/2610.38152",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "DecompGym: Benchmarking LLM Agents on Designing Decomposition Algorithms",
+          "link": "https://arxiv.org/abs/2610.38175",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "Prototype-Guided Dynamic Domain Modulation and a Large-Scale Multi-SKU Benchmark for Shampoo Bottle Surface Defect Detection",
+          "link": "https://arxiv.org/abs/2610.38194",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "From Natural Language to Real Schematics: An Automated Workflow for Power Electronics Schematic Synthesis",
+          "link": "https://arxiv.org/abs/2610.38201",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "GAAC: Lossless KV Compression for Bandwidth-Efficient LLM Inference on Personal Devices",
+          "link": "https://arxiv.org/abs/2610.38210",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "Disparity Laundering: Consensus Without Fairness in Clinical Multi-Agent Systems",
+          "link": "https://arxiv.org/abs/2610.38215",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "Rubricon: Automated Rubric Generation and Refinement for LLM Evaluation and Training",
+          "link": "https://arxiv.org/abs/2610.38220",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "FACTS-MAS: A Multi-Agent Architecture for Adaptive Forecasting from Heterogeneous Evidence",
+          "link": "https://arxiv.org/abs/2610.38225",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        },
+        {
+          "title": "Verification-Guided Retrosynthesis: Reaction Feedback and Evidence Timing",
+          "link": "https://arxiv.org/abs/2610.38245",
+          "source": "arXiv cs.AI",
+          "published": "2026-10-31T04:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}
