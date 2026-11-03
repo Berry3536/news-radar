@@ -28,7 +28,7 @@ uv run python -m http.server         # preview at http://localhost:8000
 - Committing `data.json` to `master`/`develop`; it is published only on `gh-pages`.
 - Pushing to `gh-pages` by hand; only the workflow writes it.
 
-<!-- stark-kit:begin level=standard kit=0.3.3 — generated; edit stark-kit, then `kit.py sync` -->
+<!-- stark-kit:begin level=standard kit=0.3.4 — generated; edit stark-kit, then `kit.py sync` -->
 
 # Kit rules
 
@@ -81,6 +81,13 @@ pushes, and tags still need the user's request.
   (feature/bugfix branches are local, so nothing pushed is rewritten). A Dependabot branch is
   rebased by the bot: comment `@dependabot rebase` on its PR, wait for the new head, then merge;
   take Dependabot PRs one at a time. Never rebase `develop`, `master`, `release/*` or `hotfix/*`.
+- Dependabot PRs are normally merged by the kit-managed workflow `.github/workflows/dependabot-merge.yml`
+  (daily 12:23 UTC, runs from `master`): patch/minor updates only (strict level: development tools
+  and GitHub Actions only), one at a time, after Dependabot rebased the PR onto the `develop` tip and
+  its CI passed. Its merges read `Merge pull request #N from <owner>/dependabot/...`. A PR it will
+  not merge gets the `needs-review` label and a comment: handle that one with the manual procedure
+  (gitflow skill). Because `origin/develop` moves on its own, start local work with
+  `git pull --ff-only origin develop`.
 - Commit messages: `<type>(<scope>)?: <summary>`; types `feat fix docs refactor test chore perf build ci style revert`.
   Add the tracker ID in the summary when there is one (`fix: refuse unknown keys (BL-055)`).
 - Never commit, merge into `develop`/`master`, push, tag, or publish a release without the user asking.

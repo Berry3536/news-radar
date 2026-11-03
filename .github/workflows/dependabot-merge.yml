@@ -1,0 +1,387 @@
+# Managed by stark-kit: `kit.py sync` generates this file from stark-kit core/workflows/.
+# Edit it there, not here (`kit.py doctor` reports drift).
+#
+# Merges eligible Dependabot PRs into develop, one at a time: patch/minor updates whose CI passed,
+# after Dependabot rebased them onto the develop tip. Everything else gets the `needs-review` label.
+# Policy and procedure: the script docstring below and CLAUDE.md (stark-kit block, gitflow).
+#
+# Setup: repository secret DEPENDABOT_MERGE_TOKEN = the owner's fine-grained personal access token
+# (this repository; Contents, Pull requests, Workflows: read and write).
+# Schedules and manual runs use the copy on the default branch (master): it starts after a release.
+name: Dependabot merge
+
+on:
+  schedule:
+    - cron: "23 12 * * *"  # daily 12:23 UTC (21:23 KST), after the weekly Monday PRs
+  workflow_dispatch:
+    inputs:
+      dry-run:
+        description: Report decisions only (no comment, label or merge)
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  checks: read
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: dependabot-merge
+  cancel-in-progress: false
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Merge eligible Dependabot PRs
+        shell: python
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          MERGE_TOKEN: ${{ secrets.DEPENDABOT_MERGE_TOKEN }}
+          DRY_RUN: ${{ inputs.dry-run && 'true' || 'false' }}
+          KIT_LEVEL: standard
+        run: |
+          """Merge eligible Dependabot pull requests into develop, one at a time (stark-kit managed).
+
+          Runs inside .github/workflows/dependabot-merge.yml; `kit.py sync` embeds this file there.
+          It never checks out or runs pull-request code: it reads PR metadata and CI results through the
+          GitHub API and asks Dependabot itself to rebase.
+
+          For each open Dependabot PR into develop, oldest first:
+            1. policy: every update is a semver patch or minor; the strict level also requires Python
+               updates to be development-only (`direct:development`); GitHub Actions updates are allowed
+            2. the PR has exactly one commit and Dependabot wrote it
+            3. its head sits on the develop tip; otherwise comment `@dependabot rebase` and wait
+            4. every check run on the head finished, at least one succeeded, and the result held for
+               SETTLE_SECONDS (a late workflow would show up as pending)
+            5. merge commit through the API (graph: --no-ff bubble on the develop tip); afterwards the
+               merge's first parent must be the develop commit that was checked, else the run fails
+          A PR that fails 1, 2 or 4, or whose rebase never arrives, gets the `needs-review` label and a
+          comment, and is left for the manual gitflow procedure. Remove the label to let a later run retry.
+          Everything goes through the REST API (no GraphQL node limits, no search-index lag).
+
+          Tokens: GITHUB_TOKEN reads and labels; MERGE_TOKEN (the owner's fine-grained PAT) posts the
+          rebase command and merges, because Dependabot obeys only people with write access and a
+          GITHUB_TOKEN merge would not start the develop CI run.
+          """
+
+          from __future__ import annotations
+
+          import json
+          import os
+          import subprocess
+          import sys
+          import time
+          from dataclasses import dataclass, field
+
+          BASE = "develop"
+          LABEL = "needs-review"
+          SAFE_UPDATES = {"version-update:semver-patch", "version-update:semver-minor"}
+          OK_CONCLUSIONS = {"success", "skipped", "neutral"}
+          DEPENDABOT = "dependabot[bot]"
+          POLL_SECONDS = 30
+          REBASE_WAIT = 15 * 60
+          CHECKS_WAIT = 45 * 60
+          SETTLE_SECONDS = 60
+          RUN_BUDGET = 60 * 60  # plus at most one CHECKS_WAIT, inside the 120-minute job timeout
+
+
+          def parse_updates(message: str) -> list[dict[str, str]]:
+              """The `updated-dependencies` list from a Dependabot commit message; [] if malformed.
+
+              Fails closed: an unexpected line inside the block or a missing `...` terminator yields [],
+              which the policy treats as "needs review", so a half-read block can never pass.
+              """
+              updates: list[dict[str, str]] = []
+              inside = False
+              for line in message.splitlines():
+                  if not inside:
+                      inside = line.strip() == "updated-dependencies:"
+                      continue
+                  if line.strip() == "...":
+                      return updates
+                  if line.startswith("- "):
+                      updates.append({})
+                      line = "  " + line[2:]
+                  key, sep, value = line.strip().partition(":")
+                  if not updates or not line.startswith("  ") or line.startswith("   ") or not sep or not key.strip():
+                      return []
+                  updates[-1][key.strip()] = value.strip().strip("'\"")
+              return []
+
+
+          def ecosystem(branch: str) -> str:
+              """`dependabot/<ecosystem>/...` -> ecosystem (github_actions, uv, pip, ...)."""
+              parts = branch.split("/")
+              return parts[1] if len(parts) > 2 and parts[0] == "dependabot" else ""
+
+
+          def policy_problem(updates: list[dict[str, str]], eco: str, level: str) -> str | None:
+              """Why these updates need a person, or None when they may be merged automatically."""
+              if not updates:
+                  return "커밋 메시지의 updated-dependencies 메타데이터가 없거나 형식이 다름"
+              for update in updates:
+                  name = update.get("dependency-name", "?")
+                  kind = update.get("update-type", "")
+                  if kind not in SAFE_UPDATES:
+                      return f"`{name}`: {kind or '업데이트 종류 미상'} (patch/minor만 자동 머지)"
+                  dep_type = update.get("dependency-type", "")
+                  if level == "strict" and eco != "github_actions" and dep_type != "direct:development":
+                      return f"`{name}`: {dep_type or '종류 미상'} 의존성 (strict 레벨은 개발 도구와 Actions만 자동 머지)"
+              return None
+
+
+          def pr_problem(pr: dict, commits: list[dict], level: str) -> str | None:
+              """Reasons that keep a PR out of automatic merging (REST pull + its commits)."""
+              if pr.get("draft"):
+                  return "draft PR"
+              if len(commits) != 1:
+                  return f"커밋이 {len(commits)}개 (Dependabot PR은 1개여야 함)"
+              author = (commits[0].get("author") or {}).get("login")
+              if author != DEPENDABOT:
+                  return f"Dependabot 외 작성자: {author or '연결된 계정 없음'}"
+              updates = parse_updates((commits[0].get("commit") or {}).get("message") or "")
+              return policy_problem(updates, ecosystem(pr["head"]["ref"]), level)
+
+
+          def labels(pr: dict) -> set[str]:
+              return {label["name"] for label in pr.get("labels") or []}
+
+
+          def checks_state(runs: list[dict]) -> str:
+              """`success`, `pending` or `failure: <names>` from check runs (latest run per name).
+
+              All completed but none succeeded (e.g. only skipped jobs so far) counts as pending.
+              """
+              latest: dict[str, dict] = {}
+              for run in runs:
+                  if run["name"] not in latest or run["id"] > latest[run["name"]]["id"]:
+                      latest[run["name"]] = run
+              if not latest or any(r["status"] != "completed" for r in latest.values()):
+                  return "pending"
+              bad = sorted(name for name, r in latest.items() if r.get("conclusion") not in OK_CONCLUSIONS)
+              if bad:
+                  return "failure: " + ", ".join(bad)
+              return "success" if any(r.get("conclusion") == "success" for r in latest.values()) else "pending"
+
+
+          @dataclass
+          class Run:
+              repo: str
+              level: str
+              read_token: str
+              merge_token: str
+              dry_run: bool
+              merged: list[str] = field(default_factory=list)
+              flagged: list[str] = field(default_factory=list)
+              errors: list[str] = field(default_factory=list)
+              skip: set[int] = field(default_factory=set)
+
+              def gh(self, *args: str, token: str | None = None) -> str:
+                  env = dict(os.environ, GH_TOKEN=token or self.read_token)
+                  reads = args[:3] == ("api", "-X", "GET")
+                  for attempt in range(3 if reads else 1):  # writes run once: a retried comment would duplicate
+                      if attempt:
+                          time.sleep(10 * attempt)
+                      try:
+                          proc = subprocess.run(
+                              ["gh", *args], capture_output=True, text=True, encoding="utf-8", env=env, timeout=60
+                          )
+                      except subprocess.TimeoutExpired:
+                          error = "timed out"
+                          continue
+                      if proc.returncode == 0:
+                          return proc.stdout
+                      error = proc.stderr.strip()
+                  raise RuntimeError(f"gh {' '.join(args[:4])} failed: {error}")
+
+              def api(self, path: str, *fields: str, method: str = "GET", token: str | None = None):
+                  args = ["api", "-X", method, path]
+                  for item in fields:
+                      args += ["-f", item]
+                  out = self.gh(*args, token=token)
+                  return json.loads(out) if out.strip() else None
+
+              def open_prs(self) -> list[dict]:
+                  pulls = self.api(f"repos/{self.repo}/pulls?state=open&base={BASE}&sort=created&direction=asc&per_page=100")
+                  mine = [p for p in pulls if (p.get("user") or {}).get("login") == DEPENDABOT]
+                  return [p for p in mine if p["number"] not in self.skip and LABEL not in labels(p)]
+
+              def pull(self, number: int) -> dict:
+                  return self.api(f"repos/{self.repo}/pulls/{number}")
+
+              def develop_sha(self) -> str:
+                  return self.api(f"repos/{self.repo}/git/ref/heads/{BASE}")["object"]["sha"]
+
+              def behind(self, base_sha: str, sha: str) -> int:
+                  return self.api(f"repos/{self.repo}/compare/{base_sha}...{sha}")["behind_by"]
+
+              def checks(self, sha: str) -> str:
+                  return checks_state(self.api(f"repos/{self.repo}/commits/{sha}/check-runs?per_page=100")["check_runs"])
+
+              def comment(self, number: int, body: str, token: str | None = None) -> None:
+                  self.api(f"repos/{self.repo}/issues/{number}/comments", f"body={body}", method="POST", token=token)
+
+              def flag(self, pr: dict, reason: str) -> None:
+                  number = pr["number"]
+                  self.skip.add(number)
+                  self.flagged.append(f"#{number} {pr['title']}: {reason}")
+                  log(f"#{number}: needs review: {reason}")
+                  if self.dry_run:
+                      return
+                  try:
+                      self.api(f"repos/{self.repo}/labels", f"name={LABEL}", "color=d93f0b",
+                               "description=Dependabot PR left for manual review", method="POST")  # fmt: skip
+                  except RuntimeError:
+                      pass  # already exists
+                  self.api(f"repos/{self.repo}/issues/{number}/labels", f"labels[]={LABEL}", method="POST")
+                  self.comment(
+                      number,
+                      f"자동 머지 보류: {reason}\n\n"
+                      "수동 gitflow 절차(gitflow 스킬의 dependabot PR 항목)로 처리하세요. "
+                      f"`{LABEL}` 라벨을 지우면 다음 실행에서 다시 시도합니다.",
+                  )
+
+              def wait(self, number: int, sha: str, limit: int, ready=None) -> str | None:
+                  """Poll: `closed`, `labelled`, `moved` (new head), `done` once ready(), or None after `limit` s."""
+                  deadline = time.monotonic() + limit
+                  while time.monotonic() < deadline:
+                      pull = self.pull(number)
+                      if pull["state"] != "open":
+                          return "closed"
+                      if LABEL in labels(pull):
+                          return "labelled"
+                      if pull["head"]["sha"] != sha:
+                          return "moved"
+                      if ready is not None and ready():
+                          return "done"
+                      time.sleep(POLL_SECONDS)
+                  return None
+
+              def process(self, pr: dict) -> None:
+                  """One step for one PR. Returns without adding to `skip` only when its state moved on."""
+                  number, sha = pr["number"], pr["head"]["sha"]
+                  problem = pr_problem(pr, self.api(f"repos/{self.repo}/pulls/{number}/commits?per_page=100"), self.level)
+                  if problem:
+                      self.flag(pr, problem)
+                      return
+                  if self.behind(self.develop_sha(), sha):
+                      log(f"#{number}: head {sha[:7]} is behind {BASE}; asking Dependabot to rebase")
+                      if self.dry_run:
+                          self.skip.add(number)
+                          return
+                      self.comment(number, "@dependabot rebase", token=self.merge_token)
+                      result = self.wait(number, sha, REBASE_WAIT)
+                      if result is None:
+                          self.flag(pr, f"`@dependabot rebase` 후 {REBASE_WAIT // 60}분 안에 새 커밋이 오지 않음")
+                      elif result != "moved":
+                          self.skip.add(number)  # closed or labelled
+                      return  # a new head is re-evaluated on the next loop
+                  state = self.checks(sha)
+                  if state == "pending":
+                      log(f"#{number}: waiting for CI on {sha[:7]}")
+                      if self.dry_run:
+                          self.skip.add(number)
+                          return
+                      result = self.wait(number, sha, CHECKS_WAIT, lambda: self.checks(sha) != "pending")
+                      if result is None:
+                          self.flag(pr, f"CI 성공 결과가 {CHECKS_WAIT // 60}분 안에 나오지 않음")
+                      elif result in ("closed", "labelled"):
+                          self.skip.add(number)
+                      if result != "done":
+                          return
+                      state = self.checks(sha)
+                  if state.startswith("failure"):
+                      self.flag(pr, f"CI 실패 ({state.removeprefix('failure: ')})")
+                      return
+                  if state != "success":
+                      return
+                  if not self.dry_run:
+                      time.sleep(SETTLE_SECONDS)
+                  pull = self.pull(number)  # re-read everything right before merging
+                  if pull["state"] != "open" or LABEL in labels(pull):
+                      self.skip.add(number)
+                      return
+                  if pull["head"]["sha"] != sha or self.checks(sha) != "success":
+                      return
+                  base = self.develop_sha()
+                  if self.behind(base, sha):
+                      return  # develop moved; the next loop asks for another rebase
+                  self.skip.add(number)
+                  if self.dry_run:
+                      self.merged.append(f"#{number} {pr['title']} (dry run)")
+                      return
+                  log(f"#{number}: merging {sha[:7]} onto {BASE} {base[:7]}")
+                  merge_sha = self.api(f"repos/{self.repo}/pulls/{number}/merge", "merge_method=merge", f"sha={sha}",
+                                       method="PUT", token=self.merge_token)["sha"]  # fmt: skip
+                  self.merged.append(f"#{number} {pr['title']} ({merge_sha[:7]})")
+                  parents = [p["sha"] for p in self.api(f"repos/{self.repo}/commits/{merge_sha}")["parents"]]
+                  if parents != [base, sha]:
+                      self.errors.append(
+                          f"#{number}: 머지 커밋 {merge_sha[:7]}의 부모가 예상({base[:7]}, {sha[:7]})과 다름 — "
+                          f"머지 직전에 {BASE}이 움직였을 수 있으니 그래프를 확인하세요"
+                      )
+
+
+          def log(message: str) -> None:
+              print(message, flush=True)
+
+
+          def loop(run: Run, budget: int = RUN_BUDGET) -> None:
+              """Process the oldest eligible PR until none is left or the budget is spent."""
+              deadline = time.monotonic() + budget
+              while time.monotonic() < deadline:
+                  try:
+                      prs = run.open_prs()
+                  except RuntimeError as exc:
+                      run.errors.append(f"PR 목록 조회 실패: {exc}")
+                      return
+                  if not prs:
+                      return
+                  number = prs[0]["number"]
+                  try:
+                      run.process(prs[0])
+                  except (RuntimeError, KeyError, TypeError, ValueError) as exc:
+                      run.skip.add(number)
+                      run.errors.append(f"#{number}: {exc}")
+                      log(f"::error::#{number}: {exc}")
+
+
+          def summary(run: Run) -> str:
+              lines = ["## Dependabot 자동 머지" + (" (dry run)" if run.dry_run else ""), ""]
+              for label, items in (("머지", run.merged), ("수동 검토 필요", run.flagged), ("오류", run.errors)):
+                  lines.append(f"**{label}**: {len(items)}건")
+                  lines += [f"- {item}" for item in items]
+                  lines.append("")
+              return "\n".join(lines)
+
+
+          def exit_code(run: Run) -> int:
+              """1 on errors, or when a real run flagged a PR (one failure email; labelled PRs are skipped later)."""
+              return 1 if run.errors or (run.flagged and not run.dry_run) else 0
+
+
+          def main() -> int:
+              run = Run(
+                  repo=os.environ["GITHUB_REPOSITORY"],
+                  level=os.environ.get("KIT_LEVEL", "standard"),
+                  read_token=os.environ.get("GITHUB_TOKEN", ""),
+                  merge_token=os.environ.get("MERGE_TOKEN", ""),
+                  dry_run=os.environ.get("DRY_RUN") == "true",
+              )
+              if not run.merge_token and not run.dry_run:
+                  log("::error::secret DEPENDABOT_MERGE_TOKEN is not set (see the workflow header)")
+                  return 1
+              loop(run)
+              text = summary(run)
+              log(text)
+              if os.environ.get("GITHUB_STEP_SUMMARY"):
+                  with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as fh:
+                      fh.write(text + "\n")
+              return exit_code(run)
+
+
+          if __name__ == "__main__":
+              sys.exit(main())
