@@ -1,6 +1,6 @@
 [project]
 name = "news-radar"
-version = "1.0.0"
+version = "1.0.1"
 description = "Serverless tech news dashboard: scheduled RSS aggregation published to GitHub Pages"
 readme = "README.md"
 requires-python = ">=3.13"
@@ -11,8 +11,14 @@ dependencies = [
 # Dev tooling as a dependency group: `uv sync` installs it by default.
 [dependency-groups]
 dev = [
+    "pytest>=8.0",
     "ruff>=0.5",
 ]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-ra --strict-markers"
 
 [tool.uv]
 package = false
@@ -23,3 +29,6 @@ target-version = "py313"
 
 [tool.ruff.lint]
 select = ["E", "F", "I", "B", "UP"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["aggregate"]

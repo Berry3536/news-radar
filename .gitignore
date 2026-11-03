@@ -18,3 +18,4 @@ data.json
 !.claude/hooks/
 !.claude/settings.json
 !.claude/kit.json
+!.claude/CONVENTIONS.md
