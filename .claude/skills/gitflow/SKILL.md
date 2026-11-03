@@ -26,6 +26,10 @@ and `commands.smoke`.
 
 ## dependabot PR (into develop)
 
+Normally automatic (`.github/workflows/dependabot-merge.yml`, see CLAUDE.md). Use this manual
+procedure for a PR labelled `needs-review`, or when the user asks; remove the label afterwards
+if the PR is still open and should go back to the automation.
+
 One PR at a time. `git fetch origin`; if `origin/<dependabot-branch>` is not on the `develop`
 tip (`git merge-base --is-ancestor develop origin/<branch>` fails), comment `@dependabot rebase`
 on the PR (`gh pr comment <n> --body "@dependabot rebase"`) and wait for the bot's new head.
