@@ -28,7 +28,7 @@ uv run python -m http.server         # preview at http://localhost:8000
 - Committing `data.json` to `master`/`develop`; it is published only on `gh-pages`.
 - Pushing to `gh-pages` by hand; only the workflow writes it.
 
-<!-- stark-kit:begin level=standard kit=0.3.4 — generated; edit stark-kit, then `kit.py sync` -->
+<!-- stark-kit:begin level=standard kit=0.3.5 — generated; edit stark-kit, then `kit.py sync` -->
 
 # Kit rules
 
@@ -37,14 +37,18 @@ uv run python -m http.server         # preview at http://localhost:8000
 A defect here costs time, not irreversible losses: it is caught by tests or fixed by a
 patch release. Keep ceremony proportional to the change.
 
-1. **Scope.** For anything beyond a small fix, state Goal / Acceptance in two to five lines
-   and get a quick OK before coding.
+1. **Scope.** For anything beyond a small fix, state Goal / Acceptance in two to five lines in the
+   `Current work` section of `docs/ROADMAP.md`, set the ticket `in progress`, and get a quick OK before coding.
 2. **Branch.** `feature/<slug>` or `bugfix/<slug>` from `develop`.
 3. **Implement** until every `commands.verify` (and `commands.smoke`, if any) passes.
 4. **Verify** non-trivial changes (new behavior, more than one module, release-relevant) with
    one fresh `verifier` subagent, `correctness` lens. Spot-check its findings before acting.
 5. **Report**: what changed, verify output, findings and how each was handled.
-6. **After user approval:** merge into `develop` with `--no-ff`.
+6. **After user approval:** merge into `develop` with `--no-ff`. In `docs/ROADMAP.md` set the ticket
+   `done <merge sha>`, mark the defects it closes `fixed by`, clear `Current work`.
+7. **Gate Review.** When the gate's last ticket merges, check the exit criteria (one fresh `verifier`
+   on the gate's cumulative diff, or the user's own check for non-code criteria) and add a `GRn` row
+   with `proposed: <verdict>`. Only the user closes the GR.
 
 Commits on feature/bugfix branches are allowed without asking; merges into `develop`,
 pushes, and tags still need the user's request.
@@ -62,6 +66,16 @@ pushes, and tags still need the user's request.
 - Never run a command listed under **Forbidden** in the project section, even to test something.
 - Cross-cutting code (logging, config, files, time, errors) follows `.claude/CONVENTIONS.md`;
   package layout and import layering are declared per repo (`kit.json` `layout`, `[tool.importlinter]`).
+- Work is planned in `docs/ROADMAP.md` as gates `GATE0..GATEN`. Five ids, the same in every repo:
+  `GATEn` (gate), `GATEn-Tk` (ticket, one branch of work), `GRn` (gate review, closed only by the user),
+  `DEFECTn` (defect register, numbered as found), `RULEn` (what the product must always hold: invariants,
+  limits, scope, things decided against). Branch slugs and commit summaries carry the ticket. A release is
+  evidence for a GR, never a gate.
+- Docs: `docs/ROADMAP.md` (status, the only place for it), `docs/RULES.md` (rule values, rationale,
+  revision history), `docs/DESIGN.md` (what the product is), `docs/RUNBOOK.md` (how to run it) — all four
+  exist in every repo, written in Korean, with the section names of the kit templates. `CLAUDE.md` stays
+  English and holds the `## Rules` table (id, statement, where enforced) and `## Forbidden`. Do not restate
+  what the code says; history lives in git and releases; other documents point at ids, never at status.
 
 ## Git (gitflow)
 
@@ -69,7 +83,7 @@ pushes, and tags still need the user's request.
 |---|---|---|---|
 | `master` | — | — | Release history only. Every commit is a merge from `release/*` or `hotfix/*`, tagged `vX.Y.Z`. |
 | `develop` | `master` | — | Integration. Only merges from `feature/*`, `bugfix/*`, `release/*`, `hotfix/*`, `dependabot/*` (and `master` to resync). |
-| `feature/<slug>` | `develop` | `develop` | New work. Slug may start with a tracker ID (`feature/BL-055-audit-fixes`). |
+| `feature/<slug>` | `develop` | `develop` | New work. Slug starts with the ticket id when there is one (`feature/GATE1-T2-audit-fixes`). |
 | `bugfix/<slug>` | `develop` | `develop` | Fix for something not yet released. |
 | `release/X.Y.Z` | `develop` | `master` + `develop` | Version bump, release notes, last fixes only. Use the `release` skill. |
 | `hotfix/X.Y.Z` | `master` | `master` + `develop` | Fix for a released version. Use the `gitflow` skill. |
@@ -89,7 +103,7 @@ pushes, and tags still need the user's request.
   (gitflow skill). Because `origin/develop` moves on its own, start local work with
   `git pull --ff-only origin develop`.
 - Commit messages: `<type>(<scope>)?: <summary>`; types `feat fix docs refactor test chore perf build ci style revert`.
-  Add the tracker ID in the summary when there is one (`fix: refuse unknown keys (BL-055)`).
+  Add the ticket id in the summary when there is one (`fix: refuse unknown keys (GATE1-T2)`).
 - Never commit, merge into `develop`/`master`, push, tag, or publish a release without the user asking.
   Never force-push or rewrite pushed history.
 - The gitflow guard (`.claude/hooks/gitflow_guard.py`, also installed as git hooks) blocks
