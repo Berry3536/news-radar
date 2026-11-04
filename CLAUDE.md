@@ -3,16 +3,19 @@
 News Radar: serverless personal dashboard. A scheduled GitHub Actions run (`update.yml`)
 executes `aggregate.py` (feedparser) over `feeds.json`, then force-pushes `index.html` +
 `data.json` as a single commit to the `gh-pages` branch, which GitHub Pages serves.
-Public repository — never commit anything private.
+Public repository — never commit anything private (RULE12).
 
-## Files
+## Docs map
 
-| File | Holds |
-|---|---|
-| `feeds.json` | categories, feeds, keyword filters (the only file touched in normal operation) |
-| `aggregate.py` | collector; per-feed failures are isolated and logged `[FAIL]` |
-| `index.html` | single-file dashboard, no external JS |
-| `README.md` | architecture, deployment, filter rules (Korean, for humans) |
+| File | Holds | Update when |
+|---|---|---|
+| `docs/ROADMAP.md` | Gates, tickets, defect register, GR log; the only place for status | A ticket starts or merges, a defect is found, a GR is proposed or closed |
+| `docs/RULES.md` | RULE register: values, rationale, revision history, what we chose not to do | A rule is added or changed (also update `## Rules` below) |
+| `docs/DESIGN.md` | What the product is: scope, files, data flow and formats (`feeds.json`, `data.json`), error model, known limits | Files, data formats or the pipeline change |
+| `docs/RUNBOOK.md` | How to run it: dev and verify, operations (manual run, schedule checks, re-enable), release and hotfix, QA, release history | A procedure changes or a release ships |
+| `README.md` | Korean introduction and quick start for humans; links into `docs/` | The quick start or the doc links change |
+
+All four `docs/` files are in Korean.
 
 ## Commands
 
@@ -22,6 +25,28 @@ uv run pytest                        # unit tests for the filter/date/dedup help
 uv run python aggregate.py           # writes data.json (network)
 uv run python -m http.server         # preview at http://localhost:8000
 ```
+
+## Rules
+
+Values and rationale in `docs/RULES.md`; same numbers.
+
+| Rule | Statement | Enforced in |
+|---|---|---|
+| RULE1 | `data.json` is published only on the `gh-pages` branch; it is never committed to `master`/`develop`. | `.gitignore`, `update.yml` publish step, Forbidden |
+| RULE2 | Only the `update.yml` workflow writes `gh-pages`: one commit (`index.html`, `data.json`, `.nojekyll`), force-pushed on every run. | `update.yml`, `.claude/settings.json` deny, Forbidden |
+| RULE3 | Feeds, keyword filters and limits live only in `feeds.json`; no feed URL, keyword or limit is hard-coded. | `aggregate.py` `main`, CI `feeds.json` parse check |
+| RULE4 | One failing feed is skipped and logged `[FAIL]`; it never aborts the run. A feed fails on an exception, or on `bozo` with zero entries. | `aggregate.py` `build_category`/`collect_feed`, `test_build_category_filters_dedups_sorts_and_caps` |
+| RULE5 | Keyword filter on title + summary, case-insensitive: any exclude keyword drops the item (exclude wins); an empty include list passes everything, otherwise one include keyword must match. | `aggregate.passes_filters`, `test_passes_filters` |
+| RULE6 | Dates are normalized to UTC; items older than `max_age_days` (14) are dropped; undated items are kept and sorted last. | `aggregate.parse_date`/`build_category`, `test_parse_date_*` |
+| RULE7 | Deduplication is per category; the key is the link without query string and trailing `/`, or the lowercased title when there is no link; the first item wins. | `aggregate.dedup_key`/`build_category`, `test_dedup_key_*` |
+| RULE8 | Each category is sorted newest first and capped at `max_items_per_category` (40). | `aggregate.build_category`, `test_build_category_filters_dedups_sorts_and_caps` |
+| RULE9 | The collector's only runtime dependency is `feedparser`. | `pyproject.toml` `dependencies` |
+| RULE10 | The dashboard is the single file `index.html` with no external JS; it fetches `data.json` from the same path. | `index.html`, `update.yml` publish step |
+| RULE11 | Strings from `data.json` (title, source, link, category label) and the search text are HTML-escaped before they reach the DOM. | `index.html` `esc()` |
+| RULE12 | Public repository: nothing private is committed; secrets live only in GitHub Secrets. | Review |
+| RULE13 | Not done: sources without RSS/Atom are not collected (no scraping). | — |
+| RULE14 | Not done: collection on the exact schedule is not guaranteed (cron 00/06/12/18 UTC is best effort). | — |
+| RULE15 | Not done: no server, no database, no history of past collections; each run overwrites the published copy. | — |
 
 ## Forbidden
 
