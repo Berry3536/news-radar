@@ -53,7 +53,7 @@ Values and rationale in `docs/RULES.md`; same numbers.
 - Committing `data.json` to `master`/`develop`; it is published only on `gh-pages`.
 - Pushing to `gh-pages` by hand; only the workflow writes it.
 
-<!-- stark-kit:begin level=standard kit=0.3.5 — generated; edit stark-kit, then `kit.py sync` -->
+<!-- stark-kit:begin level=standard kit=0.3.6 — generated; edit stark-kit, then `kit.py sync` -->
 
 # Kit rules
 
@@ -74,6 +74,9 @@ patch release. Keep ceremony proportional to the change.
 7. **Gate Review.** When the gate's last ticket merges, check the exit criteria (one fresh `verifier`
    on the gate's cumulative diff, or the user's own check for non-code criteria) and add a `GRn` row
    with `proposed: <verdict>`. Only the user closes the GR.
+   GR0 needs a defect review first: one fresh `verifier` (`correctness`) on code changed since the
+   last review, plus a check of the whole product against the `## Rules` table; confirmed findings
+   become `DEFECTn`.
 
 Commits on feature/bugfix branches are allowed without asking; merges into `develop`,
 pushes, and tags still need the user's request.
