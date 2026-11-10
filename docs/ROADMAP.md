@@ -1,6 +1,6 @@
 # 로드맵
 
-News Radar는 지금 GATE0에 있고 최종 목표 GATE2를 향한다. 게이트는 제품의 **검증 가능한 상태**이지 티켓 묶음이 아니다.
+News Radar는 지금 GATE1에 있고 최종 목표 GATE2를 향한다. 게이트는 제품의 **검증 가능한 상태**이지 티켓 묶음이 아니다.
 진행 상태는 이 파일에만 쓴다. 설계는 [DESIGN.md](DESIGN.md), 규칙은 [RULES.md](RULES.md), 절차는 [RUNBOOK.md](RUNBOOK.md).
 
 ## 읽는 법
@@ -25,20 +25,16 @@ News Radar는 지금 GATE0에 있고 최종 목표 GATE2를 향한다. 게이트
 
 | | |
 |---|---|
-| 현재 게이트 | **GATE0** |
+| 현재 게이트 | **GATE1** |
 | 현재 티켓 | 없음 |
-| 마지막 GR | 없음 (GR0 판정안 `proposed: pass with notes`, 사용자 미결) |
+| 마지막 GR | GR0 pass with notes (2026-11-10) |
 | 최신 릴리스 | v1.0.1 (2026-11-03) |
 | 열린 결함 | 6 (DEFECT1~DEFECT6) |
-| 다음 할 일 | 사용자가 GR0를 닫는다. 그 뒤 GATE1-T2(DEFECT2, 브랜치 `feature/GATE1-T2-<slug>`)부터 GATE1 작업 순서대로 |
+| 다음 할 일 | GATE1-T2(DEFECT2, 브랜치 `feature/GATE1-T2-<slug>`)부터 GATE1 작업 순서대로 |
 
 ## 현재 작업
 
-GATE0 결함 리뷰 (브랜치 `feature/gate0-defect-review`, `docs/`만 바꾼다).
-
-- Goal: GR0 근거가 될 결함 리뷰. 이전 리뷰가 없으므로 첫 커밋부터 develop 끝까지 코드 전체를 RULE1~RULE15와 대조한다.
-- Acceptance: RULE별 대조 결과, 확인된 결함을 DEFECT2부터 등록, GATE0 절에 결함 리뷰 보고와 GR0 `proposed` 판정안,
-  GR 기록 GR0 행 갱신. 코드는 고치지 않는다.
+없음
 
 ## 결함
 
@@ -126,7 +122,7 @@ RULE 공백 질문 5건(0건 피드, 전체 실패, `feeds.json` 형식 검사, 
 기사가 카테고리마다 1건만 남고(DEFECT2) 그 시각이 9시간 미래다(DEFECT3). 둘 다 지금 배포본에 매 실행 나타난다는 것이
 note다. GATE1은 이 둘을 먼저 고치고(GATE1-T2·T3), DEFECT1·DEFECT4·DEFECT5·DEFECT6, 전체 0건 배포 금지(GATE1-T6),
 문서·테스트 정리(GATE1-T8)까지 v1.1.0으로 닫는다. 0건 피드 표시, `feeds.json` 형식 검사, 미래 날짜, 키워드 부분 일치·요약
-태그는 관찰로 두고 GR1에서 다시 본다.
+태그는 관찰로 두고 GR1에서 다시 본다. 2026-11-10 사용자가 이 판정으로 GR0를 닫았다.
 
 ## GATE1 — 대시보드가 피드의 기사를 빠짐없이 올바른 시각으로 보여 주고, 피드 하나가 수집과 화면을 망치지 않는다
 
@@ -181,7 +177,7 @@ GATE2 밖(새 범위 결정이 필요한 것, 결함이 아님): 정시 수집(R
 
 | GR | 날짜 | 판정 | 증거 | 다음 게이트를 위한 결정 |
 |---|---|---|---|---|
-| GR0 | 2026-11-10 | proposed: pass with notes | 결함 리뷰(2026-11-10, 범위 `c8f2902..4b92135` 전체와 RULE1~RULE15, verifier 1 correctness: VERDICT FAIL, 지적 9건 중 4건이 DEFECT2~DEFECT5와 같음; 오프라인 실험 7건; 결과 DEFECT2~DEFECT6 등록, 기각 8건, RULE 공백 5건); 이 진단; v1.0.1(2026-11-03); pytest 16 passed(CI run 41605796586, master `5731e98`); `update.yml` 613회 전부 성공(2026-06-01~11-10), 최근 run 42733691513(피드 15개 `[OK]`, 117건) → pages run 42733735769 | 결정(2026-11-04, 사용자): DEFECT1은 GATE1에서 닫는다(GATE1-T1), 최종 목표는 GATE2. 결정(2026-11-10, 사용자): DEFECT2~DEFECT6도 GATE1에 두고 목표 릴리스를 v1.1.0으로 한다(GATE1-T2~T5, T7); 전체 0건이면 배포하지 않는다(GATE1-T6, 새 RULE); 문서·테스트 정리는 GATE1 티켓 하나(GATE1-T8); 0건 피드 표시·`feeds.json` 형식 검사·미래 날짜·키워드 부분 일치와 요약 태그는 관찰로 둔다. 남은 질문: 없음(GR0를 닫는 것만 남음) |
+| GR0 | 2026-11-10 | pass with notes (2026-11-10 사용자가 닫음) | 결함 리뷰(2026-11-10, 범위 `c8f2902..4b92135` 전체와 RULE1~RULE15, verifier 1 correctness: VERDICT FAIL, 지적 9건 중 4건이 DEFECT2~DEFECT5와 같음; 오프라인 실험 7건; 결과 DEFECT2~DEFECT6 등록, 기각 8건, RULE 공백 5건); 이 진단; v1.0.1(2026-11-03); pytest 16 passed(CI run 41605796586, master `5731e98`); `update.yml` 613회 전부 성공(2026-06-01~11-10), 최근 run 42733691513(피드 15개 `[OK]`, 117건) → pages run 42733735769 | 결정(2026-11-04, 사용자): DEFECT1은 GATE1에서 닫는다(GATE1-T1), 최종 목표는 GATE2. 결정(2026-11-10, 사용자): DEFECT2~DEFECT6도 GATE1에 두고 목표 릴리스를 v1.1.0으로 한다(GATE1-T2~T5, T7); 전체 0건이면 배포하지 않는다(GATE1-T6, 새 RULE); 문서·테스트 정리는 GATE1 티켓 하나(GATE1-T8); 0건 피드 표시·`feeds.json` 형식 검사·미래 날짜·키워드 부분 일치와 요약 태그는 관찰로 둔다. 남은 질문: 없음. GR0 닫힘(2026-11-10, 사용자) |
 
 ## 옛 ID 대응표
 
