@@ -53,7 +53,7 @@ Values and rationale in `docs/RULES.md`; same numbers.
 - Committing `data.json` to `master`/`develop`; it is published only on `gh-pages`.
 - Pushing to `gh-pages` by hand; only the workflow writes it.
 
-<!-- stark-kit:begin level=standard kit=0.3.6 — generated; edit stark-kit, then `kit.py sync` -->
+<!-- stark-kit:begin level=standard kit=0.3.7 — generated; edit stark-kit, then `kit.py sync` -->
 
 # Kit rules
 
