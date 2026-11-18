@@ -53,7 +53,7 @@ Values and rationale in `docs/RULES.md`; same numbers.
 - Committing `data.json` to `master`/`develop`; it is published only on `gh-pages`.
 - Pushing to `gh-pages` by hand; only the workflow writes it.
 
-<!-- stark-kit:begin level=standard kit=0.3.7 — generated; edit stark-kit, then `kit.py sync` -->
+<!-- stark-kit:begin level=standard kit=0.3.8 — generated; edit stark-kit, then `kit.py sync` -->
 
 # Kit rules
 
@@ -69,8 +69,10 @@ patch release. Keep ceremony proportional to the change.
 4. **Verify** non-trivial changes (new behavior, more than one module, release-relevant) with
    one fresh `verifier` subagent, `correctness` lens. Spot-check its findings before acting.
 5. **Report**: what changed, verify output, findings and how each was handled.
-6. **After user approval:** merge into `develop` with `--no-ff`. In `docs/ROADMAP.md` set the ticket
-   `done <merge sha>`, mark the defects it closes `fixed by`, clear `Current work`.
+6. **After user approval:** in the branch's last commit set the ticket `done` in `docs/ROADMAP.md`,
+   mark the defects it closes `fixed by GATEn-Tk`, and clear `Current work`; then merge into `develop`
+   with `--no-ff`. No sha is recorded (`develop` takes no direct commits): the merge commit names the
+   branch, so `git log --merges --grep='GATEn-Tk-' develop` finds it.
 7. **Gate Review.** When the gate's last ticket merges, check the exit criteria (one fresh `verifier`
    on the gate's cumulative diff, or the user's own check for non-code criteria) and add a `GRn` row
    with `proposed: <verdict>`. Only the user closes the GR.

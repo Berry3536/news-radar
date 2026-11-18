@@ -10,9 +10,10 @@ News Radar는 지금 GATE1에 있고 최종 목표 GATE2를 향한다. 게이트
   어디서나 같은 모양: 브랜치 `feature/GATE1-T1-<slug>`, 커밋 `fix: ... (GATE1-T1)`, 릴리스 노트 `(GATE1-T1, DEFECT3)`.
 - 게이트는 번호 순서로 지난다. 이전 GR이 pass하기 전에는 다음 게이트의 티켓을 시작하지 않는다.
   예외는 *parallel* 표시가 있는 게이트·티켓이며, 어느 GR 전에 pass해야 하는지 진입 조건 줄에 적는다.
-- 티켓 상태: `open` → `in progress`(브랜치 생성) → `done <머지 sha>`. 행은 지우지 않는다.
+- 티켓 상태: `open` → `in progress`(브랜치 생성) → `done`(티켓 브랜치의 마지막 커밋에서 적고, 그 브랜치가 머지될 때
+  develop에 들어간다). sha는 적지 않는다: 머지 커밋은 `git log --merges --grep='GATE1-T1-' develop`처럼 찾는다. 행은 지우지 않는다.
 - 결함은 발견 즉시 `## 결함`에 다음 번호로 등록한다(현재 게이트와 무관). 티켓의 "닫는 결함" 열이 결함을
-  가리키고, 티켓이 머지되면 결함 상태를 `fixed by GATEn-Tk`로 바꾼다.
+  가리키고, 그 티켓을 `done`으로 바꾸는 커밋에서 결함 상태를 `fixed by GATEn-Tk`로 바꾼다.
 - 게이트 리뷰는 종료 기준을 증거(테스트 결과와 커밋, 검증자 보고, 워크플로 run id, 운영 로그, RUNBOOK QA 번호)로
   확인한다. 세션이 증거를 모아 판정안(`pass` / `pass with notes` / `fail`)을 적고, **사용자만 GR을 닫는다.**
   `fail`이면 같은 게이트에 티켓을 추가하고 같은 `GRn`으로 다시 심사한다.
