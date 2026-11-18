@@ -34,7 +34,7 @@ Stop and ask before every step marked **[confirm]**. Stop on any failure.
    the previous version string everywhere else (`git grep -nF "<old version>" -- ':!*.lock'`),
    ignoring release-history docs, and update every hit that names the product version (GUI
    title, `__version__`, user-visible strings): a leftover ships under the old version
-   (swap-candb v1.2.4 was tagged with its GUI title still reading v1.2.3). Commit
+   (one release was tagged with its GUI title still showing the previous version). Commit
    `chore: release vX.Y.Z` on the release branch with the version, notes file, and those
    edits. Only version, notes, release doc edits, and last-minute fixes go here.
 5. `git switch master && git pull --ff-only origin master && git merge --no-ff release/X.Y.Z`. Verify. **[confirm]**
