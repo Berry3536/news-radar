@@ -29,7 +29,7 @@ News Radar는 지금 GATE1에 있고 최종 목표 GATE2를 향한다. 게이트
 | 현재 티켓 | 없음 |
 | 마지막 GR | GR0 pass with notes (2026-11-10) |
 | 최신 릴리스 | v1.0.1 (2026-11-03) |
-| 열린 결함 | 6 (DEFECT1~DEFECT6) |
+| 열린 결함 | 5 (DEFECT1~DEFECT5) |
 | 다음 할 일 | GATE1-T2(DEFECT2, 브랜치 `feature/GATE1-T2-<slug>`)부터 GATE1 작업 순서대로 |
 
 ## 현재 작업
@@ -45,7 +45,7 @@ News Radar는 지금 GATE1에 있고 최종 목표 GATE2를 향한다. 게이트
 | DEFECT3 | 2026-11-10, GATE0 결함 리뷰: 배포본 `data.json`, master 스냅샷 516개, 실험 E3 | 국내 피드 3곳(모터그래프·로봇신문·AI타임스) 항목의 발행 시각이 실제보다 9시간 늦게(미래로) 기록된다. 수집 시각보다 0~9시간 앞선 항목이 스냅샷에서 942번 나왔고 모두 이 세 피드다. KST 시각이 UTC로 해석된 것으로 보인다(원문 피드의 시각 표기는 오프라인 원칙으로 확인하지 않았다) | 해당 항목이 실제보다 위로 정렬되고 대시보드에 최대 9시간 "방금"(강조색)으로 보인다. 기간 필터(RULE6) 경계도 9시간 어긋난다. 예: 배포본 `df9ed5e`(수집 01:09 UTC)의 AI타임스 항목 `published` `2026-11-10T09:05:00+00:00` | open |
 | DEFECT4 | 2026-11-10, GATE0 결함 리뷰: 실험 E7, `aggregate.py` `collect_feed`(97행), feedparser 6.0.14 `http.py` 171행 `opener.open(request)`, `update.yml` job 설정 | 피드 요청에 타임아웃이 없다. 연결만 받고 응답하지 않는 피드 하나에서 `collect_feed`가 돌아오지 않아 수집 전체가 멈춘다(RULE4 "수집 전체를 멈추지 않는다"와 다름). job에 `timeout-minutes`가 없어 GitHub 기본 한도(360분)까지 기다린 뒤 취소되고 배포 단계는 돌지 않는다 | 그 실행은 배포본을 갱신하지 못하고, 같은 `concurrency` 그룹의 다음 예약 실행은 그동안 줄을 선다. 2026-06-01 이후 613회 실행에서는 일어나지 않았다 | open |
 | DEFECT5 | 2026-11-10, GATE0 결함 리뷰: 실험 E6(Node `vm`), feedparser 오프라인 파싱, `index.html` `renderGrid`(352~354행) | 항목 링크의 스킴을 검사하지 않는다. 피드가 `javascript:`·`vbscript:`·`data:` 링크를 주면 feedparser가 그대로 넘기고, `esc()`는 HTML 특수문자만 바꾸므로 그 값이 그대로 `<a href>`가 된다. RULE11의 근거(외부 피드 내용으로 공개 페이지에 스크립트 주입)를 막지 못한다 | 악성·탈취된 피드, 또는 `http://` 피드 3개의 전송 구간 변조로 대시보드 링크에 스크립트 URL이 들어갈 수 있다. 클릭해야 하고, `target="_blank"` 링크에서 실제로 실행되는지는 브라우저마다 다르며 이번에 확인하지 않았다. 지금 배포본의 링크는 모두 `http(s)://`다 | open |
-| DEFECT6 | 2026-11-10, GATE0 결함 리뷰: RULE12 대조(`git grep`), `.claude/CONVENTIONS.md` 43행 | stark-kit이 생성한 `.claude/CONVENTIONS.md`가 예시로 다른 비공개 저장소의 이름과 그 안의 파일 경로를 담고 있다(RULE12 "비공개 정보를 커밋하지 않는다"와 다름) | 2026-10-14(`dd59233`)부터 공개 레포의 `master`·`develop`에 있다. 토큰·자격 증명은 아니다. 고쳐도 git 이력에는 남는다(이력은 다시 쓰지 않는다) | open |
+| DEFECT6 | 2026-11-10, GATE0 결함 리뷰: RULE12 대조(`git grep`), `.claude/CONVENTIONS.md` 43행 | stark-kit이 생성한 `.claude/CONVENTIONS.md`가 예시로 다른 비공개 저장소의 이름과 그 안의 파일 경로를 담고 있다(RULE12 "비공개 정보를 커밋하지 않는다"와 다름) | 2026-10-14(`dd59233`)부터 공개 레포의 `master`·`develop`에 있다. 토큰·자격 증명은 아니다. 고쳐도 git 이력에는 남는다(이력은 다시 쓰지 않는다) | fixed by GATE1-T7 |
 
 ## GATE0 — 현황 진단 (2026-11-04, 결함 리뷰 2026-11-10)
 
@@ -140,7 +140,7 @@ DEFECT2~DEFECT6과 전체 0건 규칙 추가는 2026-11-10 사용자 결정, GR 
 | GATE1-T4 | 피드 요청에 타임아웃을 둬서 넘으면 그 피드만 `[FAIL]`로 건너뛰고, `update.yml` job에 `timeout-minutes`를 둔다. 값은 RULE4에 적는다 | DEFECT4 | — | open |
 | GATE1-T5 | `http`/`https`가 아닌 항목 링크는 내보내지 않는다(수집기에서 빈 링크로, 대시보드에서도 스킴 검사). RULE11 문장 개정 | DEFECT5 | — | open |
 | GATE1-T6 | 수집 결과가 전체 0건이면 `data.json`을 게시하지 않고 직전 배포본을 유지한다(`aggregate.py` 종료 코드 1 → 배포 단계를 건너뜀). 새 RULE 번호를 받고 DESIGN 오류 모델을 고친다 | — (GR0 결정) | — | open |
-| GATE1-T7 | `.claude/CONVENTIONS.md`의 다른 저장소 예시를 일반 문장으로 바꾼 stark-kit 버전을 `kit sync`로 반영한다 | DEFECT6 | stark-kit 문안 수정 | open |
+| GATE1-T7 | `.claude/CONVENTIONS.md`의 다른 저장소 예시를 일반 문장으로 바꾼 stark-kit 버전을 `kit sync`로 반영한다 | DEFECT6 | stark-kit 문안 수정 | done bf7c511 |
 | GATE1-T8 | 문서·주석·테스트 정리: `aggregate.py` docstring(배포 방식), `update.yml` 예약 주석(RULE14 참조), DESIGN "데이터와 흐름" 1번의 수동 실행 ref 문장(필요하면 배포 단계를 `master` 전용으로), DESIGN 오류 모델에 `feeds.json` 키 누락·형식 오류 줄, RULES "지키는 곳"이 가리키는 테스트 보강(`collect_feed` bozo 판정, 요약에만 키워드가 있는 항목, 먼저 수집된 항목이 남는 중복) | — | — | open |
 
 종료 기준 (GR1):
