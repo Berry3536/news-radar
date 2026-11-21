@@ -27,15 +27,20 @@ News Radar는 지금 GATE1에 있고 최종 목표 GATE2를 향한다. 게이트
 | | |
 |---|---|
 | 현재 게이트 | **GATE1** |
-| 현재 티켓 | 없음 |
+| 현재 티켓 | GATE1-T2 (브랜치 `feature/GATE1-T2-dedup-query`) |
 | 마지막 GR | GR0 pass with notes (2026-11-10) |
 | 최신 릴리스 | v1.0.1 (2026-11-03) |
 | 열린 결함 | 5 (DEFECT1~DEFECT5) |
-| 다음 할 일 | GATE1-T2(DEFECT2, 브랜치 `feature/GATE1-T2-<slug>`)부터 GATE1 작업 순서대로 |
+| 다음 할 일 | GATE1-T2 → GATE1-T3 → GATE1-T1 |
 
 ## 현재 작업
 
-없음
+GATE1-T2 (DEFECT2), 2026-11-21 사용자 승인.
+
+- Goal: 쿼리스트링이 기사 식별자인 링크(`?idxno=`)의 기사가 각각 남도록 중복 키를 고친다.
+- Acceptance: `dedup_key`가 추적 파라미터(`utm_*`, `fbclid`, `gclid`)만 떼고 나머지 쿼리는 키에 남긴다. `idxno`만 다른 두
+  기사는 둘 다 남고 `utm_*`만 다른 같은 기사는 하나로 합쳐지는 테스트. RULE7 문장 개정(`docs/RULES.md`, `CLAUDE.md`).
+  `kit.json` verify 통과.
 
 ## 결함
 
@@ -136,7 +141,7 @@ DEFECT2~DEFECT6과 전체 0건 규칙 추가는 2026-11-10 사용자 결정, GR 
 | 티켓 | 작업 | 닫는 결함 | 선행 | 상태 |
 |---|---|---|---|---|
 | GATE1-T1 | `index.html`의 "last sync" 시각을 UTC로 계산해 표시한다(`fmtDateTime`이 `getUTC*`를 쓰거나 UTC 전용 포맷 함수를 둔다). 레이블 "UTC"와 값의 시간대가 같아진다. 항목별 날짜 표시는 범위 밖(별도 결함이면 새 번호로 등록) | DEFECT1 | — | open |
-| GATE1-T2 | 중복 키에서 기사를 식별하는 쿼리를 지우지 않는다: 추적 파라미터(`utm_*` 등)만 떼고 나머지 쿼리는 키에 남긴다. RULE7 문장 개정, `idxno`만 다른 기사가 각각 남는 테스트 | DEFECT2 | — | open |
+| GATE1-T2 | 중복 키에서 기사를 식별하는 쿼리를 지우지 않는다: 추적 파라미터(`utm_*` 등)만 떼고 나머지 쿼리는 키에 남긴다. RULE7 문장 개정, `idxno`만 다른 기사가 각각 남는 테스트 | DEFECT2 | — | in progress |
 | GATE1-T3 | 시간대 없는 발행 시각을 피드별로 해석한다(예: `feeds.json` 피드 항목의 시간대 키, 없으면 UTC). 먼저 세 피드의 원문 시각 표기를 확인한다. RULE6 값 개정 | DEFECT3 | — | open |
 | GATE1-T4 | 피드 요청에 타임아웃을 둬서 넘으면 그 피드만 `[FAIL]`로 건너뛰고, `update.yml` job에 `timeout-minutes`를 둔다. 값은 RULE4에 적는다 | DEFECT4 | — | open |
 | GATE1-T5 | `http`/`https`가 아닌 항목 링크는 내보내지 않는다(수집기에서 빈 링크로, 대시보드에서도 스킴 검사). RULE11 문장 개정 | DEFECT5 | — | open |

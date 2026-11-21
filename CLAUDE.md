@@ -38,7 +38,7 @@ Values and rationale in `docs/RULES.md`; same numbers.
 | RULE4 | One failing feed is skipped and logged `[FAIL]`; it never aborts the run. A feed fails on an exception, or on `bozo` with zero entries. | `aggregate.py` `build_category`/`collect_feed`, `test_build_category_filters_dedups_sorts_and_caps` |
 | RULE5 | Keyword filter on title + summary, case-insensitive: any exclude keyword drops the item (exclude wins); an empty include list passes everything, otherwise one include keyword must match. | `aggregate.passes_filters`, `test_passes_filters` |
 | RULE6 | Dates are normalized to UTC; items older than `max_age_days` (14) are dropped; undated items are kept and sorted last. | `aggregate.parse_date`/`build_category`, `test_parse_date_*` |
-| RULE7 | Deduplication is per category; the key is the link without query string and trailing `/`, or the lowercased title when there is no link; the first item wins. | `aggregate.dedup_key`/`build_category`, `test_dedup_key_*` |
+| RULE7 | Deduplication is per category; the key is the link without tracking query parameters (`utm_*`, `fbclid`, `gclid`) and without the trailing `/` of its path (other query parameters stay), or the lowercased title when there is no link; the first item wins. | `aggregate.dedup_key`/`build_category`, `test_dedup_key_*` |
 | RULE8 | Each category is sorted newest first and capped at `max_items_per_category` (40). | `aggregate.build_category`, `test_build_category_filters_dedups_sorts_and_caps` |
 | RULE9 | The collector's only runtime dependency is `feedparser`. | `pyproject.toml` `dependencies` |
 | RULE10 | The dashboard is the single file `index.html` with no external JS; it fetches `data.json` from the same path. | `index.html`, `update.yml` publish step |

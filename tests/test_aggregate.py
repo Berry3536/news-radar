@@ -37,13 +37,30 @@ def test_clean_text_unescapes_and_collapses_whitespace():
     assert aggregate.clean_text("") == ""
 
 
-def test_dedup_key_strips_query_string_and_trailing_slash():
-    assert aggregate.dedup_key("https://x.com/a/?utm=1", "T") == "https://x.com/a"
+def test_dedup_key_strips_tracking_params_and_trailing_slash():
+    assert aggregate.dedup_key("https://x.com/a/?utm_source=rss", "T") == "https://x.com/a"
     assert aggregate.dedup_key("https://x.com/a/", "T") == aggregate.dedup_key("https://x.com/a", "T")
+    assert (
+        aggregate.dedup_key("https://x.com/a?id=3&UTM_Medium=rss&fbclid=abc&gclid=z", "T")
+        == "https://x.com/a?id=3"
+    )
+
+
+def test_dedup_key_keeps_article_identifying_query():
+    first = "https://www.aitimes.com/news/articleView.html?idxno=217644"
+    second = "https://www.aitimes.com/news/articleView.html?idxno=217647"
+    assert aggregate.dedup_key(first, "T") == first
+    assert aggregate.dedup_key(first, "T") != aggregate.dedup_key(second, "T")
+    assert aggregate.dedup_key(first + "&utm_source=rss", "T") == aggregate.dedup_key(first, "T")
+
+
+def test_dedup_key_does_not_raise_on_malformed_link():
+    assert aggregate.dedup_key(" http://[::1/a?x=1 ", "T") == "http://[::1/a?x=1"
 
 
 def test_dedup_key_uses_lowercased_title_without_link():
     assert aggregate.dedup_key("", "  Hello World ") == "hello world"
+    assert aggregate.dedup_key("   ", "  Hello World ") == "hello world"
 
 
 # --- passes_filters ---------------------------------------------------------------------
@@ -75,7 +92,7 @@ def test_build_category_filters_dedups_sorts_and_caps(monkeypatch):
     now = datetime.now(UTC)
     feeds = {
         "A": [
-            _item("Battery news 1", "https://a/1?utm=x", now - timedelta(days=1)),
+            _item("Battery news 1", "https://a/1?utm_source=x", now - timedelta(days=1)),
             _item("Battery news 1 dup", "https://a/1", now - timedelta(days=2)),  # same link → dropped
             _item("Motor news", "https://a/2", now),  # fails include filter
             _item("Old battery", "https://a/3", now - timedelta(days=30)),  # older than max_age
@@ -109,3 +126,19 @@ def test_build_category_filters_dedups_sorts_and_caps(monkeypatch):
 
     capped = aggregate.build_category(cat, max_age_days=14, max_items=1)
     assert [i["title"] for i in capped["items"]] == ["Battery news 2"]
+
+
+def test_build_category_keeps_articles_that_differ_only_in_query(monkeypatch):
+    now = datetime.now(UTC)
+    base = "https://www.irobotnews.com/news/articleView.html?idxno="
+    entries = [
+        _item("Robot 1", base + "1", now - timedelta(hours=1)),
+        _item("Robot 2", base + "2", now - timedelta(hours=2)),
+        _item("Robot 1 again", base + "1&utm_source=rss", now - timedelta(hours=3)),  # same article
+    ]
+    monkeypatch.setattr(aggregate, "collect_feed", lambda name, url: entries)
+    cat = {"key": "robot", "label": "로봇", "feeds": [{"name": "로봇신문", "url": "https://r"}]}
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=10)
+
+    assert [i["title"] for i in out["items"]] == ["Robot 1", "Robot 2"]

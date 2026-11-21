@@ -17,11 +17,16 @@ import sys
 from datetime import UTC, datetime, timedelta
 from email.utils import parsedate_to_datetime
 from html import unescape
+from urllib.parse import urlsplit, urlunsplit
 
 import feedparser
 
 CONFIG_PATH = "feeds.json"
 OUTPUT_PATH = "data.json"
+
+# 기사를 식별하지 않고 유입 경로만 추적하는 쿼리 파라미터 (RULE7).
+TRACKING_PARAM_PREFIXES = ("utm_",)
+TRACKING_PARAMS = frozenset({"fbclid", "gclid"})
 
 
 def log(msg: str) -> None:
@@ -68,14 +73,28 @@ def clean_text(value: str) -> str:
     return " ".join(unescape(value).split())
 
 
-def dedup_key(link: str, title: str) -> str:
-    """중복 판정 키: 링크에서 쿼리스트링(? 이후) 제거.
+def is_tracking_param(name: str) -> bool:
+    """추적 파라미터(utm_*, fbclid, gclid)인지. 대소문자 무시."""
+    lowered = name.lower()
+    return lowered.startswith(TRACKING_PARAM_PREFIXES) or lowered in TRACKING_PARAMS
 
-    링크가 없으면 제목 소문자.
+
+def dedup_key(link: str, title: str) -> str:
+    """중복 판정 키 (RULE7).
+
+    링크에서 추적 파라미터와 경로 끝 '/'를 뗀 값. 나머지 쿼리는 기사 식별자일 수 있어
+    (예: articleView.html?idxno=NNN) 원래 순서·표기 그대로 남긴다.
+    링크를 URL로 나눌 수 없으면 링크 문자열 그대로, 링크가 없으면 제목 소문자.
     """
-    if link:
-        return link.split("?", 1)[0].strip().rstrip("/")
-    return title.strip().lower()
+    link = link.strip()
+    if not link:
+        return title.strip().lower()
+    try:
+        parts = urlsplit(link)
+    except ValueError:  # 예: 닫히지 않은 IPv6 호스트. 키 계산이 수집을 멈추면 안 된다(RULE4)
+        return link
+    kept = [p for p in parts.query.split("&") if p and not is_tracking_param(p.split("=", 1)[0])]
+    return urlunsplit(parts._replace(path=parts.path.rstrip("/"), query="&".join(kept)))
 
 
 def passes_filters(text: str, include: list[str], exclude: list[str]) -> bool:
