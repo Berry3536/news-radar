@@ -10,7 +10,7 @@
       "feeds": [
         { "name": "Electrek", "url": "https://electrek.co/feed/" },
         { "name": "InsideEVs", "url": "https://insideevs.com/rss/articles/all/" },
-        { "name": "모터그래프", "url": "https://www.motorgraph.com/rss/allArticle.xml" }
+        { "name": "모터그래프", "url": "https://www.motorgraph.com/rss/allArticle.xml", "tz": "+09:00" }
       ]
     },
     {
@@ -38,7 +38,7 @@
       "feeds": [
         { "name": "Electrek", "url": "https://electrek.co/feed/" },
         { "name": "InsideEVs", "url": "https://insideevs.com/rss/articles/all/" },
-        { "name": "모터그래프", "url": "https://www.motorgraph.com/rss/allArticle.xml" }
+        { "name": "모터그래프", "url": "https://www.motorgraph.com/rss/allArticle.xml", "tz": "+09:00" }
       ]
     },
     {
@@ -49,7 +49,7 @@
       "feeds": [
         { "name": "IEEE Spectrum", "url": "https://spectrum.ieee.org/feeds/topic/robotics.rss" },
         { "name": "The Robot Report", "url": "https://www.therobotreport.com/feed/" },
-        { "name": "로봇신문", "url": "http://www.irobotnews.com/rss/allArticle.xml" }
+        { "name": "로봇신문", "url": "http://www.irobotnews.com/rss/allArticle.xml", "tz": "+09:00" }
       ]
     },
     {
@@ -60,7 +60,7 @@
       "feeds": [
         { "name": "arXiv cs.AI", "url": "http://export.arxiv.org/rss/cs.AI" },
         { "name": "arXiv cs.LG", "url": "http://export.arxiv.org/rss/cs.LG" },
-        { "name": "AI타임스", "url": "https://www.aitimes.com/rss/allArticle.xml" }
+        { "name": "AI타임스", "url": "https://www.aitimes.com/rss/allArticle.xml", "tz": "+09:00" }
       ]
     }
   ]

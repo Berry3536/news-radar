@@ -13,8 +13,9 @@ feeds.json을 읽어 카테고리별 RSS 피드를 수집/정규화/필터링한
 from __future__ import annotations
 
 import json
+import re
 import sys
-from datetime import UTC, datetime, timedelta
+from datetime import UTC, datetime, timedelta, timezone, tzinfo
 from email.utils import parsedate_to_datetime
 from html import unescape
 from urllib.parse import urlsplit, urlunsplit
@@ -28,39 +29,89 @@ OUTPUT_PATH = "data.json"
 TRACKING_PARAM_PREFIXES = ("utm_",)
 TRACKING_PARAMS = frozenset({"fbclid", "gclid"})
 
+# feeds.json 피드 항목의 "tz": 고정 UTC 오프셋 "+09:00" / "-05:00".
+# IANA 이름(Asia/Seoul)은 Windows에서 tzdata 패키지가 있어야 해 쓰지 않는다(런타임 의존성은 feedparser 하나).
+TZ_OFFSET_RE = re.compile(r"([+-])([01]\d|2[0-3]):([0-5]\d)")
+
 
 def log(msg: str) -> None:
     """진행 로그는 stderr로 (stdout은 깨끗하게 유지)."""
     print(msg, file=sys.stderr, flush=True)
 
 
-def parse_date(entry) -> datetime | None:
+def parse_tz(value: object) -> tzinfo:
+    """feeds.json 피드 항목의 "tz" 값을 tzinfo로 바꾼다.
+
+    "+09:00" 같은 ±HH:MM 고정 오프셋만 받는다. 키가 없으면(None) UTC.
+    형식이 틀리면 ValueError — build_category가 그 피드만 [FAIL]로 건너뛴다.
+    """
+    if value is None:
+        return UTC
+    m = TZ_OFFSET_RE.fullmatch(value) if isinstance(value, str) else None
+    if m is None:
+        raise ValueError(f"잘못된 tz 값 {value!r} (형식: +09:00 같은 ±HH:MM 고정 오프셋)")
+    sign = -1 if m.group(1) == "-" else 1
+    return timezone(sign * timedelta(hours=int(m.group(2)), minutes=int(m.group(3))))
+
+
+def lacks_tz(raw: object) -> bool:
+    """원문 날짜 문자열에 시간대 표기가 없으면 True.
+
+    feedparser는 시간대 없는 문자열("2026-11-21 11:51:51")을 UTC로 읽는데, struct_time만으로는
+    "시간대 없음"과 "명시적 UTC"를 구별할 수 없어 원문을 본다.
+    ISO 8601 또는 RFC 2822로 해석되고 시간대가 없어야 True. 해석할 수 없으면 False(feedparser 값을 그대로 쓴다).
+    """
+    if not isinstance(raw, str):
+        return False
+    raw = raw.strip()
+    try:
+        return datetime.fromisoformat(raw).tzinfo is None
+    except ValueError:
+        pass
+    try:
+        dt = parsedate_to_datetime(raw)
+    except (TypeError, ValueError, IndexError, OverflowError):
+        return False
+    if dt.tzinfo is not None:
+        return False
+    # parsedate_to_datetime은 "-0000"과 모르는 시간대 이름("KST")도 naive로 돌려준다.
+    # 마지막 토큰이 시간대 표기(부호·괄호로 시작하거나 글자를 포함)가 아닐 때만 시간대 없음으로 본다.
+    last = raw.split()[-1]
+    return not (last[0] in "+-(" or any(c.isalpha() for c in last))
+
+
+def parse_date(entry, tz: tzinfo = UTC) -> datetime | None:
     """entry에서 발행 시각을 UTC aware datetime으로 정규화한다.
 
     우선순위:
       1) feedparser가 파싱한 published_parsed / updated_parsed (이미 UTC struct_time)
       2) 원문 문자열 published / updated 를 email.utils로 파싱
-         (tz 정보 없으면 UTC로 간주)
+    원문 문자열에 시간대가 없으면(lacks_tz) 그 시각을 tz(피드의 "tz", 기본 UTC)의 시각으로 읽는다.
+    feedparser는 시간대 없는 문자열을 UTC로 읽으므로 1)의 struct_time도 tz로 다시 해석한다.
+    시간대가 적힌 문자열은 그대로 둔다(두 번 옮기지 않는다).
     실패하면 None.
     """
-    for key in ("published_parsed", "updated_parsed"):
-        st = entry.get(key)
+    for key in ("published", "updated"):
+        st = entry.get(f"{key}_parsed")
         if st:
             try:
-                return datetime(*st[:6], tzinfo=UTC)
+                dt = datetime(*st[:6], tzinfo=UTC)
             except (TypeError, ValueError):
-                pass
+                continue
+            if lacks_tz(entry.get(key)):
+                dt = dt.replace(tzinfo=tz).astimezone(UTC)
+            return dt
 
     for key in ("published", "updated"):
         val = entry.get(key)
         if val:
             try:
                 dt = parsedate_to_datetime(val)
-            except (TypeError, ValueError, IndexError):
+            except (TypeError, ValueError, IndexError, OverflowError):
                 dt = None
             if dt is not None:
                 if dt.tzinfo is None:
-                    dt = dt.replace(tzinfo=UTC)
+                    dt = dt.replace(tzinfo=tz if lacks_tz(val) else UTC)
                 return dt.astimezone(UTC)
 
     return None
@@ -111,8 +162,11 @@ def passes_filters(text: str, include: list[str], exclude: list[str]) -> bool:
     return True
 
 
-def collect_feed(name: str, url: str) -> list[dict]:
-    """단일 피드를 파싱해 entry 목록을 반환. 실패 시 예외를 올린다."""
+def collect_feed(name: str, url: str, tz: tzinfo = UTC) -> list[dict]:
+    """단일 피드를 파싱해 entry 목록을 반환. 실패 시 예외를 올린다.
+
+    tz는 시간대 없는 발행 시각을 읽을 피드의 시간대(parse_tz, parse_date 참고).
+    """
     parsed = feedparser.parse(url)
 
     # bozo: 피드가 잘못됐거나 네트워크 오류일 때 1.
@@ -127,7 +181,7 @@ def collect_feed(name: str, url: str) -> list[dict]:
         title = clean_text(entry.get("title", ""))
         link = (entry.get("link") or "").strip()
         summary = clean_text(entry.get("summary", "") or entry.get("description", ""))
-        dt = parse_date(entry)
+        dt = parse_date(entry, tz)
         items.append(
             {
                 "title": title,
@@ -153,8 +207,9 @@ def build_category(cat: dict, max_age_days: int, max_items: int) -> dict:
         name = feed.get("name", feed.get("url", "?"))
         url = feed.get("url", "")
         try:
-            entries = collect_feed(name, url)
-        except Exception as exc:  # 죽은 피드 격리 — 전체 중단 금지
+            tz = parse_tz(feed.get("tz"))  # 잘못된 tz는 이 피드만 실패(요청 전에 걸러진다)
+            entries = collect_feed(name, url, tz)
+        except Exception as exc:  # 죽은 피드·잘못된 피드 설정 격리 — 전체 중단 금지
             log(f"  [FAIL] {cat['key']} / {name}: {exc}")
             continue
         log(f"  [OK]   {cat['key']} / {name}: {len(entries)} entries")
