@@ -1,0 +1,718 @@
+{
+  "generated_at": "2026-11-21T05:34:42.751090+00:00",
+  "categories": [
+    {
+      "key": "ev",
+      "label": "전기차",
+      "count": 40,
+      "items": [
+        {
+          "title": "BYD offers a first look at its new flagship people mover",
+          "link": "https://electrek.co/2026/11/20/byd-first-look-new-flagship-people-mover/",
+          "source": "Electrek",
+          "published": "2026-11-20T21:42:44+00:00"
+        },
+        {
+          "title": "This 500 kWh energy storage system runs on retired EV batteries",
+          "link": "https://electrek.co/2026/11/20/this-500-kwh-energy-storage-system-runs-on-retired-ev-batteries/",
+          "source": "Electrek",
+          "published": "2026-11-20T21:08:29+00:00"
+        },
+        {
+          "title": "Kia, Lucid, and Volkswagen are slashing EV prices by $10,000+ for Black Friday",
+          "link": "https://electrek.co/2026/11/20/kia-lucid-vw-slash-ev-prices-by-10000-black-friday/",
+          "source": "Electrek",
+          "published": "2026-11-20T19:59:48+00:00"
+        },
+        {
+          "title": "Podcast: Tesla’s ‘personal’ Cybercab, Ford’s LFP for Fathom, Aptera delivers, and more",
+          "link": "https://electrek.co/2026/11/20/podcast-teslas-personal-cybercab-fords-lfp-for-fathom-aptera-delivers-and-more/",
+          "source": "Electrek",
+          "published": "2026-11-20T19:56:11+00:00"
+        },
+        {
+          "title": "BYD's Latest SUV Can Hide Its Steering Wheel When You Don't Need It",
+          "link": "https://insideevs.com/news/816295/fcb-tai-9-foldable-wheel/",
+          "source": "InsideEVs",
+          "published": "2026-11-20T19:19:18+00:00"
+        },
+        {
+          "title": "Anker S5000 5kWh power station back at $2,375 exclusive low ($1,225 off), Segway Max G3 Plus e-scooter new $1,000 low, more",
+          "link": "https://electrek.co/2026/11/20/anker-s5000-5kwh-power-station-segway-max-g3-plus-e-scooter-more/",
+          "source": "Electrek",
+          "published": "2026-11-20T19:00:00+00:00"
+        },
+        {
+          "title": "허세 없는 플래그십 전기차, 볼보 ES90 트윈모터 울트라",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44996",
+          "source": "모터그래프",
+          "published": "2026-11-20T18:04:21+00:00"
+        },
+        {
+          "title": "Renault undercuts BYD with a new EV that costs less than $20,000",
+          "link": "https://electrek.co/2026/11/20/renault-undercuts-byd-new-ev-costs-less-than-20000/",
+          "source": "Electrek",
+          "published": "2026-11-20T17:38:44+00:00"
+        },
+        {
+          "title": "What We Both Thought After Driving The Rivian R2",
+          "link": "https://insideevs.com/features/816273/rivian-r2-ievs-podcast/",
+          "source": "InsideEVs",
+          "published": "2026-11-20T16:00:21+00:00"
+        },
+        {
+          "title": "Tesla FSD approved in Italy, the first big EU market to say yes",
+          "link": "https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/",
+          "source": "Electrek",
+          "published": "2026-11-20T15:50:46+00:00"
+        },
+        {
+          "title": "Volkswagen’s new ID. Polo GTI Clubsport is the electric hot hatch we want, but can’t have",
+          "link": "https://electrek.co/2026/11/20/vws-new-id-polo-gti-clubsport-ev-hot-hatch/",
+          "source": "Electrek",
+          "published": "2026-11-20T15:29:31+00:00"
+        },
+        {
+          "title": "Hyundai’s N Vision 74 Was One Of The Coolest Car Designs In Recent Memory. Now It's Shelved",
+          "link": "https://insideevs.com/news/816240/hyundai-n-vision-74-dead/",
+          "source": "InsideEVs",
+          "published": "2026-11-20T15:19:22+00:00"
+        },
+        {
+          "title": "The Remnants Of The Electric Saab That Never Was Are Going Up For Auction",
+          "link": "https://insideevs.com/news/816245/nevs-emily-gt-ex-saab-ev-project-auction/",
+          "source": "InsideEVs",
+          "published": "2026-11-20T13:36:31+00:00"
+        },
+        {
+          "title": "Black Friday 2026 Green Deals Hub: e-bikes, EVs, power stations, tools, appliances, and more",
+          "link": "https://electrek.co/2026/11/20/black-friday-2026-green-deals-hub-e-bikes-evs-power-stations-tools-appliances-and-more/",
+          "source": "Electrek",
+          "published": "2026-11-20T12:41:23+00:00"
+        },
+        {
+          "title": "This Might Be The World's First Rivian R2 With A Two-Inch Lift, And It Looks Badass",
+          "link": "https://insideevs.com/news/816234/rivian-r2-2-inch-lift-kit-sema/",
+          "source": "InsideEVs",
+          "published": "2026-11-20T12:25:16+00:00"
+        },
+        {
+          "title": "Double guns: ultra-class haul truck packs dual-gun MCS charging, 4 MWh battery",
+          "link": "https://electrek.co/2026/11/20/double-guns-ultra-class-haul-truck-packs-dual-gun-mcs-charging-4-mwh-battery/",
+          "source": "Electrek",
+          "published": "2026-11-20T11:55:00+00:00"
+        },
+        {
+          "title": "The Volkswagen ID. Polo GTI Clubsport Is A Two-Seat Track-Ready EV",
+          "link": "https://insideevs.com/news/815684/vw-id-polo-gti-clubsport-concept-specs-power-charging/",
+          "source": "InsideEVs",
+          "published": "2026-11-20T11:00:00+00:00"
+        },
+        {
+          "title": "Lucid Is Slashing $15,000 Off The Gravity, But The Deal Won’t Last Long",
+          "link": "https://insideevs.com/news/816205/lucid-15000-usd-discount-black-friday/",
+          "source": "InsideEVs",
+          "published": "2026-11-20T10:16:59+00:00"
+        },
+        {
+          "title": "GM’s V2G pilot wants to pay California drivers for power from parked EVs",
+          "link": "https://electrek.co/2026/11/19/gms-v2g-pilot-wants-to-pay-california-drivers-for-power-from-parked-evs/",
+          "source": "Electrek",
+          "published": "2026-11-20T00:37:45+00:00"
+        },
+        {
+          "title": "NSSL keeps growing its electric terminal truck fleet, with no plans to stop",
+          "link": "https://electrek.co/2026/11/19/nssl-keeps-growing-its-electric-terminal-truck-fleet-with-no-plans-to-stop/",
+          "source": "Electrek",
+          "published": "2026-11-20T00:30:53+00:00"
+        },
+        {
+          "title": "Alpitronic’s new SC plant to build 400 kW and 1 MW fast chargers",
+          "link": "https://electrek.co/2026/11/19/alpitronics-new-sc-plant-to-build-400-kw-and-1-mw-fast-chargers/",
+          "source": "Electrek",
+          "published": "2026-11-19T22:34:09+00:00"
+        },
+        {
+          "title": "BYD’s new Han EV spotted without camo, showing off its sleek fastback design",
+          "link": "https://electrek.co/2026/11/19/byds-new-han-ev-spotted-without-camo-showing-off-fastback-design/",
+          "source": "Electrek",
+          "published": "2026-11-19T22:21:09+00:00"
+        },
+        {
+          "title": "Kia’s cheapest EV is coming next year, and it could cost under $25,000",
+          "link": "https://electrek.co/2026/11/19/kias-cheapest-ev-coming-2027-under-25k/",
+          "source": "Electrek",
+          "published": "2026-11-19T20:08:29+00:00"
+        },
+        {
+          "title": "Aptera Finally Built Its First Car For Customer Delivery",
+          "link": "https://insideevs.com/news/816138/aptera-deliver-production-vehicle/",
+          "source": "InsideEVs",
+          "published": "2026-11-19T19:25:04+00:00"
+        },
+        {
+          "title": "EcoFlow Black Friday Sale + flash deals drop DELTA 3800 Gen4 to $1,614 low, Segway Xyber Air e-bike $1,800 low in sale, more",
+          "link": "https://electrek.co/2026/11/19/ecoflow-black-friday-sale-delta-3800-gen4-segway-xyber-air-e-bike-more/",
+          "source": "Electrek",
+          "published": "2026-11-19T19:00:00+00:00"
+        },
+        {
+          "title": "Tesla's Driverless Cybercab Is Now Available In Dallas",
+          "link": "https://insideevs.com/news/816139/tesla-cybercab-robotaxi-expands-to-dallas/",
+          "source": "InsideEVs",
+          "published": "2026-11-19T18:07:15+00:00"
+        },
+        {
+          "title": "Hyundai claims 2027’s ‘Best EV Brand’ title as the IONIQ 5 and IONIQ 9 impress",
+          "link": "https://electrek.co/2026/11/19/hyundai-2027-best-ev-brand-ioniq-5-ioniq-9/",
+          "source": "Electrek",
+          "published": "2026-11-19T17:58:46+00:00"
+        },
+        {
+          "title": "The Next Generation Of U.S.-Made EV Batteries Is Getting Closer To Reality",
+          "link": "https://insideevs.com/news/815929/panasonic-sila-domestic-battery-production/",
+          "source": "InsideEVs",
+          "published": "2026-11-19T16:44:47+00:00"
+        },
+        {
+          "title": "BYD’s folding steering wheel isn’t a concept — it’s in a $49K SUV now",
+          "link": "https://electrek.co/2026/11/19/byd-folding-steering-wheel-tai-9-production/",
+          "source": "Electrek",
+          "published": "2026-11-19T16:24:52+00:00"
+        },
+        {
+          "title": "Genesis Is Finally Getting Into The U.S. Hybrid Market",
+          "link": "https://insideevs.com/news/816122/genesis-gv80-and-g80-hybrids/",
+          "source": "InsideEVs",
+          "published": "2026-11-19T16:00:00+00:00"
+        },
+        {
+          "title": "The Volkswagen ID. Buzz Beach is an electric van built for camping, but it’s not cheap",
+          "link": "https://electrek.co/2026/11/19/vw-reveals-id-buzz-beach-ev-camper-van-not-cheap/",
+          "source": "Electrek",
+          "published": "2026-11-19T15:51:28+00:00"
+        },
+        {
+          "title": "This Hedley Studios Porsche 550 J Is A Shrunken Electric Replica Track Toy",
+          "link": "https://insideevs.com/news/815938/porsche-550-j-electric-replica/",
+          "source": "InsideEVs",
+          "published": "2026-11-19T15:00:53+00:00"
+        },
+        {
+          "title": "Aptera (SEV) completes its first customer solar EV — for its top crowdfunder",
+          "link": "https://electrek.co/2026/11/19/aptera-sev-first-solar-ev-customer-delivery-investor/",
+          "source": "Electrek",
+          "published": "2026-11-19T14:13:20+00:00"
+        },
+        {
+          "title": "Elon Musk announces another Tesla vehicle no one asked for",
+          "link": "https://electrek.co/2026/11/19/musk-tesla-model-y-no-steering-wheel-7-seat/",
+          "source": "Electrek",
+          "published": "2026-11-19T13:59:10+00:00"
+        },
+        {
+          "title": "Americans Bought More Used EVs In October. Fewer Of Them Were Teslas",
+          "link": "https://insideevs.com/news/816103/october-us-used-ev-sales/",
+          "source": "InsideEVs",
+          "published": "2026-11-19T12:56:32+00:00"
+        },
+        {
+          "title": "Porsche’s newest electric car is a tiny 50 mph replica of a legendary racer",
+          "link": "https://electrek.co/2026/11/19/porsches-newest-electric-car-is-a-tiny-50-mph-replica-of-a-legendary-racer/",
+          "source": "Electrek",
+          "published": "2026-11-19T11:36:34+00:00"
+        },
+        {
+          "title": "Nearly 1 In 5 Tesla Model Ys Failed Their First German Inspection",
+          "link": "https://insideevs.com/news/816066/tesla-model-y-tuv-inspection/",
+          "source": "InsideEVs",
+          "published": "2026-11-19T11:03:00+00:00"
+        },
+        {
+          "title": "Rivian’s Also Spinoff Pauses Deliveries Of Its $3,500 E-Bike After Months Of Delays",
+          "link": "https://insideevs.com/news/816048/rivian-also-e-bike-delivery-pause/",
+          "source": "InsideEVs",
+          "published": "2026-11-19T08:20:26+00:00"
+        },
+        {
+          "title": "Official 2026 Amazon Black Friday sale now live! Millions of deals: Apple, Google, TVs, home, more",
+          "link": "https://9to5toys.com/2026/11/19/amazon-2026-black-friday-sale-now-live/",
+          "source": "Electrek",
+          "published": "2026-11-19T08:01:37+00:00"
+        },
+        {
+          "title": "The EV Charging Company That’s Quietly Conquering America Is Building A New U.S. Factory",
+          "link": "https://insideevs.com/news/816009/alpitronic-new-us-factory/",
+          "source": "InsideEVs",
+          "published": "2026-11-19T07:27:37+00:00"
+        }
+      ]
+    },
+    {
+      "key": "battery",
+      "label": "배터리",
+      "count": 32,
+      "items": [
+        {
+          "title": "JA Energy Storage Launches an Internal Battery Passport Platform to Facilitate Compliance with EU Standards",
+          "link": "https://cleantechnica.com/2026/11/20/ja-energy-storage-launches-an-internal-battery-passport-platform-to-facilitate-compliance-with-eu-standards/",
+          "source": "CleanTechnica",
+          "published": "2026-11-21T02:34:38+00:00"
+        },
+        {
+          "title": "This 500 kWh energy storage system runs on retired EV batteries",
+          "link": "https://electrek.co/2026/11/20/this-500-kwh-energy-storage-system-runs-on-retired-ev-batteries/",
+          "source": "Electrek",
+          "published": "2026-11-20T21:08:29+00:00"
+        },
+        {
+          "title": "Podcast: Tesla’s ‘personal’ Cybercab, Ford’s LFP for Fathom, Aptera delivers, and more",
+          "link": "https://electrek.co/2026/11/20/podcast-teslas-personal-cybercab-fords-lfp-for-fathom-aptera-delivers-and-more/",
+          "source": "Electrek",
+          "published": "2026-11-20T19:56:11+00:00"
+        },
+        {
+          "title": "Double guns: ultra-class haul truck packs dual-gun MCS charging, 4 MWh battery",
+          "link": "https://electrek.co/2026/11/20/double-guns-ultra-class-haul-truck-packs-dual-gun-mcs-charging-4-mwh-battery/",
+          "source": "Electrek",
+          "published": "2026-11-20T11:55:00+00:00"
+        },
+        {
+          "title": "Inspiring Hearts & Minds on Solar",
+          "link": "https://cleantechnica.com/2026/11/19/inspiring-hearts-minds-on-solar/",
+          "source": "CleanTechnica",
+          "published": "2026-11-20T04:19:09+00:00"
+        },
+        {
+          "title": "GM’s V2G pilot wants to pay California drivers for power from parked EVs",
+          "link": "https://electrek.co/2026/11/19/gms-v2g-pilot-wants-to-pay-california-drivers-for-power-from-parked-evs/",
+          "source": "Electrek",
+          "published": "2026-11-20T00:37:45+00:00"
+        },
+        {
+          "title": "MG U9 EV Ute — It’s A Monster Truck",
+          "link": "https://cleantechnica.com/2026/11/19/mg-u9-ev-ute-its-a-monster-truck/",
+          "source": "CleanTechnica",
+          "published": "2026-11-19T17:24:52+00:00"
+        },
+        {
+          "title": "The Next Generation Of U.S.-Made EV Batteries Is Getting Closer To Reality",
+          "link": "https://insideevs.com/news/815929/panasonic-sila-domestic-battery-production/",
+          "source": "InsideEVs",
+          "published": "2026-11-19T16:44:47+00:00"
+        },
+        {
+          "title": "Last Chance to Get It Right: The Industrial Accelerator Act Will Make or Break Europe’s Battery Industry",
+          "link": "https://cleantechnica.com/2026/11/19/last-chance-to-get-it-right-the-industrial-accelerator-act-will-make-or-break-europes-battery-industry/",
+          "source": "CleanTechnica",
+          "published": "2026-11-19T14:53:38+00:00"
+        },
+        {
+          "title": "Almost 90% of Europe’s Battery Production at Risk from Franco-German Car Deal",
+          "link": "https://cleantechnica.com/2026/11/18/almost-90-of-europes-battery-production-at-risk-from-franco-german-car-deal/",
+          "source": "CleanTechnica",
+          "published": "2026-11-19T04:58:55+00:00"
+        },
+        {
+          "title": "US battery storage just topped 200 GWh – here’s where it is",
+          "link": "https://electrek.co/2026/11/18/us-battery-storage-just-topped-200-gwh-heres-where-it-is/",
+          "source": "Electrek",
+          "published": "2026-11-18T22:36:48+00:00"
+        },
+        {
+          "title": "Europe’s Inland Barges Need a Cargo Plan Before an Electric Fleet Plan",
+          "link": "https://cleantechnica.com/2026/11/18/europe-inland-barges-future-cargo-electric-fleet/",
+          "source": "CleanTechnica",
+          "published": "2026-11-18T18:09:18+00:00"
+        },
+        {
+          "title": "Ford’s first LFP batteries are en route, and the $30,000 Fathom EV pickup will get them first",
+          "link": "https://electrek.co/2026/11/18/fords-first-lfp-batteries-en-route-30k-fathom-ev-pickup/",
+          "source": "Electrek",
+          "published": "2026-11-18T17:00:00+00:00"
+        },
+        {
+          "title": "Solar Insure Launches 20-Year Commercial Battery Warranty, Expanding Protection for Solar & Storage Projects",
+          "link": "https://cleantechnica.com/2026/11/18/solar-insure-launches-20-year-commercial-battery-warranty-expanding-protection-for-solar-storage-projects/",
+          "source": "CleanTechnica",
+          "published": "2026-11-18T14:32:16+00:00"
+        },
+        {
+          "title": "E-quipment highlight: 110 hp Greenworks OPTIMUS electric UTV [video]",
+          "link": "https://electrek.co/2026/11/17/e-quipment-highlight-110-hp-greenworks-optimus-electric-utv-video/",
+          "source": "Electrek",
+          "published": "2026-11-18T01:28:03+00:00"
+        },
+        {
+          "title": "The Rising Tide Of Distributed Energy Resources",
+          "link": "https://cleantechnica.com/2026/11/17/distributed-energy-resources-solar-storage-batteries-compute/",
+          "source": "CleanTechnica",
+          "published": "2026-11-17T22:05:42+00:00"
+        },
+        {
+          "title": "EcoFlow flash sale offers 5,018Wh TITAN Classic + 4x rigid solar panels $1,588 off, Hiboy EVs up to 45% off from $300, more",
+          "link": "https://electrek.co/2026/11/17/ecoflow-5018wh-titan-classic-hiboy-evs-more/",
+          "source": "Electrek",
+          "published": "2026-11-17T19:00:00+00:00"
+        },
+        {
+          "title": "China’s Electric Heavy Trucks Are Taking Sales from Diesel and LNG",
+          "link": "https://cleantechnica.com/2026/11/17/china-electric-heavy-trucks-diesel-lng-freight-economics/",
+          "source": "CleanTechnica",
+          "published": "2026-11-17T17:22:37+00:00"
+        },
+        {
+          "title": "Tesla unveils 7.4 MW Powercore to take on ex-exec Baglino’s Heron Link",
+          "link": "https://electrek.co/2026/11/17/tesla-powercore-solid-state-transformer-heron-link/",
+          "source": "Electrek",
+          "published": "2026-11-17T16:35:25+00:00"
+        },
+        {
+          "title": "Adding wind cuts solar + battery storage power costs nearly 20%",
+          "link": "https://electrek.co/2026/11/16/adding-wind-cuts-solar-battery-storage-power-costs-nearly-20-percent/",
+          "source": "Electrek",
+          "published": "2026-11-16T21:42:57+00:00"
+        },
+        {
+          "title": "China’s electric airliner era starts with a 19-seat plane and 400 km of range",
+          "link": "https://electrek.co/2026/11/15/china-comac-ce-25a-electric-plane-crewed-flight/",
+          "source": "Electrek",
+          "published": "2026-11-15T14:43:57+00:00"
+        },
+        {
+          "title": "$20K Nissan NX7 PHEV goes on sale with nearly 200 miles of electric range",
+          "link": "https://electrek.co/2026/11/14/20k-nissan-nx7-phev-goes-on-sale-with-nearly-200-miles-of-electric-range/",
+          "source": "Electrek",
+          "published": "2026-11-14T21:26:03+00:00"
+        },
+        {
+          "title": "Huawei set to challenge Tesla Powerwall with new, 20 kW home battery",
+          "link": "https://electrek.co/2026/11/14/huawei-set-to-challenge-tesla-powerwall-with-new-20-kw-home-battery/",
+          "source": "Electrek",
+          "published": "2026-11-14T16:25:02+00:00"
+        },
+        {
+          "title": "I finally got a USB-C charging e-bike, and it costs 75% less than Rivian’s bike",
+          "link": "https://electrek.co/2026/11/14/i-finally-got-a-usb-c-charging-e-bike-and-it-costs-75-less-than-rivians-bike/",
+          "source": "Electrek",
+          "published": "2026-11-14T13:02:00+00:00"
+        },
+        {
+          "title": "Meta to deploy 25 electric semi trucks across I-10 corridor, but has nothing to ship",
+          "link": "https://electrek.co/2026/11/13/meta-to-deploy-25-electric-semi-trucks-across-i-10-corridor-but-has-nothing-to-ship/",
+          "source": "Electrek",
+          "published": "2026-11-13T15:34:20+00:00"
+        },
+        {
+          "title": "Zonveer ZX3 review: one of the best-value electric dirt bikes for beginners",
+          "link": "https://electrek.co/2026/11/13/zonveer-zx3-review-1299-electric-dirt-bike-beginners/",
+          "source": "Electrek",
+          "published": "2026-11-13T14:06:44+00:00"
+        },
+        {
+          "title": "Wheel-E Podcast: Juiced Scrambler Core, battery passports, Engwe M20, more",
+          "link": "https://electrek.co/2026/11/13/wheel-e-podcast-juiced-scrambler-core-battery-passports-engwe-m20-more/",
+          "source": "Electrek",
+          "published": "2026-11-13T13:43:28+00:00"
+        },
+        {
+          "title": "sonnen’s new smart breakers help your home battery last longer",
+          "link": "https://electrek.co/2026/11/12/sonnens-new-smart-breakers-help-your-home-battery-last-longer/",
+          "source": "Electrek",
+          "published": "2026-11-12T23:22:43+00:00"
+        },
+        {
+          "title": "Lunar’s new home DC fast charger puts your EV battery to work",
+          "link": "https://electrek.co/2026/11/12/lunars-new-home-dc-fast-charger-puts-your-ev-battery-to-work/",
+          "source": "Electrek",
+          "published": "2026-11-12T21:41:32+00:00"
+        },
+        {
+          "title": "Europe’s electric car sales jump 49% as global EV sales grow",
+          "link": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
+          "source": "Electrek",
+          "published": "2026-11-12T00:01:00+00:00"
+        },
+        {
+          "title": "QuantumScape unveils Osprey all-solid-state cell: 1,000 cycles at 1 atm",
+          "link": "https://electrek.co/2026/11/11/quantumscape-osprey-all-solid-state-sulfide-battery/",
+          "source": "Electrek",
+          "published": "2026-11-11T14:00:00+00:00"
+        },
+        {
+          "title": "Ford’s EV batteries retain more than 90% health after 100,000 miles",
+          "link": "https://electrek.co/2026/11/09/fords-ev-batteries-retain-over-90-health-after-100000-miles/",
+          "source": "Electrek",
+          "published": "2026-11-09T17:12:53+00:00"
+        }
+      ]
+    },
+    {
+      "key": "motor",
+      "label": "모터",
+      "count": 18,
+      "items": [
+        {
+          "title": "허세 없는 플래그십 전기차, 볼보 ES90 트윈모터 울트라",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=44996",
+          "source": "모터그래프",
+          "published": "2026-11-20T18:04:21+00:00"
+        },
+        {
+          "title": "Amflow launches its first city e-bikes, packing huge torque and serious smart tech",
+          "link": "https://electrek.co/2026/11/18/amflow-launches-its-first-city-e-bikes-packing-huge-torque-and-serious-smart-tech/",
+          "source": "Electrek",
+          "published": "2026-11-18T15:55:42+00:00"
+        },
+        {
+          "title": "Waymo halts highway operation nationwide after CA DMV pause",
+          "link": "https://electrek.co/2026/11/17/waymo-halts-highway-operation-nationwide-after-ca-dmv-pause/",
+          "source": "Electrek",
+          "published": "2026-11-17T21:26:19+00:00"
+        },
+        {
+          "title": "Scout Motors starts validation builds at $2B SC plant, deliveries in 2028",
+          "link": "https://electrek.co/2026/11/17/scout-motors-validation-builds-south-carolina-deliveries-2028/",
+          "source": "Electrek",
+          "published": "2026-11-17T21:15:34+00:00"
+        },
+        {
+          "title": "Tesla unveils 7.4 MW Powercore to take on ex-exec Baglino’s Heron Link",
+          "link": "https://electrek.co/2026/11/17/tesla-powercore-solid-state-transformer-heron-link/",
+          "source": "Electrek",
+          "published": "2026-11-17T16:35:25+00:00"
+        },
+        {
+          "title": "Ausom Black Friday sale has the right scooter for the right job, at the right price",
+          "link": "https://electrek.co/2026/11/16/ausom-black-friday-sale-right-scooter-right-job-at-right-price/",
+          "source": "Electrek",
+          "published": "2026-11-16T21:00:00+00:00"
+        },
+        {
+          "title": "Motorcycles are notoriously dangerous. Could electric motorcycles actually change that?",
+          "link": "https://electrek.co/2026/11/16/motorcycles-are-notoriously-dangerous-could-electric-motorcycles-actually-change-that/",
+          "source": "Electrek",
+          "published": "2026-11-16T20:16:30+00:00"
+        },
+        {
+          "title": "Tesla stops selling every Cybertruck except the $109,990 Cyberbeast",
+          "link": "https://electrek.co/2026/11/13/tesla-only-sells-cybertruck-cyberbeast-109990/",
+          "source": "Electrek",
+          "published": "2026-11-13T18:13:44+00:00"
+        },
+        {
+          "title": "Here are the coolest e-motorcycles and gear we saw at EICMA 2026",
+          "link": "https://electrek.co/2026/11/13/here-are-the-coolest-e-motorcycles-and-gear-we-saw-at-eicma-2026/",
+          "source": "Electrek",
+          "published": "2026-11-13T15:39:00+00:00"
+        },
+        {
+          "title": "Tesla kills $41,990 Model Y AWD: all-wheel drive now costs $8,000 more",
+          "link": "https://electrek.co/2026/11/13/tesla-kills-41990-model-y-awd-configurator/",
+          "source": "Electrek",
+          "published": "2026-11-13T15:32:28+00:00"
+        },
+        {
+          "title": "Wheel-E Podcast: Juiced Scrambler Core, battery passports, Engwe M20, more",
+          "link": "https://electrek.co/2026/11/13/wheel-e-podcast-juiced-scrambler-core-battery-passports-engwe-m20-more/",
+          "source": "Electrek",
+          "published": "2026-11-13T13:43:28+00:00"
+        },
+        {
+          "title": "Honda’s $2,000 electric moped is a winner. So why can’t Americans buy it?",
+          "link": "https://electrek.co/2026/11/12/hondas-2000-electric-moped-is-a-winner-so-why-cant-americans-buy-it/",
+          "source": "Electrek",
+          "published": "2026-11-12T12:28:02+00:00"
+        },
+        {
+          "title": "It’s that time again – Honda needs to roll out an electric Super Cub",
+          "link": "https://electrek.co/2026/11/11/its-that-time-again-honda-needs-to-roll-out-an-electric-super-cub/",
+          "source": "Electrek",
+          "published": "2026-11-11T11:40:00+00:00"
+        },
+        {
+          "title": "CAT puts century-old train tech to work in its biggest underground machine yet",
+          "link": "https://electrek.co/2026/11/10/cat-puts-century-old-train-tech-to-work-in-its-biggest-underground-machine-yet/",
+          "source": "Electrek",
+          "published": "2026-11-10T12:10:00+00:00"
+        },
+        {
+          "title": "Honda shows off its next electric motorcycle, and it’s wilder than you thought",
+          "link": "https://electrek.co/2026/11/10/honda-shows-off-its-next-electric-motorcycle-and-its-wilder-than-you-thought/",
+          "source": "Electrek",
+          "published": "2026-11-10T09:07:02+00:00"
+        },
+        {
+          "title": "The electric Vespa just got better where it actually matters",
+          "link": "https://electrek.co/2026/11/09/the-electric-vespa-just-got-better-where-it-actually-matters/",
+          "source": "Electrek",
+          "published": "2026-11-09T18:48:00+00:00"
+        },
+        {
+          "title": "LiveWire just showed off its biggest electric motorcycle lineup yet",
+          "link": "https://electrek.co/2026/11/09/livewire-just-showed-off-its-biggest-electric-motorcycle-lineup-yet/",
+          "source": "Electrek",
+          "published": "2026-11-09T15:13:00+00:00"
+        },
+        {
+          "title": "Electric dirt bikes keep getting called e-bikes. The bicycle industry wants that to stop",
+          "link": "https://electrek.co/2026/11/09/electric-dirt-bikes-keep-getting-called-e-bikes-the-bicycle-industry-wants-that-to-stop/",
+          "source": "Electrek",
+          "published": "2026-11-09T12:54:00+00:00"
+        }
+      ]
+    },
+    {
+      "key": "robot",
+      "label": "로봇",
+      "count": 22,
+      "items": [
+        {
+          "title": "Medtronic’s Hugo surgical robot ready for bigger operation",
+          "link": "https://www.therobotreport.com/medtronics-hugo-surgical-robot-ready-for-bigger-operation/",
+          "source": "The Robot Report",
+          "published": "2026-11-21T00:55:45+00:00"
+        },
+        {
+          "title": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces",
+          "link": "https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor",
+          "source": "IEEE Spectrum",
+          "published": "2026-11-20T17:30:03+00:00"
+        },
+        {
+          "title": "MassRobotics launching marine robotics facility on Boston Harbor",
+          "link": "https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/",
+          "source": "The Robot Report",
+          "published": "2026-11-20T17:04:28+00:00"
+        },
+        {
+          "title": "美 로크웰, 오스트리아 AMR업체 애질록스 인수",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=49711",
+          "source": "로봇신문",
+          "published": "2026-11-20T16:40:48+00:00"
+        },
+        {
+          "title": "Robotics enters its post-Jensen Huang era",
+          "link": "https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era/",
+          "source": "The Robot Report",
+          "published": "2026-11-20T03:06:28+00:00"
+        },
+        {
+          "title": "What industrial drone deployments reveal about real-world autonomy challenges",
+          "link": "https://www.therobotreport.com/what-industrial-drone-deployments-reveal-about-real-world-autonomy-challenges/",
+          "source": "The Robot Report",
+          "published": "2026-11-19T17:01:55+00:00"
+        },
+        {
+          "title": "Humyn Labs raises $47M to collect real-world data for robotics",
+          "link": "https://www.therobotreport.com/humyn-labs-raises-47m-to-collect-real-world-data-for-robotics/",
+          "source": "The Robot Report",
+          "published": "2026-11-18T22:43:06+00:00"
+        },
+        {
+          "title": "From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics",
+          "link": "https://www.therobotreport.com/from-commercial-scale-to-embodied-intelligence-the-next-challenge-for-robotics/",
+          "source": "The Robot Report",
+          "published": "2026-11-18T18:00:09+00:00"
+        },
+        {
+          "title": "Rockwell Automation acquiring mobile robot maker AGILOX",
+          "link": "https://www.therobotreport.com/rockwell-automation-acquiring-mobile-robot-maker-agilox/",
+          "source": "The Robot Report",
+          "published": "2026-11-18T16:44:18+00:00"
+        },
+        {
+          "title": "California DMV bars Waymo AVs from operating on the state’s freeways",
+          "link": "https://www.therobotreport.com/california-dmv-bars-waymo-avs-from-operating-on-the-states-freeways/",
+          "source": "The Robot Report",
+          "published": "2026-11-17T23:55:07+00:00"
+        },
+        {
+          "title": "Learn how AI is changing supply chain robotics",
+          "link": "https://www.therobotreport.com/learn-how-ai-is-changing-supply-chain-robotics/",
+          "source": "The Robot Report",
+          "published": "2026-11-17T19:58:18+00:00"
+        },
+        {
+          "title": "Boston Dynamics’ Atlas humanoid lands first non-automotive trial",
+          "link": "https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial/",
+          "source": "The Robot Report",
+          "published": "2026-11-17T14:49:05+00:00"
+        },
+        {
+          "title": "The hidden reason most robots fail on the factory floor",
+          "link": "https://www.therobotreport.com/the-hidden-reason-most-robots-fail-on-the-factory-floor/",
+          "source": "The Robot Report",
+          "published": "2026-11-16T23:49:56+00:00"
+        },
+        {
+          "title": "Agile Robots raises $500M to increase production capacity",
+          "link": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/",
+          "source": "The Robot Report",
+          "published": "2026-11-16T17:47:48+00:00"
+        },
+        {
+          "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
+          "link": "https://spectrum.ieee.org/telesurgery-stroke",
+          "source": "IEEE Spectrum",
+          "published": "2026-11-16T14:00:02+00:00"
+        },
+        {
+          "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
+          "link": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
+          "source": "IEEE Spectrum",
+          "published": "2026-11-16T10:00:01+00:00"
+        },
+        {
+          "title": "Why Skydio Built a Lopsided Drone",
+          "link": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+          "source": "IEEE Spectrum",
+          "published": "2026-11-15T14:00:02+00:00"
+        },
+        {
+          "title": "Food robotics 2.0: why this time could be different",
+          "link": "https://www.therobotreport.com/food-robotics-2-0-why-this-time-could-be-different/",
+          "source": "The Robot Report",
+          "published": "2026-11-14T13:00:38+00:00"
+        },
+        {
+          "title": "Video Friday: NASA PROMISEs a New Moon Rover",
+          "link": "https://spectrum.ieee.org/video-friday-moon-rover-promise",
+          "source": "IEEE Spectrum",
+          "published": "2026-11-13T17:30:03+00:00"
+        },
+        {
+          "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
+          "link": "https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial/",
+          "source": "The Robot Report",
+          "published": "2026-11-13T16:32:58+00:00"
+        },
+        {
+          "title": "How Rhoda AI is using video data to create generalized AI models for robots",
+          "link": "https://www.therobotreport.com/how-rhoda-ai-is-using-video-data-to-create-generalized-ai-models-for-robots/",
+          "source": "The Robot Report",
+          "published": "2026-11-13T13:30:44+00:00"
+        },
+        {
+          "title": "Can Agentic Robotics Solve Robotics’ Data-Scaling Problem?",
+          "link": "https://spectrum.ieee.org/agentic-robotics",
+          "source": "IEEE Spectrum",
+          "published": "2026-11-09T14:00:02+00:00"
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 1,
+      "items": [
+        {
+          "title": "젠슨 황, 20여년 전부터 직원들에게 폭언·위협…불만 제기 이어져",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217644",
+          "source": "AI타임스",
+          "published": "2026-11-21T11:51:51+00:00"
+        }
+      ]
+    }
+  ]
+}
