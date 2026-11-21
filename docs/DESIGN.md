@@ -59,7 +59,8 @@
 | `max_items_per_category` | 카테고리당 최대 노출 수(RULE8) | 40 |
 | `categories[].key` / `label` | 내부 식별자(고유) / 화면 표시명 | — |
 | `categories[].include_keywords` / `exclude_keywords` | 키워드 필터(RULE5) | 빈 목록 |
-| `categories[].feeds[]` | `{ "name", "url" }`. 같은 피드 URL을 여러 카테고리에 넣고 키워드로 가르는 방식을 쓴다 | — |
+| `categories[].feeds[]` | `{ "name", "url", "tz" }`(`tz`는 선택). 같은 피드 URL을 여러 카테고리에 넣고 키워드로 가르는 방식을 쓴다 | — |
+| `categories[].feeds[].tz` | 원문에 시간대가 없는 발행 시각을 읽을 고정 UTC 오프셋 `±HH:MM`(예: `"+09:00"`). 시간대가 적힌 시각에는 쓰지 않는다(RULE6). 같은 피드를 여러 카테고리에 넣으면 항목마다 적는다 | UTC |
 
 `data.json` 형식(수집기 → 대시보드 경계): `generated_at`(UTC ISO 8601), `categories[]` = `{ key, label, count, items[] }`,
 `items[]` = `{ title, link, source, published }`(`published`는 UTC ISO 8601 또는 `null`). 요약은 필터에만 쓰고 내보내지 않는다.
@@ -73,6 +74,7 @@ GitHub Pages(정적 서빙), Google Fonts(대시보드 글꼴 스타일시트).
 |---|---|---|
 | `feeds.json` 읽기·파싱 실패 | `[ERROR]` 후 종료 코드 1 → 워크플로 실패, 배포 단계를 건너뛰어 직전 배포본이 남는다. CI가 파싱을 미리 검사한다 | Actions run 실패 |
 | 피드 하나 실패(예외, 또는 `bozo`이면서 entry 0개) | 그 피드만 건너뛰고 계속(RULE4) | run 로그 `[FAIL] <카테고리> / <피드>: <원인>` |
+| 피드 항목의 `tz` 형식이 틀림(`"KST"`, `"+9"` 등) | 그 피드만 요청 없이 건너뛰고 계속(RULE4). CI의 `feeds.json` 검사는 JSON 파싱만 본다 | run 로그 `[FAIL] <카테고리> / <피드>: 잘못된 tz 값 ...` |
 | 수집 결과 0건 | `[WARN]` 로그 후 0건 `data.json`을 그대로 게시 | 대시보드 "수집된 항목이 없습니다" 안내 |
 | 항목의 날짜를 해석할 수 없음 | 날짜 미상으로 유지, 정렬 맨 뒤(RULE6) | 대시보드 "날짜 미상" |
 | 대시보드가 `data.json`을 못 받음 | 오류 안내(HTTP 상태 포함) | 대시보드 붉은 안내 문구 |
