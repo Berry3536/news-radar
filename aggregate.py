@@ -70,7 +70,7 @@ def lacks_tz(raw: object) -> bool:
         pass
     try:
         dt = parsedate_to_datetime(raw)
-    except (TypeError, ValueError, IndexError):
+    except (TypeError, ValueError, IndexError, OverflowError):
         return False
     if dt.tzinfo is not None:
         return False
@@ -107,7 +107,7 @@ def parse_date(entry, tz: tzinfo = UTC) -> datetime | None:
         if val:
             try:
                 dt = parsedate_to_datetime(val)
-            except (TypeError, ValueError, IndexError):
+            except (TypeError, ValueError, IndexError, OverflowError):
                 dt = None
             if dt is not None:
                 if dt.tzinfo is None:

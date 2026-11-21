@@ -29,6 +29,16 @@ def test_parse_date_returns_none_when_unparseable(entry):
     assert aggregate.parse_date(entry) is None
 
 
+def test_parse_date_survives_overflowing_raw_string():
+    # A huge offset makes email.utils raise OverflowError; one such item must not fail the feed (RULE4).
+    raw = "2026 Nov 21 11:51:51 +99999999999999999999"
+    assert aggregate.parse_date({"published": raw}) is None
+    st = (2026, 11, 21, 2, 0, 0, 0, 0, 0)
+    assert aggregate.parse_date({"published": raw, "published_parsed": st}) == datetime(
+        2026, 11, 21, 2, 0, 0, tzinfo=UTC
+    )
+
+
 # --- feed tz: parse_tz / lacks_tz / parse_date(entry, tz) / collect_feed / build_category ---
 
 KST = timezone(timedelta(hours=9))
