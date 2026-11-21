@@ -99,7 +99,7 @@ gh workflow run update.yml --repo Berry3536/news-radar --ref master
 
 ## QA
 
-자동: CI(ruff · `py_compile` · pytest 16개 · `feeds.json` 파싱), develop·master push와 PR마다.
+자동: CI(ruff · `py_compile` · pytest · `feeds.json` 파싱), develop·master push와 PR마다.
 
 수동(릴리스 머지 뒤):
 
