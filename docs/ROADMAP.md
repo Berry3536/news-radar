@@ -30,8 +30,8 @@ News Radar는 지금 GATE1에 있고 최종 목표 GATE2를 향한다. 게이트
 | 현재 티켓 | 없음 |
 | 마지막 GR | GR0 pass with notes (2026-11-10) |
 | 최신 릴리스 | v1.0.1 (2026-11-03) |
-| 열린 결함 | 4 (DEFECT1, DEFECT3~DEFECT5) |
-| 다음 할 일 | GATE1-T3 → GATE1-T1 (T2와 T3은 같은 릴리스로 낸다) |
+| 열린 결함 | 3 (DEFECT3~DEFECT5) |
+| 다음 할 일 | GATE1-T3(T2와 같은 릴리스로 낸다), 그다음 GATE1 작업 순서대로 T4 → T6 → T5 → T8 |
 
 ## 현재 작업
 
@@ -41,7 +41,7 @@ News Radar는 지금 GATE1에 있고 최종 목표 GATE2를 향한다. 게이트
 
 | 결함 | 발견 | 차이 | 영향 | 상태 |
 |---|---|---|---|---|
-| DEFECT1 | 2026-11-04, 코드 읽기(`index.html` `applyData`·`fmtDateTime`) | 상단 "last sync" 시각을 브라우저 지역 시간으로 계산하고 뒤에 "UTC"를 붙인다 | KST 브라우저에서 2026-11-04 04:47 UTC 수집이 "2026-11-04 13:47 UTC"로 보인다. 수집 시각을 9시간 늦게(미래로) 읽게 된다. 수집·배포 자체는 정상 | open |
+| DEFECT1 | 2026-11-04, 코드 읽기(`index.html` `applyData`·`fmtDateTime`) | 상단 "last sync" 시각을 브라우저 지역 시간으로 계산하고 뒤에 "UTC"를 붙인다 | KST 브라우저에서 2026-11-04 04:47 UTC 수집이 "2026-11-04 13:47 UTC"로 보인다. 수집 시각을 9시간 늦게(미래로) 읽게 된다. 수집·배포 자체는 정상 | fixed by GATE1-T1 |
 | DEFECT2 | 2026-11-10, GATE0 결함 리뷰: 배포본 `data.json`(gh-pages `df9ed5e`)과 run 42733691513 로그, 실험 E4, `aggregate.py` `dedup_key`(77행) | 쿼리스트링이 기사 식별자인 링크(`.../news/articleView.html?idxno=NNN`)는 기사가 달라도 중복 키가 같아져, 그 피드에서는 카테고리마다 첫 기사 1건만 남는다 | 모터그래프·로봇신문·AI타임스(피드 15개 중 4자리)가 매 실행 50 entries를 받고도 1건씩만 보인다. master에 남은 2026-06-01~10-12 스냅샷 516개도 모두 1건. arXiv 두 피드가 0건인 실행(2026-10-27~11-10, 43회 중 19회)에는 AI 카테고리 전체가 1건이다 | fixed by GATE1-T2 |
 | DEFECT3 | 2026-11-10, GATE0 결함 리뷰: 배포본 `data.json`, master 스냅샷 516개, 실험 E3 | 국내 피드 3곳(모터그래프·로봇신문·AI타임스) 항목의 발행 시각이 실제보다 9시간 늦게(미래로) 기록된다. 수집 시각보다 0~9시간 앞선 항목이 스냅샷에서 942번 나왔고 모두 이 세 피드다. KST 시각이 UTC로 해석된 것으로 보인다(원문 피드의 시각 표기는 오프라인 원칙으로 확인하지 않았다) | 해당 항목이 실제보다 위로 정렬되고 대시보드에 최대 9시간 "방금"(강조색)으로 보인다. 기간 필터(RULE6) 경계도 9시간 어긋난다. 예: 배포본 `df9ed5e`(수집 01:09 UTC)의 AI타임스 항목 `published` `2026-11-10T09:05:00+00:00` | open |
 | DEFECT4 | 2026-11-10, GATE0 결함 리뷰: 실험 E7, `aggregate.py` `collect_feed`(97행), feedparser 6.0.14 `http.py` 171행 `opener.open(request)`, `update.yml` job 설정 | 피드 요청에 타임아웃이 없다. 연결만 받고 응답하지 않는 피드 하나에서 `collect_feed`가 돌아오지 않아 수집 전체가 멈춘다(RULE4 "수집 전체를 멈추지 않는다"와 다름). job에 `timeout-minutes`가 없어 GitHub 기본 한도(360분)까지 기다린 뒤 취소되고 배포 단계는 돌지 않는다 | 그 실행은 배포본을 갱신하지 못하고, 같은 `concurrency` 그룹의 다음 예약 실행은 그동안 줄을 선다. 2026-06-01 이후 613회 실행에서는 일어나지 않았다 | open |
@@ -135,7 +135,7 @@ DEFECT2~DEFECT6과 전체 0건 규칙 추가는 2026-11-10 사용자 결정, GR 
 
 | 티켓 | 작업 | 닫는 결함 | 선행 | 상태 |
 |---|---|---|---|---|
-| GATE1-T1 | `index.html`의 "last sync" 시각을 UTC로 계산해 표시한다(`fmtDateTime`이 `getUTC*`를 쓰거나 UTC 전용 포맷 함수를 둔다). 레이블 "UTC"와 값의 시간대가 같아진다. 항목별 날짜 표시는 범위 밖(별도 결함이면 새 번호로 등록) | DEFECT1 | — | open |
+| GATE1-T1 | `index.html`의 "last sync" 시각을 UTC로 계산해 표시한다(`fmtDateTime`이 `getUTC*`를 쓰거나 UTC 전용 포맷 함수를 둔다). 레이블 "UTC"와 값의 시간대가 같아진다. 항목별 날짜 표시는 범위 밖(별도 결함이면 새 번호로 등록) | DEFECT1 | — | done |
 | GATE1-T2 | 중복 키에서 기사를 식별하는 쿼리를 지우지 않는다: 추적 파라미터(`utm_*` 등)만 떼고 나머지 쿼리는 키에 남긴다. RULE7 문장 개정, `idxno`만 다른 기사가 각각 남는 테스트 | DEFECT2 | — | done |
 | GATE1-T3 | 시간대 없는 발행 시각을 피드별로 해석한다(예: `feeds.json` 피드 항목의 시간대 키, 없으면 UTC). 먼저 세 피드의 원문 시각 표기를 확인한다. RULE6 값 개정 | DEFECT3 | — | open |
 | GATE1-T4 | 피드 요청에 타임아웃을 둬서 넘으면 그 피드만 `[FAIL]`로 건너뛰고, `update.yml` job에 `timeout-minutes`를 둔다. 값은 RULE4에 적는다 | DEFECT4 | — | open |

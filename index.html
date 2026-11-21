@@ -297,6 +297,19 @@ function fmtDateTime(iso) {
     String(d.getMinutes()).padStart(2, "0");
 }
 
+// Header "last sync" only: formatted in UTC so the value matches its "UTC" label.
+function fmtDateTimeUTC(iso) {
+  if (!iso) return "—";
+  var t = Date.parse(iso);
+  if (isNaN(t)) return "—";
+  var d = new Date(t);
+  return d.getUTCFullYear() + "-" +
+    String(d.getUTCMonth() + 1).padStart(2, "0") + "-" +
+    String(d.getUTCDate()).padStart(2, "0") + " " +
+    String(d.getUTCHours()).padStart(2, "0") + ":" +
+    String(d.getUTCMinutes()).padStart(2, "0");
+}
+
 function matchesQuery(item, q) {
   if (!q) return true;
   var hay = (item.title + " " + item.source).toLowerCase();
@@ -398,7 +411,7 @@ function applyData(data) {
 
   var cats = data.categories || [];
   var total = cats.reduce(function (a, c) { return a + (c.count || 0); }, 0);
-  document.getElementById("genTime").textContent = fmtDateTime(data.generated_at) + " UTC";
+  document.getElementById("genTime").textContent = fmtDateTimeUTC(data.generated_at) + " UTC";
   document.getElementById("totalCount").textContent = total;
 
   if (total === 0) {
