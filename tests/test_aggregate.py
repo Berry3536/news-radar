@@ -177,7 +177,9 @@ def test_build_category_skips_only_the_feed_with_invalid_tz(monkeypatch, capsys)
         ("mailto:a@example.com", ""),
         ("/news/1", ""),
         ("//example.com/news/2", ""),
-        ("https:example.com", ""),  # no host
+        ("https:example.com", ""),  # no "://"
+        ("https:///x", ""),  # "://" but no host
+        ("http://?q=1", ""),  # "://" but no host
         ("http://[::1/a", ""),  # urlsplit raises ValueError
         ("", ""),
         ("   ", ""),
