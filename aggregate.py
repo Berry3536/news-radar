@@ -29,6 +29,9 @@ OUTPUT_PATH = "data.json"
 TRACKING_PARAM_PREFIXES = ("utm_",)
 TRACKING_PARAMS = frozenset({"fbclid", "gclid"})
 
+# 항목 링크로 내보내는 스킴 (RULE11). 허용 목록이라 javascript:·vbscript:·data: 등 나머지는 모두 막힌다.
+LINK_SCHEMES = frozenset({"http", "https"})
+
 # feeds.json 피드 항목의 "tz": 고정 UTC 오프셋 "+09:00" / "-05:00".
 # IANA 이름(Asia/Seoul)은 Windows에서 tzdata 패키지가 있어야 해 쓰지 않는다(런타임 의존성은 feedparser 하나).
 TZ_OFFSET_RE = re.compile(r"([+-])([01]\d|2[0-3]):([0-5]\d)")
@@ -124,6 +127,27 @@ def clean_text(value: str) -> str:
     return " ".join(unescape(value).split())
 
 
+def safe_link(link: str) -> str:
+    """항목 링크가 http(s) 절대 URL이면 앞뒤 공백만 떼어 그대로, 아니면 빈 문자열 (RULE11).
+
+    esc()는 HTML 특수문자만 바꾸므로 javascript: 같은 링크가 대시보드 href로 가면 막지 못한다.
+    링크가 글자 그대로 "http://"·"https://"(대소문자 무시)로 시작해야 한다. 대시보드 isWebLink와 같은 판정이라,
+    urlsplit이 지워 주는 스킴 안의 탭·앞쪽 제어 문자("ht\\ttps://", "\\x00https://")도 통과하지 못한다.
+    호스트가 없거나 URL로 나눌 수 없는 링크도 버린다.
+    상대 링크는 feedparser가 피드 URL(리다이렉트 뒤 최종 URL)이나 xml:base로 이미 절대 URL로 바꿔 준다.
+    기준 URL 없이 상대로 남은 링크(피드 문서를 문자열로 넘긴 경우)는 버린다.
+    """
+    link = link.strip()
+    scheme, sep, _ = link.partition("://")
+    if not sep or scheme.lower() not in LINK_SCHEMES:
+        return ""
+    try:
+        parts = urlsplit(link)
+    except ValueError:  # 예: 닫히지 않은 IPv6 호스트
+        return ""
+    return link if parts.netloc else ""
+
+
 def is_tracking_param(name: str) -> bool:
     """추적 파라미터(utm_*, fbclid, gclid)인지. 대소문자 무시."""
     lowered = name.lower()
@@ -179,7 +203,7 @@ def collect_feed(name: str, url: str, tz: tzinfo = UTC) -> list[dict]:
     items: list[dict] = []
     for entry in parsed.entries:
         title = clean_text(entry.get("title", ""))
-        link = (entry.get("link") or "").strip()
+        link = safe_link(entry.get("link") or "")  # 빈 링크면 중복 키는 제목 (RULE7)
         summary = clean_text(entry.get("summary", "") or entry.get("description", ""))
         dt = parse_date(entry, tz)
         items.append(

@@ -157,6 +157,94 @@ def test_build_category_skips_only_the_feed_with_invalid_tz(monkeypatch, capsys)
     assert "[FAIL] robot / A: " in err and "'KST'" in err
 
 
+# --- link scheme: safe_link / collect_feed / build_category (RULE11) ---------------------
+
+
+@pytest.mark.parametrize(
+    ("link", "expected"),
+    [
+        ("http://example.com/a?idxno=1", "http://example.com/a?idxno=1"),
+        ("https://example.com/b", "https://example.com/b"),
+        ("  HTTPS://Example.com/c \n", "HTTPS://Example.com/c"),  # scheme case-insensitive, outer whitespace stripped
+        ("javascript:alert(1)", ""),
+        (" JaVaScRiPt:alert(1) ", ""),
+        ("java\tscript:alert(1)", ""),  # browsers drop the tab too
+        ("ht\ttps://example.com/t", ""),  # urlsplit drops the tab; the dashboard would not link it
+        ("\x00https://example.com/z", ""),  # leading control char: same, matches isWebLink
+        ("vbscript:msgbox(1)", ""),
+        ("data:text/html,<script>alert(1)</script>", ""),
+        ("ftp://example.com/f", ""),
+        ("mailto:a@example.com", ""),
+        ("/news/1", ""),
+        ("//example.com/news/2", ""),
+        ("https:example.com", ""),  # no "://"
+        ("https:///x", ""),  # "://" but no host
+        ("http://?q=1", ""),  # "://" but no host
+        ("http://[::1/a", ""),  # urlsplit raises ValueError
+        ("", ""),
+        ("   ", ""),
+    ],
+)
+def test_safe_link(link, expected):
+    assert aggregate.safe_link(link) == expected
+
+
+RSS_LINK_SCHEMES = """<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>t</title><link>https://example.com/</link><description>d</description>
+<item><title>js</title><link>javascript:alert(1)</link></item>
+<item><title>js-mixed-case</title><link> JaVaScRiPt:alert(document.cookie) </link></item>
+<item><title>vbs</title><link>vbscript:msgbox(1)</link></item>
+<item><title>data</title><link>data:text/html,&lt;script&gt;alert(1)&lt;/script&gt;</link></item>
+<item><title>relative</title><link>/news/1</link></item>
+<item><title>scheme-relative</title><link>//cdn.example.com/news/2</link></item>
+<item><title>http</title><link>http://example.com/a?idxno=1</link></item>
+<item><title>https</title><link>https://example.com/b</link></item>
+</channel></rss>
+"""
+
+
+def test_collect_feed_keeps_only_http_links():
+    # Passed as a document, the feed has no base URL: feedparser leaves relative links relative, so they are dropped.
+    links = {it["title"]: it["link"] for it in aggregate.collect_feed("T", RSS_LINK_SCHEMES)}
+    assert links == {
+        "js": "",
+        "js-mixed-case": "",
+        "vbs": "",
+        "data": "",
+        "relative": "",
+        "scheme-relative": "",
+        "http": "http://example.com/a?idxno=1",
+        "https": "https://example.com/b",
+    }
+
+
+def test_collect_feed_keeps_relative_links_that_feedparser_resolves():
+    # Fetched over HTTP, feedparser resolves relative links against the feed URL; xml:base stands in for it here.
+    rss = RSS_LINK_SCHEMES.replace(
+        '<rss version="2.0">', '<rss version="2.0" xml:base="https://feeds.example.org/rss/">'
+    )
+    links = {it["title"]: it["link"] for it in aggregate.collect_feed("T", rss)}
+    assert links["relative"] == "https://feeds.example.org/news/1"
+    assert links["scheme-relative"] == "https://cdn.example.com/news/2"
+    assert links["js"] == links["js-mixed-case"] == links["vbs"] == links["data"] == ""  # a base does not rescue them
+
+
+def test_build_category_dedups_items_with_dropped_links_by_title():
+    rss = """<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>t</title><link>https://example.com/</link><description>d</description>
+<item><title>Same title</title><link>javascript:alert(1)</link></item>
+<item><title>SAME TITLE</title><link>data:text/html,x</link></item>
+<item><title>Other title</title><link>javascript:alert(1)</link></item>
+</channel></rss>
+"""
+    cat = {"key": "k", "label": "L", "feeds": [{"name": "T", "url": rss}]}  # real collect_feed, document as url
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=10)
+
+    # Empty link → the key is the lowercased title (RULE7): same title collapses, same unsafe link does not.
+    assert [(i["title"], i["link"]) for i in out["items"]] == [("Same title", ""), ("Other title", "")]
+
+
 # --- clean_text / dedup_key -------------------------------------------------------------
 
 
