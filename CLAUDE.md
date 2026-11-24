@@ -42,7 +42,7 @@ Values and rationale in `docs/RULES.md`; same numbers.
 | RULE8 | Each category is sorted newest first and capped at `max_items_per_category` (40). | `aggregate.build_category`, `test_build_category_filters_dedups_sorts_and_caps` |
 | RULE9 | The collector's only runtime dependency is `feedparser`. | `pyproject.toml` `dependencies` |
 | RULE10 | The dashboard is the single file `index.html` with no external JS; it fetches `data.json` from the same path. | `index.html`, `update.yml` publish step |
-| RULE11 | Strings from `data.json` (title, source, link, category label) and the search text are HTML-escaped before they reach the DOM. | `index.html` `esc()` |
+| RULE11 | Strings from `data.json` (title, source, link, category label) and the search text are HTML-escaped before they reach the DOM. Item links are published and rendered only with an `http`/`https` scheme: the collector replaces any other link (other schemes, unresolved relative links, unparseable URLs) with an empty string, and the dashboard puts a link in `href` only when it starts with `http://`/`https://`, otherwise it shows the title as plain text. | `index.html` `esc()`, `isWebLink()` in `renderGrid`; `aggregate.safe_link`/`collect_feed`, `test_safe_link`, `test_collect_feed_keeps_only_http_links`, `test_collect_feed_keeps_relative_links_that_feedparser_resolves`, `test_build_category_dedups_items_with_dropped_links_by_title` |
 | RULE12 | Public repository: nothing private is committed; secrets live only in GitHub Secrets. | Review |
 | RULE13 | Not done: sources without RSS/Atom are not collected (no scraping). | — |
 | RULE14 | Not done: collection on the exact schedule is not guaranteed (cron 00/06/12/18 UTC is best effort). | — |

@@ -63,7 +63,8 @@
 | `categories[].feeds[].tz` | 원문에 시간대가 없는 발행 시각을 읽을 고정 UTC 오프셋 `±HH:MM`(예: `"+09:00"`). 시간대가 적힌 시각에는 쓰지 않는다(RULE6). 같은 피드를 여러 카테고리에 넣으면 항목마다 적는다 | UTC |
 
 `data.json` 형식(수집기 → 대시보드 경계): `generated_at`(UTC ISO 8601), `categories[]` = `{ key, label, count, items[] }`,
-`items[]` = `{ title, link, source, published }`(`published`는 UTC ISO 8601 또는 `null`). 요약은 필터에만 쓰고 내보내지 않는다.
+`items[]` = `{ title, link, source, published }`(`link`는 `http`/`https` 절대 URL 또는 빈 문자열(RULE11), `published`는 UTC ISO 8601
+또는 `null`). 요약은 필터에만 쓰고 내보내지 않는다. 대시보드는 `link`가 `http://`·`https://`로 시작할 때만 제목을 링크로 그린다.
 
 외부 경계: 피드 사이트(HTTP, 실패는 피드 단위로 격리), GitHub Actions(예약 실행, `GITHUB_TOKEN`으로 `gh-pages` push),
 GitHub Pages(정적 서빙), Google Fonts(대시보드 글꼴 스타일시트).
@@ -77,6 +78,7 @@ GitHub Pages(정적 서빙), Google Fonts(대시보드 글꼴 스타일시트).
 | 피드 항목의 `tz` 형식이 틀림(`"KST"`, `"+9"` 등) | 그 피드만 요청 없이 건너뛰고 계속(RULE4). CI의 `feeds.json` 검사는 JSON 파싱만 본다 | run 로그 `[FAIL] <카테고리> / <피드>: 잘못된 tz 값 ...` |
 | 수집 결과 0건 | `[WARN]` 로그 후 0건 `data.json`을 그대로 게시 | 대시보드 "수집된 항목이 없습니다" 안내 |
 | 항목의 날짜를 해석할 수 없음 | 날짜 미상으로 유지, 정렬 맨 뒤(RULE6) | 대시보드 "날짜 미상" |
+| 항목 링크가 `http`/`https` 절대 URL이 아님(`javascript:` 같은 다른 스킴, 기준 URL 없이 남은 상대 링크, URL로 나눌 수 없음) | 항목은 남기고 링크만 빈 문자열로 내보낸다. 중복 키는 제목(RULE7). 대시보드도 `http(s)://`로 시작하지 않는 링크는 `href`에 넣지 않는다(RULE11) | 대시보드에서 그 항목 제목이 링크 없는 글자로 보인다. 로그에는 남지 않는다 |
 | 대시보드가 `data.json`을 못 받음 | 오류 안내(HTTP 상태 포함) | 대시보드 붉은 안내 문구 |
 
 수집은 피드 단위로 fail-open(RULE4), 설정 오류는 배포 쪽으로 fail-closed(직전 배포본 유지)다.
