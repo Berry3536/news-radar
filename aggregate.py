@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import json
 import re
+import socket
 import sys
 from datetime import UTC, datetime, timedelta, timezone, tzinfo
 from email.utils import parsedate_to_datetime
@@ -190,6 +191,8 @@ def collect_feed(name: str, url: str, tz: tzinfo = UTC) -> list[dict]:
     """단일 피드를 파싱해 entry 목록을 반환. 실패 시 예외를 올린다.
 
     tz는 시간대 없는 발행 시각을 읽을 피드의 시간대(parse_tz, parse_date 참고).
+    네트워크 대기는 main이 건 소켓 기본 타임아웃에서 끊긴다: 응답 대기는 TimeoutError가 그대로 올라오고,
+    연결·TLS 핸드셰이크는 feedparser가 bozo(entry 0개)로 돌려줘 아래 RuntimeError가 된다.
     """
     parsed = feedparser.parse(url)
 
@@ -287,6 +290,9 @@ def main() -> int:
 
     max_age_days = int(config.get("max_age_days", 14))
     max_items = int(config.get("max_items_per_category", 40))
+    # feedparser는 URL을 urllib으로 타임아웃 없이 열어, 새 소켓이 받는 기본 타임아웃이 곧 피드 요청 타임아웃이다.
+    # 응답 없는 피드도 그 피드만 [FAIL]로 끝난다(RULE4, DEFECT4).
+    socket.setdefaulttimeout(float(config.get("feed_timeout_seconds", 30)))
 
     categories_out: list[dict] = []
     total = 0
