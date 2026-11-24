@@ -154,8 +154,12 @@ v1.1.0은 T1·T2·T3·T7(중복 키·시각 해석 규칙). (GATE1 신설은 202
 종료 기준 (GR1):
 
 - [ ] DEFECT1~DEFECT6이 모두 `fixed by GATE1-Tk`. 증거: 각 티켓의 테스트와 머지 커밋.
-- [ ] 배포본 화면의 "last sync" 값이 `data.json`의 `generated_at`(UTC)과 분 단위까지 같다. 증거: 릴리스 뒤 Pages 화면과 배포본 `data.json` 비교, KST 브라우저에서 확인.
+- [x] 배포본 화면의 "last sync" 값이 `data.json`의 `generated_at`(UTC)과 분 단위까지 같다. 증거: 릴리스 뒤 Pages 화면과 배포본 `data.json` 비교, KST 브라우저에서 확인.
+  v1.1.0 확인(2026-11-24): QA1 run 45397473585(master `adce64b`) → gh-pages `7065663` → pages run 45397524105. 배포본 `index.html`의
+  `fmtDateTimeUTC`를 KST(UTC+9) Node에서 실행: `generated_at` `2026-11-24T12:51:06Z` → 화면 `2026-11-24 12:51 UTC`.
 - [ ] 릴리스 뒤 배포본 `data.json`에서 include 필터가 없는 카테고리(v1.1.0은 ev·robot·ai, v1.2.0은 그 피드들이 들어간 카테고리)에 모터그래프·로봇신문·AI타임스가 각각 2건 이상 있고, 어떤 항목의 `published`도 `generated_at`보다 늦지 않다. 증거: QA1 실행 뒤 배포본.
+  v1.1.0 확인(2026-11-24, 같은 배포본, 178건): ev 모터그래프 14 · robot 로봇신문 37 · ai AI타임스 40, `generated_at`보다 늦은 항목 0.
+  같은 배포본에서 robot은 40건 중 로봇신문 37·IEEE Spectrum 0, ai는 arXiv 두 피드가 0 entries라 40건 모두 AI타임스(GATE1-T9 근거). v1.2.0 뒤 다시 확인.
 - [ ] 응답하지 않는 피드(테스트의 로컬 가짜 서버)는 정해진 시간 안에 `[FAIL]`로 끝나고 나머지 피드는 수집된다. `update.yml` job에 `timeout-minutes`가 있다. 증거: 테스트와 CI run.
 - [ ] `http`/`https`가 아닌 링크는 `data.json`과 대시보드 `href`에 나오지 않는다. 증거: 테스트.
 - [ ] 전체 0건이면 배포 단계가 돌지 않고 직전 배포본이 남는다. 증거: 테스트(`main()` 종료 코드)와 워크플로 단계 조건.
