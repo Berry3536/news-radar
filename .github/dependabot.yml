@@ -1,13 +1,10 @@
-# From stark-kit templates. Updates go to develop (gitflow), weekly, grouped.
+# From stark-kit templates. Python packages only, to develop (gitflow), monthly, one grouped PR.
+# GitHub Actions versions are not updated (vulnerability alerts cover advisories). One PR per month, so the
+# merge workflow never has to ask Dependabot for a rebase.
 version: 2
 updates:
-  - package-ecosystem: github-actions
-    directory: /
-    target-branch: develop
-    schedule: { interval: weekly }
-    groups: { actions: { patterns: ["*"] } }
   - package-ecosystem: uv
     directory: /
     target-branch: develop
-    schedule: { interval: weekly }
+    schedule: { interval: monthly }
     groups: { python: { patterns: ["*"] } }

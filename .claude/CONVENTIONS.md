@@ -3,6 +3,8 @@
 Shared conventions for every repository that uses stark-kit. These are rules for how cross-cutting
 code is written; package layout and layering are declared per repository and checked by
 `kit.py doctor` (`layout`) and import-linter (`[tool.importlinter]` in `pyproject.toml`).
+This file is copied into every repository, public ones included, so examples use placeholder names
+(`myapp`) and never another repository's names or paths.
 
 ## Repository layout
 
@@ -21,13 +23,13 @@ Declare the allowed import directions in `pyproject.toml` and run `uv run lint-i
 
 ```toml
 [tool.importlinter]
-root_package = "swap_candb"
+root_package = "myapp"
 
 [[tool.importlinter.contracts]]
 name = "ui depends only on application"
 type = "forbidden"
-source_modules = ["swap_candb.ui"]
-forbidden_modules = ["swap_candb.infrastructure", "swap_candb.domain", "swap_candb.core"]
+source_modules = ["myapp.ui"]
+forbidden_modules = ["myapp.infrastructure", "myapp.domain", "myapp.core"]
 ```
 
 A lower layer never imports a higher one; `app`/`ui`/`main` is the only place that wires everything.
@@ -35,12 +37,12 @@ Lazy imports to break a cycle are a smell — move the shared piece down instead
 
 ## Logging
 
-- One named root logger per application (`"alfred"`, `"swap_candb"`), configured once at startup
+- One named root logger per application (e.g. `"myapp"`), configured once at startup
   by a `setup_logging()`/`setup_logger()` in the app layer; libraries never configure handlers.
 - Module loggers are children of that root, obtained through one helper that strips the package
-  prefix (e.g. `child_logger(__name__)` → `alfred.trading.engine`); the helper lives below the app
+  prefix (e.g. `child_logger(__name__)` → `myapp.sync.engine`); the helper lives below the app
   layer (`core`) so lower layers never import `app` for it. Never a logger outside the tree.
-- Never log secrets; redact at the boundary (see alfred `security/redaction.py` for the pattern).
+- Never log secrets; redact at the boundary (the stark-kit README lists the reference implementation).
 
 ## Configuration
 
@@ -54,7 +56,7 @@ Lazy imports to break a cycle are a smell — move the shared piece down instead
 ## Files and state
 
 - Small JSON/YAML state: write atomically (temp file in the same directory, `fsync`, `os.replace`).
-  alfred `core/durable.py` is the reference implementation; copy it, do not import across repos.
+  The stark-kit README lists the reference implementation; copy it, do not import across repos.
 - Append-only journals: one line per record (JSONL), `fsync` per append, sidecar lock when more than
   one process may write.
 - App data lives under one per-app directory (`~/.<app>/`), defined in exactly one module.
@@ -71,7 +73,7 @@ Lazy imports to break a cycle are a smell — move the shared piece down instead
 
 ## Errors
 
-- One base exception per package (`AlfredError`, `CANdbConvertError`) with typed subclasses and
+- One base exception per package (e.g. `MyAppError`) with typed subclasses and
   stable codes where users see them. Catch at boundaries, not in helpers.
 - External effects (orders, payments, file publishing): anything ambiguous is recorded as unknown
   and surfaced for manual follow-up, never retried blindly.

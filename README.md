@@ -6,51 +6,14 @@
 
 ## 아키텍처
 
-```
-┌─────────────────────┐   cron (00/06/12/18 UTC)   ┌──────────────────┐
-│  GitHub Actions      │ ─────────────────────────▶ │  aggregate.py     │
-│  (.github/workflows) │                            │  feedparser로 수집 │
-└─────────────────────┘                            └────────┬─────────┘
-            ▲                                                │ 생성
-            │ gh-pages 브랜치로 force push                      ▼
-            │                                          ┌──────────────┐
-            └──────────────────────────────────────── │  data.json    │
-                                                       └──────┬───────┘
-                                                              │ fetch
-                  ┌────────────────────────────┐              ▼
-   브라우저 ◀───── │  GitHub Pages (index.html)   │ ◀───── data.json 서빙
-                  └────────────────────────────┘
-```
-
 `GitHub Actions(cron)` → `aggregate.py` 실행 → `index.html` + `data.json`을 `gh-pages` 브랜치(커밋 1개,
 매번 덮어씀)로 push → `GitHub Pages`가 `gh-pages`를 서빙. `master`/`develop`에는 봇 커밋이 남지 않는다.
 
-## 파일 구조
-
-```
-.
-├── feeds.json                  # 소스/카테고리/필터 설정 (운영 시 이 파일만 수정)
-├── aggregate.py                # 수집기 (Python 3.13, feedparser)
-├── pyproject.toml / uv.lock    # 의존성 (feedparser), uv로 잠금
-├── data.json                   # 수집 결과(로컬 생성, git 미추적; 배포본은 gh-pages 브랜치)
-├── index.html                  # 단일 파일 대시보드 (외부 JS 의존성 없음)
-├── .github/workflows/update.yml# 스케줄 수집 → gh-pages 배포 워크플로
-└── .github/workflows/ci.yml    # ruff·문법·feeds.json 검사
-```
+구성도, 파일 구조, `feeds.json`·`data.json` 형식은 [docs/DESIGN.md](docs/DESIGN.md).
 
 ## 배포 절차
 
-1. **레포 push** — 이 디렉터리를 GitHub 저장소에 올린다.
-2. **Pages 켜기** — `Settings → Pages → Build and deployment`
-   - Source: **Deploy from a branch**
-   - Branch: `gh-pages` `/ (root)` 선택 후 저장 (첫 워크플로 실행 후 브랜치가 생긴다)
-3. **Actions write 권한** — `Settings → Actions → General → Workflow permissions`
-   에서 **Read and write permissions** 선택(워크플로의 `permissions: contents: write`로도
-   커버되지만, 조직/레포 기본값이 read-only면 여기서 풀어줘야 함).
-4. **수동 1회 실행** — `Actions → Aggregate tech news → Run workflow`로 첫 수집 실행.
-   완료되면 `data.json`이 실제 데이터로 갱신되고, Pages URL에서 대시보드가 보인다.
-
-> Pages URL: `https://<사용자명>.github.io/<레포명>/`
+처음 배포 설정(Pages 켜기, Actions 쓰기 권한, 첫 수동 실행)은 [docs/RUNBOOK.md](docs/RUNBOOK.md)의 "운영 → 처음 설정".
 
 ## feeds.json 커스터마이징
 
@@ -72,25 +35,16 @@
 }
 ```
 
-**필터 규칙**
-
-- `include_keywords`가 **비어 있으면 전부 통과**. 값이 있으면 **제목+요약에 하나라도 포함**돼야 통과.
-- `exclude_keywords`에 **하나라도 걸리면 제외**.
-- 대소문자는 무시한다.
-- **같은 피드 URL을 여러 카테고리에 넣고**, 각 카테고리의 키워드로 분리하는 패턴을 권장한다.
-  (예: Electrek 피드를 `전기차`·`배터리`·`모터`에 모두 넣고 각 카테고리 키워드로 갈라내기 —
-  실제 `feeds.json`이 이 방식으로 구성돼 있다.)
+필터·기간·중복 제거의 정확한 규칙은 [docs/RULES.md](docs/RULES.md)의 RULE5~RULE8.
+**같은 피드 URL을 여러 카테고리에 넣고**, 각 카테고리의 키워드로 분리하는 패턴을 권장한다.
+(예: Electrek 피드를 `전기차`·`배터리`·`모터`에 모두 넣고 각 카테고리 키워드로 갈라내기 —
+실제 `feeds.json`이 이 방식으로 구성돼 있다.)
 
 ## 동작/한계 · 주의사항
 
-- **scheduled cron은 정시를 보장하지 않는다.** GitHub의 부하에 따라 **수 분~수십 분 지연되거나
-  스킵**될 수 있다. 정확한 타이밍이 필요한 용도에는 부적합하다.
-- **60일간 저장소 활동이 없으면 scheduled 워크플로가 자동 비활성화**될 수 있다. 비활성화되면
-  Actions 탭에서 다시 켜야 한다.
-- **피드 URL은 바뀌거나 죽을 수 있다.** 수집기는 피드 단위로 예외를 격리해, 죽은 피드 하나가
-  전체 수집을 막지 않는다. 실패는 로그에 `[FAIL]`, 성공은 `[OK]`로 남는다.
-- **RSS/Atom이 없는 소스는 수집 불가.** 본 도구는 피드만 처리하며, 스크래핑은 하지 않는다.
-- 의존성은 Python의 `feedparser` 하나, 프런트는 외부 JS 라이브러리 없이 단일 HTML이다.
+예약 수집은 정시를 보장하지 않고, 60일간 저장소 활동이 없으면 꺼질 수 있으며, RSS/Atom이 있는 소스만 수집한다.
+죽은 피드 하나는 전체 수집을 막지 않는다. 자세한 내용은 [docs/DESIGN.md](docs/DESIGN.md)의 "알려진 한계",
+확인·재활성 절차는 [docs/RUNBOOK.md](docs/RUNBOOK.md)의 "운영".
 
 ## 로컬 실행/검증
 
@@ -101,4 +55,14 @@ uv run python -m http.server   # http://localhost:8000 에서 index.html 확인
 ```
 
 `data.json`은 git에서 추적하지 않는다. 네트워크가 막힌 환경이라면 `gh-pages` 브랜치의 `data.json`을
-받아(`git show origin/gh-pages:data.json > data.json`) 렌더링을 확인한다.
+받아(`git show origin/gh-pages:data.json > data.json`) 렌더링을 확인한다. 테스트·검사 명령 전체는
+[docs/RUNBOOK.md](docs/RUNBOOK.md)의 "개발".
+
+## 문서
+
+| 문서 | 내용 |
+|---|---|
+| [docs/DESIGN.md](docs/DESIGN.md) | 제품이 무엇인가: 범위, 구성도와 파일 구조, 데이터 형식, 오류 처리, 알려진 한계 |
+| [docs/RUNBOOK.md](docs/RUNBOOK.md) | 어떻게 돌리나: 개발·검증, 처음 설정·수동 실행·상태 확인, 릴리스, 릴리스 이력 |
+| [docs/RULES.md](docs/RULES.md) | 제품이 항상 지키는 것(배포 위치, 필터·날짜·중복 제거 규칙, 안 하기로 한 것) |
+| [docs/ROADMAP.md](docs/ROADMAP.md) | 진행 상태: 게이트, 결함, 게이트 리뷰 기록 |

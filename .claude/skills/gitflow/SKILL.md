@@ -12,7 +12,8 @@ and `commands.smoke`.
 ## feature / bugfix
 
 **start**: clean tree → `git switch develop` → `git pull --ff-only origin develop` →
-`git switch -c <type>/<slug>`.
+`git switch -c <type>/<slug>`. The slug starts with the ticket id when there is one
+(`feature/GATE1-T2-audit-fixes`).
 
 **finish**:
 1. Clean tree on the branch; verify passes; the level workflow (CLAUDE.md) reached "report"
@@ -40,7 +41,9 @@ Then `git switch develop && git merge --no-ff origin/<branch>`, verify, push `de
 
 **start**: version = last tag + patch (`git describe --tags --abbrev=0 master`). Confirm it.
 `git switch master && git pull --ff-only origin master && git switch -c hotfix/X.Y.Z`.
-Set the version in `kit.json` `release.version_file` on the branch and commit
+Set the version in `kit.json` `release.version_file` on the branch, then update every other
+place the previous version string appears (`git grep -nF "<old version>" -- ':!*.lock'`, skip
+release-history docs — GUI title, `__version__`, user-visible strings) and commit
 `chore: bump version to X.Y.Z`.
 
 **finish**: same as `release` skill steps 5–9 with `hotfix/X.Y.Z` instead of `release/X.Y.Z`.
