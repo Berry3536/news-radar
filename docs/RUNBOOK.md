@@ -106,12 +106,13 @@ gh workflow run update.yml --repo Berry3536/news-radar --ref master
 | QA | 확인 | 통과 기준 |
 |---|---|---|
 | QA1 | `master`로 수동 실행 1회(`gh workflow run update.yml --repo Berry3536/news-radar --ref master`) | run 성공, 로그 `[FAIL]` 0(있으면 원인 기록), `[DONE] 총 N건`의 N > 0 |
-| QA2 | Pages 대시보드 | pages-build-deployment 성공, 카테고리 칩 5개, "last sync"가 QA1 실행 시각(DEFECT1이 열려 있는 동안은 지역 시간으로 읽는다), 검색어 입력 시 목록이 줄어든다 |
+| QA2 | Pages 대시보드 | pages-build-deployment 성공, 카테고리 칩 5개, "last sync"가 QA1 실행 시각이고 배포본 `data.json`의 `generated_at`(UTC)과 분 단위까지 같다, 검색어 입력 시 목록이 줄어든다 |
 | QA3 | `feeds.json`을 바꾼 릴리스만 | 새·바뀐 피드가 QA1 로그에 `[OK]`이고 entry가 0이 아니다 |
 
 ## 릴리스 이력
 
 | 버전 | 날짜 | 상태 | 내용 |
 |---|---|---|---|
+| v1.1.0 | 2026-11-24 | draft | GATE1 중간 릴리스: 국내 피드 기사 누락(DEFECT2)과 발행 시각 9시간 오차(DEFECT3), "last sync" UTC 표시(DEFECT1), 공용 규약 문서 예시 정리(DEFECT6). Dependabot은 Python 패키지 월 1회. 남은 GATE1 티켓은 v1.2.0 |
 | v1.0.1 | 2026-11-03 | published | 정비 릴리스: 수집 로직 테스트 16개, Dependabot 자동 머지 워크플로, 개발 도구 갱신(setup-uv 10.3.3, ruff 0.17.3, pytest 9.2.0). 대시보드·수집 방식은 v1.0.0과 같다 |
 | v1.0.0 | 2026-10-14 | 태그만(GitHub Release 없음) | 첫 릴리스: `gh-pages` 배포 전환(RULE1·RULE2), uv·단독 CI, stark-kit 도입 |
