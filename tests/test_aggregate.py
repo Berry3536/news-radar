@@ -6,6 +6,7 @@ import threading
 import time
 from datetime import UTC, datetime, timedelta, timezone
 
+import feedparser
 import pytest
 
 import aggregate
@@ -249,6 +250,38 @@ def test_build_category_dedups_items_with_dropped_links_by_title():
     assert [(i["title"], i["link"]) for i in out["items"]] == [("Same title", ""), ("Other title", "")]
 
 
+# --- malformed feed: the bozo rule in collect_feed / build_category (RULE4) -------------
+
+RSS_HEAD = """<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>t</title><link>https://example.com/</link><description>d</description>
+"""
+# Both documents are cut off (no closing tags), so neither is well-formed XML: feedparser sets bozo on both.
+RSS_CUT_BEFORE_ANY_ITEM = RSS_HEAD
+RSS_CUT_AFTER_ONE_ITEM = RSS_HEAD + "<item><title>kept anyway</title><link>https://example.com/1</link></item>\n"
+
+
+def test_collect_feed_fails_a_malformed_feed_only_when_it_has_no_entries():
+    assert feedparser.parse(RSS_CUT_BEFORE_ANY_ITEM).bozo and feedparser.parse(RSS_CUT_AFTER_ONE_ITEM).bozo
+
+    with pytest.raises(RuntimeError, match="^bozo: "):
+        aggregate.collect_feed("T", RSS_CUT_BEFORE_ANY_ITEM)
+
+    # bozo alone is not a failure: some working feeds come back with bozo=1
+    items = aggregate.collect_feed("T", RSS_CUT_AFTER_ONE_ITEM)
+    assert [(i["title"], i["link"]) for i in items] == [("kept anyway", "https://example.com/1")]
+
+
+def test_build_category_logs_fail_for_a_malformed_feed_without_entries(capsys):
+    feeds = [{"name": "broken", "url": RSS_CUT_BEFORE_ANY_ITEM}, {"name": "partial", "url": RSS_CUT_AFTER_ONE_ITEM}]
+    cat = {"key": "k", "label": "L", "feeds": feeds}  # real collect_feed, documents as urls
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=10)
+
+    assert [(i["title"], i["source"]) for i in out["items"]] == [("kept anyway", "partial")]
+    err = capsys.readouterr().err
+    assert "[FAIL] k / broken: bozo: " in err and "[OK]   k / partial: 1 entries" in err
+
+
 # --- feed timeout: collect_feed / build_category / main (DEFECT4, fake server on 127.0.0.1) ---
 
 FEED_TIMEOUT = 0.5  # seconds; stands in for feeds.json feed_timeout_seconds
@@ -451,7 +484,7 @@ def test_dedup_key_uses_lowercased_title_without_link():
     assert aggregate.dedup_key("   ", "  Hello World ") == "hello world"
 
 
-# --- passes_filters ---------------------------------------------------------------------
+# --- keyword filter: passes_filters / build_category (RULE5) ----------------------------
 
 
 @pytest.mark.parametrize(
@@ -467,6 +500,28 @@ def test_dedup_key_uses_lowercased_title_without_link():
 )
 def test_passes_filters(text, include, exclude, expected):
     assert aggregate.passes_filters(text, include, exclude) is expected
+
+
+def test_build_category_matches_keywords_in_the_summary():
+    rss = """<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>t</title><link>https://example.com/</link><description>d</description>
+<item><title>Update</title><link>https://example.com/1</link><description>A new Battery plant</description></item>
+<item><title>Outlook</title><link>https://example.com/2</link><description>battery and crypto</description></item>
+<item><title>Weather</title><link>https://example.com/3</link><description>sunny</description></item>
+</channel></rss>
+"""
+    cat = {
+        "key": "k",
+        "label": "L",
+        "include_keywords": ["battery"],
+        "exclude_keywords": ["crypto"],
+        "feeds": [{"name": "T", "url": rss}],  # real collect_feed: the RSS <description> becomes the summary
+    }
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=10)
+
+    # The keywords are only in the summaries: include matches the first item, exclude drops the second.
+    assert [i["title"] for i in out["items"]] == ["Update"]
 
 
 # --- build_category (collect_feed replaced, no network) ---------------------------------
@@ -535,6 +590,21 @@ def test_build_category_keeps_articles_that_differ_only_in_query(monkeypatch):
 def _feeds_by_name(monkeypatch, feeds):
     monkeypatch.setattr(aggregate, "collect_feed", lambda name, url, tz=UTC: feeds[name])
     return {"key": "k", "label": "L", "feeds": [{"name": n, "url": f"https://{n}"} for n in feeds]}
+
+
+@pytest.mark.parametrize("order", [("older", "newer"), ("newer", "older")])
+def test_build_category_dedup_keeps_the_copy_from_the_feed_listed_first(monkeypatch, order):
+    now = datetime.now(UTC)
+    copies = {  # the same article in two feeds: equal dedup keys (RULE7)
+        "older": [_item("Story", "https://news.example/a/", now - timedelta(hours=3), source="older")],
+        "newer": [_item("Story", "https://news.example/a?utm_source=rss", now - timedelta(hours=1), source="newer")],
+    }
+    cat = _feeds_by_name(monkeypatch, {name: copies[name] for name in order})
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=10)
+
+    # the first collected copy stays, whether it is the older or the newer one
+    assert [i["source"] for i in out["items"]] == [order[0]]
 
 
 def test_build_category_caps_each_feed_before_the_category(monkeypatch):
