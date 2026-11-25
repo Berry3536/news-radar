@@ -38,6 +38,23 @@ def test_parse_date_survives_overflowing_raw_string():
     # A huge offset makes email.utils raise OverflowError; one such item must not fail the feed (RULE4).
     raw = "2026 Nov 21 11:51:51 +99999999999999999999"
     assert aggregate.parse_date({"published": raw}) is None
+
+
+@pytest.mark.parametrize(
+    ("tz", "raw"),
+    [("+09:00", "0001-01-01 00:00:00"), ("-05:00", "9999-12-31 23:59:59")],
+)
+def test_collect_feed_keeps_the_feed_when_a_date_leaves_the_range_in_its_tz(tz, raw):
+    # Moving these naive times into UTC leaves datetime's range (DEFECT7): that item is undated, the feed still works.
+    rss = (
+        '<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>t</title>'
+        f"<item><title>edge</title><link>https://example.com/e</link><pubDate>{raw}</pubDate></item>"
+        "<item><title>normal</title><link>https://example.com/n</link><pubDate>2026-11-21 11:51:51</pubDate></item>"
+        "</channel></rss>"
+    )
+    items = {it["title"]: it["dt"] for it in aggregate.collect_feed("K", rss, aggregate.parse_tz(tz))}
+    assert items["edge"] is None
+    assert items["normal"] is not None and items["normal"].utcoffset() == timedelta(0)
     st = (2026, 11, 21, 2, 0, 0, 0, 0, 0)
     assert aggregate.parse_date({"published": raw, "published_parsed": st}) == datetime(
         2026, 11, 21, 2, 0, 0, tzinfo=UTC
