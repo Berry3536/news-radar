@@ -31,7 +31,7 @@ News Radar는 지금 GATE1에 있고 최종 목표 GATE2를 향한다. 게이트
 | 마지막 GR | GR0 pass with notes (2026-11-10) |
 | 최신 릴리스 | v1.1.0 (2026-11-24, 중간 릴리스) |
 | 열린 결함 | 0 |
-| 다음 할 일 | GATE1 작업 순서대로 GATE1-T6 → T9 → T10 → T8, 그다음 v1.2.0 릴리스와 GR1 |
+| 다음 할 일 | GATE1 작업 순서대로 GATE1-T9 → T10 → T8, 그다음 v1.2.0 릴리스와 GR1 |
 
 ## 현재 작업
 
@@ -83,7 +83,7 @@ DEFECT6(키트 생성 파일에 다른 저장소 이름).
   피드와 구별되지 않는다(RULE4의 실패 정의대로). 2026-10-27 ~ 11-10 실행 43회 중 30회에 arXiv 피드가 0건이었고
   (다른 피드는 없음), 19회는 cs.AI·cs.LG 모두 0건이었다. `feeds.json`의 빈 `url`도 `[OK] 0 entries`로 찍힌다(E5).
 - `feeds.json` 형식 검사 없음 (RULE 공백, 관찰): `key`·`label` 누락이나 숫자가 아닌 `max_age_days`는 `[ERROR]` 없이
-  traceback으로 끝난다(배포 단계는 건너뛰어 직전 배포본이 남는다). `max_items_per_category` 0은 빈 배포, 음수는 가장
+  traceback으로 끝난다(배포 단계는 건너뛰어 직전 배포본이 남는다). `max_items_per_category` 0은 빈 배포(2026-11-25부터는 전체 0건이라 배포하지 않는다, RULE16), 음수는 가장
   오래된 항목을 경고 없이 버리고, `include_keywords`를 문자열로 쓰면 글자 단위로 비교해 거의 전부 통과한다(E5, 검증자).
   CI는 JSON 파싱만 본다.
 - 미래 날짜 (RULE 공백, 관찰): 수집 시각보다 늦은 발행 시각도 남고 맨 위에 "방금"으로 보인다(E3, E6). 지금까지 나온
@@ -141,7 +141,7 @@ v1.1.0은 T1·T2·T3·T7(중복 키·시각 해석 규칙). (GATE1 신설은 202
 | GATE1-T3 | 시간대 없는 발행 시각을 피드별로 해석한다(예: `feeds.json` 피드 항목의 시간대 키, 없으면 UTC). 먼저 세 피드의 원문 시각 표기를 확인한다. RULE6 값 개정 | DEFECT3 | — | done |
 | GATE1-T4 | 피드 요청에 타임아웃을 둬서 넘으면 그 피드만 `[FAIL]`로 건너뛰고, `update.yml` job에 `timeout-minutes`를 둔다. 값은 RULE4에 적는다 | DEFECT4 | — | done |
 | GATE1-T5 | `http`/`https`가 아닌 항목 링크는 내보내지 않는다(수집기에서 빈 링크로, 대시보드에서도 스킴 검사). RULE11 문장 개정 | DEFECT5 | — | done |
-| GATE1-T6 | 수집 결과가 전체 0건이면 `data.json`을 게시하지 않고 직전 배포본을 유지한다(`aggregate.py` 종료 코드 1 → 배포 단계를 건너뜀). 새 RULE 번호를 받고 DESIGN 오류 모델을 고친다 | — (GR0 결정) | — | open |
+| GATE1-T6 | 수집 결과가 전체 0건이면 `data.json`을 게시하지 않고 직전 배포본을 유지한다(`aggregate.py` 종료 코드 1 → 배포 단계를 건너뜀). 새 RULE 번호를 받고 DESIGN 오류 모델을 고친다 | — (GR0 결정) | — | done (RULE16) |
 | GATE1-T7 | `.claude/CONVENTIONS.md`의 다른 저장소 예시를 일반 문장으로 바꾼 stark-kit 버전을 `kit sync`로 반영한다 | DEFECT6 | stark-kit 문안 수정 | done bf7c511 |
 | GATE1-T8 | 문서·주석·테스트 정리: `aggregate.py` docstring(배포 방식), `update.yml` 예약 주석(RULE14 참조), DESIGN "데이터와 흐름" 1번의 수동 실행 ref 문장(필요하면 배포 단계를 `master` 전용으로), DESIGN 오류 모델에 `feeds.json` 키 누락·형식 오류 줄, RULES "지키는 곳"이 가리키는 테스트 보강(`collect_feed` bozo 판정, 요약에만 키워드가 있는 항목, 먼저 수집된 항목이 남는 중복) | — | — | open |
 | GATE1-T9 | 피드 하나가 카테고리 상한을 다 차지하지 않도록 피드별 상한을 둔다. 값은 `feeds.json`에 두고(RULE3) T10 조사의 피드별 하루 기사 수로 정한다. RULE8 개정(최신순 정렬과 카테고리 상한은 유지) | — (2026-11-24 사용자 결정. 관찰: 2026-11-21 로컬 수집에서 robot 40건 중 로봇신문 32건, arXiv가 실패하면 ai 40건이 모두 AI타임스) | — | open |
