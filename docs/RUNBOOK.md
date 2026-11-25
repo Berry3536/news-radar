@@ -53,7 +53,7 @@ feature 브랜치 → develop → 릴리스.
 
 ```powershell
 gh run list --repo Berry3536/news-radar --workflow update.yml --limit 5
-gh run view <run-id> --repo Berry3536/news-radar --log | Select-String '\[(OK|FAIL|WARN|ERROR|DONE)'
+gh run view <run-id> --repo Berry3536/news-radar --log | Select-String '\[(OK|FAIL|ERROR|DONE)'
 git fetch origin gh-pages; git show origin/gh-pages:data.json | Select-Object -First 2    # generated_at
 ```
 
@@ -63,7 +63,9 @@ git fetch origin gh-pages; git show origin/gh-pages:data.json | Select-Object -F
    `disabled_inactivity`면 60일 비활성(아래), `disabled_manually`면 누군가 끈 것.
 2. 마지막 run의 실패 단계: `gh run view <run-id> --repo Berry3536/news-radar --log-failed`.
    - `Install dependencies`: `uv.lock`과 `pyproject.toml` 불일치(`uv sync --locked`). develop에서 `uv lock` 후 릴리스.
-   - `Aggregate feeds`: `feeds.json` 로드 실패(`[ERROR]`). 직전 배포본이 남아 있다. `feeds.json`을 고쳐 핫픽스.
+   - `Aggregate feeds`: `feeds.json` 로드 실패나 값 오류, 또는 전체 0건(`[ERROR]`, RULE16). 직전 배포본이 남아 있다.
+     0건이면 로그의 `[FAIL]`·`0 entries`로 피드 상태를, 키워드 필터를 확인한다. 일시적인 피드 장애면 다음 예약 실행을 기다리고,
+     `feeds.json` 문제면 고쳐 핫픽스.
    - `Publish to gh-pages`: 쓰기 권한. 처음 설정 3번을 확인.
 3. run은 성공했는데 화면이 그대로: `gh run list --repo Berry3536/news-radar --workflow pages-build-deployment --limit 3`,
    `Settings → Pages` 소스가 `gh-pages` `/ (root)`인지.

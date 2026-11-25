@@ -47,6 +47,7 @@ Values and rationale in `docs/RULES.md`; same numbers.
 | RULE13 | Not done: sources without RSS/Atom are not collected (no scraping). | — |
 | RULE14 | Not done: collection on the exact schedule is not guaranteed (cron 00/06/12/18 UTC is best effort). | — |
 | RULE15 | Not done: no server, no database, no history of past collections; each run overwrites the published copy. | — |
+| RULE16 | A run that collects zero items in total publishes nothing: `aggregate.py` logs `[ERROR]`, writes no `data.json` and exits 1, so the publish step is skipped and the previous published copy stays. | `aggregate.main`, `update.yml` publish step (runs only after the aggregate step succeeds), `test_main_publishes_nothing_when_zero_items`, `test_main_writes_data_json_when_any_item_is_collected` |
 
 ## Forbidden
 
