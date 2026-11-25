@@ -33,7 +33,7 @@ Values and rationale in `docs/RULES.md`; same numbers.
 | Rule | Statement | Enforced in |
 |---|---|---|
 | RULE1 | `data.json` is published only on the `gh-pages` branch; it is never committed to `master`/`develop`. | `.gitignore`, `update.yml` publish step, Forbidden |
-| RULE2 | Only the `update.yml` workflow writes `gh-pages`: one commit (`index.html`, `data.json`, `.nojekyll`), force-pushed on every run. | `update.yml`, `.claude/settings.json` deny, Forbidden |
+| RULE2 | Only the `update.yml` workflow writes `gh-pages`: one commit (`index.html`, `data.json`, `.nojekyll`), force-pushed on every successful run (a failed run publishes nothing, RULE16). | `update.yml`, `.claude/settings.json` deny, Forbidden |
 | RULE3 | Feeds, keyword filters and limits live only in `feeds.json`; no feed URL, keyword or limit is hard-coded. | `aggregate.py` `main`, CI `feeds.json` parse check |
 | RULE4 | One failing feed is skipped and logged `[FAIL]`; it never aborts the run. A feed fails on an exception, or on `bozo` with zero entries; a feed request times out after `feed_timeout_seconds` (30, must be > 0) on connect, TLS handshake or any single socket read. What that cannot cut (a slow-drip server, DNS) is bounded by the `update.yml` job limit `timeout-minutes: 15`, which cancels the run before publishing. | `aggregate.py` `main` (socket default timeout)/`build_category`/`collect_feed`, `update.yml` `timeout-minutes`, `test_build_category_filters_dedups_sorts_and_caps`, `test_collect_feed_times_out_on_silent_server`, `test_build_category_skips_a_feed_that_never_answers`, `test_main_applies_feed_timeout_seconds`, `test_main_defaults_feed_timeout_to_30_seconds`, `test_main_rejects_non_positive_feed_timeout` |
 | RULE5 | Keyword filter on title + summary, case-insensitive: any exclude keyword drops the item (exclude wins); an empty include list passes everything, otherwise one include keyword must match. | `aggregate.passes_filters`, `test_passes_filters` |
@@ -46,7 +46,8 @@ Values and rationale in `docs/RULES.md`; same numbers.
 | RULE12 | Public repository: nothing private is committed; secrets live only in GitHub Secrets. | Review |
 | RULE13 | Not done: sources without RSS/Atom are not collected (no scraping). | — |
 | RULE14 | Not done: collection on the exact schedule is not guaranteed (cron 00/06/12/18 UTC is best effort). | — |
-| RULE15 | Not done: no server, no database, no history of past collections; each run overwrites the published copy. | — |
+| RULE15 | Not done: no server, no database, no history of past collections; each successful run overwrites the published copy. | — |
+| RULE16 | A run that collects zero items in total publishes nothing: `aggregate.py` logs `[ERROR]`, writes no `data.json` and exits 1, so the publish step is skipped and the previous published copy stays. | `aggregate.main`, `update.yml` publish step (runs only after the aggregate step succeeds), `test_main_publishes_nothing_when_zero_items`, `test_main_writes_data_json_when_any_item_is_collected` |
 
 ## Forbidden
 

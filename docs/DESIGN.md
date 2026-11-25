@@ -79,12 +79,12 @@ GitHub Pages(정적 서빙), Google Fonts(대시보드 글꼴 스타일시트).
 | 피드가 응답하지 않음(연결·핸드셰이크·읽기 대기가 `feed_timeout_seconds`를 넘음) | 그 요청을 끊고 그 피드만 건너뛰고 계속(RULE4) | run 로그 `[FAIL] <카테고리> / <피드>: ... timed out`(응답 대기: http 피드는 `timed out`, https 피드는 `The read operation timed out`. 연결·TLS 단계에서 끊기면 `bozo: <urlopen error ... timed out>`) |
 | 수집 job이 `timeout-minutes`(15분)를 넘음(피드 타임아웃이 끊지 못하는 멈춤) | GitHub가 job을 취소한다. 배포 단계가 돌지 않아 직전 배포본이 남는다 | Actions run 취소 |
 | 피드 항목의 `tz` 형식이 틀림(`"KST"`, `"+9"` 등) | 그 피드만 요청 없이 건너뛰고 계속(RULE4). CI의 `feeds.json` 검사는 JSON 파싱만 본다 | run 로그 `[FAIL] <카테고리> / <피드>: 잘못된 tz 값 ...` |
-| 수집 결과 0건 | `[WARN]` 로그 후 0건 `data.json`을 그대로 게시 | 대시보드 "수집된 항목이 없습니다" 안내 |
+| 수집 결과가 전체 0건(피드가 모두 실패, 필터가 전부 걸러냄, 카테고리 없음) | `[ERROR]` 후 `data.json`을 쓰지 않고 종료 코드 1 → 배포 단계를 건너뛰어 직전 배포본이 남는다(RULE16). 카테고리 하나만 0건이면 그대로 게시 | Actions run 실패, run 로그 `[ERROR] 수집된 항목이 0건...`. 대시보드는 직전 배포본("last sync"가 멈춤) |
 | 항목의 날짜를 해석할 수 없음 | 날짜 미상으로 유지, 정렬 맨 뒤(RULE6) | 대시보드 "날짜 미상" |
 | 항목 링크가 `http`/`https` 절대 URL이 아님(`javascript:` 같은 다른 스킴, 기준 URL 없이 남은 상대 링크, URL로 나눌 수 없음) | 항목은 남기고 링크만 빈 문자열로 내보낸다. 중복 키는 제목(RULE7). 대시보드도 `http(s)://`로 시작하지 않는 링크는 `href`에 넣지 않는다(RULE11) | 대시보드에서 그 항목 제목이 링크 없는 글자로 보인다. 로그에는 남지 않는다 |
 | 대시보드가 `data.json`을 못 받음 | 오류 안내(HTTP 상태 포함) | 대시보드 붉은 안내 문구 |
 
-수집은 피드 단위로 fail-open(RULE4), 설정 오류는 배포 쪽으로 fail-closed(직전 배포본 유지)다.
+수집은 피드 단위로 fail-open(RULE4), 설정 오류와 전체 0건은 배포 쪽으로 fail-closed(직전 배포본 유지, RULE16)다.
 
 ## 알려진 한계
 
@@ -98,6 +98,7 @@ GitHub Pages(정적 서빙), Google Fonts(대시보드 글꼴 스타일시트).
 - 예약 실행은 기본 브랜치 `master`의 파일을 쓴다. `feeds.json` 변경은 릴리스로 `master`에 들어간 뒤부터 반영된다.
 - 피드 URL은 바뀌거나 죽을 수 있다. 실패는 `[FAIL]`로 보이지만, 정상 응답에 entry가 0개인 피드는 `[OK] 0 entries`로
   남아 구별되지 않는다(ROADMAP GATE0 관찰).
-- 모든 피드가 실패하면 빈 배포본이 직전 배포본을 덮고, 다음 실행까지 남는다(ROADMAP GATE1-T6).
+- 전체 0건이면 직전 배포본이 그대로 남아(RULE16), 대시보드만 봐서는 수집이 멈춘 것을 알기 어렵다. "last sync" 시각과
+  Actions run 실패로 본다.
 - 대시보드 검색은 제목과 출처만 본다(요약은 `data.json`에 없다).
 - RSS/Atom만 수집한다(RULE13). 과거 수집 결과는 남지 않는다(RULE15).
