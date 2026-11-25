@@ -572,6 +572,48 @@ def test_build_category_per_feed_cap_counts_only_kept_items(monkeypatch):
     assert [i["title"] for i in out["items"]] == ["b 1", "a 1", "a 2"]  # dropped items did not use a's 2 slots
 
 
+def test_build_category_per_feed_cap_applies_after_the_keyword_filter(monkeypatch):
+    now = datetime.now(UTC)
+    # the 10 newest posts do not match the include keyword; they must not take the feed's slots
+    a = [_item(f"ev news {i}", f"https://a/n{i}", now - timedelta(minutes=i), source="a") for i in range(10)]
+    a += [_item(f"robot {i}", f"https://a/r{i}", now - timedelta(days=1, minutes=i), source="a") for i in range(3)]
+    cat = _feeds_by_name(monkeypatch, {"a": a})
+    cat["include_keywords"] = ["robot"]
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=10, max_per_feed=2)
+
+    assert [i["title"] for i in out["items"]] == ["robot 0", "robot 1"]
+
+
+def test_build_category_per_feed_cap_keeps_the_newest_of_an_oldest_first_feed(monkeypatch):
+    now = datetime.now(UTC)
+    # the feed lists its oldest post first and an undated one before everything
+    a = [_item("undated", "https://a/u", None, source="a")]
+    a += [_item(f"o{i}", f"https://a/{i}", now - timedelta(hours=12 - i), source="a") for i in range(12)]
+    cat = _feeds_by_name(monkeypatch, {"a": a})
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=10, max_per_feed=4)
+
+    assert [i["title"] for i in out["items"]] == ["o11", "o10", "o9", "o8"]
+
+
+def test_build_category_feeds_with_the_same_name_share_the_cap(monkeypatch):
+    now = datetime.now(UTC)
+
+    def posts(feed, offset):
+        when = [now - timedelta(hours=2 * i + offset) for i in range(6)]
+        return [_item(f"{feed} {i}", f"https://{feed}/{i}", dt, "Same") for i, dt in enumerate(when)]
+
+    by_url = {"https://one": posts("one", 0), "https://two": posts("two", 1)}
+    monkeypatch.setattr(aggregate, "collect_feed", lambda name, url, tz=UTC: by_url[url])
+    cat = {"key": "k", "label": "L", "feeds": [{"name": "Same", "url": u} for u in by_url]}
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=40, max_per_feed=8)
+
+    # counted by source name, as the dashboard shows it: 8 in total, the newest 8 of both feeds
+    assert [i["title"] for i in out["items"]] == [f"{f} {i}" for i in range(4) for f in ("one", "two")]
+
+
 @pytest.mark.usefixtures("restore_socket_timeout")
 @pytest.mark.parametrize(("config_value", "expected"), [(None, 8), (3, 3)])
 def test_main_passes_max_items_per_feed(tmp_path, monkeypatch, config_value, expected):
