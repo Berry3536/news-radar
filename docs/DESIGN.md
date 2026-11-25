@@ -2,7 +2,7 @@
 
 ## 목적과 범위
 
-전기차 · 배터리 · 모터 · 로봇 · AI 분야의 RSS를 **GitHub Actions가 주기적으로 수집**해 **GitHub Pages**가 정적 페이지로
+AI · 반도체 · 자동차(전기차·자율주행·내연기관·국제 규제) · 배터리 · 로봇 분야의 RSS를 **GitHub Actions가 주기적으로 수집**해 **GitHub Pages**가 정적 페이지로
 보여 주는 **무료 · 서버리스** 개인용 대시보드(https://berry3536.github.io/news-radar/). 백엔드/DB가 없으며, 운영은
 `feeds.json` 한 파일만 고치면 된다(RULE3).
 
@@ -61,7 +61,7 @@
 | `feed_timeout_seconds` | 피드 요청 타임아웃(초). 연결, TLS 핸드셰이크, 소켓 읽기 한 번마다 걸리고(응답 전체 시간·DNS 조회는 아님), 넘으면 그 피드만 실패(RULE4). 0보다 커야 한다(0 이하면 `[ERROR]`, 종료 코드 1, 배포하지 않음) | 30 |
 | `categories[].key` / `label` | 내부 식별자(고유) / 화면 표시명 | — |
 | `categories[].include_keywords` / `exclude_keywords` | 키워드 필터(RULE5) | 빈 목록 |
-| `categories[].feeds[]` | `{ "name", "url", "tz" }`(`tz`는 선택). 같은 피드 URL을 여러 카테고리에 넣고 키워드로 가르는 방식을 쓴다 | — |
+| `categories[].feeds[]` | `{ "name", "url", "tz" }`(`tz`는 선택). 카테고리마다 주제 피드를 넣고, 주제가 섞인 피드는 키워드로 거른다. `name`은 화면의 출처 이름이자 피드별 상한을 세는 단위(RULE8) | — |
 | `categories[].feeds[].tz` | 원문에 시간대가 없는 발행 시각을 읽을 고정 UTC 오프셋 `±HH:MM`(예: `"+09:00"`). 시간대가 적힌 시각에는 쓰지 않는다(RULE6). 같은 피드를 여러 카테고리에 넣으면 항목마다 적는다 | UTC |
 
 `data.json` 형식(수집기 → 대시보드 경계): `generated_at`(UTC ISO 8601), `categories[]` = `{ key, label, count, items[] }`,
