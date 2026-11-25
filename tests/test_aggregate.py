@@ -405,12 +405,16 @@ def test_main_publishes_nothing_when_zero_items(tmp_path, monkeypatch, capsys, c
 @pytest.mark.usefixtures("restore_socket_timeout")
 def test_main_writes_data_json_when_any_item_is_collected(tmp_path, monkeypatch):
     monkeypatch.setattr(aggregate, "collect_feed", _filtered_out)
-    categories = [{"key": "ai", "label": "AI", "feeds": [{"name": "a", "url": "u"}]}]
+    categories = [
+        {"key": "ai", "label": "AI", "feeds": [{"name": "a", "url": "u"}]},
+        {"key": "robot", "label": "로봇", "include_keywords": ["nomatch"], "feeds": [{"name": "b", "url": "u"}]},
+    ]
 
     assert _run_main(tmp_path, monkeypatch, {"categories": categories}) == 0
 
     data = json.loads((tmp_path / "data.json").read_text(encoding="utf-8"))
-    assert data["categories"][0]["count"] == 1
+    # one empty category does not stop the run: both are published, the empty one with count 0
+    assert [(c["key"], c["count"]) for c in data["categories"]] == [("ai", 1), ("robot", 0)]
 
 
 # --- clean_text / dedup_key -------------------------------------------------------------
