@@ -357,6 +357,17 @@ def test_main_defaults_feed_timeout_to_30_seconds(tmp_path, monkeypatch):
     assert socket.getdefaulttimeout() == 30
 
 
+@pytest.mark.usefixtures("restore_socket_timeout")
+@pytest.mark.parametrize("value", [0, -1])
+def test_main_rejects_non_positive_feed_timeout(tmp_path, monkeypatch, capsys, value):
+    # 0 would make every socket non-blocking and fail every feed, not disable the timeout.
+    before = socket.getdefaulttimeout()
+    assert _run_main(tmp_path, monkeypatch, {"feed_timeout_seconds": value, "categories": []}) == 1
+    assert socket.getdefaulttimeout() == before
+    assert not (tmp_path / "data.json").exists()
+    assert "[ERROR] feed_timeout_seconds" in capsys.readouterr().err
+
+
 # --- clean_text / dedup_key -------------------------------------------------------------
 
 

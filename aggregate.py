@@ -292,7 +292,12 @@ def main() -> int:
     max_items = int(config.get("max_items_per_category", 40))
     # feedparser는 URL을 urllib으로 타임아웃 없이 열어, 새 소켓이 받는 기본 타임아웃이 곧 피드 요청 타임아웃이다.
     # 응답 없는 피드도 그 피드만 [FAIL]로 끝난다(RULE4, DEFECT4).
-    socket.setdefaulttimeout(float(config.get("feed_timeout_seconds", 30)))
+    feed_timeout = float(config.get("feed_timeout_seconds", 30))
+    if feed_timeout <= 0:
+        # 0은 "타임아웃 없음"이 아니라 non-blocking 소켓이라 모든 피드가 실패한다. 배포하지 않고 끝낸다.
+        log(f"[ERROR] feed_timeout_seconds는 0보다 커야 합니다: {feed_timeout}")
+        return 1
+    socket.setdefaulttimeout(feed_timeout)
 
     categories_out: list[dict] = []
     total = 0
