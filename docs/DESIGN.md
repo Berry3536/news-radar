@@ -57,7 +57,7 @@
 |---|---|---|
 | `max_age_days` | 이보다 오래된 항목 제외, 날짜 미상은 유지(RULE6) | 14 |
 | `max_items_per_category` | 카테고리당 최대 노출 수(RULE8) | 40 |
-| `feed_timeout_seconds` | 피드 요청 타임아웃(초). 연결, TLS 핸드셰이크, 소켓 읽기 한 번마다 걸리고(응답 전체 시간·DNS 조회는 아님), 넘으면 그 피드만 실패(RULE4) | 30 |
+| `feed_timeout_seconds` | 피드 요청 타임아웃(초). 연결, TLS 핸드셰이크, 소켓 읽기 한 번마다 걸리고(응답 전체 시간·DNS 조회는 아님), 넘으면 그 피드만 실패(RULE4). 0보다 커야 한다(0 이하면 `[ERROR]`, 종료 코드 1, 배포하지 않음) | 30 |
 | `categories[].key` / `label` | 내부 식별자(고유) / 화면 표시명 | — |
 | `categories[].include_keywords` / `exclude_keywords` | 키워드 필터(RULE5) | 빈 목록 |
 | `categories[].feeds[]` | `{ "name", "url", "tz" }`(`tz`는 선택). 같은 피드 URL을 여러 카테고리에 넣고 키워드로 가르는 방식을 쓴다 | — |
@@ -76,7 +76,7 @@ GitHub Pages(정적 서빙), Google Fonts(대시보드 글꼴 스타일시트).
 |---|---|---|
 | `feeds.json` 읽기·파싱 실패 | `[ERROR]` 후 종료 코드 1 → 워크플로 실패, 배포 단계를 건너뛰어 직전 배포본이 남는다. CI가 파싱을 미리 검사한다 | Actions run 실패 |
 | 피드 하나 실패(예외, 또는 `bozo`이면서 entry 0개) | 그 피드만 건너뛰고 계속(RULE4) | run 로그 `[FAIL] <카테고리> / <피드>: <원인>` |
-| 피드가 응답하지 않음(연결·핸드셰이크·읽기 대기가 `feed_timeout_seconds`를 넘음) | 그 요청을 끊고 그 피드만 건너뛰고 계속(RULE4) | run 로그 `[FAIL] <카테고리> / <피드>: timed out`(연결·TLS 단계에서 끊기면 `bozo: <urlopen error ... timed out>`) |
+| 피드가 응답하지 않음(연결·핸드셰이크·읽기 대기가 `feed_timeout_seconds`를 넘음) | 그 요청을 끊고 그 피드만 건너뛰고 계속(RULE4) | run 로그 `[FAIL] <카테고리> / <피드>: ... timed out`(응답 대기: http 피드는 `timed out`, https 피드는 `The read operation timed out`. 연결·TLS 단계에서 끊기면 `bozo: <urlopen error ... timed out>`) |
 | 수집 job이 `timeout-minutes`(15분)를 넘음(피드 타임아웃이 끊지 못하는 멈춤) | GitHub가 job을 취소한다. 배포 단계가 돌지 않아 직전 배포본이 남는다 | Actions run 취소 |
 | 피드 항목의 `tz` 형식이 틀림(`"KST"`, `"+9"` 등) | 그 피드만 요청 없이 건너뛰고 계속(RULE4). CI의 `feeds.json` 검사는 JSON 파싱만 본다 | run 로그 `[FAIL] <카테고리> / <피드>: 잘못된 tz 값 ...` |
 | 수집 결과 0건 | `[WARN]` 로그 후 0건 `data.json`을 그대로 게시 | 대시보드 "수집된 항목이 없습니다" 안내 |

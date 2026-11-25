@@ -21,7 +21,7 @@
 {
   "max_age_days": 14,            // 이보다 오래된 항목 제외(날짜 미상은 유지)
   "max_items_per_category": 40,  // 카테고리당 최대 노출 수
-  "feed_timeout_seconds": 30,    // 피드 요청 타임아웃(초), 넘으면 그 피드만 건너뜀
+  "feed_timeout_seconds": 30,    // 피드 요청 타임아웃(초, 0보다 커야 함), 넘으면 그 피드만 건너뜀
   "categories": [
     {
       "key": "battery",          // 내부 식별자(고유)
