@@ -46,8 +46,8 @@ feature 브랜치 → develop → 릴리스.
 실제로는 수 시간 늦게 시작하고 하루 2~4회 실행된다(RULE14). 실행이 겹치면 `concurrency: aggregate`로 줄을 선다.
 
 **수동 실행**: `gh workflow run update.yml --repo Berry3536/news-radar --ref master`
-(또는 `Actions → Aggregate tech news → Run workflow`). 다른 브랜치로 돌리면 릴리스 안 된 설정이 공개 배포본이 되므로
-`master`로만 돌린다.
+(또는 `Actions → Aggregate tech news → Run workflow`). 배포 단계(`Publish to gh-pages`)는 `master`에서 돈 실행만 한다:
+다른 브랜치·태그로 돌리면 수집만 하고 배포 단계는 건너뛰어(skipped) 직전 배포본이 남는다. 배포본을 갱신하려면 `master`로 돌린다.
 
 **상태 확인**:
 
@@ -67,7 +67,8 @@ git fetch origin gh-pages; git show origin/gh-pages:data.json | Select-Object -F
      0건이면 로그의 `[FAIL]`·`0 entries`로 피드 상태를, 키워드 필터를 확인한다. 일시적인 피드 장애면 다음 예약 실행을 기다리고,
      `feeds.json` 문제면 고쳐 핫픽스.
    - `Publish to gh-pages`: 쓰기 권한. 처음 설정 3번을 확인.
-3. run은 성공했는데 화면이 그대로: `gh run list --repo Berry3536/news-radar --workflow pages-build-deployment --limit 3`,
+3. run은 성공했는데 화면이 그대로: 그 run이 `master`에서 돌았는지(다른 ref면 `Publish to gh-pages`가 skipped),
+   `gh run list --repo Berry3536/news-radar --workflow pages-build-deployment --limit 3`,
    `Settings → Pages` 소스가 `gh-pages` `/ (root)`인지.
 4. 카테고리가 비거나 줄었음: 로그의 `[FAIL]`과 `0 entries` 피드를 찾아 `feeds.json` URL을 바꾼다.
 

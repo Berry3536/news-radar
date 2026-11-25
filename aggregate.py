@@ -7,7 +7,9 @@ feeds.json을 읽어 카테고리별 RSS 피드를 수집/정규화/필터링한
 설계 원칙:
 - 외부 의존성은 feedparser 하나뿐.
 - 죽은 피드 하나가 전체 수집을 막지 않도록 피드 단위로 예외를 격리한다.
-- 서버/DB 없음. GitHub Actions가 주기적으로 실행 → data.json 커밋.
+- 서버/DB 없음. GitHub Actions(update.yml)가 주기적으로 실행하고, master에서 돈 실행이 성공하면 워크플로가
+  index.html + data.json + .nojekyll을 커밋 1개로 gh-pages에 force push한다(RULE1, RULE2).
+- 수집 결과가 전체 0건이면 data.json을 쓰지 않고 1로 끝나 아무것도 배포하지 않는다(RULE16).
 """
 
 from __future__ import annotations

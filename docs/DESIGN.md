@@ -44,11 +44,13 @@ AI · 반도체 · 자동차(전기차·자율주행·내연기관·국제 규�
                   └────────────────────────────┘
 ```
 
-1. `update.yml`이 예약(또는 수동)으로 기본 브랜치 `master`를 체크아웃하고 `uv sync --locked` 후 `aggregate.py`를 실행한다.
+1. `update.yml`이 체크아웃하고(예약 실행은 기본 브랜치 `master`, 수동 실행은 고른 ref) `uv sync --locked` 후 `aggregate.py`를
+   실행한다.
 2. `aggregate.py`가 `feeds.json`의 카테고리마다 피드를 읽고, 항목마다 기간(RULE6) → 키워드(RULE5) → 중복(RULE7) 순으로
    거른 뒤 최신순 정렬, 피드별 상한, 카테고리 상한(RULE8)을 적용해 `data.json`을 쓴다.
 3. 워크플로가 `index.html` + `data.json` + `.nojekyll`을 새 저장소의 커밋 1개로 만들어 `gh-pages`에 force push한다(RULE2).
-   `master`/`develop`에는 봇 커밋이 남지 않는다(RULE1).
+   이 배포 단계는 `master`에서 돈 실행만 하고(`if: github.ref == 'refs/heads/master'`), 앞 단계가 실패하면 돌지 않는다(RULE16).
+   다른 ref로 수동 실행하면 수집만 하고 배포하지 않는다. `master`/`develop`에는 봇 커밋이 남지 않는다(RULE1).
 4. GitHub Pages가 `gh-pages` `/`(root)를 서빙하고, 브라우저의 `index.html`이 `data.json`을 캐시 없이 fetch해 그린다.
 
 `feeds.json` 형식:
@@ -76,6 +78,8 @@ GitHub Pages(정적 서빙), Google Fonts(대시보드 글꼴 스타일시트).
 | 오류 | 처리 | 보이는 곳 |
 |---|---|---|
 | `feeds.json` 읽기·파싱 실패 | `[ERROR]` 후 종료 코드 1 → 워크플로 실패, 배포 단계를 건너뛰어 직전 배포본이 남는다. CI가 파싱을 미리 검사한다 | Actions run 실패 |
+| `feeds.json` 키 누락·형식 오류(카테고리에 `key`·`label`이 없음, 숫자로 읽히지 않는 한도 값(`max_age_days: "two weeks"`, `null`), `categories`·`feeds`가 목록이 아님, 키워드 목록에 문자열이 아닌 값) | 검사하지 않는다. `[ERROR]` 없이 traceback(`KeyError`·`ValueError`·`TypeError`·`AttributeError`)으로 끝나 종료 코드 1 → 배포 단계를 건너뛰어 직전 배포본이 남는다. 카테고리 하나의 오류도 실행 전체를 멈춘다(피드 `tz`와 달리 격리되지 않는다). 숫자로 읽히는 문자열(`"14"`)은 받아들인다. CI의 `feeds.json` 검사는 JSON 파싱만 본다 | Actions run 실패, run 로그 traceback |
+| `feeds.json` 값이 틀렸지만 실행은 됨(`include_keywords`·`exclude_keywords`를 목록 대신 문자열로 씀, 한도 값 0 이하. `feed_timeout_seconds` 0 이하는 예외로 `[ERROR]` 후 종료 코드 1, RULE4) | 검사하지 않고 그대로 쓴다. 문자열 키워드 목록은 글자 하나하나가 키워드가 되어(`"robot"` → `r`·`o`·`b`·`t`) include는 거의 전부 통과시키고 exclude는 거의 전부 뺀다. `max_items_per_category` 음수는 카테고리마다 정렬 맨 뒤 항목을 그 수만큼 빼고, `max_age_days` 0 이하는 발행 시각이 수집 시각보다 이른 항목을 모두 뺀다(날짜 미상은 남는다). `max_items_per_category` 0이나 `max_items_per_feed` 0 이하는 모든 카테고리를 비운다(전체 0건, RULE16) | 경고 없음. 대시보드에서 카테고리 내용·건수가 달라진 것으로만 보인다(전체 0건이면 아래 "수집 결과가 전체 0건" 줄) |
 | 피드 하나 실패(예외, 또는 `bozo`이면서 entry 0개) | 그 피드만 건너뛰고 계속(RULE4) | run 로그 `[FAIL] <카테고리> / <피드>: <원인>` |
 | 피드가 응답하지 않음(연결·핸드셰이크·읽기 대기가 `feed_timeout_seconds`를 넘음) | 그 요청을 끊고 그 피드만 건너뛰고 계속(RULE4) | run 로그 `[FAIL] <카테고리> / <피드>: ... timed out`(응답 대기: http 피드는 `timed out`, https 피드는 `The read operation timed out`. 연결·TLS 단계에서 끊기면 `bozo: <urlopen error ... timed out>`) |
 | 수집 job이 `timeout-minutes`(15분)를 넘음(피드 타임아웃이 끊지 못하는 멈춤) | GitHub가 job을 취소한다. 배포 단계가 돌지 않아 직전 배포본이 남는다 | Actions run 취소 |
@@ -85,7 +89,9 @@ GitHub Pages(정적 서빙), Google Fonts(대시보드 글꼴 스타일시트).
 | 항목 링크가 `http`/`https` 절대 URL이 아님(`javascript:` 같은 다른 스킴, 기준 URL 없이 남은 상대 링크, URL로 나눌 수 없음) | 항목은 남기고 링크만 빈 문자열로 내보낸다. 중복 키는 제목(RULE7). 대시보드도 `http(s)://`로 시작하지 않는 링크는 `href`에 넣지 않는다(RULE11) | 대시보드에서 그 항목 제목이 링크 없는 글자로 보인다. 로그에는 남지 않는다 |
 | 대시보드가 `data.json`을 못 받음 | 오류 안내(HTTP 상태 포함) | 대시보드 붉은 안내 문구 |
 
-수집은 피드 단위로 fail-open(RULE4), 설정 오류와 전체 0건은 배포 쪽으로 fail-closed(직전 배포본 유지, RULE16)다.
+수집은 피드 단위로 fail-open(RULE4), 설정 오류(읽기·파싱 실패, 키 누락·형식 오류)와 전체 0건은 배포 쪽으로 fail-closed(직전
+배포본 유지, RULE16)다. 다만 `feeds.json` 값의 형식·범위는 검사하지 않아, 실행을 멈추지 않는 잘못된 값(문자열 키워드 목록,
+0 이하 한도)은 경고 없이 그대로 쓰인다(ROADMAP GATE0 관찰).
 
 ## 알려진 한계
 
