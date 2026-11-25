@@ -105,7 +105,10 @@ def parse_date(entry, tz: tzinfo = UTC) -> datetime | None:
             except (TypeError, ValueError):
                 continue
             if lacks_tz(entry.get(key)):
-                dt = dt.replace(tzinfo=tz).astimezone(UTC)
+                try:
+                    dt = dt.replace(tzinfo=tz).astimezone(UTC)
+                except OverflowError:  # 예: +09:00 피드의 0001-01-01은 UTC로 옮기면 연도 0 (DEFECT7)
+                    continue
             return dt
 
     for key in ("published", "updated"):
@@ -118,7 +121,10 @@ def parse_date(entry, tz: tzinfo = UTC) -> datetime | None:
             if dt is not None:
                 if dt.tzinfo is None:
                     dt = dt.replace(tzinfo=tz if lacks_tz(val) else UTC)
-                return dt.astimezone(UTC)
+                try:
+                    return dt.astimezone(UTC)
+                except OverflowError:  # 범위 끝의 시각은 날짜 미상으로 두고 피드는 계속 (RULE4, RULE6)
+                    continue
 
     return None
 

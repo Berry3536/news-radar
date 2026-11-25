@@ -31,7 +31,7 @@ News Radar는 지금 GATE1에 있고 최종 목표 GATE2를 향한다. 게이트
 | 마지막 GR | GR0 pass with notes (2026-11-10) |
 | 최신 릴리스 | v1.1.0 (2026-11-24, 중간 릴리스) |
 | 열린 결함 | 0 |
-| 다음 할 일 | v1.2.0 릴리스(QA1~QA4)와 GR1 |
+| 다음 할 일 | v1.2.0 릴리스(QA1~QA4)와 GR1 판정안 |
 
 ## 현재 작업
 
@@ -47,6 +47,7 @@ News Radar는 지금 GATE1에 있고 최종 목표 GATE2를 향한다. 게이트
 | DEFECT4 | 2026-11-10, GATE0 결함 리뷰: 실험 E7, `aggregate.py` `collect_feed`(97행), feedparser 6.0.14 `http.py` 171행 `opener.open(request)`, `update.yml` job 설정 | 피드 요청에 타임아웃이 없다. 연결만 받고 응답하지 않는 피드 하나에서 `collect_feed`가 돌아오지 않아 수집 전체가 멈춘다(RULE4 "수집 전체를 멈추지 않는다"와 다름). job에 `timeout-minutes`가 없어 GitHub 기본 한도(360분)까지 기다린 뒤 취소되고 배포 단계는 돌지 않는다 | 그 실행은 배포본을 갱신하지 못하고, 같은 `concurrency` 그룹의 다음 예약 실행은 그동안 줄을 선다. 2026-06-01 이후 613회 실행에서는 일어나지 않았다 | fixed by GATE1-T4 |
 | DEFECT5 | 2026-11-10, GATE0 결함 리뷰: 실험 E6(Node `vm`), feedparser 오프라인 파싱, `index.html` `renderGrid`(352~354행) | 항목 링크의 스킴을 검사하지 않는다. 피드가 `javascript:`·`vbscript:`·`data:` 링크를 주면 feedparser가 그대로 넘기고, `esc()`는 HTML 특수문자만 바꾸므로 그 값이 그대로 `<a href>`가 된다. RULE11의 근거(외부 피드 내용으로 공개 페이지에 스크립트 주입)를 막지 못한다 | 악성·탈취된 피드, 또는 `http://` 피드 3개의 전송 구간 변조로 대시보드 링크에 스크립트 URL이 들어갈 수 있다. 클릭해야 하고, `target="_blank"` 링크에서 실제로 실행되는지는 브라우저마다 다르며 이번에 확인하지 않았다. 지금 배포본의 링크는 모두 `http(s)://`다 | fixed by GATE1-T5 (수집기는 테스트, 대시보드 `isWebLink`는 저장소 테스트 없이 Node 재현으로 확인: 2026-11-24 verifier, 입력 16개 중 `<a>`는 http(s) 2건뿐) |
 | DEFECT6 | 2026-11-10, GATE0 결함 리뷰: RULE12 대조(`git grep`), `.claude/CONVENTIONS.md` 43행 | stark-kit이 생성한 `.claude/CONVENTIONS.md`가 예시로 다른 비공개 저장소의 이름과 그 안의 파일 경로를 담고 있다(RULE12 "비공개 정보를 커밋하지 않는다"와 다름) | 2026-10-14(`dd59233`)부터 공개 레포의 `master`·`develop`에 있다. 토큰·자격 증명은 아니다. 고쳐도 git 이력에는 남는다(이력은 다시 쓰지 않는다) | fixed by GATE1-T7 |
+| DEFECT7 | 2026-11-25, GR1 검토(verifier): `aggregate.py` `parse_date`(시간대 없는 시각을 피드 `tz`로 옮기는 줄) | 시간대 없는 시각을 피드 `tz`로 옮길 때 날짜 범위를 넘으면(`+09:00` 피드의 `0001-01-01 00:00:00`, `-05:00` 피드의 `9999-12-31 23:59:59`) `OverflowError`가 항목 처리 밖으로 나가 그 피드 전체가 `[FAIL]`이 된다(RULE4·RULE6과 다름). GATE1-T3가 만든 경로 | 그런 항목 하나가 든 피드는 그 실행에서 0건. 실제 피드에서는 관찰되지 않았다. GATE0에서 기각한 극단 날짜와 같은 부류지만 T3 전에는 피드가 실패하지 않았고 T3의 의도(범위를 넘는 날짜 하나가 피드를 실패시키지 않는다)와도 다르다 | fixed by GATE1-T11 |
 
 ## GATE0 — 현황 진단 (2026-11-04, 결함 리뷰 2026-11-10)
 
@@ -131,7 +132,7 @@ note다. GATE1은 이 둘을 먼저 고치고(GATE1-T2·T3), DEFECT1·DEFECT4·D
 v1.1.0은 T1·T2·T3·T7(중복 키·시각 해석 규칙). (GATE1 신설은 2026-11-04, DEFECT2~DEFECT6과 전체 0건 규칙 추가는 2026-11-10,
 중간 릴리스와 T9·T10 추가는 2026-11-24 사용자 결정, GR 기록 GR0 행 참조.)
 
-작업 순서는 피해 순이다: T2 → T3 → T1 → T7(여기까지 v1.1.0) → T4·T5(병렬) → T6 → T9 → T10 → T8. T2와 T3은 같은 릴리스로
+작업 순서는 피해 순이다: T2 → T3 → T1 → T7(여기까지 v1.1.0) → T4·T5(병렬) → T6 → T9 → T10 → T8 → T11(GR1 검토 지적). T2와 T3은 같은 릴리스로
 낸다(T2만 나가면 9시간 미래 항목이 그 피드마다 최대 50건으로 늘어난다). T10은 T9의 피드별 상한을 쓰므로 T9 뒤에 둔다.
 
 | 티켓 | 작업 | 닫는 결함 | 선행 | 상태 |
@@ -146,10 +147,11 @@ v1.1.0은 T1·T2·T3·T7(중복 키·시각 해석 규칙). (GATE1 신설은 202
 | GATE1-T8 | 문서·주석·테스트 정리: `aggregate.py` docstring(배포 방식), `update.yml` 예약 주석(RULE14 참조), DESIGN "데이터와 흐름" 1번의 수동 실행 ref 문장(필요하면 배포 단계를 `master` 전용으로), DESIGN 오류 모델에 `feeds.json` 키 누락·형식 오류 줄, RULES "지키는 곳"이 가리키는 테스트 보강(`collect_feed` bozo 판정, 요약에만 키워드가 있는 항목, 먼저 수집된 항목이 남는 중복) | — | — | done |
 | GATE1-T9 | 피드 하나가 카테고리 상한을 다 차지하지 않도록 피드별 상한을 둔다. 값은 `feeds.json`에 두고(RULE3) T10 조사의 피드별 하루 기사 수로 정한다. RULE8 개정(최신순 정렬과 카테고리 상한은 유지) | — (2026-11-24 사용자 결정. 관찰: 2026-11-21 로컬 수집에서 robot 40건 중 로봇신문 32건, arXiv가 실패하면 ai 40건이 모두 AI타임스) | — | done |
 | GATE1-T10 | 카테고리를 AI·반도체·자동차·배터리·로봇 5개로 바꾼다(`feeds.json`만, RULE3). 전기차·모터를 자동차(전기차·자율주행·내연기관·국제 규제)로 합치고 반도체를 새로 둔다. 후보 피드는 RSS/Atom만(RULE13), feedparser로 수집되는지·하루 기사 수·시간대 표기를 확인해 고른다. DESIGN 카테고리 설명과 QA3 | — (2026-11-24 사용자 결정) | T9 | done |
+| GATE1-T11 | GR1 검토 지적 정리: DEFECT7 수정(범위를 넘는 날짜는 그 항목만 날짜 미상), RULE4 근거의 요청 수(27개·13.5분), DESIGN의 `tz` 피드 수, README 배포 문장, 대시보드 부제(카테고리 5개). 중복 제거와 피드별 상한이 겹치는 경우는 고치지 않고 DESIGN 알려진 한계에 적는다(지금 구성에서는 일어나지 않음) | DEFECT7 | T1~T10 | done |
 
 종료 기준 (GR1):
 
-- [ ] DEFECT1~DEFECT6이 모두 `fixed by GATE1-Tk`. 증거: 각 티켓의 테스트와 머지 커밋.
+- [ ] DEFECT1~DEFECT7이 모두 `fixed by GATE1-Tk`. 증거: 각 티켓의 테스트와 머지 커밋.
 - [x] 배포본 화면의 "last sync" 값이 `data.json`의 `generated_at`(UTC)과 분 단위까지 같다. 증거: 릴리스 뒤 Pages 화면과 배포본 `data.json` 비교, KST 브라우저에서 확인.
   v1.1.0 확인(2026-11-24): QA1 run 45397473585(master `adce64b`) → gh-pages `7065663` → pages run 45397524105. 배포본 `index.html`의
   `fmtDateTimeUTC`를 KST(UTC+9) Node에서 실행: `generated_at` `2026-11-24T12:51:06Z` → 화면 `2026-11-24 12:51 UTC`.

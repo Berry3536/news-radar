@@ -7,7 +7,7 @@ AI · 반도체 · 자동차(전기차·자율주행·내연기관·국제 규�
 ## 아키텍처
 
 `GitHub Actions(cron)` → `aggregate.py` 실행 → `index.html` + `data.json`을 `gh-pages` 브랜치(커밋 1개,
-매번 덮어씀)로 push → `GitHub Pages`가 `gh-pages`를 서빙. `master`/`develop`에는 봇 커밋이 남지 않는다.
+`master`에서 성공한 실행마다 덮어씀)로 push → `GitHub Pages`가 `gh-pages`를 서빙. `master`/`develop`에는 봇 커밋이 남지 않는다.
 
 구성도, 파일 구조, `feeds.json`·`data.json` 형식은 [docs/DESIGN.md](docs/DESIGN.md).
 
