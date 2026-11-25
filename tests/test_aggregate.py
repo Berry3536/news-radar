@@ -368,6 +368,51 @@ def test_main_rejects_non_positive_feed_timeout(tmp_path, monkeypatch, capsys, v
     assert "[ERROR] feed_timeout_seconds" in capsys.readouterr().err
 
 
+# --- zero items: nothing is published (RULE16) ------------------------------------------
+
+
+def _fail(name, url, tz=UTC):
+    raise RuntimeError("down")
+
+
+def _filtered_out(name, url, tz=UTC):
+    return [{"title": "x", "link": "https://example.com/x", "source": name, "summary": "", "dt": None}]
+
+
+@pytest.mark.usefixtures("restore_socket_timeout")
+@pytest.mark.parametrize(
+    ("collect", "categories"),
+    [
+        (_fail, [{"key": "ai", "label": "AI", "feeds": [{"name": "a", "url": "u1"}, {"name": "b", "url": "u2"}]}]),
+        (
+            _filtered_out,
+            [{"key": "ai", "label": "AI", "include_keywords": ["nomatch"], "feeds": [{"name": "a", "url": "u"}]}],
+        ),
+        (_fail, []),
+    ],
+    ids=["all-feeds-fail", "all-items-filtered", "no-categories"],
+)
+def test_main_publishes_nothing_when_zero_items(tmp_path, monkeypatch, capsys, collect, categories):
+    monkeypatch.setattr(aggregate, "collect_feed", collect)
+    (tmp_path / "data.json").write_text("previous", encoding="utf-8")  # stands in for a local leftover
+
+    assert _run_main(tmp_path, monkeypatch, {"categories": categories}) == 1
+
+    assert (tmp_path / "data.json").read_text(encoding="utf-8") == "previous"
+    assert "[ERROR] 수집된 항목이 0건" in capsys.readouterr().err
+
+
+@pytest.mark.usefixtures("restore_socket_timeout")
+def test_main_writes_data_json_when_any_item_is_collected(tmp_path, monkeypatch):
+    monkeypatch.setattr(aggregate, "collect_feed", _filtered_out)
+    categories = [{"key": "ai", "label": "AI", "feeds": [{"name": "a", "url": "u"}]}]
+
+    assert _run_main(tmp_path, monkeypatch, {"categories": categories}) == 0
+
+    data = json.loads((tmp_path / "data.json").read_text(encoding="utf-8"))
+    assert data["categories"][0]["count"] == 1
+
+
 # --- clean_text / dedup_key -------------------------------------------------------------
 
 

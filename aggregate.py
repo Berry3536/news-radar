@@ -307,6 +307,12 @@ def main() -> int:
         total += result["count"]
         categories_out.append(result)
 
+    if total == 0:
+        # 피드가 모두 실패했거나 필터가 전부 걸렀다. 빈 data.json으로 직전 배포본을 덮지 않는다(RULE16):
+        # 파일을 쓰지 않고 1로 끝내면 워크플로의 배포 단계가 돌지 않는다.
+        log("[ERROR] 수집된 항목이 0건이라 data.json을 쓰지 않습니다(직전 배포본 유지). 피드 URL/필터를 확인하세요.")
+        return 1
+
     output = {
         "generated_at": datetime.now(UTC).isoformat(),
         "categories": categories_out,
@@ -317,9 +323,6 @@ def main() -> int:
         f.write("\n")
 
     log(f"[DONE] 총 {total}건 → {OUTPUT_PATH}")
-    if total == 0:
-        log("[WARN] 수집된 항목이 0건입니다. 피드 URL/필터를 확인하세요.")
-
     return 0
 
 
