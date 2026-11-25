@@ -221,8 +221,11 @@ def collect_feed(name: str, url: str, tz: tzinfo = UTC) -> list[dict]:
     return items
 
 
-def build_category(cat: dict, max_age_days: int, max_items: int) -> dict:
-    """카테고리 하나를 수집/필터/정렬/중복제거해 출력 형태로 만든다."""
+def build_category(cat: dict, max_age_days: int, max_items: int, max_per_feed: int | None = None) -> dict:
+    """카테고리 하나를 수집/필터/정렬/중복제거해 출력 형태로 만든다.
+
+    max_per_feed가 있으면 최신순으로 피드(출처 이름)마다 그 건수까지만 남긴 뒤 카테고리 상한을 건다(RULE8).
+    """
     cutoff = datetime.now(UTC) - timedelta(days=max_age_days)
     include = cat.get("include_keywords", []) or []
     exclude = cat.get("exclude_keywords", []) or []
@@ -259,6 +262,18 @@ def build_category(cat: dict, max_age_days: int, max_items: int) -> dict:
     far_past = datetime.min.replace(tzinfo=UTC)
     collected.sort(key=lambda it: it["dt"] or far_past, reverse=True)
 
+    # 피드별 상한: 글이 많은 피드 하나가 카테고리를 다 차지하지 않게 한다.
+    # 기간·키워드·중복 제거 뒤라 버려진 항목은 칸을 쓰지 않는다.
+    if max_per_feed is not None:
+        per_feed: dict[str, int] = {}
+        kept: list[dict] = []
+        for it in collected:
+            used = per_feed.get(it["source"], 0)
+            if used < max_per_feed:
+                per_feed[it["source"]] = used + 1
+                kept.append(it)
+        collected = kept
+
     # 카테고리당 상한
     collected = collected[:max_items]
 
@@ -290,6 +305,7 @@ def main() -> int:
 
     max_age_days = int(config.get("max_age_days", 14))
     max_items = int(config.get("max_items_per_category", 40))
+    max_per_feed = int(config.get("max_items_per_feed", 8))
     # feedparser는 URL을 urllib으로 타임아웃 없이 열어, 새 소켓이 받는 기본 타임아웃이 곧 피드 요청 타임아웃이다.
     # 응답 없는 피드도 그 피드만 [FAIL]로 끝난다(RULE4, DEFECT4).
     feed_timeout = float(config.get("feed_timeout_seconds", 30))
@@ -303,7 +319,7 @@ def main() -> int:
     total = 0
     for cat in config.get("categories", []):
         log(f"[CATEGORY] {cat.get('label', cat.get('key', '?'))}")
-        result = build_category(cat, max_age_days, max_items)
+        result = build_category(cat, max_age_days, max_items, max_per_feed)
         total += result["count"]
         categories_out.append(result)
 

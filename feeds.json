@@ -1,6 +1,7 @@
 {
   "max_age_days": 14,
   "max_items_per_category": 40,
+  "max_items_per_feed": 8,
   "feed_timeout_seconds": 30,
   "categories": [
     {
