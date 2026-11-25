@@ -46,7 +46,7 @@
 
 1. `update.yml`이 예약(또는 수동)으로 기본 브랜치 `master`를 체크아웃하고 `uv sync --locked` 후 `aggregate.py`를 실행한다.
 2. `aggregate.py`가 `feeds.json`의 카테고리마다 피드를 읽고, 항목마다 기간(RULE6) → 키워드(RULE5) → 중복(RULE7) 순으로
-   거른 뒤 최신순 정렬·상한(RULE8)을 적용해 `data.json`을 쓴다.
+   거른 뒤 최신순 정렬, 피드별 상한, 카테고리 상한(RULE8)을 적용해 `data.json`을 쓴다.
 3. 워크플로가 `index.html` + `data.json` + `.nojekyll`을 새 저장소의 커밋 1개로 만들어 `gh-pages`에 force push한다(RULE2).
    `master`/`develop`에는 봇 커밋이 남지 않는다(RULE1).
 4. GitHub Pages가 `gh-pages` `/`(root)를 서빙하고, 브라우저의 `index.html`이 `data.json`을 캐시 없이 fetch해 그린다.
@@ -57,6 +57,7 @@
 |---|---|---|
 | `max_age_days` | 이보다 오래된 항목 제외, 날짜 미상은 유지(RULE6) | 14 |
 | `max_items_per_category` | 카테고리당 최대 노출 수(RULE8) | 40 |
+| `max_items_per_feed` | 한 카테고리 안에서 피드(출처 이름) 하나가 차지할 수 있는 최대 건수. 카테고리 상한보다 먼저 건다(RULE8) | 8 |
 | `feed_timeout_seconds` | 피드 요청 타임아웃(초). 연결, TLS 핸드셰이크, 소켓 읽기 한 번마다 걸리고(응답 전체 시간·DNS 조회는 아님), 넘으면 그 피드만 실패(RULE4). 0보다 커야 한다(0 이하면 `[ERROR]`, 종료 코드 1, 배포하지 않음) | 30 |
 | `categories[].key` / `label` | 내부 식별자(고유) / 화면 표시명 | — |
 | `categories[].include_keywords` / `exclude_keywords` | 키워드 필터(RULE5) | 빈 목록 |
