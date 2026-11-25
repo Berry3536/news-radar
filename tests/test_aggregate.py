@@ -530,3 +530,104 @@ def test_build_category_keeps_articles_that_differ_only_in_query(monkeypatch):
     out = aggregate.build_category(cat, max_age_days=14, max_items=10)
 
     assert [i["title"] for i in out["items"]] == ["Robot 1", "Robot 2"]
+
+
+def _feeds_by_name(monkeypatch, feeds):
+    monkeypatch.setattr(aggregate, "collect_feed", lambda name, url, tz=UTC: feeds[name])
+    return {"key": "k", "label": "L", "feeds": [{"name": n, "url": f"https://{n}"} for n in feeds]}
+
+
+def test_build_category_caps_each_feed_before_the_category(monkeypatch):
+    now = datetime.now(UTC)
+    # "big" posts every 10 minutes, "small" every 2 days: without a per-feed cap "big" fills the category.
+    big = [_item(f"big {i}", f"https://big/{i}", now - timedelta(minutes=10 * i), source="big") for i in range(12)]
+    small = [_item(f"small {i}", f"https://s/{i}", now - timedelta(days=2 * i + 1), source="small") for i in range(3)]
+    cat = _feeds_by_name(monkeypatch, {"big": big, "small": small})
+
+    uncapped = aggregate.build_category(cat, max_age_days=14, max_items=10)
+    assert [i["source"] for i in uncapped["items"]] == ["big"] * 10
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=10, max_per_feed=4)
+    titles = [i["title"] for i in out["items"]]
+    assert titles == ["big 0", "big 1", "big 2", "big 3", "small 0", "small 1", "small 2"]  # newest first, 4 + 3
+
+    tight = aggregate.build_category(cat, max_age_days=14, max_items=5, max_per_feed=4)
+    assert [i["title"] for i in tight["items"]] == titles[:5]  # category cap applies after the per-feed cap
+
+
+def test_build_category_per_feed_cap_counts_only_kept_items(monkeypatch):
+    now = datetime.now(UTC)
+    a = [
+        _item("a dup", "https://x/1", now - timedelta(hours=1), source="a"),  # loses dedup to b's copy
+        _item("a 1", "https://a/1", now - timedelta(hours=2), source="a"),
+        _item("a old", "https://a/old", now - timedelta(days=30), source="a"),  # older than max_age_days
+        _item("a 2", "https://a/2", now - timedelta(hours=3), source="a"),
+        _item("a undated", "https://a/u", None, source="a"),
+    ]
+    b = [_item("b 1", "https://x/1", now, source="b")]
+    cat = _feeds_by_name(monkeypatch, {"b": b, "a": a})  # b is collected first, so its copy wins
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=10, max_per_feed=2)
+
+    assert [i["title"] for i in out["items"]] == ["b 1", "a 1", "a 2"]  # dropped items did not use a's 2 slots
+
+
+def test_build_category_per_feed_cap_applies_after_the_keyword_filter(monkeypatch):
+    now = datetime.now(UTC)
+    # the 10 newest posts do not match the include keyword; they must not take the feed's slots
+    a = [_item(f"ev news {i}", f"https://a/n{i}", now - timedelta(minutes=i), source="a") for i in range(10)]
+    a += [_item(f"robot {i}", f"https://a/r{i}", now - timedelta(days=1, minutes=i), source="a") for i in range(3)]
+    cat = _feeds_by_name(monkeypatch, {"a": a})
+    cat["include_keywords"] = ["robot"]
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=10, max_per_feed=2)
+
+    assert [i["title"] for i in out["items"]] == ["robot 0", "robot 1"]
+
+
+def test_build_category_per_feed_cap_keeps_the_newest_of_an_oldest_first_feed(monkeypatch):
+    now = datetime.now(UTC)
+    # the feed lists its oldest post first and an undated one before everything
+    a = [_item("undated", "https://a/u", None, source="a")]
+    a += [_item(f"o{i}", f"https://a/{i}", now - timedelta(hours=12 - i), source="a") for i in range(12)]
+    cat = _feeds_by_name(monkeypatch, {"a": a})
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=10, max_per_feed=4)
+
+    assert [i["title"] for i in out["items"]] == ["o11", "o10", "o9", "o8"]
+
+
+def test_build_category_feeds_with_the_same_name_share_the_cap(monkeypatch):
+    now = datetime.now(UTC)
+
+    def posts(feed, offset):
+        when = [now - timedelta(hours=2 * i + offset) for i in range(6)]
+        return [_item(f"{feed} {i}", f"https://{feed}/{i}", dt, "Same") for i, dt in enumerate(when)]
+
+    by_url = {"https://one": posts("one", 0), "https://two": posts("two", 1)}
+    monkeypatch.setattr(aggregate, "collect_feed", lambda name, url, tz=UTC: by_url[url])
+    cat = {"key": "k", "label": "L", "feeds": [{"name": "Same", "url": u} for u in by_url]}
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=40, max_per_feed=8)
+
+    # counted by source name, as the dashboard shows it: 8 in total, the newest 8 of both feeds
+    assert [i["title"] for i in out["items"]] == [f"{f} {i}" for i in range(4) for f in ("one", "two")]
+
+
+@pytest.mark.usefixtures("restore_socket_timeout")
+@pytest.mark.parametrize(("config_value", "expected"), [(None, 8), (3, 3)])
+def test_main_passes_max_items_per_feed(tmp_path, monkeypatch, config_value, expected):
+    seen = []
+
+    def fake_build(cat, max_age_days, max_items, max_per_feed=None):
+        seen.append(max_per_feed)
+        return {"key": cat["key"], "label": cat["label"], "count": 1, "items": []}
+
+    monkeypatch.setattr(aggregate, "build_category", fake_build)
+    config = {"categories": [{"key": "k", "label": "L", "feeds": []}]}
+    if config_value is not None:
+        config["max_items_per_feed"] = config_value
+
+    _run_main(tmp_path, monkeypatch, config)
+
+    assert seen == [expected]
