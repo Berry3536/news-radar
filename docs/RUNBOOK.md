@@ -17,7 +17,7 @@ git diff --check
 ```
 
 CI(`ci.yml`)는 `git diff --check` 대신 `uv run python -m py_compile aggregate.py`를 더해 develop·master push와 PR마다 돈다.
-테스트는 네트워크를 쓰지 않는다. 실제 수집과 화면 확인:
+테스트는 외부 네트워크를 쓰지 않는다(피드 타임아웃 테스트는 127.0.0.1의 가짜 서버를 쓴다). 실제 수집과 화면 확인:
 
 ```powershell
 uv run python aggregate.py        # data.json 생성(네트워크 필요), 피드별 [OK]/[FAIL] 로그

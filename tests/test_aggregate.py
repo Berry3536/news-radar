@@ -1,5 +1,9 @@
-"""Unit tests for the pure helpers in aggregate.py (no network)."""
+"""Unit tests for the pure helpers in aggregate.py (no external network)."""
 
+import json
+import socket
+import threading
+import time
 from datetime import UTC, datetime, timedelta, timezone
 
 import pytest
@@ -243,6 +247,125 @@ def test_build_category_dedups_items_with_dropped_links_by_title():
 
     # Empty link → the key is the lowercased title (RULE7): same title collapses, same unsafe link does not.
     assert [(i["title"], i["link"]) for i in out["items"]] == [("Same title", ""), ("Other title", "")]
+
+
+# --- feed timeout: collect_feed / build_category / main (DEFECT4, fake server on 127.0.0.1) ---
+
+FEED_TIMEOUT = 0.5  # seconds; stands in for feeds.json feed_timeout_seconds
+TIME_BOUND = 5  # a timed-out feed must give up well within this many seconds
+SILENT_HOLD = 10  # the fake server drops a connection after this, so a missing timeout fails instead of hanging
+
+RSS_UNDATED = """<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>t</title><link>https://example.com/</link><description>d</description>
+<item><title>still here</title><link>https://example.com/ok</link></item>
+</channel></rss>
+"""
+
+
+@pytest.fixture
+def restore_socket_timeout():
+    saved = socket.getdefaulttimeout()
+    yield
+    socket.setdefaulttimeout(saved)
+
+
+@pytest.fixture
+def silent_server():
+    """host:port of a server on 127.0.0.1 that accepts connections and never answers."""
+    server = socket.create_server(("127.0.0.1", 0))
+    server.settimeout(0.05)
+    stop = threading.Event()
+
+    def serve():
+        held = []
+        while not stop.is_set():
+            try:
+                held.append((time.monotonic() + SILENT_HOLD, server.accept()[0]))
+            except TimeoutError:
+                pass
+            for drop_at, conn in held:
+                if time.monotonic() > drop_at:
+                    conn.close()
+        for _, conn in held:
+            conn.close()
+        server.close()
+
+    thread = threading.Thread(target=serve, daemon=True)
+    thread.start()
+    yield f"127.0.0.1:{server.getsockname()[1]}"
+    stop.set()
+    thread.join()
+
+
+@pytest.mark.usefixtures("restore_socket_timeout")
+@pytest.mark.parametrize("scheme", ["http", "https"])  # http: waiting for the response; https: the TLS handshake
+def test_collect_feed_times_out_on_silent_server(silent_server, scheme):
+    socket.setdefaulttimeout(FEED_TIMEOUT)
+    start = time.monotonic()
+    # http raises TimeoutError; https comes back from feedparser as bozo with no entries (RuntimeError).
+    with pytest.raises((TimeoutError, RuntimeError), match="timed out"):
+        aggregate.collect_feed("silent", f"{scheme}://{silent_server}/feed")
+    assert time.monotonic() - start < TIME_BOUND
+
+
+@pytest.mark.usefixtures("restore_socket_timeout")
+def test_build_category_skips_a_feed_that_never_answers(silent_server, capsys):
+    socket.setdefaulttimeout(FEED_TIMEOUT)
+    cat = {
+        "key": "robot",
+        "label": "로봇",
+        "feeds": [
+            {"name": "silent", "url": f"http://{silent_server}/feed"},
+            {"name": "ok", "url": RSS_UNDATED},  # feedparser takes the document itself: no network
+        ],
+    }
+
+    start = time.monotonic()
+    out = aggregate.build_category(cat, max_age_days=14, max_items=10)
+
+    assert time.monotonic() - start < TIME_BOUND
+    assert [i["title"] for i in out["items"]] == ["still here"]
+    err = capsys.readouterr().err
+    assert "[FAIL] robot / silent: timed out" in err and "[OK]   robot / ok: 1 entries" in err
+
+
+def _run_main(tmp_path, monkeypatch, config):
+    (tmp_path / "feeds.json").write_text(json.dumps(config), encoding="utf-8")
+    monkeypatch.setattr(aggregate, "CONFIG_PATH", str(tmp_path / "feeds.json"))
+    monkeypatch.setattr(aggregate, "OUTPUT_PATH", str(tmp_path / "data.json"))
+    return aggregate.main()
+
+
+@pytest.mark.usefixtures("restore_socket_timeout")
+def test_main_applies_feed_timeout_seconds(tmp_path, monkeypatch, silent_server, capsys):
+    feeds = [{"name": "silent", "url": f"http://{silent_server}/feed"}, {"name": "ok", "url": RSS_UNDATED}]
+    config = {"feed_timeout_seconds": FEED_TIMEOUT, "categories": [{"key": "ai", "label": "AI", "feeds": feeds}]}
+
+    start = time.monotonic()
+    assert _run_main(tmp_path, monkeypatch, config) == 0
+
+    assert time.monotonic() - start < TIME_BOUND
+    assert socket.getdefaulttimeout() == FEED_TIMEOUT
+    data = json.loads((tmp_path / "data.json").read_text(encoding="utf-8"))
+    assert [i["title"] for i in data["categories"][0]["items"]] == ["still here"]
+    assert "[FAIL] ai / silent: timed out" in capsys.readouterr().err
+
+
+@pytest.mark.usefixtures("restore_socket_timeout")
+def test_main_defaults_feed_timeout_to_30_seconds(tmp_path, monkeypatch):
+    _run_main(tmp_path, monkeypatch, {"categories": []})
+    assert socket.getdefaulttimeout() == 30
+
+
+@pytest.mark.usefixtures("restore_socket_timeout")
+@pytest.mark.parametrize("value", [0, -1])
+def test_main_rejects_non_positive_feed_timeout(tmp_path, monkeypatch, capsys, value):
+    # 0 would make every socket non-blocking and fail every feed, not disable the timeout.
+    before = socket.getdefaulttimeout()
+    assert _run_main(tmp_path, monkeypatch, {"feed_timeout_seconds": value, "categories": []}) == 1
+    assert socket.getdefaulttimeout() == before
+    assert not (tmp_path / "data.json").exists()
+    assert "[ERROR] feed_timeout_seconds" in capsys.readouterr().err
 
 
 # --- clean_text / dedup_key -------------------------------------------------------------
