@@ -5,42 +5,62 @@
   "feed_timeout_seconds": 30,
   "categories": [
     {
-      "key": "ev",
-      "label": "전기차",
+      "key": "ai",
+      "label": "AI",
       "include_keywords": [],
       "exclude_keywords": [],
       "feeds": [
-        { "name": "Electrek", "url": "https://electrek.co/feed/" },
-        { "name": "InsideEVs", "url": "https://insideevs.com/rss/articles/all/" },
-        { "name": "모터그래프", "url": "https://www.motorgraph.com/rss/allArticle.xml", "tz": "+09:00" }
+        { "name": "The Decoder", "url": "https://the-decoder.com/feed/" },
+        { "name": "TechCrunch", "url": "https://techcrunch.com/category/artificial-intelligence/feed/" },
+        { "name": "MIT Technology Review", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed" },
+        { "name": "AI타임스", "url": "https://www.aitimes.com/rss/allArticle.xml", "tz": "+09:00" },
+        { "name": "인공지능신문", "url": "https://www.aitimes.kr/rss/allArticle.xml", "tz": "+09:00" }
+      ]
+    },
+    {
+      "key": "semiconductor",
+      "label": "반도체",
+      "include_keywords": [],
+      "exclude_keywords": [],
+      "feeds": [
+        { "name": "Semiconductor Engineering", "url": "https://semiengineering.com/feed/" },
+        { "name": "EE Times", "url": "https://www.eetimes.com/feed/" },
+        { "name": "Tom's Hardware", "url": "https://www.tomshardware.com/feeds/tag/semiconductors" },
+        { "name": "디일렉", "url": "https://www.thelec.kr/rss/S1N2.xml", "tz": "+09:00" },
+        { "name": "테크월드", "url": "https://www.epnc.co.kr/rss/S1N31.xml", "tz": "+09:00" }
+      ]
+    },
+    {
+      "key": "auto",
+      "label": "자동차",
+      "include_keywords": [],
+      "exclude_keywords": [],
+      "feeds": [
+        { "name": "Electrive", "url": "https://www.electrive.com/feed/" },
+        { "name": "Just Auto", "url": "https://www.just-auto.com/feed/" },
+        { "name": "TechCrunch", "url": "https://techcrunch.com/category/transportation/feed/" },
+        { "name": "모터그래프", "url": "https://www.motorgraph.com/rss/allArticle.xml", "tz": "+09:00" },
+        { "name": "전자신문", "url": "https://rss.etnews.com/17.xml" },
+        { "name": "ICCT", "url": "https://theicct.org/feed/" }
       ]
     },
     {
       "key": "battery",
       "label": "배터리",
       "include_keywords": [
-        "battery", "batteries", "cell", "lithium", "lfp", "solid-state", "anode", "cathode",
-        "배터리", "전지", "이차전지", "리튬", "양극재", "음극재", "전해질", "전고체"
+        "battery", "batteries", "lithium", "lfp", "nmc", "sodium-ion", "solid-state", "anode", "cathode",
+        "electrolyte", "energy storage", "bess", "gigafactory", "catl", "gwh", "mwh",
+        "배터리", "이차전지", "2차전지", "축전지", "리튬", "양극재", "음극재", "전해질", "전해액", "분리막", "전고체",
+        "나트륨", "에너지저장", "lg에너지솔루션", "lg엔솔", "삼성sdi", "sk온", "에코프로", "포스코퓨처엠", "엘앤에프"
       ],
       "exclude_keywords": [],
       "feeds": [
-        { "name": "Electrek", "url": "https://electrek.co/feed/" },
-        { "name": "CleanTechnica", "url": "https://cleantechnica.com/feed/" },
-        { "name": "InsideEVs", "url": "https://insideevs.com/rss/articles/all/" }
-      ]
-    },
-    {
-      "key": "motor",
-      "label": "모터",
-      "include_keywords": [
-        "motor", "traction", "inverter", "winding", "drivetrain", "powertrain",
-        "모터", "전동기", "구동", "견인", "traction", "인버터", "권선"
-      ],
-      "exclude_keywords": [],
-      "feeds": [
-        { "name": "Electrek", "url": "https://electrek.co/feed/" },
-        { "name": "InsideEVs", "url": "https://insideevs.com/rss/articles/all/" },
-        { "name": "모터그래프", "url": "https://www.motorgraph.com/rss/allArticle.xml", "tz": "+09:00" }
+        { "name": "Energy-Storage.news", "url": "https://www.energy-storage.news/feed/" },
+        { "name": "Electrive", "url": "https://www.electrive.com/category/battery-fuel-cell/feed/" },
+        { "name": "CleanTechnica", "url": "https://cleantechnica.com/category/clean-transport-2/batteries/feed/" },
+        { "name": "ESS News", "url": "https://www.ess-news.com/feed/" },
+        { "name": "더구루", "url": "https://www.theguru.co.kr/data/rss/news.xml", "tz": "+09:00" },
+        { "name": "디일렉", "url": "https://www.thelec.kr/rss/allArticle.xml", "tz": "+09:00" }
       ]
     },
     {
@@ -51,18 +71,9 @@
       "feeds": [
         { "name": "IEEE Spectrum", "url": "https://spectrum.ieee.org/feeds/topic/robotics.rss" },
         { "name": "The Robot Report", "url": "https://www.therobotreport.com/feed/" },
-        { "name": "로봇신문", "url": "http://www.irobotnews.com/rss/allArticle.xml", "tz": "+09:00" }
-      ]
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "include_keywords": [],
-      "exclude_keywords": [],
-      "feeds": [
-        { "name": "arXiv cs.AI", "url": "http://export.arxiv.org/rss/cs.AI" },
-        { "name": "arXiv cs.LG", "url": "http://export.arxiv.org/rss/cs.LG" },
-        { "name": "AI타임스", "url": "https://www.aitimes.com/rss/allArticle.xml", "tz": "+09:00" }
+        { "name": "로봇신문", "url": "https://www.irobotnews.com/rss/allArticle.xml", "tz": "+09:00" },
+        { "name": "TechCrunch", "url": "https://techcrunch.com/category/robotics/feed/" },
+        { "name": "Robohub", "url": "https://robohub.org/feed/" }
       ]
     }
   ]
