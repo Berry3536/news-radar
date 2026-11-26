@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-News Radar: serverless personal dashboard. A scheduled GitHub Actions run (`update.yml`)
+Tech Note (repo `news-radar`): serverless personal dashboard. A scheduled GitHub Actions run (`update.yml`)
 executes `aggregate.py` (feedparser) over `feeds.json`, then force-pushes `index.html` +
 `data.json` as a single commit to the `gh-pages` branch, which GitHub Pages serves.
 Public repository — never commit anything private (RULE12).

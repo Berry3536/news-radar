@@ -111,7 +111,7 @@ gh workflow run update.yml --repo Berry3536/news-radar --ref master
 | QA | 확인 | 통과 기준 |
 |---|---|---|
 | QA1 | `master`로 수동 실행 1회(`gh workflow run update.yml --repo Berry3536/news-radar --ref master`) | run 성공, 로그 `[FAIL]` 0(있으면 원인 기록), `[DONE] 총 N건`의 N > 0 |
-| QA2 | Pages 대시보드 | pages-build-deployment 성공, 카테고리 칩 5개, "last sync"가 QA1 실행 시각이고 배포본 `data.json`의 `generated_at`(UTC)과 분 단위까지 같다, 검색어 입력 시 목록이 줄어든다 |
+| QA2 | Pages 대시보드 | pages-build-deployment 성공, 제목 "테크 노트", 카테고리 칩 5개("전체" 제외), 짙은 칸의 "LAST SYNC"가 QA1 실행 시각이고 배포본 `data.json`의 `generated_at`(UTC)과 분 단위까지 같다, 검색어 입력 시 목록이 줄어들고 결과가 없으면 안내만 남는다, 개발자 도구 Network에 `data.json` 말고 외부 요청이 없다 |
 | QA3 | `feeds.json`을 바꾼 릴리스만 | 새·바뀐 피드가 QA1 로그에 `[OK]`이고 entry가 0이 아니다 |
 | QA4 | 배포본 `data.json` | 카테고리마다 출처(`source`)별 건수가 `max_items_per_feed` 이하, 카테고리 건수가 `max_items_per_category` 이하(RULE8) |
 

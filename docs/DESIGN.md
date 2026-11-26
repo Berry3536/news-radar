@@ -2,9 +2,9 @@
 
 ## 목적과 범위
 
-AI · 반도체 · 자동차(전기차·자율주행·내연기관·국제 규제) · 배터리 · 로봇 분야의 RSS를 **GitHub Actions가 주기적으로 수집**해 **GitHub Pages**가 정적 페이지로
-보여 주는 **무료 · 서버리스** 개인용 대시보드(https://berry3536.github.io/news-radar/). 백엔드/DB가 없으며, 운영은
-`feeds.json` 한 파일만 고치면 된다(RULE3).
+**테크 노트**(Tech Note, 저장소 `news-radar`)는 AI · 반도체 · 자동차(전기차·자율주행·내연기관·국제 규제) · 배터리 · 로봇 분야의 RSS를
+**GitHub Actions가 주기적으로 수집**해 **GitHub Pages**가 정적 페이지로 보여 주는 **무료 · 서버리스** 개인용 대시보드
+(https://berry3536.github.io/news-radar/). 백엔드/DB가 없으며, 운영은 `feeds.json` 한 파일만 고치면 된다(RULE3).
 
 범위 밖: RSS/Atom이 없는 소스(RULE13), 정시 수집 보장(RULE14), 서버·DB·과거 수집 이력(RULE15).
 
@@ -17,7 +17,7 @@ AI · 반도체 · 자동차(전기차·자율주행·내연기관·국제 규�
 |---|---|
 | `feeds.json` | 카테고리·피드·키워드 필터·한도 설정. 정상 운영에서 고치는 유일한 파일(RULE3) |
 | `aggregate.py` | 수집기(Python 3.13, `feedparser`, RULE9). 피드 단위 실패 격리, `[OK]`/`[FAIL]` 로그(RULE4) |
-| `index.html` | 단일 파일 대시보드, 외부 JS 없음(RULE10). 카테고리 칩·검색·상대 시각 표시 |
+| `index.html` | 단일 파일 대시보드(인라인 CSS·JS, 외부 JS·글꼴 없음, RULE10). 화면은 아래 "화면" |
 | `data.json` | 수집 결과. 로컬에서 생성되고 git이 추적하지 않는다. 배포본은 `gh-pages` 브랜치에만(RULE1) |
 | `pyproject.toml` / `uv.lock` / `.python-version` | 의존성(`feedparser`, 개발용 pytest·ruff), uv로 잠금, Python 3.13 |
 | `tests/test_aggregate.py` | `aggregate.py` 단위 테스트(외부 네트워크 없음. 피드 타임아웃은 127.0.0.1의 응답 없는 가짜 서버로) |
@@ -25,6 +25,16 @@ AI · 반도체 · 자동차(전기차·자율주행·내연기관·국제 규�
 | `.github/workflows/ci.yml` | ruff · `py_compile` · pytest · `feeds.json` 형식 검사(`aggregate.py --check`, RULE17). 공개 레포라 단독 CI(RULE12) |
 | `.github/workflows/dependabot-merge.yml` | Dependabot patch/minor PR 자동 머지(stark-kit 생성물) |
 | `README.md` | 사람용 소개와 빠른 시작 |
+
+**화면**(`index.html`). 위에서부터 머리표(`TECH NOTE · RSS DIGEST`), 제목 "테크 노트", 가는 회색 선, 부제, 분야 칩("전체"와
+카테고리마다 건수)과 검색 칸(제목·출처). 그 오른쪽(좁은 화면에서는 부제 아래)의 짙은 칸 하나에 "LAST SYNC"(`generated_at`을
+UTC로, DEFECT1)와 전체 건수. 본문은 카테고리마다 열 하나로, 머리에 `data.json` 순서의 번호(01~)·이름·보이는 건수, 항목마다
+제목(`http(s)` 링크만 링크로, RULE11)·출처·상대 시각(마우스를 올리면 브라우저 시간대의 발행 시각). 칩 하나를 고르면 그 열이
+화면 폭을 쓰고 항목이 여러 열로 놓인다. 불러오는 중·전체 0건·검색 결과 없음은 회색 안내 칸, 불러오기 실패는 검은 테두리 안내 칸.
+
+디자인 언어: 흰 바탕, 글자 `#1A1A1A`·`#2B2B2B`, 보조 글자 `#6B6B6B`·`#767676`(흰 바탕 대비 4.5:1 이상), 선 `#D6D6D6`·`#EBEBEB`,
+반경 4px. 색은 포인트색 `#D98A1E` 하나로, 6시간 안의 기사 표시(굵은 시각 앞 작은 네모)에만 쓴다. 짙은 칸(`#1A1A1A`)은 수집 상태
+하나뿐. 글꼴은 시스템 한글 글꼴(맑은 고딕 등), 숫자와 영문 머리표는 Arial. 넓은 화면에서 세 열, 좁아지면 두 열·한 열이 된다.
 
 ## 데이터와 흐름
 
@@ -78,7 +88,7 @@ AI · 반도체 · 자동차(전기차·자율주행·내연기관·국제 규�
 또는 `null`). 요약은 필터에만 쓰고 내보내지 않는다. 대시보드는 `link`가 `http://`·`https://`로 시작할 때만 제목을 링크로 그린다.
 
 외부 경계: 피드 사이트(HTTP, 실패는 피드 단위로 격리), GitHub Actions(예약 실행, `GITHUB_TOKEN`으로 `gh-pages` push),
-GitHub Pages(정적 서빙), Google Fonts(대시보드 글꼴 스타일시트).
+GitHub Pages(정적 서빙). 대시보드는 `data.json` 말고 외부에 요청하지 않는다(RULE10).
 
 ## 오류 모델
 
@@ -92,7 +102,7 @@ GitHub Pages(정적 서빙), Google Fonts(대시보드 글꼴 스타일시트).
 | 수집 결과가 전체 0건(피드가 모두 실패, 필터가 전부 걸러냄, 카테고리 없음) | `[ERROR]` 후 `data.json`을 쓰지 않고 종료 코드 1 → 배포 단계를 건너뛰어 직전 배포본이 남는다(RULE16). 카테고리 하나만 0건이면 그대로 게시 | Actions run 실패, run 로그 `[ERROR] 수집된 항목이 0건...`. 대시보드는 직전 배포본("last sync"가 멈춤) |
 | 항목의 날짜를 해석할 수 없음(피드 `tz`로 옮기면 날짜 범위를 넘는 시각 포함) | 그 항목만 날짜 미상으로 유지, 정렬 맨 뒤(RULE6). 피드는 계속(RULE4) | 대시보드 "날짜 미상" |
 | 항목 링크가 `http`/`https` 절대 URL이 아님(`javascript:` 같은 다른 스킴, 기준 URL 없이 남은 상대 링크, URL로 나눌 수 없음) | 항목은 남기고 링크만 빈 문자열로 내보낸다. 중복 키는 제목(RULE7). 대시보드도 `http(s)://`로 시작하지 않는 링크는 `href`에 넣지 않는다(RULE11) | 대시보드에서 그 항목 제목이 링크 없는 글자로 보인다. 로그에는 남지 않는다 |
-| 대시보드가 `data.json`을 못 받음 | 오류 안내(HTTP 상태 포함) | 대시보드 붉은 안내 문구 |
+| 대시보드가 `data.json`을 못 받음 | 오류 안내(HTTP 상태 포함) | 대시보드 검은 테두리 안내 칸 |
 
 수집은 피드 단위로 fail-open(RULE4), 설정 오류(읽기·파싱 실패, 형식 오류, RULE17)와 전체 0건은 배포 쪽으로 fail-closed(직전
 배포본 유지, RULE16)다. 형식 검사는 형식과 값의 범위만 본다: 형식이 맞는 URL이 죽었거나 RSS가 아니면 수집 때 그 피드만
