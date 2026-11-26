@@ -117,7 +117,7 @@ gh workflow run update.yml --repo Berry3536/news-radar --ref master
 
 | 버전 | 날짜 | 상태 | 내용 |
 |---|---|---|---|
-| v1.2.0 | 2026-11-26 | draft | GATE1 목표 릴리스: 카테고리 AI·반도체·자동차·배터리·로봇 5개와 피드 27개(GATE1-T10), 피드별 상한 8(RULE8, GATE1-T9), 피드 타임아웃 30초·job 15분(DEFECT4), http(s) 링크만(DEFECT5), 전체 0건이면 배포하지 않음(RULE16), master 실행만 배포(GATE1-T8), 범위를 넘는 날짜는 그 항목만 날짜 미상(DEFECT7) |
+| v1.2.0 | 2026-11-26 | published | GATE1 목표 릴리스: 카테고리 AI·반도체·자동차·배터리·로봇 5개와 피드 27개(GATE1-T10), 피드별 상한 8(RULE8, GATE1-T9), 피드 타임아웃 30초·job 15분(DEFECT4), http(s) 링크만(DEFECT5), 전체 0건이면 배포하지 않음(RULE16), master 실행만 배포(GATE1-T8), 범위를 넘는 날짜는 그 항목만 날짜 미상(DEFECT7) |
 | v1.1.0 | 2026-11-24 | published | GATE1 중간 릴리스: 국내 피드 기사 누락(DEFECT2)과 발행 시각 9시간 오차(DEFECT3), "last sync" UTC 표시(DEFECT1), 공용 규약 문서 예시 정리(DEFECT6). Dependabot은 Python 패키지 월 1회. 남은 GATE1 티켓은 v1.2.0 |
 | v1.0.1 | 2026-11-03 | published | 정비 릴리스: 수집 로직 테스트 16개, Dependabot 자동 머지 워크플로, 개발 도구 갱신(setup-uv 10.3.3, ruff 0.17.3, pytest 9.2.0). 대시보드·수집 방식은 v1.0.0과 같다 |
 | v1.0.0 | 2026-10-14 | 태그만(GitHub Release 없음) | 첫 릴리스: `gh-pages` 배포 전환(RULE1·RULE2), uv·단독 CI, stark-kit 도입 |
