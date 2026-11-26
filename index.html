@@ -173,7 +173,7 @@
   .item:hover { background: rgba(54,226,180,0.05); border-left-color: var(--accent); }
   .item + .item { margin-top: 2px; }
 
-  .item a {
+  .item a, .item .item-title {
     color: var(--text);
     text-decoration: none;
     font-size: 13.5px;
@@ -218,7 +218,7 @@
   <header>
     <div class="title-row">
       <h1>기술뉴스 레이더<span class="blink"></span></h1>
-      <span class="subtitle">EV · Battery · Motor · Robotics · AI</span>
+      <span class="subtitle">AI · Semiconductor · Automotive · Battery · Robotics</span>
     </div>
     <div class="meta-bar">
       <span>last sync: <b id="genTime">—</b></span>
@@ -261,6 +261,12 @@ function esc(s) {
     .replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;")
     .replace(/'/g, "&#39;");
+}
+
+// --- 링크 스킴 검사: http(s)만 href로 (RULE11) ---
+// esc()는 javascript:·data: 같은 스킴을 막지 못한다. 수집기도 걸러 내지만 data.json만 믿지 않는다.
+function isWebLink(s) {
+  return typeof s === "string" && /^https?:\/\//i.test(s);
 }
 
 // --- 상대시간 ---
@@ -362,10 +368,11 @@ function renderGrid() {
       body = '<ul class="items">';
       items.forEach(function (it) {
         var rt = relativeTime(it.published);
-        var link = it.link ? esc(it.link) : "#";
-        body += '<li class="item">' +
-          '<a href="' + link + '" target="_blank" rel="noopener noreferrer">' +
-            esc(it.title || "(제목 없음)") + '</a>' +
+        var title = esc(it.title || "(제목 없음)");
+        var head = isWebLink(it.link)
+          ? '<a href="' + esc(it.link) + '" target="_blank" rel="noopener noreferrer">' + title + '</a>'
+          : '<span class="item-title">' + title + '</span>';
+        body += '<li class="item">' + head +
           '<div class="item-meta">' +
             '<span class="src">' + esc(it.source || "") + '</span>' +
             '<span class="time' + (rt.fresh ? " fresh" : "") + '" title="' +

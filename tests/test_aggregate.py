@@ -1,7 +1,12 @@
-"""Unit tests for the pure helpers in aggregate.py (no network)."""
+"""Unit tests for the pure helpers in aggregate.py (no external network)."""
 
+import json
+import socket
+import threading
+import time
 from datetime import UTC, datetime, timedelta, timezone
 
+import feedparser
 import pytest
 
 import aggregate
@@ -33,6 +38,23 @@ def test_parse_date_survives_overflowing_raw_string():
     # A huge offset makes email.utils raise OverflowError; one such item must not fail the feed (RULE4).
     raw = "2026 Nov 21 11:51:51 +99999999999999999999"
     assert aggregate.parse_date({"published": raw}) is None
+
+
+@pytest.mark.parametrize(
+    ("tz", "raw"),
+    [("+09:00", "0001-01-01 00:00:00"), ("-05:00", "9999-12-31 23:59:59")],
+)
+def test_collect_feed_keeps_the_feed_when_a_date_leaves_the_range_in_its_tz(tz, raw):
+    # Moving these naive times into UTC leaves datetime's range (DEFECT7): that item is undated, the feed still works.
+    rss = (
+        '<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>t</title>'
+        f"<item><title>edge</title><link>https://example.com/e</link><pubDate>{raw}</pubDate></item>"
+        "<item><title>normal</title><link>https://example.com/n</link><pubDate>2026-11-21 11:51:51</pubDate></item>"
+        "</channel></rss>"
+    )
+    items = {it["title"]: it["dt"] for it in aggregate.collect_feed("K", rss, aggregate.parse_tz(tz))}
+    assert items["edge"] is None
+    assert items["normal"] is not None and items["normal"].utcoffset() == timedelta(0)
     st = (2026, 11, 21, 2, 0, 0, 0, 0, 0)
     assert aggregate.parse_date({"published": raw, "published_parsed": st}) == datetime(
         2026, 11, 21, 2, 0, 0, tzinfo=UTC
@@ -157,6 +179,294 @@ def test_build_category_skips_only_the_feed_with_invalid_tz(monkeypatch, capsys)
     assert "[FAIL] robot / A: " in err and "'KST'" in err
 
 
+# --- link scheme: safe_link / collect_feed / build_category (RULE11) ---------------------
+
+
+@pytest.mark.parametrize(
+    ("link", "expected"),
+    [
+        ("http://example.com/a?idxno=1", "http://example.com/a?idxno=1"),
+        ("https://example.com/b", "https://example.com/b"),
+        ("  HTTPS://Example.com/c \n", "HTTPS://Example.com/c"),  # scheme case-insensitive, outer whitespace stripped
+        ("javascript:alert(1)", ""),
+        (" JaVaScRiPt:alert(1) ", ""),
+        ("java\tscript:alert(1)", ""),  # browsers drop the tab too
+        ("ht\ttps://example.com/t", ""),  # urlsplit drops the tab; the dashboard would not link it
+        ("\x00https://example.com/z", ""),  # leading control char: same, matches isWebLink
+        ("vbscript:msgbox(1)", ""),
+        ("data:text/html,<script>alert(1)</script>", ""),
+        ("ftp://example.com/f", ""),
+        ("mailto:a@example.com", ""),
+        ("/news/1", ""),
+        ("//example.com/news/2", ""),
+        ("https:example.com", ""),  # no "://"
+        ("https:///x", ""),  # "://" but no host
+        ("http://?q=1", ""),  # "://" but no host
+        ("http://[::1/a", ""),  # urlsplit raises ValueError
+        ("", ""),
+        ("   ", ""),
+    ],
+)
+def test_safe_link(link, expected):
+    assert aggregate.safe_link(link) == expected
+
+
+RSS_LINK_SCHEMES = """<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>t</title><link>https://example.com/</link><description>d</description>
+<item><title>js</title><link>javascript:alert(1)</link></item>
+<item><title>js-mixed-case</title><link> JaVaScRiPt:alert(document.cookie) </link></item>
+<item><title>vbs</title><link>vbscript:msgbox(1)</link></item>
+<item><title>data</title><link>data:text/html,&lt;script&gt;alert(1)&lt;/script&gt;</link></item>
+<item><title>relative</title><link>/news/1</link></item>
+<item><title>scheme-relative</title><link>//cdn.example.com/news/2</link></item>
+<item><title>http</title><link>http://example.com/a?idxno=1</link></item>
+<item><title>https</title><link>https://example.com/b</link></item>
+</channel></rss>
+"""
+
+
+def test_collect_feed_keeps_only_http_links():
+    # Passed as a document, the feed has no base URL: feedparser leaves relative links relative, so they are dropped.
+    links = {it["title"]: it["link"] for it in aggregate.collect_feed("T", RSS_LINK_SCHEMES)}
+    assert links == {
+        "js": "",
+        "js-mixed-case": "",
+        "vbs": "",
+        "data": "",
+        "relative": "",
+        "scheme-relative": "",
+        "http": "http://example.com/a?idxno=1",
+        "https": "https://example.com/b",
+    }
+
+
+def test_collect_feed_keeps_relative_links_that_feedparser_resolves():
+    # Fetched over HTTP, feedparser resolves relative links against the feed URL; xml:base stands in for it here.
+    rss = RSS_LINK_SCHEMES.replace(
+        '<rss version="2.0">', '<rss version="2.0" xml:base="https://feeds.example.org/rss/">'
+    )
+    links = {it["title"]: it["link"] for it in aggregate.collect_feed("T", rss)}
+    assert links["relative"] == "https://feeds.example.org/news/1"
+    assert links["scheme-relative"] == "https://cdn.example.com/news/2"
+    assert links["js"] == links["js-mixed-case"] == links["vbs"] == links["data"] == ""  # a base does not rescue them
+
+
+def test_build_category_dedups_items_with_dropped_links_by_title():
+    rss = """<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>t</title><link>https://example.com/</link><description>d</description>
+<item><title>Same title</title><link>javascript:alert(1)</link></item>
+<item><title>SAME TITLE</title><link>data:text/html,x</link></item>
+<item><title>Other title</title><link>javascript:alert(1)</link></item>
+</channel></rss>
+"""
+    cat = {"key": "k", "label": "L", "feeds": [{"name": "T", "url": rss}]}  # real collect_feed, document as url
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=10)
+
+    # Empty link → the key is the lowercased title (RULE7): same title collapses, same unsafe link does not.
+    assert [(i["title"], i["link"]) for i in out["items"]] == [("Same title", ""), ("Other title", "")]
+
+
+# --- malformed feed: the bozo rule in collect_feed / build_category (RULE4) -------------
+
+RSS_HEAD = """<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>t</title><link>https://example.com/</link><description>d</description>
+"""
+# Both documents are cut off (no closing tags), so neither is well-formed XML: feedparser sets bozo on both.
+RSS_CUT_BEFORE_ANY_ITEM = RSS_HEAD
+RSS_CUT_AFTER_ONE_ITEM = RSS_HEAD + "<item><title>kept anyway</title><link>https://example.com/1</link></item>\n"
+
+
+def test_collect_feed_fails_a_malformed_feed_only_when_it_has_no_entries():
+    assert feedparser.parse(RSS_CUT_BEFORE_ANY_ITEM).bozo and feedparser.parse(RSS_CUT_AFTER_ONE_ITEM).bozo
+
+    with pytest.raises(RuntimeError, match="^bozo: "):
+        aggregate.collect_feed("T", RSS_CUT_BEFORE_ANY_ITEM)
+
+    # bozo alone is not a failure: some working feeds come back with bozo=1
+    items = aggregate.collect_feed("T", RSS_CUT_AFTER_ONE_ITEM)
+    assert [(i["title"], i["link"]) for i in items] == [("kept anyway", "https://example.com/1")]
+
+
+def test_build_category_logs_fail_for_a_malformed_feed_without_entries(capsys):
+    feeds = [{"name": "broken", "url": RSS_CUT_BEFORE_ANY_ITEM}, {"name": "partial", "url": RSS_CUT_AFTER_ONE_ITEM}]
+    cat = {"key": "k", "label": "L", "feeds": feeds}  # real collect_feed, documents as urls
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=10)
+
+    assert [(i["title"], i["source"]) for i in out["items"]] == [("kept anyway", "partial")]
+    err = capsys.readouterr().err
+    assert "[FAIL] k / broken: bozo: " in err and "[OK]   k / partial: 1 entries" in err
+
+
+# --- feed timeout: collect_feed / build_category / main (DEFECT4, fake server on 127.0.0.1) ---
+
+FEED_TIMEOUT = 0.5  # seconds; stands in for feeds.json feed_timeout_seconds
+TIME_BOUND = 5  # a timed-out feed must give up well within this many seconds
+SILENT_HOLD = 10  # the fake server drops a connection after this, so a missing timeout fails instead of hanging
+
+RSS_UNDATED = """<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>t</title><link>https://example.com/</link><description>d</description>
+<item><title>still here</title><link>https://example.com/ok</link></item>
+</channel></rss>
+"""
+
+
+@pytest.fixture
+def restore_socket_timeout():
+    saved = socket.getdefaulttimeout()
+    yield
+    socket.setdefaulttimeout(saved)
+
+
+@pytest.fixture
+def silent_server():
+    """host:port of a server on 127.0.0.1 that accepts connections and never answers."""
+    server = socket.create_server(("127.0.0.1", 0))
+    server.settimeout(0.05)
+    stop = threading.Event()
+
+    def serve():
+        held = []
+        while not stop.is_set():
+            try:
+                held.append((time.monotonic() + SILENT_HOLD, server.accept()[0]))
+            except TimeoutError:
+                pass
+            for drop_at, conn in held:
+                if time.monotonic() > drop_at:
+                    conn.close()
+        for _, conn in held:
+            conn.close()
+        server.close()
+
+    thread = threading.Thread(target=serve, daemon=True)
+    thread.start()
+    yield f"127.0.0.1:{server.getsockname()[1]}"
+    stop.set()
+    thread.join()
+
+
+@pytest.mark.usefixtures("restore_socket_timeout")
+@pytest.mark.parametrize("scheme", ["http", "https"])  # http: waiting for the response; https: the TLS handshake
+def test_collect_feed_times_out_on_silent_server(silent_server, scheme):
+    socket.setdefaulttimeout(FEED_TIMEOUT)
+    start = time.monotonic()
+    # http raises TimeoutError; https comes back from feedparser as bozo with no entries (RuntimeError).
+    with pytest.raises((TimeoutError, RuntimeError), match="timed out"):
+        aggregate.collect_feed("silent", f"{scheme}://{silent_server}/feed")
+    assert time.monotonic() - start < TIME_BOUND
+
+
+@pytest.mark.usefixtures("restore_socket_timeout")
+def test_build_category_skips_a_feed_that_never_answers(silent_server, capsys):
+    socket.setdefaulttimeout(FEED_TIMEOUT)
+    cat = {
+        "key": "robot",
+        "label": "로봇",
+        "feeds": [
+            {"name": "silent", "url": f"http://{silent_server}/feed"},
+            {"name": "ok", "url": RSS_UNDATED},  # feedparser takes the document itself: no network
+        ],
+    }
+
+    start = time.monotonic()
+    out = aggregate.build_category(cat, max_age_days=14, max_items=10)
+
+    assert time.monotonic() - start < TIME_BOUND
+    assert [i["title"] for i in out["items"]] == ["still here"]
+    err = capsys.readouterr().err
+    assert "[FAIL] robot / silent: timed out" in err and "[OK]   robot / ok: 1 entries" in err
+
+
+def _run_main(tmp_path, monkeypatch, config):
+    (tmp_path / "feeds.json").write_text(json.dumps(config), encoding="utf-8")
+    monkeypatch.setattr(aggregate, "CONFIG_PATH", str(tmp_path / "feeds.json"))
+    monkeypatch.setattr(aggregate, "OUTPUT_PATH", str(tmp_path / "data.json"))
+    return aggregate.main()
+
+
+@pytest.mark.usefixtures("restore_socket_timeout")
+def test_main_applies_feed_timeout_seconds(tmp_path, monkeypatch, silent_server, capsys):
+    feeds = [{"name": "silent", "url": f"http://{silent_server}/feed"}, {"name": "ok", "url": RSS_UNDATED}]
+    config = {"feed_timeout_seconds": FEED_TIMEOUT, "categories": [{"key": "ai", "label": "AI", "feeds": feeds}]}
+
+    start = time.monotonic()
+    assert _run_main(tmp_path, monkeypatch, config) == 0
+
+    assert time.monotonic() - start < TIME_BOUND
+    assert socket.getdefaulttimeout() == FEED_TIMEOUT
+    data = json.loads((tmp_path / "data.json").read_text(encoding="utf-8"))
+    assert [i["title"] for i in data["categories"][0]["items"]] == ["still here"]
+    assert "[FAIL] ai / silent: timed out" in capsys.readouterr().err
+
+
+@pytest.mark.usefixtures("restore_socket_timeout")
+def test_main_defaults_feed_timeout_to_30_seconds(tmp_path, monkeypatch):
+    _run_main(tmp_path, monkeypatch, {"categories": []})
+    assert socket.getdefaulttimeout() == 30
+
+
+@pytest.mark.usefixtures("restore_socket_timeout")
+@pytest.mark.parametrize("value", [0, -1])
+def test_main_rejects_non_positive_feed_timeout(tmp_path, monkeypatch, capsys, value):
+    # 0 would make every socket non-blocking and fail every feed, not disable the timeout.
+    before = socket.getdefaulttimeout()
+    assert _run_main(tmp_path, monkeypatch, {"feed_timeout_seconds": value, "categories": []}) == 1
+    assert socket.getdefaulttimeout() == before
+    assert not (tmp_path / "data.json").exists()
+    assert "[ERROR] feed_timeout_seconds" in capsys.readouterr().err
+
+
+# --- zero items: nothing is published (RULE16) ------------------------------------------
+
+
+def _fail(name, url, tz=UTC):
+    raise RuntimeError("down")
+
+
+def _filtered_out(name, url, tz=UTC):
+    return [{"title": "x", "link": "https://example.com/x", "source": name, "summary": "", "dt": None}]
+
+
+@pytest.mark.usefixtures("restore_socket_timeout")
+@pytest.mark.parametrize(
+    ("collect", "categories"),
+    [
+        (_fail, [{"key": "ai", "label": "AI", "feeds": [{"name": "a", "url": "u1"}, {"name": "b", "url": "u2"}]}]),
+        (
+            _filtered_out,
+            [{"key": "ai", "label": "AI", "include_keywords": ["nomatch"], "feeds": [{"name": "a", "url": "u"}]}],
+        ),
+        (_fail, []),
+    ],
+    ids=["all-feeds-fail", "all-items-filtered", "no-categories"],
+)
+def test_main_publishes_nothing_when_zero_items(tmp_path, monkeypatch, capsys, collect, categories):
+    monkeypatch.setattr(aggregate, "collect_feed", collect)
+    (tmp_path / "data.json").write_text("previous", encoding="utf-8")  # stands in for a local leftover
+
+    assert _run_main(tmp_path, monkeypatch, {"categories": categories}) == 1
+
+    assert (tmp_path / "data.json").read_text(encoding="utf-8") == "previous"
+    assert "[ERROR] 수집된 항목이 0건" in capsys.readouterr().err
+
+
+@pytest.mark.usefixtures("restore_socket_timeout")
+def test_main_writes_data_json_when_any_item_is_collected(tmp_path, monkeypatch):
+    monkeypatch.setattr(aggregate, "collect_feed", _filtered_out)
+    categories = [
+        {"key": "ai", "label": "AI", "feeds": [{"name": "a", "url": "u"}]},
+        {"key": "robot", "label": "로봇", "include_keywords": ["nomatch"], "feeds": [{"name": "b", "url": "u"}]},
+    ]
+
+    assert _run_main(tmp_path, monkeypatch, {"categories": categories}) == 0
+
+    data = json.loads((tmp_path / "data.json").read_text(encoding="utf-8"))
+    # one empty category does not stop the run: both are published, the empty one with count 0
+    assert [(c["key"], c["count"]) for c in data["categories"]] == [("ai", 1), ("robot", 0)]
+
+
 # --- clean_text / dedup_key -------------------------------------------------------------
 
 
@@ -191,7 +501,7 @@ def test_dedup_key_uses_lowercased_title_without_link():
     assert aggregate.dedup_key("   ", "  Hello World ") == "hello world"
 
 
-# --- passes_filters ---------------------------------------------------------------------
+# --- keyword filter: passes_filters / build_category (RULE5) ----------------------------
 
 
 @pytest.mark.parametrize(
@@ -207,6 +517,28 @@ def test_dedup_key_uses_lowercased_title_without_link():
 )
 def test_passes_filters(text, include, exclude, expected):
     assert aggregate.passes_filters(text, include, exclude) is expected
+
+
+def test_build_category_matches_keywords_in_the_summary():
+    rss = """<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>t</title><link>https://example.com/</link><description>d</description>
+<item><title>Update</title><link>https://example.com/1</link><description>A new Battery plant</description></item>
+<item><title>Outlook</title><link>https://example.com/2</link><description>battery and crypto</description></item>
+<item><title>Weather</title><link>https://example.com/3</link><description>sunny</description></item>
+</channel></rss>
+"""
+    cat = {
+        "key": "k",
+        "label": "L",
+        "include_keywords": ["battery"],
+        "exclude_keywords": ["crypto"],
+        "feeds": [{"name": "T", "url": rss}],  # real collect_feed: the RSS <description> becomes the summary
+    }
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=10)
+
+    # The keywords are only in the summaries: include matches the first item, exclude drops the second.
+    assert [i["title"] for i in out["items"]] == ["Update"]
 
 
 # --- build_category (collect_feed replaced, no network) ---------------------------------
@@ -270,3 +602,119 @@ def test_build_category_keeps_articles_that_differ_only_in_query(monkeypatch):
     out = aggregate.build_category(cat, max_age_days=14, max_items=10)
 
     assert [i["title"] for i in out["items"]] == ["Robot 1", "Robot 2"]
+
+
+def _feeds_by_name(monkeypatch, feeds):
+    monkeypatch.setattr(aggregate, "collect_feed", lambda name, url, tz=UTC: feeds[name])
+    return {"key": "k", "label": "L", "feeds": [{"name": n, "url": f"https://{n}"} for n in feeds]}
+
+
+@pytest.mark.parametrize("order", [("older", "newer"), ("newer", "older")])
+def test_build_category_dedup_keeps_the_copy_from_the_feed_listed_first(monkeypatch, order):
+    now = datetime.now(UTC)
+    copies = {  # the same article in two feeds: equal dedup keys (RULE7)
+        "older": [_item("Story", "https://news.example/a/", now - timedelta(hours=3), source="older")],
+        "newer": [_item("Story", "https://news.example/a?utm_source=rss", now - timedelta(hours=1), source="newer")],
+    }
+    cat = _feeds_by_name(monkeypatch, {name: copies[name] for name in order})
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=10)
+
+    # the first collected copy stays, whether it is the older or the newer one
+    assert [i["source"] for i in out["items"]] == [order[0]]
+
+
+def test_build_category_caps_each_feed_before_the_category(monkeypatch):
+    now = datetime.now(UTC)
+    # "big" posts every 10 minutes, "small" every 2 days: without a per-feed cap "big" fills the category.
+    big = [_item(f"big {i}", f"https://big/{i}", now - timedelta(minutes=10 * i), source="big") for i in range(12)]
+    small = [_item(f"small {i}", f"https://s/{i}", now - timedelta(days=2 * i + 1), source="small") for i in range(3)]
+    cat = _feeds_by_name(monkeypatch, {"big": big, "small": small})
+
+    uncapped = aggregate.build_category(cat, max_age_days=14, max_items=10)
+    assert [i["source"] for i in uncapped["items"]] == ["big"] * 10
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=10, max_per_feed=4)
+    titles = [i["title"] for i in out["items"]]
+    assert titles == ["big 0", "big 1", "big 2", "big 3", "small 0", "small 1", "small 2"]  # newest first, 4 + 3
+
+    tight = aggregate.build_category(cat, max_age_days=14, max_items=5, max_per_feed=4)
+    assert [i["title"] for i in tight["items"]] == titles[:5]  # category cap applies after the per-feed cap
+
+
+def test_build_category_per_feed_cap_counts_only_kept_items(monkeypatch):
+    now = datetime.now(UTC)
+    a = [
+        _item("a dup", "https://x/1", now - timedelta(hours=1), source="a"),  # loses dedup to b's copy
+        _item("a 1", "https://a/1", now - timedelta(hours=2), source="a"),
+        _item("a old", "https://a/old", now - timedelta(days=30), source="a"),  # older than max_age_days
+        _item("a 2", "https://a/2", now - timedelta(hours=3), source="a"),
+        _item("a undated", "https://a/u", None, source="a"),
+    ]
+    b = [_item("b 1", "https://x/1", now, source="b")]
+    cat = _feeds_by_name(monkeypatch, {"b": b, "a": a})  # b is collected first, so its copy wins
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=10, max_per_feed=2)
+
+    assert [i["title"] for i in out["items"]] == ["b 1", "a 1", "a 2"]  # dropped items did not use a's 2 slots
+
+
+def test_build_category_per_feed_cap_applies_after_the_keyword_filter(monkeypatch):
+    now = datetime.now(UTC)
+    # the 10 newest posts do not match the include keyword; they must not take the feed's slots
+    a = [_item(f"ev news {i}", f"https://a/n{i}", now - timedelta(minutes=i), source="a") for i in range(10)]
+    a += [_item(f"robot {i}", f"https://a/r{i}", now - timedelta(days=1, minutes=i), source="a") for i in range(3)]
+    cat = _feeds_by_name(monkeypatch, {"a": a})
+    cat["include_keywords"] = ["robot"]
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=10, max_per_feed=2)
+
+    assert [i["title"] for i in out["items"]] == ["robot 0", "robot 1"]
+
+
+def test_build_category_per_feed_cap_keeps_the_newest_of_an_oldest_first_feed(monkeypatch):
+    now = datetime.now(UTC)
+    # the feed lists its oldest post first and an undated one before everything
+    a = [_item("undated", "https://a/u", None, source="a")]
+    a += [_item(f"o{i}", f"https://a/{i}", now - timedelta(hours=12 - i), source="a") for i in range(12)]
+    cat = _feeds_by_name(monkeypatch, {"a": a})
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=10, max_per_feed=4)
+
+    assert [i["title"] for i in out["items"]] == ["o11", "o10", "o9", "o8"]
+
+
+def test_build_category_feeds_with_the_same_name_share_the_cap(monkeypatch):
+    now = datetime.now(UTC)
+
+    def posts(feed, offset):
+        when = [now - timedelta(hours=2 * i + offset) for i in range(6)]
+        return [_item(f"{feed} {i}", f"https://{feed}/{i}", dt, "Same") for i, dt in enumerate(when)]
+
+    by_url = {"https://one": posts("one", 0), "https://two": posts("two", 1)}
+    monkeypatch.setattr(aggregate, "collect_feed", lambda name, url, tz=UTC: by_url[url])
+    cat = {"key": "k", "label": "L", "feeds": [{"name": "Same", "url": u} for u in by_url]}
+
+    out = aggregate.build_category(cat, max_age_days=14, max_items=40, max_per_feed=8)
+
+    # counted by source name, as the dashboard shows it: 8 in total, the newest 8 of both feeds
+    assert [i["title"] for i in out["items"]] == [f"{f} {i}" for i in range(4) for f in ("one", "two")]
+
+
+@pytest.mark.usefixtures("restore_socket_timeout")
+@pytest.mark.parametrize(("config_value", "expected"), [(None, 8), (3, 3)])
+def test_main_passes_max_items_per_feed(tmp_path, monkeypatch, config_value, expected):
+    seen = []
+
+    def fake_build(cat, max_age_days, max_items, max_per_feed=None):
+        seen.append(max_per_feed)
+        return {"key": cat["key"], "label": cat["label"], "count": 1, "items": []}
+
+    monkeypatch.setattr(aggregate, "build_category", fake_build)
+    config = {"categories": [{"key": "k", "label": "L", "feeds": []}]}
+    if config_value is not None:
+        config["max_items_per_feed"] = config_value
+
+    _run_main(tmp_path, monkeypatch, config)
+
+    assert seen == [expected]

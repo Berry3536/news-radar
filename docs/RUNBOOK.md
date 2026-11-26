@@ -17,7 +17,7 @@ git diff --check
 ```
 
 CI(`ci.yml`)는 `git diff --check` 대신 `uv run python -m py_compile aggregate.py`를 더해 develop·master push와 PR마다 돈다.
-테스트는 네트워크를 쓰지 않는다. 실제 수집과 화면 확인:
+테스트는 외부 네트워크를 쓰지 않는다(피드 타임아웃 테스트는 127.0.0.1의 가짜 서버를 쓴다). 실제 수집과 화면 확인:
 
 ```powershell
 uv run python aggregate.py        # data.json 생성(네트워크 필요), 피드별 [OK]/[FAIL] 로그
@@ -46,14 +46,14 @@ feature 브랜치 → develop → 릴리스.
 실제로는 수 시간 늦게 시작하고 하루 2~4회 실행된다(RULE14). 실행이 겹치면 `concurrency: aggregate`로 줄을 선다.
 
 **수동 실행**: `gh workflow run update.yml --repo Berry3536/news-radar --ref master`
-(또는 `Actions → Aggregate tech news → Run workflow`). 다른 브랜치로 돌리면 릴리스 안 된 설정이 공개 배포본이 되므로
-`master`로만 돌린다.
+(또는 `Actions → Aggregate tech news → Run workflow`). 배포 단계(`Publish to gh-pages`)는 `master`에서 돈 실행만 한다:
+다른 브랜치·태그로 돌리면 수집만 하고 배포 단계는 건너뛰어(skipped) 직전 배포본이 남는다. 배포본을 갱신하려면 `master`로 돌린다.
 
 **상태 확인**:
 
 ```powershell
 gh run list --repo Berry3536/news-radar --workflow update.yml --limit 5
-gh run view <run-id> --repo Berry3536/news-radar --log | Select-String '\[(OK|FAIL|WARN|ERROR|DONE)'
+gh run view <run-id> --repo Berry3536/news-radar --log | Select-String '\[(OK|FAIL|ERROR|DONE)'
 git fetch origin gh-pages; git show origin/gh-pages:data.json | Select-Object -First 2    # generated_at
 ```
 
@@ -63,9 +63,12 @@ git fetch origin gh-pages; git show origin/gh-pages:data.json | Select-Object -F
    `disabled_inactivity`면 60일 비활성(아래), `disabled_manually`면 누군가 끈 것.
 2. 마지막 run의 실패 단계: `gh run view <run-id> --repo Berry3536/news-radar --log-failed`.
    - `Install dependencies`: `uv.lock`과 `pyproject.toml` 불일치(`uv sync --locked`). develop에서 `uv lock` 후 릴리스.
-   - `Aggregate feeds`: `feeds.json` 로드 실패(`[ERROR]`). 직전 배포본이 남아 있다. `feeds.json`을 고쳐 핫픽스.
+   - `Aggregate feeds`: `feeds.json` 로드 실패나 값 오류, 또는 전체 0건(`[ERROR]`, RULE16). 직전 배포본이 남아 있다.
+     0건이면 로그의 `[FAIL]`·`0 entries`로 피드 상태를, 키워드 필터를 확인한다. 일시적인 피드 장애면 다음 예약 실행을 기다리고,
+     `feeds.json` 문제면 고쳐 핫픽스.
    - `Publish to gh-pages`: 쓰기 권한. 처음 설정 3번을 확인.
-3. run은 성공했는데 화면이 그대로: `gh run list --repo Berry3536/news-radar --workflow pages-build-deployment --limit 3`,
+3. run은 성공했는데 화면이 그대로: 그 run이 `master`에서 돌았는지(다른 ref면 `Publish to gh-pages`가 skipped),
+   `gh run list --repo Berry3536/news-radar --workflow pages-build-deployment --limit 3`,
    `Settings → Pages` 소스가 `gh-pages` `/ (root)`인지.
 4. 카테고리가 비거나 줄었음: 로그의 `[FAIL]`과 `0 entries` 피드를 찾아 `feeds.json` URL을 바꾼다.
 
@@ -108,11 +111,13 @@ gh workflow run update.yml --repo Berry3536/news-radar --ref master
 | QA1 | `master`로 수동 실행 1회(`gh workflow run update.yml --repo Berry3536/news-radar --ref master`) | run 성공, 로그 `[FAIL]` 0(있으면 원인 기록), `[DONE] 총 N건`의 N > 0 |
 | QA2 | Pages 대시보드 | pages-build-deployment 성공, 카테고리 칩 5개, "last sync"가 QA1 실행 시각이고 배포본 `data.json`의 `generated_at`(UTC)과 분 단위까지 같다, 검색어 입력 시 목록이 줄어든다 |
 | QA3 | `feeds.json`을 바꾼 릴리스만 | 새·바뀐 피드가 QA1 로그에 `[OK]`이고 entry가 0이 아니다 |
+| QA4 | 배포본 `data.json` | 카테고리마다 출처(`source`)별 건수가 `max_items_per_feed` 이하, 카테고리 건수가 `max_items_per_category` 이하(RULE8) |
 
 ## 릴리스 이력
 
 | 버전 | 날짜 | 상태 | 내용 |
 |---|---|---|---|
-| v1.1.0 | 2026-11-24 | draft | GATE1 중간 릴리스: 국내 피드 기사 누락(DEFECT2)과 발행 시각 9시간 오차(DEFECT3), "last sync" UTC 표시(DEFECT1), 공용 규약 문서 예시 정리(DEFECT6). Dependabot은 Python 패키지 월 1회. 남은 GATE1 티켓은 v1.2.0 |
+| v1.2.0 | 2026-11-26 | draft | GATE1 목표 릴리스: 카테고리 AI·반도체·자동차·배터리·로봇 5개와 피드 27개(GATE1-T10), 피드별 상한 8(RULE8, GATE1-T9), 피드 타임아웃 30초·job 15분(DEFECT4), http(s) 링크만(DEFECT5), 전체 0건이면 배포하지 않음(RULE16), master 실행만 배포(GATE1-T8), 범위를 넘는 날짜는 그 항목만 날짜 미상(DEFECT7) |
+| v1.1.0 | 2026-11-24 | published | GATE1 중간 릴리스: 국내 피드 기사 누락(DEFECT2)과 발행 시각 9시간 오차(DEFECT3), "last sync" UTC 표시(DEFECT1), 공용 규약 문서 예시 정리(DEFECT6). Dependabot은 Python 패키지 월 1회. 남은 GATE1 티켓은 v1.2.0 |
 | v1.0.1 | 2026-11-03 | published | 정비 릴리스: 수집 로직 테스트 16개, Dependabot 자동 머지 워크플로, 개발 도구 갱신(setup-uv 10.3.3, ruff 0.17.3, pytest 9.2.0). 대시보드·수집 방식은 v1.0.0과 같다 |
 | v1.0.0 | 2026-10-14 | 태그만(GitHub Release 없음) | 첫 릴리스: `gh-pages` 배포 전환(RULE1·RULE2), uv·단독 CI, stark-kit 도입 |

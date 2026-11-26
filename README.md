@@ -1,13 +1,13 @@
 # 기술뉴스 레이더 (Tech News Radar)
 
-전기차 · 배터리 · 모터 · 로봇 · AI 분야의 RSS를 **GitHub Actions가 주기적으로 수집**해
+AI · 반도체 · 자동차(전기차·자율주행·내연기관·국제 규제) · 배터리 · 로봇 분야의 RSS를 **GitHub Actions가 주기적으로 수집**해
 **GitHub Pages**가 정적 페이지로 보여주는 **무료 · 서버리스** 개인용 대시보드.
 백엔드/DB가 없으며, 운영은 `feeds.json` 한 파일만 고치면 된다.
 
 ## 아키텍처
 
 `GitHub Actions(cron)` → `aggregate.py` 실행 → `index.html` + `data.json`을 `gh-pages` 브랜치(커밋 1개,
-매번 덮어씀)로 push → `GitHub Pages`가 `gh-pages`를 서빙. `master`/`develop`에는 봇 커밋이 남지 않는다.
+`master`에서 성공한 실행마다 덮어씀)로 push → `GitHub Pages`가 `gh-pages`를 서빙. `master`/`develop`에는 봇 커밋이 남지 않는다.
 
 구성도, 파일 구조, `feeds.json`·`data.json` 형식은 [docs/DESIGN.md](docs/DESIGN.md).
 
@@ -21,6 +21,8 @@
 {
   "max_age_days": 14,            // 이보다 오래된 항목 제외(날짜 미상은 유지)
   "max_items_per_category": 40,  // 카테고리당 최대 노출 수
+  "max_items_per_feed": 8,       // 카테고리 안에서 피드 하나의 최대 노출 수
+  "feed_timeout_seconds": 30,    // 피드 요청 타임아웃(초, 0보다 커야 함), 넘으면 그 피드만 건너뜀
   "categories": [
     {
       "key": "battery",          // 내부 식별자(고유)
@@ -36,9 +38,9 @@
 ```
 
 필터·기간·중복 제거의 정확한 규칙은 [docs/RULES.md](docs/RULES.md)의 RULE5~RULE8.
-**같은 피드 URL을 여러 카테고리에 넣고**, 각 카테고리의 키워드로 분리하는 패턴을 권장한다.
-(예: Electrek 피드를 `전기차`·`배터리`·`모터`에 모두 넣고 각 카테고리 키워드로 갈라내기 —
-실제 `feeds.json`이 이 방식으로 구성돼 있다.)
+카테고리마다 **그 주제의 피드**(전문 매체, 또는 매체의 주제별 RSS)를 넣는 것을 기본으로 하고, 여러 주제가 섞인
+피드는 `include_keywords`로 거른다(예: `배터리`의 더구루·디일렉 전체 기사). 글이 많은 피드 하나가 카테고리를 덮지
+않도록 피드별 상한 `max_items_per_feed`가 걸린다(RULE8).
 
 ## 동작/한계 · 주의사항
 

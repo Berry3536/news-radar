@@ -3,7 +3,7 @@ name: Aggregate tech news
 on:
   schedule:
     # 매일 00, 06, 12, 18시(UTC). 단, GitHub의 scheduled cron은
-    # 정시를 보장하지 않으며 지연/스킵될 수 있다(README 참고).
+    # 정시를 보장하지 않으며 지연/스킵될 수 있다(RULE14, docs/RULES.md).
     - cron: "0 0,6,12,18 * * *"
   workflow_dispatch: {}
 
@@ -17,6 +17,8 @@ concurrency:
 jobs:
   aggregate:
     runs-on: ubuntu-latest
+    # 정상 실행은 약 20초. 피드 타임아웃(feeds.json)이 끊지 못한 멈춤도 GitHub 기본 360분 대신 15분에 끊는다(RULE4).
+    timeout-minutes: 15
     steps:
       - name: Checkout
         uses: actions/checkout@v7
@@ -32,9 +34,13 @@ jobs:
       - name: Aggregate feeds
         run: uv run python aggregate.py
 
-      # 결과물은 gh-pages 브랜치(커밋 1개, 매번 덮어씀)로만 배포한다.
+      # 결과물은 gh-pages 브랜치(커밋 1개, 배포할 때마다 덮어씀)로만 배포한다.
       # master/develop에는 봇 커밋이 남지 않는다(gitflow: master는 release/hotfix 머지만).
+      # master에서 돈 실행만 배포한다(예약 실행은 기본 브랜치 master). 다른 ref로 수동 실행하면 수집만 하고
+      # 이 단계는 건너뛴다: 릴리스 안 된 코드·설정이 공개 배포본이 되지 않게(RULE2).
+      # 상태 함수가 없는 if:에는 success()가 붙어, 앞 단계가 실패하면(전체 0건 포함, RULE16) 여전히 돌지 않는다.
       - name: Publish to gh-pages
+        if: github.ref == 'refs/heads/master'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |

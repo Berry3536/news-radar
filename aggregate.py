@@ -7,13 +7,16 @@ feeds.json을 읽어 카테고리별 RSS 피드를 수집/정규화/필터링한
 설계 원칙:
 - 외부 의존성은 feedparser 하나뿐.
 - 죽은 피드 하나가 전체 수집을 막지 않도록 피드 단위로 예외를 격리한다.
-- 서버/DB 없음. GitHub Actions가 주기적으로 실행 → data.json 커밋.
+- 서버/DB 없음. GitHub Actions(update.yml)가 주기적으로 실행하고, master에서 돈 실행이 성공하면 워크플로가
+  index.html + data.json + .nojekyll을 커밋 1개로 gh-pages에 force push한다(RULE1, RULE2).
+- 수집 결과가 전체 0건이면 data.json을 쓰지 않고 1로 끝나 아무것도 배포하지 않는다(RULE16).
 """
 
 from __future__ import annotations
 
 import json
 import re
+import socket
 import sys
 from datetime import UTC, datetime, timedelta, timezone, tzinfo
 from email.utils import parsedate_to_datetime
@@ -28,6 +31,9 @@ OUTPUT_PATH = "data.json"
 # 기사를 식별하지 않고 유입 경로만 추적하는 쿼리 파라미터 (RULE7).
 TRACKING_PARAM_PREFIXES = ("utm_",)
 TRACKING_PARAMS = frozenset({"fbclid", "gclid"})
+
+# 항목 링크로 내보내는 스킴 (RULE11). 허용 목록이라 javascript:·vbscript:·data: 등 나머지는 모두 막힌다.
+LINK_SCHEMES = frozenset({"http", "https"})
 
 # feeds.json 피드 항목의 "tz": 고정 UTC 오프셋 "+09:00" / "-05:00".
 # IANA 이름(Asia/Seoul)은 Windows에서 tzdata 패키지가 있어야 해 쓰지 않는다(런타임 의존성은 feedparser 하나).
@@ -99,7 +105,10 @@ def parse_date(entry, tz: tzinfo = UTC) -> datetime | None:
             except (TypeError, ValueError):
                 continue
             if lacks_tz(entry.get(key)):
-                dt = dt.replace(tzinfo=tz).astimezone(UTC)
+                try:
+                    dt = dt.replace(tzinfo=tz).astimezone(UTC)
+                except OverflowError:  # 예: +09:00 피드의 0001-01-01은 UTC로 옮기면 연도 0 (DEFECT7)
+                    continue
             return dt
 
     for key in ("published", "updated"):
@@ -112,7 +121,10 @@ def parse_date(entry, tz: tzinfo = UTC) -> datetime | None:
             if dt is not None:
                 if dt.tzinfo is None:
                     dt = dt.replace(tzinfo=tz if lacks_tz(val) else UTC)
-                return dt.astimezone(UTC)
+                try:
+                    return dt.astimezone(UTC)
+                except OverflowError:  # 범위 끝의 시각은 날짜 미상으로 두고 피드는 계속 (RULE4, RULE6)
+                    continue
 
     return None
 
@@ -122,6 +134,27 @@ def clean_text(value: str) -> str:
     if not value:
         return ""
     return " ".join(unescape(value).split())
+
+
+def safe_link(link: str) -> str:
+    """항목 링크가 http(s) 절대 URL이면 앞뒤 공백만 떼어 그대로, 아니면 빈 문자열 (RULE11).
+
+    esc()는 HTML 특수문자만 바꾸므로 javascript: 같은 링크가 대시보드 href로 가면 막지 못한다.
+    링크가 글자 그대로 "http://"·"https://"(대소문자 무시)로 시작해야 한다. 대시보드 isWebLink와 같은 판정이라,
+    urlsplit이 지워 주는 스킴 안의 탭·앞쪽 제어 문자("ht\\ttps://", "\\x00https://")도 통과하지 못한다.
+    호스트가 없거나 URL로 나눌 수 없는 링크도 버린다.
+    상대 링크는 feedparser가 피드 URL(리다이렉트 뒤 최종 URL)이나 xml:base로 이미 절대 URL로 바꿔 준다.
+    기준 URL 없이 상대로 남은 링크(피드 문서를 문자열로 넘긴 경우)는 버린다.
+    """
+    link = link.strip()
+    scheme, sep, _ = link.partition("://")
+    if not sep or scheme.lower() not in LINK_SCHEMES:
+        return ""
+    try:
+        parts = urlsplit(link)
+    except ValueError:  # 예: 닫히지 않은 IPv6 호스트
+        return ""
+    return link if parts.netloc else ""
 
 
 def is_tracking_param(name: str) -> bool:
@@ -166,6 +199,8 @@ def collect_feed(name: str, url: str, tz: tzinfo = UTC) -> list[dict]:
     """단일 피드를 파싱해 entry 목록을 반환. 실패 시 예외를 올린다.
 
     tz는 시간대 없는 발행 시각을 읽을 피드의 시간대(parse_tz, parse_date 참고).
+    네트워크 대기는 main이 건 소켓 기본 타임아웃에서 끊긴다: 응답 대기는 TimeoutError가 그대로 올라오고,
+    연결·TLS 핸드셰이크는 feedparser가 bozo(entry 0개)로 돌려줘 아래 RuntimeError가 된다.
     """
     parsed = feedparser.parse(url)
 
@@ -179,7 +214,7 @@ def collect_feed(name: str, url: str, tz: tzinfo = UTC) -> list[dict]:
     items: list[dict] = []
     for entry in parsed.entries:
         title = clean_text(entry.get("title", ""))
-        link = (entry.get("link") or "").strip()
+        link = safe_link(entry.get("link") or "")  # 빈 링크면 중복 키는 제목 (RULE7)
         summary = clean_text(entry.get("summary", "") or entry.get("description", ""))
         dt = parse_date(entry, tz)
         items.append(
@@ -194,8 +229,11 @@ def collect_feed(name: str, url: str, tz: tzinfo = UTC) -> list[dict]:
     return items
 
 
-def build_category(cat: dict, max_age_days: int, max_items: int) -> dict:
-    """카테고리 하나를 수집/필터/정렬/중복제거해 출력 형태로 만든다."""
+def build_category(cat: dict, max_age_days: int, max_items: int, max_per_feed: int | None = None) -> dict:
+    """카테고리 하나를 수집/필터/정렬/중복제거해 출력 형태로 만든다.
+
+    max_per_feed가 있으면 최신순으로 피드(출처 이름)마다 그 건수까지만 남긴 뒤 카테고리 상한을 건다(RULE8).
+    """
     cutoff = datetime.now(UTC) - timedelta(days=max_age_days)
     include = cat.get("include_keywords", []) or []
     exclude = cat.get("exclude_keywords", []) or []
@@ -232,6 +270,18 @@ def build_category(cat: dict, max_age_days: int, max_items: int) -> dict:
     far_past = datetime.min.replace(tzinfo=UTC)
     collected.sort(key=lambda it: it["dt"] or far_past, reverse=True)
 
+    # 피드별 상한: 글이 많은 피드 하나가 카테고리를 다 차지하지 않게 한다.
+    # 기간·키워드·중복 제거 뒤라 버려진 항목은 칸을 쓰지 않는다.
+    if max_per_feed is not None:
+        per_feed: dict[str, int] = {}
+        kept: list[dict] = []
+        for it in collected:
+            used = per_feed.get(it["source"], 0)
+            if used < max_per_feed:
+                per_feed[it["source"]] = used + 1
+                kept.append(it)
+        collected = kept
+
     # 카테고리당 상한
     collected = collected[:max_items]
 
@@ -263,14 +313,29 @@ def main() -> int:
 
     max_age_days = int(config.get("max_age_days", 14))
     max_items = int(config.get("max_items_per_category", 40))
+    max_per_feed = int(config.get("max_items_per_feed", 8))
+    # feedparser는 URL을 urllib으로 타임아웃 없이 열어, 새 소켓이 받는 기본 타임아웃이 곧 피드 요청 타임아웃이다.
+    # 응답 없는 피드도 그 피드만 [FAIL]로 끝난다(RULE4, DEFECT4).
+    feed_timeout = float(config.get("feed_timeout_seconds", 30))
+    if feed_timeout <= 0:
+        # 0은 "타임아웃 없음"이 아니라 non-blocking 소켓이라 모든 피드가 실패한다. 배포하지 않고 끝낸다.
+        log(f"[ERROR] feed_timeout_seconds는 0보다 커야 합니다: {feed_timeout}")
+        return 1
+    socket.setdefaulttimeout(feed_timeout)
 
     categories_out: list[dict] = []
     total = 0
     for cat in config.get("categories", []):
         log(f"[CATEGORY] {cat.get('label', cat.get('key', '?'))}")
-        result = build_category(cat, max_age_days, max_items)
+        result = build_category(cat, max_age_days, max_items, max_per_feed)
         total += result["count"]
         categories_out.append(result)
+
+    if total == 0:
+        # 피드가 모두 실패했거나 필터가 전부 걸렀다. 빈 data.json으로 직전 배포본을 덮지 않는다(RULE16):
+        # 파일을 쓰지 않고 1로 끝내면 워크플로의 배포 단계가 돌지 않는다.
+        log("[ERROR] 수집된 항목이 0건이라 data.json을 쓰지 않습니다(직전 배포본 유지). 피드 URL/필터를 확인하세요.")
+        return 1
 
     output = {
         "generated_at": datetime.now(UTC).isoformat(),
@@ -282,9 +347,6 @@ def main() -> int:
         f.write("\n")
 
     log(f"[DONE] 총 {total}건 → {OUTPUT_PATH}")
-    if total == 0:
-        log("[WARN] 수집된 항목이 0건입니다. 피드 URL/필터를 확인하세요.")
-
     return 0
 
 
