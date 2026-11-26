@@ -1,6 +1,6 @@
 # 로드맵
 
-News Radar는 지금 GATE1에 있고 최종 목표 GATE2를 향한다. 게이트는 제품의 **검증 가능한 상태**이지 티켓 묶음이 아니다.
+News Radar는 지금 최종 목표 GATE2를 향한다(GR1 pass, 2026-11-26). 게이트는 제품의 **검증 가능한 상태**이지 티켓 묶음이 아니다.
 진행 상태는 이 파일에만 쓴다. 설계는 [DESIGN.md](DESIGN.md), 규칙은 [RULES.md](RULES.md), 절차는 [RUNBOOK.md](RUNBOOK.md).
 
 ## 읽는 법
@@ -26,12 +26,12 @@ News Radar는 지금 GATE1에 있고 최종 목표 GATE2를 향한다. 게이트
 
 | | |
 |---|---|
-| 현재 게이트 | **GATE1** |
+| 현재 게이트 | **GATE2** |
 | 현재 티켓 | 없음 |
-| 마지막 GR | GR0 pass with notes (2026-11-10) |
+| 마지막 GR | GR1 pass (2026-11-26) |
 | 최신 릴리스 | v1.2.0 (2026-11-26) |
 | 열린 결함 | 0 |
-| 다음 할 일 | 사용자의 GR1 판정과 GATE2 전 RULE 공백 결정 → GATE2 티켓 |
+| 다음 할 일 | GATE2 티켓 정의: `feeds.json` 형식 검사, 대시보드 디자인과 제품 이름, 피드 신뢰도 기준 재선정 (사용자 OK 대기) |
 
 ## 현재 작업
 
@@ -202,7 +202,7 @@ GATE2 밖(새 범위 결정이 필요한 것, 결함이 아님): 정시 수집(R
 | GR | 날짜 | 판정 | 증거 | 다음 게이트를 위한 결정 |
 |---|---|---|---|---|
 | GR0 | 2026-11-10 | pass with notes (2026-11-10 사용자가 닫음) | 결함 리뷰(2026-11-10, 범위 `c8f2902..4b92135` 전체와 RULE1~RULE15, verifier 1 correctness: VERDICT FAIL, 지적 9건 중 4건이 DEFECT2~DEFECT5와 같음; 오프라인 실험 7건; 결과 DEFECT2~DEFECT6 등록, 기각 8건, RULE 공백 5건); 이 진단; v1.0.1(2026-11-03); pytest 16 passed(CI run 41605796586, master `5731e98`); `update.yml` 613회 전부 성공(2026-06-01~11-10), 최근 run 42733691513(피드 15개 `[OK]`, 117건) → pages run 42733735769 | 결정(2026-11-04, 사용자): DEFECT1은 GATE1에서 닫는다(GATE1-T1), 최종 목표는 GATE2. 결정(2026-11-10, 사용자): DEFECT2~DEFECT6도 GATE1에 두고 목표 릴리스를 v1.1.0으로 한다(GATE1-T2~T5, T7); 전체 0건이면 배포하지 않는다(GATE1-T6, 새 RULE); 문서·테스트 정리는 GATE1 티켓 하나(GATE1-T8); 0건 피드 표시·`feeds.json` 형식 검사·미래 날짜·키워드 부분 일치와 요약 태그는 관찰로 둔다. 남은 질문: 없음. GR0 닫힘(2026-11-10, 사용자). 결정(2026-11-24, 사용자): DEFECT2·DEFECT3이 배포본에 매 실행 나타나므로 T1·T2·T3·T7을 중간 릴리스 v1.1.0으로 먼저 내고, GATE1 목표 릴리스를 v1.2.0으로 바꾼다; GATE1-T4 값은 피드 타임아웃 30초·job 15분; 카테고리를 AI·반도체·자동차·배터리·로봇 5개로 바꾸고(GATE1-T10) 피드별 상한을 둔다(GATE1-T9), 새 게이트를 만들지 않고 GATE1에 넣는다 |
-| GR1 | 2026-11-26 | proposed: pass | 종료 기준 10개 모두 충족(GATE1 종료 기준의 v1.2.0 확인 줄). GR1 검토(2026-11-25, verifier correctness, 범위 `4b92135..3efaf34`: PASS with notes, Low 6건 → GATE1-T11, DEFECT7 등록·수정); T11 재검토(2026-11-26, verifier correctness, 범위 `3efaf34..4ca8515`: PASS with notes, Med 2건은 테스트 공백 → GATE1-T12, 변이 테스트로 확인); v1.2.0(2026-11-26, 태그 = master `d49d143`, CI run 45811577014 pytest 103 passed); QA1 run 45811738873(피드 27개 `[OK]`, `[FAIL]` 0, 192건, 배포 단계 실행) → gh-pages `e34093c` → pages run 45811810172; QA2(KST Node: "last sync" = `generated_at` 11:34 UTC, 칩 5개, 검색 192 → 5건), QA3(새 피드 entry 10~300), QA4(출처별 ≤ 8, 카테고리 ≤ 40); 열린 결함 0(DEFECT1~DEFECT7 fixed) | 결정(2026-11-26, 사용자): `update.yml` `timeout-minutes` 15 유지(RULE4 근거에 기록). 결정 대기: GATE0 관찰 RULE 공백 4건 가운데 GATE2 전에 규칙으로 정할 것. 판정안의 제안: `feeds.json` 형식 검사만 규칙으로 정한다(GATE2 조건 "피드 변경은 `feeds.json` 수정만으로 끝난다"를 안전하게 하려면 잘못된 값이 경고 없이 배포되지 않아야 한다. 지금 CI는 JSON 파싱만 본다). 0건 피드 표시·미래 날짜·키워드 부분 일치와 요약 태그는 관찰로 둔다(v1.2.0 배포 실행에서 0 entries 피드 0, 미래 시각 0, include 필터는 battery 하나) |
+| GR1 | 2026-11-26 | pass (2026-11-26 사용자가 닫음) | 종료 기준 10개 모두 충족(GATE1 종료 기준의 v1.2.0 확인 줄). GR1 검토(2026-11-25, verifier correctness, 범위 `4b92135..3efaf34`: PASS with notes, Low 6건 → GATE1-T11, DEFECT7 등록·수정); T11 재검토(2026-11-26, verifier correctness, 범위 `3efaf34..4ca8515`: PASS with notes, Med 2건은 테스트 공백 → GATE1-T12, 변이 테스트로 확인); v1.2.0(2026-11-26, 태그 = master `d49d143`, CI run 45811577014 pytest 103 passed); QA1 run 45811738873(피드 27개 `[OK]`, `[FAIL]` 0, 192건, 배포 단계 실행) → gh-pages `e34093c` → pages run 45811810172; QA2(KST Node: "last sync" = `generated_at` 11:34 UTC, 칩 5개, 검색 192 → 5건), QA3(새 피드 entry 10~300), QA4(출처별 ≤ 8, 카테고리 ≤ 40); 열린 결함 0(DEFECT1~DEFECT7 fixed) | 결정(2026-11-26, 사용자): `update.yml` `timeout-minutes` 15 유지(RULE4 근거에 기록). 결정(2026-11-26, 사용자): GATE0 관찰 RULE 공백 4건 가운데 `feeds.json` 형식 검사만 GATE2에서 규칙으로 정한다(GATE2 조건 "피드 변경은 `feeds.json` 수정만으로 끝난다"를 안전하게 하려면 잘못된 값이 경고 없이 배포되지 않아야 한다. 지금 CI는 JSON 파싱만 본다). 0건 피드 표시·미래 날짜·키워드 부분 일치와 요약 태그는 관찰로 둔다(v1.2.0 배포 실행에서 0 entries 피드 0, 미래 시각 0, include 필터는 battery 하나). GATE2에 대시보드 디자인 개편(제품 이름 포함)과 분야별 신뢰도 기준의 피드 재선정을 넣는다. GR1 닫힘(2026-11-26, 사용자) |
 
 ## 옛 ID 대응표
 
