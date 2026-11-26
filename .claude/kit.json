@@ -4,7 +4,7 @@
     "verify": [
       "uv run ruff check .",
       "uv run pytest",
-      "uv run python -c \"import json; json.load(open('feeds.json', encoding='utf-8'))\"",
+      "uv run python aggregate.py --check",
       "git diff --check"
     ],
     "smoke": []

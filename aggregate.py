@@ -10,10 +10,13 @@ feeds.json을 읽어 카테고리별 RSS 피드를 수집/정규화/필터링한
 - 서버/DB 없음. GitHub Actions(update.yml)가 주기적으로 실행하고, master에서 돈 실행이 성공하면 워크플로가
   index.html + data.json + .nojekyll을 커밋 1개로 gh-pages에 force push한다(RULE1, RULE2).
 - 수집 결과가 전체 0건이면 data.json을 쓰지 않고 1로 끝나 아무것도 배포하지 않는다(RULE16).
+- 수집 전에 feeds.json 형식을 검사해, 틀린 곳을 모두 [ERROR]로 남기고 1로 끝낸다(RULE17).
+  `python aggregate.py --check`는 검사만 한다(네트워크 없음, CI).
 """
 
 from __future__ import annotations
 
+import argparse
 import json
 import re
 import socket
@@ -39,6 +42,13 @@ LINK_SCHEMES = frozenset({"http", "https"})
 # IANA 이름(Asia/Seoul)은 Windows에서 tzdata 패키지가 있어야 해 쓰지 않는다(런타임 의존성은 feedparser 하나).
 TZ_OFFSET_RE = re.compile(r"([+-])([01]\d|2[0-3]):([0-5]\d)")
 
+# feeds.json에 쓸 수 있는 키 (RULE17). 그 밖의 키는 오타로 보고 거부한다.
+# 한도의 기본값은 키가 없을 때만 쓴다(RULE3).
+LIMIT_DEFAULTS = {"max_age_days": 14, "max_items_per_category": 40, "max_items_per_feed": 8, "feed_timeout_seconds": 30}
+CONFIG_KEYS = (*LIMIT_DEFAULTS, "categories")
+CATEGORY_KEYS = ("key", "label", "include_keywords", "exclude_keywords", "feeds")
+FEED_KEYS = ("name", "url", "tz")
+
 
 def log(msg: str) -> None:
     """진행 로그는 stderr로 (stdout은 깨끗하게 유지)."""
@@ -49,7 +59,8 @@ def parse_tz(value: object) -> tzinfo:
     """feeds.json 피드 항목의 "tz" 값을 tzinfo로 바꾼다.
 
     "+09:00" 같은 ±HH:MM 고정 오프셋만 받는다. 키가 없으면(None) UTC.
-    형식이 틀리면 ValueError — build_category가 그 피드만 [FAIL]로 건너뛴다.
+    형식이 틀리면 ValueError. main은 수집 전에 같은 판정으로 feeds.json을 검사해 실행을 멈추고(validate_config, RULE17),
+    build_category를 직접 부른 경우에는 그 피드만 [FAIL]로 건너뛴다.
     """
     if value is None:
         return UTC
@@ -245,7 +256,7 @@ def build_category(cat: dict, max_age_days: int, max_items: int, max_per_feed: i
         name = feed.get("name", feed.get("url", "?"))
         url = feed.get("url", "")
         try:
-            tz = parse_tz(feed.get("tz"))  # 잘못된 tz는 이 피드만 실패(요청 전에 걸러진다)
+            tz = parse_tz(feed.get("tz"))  # main에서는 검사를 거친 값(RULE17). 직접 부르면 잘못된 tz는 이 피드만 실패
             entries = collect_feed(name, url, tz)
         except Exception as exc:  # 죽은 피드·잘못된 피드 설정 격리 — 전체 중단 금지
             log(f"  [FAIL] {cat['key']} / {name}: {exc}")
@@ -303,31 +314,193 @@ def build_category(cat: dict, max_age_days: int, max_items: int, max_per_feed: i
     }
 
 
-def main() -> int:
+def _show(value: object) -> str:
+    """오류 메시지에 넣을 값. feeds.json에 적힌 모양(JSON)으로, 길면 자른다."""
     try:
-        with open(CONFIG_PATH, encoding="utf-8") as f:
-            config = json.load(f)
-    except (OSError, json.JSONDecodeError) as exc:
-        log(f"[ERROR] {CONFIG_PATH} 로드 실패: {exc}")
-        return 1
+        text = json.dumps(value, ensure_ascii=False)
+    except (TypeError, ValueError):
+        text = repr(value)
+    return text if len(text) <= 60 else text[:59] + "…"
 
-    max_age_days = int(config.get("max_age_days", 14))
-    max_items = int(config.get("max_items_per_category", 40))
-    max_per_feed = int(config.get("max_items_per_feed", 8))
-    # feedparser는 URL을 urllib으로 타임아웃 없이 열어, 새 소켓이 받는 기본 타임아웃이 곧 피드 요청 타임아웃이다.
-    # 응답 없는 피드도 그 피드만 [FAIL]로 끝난다(RULE4, DEFECT4).
-    feed_timeout = float(config.get("feed_timeout_seconds", 30))
-    if feed_timeout <= 0:
-        # 0은 "타임아웃 없음"이 아니라 non-blocking 소켓이라 모든 피드가 실패한다. 배포하지 않고 끝낸다.
-        log(f"[ERROR] feed_timeout_seconds는 0보다 커야 합니다: {feed_timeout}")
+
+def _is_text(value: object) -> bool:
+    return isinstance(value, str) and value.strip() != ""
+
+
+def _is_positive_int(value: object) -> bool:
+    # bool은 int의 하위 클래스라 따로 막는다. "14" 같은 문자열과 14.0 같은 소수도 정수가 아니다.
+    return isinstance(value, int) and not isinstance(value, bool) and value > 0
+
+
+def _is_feed_url(value: object) -> bool:
+    """항목 링크와 같은 판정(safe_link, RULE11: 앞뒤 공백 없이 http:// 또는 https://)에 호스트 이름까지 본다."""
+    return isinstance(value, str) and safe_link(value) == value and bool(urlsplit(value).hostname)
+
+
+def _is_tz(value: object) -> bool:
+    """parse_tz가 받는 ±HH:MM. parse_tz는 None(키 없음)을 UTC로 읽지만, 키에 적힌 null은 받지 않는다."""
+    if value is None:
+        return False
+    try:
+        parse_tz(value)
+    except ValueError:
+        return False
+    return True
+
+
+def _named(where: str, name: object) -> str:
+    """위치에 카테고리 key나 피드 name을 붙인다: categories[3] → categories[3](battery)."""
+    return f"{where}({name})" if _is_text(name) else where
+
+
+def _check_keys(obj: dict, allowed: tuple[str, ...], required: tuple[str, ...], where: str, errors: list[str]) -> None:
+    """표에 없는 키(오타)와 빠진 필수 키. where가 빈 문자열이면 최상위."""
+    prefix = f"{where}." if where else ""
+    for key in obj:
+        if key not in allowed:
+            errors.append(f"{prefix}{key}: 알 수 없는 키입니다(쓸 수 있는 키: {', '.join(allowed)})")
+    for key in required:
+        if key not in obj:
+            errors.append(f"{prefix}{key}: 필수 키가 없습니다")
+
+
+def _check_keywords(value: object, where: str, errors: list[str]) -> None:
+    # 문자열 하나("robot")를 받으면 글자마다 키워드가 되어 거의 모든 항목이 include를 통과한다.
+    if not isinstance(value, list):
+        errors.append(f"{where}: 문자열 목록이어야 합니다(값: {_show(value)})")
+        return
+    for k, keyword in enumerate(value):
+        if not _is_text(keyword):
+            errors.append(f"{where}[{k}]: 비어 있지 않은 문자열이어야 합니다(값: {_show(keyword)})")
+
+
+def _check_feed(feed: object, where: str, errors: list[str]) -> None:
+    if not isinstance(feed, dict):
+        errors.append(f"{where}: 객체여야 합니다(값: {_show(feed)})")
+        return
+    where = _named(where, feed.get("name"))
+    _check_keys(feed, FEED_KEYS, ("name", "url"), where, errors)
+    if "name" in feed and not _is_text(feed["name"]):
+        errors.append(f"{where}.name: 비어 있지 않은 문자열이어야 합니다(값: {_show(feed['name'])})")
+    if "url" in feed and not _is_feed_url(feed["url"]):
+        errors.append(
+            f"{where}.url: http:// 또는 https://로 시작하고 호스트가 있는 URL이어야 합니다(값: {_show(feed['url'])})"
+        )
+    if "tz" in feed and not _is_tz(feed["tz"]):
+        errors.append(f"{where}.tz: +09:00 같은 ±HH:MM 고정 오프셋이어야 합니다(값: {_show(feed['tz'])})")
+
+
+def _check_category(cat: object, where: str, errors: list[str]) -> None:
+    if not isinstance(cat, dict):
+        errors.append(f"{where}: 객체여야 합니다(값: {_show(cat)})")
+        return
+    where = _named(where, cat.get("key"))
+    _check_keys(cat, CATEGORY_KEYS, ("key", "label", "feeds"), where, errors)
+    for field in ("key", "label"):
+        if field in cat and not _is_text(cat[field]):
+            errors.append(f"{where}.{field}: 비어 있지 않은 문자열이어야 합니다(값: {_show(cat[field])})")
+    for field in ("include_keywords", "exclude_keywords"):
+        if field in cat:
+            _check_keywords(cat[field], f"{where}.{field}", errors)
+    feeds = cat.get("feeds", [])
+    if not isinstance(feeds, list):
+        errors.append(f"{where}.feeds: 목록이어야 합니다(값: {_show(feeds)})")
+        return
+    for j, feed in enumerate(feeds):
+        _check_feed(feed, f"{where}.feeds[{j}]", errors)
+
+
+def validate_config(config: object) -> list[str]:
+    """feeds.json 내용을 검사해 문제마다 "<위치>: <문제>" 한 줄을 돌려준다. 문제가 없으면 빈 목록 (RULE17).
+
+    네트워크를 쓰지 않는다. 한 곳이 틀려도 멈추지 않고 나머지를 모두 본다.
+    위치는 키 경로이고 번호는 0부터, 카테고리·피드에는 key·name을 괄호로 붙인다
+    (categories[3](battery).feeds[1](디일렉).tz).
+    빈 categories·feeds는 받는다(전체 0건이면 RULE16). 피드 name은 겹쳐도 된다(피드별 상한을 같이 센다, RULE8).
+    """
+    if not isinstance(config, dict):
+        return [f"최상위: 객체여야 합니다(값: {_show(config)})"]
+    errors: list[str] = []
+    _check_keys(config, CONFIG_KEYS, ("categories",), "", errors)
+    for key in LIMIT_DEFAULTS:
+        if key in config and not _is_positive_int(config[key]):
+            errors.append(f"{key}: 0보다 큰 정수여야 합니다(값: {_show(config[key])})")
+    categories = config.get("categories", [])
+    if not isinstance(categories, list):
+        errors.append(f"categories: 목록이어야 합니다(값: {_show(categories)})")
+        return errors
+    first_index: dict[str, int] = {}
+    for i, cat in enumerate(categories):
+        _check_category(cat, f"categories[{i}]", errors)
+        key = cat.get("key") if isinstance(cat, dict) else None
+        if not _is_text(key):
+            continue
+        if key in first_index:
+            errors.append(f"categories[{i}]({key}).key: 같은 key가 앞에 있습니다(categories[{first_index[key]}])")
+        else:
+            first_index[key] = i
+    return errors
+
+
+def _reject_duplicate_keys(pairs: list[tuple[str, object]]) -> dict:
+    """json.load의 object_pairs_hook. 한 객체에 같은 키가 두 번 있으면 json은 앞의 값을 말없이 버린다.
+
+    오타 키처럼 고친 줄이 무시되는 것이라 읽기 실패로 본다(RULE17).
+    """
+    obj: dict = {}
+    for key, value in pairs:
+        if key in obj:
+            raise ValueError(f"한 객체 안에 같은 키가 두 번 있습니다: {_show(key)}")
+        obj[key] = value
+    return obj
+
+
+def load_config(path: str) -> dict | None:
+    """feeds.json을 읽고 검사한다(RULE17). 문제가 있으면 하나하나 [ERROR]로 남기고 None, 없으면 설정 dict."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            config = json.load(f, object_pairs_hook=_reject_duplicate_keys)
+    except (OSError, ValueError) as exc:  # ValueError: JSON 문법 오류, UTF-8이 아님, 중복 키
+        log(f"[ERROR] {path} 로드 실패: {exc}")
+        return None
+    errors = validate_config(config)
+    for error in errors:
+        log(f"[ERROR] {error}")
+    if errors:
+        log(f"[ERROR] {path} 형식 오류 {len(errors)}건: 수집하지 않고 끝냅니다(data.json을 쓰지 않음, 배포 안 함)")
+        return None
+    return config
+
+
+def main(argv: list[str] | None = None) -> int:
+    parser = argparse.ArgumentParser(prog="aggregate.py", description="feeds.json의 RSS를 수집해 data.json을 쓴다.")
+    parser.add_argument(
+        "--check", action="store_true", help="feeds.json 형식만 검사하고 끝낸다(네트워크 없음, data.json을 쓰지 않음)"
+    )
+    args = parser.parse_args([] if argv is None else argv)
+
+    # 형식 오류는 수집 전에 모두 알리고 끝낸다. 네트워크 요청도 소켓 설정도 하지 않는다(RULE17).
+    config = load_config(CONFIG_PATH)
+    if config is None:
         return 1
-    socket.setdefaulttimeout(feed_timeout)
+    if args.check:
+        feeds = sum(len(cat["feeds"]) for cat in config["categories"])
+        log(f"[DONE] {CONFIG_PATH} 형식 검사 통과: 카테고리 {len(config['categories'])}개, 피드 {feeds}개")
+        return 0
+
+    limits = {key: config.get(key, default) for key, default in LIMIT_DEFAULTS.items()}
+    # feedparser는 URL을 urllib으로 타임아웃 없이 열어, 새 소켓이 받는 기본 타임아웃이 곧 피드 요청 타임아웃이다.
+    # 응답 없는 피드도 그 피드만 [FAIL]로 끝난다(RULE4, DEFECT4). 0 이하는 검사에서 막힌다: 0은 "타임아웃 없음"이
+    # 아니라 non-blocking 소켓이라 모든 피드가 실패한다.
+    socket.setdefaulttimeout(limits["feed_timeout_seconds"])
 
     categories_out: list[dict] = []
     total = 0
-    for cat in config.get("categories", []):
-        log(f"[CATEGORY] {cat.get('label', cat.get('key', '?'))}")
-        result = build_category(cat, max_age_days, max_items, max_per_feed)
+    for cat in config["categories"]:
+        log(f"[CATEGORY] {cat['label']}")
+        result = build_category(
+            cat, limits["max_age_days"], limits["max_items_per_category"], limits["max_items_per_feed"]
+        )
         total += result["count"]
         categories_out.append(result)
 
@@ -351,4 +524,4 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    raise SystemExit(main(sys.argv[1:]))
