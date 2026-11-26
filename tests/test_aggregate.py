@@ -1,10 +1,15 @@
 """Unit tests for the pure helpers in aggregate.py (no external network)."""
 
+import copy
 import json
+import os
 import socket
+import subprocess
+import sys
 import threading
 import time
 from datetime import UTC, datetime, timedelta, timezone
+from pathlib import Path
 
 import feedparser
 import pytest
@@ -156,7 +161,9 @@ def test_collect_feed_reads_naive_pubdate_in_feed_tz():
     assert without_tz == {"naive": datetime(2026, 11, 21, 11, 51, 51, tzinfo=UTC), "explicit": KST_0251_UTC}
 
 
-def test_build_category_skips_only_the_feed_with_invalid_tz(monkeypatch, capsys):
+def test_build_category_skips_only_the_feed_with_invalid_tz_when_called_directly(monkeypatch, capsys):
+    # main never gets here with a bad tz: the feeds.json check stops the run first (RULE6, RULE17,
+    # test_main_stops_before_collecting_on_an_invalid_config). build_category on its own still isolates the feed.
     now = datetime.now(UTC)
     received_tz = {}
 
@@ -305,7 +312,7 @@ def test_build_category_logs_fail_for_a_malformed_feed_without_entries(capsys):
 
 # --- feed timeout: collect_feed / build_category / main (DEFECT4, fake server on 127.0.0.1) ---
 
-FEED_TIMEOUT = 0.5  # seconds; stands in for feeds.json feed_timeout_seconds
+FEED_TIMEOUT = 0.5  # seconds; the socket timeout main sets from feeds.json feed_timeout_seconds
 TIME_BOUND = 5  # a timed-out feed must give up well within this many seconds
 SILENT_HOLD = 10  # the fake server drops a connection after this, so a missing timeout fails instead of hanging
 
@@ -383,23 +390,30 @@ def test_build_category_skips_a_feed_that_never_answers(silent_server, capsys):
     assert "[FAIL] robot / silent: timed out" in err and "[OK]   robot / ok: 1 entries" in err
 
 
-def _run_main(tmp_path, monkeypatch, config):
-    (tmp_path / "feeds.json").write_text(json.dumps(config), encoding="utf-8")
+def _run_main(tmp_path, monkeypatch, config, argv=None):
+    (tmp_path / "feeds.json").write_text(json.dumps(config, ensure_ascii=False), encoding="utf-8")
     monkeypatch.setattr(aggregate, "CONFIG_PATH", str(tmp_path / "feeds.json"))
     monkeypatch.setattr(aggregate, "OUTPUT_PATH", str(tmp_path / "data.json"))
-    return aggregate.main()
+    return aggregate.main(argv)
 
 
 @pytest.mark.usefixtures("restore_socket_timeout")
 def test_main_applies_feed_timeout_seconds(tmp_path, monkeypatch, silent_server, capsys):
-    feeds = [{"name": "silent", "url": f"http://{silent_server}/feed"}, {"name": "ok", "url": RSS_UNDATED}]
-    config = {"feed_timeout_seconds": FEED_TIMEOUT, "categories": [{"key": "ai", "label": "AI", "feeds": feeds}]}
+    # feeds.json urls must be http(s) URLs (RULE17): "ok" is served from a document, "silent" goes over the network.
+    real_collect = aggregate.collect_feed
+    documents = {"https://ok.example/feed": RSS_UNDATED}
+    monkeypatch.setattr(
+        aggregate, "collect_feed", lambda name, url, tz=UTC: real_collect(name, documents.get(url, url), tz)
+    )
+    feeds = [{"name": "silent", "url": f"http://{silent_server}/feed"}, {"name": "ok", "url": "https://ok.example/feed"}]
+    # whole seconds only (RULE17)
+    config = {"feed_timeout_seconds": 1, "categories": [{"key": "ai", "label": "AI", "feeds": feeds}]}
 
     start = time.monotonic()
     assert _run_main(tmp_path, monkeypatch, config) == 0
 
     assert time.monotonic() - start < TIME_BOUND
-    assert socket.getdefaulttimeout() == FEED_TIMEOUT
+    assert socket.getdefaulttimeout() == 1
     data = json.loads((tmp_path / "data.json").read_text(encoding="utf-8"))
     assert [i["title"] for i in data["categories"][0]["items"]] == ["still here"]
     assert "[FAIL] ai / silent: timed out" in capsys.readouterr().err
@@ -437,10 +451,13 @@ def _filtered_out(name, url, tz=UTC):
 @pytest.mark.parametrize(
     ("collect", "categories"),
     [
-        (_fail, [{"key": "ai", "label": "AI", "feeds": [{"name": "a", "url": "u1"}, {"name": "b", "url": "u2"}]}]),
+        (
+            _fail,
+            [{"key": "ai", "label": "AI", "feeds": [{"name": "a", "url": "https://a/1"}, {"name": "b", "url": "https://b/1"}]}],
+        ),
         (
             _filtered_out,
-            [{"key": "ai", "label": "AI", "include_keywords": ["nomatch"], "feeds": [{"name": "a", "url": "u"}]}],
+            [{"key": "ai", "label": "AI", "include_keywords": ["nomatch"], "feeds": [{"name": "a", "url": "https://a/1"}]}],
         ),
         (_fail, []),
     ],
@@ -460,8 +477,8 @@ def test_main_publishes_nothing_when_zero_items(tmp_path, monkeypatch, capsys, c
 def test_main_writes_data_json_when_any_item_is_collected(tmp_path, monkeypatch):
     monkeypatch.setattr(aggregate, "collect_feed", _filtered_out)
     categories = [
-        {"key": "ai", "label": "AI", "feeds": [{"name": "a", "url": "u"}]},
-        {"key": "robot", "label": "로봇", "include_keywords": ["nomatch"], "feeds": [{"name": "b", "url": "u"}]},
+        {"key": "ai", "label": "AI", "feeds": [{"name": "a", "url": "https://a/1"}]},
+        {"key": "robot", "label": "로봇", "include_keywords": ["nomatch"], "feeds": [{"name": "b", "url": "https://b/1"}]},
     ]
 
     assert _run_main(tmp_path, monkeypatch, {"categories": categories}) == 0
@@ -469,6 +486,293 @@ def test_main_writes_data_json_when_any_item_is_collected(tmp_path, monkeypatch)
     data = json.loads((tmp_path / "data.json").read_text(encoding="utf-8"))
     # one empty category does not stop the run: both are published, the empty one with count 0
     assert [(c["key"], c["count"]) for c in data["categories"]] == [("ai", 1), ("robot", 0)]
+
+
+# --- feeds.json format check: validate_config / load_config / main / --check (RULE17) ---
+
+REPO_ROOT = Path(aggregate.__file__).resolve().parent
+MINIMAL_CONFIG = {"categories": [{"key": "ai", "label": "AI", "feeds": [{"name": "A", "url": "https://a.example/feed"}]}]}
+MISSING = object()  # _edited: remove the key instead of setting it
+CAT = ("categories", 0)
+FEED = (*CAT, "feeds", 0)
+CAT_AT = "categories[0](ai)"
+FEED_AT = f"{CAT_AT}.feeds[0](A)"
+
+
+def _edited(path, value):
+    """A copy of MINIMAL_CONFIG with the value at path set (or removed with MISSING); () replaces the whole file."""
+    if not path:
+        return value
+    config = copy.deepcopy(MINIMAL_CONFIG)
+    *parents, last = path
+    target = config
+    for step in parents:
+        target = target[step]
+    if value is MISSING:
+        del target[last]
+    else:
+        target[last] = value
+    return config
+
+
+def _never_called(calls):
+    return lambda *args, **kwargs: calls.append(args)
+
+
+@pytest.mark.parametrize(
+    "config",
+    [
+        MINIMAL_CONFIG,
+        {
+            **aggregate.LIMIT_DEFAULTS,
+            "categories": [
+                {
+                    "key": "ai",
+                    "label": "AI",
+                    "include_keywords": ["robot", "로봇", " ev "],
+                    "exclude_keywords": [],
+                    "feeds": [
+                        {"name": "Same", "url": "https://a.example/feed", "tz": "+09:00"},
+                        # the same name twice is allowed: both feeds share one per-feed cap (RULE8)
+                        {"name": "Same", "url": "HTTP://B.example:8080/rss?x=1", "tz": "-05:30"},
+                    ],
+                },
+                {"key": "robot", "label": "로봇", "feeds": []},
+            ],
+        },
+        {"categories": []},  # nothing to collect is RULE16's case, not a format error
+    ],
+    ids=["minimal", "every-key", "no-categories"],
+)
+def test_validate_config_accepts_a_valid_config(config):
+    assert aggregate.validate_config(config) == []
+
+
+def test_validate_config_accepts_the_real_feeds_json():
+    path = REPO_ROOT / "feeds.json"
+    assert aggregate.validate_config(json.loads(path.read_text(encoding="utf-8"))) == []
+    assert aggregate.load_config(str(path)) is not None  # also free of repeated keys
+
+
+BAD_FEED_URLS = {
+    "empty": "",  # was collected as "[OK] 0 entries" (GATE0 E5)
+    "ftp": "ftp://a.example/feed",
+    "javascript": "javascript:alert(1)",
+    "no-scheme": "a.example/feed",
+    "no-host": "https://",
+    "no-hostname": "http://user@/feed",
+    "padded": " https://a.example/feed",
+    "null": None,
+}
+BAD_TZS = {"KST": "KST", "+9": "+9", "+0900": "+0900", "iana": "Asia/Seoul", "null": None, "number": 9}
+
+
+@pytest.mark.parametrize(
+    ("path", "value", "where"),
+    [
+        pytest.param((), ["categories"], "최상위", id="root-not-object"),
+        pytest.param(("categories",), MISSING, "categories", id="categories-missing"),
+        pytest.param(("categories",), {"key": "ai"}, "categories", id="categories-not-list"),
+        pytest.param(("max_age_day",), 14, "max_age_day", id="top-unknown-key"),
+        pytest.param(CAT, "ai", "categories[0]", id="category-not-object"),
+        pytest.param((*CAT, "key"), MISSING, "categories[0].key", id="key-missing"),
+        pytest.param((*CAT, "key"), "", "categories[0].key", id="key-empty"),
+        pytest.param((*CAT, "key"), 1, "categories[0].key", id="key-not-string"),
+        pytest.param((*CAT, "label"), MISSING, f"{CAT_AT}.label", id="label-missing"),
+        pytest.param((*CAT, "label"), None, f"{CAT_AT}.label", id="label-null"),
+        pytest.param((*CAT, "feeds"), MISSING, f"{CAT_AT}.feeds", id="feeds-missing"),
+        pytest.param((*CAT, "feeds"), {"name": "A", "url": "https://a/1"}, f"{CAT_AT}.feeds", id="feeds-not-list"),
+        pytest.param((*CAT, "include_keywords"), "robot", f"{CAT_AT}.include_keywords", id="include-string"),
+        pytest.param((*CAT, "exclude_keywords"), "crypto", f"{CAT_AT}.exclude_keywords", id="exclude-string"),
+        pytest.param((*CAT, "include_keywords"), None, f"{CAT_AT}.include_keywords", id="include-null"),
+        pytest.param((*CAT, "include_keywords"), ["robot", 3], f"{CAT_AT}.include_keywords[1]", id="keyword-number"),
+        pytest.param((*CAT, "exclude_keywords"), ["crypto", " "], f"{CAT_AT}.exclude_keywords[1]", id="keyword-blank"),
+        pytest.param((*CAT, "include_keyword"), ["robot"], f"{CAT_AT}.include_keyword", id="category-unknown-key"),
+        pytest.param(FEED, "https://a.example/feed", f"{CAT_AT}.feeds[0]", id="feed-not-object"),
+        pytest.param((*FEED, "name"), MISSING, f"{CAT_AT}.feeds[0].name", id="name-missing"),
+        pytest.param((*FEED, "name"), "  ", f"{CAT_AT}.feeds[0].name", id="name-blank"),
+        pytest.param((*FEED, "url"), MISSING, f"{FEED_AT}.url", id="url-missing"),
+        *[pytest.param((*FEED, "url"), v, f"{FEED_AT}.url", id=f"url-{k}") for k, v in BAD_FEED_URLS.items()],
+        *[pytest.param((*FEED, "tz"), v, f"{FEED_AT}.tz", id=f"tz-{k}") for k, v in BAD_TZS.items()],
+        pytest.param((*FEED, "timezone"), "+09:00", f"{FEED_AT}.timezone", id="feed-unknown-key"),
+    ],
+)
+def test_validate_config_reports_each_error_class(path, value, where):
+    errors = aggregate.validate_config(_edited(path, value))
+    assert len(errors) == 1 and errors[0].startswith(f"{where}: "), errors
+
+
+@pytest.mark.parametrize(
+    "value",
+    [0, -1, "14", "two weeks", None, 14.0, 0.5, True, [14]],
+    ids=["zero", "negative", "numeric-string", "string", "null", "float-integral", "float", "bool", "list"],
+)
+@pytest.mark.parametrize("key", list(aggregate.LIMIT_DEFAULTS))
+def test_validate_config_rejects_a_limit_that_is_not_a_positive_integer(key, value):
+    errors = aggregate.validate_config({**MINIMAL_CONFIG, key: value})
+    assert errors == [f"{key}: 0보다 큰 정수여야 합니다(값: {json.dumps(value)})"]
+
+
+def test_validate_config_rejects_duplicate_category_keys():
+    cat = MINIMAL_CONFIG["categories"][0]
+    config = {"categories": [cat, {**cat, "label": "AI 2"}, {**cat, "key": "robot"}, cat]}
+
+    assert aggregate.validate_config(config) == [
+        "categories[1](ai).key: 같은 key가 앞에 있습니다(categories[0])",
+        "categories[3](ai).key: 같은 key가 앞에 있습니다(categories[0])",
+    ]
+
+
+EVERY_LEVEL_WRONG = {
+    "max_age_days": "14",
+    "max_age_day": 14,
+    "categories": [
+        {
+            "key": "ai",
+            "label": "AI",
+            "include_keywords": "robot",
+            "feeds": [{"name": "A", "url": "", "tz": "KST"}, {"url": "https://b.example/feed", "timezone": "+09:00"}],
+        },
+        {"key": "ai", "label": "", "exclude_keywords": ["ev", 3], "feeds": "https://c.example/feed"},
+        "robot",
+    ],
+}
+EVERY_LEVEL_WRONG_ERRORS = [
+    "max_age_day: 알 수 없는 키입니다"
+    "(쓸 수 있는 키: max_age_days, max_items_per_category, max_items_per_feed, feed_timeout_seconds, categories)",
+    'max_age_days: 0보다 큰 정수여야 합니다(값: "14")',
+    'categories[0](ai).include_keywords: 문자열 목록이어야 합니다(값: "robot")',
+    'categories[0](ai).feeds[0](A).url: http:// 또는 https://로 시작하고 호스트가 있는 URL이어야 합니다(값: "")',
+    'categories[0](ai).feeds[0](A).tz: +09:00 같은 ±HH:MM 고정 오프셋이어야 합니다(값: "KST")',
+    "categories[0](ai).feeds[1].timezone: 알 수 없는 키입니다(쓸 수 있는 키: name, url, tz)",
+    "categories[0](ai).feeds[1].name: 필수 키가 없습니다",
+    'categories[1](ai).label: 비어 있지 않은 문자열이어야 합니다(값: "")',
+    "categories[1](ai).exclude_keywords[1]: 비어 있지 않은 문자열이어야 합니다(값: 3)",
+    'categories[1](ai).feeds: 목록이어야 합니다(값: "https://c.example/feed")',
+    "categories[1](ai).key: 같은 key가 앞에 있습니다(categories[0])",
+    'categories[2]: 객체여야 합니다(값: "robot")',
+]
+
+
+def test_validate_config_reports_every_error_together():
+    assert aggregate.validate_config(EVERY_LEVEL_WRONG) == EVERY_LEVEL_WRONG_ERRORS
+
+
+@pytest.mark.usefixtures("restore_socket_timeout")
+def test_main_logs_every_error_on_its_own_line(tmp_path, monkeypatch, capsys):
+    assert _run_main(tmp_path, monkeypatch, EVERY_LEVEL_WRONG) == 1
+
+    lines = [line for line in capsys.readouterr().err.splitlines() if line.startswith("[ERROR]")]
+    assert lines[:-1] == [f"[ERROR] {error}" for error in EVERY_LEVEL_WRONG_ERRORS]
+    assert lines[-1].startswith(f"[ERROR] {tmp_path / 'feeds.json'} 형식 오류 12건: 수집하지 않고 끝냅니다")
+
+
+@pytest.mark.usefixtures("restore_socket_timeout")
+def test_main_keeps_each_error_on_one_line_when_names_hold_control_characters(tmp_path, monkeypatch, capsys):
+    # A line break in a key, name, unknown key or value must not start a line that reads like another log entry.
+    feed = {"name": "A\n[OK] fake", "url": "x [OK] fake"}
+    config = {"categories": [{"key": "k\r[OK]", "label": "L", "feeds": [feed], "include\nkeywords": []}]}
+
+    assert _run_main(tmp_path, monkeypatch, config) == 1
+
+    lines = capsys.readouterr().err.splitlines()  # splitlines also breaks on \r and U+2028
+    assert lines and all(line.startswith("[ERROR] ") for line in lines), lines
+    assert any("categories[0](k\\r[OK]).feeds[0](A\\n[OK] fake).url: " in line for line in lines)
+    assert any("categories[0](k\\r[OK]).include\\nkeywords: 알 수 없는 키입니다" in line for line in lines)
+
+
+@pytest.mark.usefixtures("restore_socket_timeout")
+@pytest.mark.parametrize(
+    ("path", "value", "where"),
+    [
+        # RULE6: a bad tz used to skip only its feed; now the whole run stops before collecting (RULE17)
+        pytest.param((*FEED, "tz"), "KST", f"{FEED_AT}.tz", id="invalid-tz"),
+        pytest.param((*CAT, "include_keywords"), "robot", f"{CAT_AT}.include_keywords", id="string-keywords"),
+        pytest.param(("max_age_days",), "14", "max_age_days", id="numeric-string-limit"),
+        pytest.param(("categories",), MISSING, "categories", id="no-categories-key"),
+    ],
+)
+def test_main_stops_before_collecting_on_an_invalid_config(tmp_path, monkeypatch, capsys, path, value, where):
+    calls = []
+    monkeypatch.setattr(aggregate, "build_category", _never_called(calls))
+    monkeypatch.setattr(aggregate, "collect_feed", _never_called(calls))
+    (tmp_path / "data.json").write_text("previous", encoding="utf-8")  # stands in for a local leftover
+    before = socket.getdefaulttimeout()
+
+    assert _run_main(tmp_path, monkeypatch, _edited(path, value)) == 1
+
+    assert calls == []  # no category built, no feed requested
+    assert socket.getdefaulttimeout() == before
+    assert (tmp_path / "data.json").read_text(encoding="utf-8") == "previous"
+    err = capsys.readouterr().err
+    assert f"[ERROR] {where}: " in err and "형식 오류 1건" in err
+
+
+@pytest.mark.parametrize(
+    ("content", "reason"),
+    [
+        pytest.param(None, "feeds.json", id="missing-file"),
+        pytest.param(b'{"categories": [}', "Expecting value", id="json-syntax"),
+        pytest.param('{"categories": [{"label": "로봇"}]}'.encode("cp949"), "codec can't decode", id="not-utf8"),
+        pytest.param(
+            b'{"categories": [{"key": "ai", "label": "AI", "feeds": [], "feeds": []}]}',
+            '같은 키가 두 번 있습니다: "feeds"',
+            id="repeated-key",
+        ),
+    ],
+)
+def test_main_reports_an_unreadable_feeds_json(tmp_path, monkeypatch, capsys, content, reason):
+    if content is not None:
+        (tmp_path / "feeds.json").write_bytes(content)
+    monkeypatch.setattr(aggregate, "CONFIG_PATH", str(tmp_path / "feeds.json"))
+    monkeypatch.setattr(aggregate, "OUTPUT_PATH", str(tmp_path / "data.json"))
+
+    assert aggregate.main() == 1
+
+    assert not (tmp_path / "data.json").exists()
+    err = capsys.readouterr().err
+    assert "[ERROR] " in err and " 로드 실패: " in err and reason in err
+
+
+@pytest.mark.usefixtures("restore_socket_timeout")
+def test_main_check_only_validates(tmp_path, monkeypatch, capsys):
+    calls = []
+    monkeypatch.setattr(aggregate, "build_category", _never_called(calls))
+    before = socket.getdefaulttimeout()
+
+    assert _run_main(tmp_path, monkeypatch, MINIMAL_CONFIG, ["--check"]) == 0
+    assert calls == [] and socket.getdefaulttimeout() == before
+    assert not (tmp_path / "data.json").exists()
+    assert "[DONE] " in (err := capsys.readouterr().err) and "형식 검사 통과: 카테고리 1개, 피드 1개" in err
+
+    assert _run_main(tmp_path, monkeypatch, _edited((*FEED, "tz"), "KST"), ["--check"]) == 1
+    assert calls == [] and not (tmp_path / "data.json").exists()
+    assert f"[ERROR] {FEED_AT}.tz: " in capsys.readouterr().err
+
+
+@pytest.mark.parametrize("valid", [True, False], ids=["real-feeds-json", "invalid"])
+def test_check_from_the_command_line(tmp_path, valid):
+    # What CI runs: `python aggregate.py --check` in the directory that holds feeds.json (here a copy, so a
+    # --check that went on to collect would show up as [CATEGORY] lines and a data.json in tmp_path).
+    if valid:
+        (tmp_path / "feeds.json").write_bytes((REPO_ROOT / "feeds.json").read_bytes())
+    else:
+        (tmp_path / "feeds.json").write_text(json.dumps(_edited(("max_age_days",), 0)), encoding="utf-8")
+    result = subprocess.run(
+        [sys.executable, str(REPO_ROOT / "aggregate.py"), "--check"],
+        cwd=tmp_path,
+        env={**os.environ, "PYTHONIOENCODING": "utf-8"},
+        capture_output=True,
+        encoding="utf-8",
+        timeout=60,
+    )
+
+    if valid:
+        assert result.returncode == 0 and "[DONE] feeds.json 형식 검사 통과" in result.stderr, result.stderr
+    else:
+        assert result.returncode == 1 and "[ERROR] max_age_days: " in result.stderr, result.stderr
+    assert "[CATEGORY]" not in result.stderr
+    assert not (tmp_path / "data.json").exists()
 
 
 # --- clean_text / dedup_key -------------------------------------------------------------
@@ -706,18 +1010,21 @@ def test_build_category_feeds_with_the_same_name_share_the_cap(monkeypatch):
 
 
 @pytest.mark.usefixtures("restore_socket_timeout")
-@pytest.mark.parametrize(("config_value", "expected"), [(None, 8), (3, 3)])
-def test_main_passes_max_items_per_feed(tmp_path, monkeypatch, config_value, expected):
+@pytest.mark.parametrize(
+    ("limits", "expected"),
+    [({}, (14, 40, 8)), ({"max_age_days": 3, "max_items_per_category": 5, "max_items_per_feed": 2}, (3, 5, 2))],
+    ids=["defaults", "from-feeds-json"],
+)
+def test_main_passes_max_items_per_feed(tmp_path, monkeypatch, limits, expected):
+    # All three limits reach build_category in the right place; a missing key takes its default (RULE3, RULE8).
     seen = []
 
     def fake_build(cat, max_age_days, max_items, max_per_feed=None):
-        seen.append(max_per_feed)
+        seen.append((max_age_days, max_items, max_per_feed))
         return {"key": cat["key"], "label": cat["label"], "count": 1, "items": []}
 
     monkeypatch.setattr(aggregate, "build_category", fake_build)
-    config = {"categories": [{"key": "k", "label": "L", "feeds": []}]}
-    if config_value is not None:
-        config["max_items_per_feed"] = config_value
+    config = {**limits, "categories": [{"key": "k", "label": "L", "feeds": []}]}
 
     _run_main(tmp_path, monkeypatch, config)
 

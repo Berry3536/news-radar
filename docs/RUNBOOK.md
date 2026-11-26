@@ -12,7 +12,7 @@ git config core.hooksPath .githooks       # 새 clone에서 한 번: gitflow 가
 ```powershell
 uv run ruff check .
 uv run pytest
-uv run python -c "import json; json.load(open('feeds.json', encoding='utf-8'))"
+uv run python aggregate.py --check
 git diff --check
 ```
 
@@ -27,7 +27,8 @@ uv run python -m http.server      # http://localhost:8000 에서 index.html 확�
 `data.json`은 git이 추적하지 않는다(RULE1). 네트워크가 막혔으면 배포본을 받아 화면만 확인한다:
 `git show origin/gh-pages:data.json > data.json`.
 
-피드 추가·변경은 `feeds.json`만 고친다(RULE3). 로컬 `aggregate.py` 실행으로 새 피드가 `[OK]`이고 entry가 0이 아님을 본 뒤
+피드 추가·변경은 `feeds.json`만 고친다(RULE3). 먼저 `uv run python aggregate.py --check`로 형식을 검사하고(네트워크 없음.
+틀린 곳마다 `[ERROR] <위치>: <문제>`, RULE17), 로컬 `aggregate.py` 실행으로 새 피드가 `[OK]`이고 entry가 0이 아님을 본 뒤
 feature 브랜치 → develop → 릴리스.
 
 ## 운영
@@ -63,7 +64,8 @@ git fetch origin gh-pages; git show origin/gh-pages:data.json | Select-Object -F
    `disabled_inactivity`면 60일 비활성(아래), `disabled_manually`면 누군가 끈 것.
 2. 마지막 run의 실패 단계: `gh run view <run-id> --repo Berry3536/news-radar --log-failed`.
    - `Install dependencies`: `uv.lock`과 `pyproject.toml` 불일치(`uv sync --locked`). develop에서 `uv lock` 후 릴리스.
-   - `Aggregate feeds`: `feeds.json` 로드 실패나 값 오류, 또는 전체 0건(`[ERROR]`, RULE16). 직전 배포본이 남아 있다.
+   - `Aggregate feeds`: `feeds.json` 로드 실패나 형식 오류(`[ERROR] <위치>: <문제>`, RULE17), 또는 전체 0건(`[ERROR]`, RULE16).
+     직전 배포본이 남아 있다.
      0건이면 로그의 `[FAIL]`·`0 entries`로 피드 상태를, 키워드 필터를 확인한다. 일시적인 피드 장애면 다음 예약 실행을 기다리고,
      `feeds.json` 문제면 고쳐 핫픽스.
    - `Publish to gh-pages`: 쓰기 권한. 처음 설정 3번을 확인.
@@ -102,7 +104,7 @@ gh workflow run update.yml --repo Berry3536/news-radar --ref master
 
 ## QA
 
-자동: CI(ruff · `py_compile` · pytest · `feeds.json` 파싱), develop·master push와 PR마다.
+자동: CI(ruff · `py_compile` · pytest · `feeds.json` 형식 검사 `aggregate.py --check`), develop·master push와 PR마다.
 
 수동(릴리스 머지 뒤):
 

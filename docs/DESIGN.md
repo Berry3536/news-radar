@@ -22,7 +22,7 @@ AI · 반도체 · 자동차(전기차·자율주행·내연기관·국제 규�
 | `pyproject.toml` / `uv.lock` / `.python-version` | 의존성(`feedparser`, 개발용 pytest·ruff), uv로 잠금, Python 3.13 |
 | `tests/test_aggregate.py` | `aggregate.py` 단위 테스트(외부 네트워크 없음. 피드 타임아웃은 127.0.0.1의 응답 없는 가짜 서버로) |
 | `.github/workflows/update.yml` | 예약 수집 → `gh-pages` 배포(RULE2) |
-| `.github/workflows/ci.yml` | ruff · `py_compile` · pytest · `feeds.json` 파싱 검사. 공개 레포라 단독 CI(RULE12) |
+| `.github/workflows/ci.yml` | ruff · `py_compile` · pytest · `feeds.json` 형식 검사(`aggregate.py --check`, RULE17). 공개 레포라 단독 CI(RULE12) |
 | `.github/workflows/dependabot-merge.yml` | Dependabot patch/minor PR 자동 머지(stark-kit 생성물) |
 | `README.md` | 사람용 소개와 빠른 시작 |
 
@@ -46,8 +46,9 @@ AI · 반도체 · 자동차(전기차·자율주행·내연기관·국제 규�
 
 1. `update.yml`이 체크아웃하고(예약 실행은 기본 브랜치 `master`, 수동 실행은 고른 ref) `uv sync --locked` 후 `aggregate.py`를
    실행한다.
-2. `aggregate.py`가 `feeds.json`의 카테고리마다 피드를 읽고, 항목마다 기간(RULE6) → 키워드(RULE5) → 중복(RULE7) 순으로
-   거른 뒤 최신순 정렬, 피드별 상한, 카테고리 상한(RULE8)을 적용해 `data.json`을 쓴다.
+2. `aggregate.py`가 `feeds.json` 형식을 검사하고(RULE17, 틀린 곳이 있으면 수집하지 않고 종료 코드 1) 카테고리마다 피드를 읽어,
+   항목마다 기간(RULE6) → 키워드(RULE5) → 중복(RULE7) 순으로 거른 뒤 최신순 정렬, 피드별 상한, 카테고리 상한(RULE8)을 적용해
+   `data.json`을 쓴다.
 3. 워크플로가 `index.html` + `data.json` + `.nojekyll`을 새 저장소의 커밋 1개로 만들어 `gh-pages`에 force push한다(RULE2).
    이 배포 단계는 `master`에서 돈 실행만 하고(`if: github.ref == 'refs/heads/master'`), 앞 단계가 실패하면 돌지 않는다(RULE16).
    다른 ref로 수동 실행하면 수집만 하고 배포하지 않는다. `master`/`develop`에는 봇 커밋이 남지 않는다(RULE1).
@@ -55,16 +56,22 @@ AI · 반도체 · 자동차(전기차·자율주행·내연기관·국제 규�
 
 `feeds.json` 형식:
 
-| 키 | 뜻 | 없을 때 |
-|---|---|---|
-| `max_age_days` | 이보다 오래된 항목 제외, 날짜 미상은 유지(RULE6) | 14 |
-| `max_items_per_category` | 카테고리당 최대 노출 수(RULE8) | 40 |
-| `max_items_per_feed` | 한 카테고리 안에서 피드(출처 이름) 하나가 차지할 수 있는 최대 건수. 카테고리 상한보다 먼저 건다(RULE8) | 8 |
-| `feed_timeout_seconds` | 피드 요청 타임아웃(초). 연결, TLS 핸드셰이크, 소켓 읽기 한 번마다 걸리고(응답 전체 시간·DNS 조회는 아님), 넘으면 그 피드만 실패(RULE4). 0보다 커야 한다(0 이하면 `[ERROR]`, 종료 코드 1, 배포하지 않음) | 30 |
-| `categories[].key` / `label` | 내부 식별자(고유) / 화면 표시명 | — |
-| `categories[].include_keywords` / `exclude_keywords` | 키워드 필터(RULE5) | 빈 목록 |
-| `categories[].feeds[]` | `{ "name", "url", "tz" }`(`tz`는 선택). 카테고리마다 주제 피드를 넣고, 주제가 섞인 피드는 키워드로 거른다. `name`은 화면의 출처 이름이자 피드별 상한을 세는 단위(RULE8) | — |
-| `categories[].feeds[].tz` | 원문에 시간대가 없는 발행 시각을 읽을 고정 UTC 오프셋 `±HH:MM`(예: `"+09:00"`). 시간대가 적힌 시각에는 쓰지 않는다(RULE6). 같은 피드를 여러 카테고리에 넣으면 항목마다 적는다 | UTC |
+| 키 | 뜻 | 형식 | 없을 때 |
+|---|---|---|---|
+| `max_age_days` | 이보다 오래된 항목 제외, 날짜 미상은 유지(RULE6) | 0보다 큰 정수 | 14 |
+| `max_items_per_category` | 카테고리당 최대 노출 수(RULE8) | 0보다 큰 정수 | 40 |
+| `max_items_per_feed` | 한 카테고리 안에서 피드(출처 이름) 하나가 차지할 수 있는 최대 건수. 카테고리 상한보다 먼저 건다(RULE8) | 0보다 큰 정수 | 8 |
+| `feed_timeout_seconds` | 피드 요청 타임아웃(초). 연결, TLS 핸드셰이크, 소켓 읽기 한 번마다 걸리고(응답 전체 시간·DNS 조회는 아님), 넘으면 그 피드만 실패(RULE4) | 0보다 큰 정수 | 30 |
+| `categories` | 카테고리 목록. 비어 있으면 전체 0건이라 배포하지 않는다(RULE16) | 목록 | 필수 |
+| `categories[].key` / `label` | 내부 식별자 / 화면 표시명 | 비어 있지 않은 문자열. `key`는 카테고리끼리 달라야 한다 | 필수 |
+| `categories[].include_keywords` / `exclude_keywords` | 키워드 필터(RULE5) | 비어 있지 않은 문자열의 목록(문자열 하나는 안 된다) | 빈 목록 |
+| `categories[].feeds[]` | `{ "name", "url", "tz" }`. 카테고리마다 주제 피드를 넣고, 주제가 섞인 피드는 키워드로 거른다 | 목록(비어도 된다) | 필수 |
+| `categories[].feeds[].name` / `url` | 화면의 출처 이름이자 피드별 상한을 세는 단위(RULE8, 같은 이름이면 상한을 같이 센다) / 피드 주소 | 비어 있지 않은 문자열 / 앞뒤 공백 없이 `http://`·`https://`로 시작하고 호스트가 있는 URL | 필수 |
+| `categories[].feeds[].tz` | 원문에 시간대가 없는 발행 시각을 읽을 고정 UTC 오프셋(예: `"+09:00"`). 시간대가 적힌 시각에는 쓰지 않는다(RULE6). 같은 피드를 여러 카테고리에 넣으면 항목마다 적는다 | `±HH:MM` | UTC |
+
+`aggregate.py`는 수집 전에 이 표대로 검사한다(RULE17): 표에 없는 키(오타 `include_keyword` 등)는 오류, 키에 적은 `null`은
+값으로 보고 검사한다(기본값을 쓰려면 키를 뺀다), `true`·소수·숫자로 읽히는 문자열(`"14"`)은 정수가 아니다. 한 객체 안에 같은 키가
+두 번 있으면 읽기 실패다. 검사만 하려면 `uv run python aggregate.py --check`(네트워크 없음, CI도 같은 명령).
 
 `data.json` 형식(수집기 → 대시보드 경계): `generated_at`(UTC ISO 8601), `categories[]` = `{ key, label, count, items[] }`,
 `items[]` = `{ title, link, source, published }`(`link`는 `http`/`https` 절대 URL 또는 빈 문자열(RULE11), `published`는 UTC ISO 8601
@@ -77,21 +84,19 @@ GitHub Pages(정적 서빙), Google Fonts(대시보드 글꼴 스타일시트).
 
 | 오류 | 처리 | 보이는 곳 |
 |---|---|---|
-| `feeds.json` 읽기·파싱 실패 | `[ERROR]` 후 종료 코드 1 → 워크플로 실패, 배포 단계를 건너뛰어 직전 배포본이 남는다. CI가 파싱을 미리 검사한다 | Actions run 실패 |
-| `feeds.json` 키 누락·형식 오류(카테고리에 `key`·`label`이 없음, 숫자로 읽히지 않는 한도 값(`max_age_days: "two weeks"`, `null`), `categories`·`feeds`가 목록이 아님, 키워드 목록에 문자열이 아닌 값) | 검사하지 않는다. `[ERROR]` 없이 traceback(`KeyError`·`ValueError`·`TypeError`·`AttributeError`)으로 끝나 종료 코드 1 → 배포 단계를 건너뛰어 직전 배포본이 남는다. 카테고리 하나의 오류도 실행 전체를 멈춘다(피드 `tz`와 달리 격리되지 않는다). 숫자로 읽히는 문자열(`"14"`)은 받아들인다. CI의 `feeds.json` 검사는 JSON 파싱만 본다 | Actions run 실패, run 로그 traceback |
-| `feeds.json` 값이 틀렸지만 실행은 됨(`include_keywords`·`exclude_keywords`를 목록 대신 문자열로 씀, 한도 값 0 이하. `feed_timeout_seconds` 0 이하는 예외로 `[ERROR]` 후 종료 코드 1, RULE4) | 검사하지 않고 그대로 쓴다. 문자열 키워드 목록은 글자 하나하나가 키워드가 되어(`"robot"` → `r`·`o`·`b`·`t`) include는 거의 전부 통과시키고 exclude는 거의 전부 뺀다. `max_items_per_category` 음수는 카테고리마다 정렬 맨 뒤 항목을 그 수만큼 빼고, `max_age_days` 0 이하는 발행 시각이 수집 시각보다 이른 항목을 모두 뺀다(날짜 미상은 남는다). `max_items_per_category` 0이나 `max_items_per_feed` 0 이하는 모든 카테고리를 비운다(전체 0건, RULE16) | 경고 없음. 대시보드에서 카테고리 내용·건수가 달라진 것으로만 보인다(전체 0건이면 아래 "수집 결과가 전체 0건" 줄) |
+| `feeds.json` 읽기·파싱 실패(파일 없음, JSON 문법 오류, UTF-8이 아님, 한 객체 안에 같은 키가 두 번) | `[ERROR] feeds.json 로드 실패: <원인>` 후 종료 코드 1 → 워크플로 실패, 배포 단계를 건너뛰어 직전 배포본이 남는다. CI가 같은 검사(`aggregate.py --check`)를 미리 돌린다 | CI 실패, Actions run 실패 |
+| `feeds.json` 형식 오류(RULE17): 필수 키 누락(`categories`, 카테고리 `key`·`label`·`feeds`, 피드 `name`·`url`), 표에 없는 키(오타 `include_keyword`), 목록이 아닌 `categories`·`feeds`, 목록 대신 문자열로 쓴 `include_keywords`·`exclude_keywords`(`"robot"`), 문자열이 아니거나 빈 키워드, 0보다 큰 정수가 아닌 한도(`max_age_days: "two weeks"`, `null`, 숫자로 읽히는 문자열 `"14"`, 소수, `true`, `max_age_days` 0 이하, `max_items_per_category` 0·음수, `max_items_per_feed` 0 이하, `feed_timeout_seconds` 0 이하), 빈 `key`·`label`·`name`, 카테고리 `key` 중복, `http`/`https`가 아니거나 호스트가 없는 피드 `url`(빈 `url` 포함), `±HH:MM`이 아닌 피드 `tz`(`"KST"`, `"+9"`) | 수집 전에 파일 전체를 검사해 문제마다 `[ERROR] <위치>: <문제>` 한 줄(위치 예 `categories[3](battery).feeds[1](디일렉).tz`, 번호는 0부터), 끝에 `[ERROR] feeds.json 형식 오류 N건: ...`을 남기고, 네트워크 요청 없이 종료 코드 1 → 배포 단계를 건너뛰어 직전 배포본이 남는다. 피드 하나의 `tz` 오류도 실행 전체를 멈춘다(RULE6). CI가 같은 검사를 네트워크 없이 돌려(`aggregate.py --check`) 릴리스 전에 잡는다 | CI 실패, Actions run 실패, run 로그 `[ERROR] <위치>: <문제>` |
 | 피드 하나 실패(예외, 또는 `bozo`이면서 entry 0개) | 그 피드만 건너뛰고 계속(RULE4) | run 로그 `[FAIL] <카테고리> / <피드>: <원인>` |
 | 피드가 응답하지 않음(연결·핸드셰이크·읽기 대기가 `feed_timeout_seconds`를 넘음) | 그 요청을 끊고 그 피드만 건너뛰고 계속(RULE4) | run 로그 `[FAIL] <카테고리> / <피드>: ... timed out`(응답 대기: http 피드는 `timed out`, https 피드는 `The read operation timed out`. 연결·TLS 단계에서 끊기면 `bozo: <urlopen error ... timed out>`) |
 | 수집 job이 `timeout-minutes`(15분)를 넘음(피드 타임아웃이 끊지 못하는 멈춤) | GitHub가 job을 취소한다. 배포 단계가 돌지 않아 직전 배포본이 남는다 | Actions run 취소 |
-| 피드 항목의 `tz` 형식이 틀림(`"KST"`, `"+9"` 등) | 그 피드만 요청 없이 건너뛰고 계속(RULE4). CI의 `feeds.json` 검사는 JSON 파싱만 본다 | run 로그 `[FAIL] <카테고리> / <피드>: 잘못된 tz 값 ...` |
 | 수집 결과가 전체 0건(피드가 모두 실패, 필터가 전부 걸러냄, 카테고리 없음) | `[ERROR]` 후 `data.json`을 쓰지 않고 종료 코드 1 → 배포 단계를 건너뛰어 직전 배포본이 남는다(RULE16). 카테고리 하나만 0건이면 그대로 게시 | Actions run 실패, run 로그 `[ERROR] 수집된 항목이 0건...`. 대시보드는 직전 배포본("last sync"가 멈춤) |
 | 항목의 날짜를 해석할 수 없음(피드 `tz`로 옮기면 날짜 범위를 넘는 시각 포함) | 그 항목만 날짜 미상으로 유지, 정렬 맨 뒤(RULE6). 피드는 계속(RULE4) | 대시보드 "날짜 미상" |
 | 항목 링크가 `http`/`https` 절대 URL이 아님(`javascript:` 같은 다른 스킴, 기준 URL 없이 남은 상대 링크, URL로 나눌 수 없음) | 항목은 남기고 링크만 빈 문자열로 내보낸다. 중복 키는 제목(RULE7). 대시보드도 `http(s)://`로 시작하지 않는 링크는 `href`에 넣지 않는다(RULE11) | 대시보드에서 그 항목 제목이 링크 없는 글자로 보인다. 로그에는 남지 않는다 |
 | 대시보드가 `data.json`을 못 받음 | 오류 안내(HTTP 상태 포함) | 대시보드 붉은 안내 문구 |
 
-수집은 피드 단위로 fail-open(RULE4), 설정 오류(읽기·파싱 실패, 키 누락·형식 오류)와 전체 0건은 배포 쪽으로 fail-closed(직전
-배포본 유지, RULE16)다. 다만 `feeds.json` 값의 형식·범위는 검사하지 않아, 실행을 멈추지 않는 잘못된 값(문자열 키워드 목록,
-0 이하 한도)은 경고 없이 그대로 쓰인다(ROADMAP GATE0 관찰).
+수집은 피드 단위로 fail-open(RULE4), 설정 오류(읽기·파싱 실패, 형식 오류, RULE17)와 전체 0건은 배포 쪽으로 fail-closed(직전
+배포본 유지, RULE16)다. 형식 검사는 형식과 값의 범위만 본다: 형식이 맞는 URL이 죽었거나 RSS가 아니면 수집 때 그 피드만
+`[FAIL]`(RULE4)이고, 아무 항목도 고르지 못하는 키워드는 경고 없이 쓰인다.
 
 ## 알려진 한계
 
@@ -108,6 +113,8 @@ GitHub Pages(정적 서빙), Google Fonts(대시보드 글꼴 스타일시트).
 - 예약 실행은 기본 브랜치 `master`의 파일을 쓴다. `feeds.json` 변경은 릴리스로 `master`에 들어간 뒤부터 반영된다.
 - 피드 URL은 바뀌거나 죽을 수 있다. 실패는 `[FAIL]`로 보이지만, 정상 응답에 entry가 0개인 피드는 `[OK] 0 entries`로
   남아 구별되지 않는다(ROADMAP GATE0 관찰).
+- 한도 값에는 상한이 없다(RULE17은 0보다 큰 정수만 본다). 날짜·소켓이 다룰 수 없을 만큼 큰 값(예: `max_age_days` 1000000)은
+  형식 검사를 통과한 뒤 수집 전에 `[ERROR]` 없이 traceback(`OverflowError`)으로 끝난다(종료 코드 1, 배포하지 않음).
 - 전체 0건이면 직전 배포본이 그대로 남아(RULE16), 대시보드만 봐서는 수집이 멈춘 것을 알기 어렵다. "last sync" 시각과
   Actions run 실패로 본다.
 - 대시보드 검색은 제목과 출처만 본다(요약은 `data.json`에 없다).
