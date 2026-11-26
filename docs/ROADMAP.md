@@ -30,7 +30,7 @@ News Radar는 지금 최종 목표 GATE2를 향한다(GR1 pass, 2026-11-26). 게
 | 현재 티켓 | GATE2-T3, GATE2-T2 조사 |
 | 마지막 GR | GR1 pass (2026-11-26) |
 | 최신 릴리스 | v1.2.0 (2026-11-26) |
-| 열린 결함 | 0 |
+| 열린 결함 | 1 (DEFECT8) |
 | 다음 할 일 | GATE2-T3 → T2(조사 결과 사용자 확인 뒤 `feeds.json`) → v1.3.0 → GR2 |
 
 ## 현재 작업
@@ -53,6 +53,7 @@ News Radar는 지금 최종 목표 GATE2를 향한다(GR1 pass, 2026-11-26). 게
 | DEFECT5 | 2026-11-10, GATE0 결함 리뷰: 실험 E6(Node `vm`), feedparser 오프라인 파싱, `index.html` `renderGrid`(352~354행) | 항목 링크의 스킴을 검사하지 않는다. 피드가 `javascript:`·`vbscript:`·`data:` 링크를 주면 feedparser가 그대로 넘기고, `esc()`는 HTML 특수문자만 바꾸므로 그 값이 그대로 `<a href>`가 된다. RULE11의 근거(외부 피드 내용으로 공개 페이지에 스크립트 주입)를 막지 못한다 | 악성·탈취된 피드, 또는 `http://` 피드 3개의 전송 구간 변조로 대시보드 링크에 스크립트 URL이 들어갈 수 있다. 클릭해야 하고, `target="_blank"` 링크에서 실제로 실행되는지는 브라우저마다 다르며 이번에 확인하지 않았다. 지금 배포본의 링크는 모두 `http(s)://`다 | fixed by GATE1-T5 (수집기는 테스트, 대시보드 `isWebLink`는 저장소 테스트 없이 Node 재현으로 확인: 2026-11-24 verifier, 입력 16개 중 `<a>`는 http(s) 2건뿐) |
 | DEFECT6 | 2026-11-10, GATE0 결함 리뷰: RULE12 대조(`git grep`), `.claude/CONVENTIONS.md` 43행 | stark-kit이 생성한 `.claude/CONVENTIONS.md`가 예시로 다른 비공개 저장소의 이름과 그 안의 파일 경로를 담고 있다(RULE12 "비공개 정보를 커밋하지 않는다"와 다름) | 2026-10-14(`dd59233`)부터 공개 레포의 `master`·`develop`에 있다. 토큰·자격 증명은 아니다. 고쳐도 git 이력에는 남는다(이력은 다시 쓰지 않는다) | fixed by GATE1-T7 |
 | DEFECT7 | 2026-11-25, GR1 검토(verifier): `aggregate.py` `parse_date`(시간대 없는 시각을 피드 `tz`로 옮기는 줄) | 시간대 없는 시각을 피드 `tz`로 옮길 때 날짜 범위를 넘으면(`+09:00` 피드의 `0001-01-01 00:00:00`, `-05:00` 피드의 `9999-12-31 23:59:59`) `OverflowError`가 항목 처리 밖으로 나가 그 피드 전체가 `[FAIL]`이 된다(RULE4·RULE6과 다름). GATE1-T3가 만든 경로 | 그런 항목 하나가 든 피드는 그 실행에서 0건. 실제 피드에서는 관찰되지 않았다. GATE0에서 기각한 극단 날짜와 같은 부류지만 T3 전에는 피드가 실패하지 않았고 T3의 의도(범위를 넘는 날짜 하나가 피드를 실패시키지 않는다)와도 다르다 | fixed by GATE1-T11 |
+| DEFECT8 | 2026-11-26, GATE2-T3 작업 중 (`index.html` `.grid`의 `display: grid`) | 검색 결과가 0건이면 `showNotice`가 그리드에 `hidden`을 주지만, 작성자 CSS `.grid { display: grid }`가 브라우저 기본 `[hidden] { display: none }`을 이겨 그리드가 숨겨지지 않는다 | "검색 결과가 없습니다" 안내 아래에 직전 목록(예: 192건)이 그대로 남아, 검색이 아무것도 거르지 않은 것처럼 보인다. v1.2.0 배포본에서 재현(Edge, `hidden`인데 계산된 `display`는 `grid`). 수집·배포는 정상 | open (GATE2-T3에서 수정, 사용자 화면 확인 대기) |
 
 ## GATE0 — 현황 진단 (2026-11-04, 결함 리뷰 2026-11-10)
 
