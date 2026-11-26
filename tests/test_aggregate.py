@@ -668,6 +668,20 @@ def test_main_logs_every_error_on_its_own_line(tmp_path, monkeypatch, capsys):
 
 
 @pytest.mark.usefixtures("restore_socket_timeout")
+def test_main_keeps_each_error_on_one_line_when_names_hold_control_characters(tmp_path, monkeypatch, capsys):
+    # A line break in a key, name, unknown key or value must not start a line that reads like another log entry.
+    feed = {"name": "A\n[OK] fake", "url": "x [OK] fake"}
+    config = {"categories": [{"key": "k\r[OK]", "label": "L", "feeds": [feed], "include\nkeywords": []}]}
+
+    assert _run_main(tmp_path, monkeypatch, config) == 1
+
+    lines = capsys.readouterr().err.splitlines()  # splitlines also breaks on \r and U+2028
+    assert lines and all(line.startswith("[ERROR] ") for line in lines), lines
+    assert any("categories[0](k\\r[OK]).feeds[0](A\\n[OK] fake).url: " in line for line in lines)
+    assert any("categories[0](k\\r[OK]).include\\nkeywords: 알 수 없는 키입니다" in line for line in lines)
+
+
+@pytest.mark.usefixtures("restore_socket_timeout")
 @pytest.mark.parametrize(
     ("path", "value", "where"),
     [
@@ -738,15 +752,15 @@ def test_main_check_only_validates(tmp_path, monkeypatch, capsys):
 
 @pytest.mark.parametrize("valid", [True, False], ids=["real-feeds-json", "invalid"])
 def test_check_from_the_command_line(tmp_path, valid):
-    # What CI runs: `python aggregate.py --check` in the directory that holds feeds.json.
+    # What CI runs: `python aggregate.py --check` in the directory that holds feeds.json (here a copy, so a
+    # --check that went on to collect would show up as [CATEGORY] lines and a data.json in tmp_path).
     if valid:
-        cwd = REPO_ROOT
+        (tmp_path / "feeds.json").write_bytes((REPO_ROOT / "feeds.json").read_bytes())
     else:
-        cwd = tmp_path
-        (cwd / "feeds.json").write_text(json.dumps(_edited(("max_age_days",), 0)), encoding="utf-8")
+        (tmp_path / "feeds.json").write_text(json.dumps(_edited(("max_age_days",), 0)), encoding="utf-8")
     result = subprocess.run(
         [sys.executable, str(REPO_ROOT / "aggregate.py"), "--check"],
-        cwd=cwd,
+        cwd=tmp_path,
         env={**os.environ, "PYTHONIOENCODING": "utf-8"},
         capture_output=True,
         encoding="utf-8",
@@ -757,7 +771,8 @@ def test_check_from_the_command_line(tmp_path, valid):
         assert result.returncode == 0 and "[DONE] feeds.json 형식 검사 통과" in result.stderr, result.stderr
     else:
         assert result.returncode == 1 and "[ERROR] max_age_days: " in result.stderr, result.stderr
-        assert not (tmp_path / "data.json").exists()
+    assert "[CATEGORY]" not in result.stderr
+    assert not (tmp_path / "data.json").exists()
 
 
 # --- clean_text / dedup_key -------------------------------------------------------------
@@ -995,18 +1010,21 @@ def test_build_category_feeds_with_the_same_name_share_the_cap(monkeypatch):
 
 
 @pytest.mark.usefixtures("restore_socket_timeout")
-@pytest.mark.parametrize(("config_value", "expected"), [(None, 8), (3, 3)])
-def test_main_passes_max_items_per_feed(tmp_path, monkeypatch, config_value, expected):
+@pytest.mark.parametrize(
+    ("limits", "expected"),
+    [({}, (14, 40, 8)), ({"max_age_days": 3, "max_items_per_category": 5, "max_items_per_feed": 2}, (3, 5, 2))],
+    ids=["defaults", "from-feeds-json"],
+)
+def test_main_passes_max_items_per_feed(tmp_path, monkeypatch, limits, expected):
+    # All three limits reach build_category in the right place; a missing key takes its default (RULE3, RULE8).
     seen = []
 
     def fake_build(cat, max_age_days, max_items, max_per_feed=None):
-        seen.append(max_per_feed)
+        seen.append((max_age_days, max_items, max_per_feed))
         return {"key": cat["key"], "label": cat["label"], "count": 1, "items": []}
 
     monkeypatch.setattr(aggregate, "build_category", fake_build)
-    config = {"categories": [{"key": "k", "label": "L", "feeds": []}]}
-    if config_value is not None:
-        config["max_items_per_feed"] = config_value
+    config = {**limits, "categories": [{"key": "k", "label": "L", "feeds": []}]}
 
     _run_main(tmp_path, monkeypatch, config)
 

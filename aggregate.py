@@ -314,12 +314,18 @@ def build_category(cat: dict, max_age_days: int, max_items: int, max_per_feed: i
     }
 
 
+def _plain(value: object) -> str:
+    """오류 메시지에 넣는 글자. 줄바꿈 같은 제어 문자는 \n처럼 적어 [ERROR] 한 줄이 둘로 깨지지 않게 한다."""
+    return "".join(c if c.isprintable() else c.encode("unicode_escape").decode("ascii") for c in str(value))
+
+
 def _show(value: object) -> str:
     """오류 메시지에 넣을 값. feeds.json에 적힌 모양(JSON)으로, 길면 자른다."""
     try:
         text = json.dumps(value, ensure_ascii=False)
     except (TypeError, ValueError):
         text = repr(value)
+    text = _plain(text)  # json은 U+2028 같은 줄 구분 문자를 그대로 둔다
     return text if len(text) <= 60 else text[:59] + "…"
 
 
@@ -350,7 +356,7 @@ def _is_tz(value: object) -> bool:
 
 def _named(where: str, name: object) -> str:
     """위치에 카테고리 key나 피드 name을 붙인다: categories[3] → categories[3](battery)."""
-    return f"{where}({name})" if _is_text(name) else where
+    return f"{where}({_plain(name)})" if _is_text(name) else where
 
 
 def _check_keys(obj: dict, allowed: tuple[str, ...], required: tuple[str, ...], where: str, errors: list[str]) -> None:
@@ -358,7 +364,7 @@ def _check_keys(obj: dict, allowed: tuple[str, ...], required: tuple[str, ...], 
     prefix = f"{where}." if where else ""
     for key in obj:
         if key not in allowed:
-            errors.append(f"{prefix}{key}: 알 수 없는 키입니다(쓸 수 있는 키: {', '.join(allowed)})")
+            errors.append(f"{prefix}{_plain(key)}: 알 수 없는 키입니다(쓸 수 있는 키: {', '.join(allowed)})")
     for key in required:
         if key not in obj:
             errors.append(f"{prefix}{key}: 필수 키가 없습니다")
@@ -436,7 +442,8 @@ def validate_config(config: object) -> list[str]:
         if not _is_text(key):
             continue
         if key in first_index:
-            errors.append(f"categories[{i}]({key}).key: 같은 key가 앞에 있습니다(categories[{first_index[key]}])")
+            where = _named(f"categories[{i}]", key)
+            errors.append(f"{where}.key: 같은 key가 앞에 있습니다(categories[{first_index[key]}])")
         else:
             first_index[key] = i
     return errors
