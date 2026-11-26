@@ -31,7 +31,7 @@ News Radar는 지금 GATE1에 있고 최종 목표 GATE2를 향한다. 게이트
 | 마지막 GR | GR0 pass with notes (2026-11-10) |
 | 최신 릴리스 | v1.2.0 (2026-11-26) |
 | 열린 결함 | 0 |
-| 다음 할 일 | v1.2.0 QA(QA1~QA4)와 GR1 판정안 |
+| 다음 할 일 | 사용자의 GR1 판정과 GATE2 전 RULE 공백 결정 → GATE2 티켓 |
 
 ## 현재 작업
 
@@ -132,7 +132,7 @@ note다. GATE1은 이 둘을 먼저 고치고(GATE1-T2·T3), DEFECT1·DEFECT4·D
 v1.1.0은 T1·T2·T3·T7(중복 키·시각 해석 규칙). (GATE1 신설은 2026-11-04, DEFECT2~DEFECT6과 전체 0건 규칙 추가는 2026-11-10,
 중간 릴리스와 T9·T10 추가는 2026-11-24 사용자 결정, GR 기록 GR0 행 참조.)
 
-작업 순서는 피해 순이다: T2 → T3 → T1 → T7(여기까지 v1.1.0) → T4·T5(병렬) → T6 → T9 → T10 → T8 → T11(GR1 검토 지적). T2와 T3은 같은 릴리스로
+작업 순서는 피해 순이다: T2 → T3 → T1 → T7(여기까지 v1.1.0) → T4·T5(병렬) → T6 → T9 → T10 → T8 → T11(GR1 검토 지적) → T12(v1.2.0 QA와 GR1 판정안). T2와 T3은 같은 릴리스로
 낸다(T2만 나가면 9시간 미래 항목이 그 피드마다 최대 50건으로 늘어난다). T10은 T9의 피드별 상한을 쓰므로 T9 뒤에 둔다.
 
 | 티켓 | 작업 | 닫는 결함 | 선행 | 상태 |
@@ -148,23 +148,35 @@ v1.1.0은 T1·T2·T3·T7(중복 키·시각 해석 규칙). (GATE1 신설은 202
 | GATE1-T9 | 피드 하나가 카테고리 상한을 다 차지하지 않도록 피드별 상한을 둔다. 값은 `feeds.json`에 두고(RULE3) T10 조사의 피드별 하루 기사 수로 정한다. RULE8 개정(최신순 정렬과 카테고리 상한은 유지) | — (2026-11-24 사용자 결정. 관찰: 2026-11-21 로컬 수집에서 robot 40건 중 로봇신문 32건, arXiv가 실패하면 ai 40건이 모두 AI타임스) | — | done |
 | GATE1-T10 | 카테고리를 AI·반도체·자동차·배터리·로봇 5개로 바꾼다(`feeds.json`만, RULE3). 전기차·모터를 자동차(전기차·자율주행·내연기관·국제 규제)로 합치고 반도체를 새로 둔다. 후보 피드는 RSS/Atom만(RULE13), feedparser로 수집되는지·하루 기사 수·시간대 표기를 확인해 고른다. DESIGN 카테고리 설명과 QA3 | — (2026-11-24 사용자 결정) | T9 | done |
 | GATE1-T11 | GR1 검토 지적 정리: DEFECT7 수정(범위를 넘는 날짜는 그 항목만 날짜 미상), RULE4 근거의 요청 수(27개·13.5분), DESIGN의 `tz` 피드 수, README 배포 문장, 대시보드 부제(카테고리 5개). 중복 제거와 피드별 상한이 겹치는 경우는 고치지 않고 DESIGN 알려진 한계에 적는다(지금 구성에서는 일어나지 않음) | DEFECT7 | T1~T10 | done |
+| GATE1-T12 | GR1 판정안: v1.2.0 QA 증거로 종료 기준 확인, T11 재검토(verifier, 범위 `3efaf34..4ca8515`) 지적 정리. T11이 `test_parse_date_survives_overflowing_raw_string`의 struct 경로 검사를 새 테스트 안으로 옮겨 그 검사가 사라진 것을 되돌리고, RFC 2822 형식 `9999-12-31`(`-05:00` 피드)로 `parse_date` 문자열 경로의 범위 초과를 고정한다(테스트만, 제품 동작은 같음). 두 테스트는 해당 `except OverflowError`를 지운 변이에서 각각 실패한다 | — | T11 | done |
 
 종료 기준 (GR1):
 
-- [ ] DEFECT1~DEFECT7이 모두 `fixed by GATE1-Tk`. 증거: 각 티켓의 테스트와 머지 커밋.
+- [x] DEFECT1~DEFECT7이 모두 `fixed by GATE1-Tk`. 증거: 각 티켓의 테스트와 머지 커밋.
+  v1.2.0 확인(2026-11-26): 결함 표의 7건 모두 `fixed by`, 티켓 머지 12개(`git log --merges --grep='GATE1-T' develop`), pytest 103 passed(CI run 45811577014, master `d49d143` = v1.2.0).
 - [x] 배포본 화면의 "last sync" 값이 `data.json`의 `generated_at`(UTC)과 분 단위까지 같다. 증거: 릴리스 뒤 Pages 화면과 배포본 `data.json` 비교, KST 브라우저에서 확인.
   v1.1.0 확인(2026-11-24): QA1 run 45397473585(master `adce64b`) → gh-pages `7065663` → pages run 45397524105. 배포본 `index.html`의
   `fmtDateTimeUTC`를 KST(UTC+9) Node에서 실행: `generated_at` `2026-11-24T12:51:06Z` → 화면 `2026-11-24 12:51 UTC`.
-- [ ] 릴리스 뒤 배포본 `data.json`에서 include 필터가 없는 카테고리(v1.1.0은 ev·robot·ai, v1.2.0은 그 피드들이 들어간 카테고리)에 모터그래프·로봇신문·AI타임스가 각각 2건 이상 있고, 어떤 항목의 `published`도 `generated_at`보다 늦지 않다. 증거: QA1 실행 뒤 배포본.
+  v1.2.0 확인(2026-11-26): QA1 run 45811738873(master `d49d143`) → gh-pages `e34093c` → pages run 45811810172. 배포본 `index.html`
+  스크립트 전체를 KST Node에서 실행: `generated_at` `2026-11-26T11:34:23Z` → 화면 `2026-11-26 11:34 UTC`. Pages가 내보내는 두 파일이 gh-pages와 같다.
+- [x] 릴리스 뒤 배포본 `data.json`에서 include 필터가 없는 카테고리(v1.1.0은 ev·robot·ai, v1.2.0은 그 피드들이 들어간 카테고리)에 모터그래프·로봇신문·AI타임스가 각각 2건 이상 있고, 어떤 항목의 `published`도 `generated_at`보다 늦지 않다. 증거: QA1 실행 뒤 배포본.
   v1.1.0 확인(2026-11-24, 같은 배포본, 178건): ev 모터그래프 14 · robot 로봇신문 37 · ai AI타임스 40, `generated_at`보다 늦은 항목 0.
-  같은 배포본에서 robot은 40건 중 로봇신문 37·IEEE Spectrum 0, ai는 arXiv 두 피드가 0 entries라 40건 모두 AI타임스(GATE1-T9 근거). v1.2.0 뒤 다시 확인.
-- [ ] 응답하지 않는 피드(테스트의 로컬 가짜 서버)는 정해진 시간 안에 `[FAIL]`로 끝나고 나머지 피드는 수집된다. `update.yml` job에 `timeout-minutes`가 있다. 증거: 테스트와 CI run.
-- [ ] `http`/`https`가 아닌 링크는 `data.json`과 대시보드 `href`에 나오지 않는다. 증거: 테스트.
-- [ ] 전체 0건이면 배포 단계가 돌지 않고 직전 배포본이 남는다. 증거: 테스트(`main()` 종료 코드)와 워크플로 단계 조건.
-- [ ] `.claude/CONVENTIONS.md`에 다른 저장소의 이름·경로가 없다. 증거: `git grep`.
-- [ ] 배포본 대시보드의 카테고리가 AI·반도체·자동차·배터리·로봇 5개이고, 새·바뀐 피드가 모두 `[OK]`이며 entry가 0이 아니다. 증거: QA1·QA3.
-- [ ] 한 카테고리 안에서 어떤 피드도 피드별 상한을 넘지 않는다. 증거: 테스트와 릴리스 뒤 배포본 `data.json`.
-- [ ] v1.2.0 태그와 GitHub Release 공개(v1.1.0은 중간 릴리스).
+  같은 배포본에서 robot은 40건 중 로봇신문 37·IEEE Spectrum 0, ai는 arXiv 두 피드가 0 entries라 40건 모두 AI타임스(GATE1-T9 근거).
+  v1.2.0 확인(2026-11-26, 배포본 `e34093c`, 192건): auto 모터그래프 8 · robot 로봇신문 8 · ai AI타임스 8(피드별 상한), `generated_at`보다 늦은 항목 0, 날짜 미상 0.
+- [x] 응답하지 않는 피드(테스트의 로컬 가짜 서버)는 정해진 시간 안에 `[FAIL]`로 끝나고 나머지 피드는 수집된다. `update.yml` job에 `timeout-minutes`가 있다. 증거: 테스트와 CI run.
+  `test_collect_feed_times_out_on_silent_server`(http·https), `test_build_category_skips_a_feed_that_never_answers`, `test_main_applies_feed_timeout_seconds`; `update.yml` `timeout-minutes: 15`; CI run 45811577014.
+- [x] `http`/`https`가 아닌 링크는 `data.json`과 대시보드 `href`에 나오지 않는다. 증거: 테스트.
+  `test_safe_link`, `test_collect_feed_keeps_only_http_links`. 대시보드 `isWebLink`는 저장소 테스트 없이 Node 재현(DEFECT5 행). 배포본 `e34093c`: 링크 192개 모두 `http(s)://`, KST Node 렌더링의 `href` 192개 모두 `http(s)://`.
+- [x] 전체 0건이면 배포 단계가 돌지 않고 직전 배포본이 남는다. 증거: 테스트(`main()` 종료 코드)와 워크플로 단계 조건.
+  `test_main_publishes_nothing_when_zero_items`(종료 코드 1, `data.json` 없음); `update.yml` 배포 단계는 수집 단계가 성공해야 돌고 `if: github.ref == 'refs/heads/master'`(GATE1-T8). QA1에서 이 조건으로 배포 단계가 실제로 돌았다.
+- [x] `.claude/CONVENTIONS.md`에 다른 저장소의 이름·경로가 없다. 증거: `git grep`.
+  2026-11-26 develop `67323a4`에서 작업 공간의 다른 세 저장소 이름으로 `git grep -i`: 0건.
+- [x] 배포본 대시보드의 카테고리가 AI·반도체·자동차·배터리·로봇 5개이고, 새·바뀐 피드가 모두 `[OK]`이며 entry가 0이 아니다. 증거: QA1·QA3.
+  QA1 run 45811738873: 피드 27개 모두 `[OK]`(entry 10~300), `[FAIL]` 0, 192건. 칩: 전체 192 · AI 40 · 반도체 40 · 자동차 40 · 배터리 40 · 로봇 32.
+- [x] 한 카테고리 안에서 어떤 피드도 피드별 상한을 넘지 않는다. 증거: 테스트와 릴리스 뒤 배포본 `data.json`.
+  RULE8 테스트 7개; 배포본 `e34093c`: 출처별 최대 8(상한 8), 카테고리 40·40·40·40·32(로봇은 피드 5개 중 3곳이 8건 미만이라 40을 채우지 못함, RULE8 근거에 적은 대가).
+- [x] v1.2.0 태그와 GitHub Release 공개(v1.1.0은 중간 릴리스).
+  태그 `v1.2.0` = master `d49d143`, GitHub Release 공개 2026-11-26 11:33 UTC(정식 릴리스).
 
 GR1이 GATE2를 위해 정해야 할 것: GATE0 관찰로 남긴 RULE 공백(0건 피드 표시, `feeds.json` 형식 검사, 미래 날짜,
 키워드 부분 일치·요약 태그) 가운데 GATE2 전에 규칙으로 정할 것이 있는지.
@@ -190,6 +202,7 @@ GATE2 밖(새 범위 결정이 필요한 것, 결함이 아님): 정시 수집(R
 | GR | 날짜 | 판정 | 증거 | 다음 게이트를 위한 결정 |
 |---|---|---|---|---|
 | GR0 | 2026-11-10 | pass with notes (2026-11-10 사용자가 닫음) | 결함 리뷰(2026-11-10, 범위 `c8f2902..4b92135` 전체와 RULE1~RULE15, verifier 1 correctness: VERDICT FAIL, 지적 9건 중 4건이 DEFECT2~DEFECT5와 같음; 오프라인 실험 7건; 결과 DEFECT2~DEFECT6 등록, 기각 8건, RULE 공백 5건); 이 진단; v1.0.1(2026-11-03); pytest 16 passed(CI run 41605796586, master `5731e98`); `update.yml` 613회 전부 성공(2026-06-01~11-10), 최근 run 42733691513(피드 15개 `[OK]`, 117건) → pages run 42733735769 | 결정(2026-11-04, 사용자): DEFECT1은 GATE1에서 닫는다(GATE1-T1), 최종 목표는 GATE2. 결정(2026-11-10, 사용자): DEFECT2~DEFECT6도 GATE1에 두고 목표 릴리스를 v1.1.0으로 한다(GATE1-T2~T5, T7); 전체 0건이면 배포하지 않는다(GATE1-T6, 새 RULE); 문서·테스트 정리는 GATE1 티켓 하나(GATE1-T8); 0건 피드 표시·`feeds.json` 형식 검사·미래 날짜·키워드 부분 일치와 요약 태그는 관찰로 둔다. 남은 질문: 없음. GR0 닫힘(2026-11-10, 사용자). 결정(2026-11-24, 사용자): DEFECT2·DEFECT3이 배포본에 매 실행 나타나므로 T1·T2·T3·T7을 중간 릴리스 v1.1.0으로 먼저 내고, GATE1 목표 릴리스를 v1.2.0으로 바꾼다; GATE1-T4 값은 피드 타임아웃 30초·job 15분; 카테고리를 AI·반도체·자동차·배터리·로봇 5개로 바꾸고(GATE1-T10) 피드별 상한을 둔다(GATE1-T9), 새 게이트를 만들지 않고 GATE1에 넣는다 |
+| GR1 | 2026-11-26 | proposed: pass | 종료 기준 10개 모두 충족(GATE1 종료 기준의 v1.2.0 확인 줄). GR1 검토(2026-11-25, verifier correctness, 범위 `4b92135..3efaf34`: PASS with notes, Low 6건 → GATE1-T11, DEFECT7 등록·수정); T11 재검토(2026-11-26, verifier correctness, 범위 `3efaf34..4ca8515`: PASS with notes, Med 2건은 테스트 공백 → GATE1-T12, 변이 테스트로 확인); v1.2.0(2026-11-26, 태그 = master `d49d143`, CI run 45811577014 pytest 103 passed); QA1 run 45811738873(피드 27개 `[OK]`, `[FAIL]` 0, 192건, 배포 단계 실행) → gh-pages `e34093c` → pages run 45811810172; QA2(KST Node: "last sync" = `generated_at` 11:34 UTC, 칩 5개, 검색 192 → 5건), QA3(새 피드 entry 10~300), QA4(출처별 ≤ 8, 카테고리 ≤ 40); 열린 결함 0(DEFECT1~DEFECT7 fixed) | 결정(2026-11-26, 사용자): `update.yml` `timeout-minutes` 15 유지(RULE4 근거에 기록). 결정 대기: GATE0 관찰 RULE 공백 4건 가운데 GATE2 전에 규칙으로 정할 것. 판정안의 제안: `feeds.json` 형식 검사만 규칙으로 정한다(GATE2 조건 "피드 변경은 `feeds.json` 수정만으로 끝난다"를 안전하게 하려면 잘못된 값이 경고 없이 배포되지 않아야 한다. 지금 CI는 JSON 파싱만 본다). 0건 피드 표시·미래 날짜·키워드 부분 일치와 요약 태그는 관찰로 둔다(v1.2.0 배포 실행에서 0 entries 피드 0, 미래 시각 0, include 필터는 battery 하나) |
 
 ## 옛 ID 대응표
 
