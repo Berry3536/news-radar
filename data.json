@@ -1,0 +1,1186 @@
+{
+  "generated_at": "2026-11-28T15:00:26.241035+00:00",
+  "categories": [
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 40,
+      "items": [
+        {
+          "title": "Terence Tao sees AI ushering in \"Big Math,\" but calls major tech firms' proofs \"toxic waste\"",
+          "link": "https://the-decoder.com/terence-tao-sees-ai-ushering-in-big-math-but-calls-major-tech-firms-proofs-toxic-waste/",
+          "source": "The Decoder",
+          "published": "2026-11-28T14:45:01+00:00"
+        },
+        {
+          "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+          "link": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+          "source": "TechCrunch",
+          "published": "2026-11-28T14:00:00+00:00"
+        },
+        {
+          "title": "UK Parliament demands unredacted METR safety report after Anthropic redacts most of the evidence",
+          "link": "https://the-decoder.com/uk-parliament-demands-unredacted-metr-safety-report-after-anthropic-redacts-most-of-the-evidence/",
+          "source": "The Decoder",
+          "published": "2026-11-28T13:42:00+00:00"
+        },
+        {
+          "title": "Google Deepmind's \"Humanity's First Exam\" shows top AI models still fail simple everyday tasks under repeated runs",
+          "link": "https://the-decoder.com/google-deepminds-humanitys-first-exam-shows-top-ai-models-still-fail-simple-everyday-tasks-under-repeated-runs/",
+          "source": "The Decoder",
+          "published": "2026-11-28T11:12:30+00:00"
+        },
+        {
+          "title": "Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots",
+          "link": "https://the-decoder.com/robotics-startup-embo-raises-110-million-in-seed-funding-to-build-world-model-ai-for-robots/",
+          "source": "The Decoder",
+          "published": "2026-11-28T10:48:18+00:00"
+        },
+        {
+          "title": "유발 하라리 \"AI 최대 위협은 '집단적 치매'...인류, 세상 이해 못할 것\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217900",
+          "source": "AI타임스",
+          "published": "2026-11-28T09:31:30+00:00"
+        },
+        {
+          "title": "샤오펑 \"휴머노이드 가격 전기차 수준\"...자동차 기술로 양산·수익화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217899",
+          "source": "AI타임스",
+          "published": "2026-11-28T09:02:58+00:00"
+        },
+        {
+          "title": "앤트로픽, 주가 11% 급등해 공모가 회복…12월 보호예수 해제가 변수",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217898",
+          "source": "AI타임스",
+          "published": "2026-11-28T08:25:00+00:00"
+        },
+        {
+          "title": "스페이스X 우주 데이터센터 100만기 승인에 과학계 반발",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217897",
+          "source": "AI타임스",
+          "published": "2026-11-28T08:09:45+00:00"
+        },
+        {
+          "title": "앤트로픽 전·현직 50여명 '수입 10% 기부' 서약…창업자 지분 80% 기부",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217896",
+          "source": "AI타임스",
+          "published": "2026-11-28T07:45:34+00:00"
+        },
+        {
+          "title": "사카나 AI, 30B급 추론 모델 '나마즈 스몰' 공개...웹 검색서 120B 모델 압도",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217892",
+          "source": "AI타임스",
+          "published": "2026-11-28T07:38:14+00:00"
+        },
+        {
+          "title": "프리즘ML, 5.9GB AI 모델 '본사이 2.5' 출시...코딩·에이전트 성능 대폭 향상",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217893",
+          "source": "AI타임스",
+          "published": "2026-11-28T07:20:56+00:00"
+        },
+        {
+          "title": "바이트댄스, AI 에이전트 강화학습 도구 '라미나' 공개...GPU 사용 시간 64% 절감",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217894",
+          "source": "AI타임스",
+          "published": "2026-11-28T07:09:21+00:00"
+        },
+        {
+          "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+          "link": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+          "source": "The Decoder",
+          "published": "2026-11-27T19:38:37+00:00"
+        },
+        {
+          "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+          "link": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+          "source": "The Decoder",
+          "published": "2026-11-27T18:27:02+00:00"
+        },
+        {
+          "title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+          "link": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+          "source": "The Decoder",
+          "published": "2026-11-27T16:58:56+00:00"
+        },
+        {
+          "title": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
+          "link": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/",
+          "source": "The Decoder",
+          "published": "2026-11-27T16:06:43+00:00"
+        },
+        {
+          "title": "[AI 리뷰] \"AI 에이전트 시대 개발 인프라 혁신\"…구글, 안드로이드 빌드 80분에서 2분으로 줄인 ‘ABFS’ 오픈소스 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42930",
+          "source": "인공지능신문",
+          "published": "2026-11-27T09:47:23+00:00"
+        },
+        {
+          "title": "연합 디지털 트윈 프레임워크 ‘페딧’ 오픈소스 공개…ETRI, 개별 디지털 트윈 연결해 통합 분석·예측",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42928",
+          "source": "인공지능신문",
+          "published": "2026-11-27T09:10:33+00:00"
+        },
+        {
+          "title": "엔비디아, SSD로 GPU 메모리 용량 한계 넘는다…키옥시아와 1페타바이트급 AI 메모리 확장 기술 실증",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42927",
+          "source": "인공지능신문",
+          "published": "2026-11-27T08:36:35+00:00"
+        },
+        {
+          "title": "NIA, AI 안전성·이용자 권리 보장과 AI 격차 해소 위한 법제도 개선 모색",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42926",
+          "source": "인공지능신문",
+          "published": "2026-11-27T08:07:14+00:00"
+        },
+        {
+          "title": "퀀텀에이아이·스퀘어원, 음성 AI 기술협력 MOU…AICC ‘순이’ 음성 합성 고도화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42925",
+          "source": "인공지능신문",
+          "published": "2026-11-27T07:34:22+00:00"
+        },
+        {
+          "title": "中, 6G 넘어 AI 에이전트 연결하는 국가 지능형 네트워크 구축…2030년 차세대 통신망 실행계획 발표",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42924",
+          "source": "인공지능신문",
+          "published": "2026-11-27T05:42:07+00:00"
+        },
+        {
+          "title": "독일·오스트리아, 틱톡 AI 알고리즘 통제권 확보 나선다…규제 넘어 유럽 사업 소유구조 재편 추진",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42923",
+          "source": "인공지능신문",
+          "published": "2026-11-27T04:57:53+00:00"
+        },
+        {
+          "title": "알리바바, AI 기술을 사회적 가치 창출로…안전·의료·과학·교육 등 8대 분야 혁신 성과 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42922",
+          "source": "인공지능신문",
+          "published": "2026-11-27T03:17:20+00:00"
+        },
+        {
+          "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+          "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "source": "TechCrunch",
+          "published": "2026-11-26T20:03:54+00:00"
+        },
+        {
+          "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+          "source": "TechCrunch",
+          "published": "2026-11-26T16:00:00+00:00"
+        },
+        {
+          "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+          "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+          "source": "TechCrunch",
+          "published": "2026-11-25T22:44:32+00:00"
+        },
+        {
+          "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+          "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+          "source": "TechCrunch",
+          "published": "2026-11-25T20:03:27+00:00"
+        },
+        {
+          "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+          "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+          "source": "TechCrunch",
+          "published": "2026-11-25T19:54:57+00:00"
+        },
+        {
+          "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+          "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+          "source": "TechCrunch",
+          "published": "2026-11-25T19:44:24+00:00"
+        },
+        {
+          "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+          "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+          "source": "TechCrunch",
+          "published": "2026-11-25T18:11:46+00:00"
+        },
+        {
+          "title": "AI is straining America’s open records systems",
+          "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+          "source": "MIT Technology Review",
+          "published": "2026-11-25T10:00:00+00:00"
+        },
+        {
+          "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+          "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+          "source": "MIT Technology Review",
+          "published": "2026-11-23T17:36:08+00:00"
+        },
+        {
+          "title": "The most misunderstood graph in AI just got a major update",
+          "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+          "source": "MIT Technology Review",
+          "published": "2026-11-20T18:15:15+00:00"
+        },
+        {
+          "title": "The AI Hype Index: AI is everywhere",
+          "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+          "source": "MIT Technology Review",
+          "published": "2026-11-18T14:42:44+00:00"
+        },
+        {
+          "title": "This smell startup says its AI nose is as good as a human’s",
+          "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "source": "MIT Technology Review",
+          "published": "2026-11-18T10:20:30+00:00"
+        },
+        {
+          "title": "Research Reports",
+          "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+          "source": "MIT Technology Review",
+          "published": "2026-11-17T14:39:46+00:00"
+        },
+        {
+          "title": "The open-source movement wants Jensen Huang back",
+          "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+          "source": "MIT Technology Review",
+          "published": "2026-11-16T18:38:47+00:00"
+        },
+        {
+          "title": "Building trustworthy AI by fencing it in, not predicting it",
+          "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+          "source": "MIT Technology Review",
+          "published": "2026-11-16T16:04:28+00:00"
+        }
+      ]
+    },
+    {
+      "key": "semiconductor",
+      "label": "반도체",
+      "count": 40,
+      "items": [
+        {
+          "title": "\"밀반입 어렵다\"던 블랙웰 서버…앨리스 황 연계 中데이터센터서 발견",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=66037",
+          "source": "디일렉",
+          "published": "2026-11-28T09:48:36+00:00"
+        },
+        {
+          "title": "GTA: Grand Three Assumptions",
+          "link": "https://www.eetimes.com/gta-grand-three-assumptions/",
+          "source": "EE Times",
+          "published": "2026-11-28T02:00:00+00:00"
+        },
+        {
+          "title": "Penguin Revives Retired DDR4 for AI Servers",
+          "link": "https://www.eetimes.com/penguin-revives-retired-ddr4-for-ai-servers/",
+          "source": "EE Times",
+          "published": "2026-11-27T19:17:00+00:00"
+        },
+        {
+          "title": "Beyond Lithography: The Battle for Semiconductor Manufacturing Yield",
+          "link": "https://www.eetimes.com/beyond-lithography-the-battle-for-semiconductor-manufacturing-yield/",
+          "source": "EE Times",
+          "published": "2026-11-27T14:22:45+00:00"
+        },
+        {
+          "title": "NuVolta Technical Sharing: PCB Grounding Design and Return Path",
+          "link": "https://www.eetimes.com/nuvolta-technical-sharing-pcb-grounding-design-and-return-path/",
+          "source": "EE Times",
+          "published": "2026-11-27T14:00:00+00:00"
+        },
+        {
+          "title": "TSMC gives a sneap peak at AI Design Kit: Agentic AI with foundry expertise",
+          "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-gives-a-sneap-peak-at-ai-design-kit-agentic-ai-with-foundry-expertise",
+          "source": "Tom's Hardware",
+          "published": "2026-11-27T13:00:00+00:00"
+        },
+        {
+          "title": "Huawei’s Next Big AI Move: HBM Workaround",
+          "link": "https://www.eetimes.com/huawei-next-big-ai-move-hbm-workaround/",
+          "source": "EE Times",
+          "published": "2026-11-27T08:56:46+00:00"
+        },
+        {
+          "title": "파네시아, AI 데이터센터에 메모리 중심 구조 제시",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=66026",
+          "source": "디일렉",
+          "published": "2026-11-27T07:34:49+00:00"
+        },
+        {
+          "title": "트럼프, 韓 반도체 투자까지 문제 삼았다…관세 25% 경고",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=410379",
+          "source": "테크월드",
+          "published": "2026-11-27T02:00:00+00:00"
+        },
+        {
+          "title": "Siemens Adds SoC Verification and Software Debug with Two Planned Deals",
+          "link": "https://www.eetimes.com/siemens-adds-soc-verification-and-software-debug-with-two-planned-deals/",
+          "source": "EE Times",
+          "published": "2026-11-26T18:00:00+00:00"
+        },
+        {
+          "title": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry",
+          "link": "https://www.eetimes.com/bridging-the-research-to-manufacturing-gap-in-canadas-semiconductor-industry/",
+          "source": "EE Times",
+          "published": "2026-11-26T14:00:00+00:00"
+        },
+        {
+          "title": "TSMC's A14 1.4nm-class node is ready for chip design",
+          "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-a14-1-4nm-class-node-is-ready-for-chip-design-boost-cells-promise-14-percent-performance-uplift-or-23-percent-power-cut-over-n2p",
+          "source": "Tom's Hardware",
+          "published": "2026-11-26T13:00:00+00:00"
+        },
+        {
+          "title": "TSMC’s $22.6 billion Texas plan wouldn’t make 2nm-or-better chips until 2031",
+          "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-files-for-usd22-6-billion-texas-fab-campus-with-local-tax-breaks-just-one-county-over-from-musks-terafab-proposed-brazos-county-plant-wont-make-2nm-class-chips-until-2031",
+          "source": "Tom's Hardware",
+          "published": "2026-11-26T10:30:00+00:00"
+        },
+        {
+          "title": "EU Rules Bring New Safety Requirements for Farm Robots",
+          "link": "https://www.eetimes.com/eu-rules-bring-new-safety-requirements-for-farm-robots/",
+          "source": "EE Times",
+          "published": "2026-11-26T08:55:48+00:00"
+        },
+        {
+          "title": "ams오스람-삼성디스플레이, 차세대 초소형 마이크로LED 기술 개발·상용화 ‘맞손’",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=410363",
+          "source": "테크월드",
+          "published": "2026-11-26T07:45:00+00:00"
+        },
+        {
+          "title": "예스티 양산 장비에 회전체결링 있나 없나…법원, HPSP 사실조회 신청 기각",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=65972",
+          "source": "디일렉",
+          "published": "2026-11-26T07:33:43+00:00"
+        },
+        {
+          "title": "로옴, 최대 12A의 대전류에 대응 강압 DC-DC 컨버터 IC 개발",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=410360",
+          "source": "테크월드",
+          "published": "2026-11-26T06:15:26+00:00"
+        },
+        {
+          "title": "美 정보당국 \"中, 젠슨 황 불륜 상대에게 감시 지시한 증거 없어\"",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=65952",
+          "source": "디일렉",
+          "published": "2026-11-26T05:50:59+00:00"
+        },
+        {
+          "title": "삼성전기, AI용 MLCC 공급 부족에 웃는다…2027년 가격 인상 기대",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=410330",
+          "source": "테크월드",
+          "published": "2026-11-26T05:00:00+00:00"
+        },
+        {
+          "title": "퀄컴, 국내 이공계 석박사 논문 34편 선정",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=65935",
+          "source": "디일렉",
+          "published": "2026-11-26T00:16:22+00:00"
+        },
+        {
+          "title": "The state of China's memory industry in 2026",
+          "link": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-chinas-memory-industry-in-2026-cxmt-and-ymtc-are-booming-but-hbm-remains-a-headache",
+          "source": "Tom's Hardware",
+          "published": "2026-11-25T13:00:00+00:00"
+        },
+        {
+          "title": "노소영, 화해권고 요청 거부…최태원 \"유감\"",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=65933",
+          "source": "디일렉",
+          "published": "2026-11-25T12:15:16+00:00"
+        },
+        {
+          "title": "SK하이닉스 \"3D D램 첫 제품은 100층부터, 4~5년 내 양산 목표\"",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=65900",
+          "source": "디일렉",
+          "published": "2026-11-25T08:44:52+00:00"
+        },
+        {
+          "title": "팹리스협회 'AI반도체팹리스산업협회'로 개명",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=65887",
+          "source": "디일렉",
+          "published": "2026-11-25T08:30:00+00:00"
+        },
+        {
+          "title": "Blog Review: Nov. 25",
+          "link": "https://semiengineering.com/blog-review-nov-25-3/",
+          "source": "Semiconductor Engineering",
+          "published": "2026-11-25T08:01:39+00:00"
+        },
+        {
+          "title": "Chip Industry Technical Paper Roundup: Nov. 25",
+          "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-25-2/",
+          "source": "Semiconductor Engineering",
+          "published": "2026-11-25T08:01:01+00:00"
+        },
+        {
+          "title": "ISSCC 2027, 韓 메모리 분야 논문 12편으로 주요 기술 성과 주도",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=410290",
+          "source": "테크월드",
+          "published": "2026-11-25T05:05:30+00:00"
+        },
+        {
+          "title": "키사이트, 아토튜드 반도체(IC) 설계 주기 50% 이상 단축",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=410274",
+          "source": "테크월드",
+          "published": "2026-11-25T01:10:00+00:00"
+        },
+        {
+          "title": "Japan puts chipmaking labs inside trucks with mobileFab",
+          "link": "https://www.tomshardware.com/tech-industry/semiconductors/japan-puts-chipmaking-labs-inside-trucks-with-mobilefab-trucks-pack-30-cm-lithography-gear-to-tackle-a-10-year-semiconductor-engineer-shortage",
+          "source": "Tom's Hardware",
+          "published": "2026-11-24T11:30:00+00:00"
+        },
+        {
+          "title": "Why AI Struggles To Reuse Chip Designs",
+          "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
+          "source": "Semiconductor Engineering",
+          "published": "2026-11-24T08:11:47+00:00"
+        },
+        {
+          "title": "AI Vs. High-Level Synthesis",
+          "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
+          "source": "Semiconductor Engineering",
+          "published": "2026-11-24T08:11:34+00:00"
+        },
+        {
+          "title": "AI Can Read The Code, But Can It Understand The Chip?",
+          "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
+          "source": "Semiconductor Engineering",
+          "published": "2026-11-24T08:11:31+00:00"
+        },
+        {
+          "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
+          "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
+          "source": "Semiconductor Engineering",
+          "published": "2026-11-24T08:08:01+00:00"
+        },
+        {
+          "title": "Why Photonic Design Is Becoming a System-Level Challenge",
+          "link": "https://semiengineering.com/why-photonic-design-is-becoming-a-system-level-challenge/",
+          "source": "Semiconductor Engineering",
+          "published": "2026-11-24T08:07:22+00:00"
+        },
+        {
+          "title": "Designing A Microarchitecture From Formal Proof To Full-System",
+          "link": "https://semiengineering.com/designing-a-microarchitecture-from-formal-proof-to-full-system/",
+          "source": "Semiconductor Engineering",
+          "published": "2026-11-24T08:06:57+00:00"
+        },
+        {
+          "title": "어플라이드 벤처스, 한국 반도체·AI 스타트업 발굴 나선다",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=410207",
+          "source": "테크월드",
+          "published": "2026-11-24T00:51:55+00:00"
+        },
+        {
+          "title": "SK머티리얼즈 퍼포먼스, 반도체 포토 공정 소재 경쟁력 키운다",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=410205",
+          "source": "테크월드",
+          "published": "2026-11-24T00:48:52+00:00"
+        },
+        {
+          "title": "AI agents design an entirely new CPU architecture from scratch, startup claims",
+          "link": "https://www.tomshardware.com/tech-industry/semiconductors/ai-agents-design-an-entirely-new-cpu-architecture-from-scratch-startup-claims-frostbite-posts-4-59x-the-performance-per-watt-of-an-in-order-core-in-pre-silicon-tests",
+          "source": "Tom's Hardware",
+          "published": "2026-11-22T13:00:00+00:00"
+        },
+        {
+          "title": "Rapidus reportedly struggles to produce working SRAM on its 2nm node, putting 2027 mass production at risk",
+          "link": "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-reportedly-struggles-to-produce-working-sram-on-its-2nm-node-putting-2027-mass-production-at-risk-company-faces-significant-challenges-using-euv-to-develop-gaa-transistors",
+          "source": "Tom's Hardware",
+          "published": "2026-11-21T15:30:00+00:00"
+        },
+        {
+          "title": "Intel 18A yields hit 70% as company signs Microsoft as EMIB customer",
+          "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-18a-yields-hit-70-percent-as-company-signs-microsoft-as-emib-customer-the-first-company-to-publicly-commit-to-intels-new-packaging-technology",
+          "source": "Tom's Hardware",
+          "published": "2026-11-19T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "key": "auto",
+      "label": "자동차",
+      "count": 40,
+      "items": [
+        {
+          "title": "Sany unveils autonomous electric construction machinery",
+          "link": "https://www.electrive.com/2026/11/28/sany-unveils-autonomous-electric-construction-machinery/",
+          "source": "Electrive",
+          "published": "2026-11-28T11:00:00+00:00"
+        },
+        {
+          "title": "Bolt launches autonomous ride-hailing service in Luxembourg",
+          "link": "https://www.electrive.com/2026/11/28/bolt-launches-autonomous-ride-hailing-service-in-luxembourg/",
+          "source": "Electrive",
+          "published": "2026-11-28T10:00:00+00:00"
+        },
+        {
+          "title": "Arriva secures two-billion-euro contract for electric buses in North Holland",
+          "link": "https://www.electrive.com/2026/11/28/arriva-secures-two-billion-euro-contract-for-electric-buses-in-north-holland/",
+          "source": "Electrive",
+          "published": "2026-11-28T09:00:00+00:00"
+        },
+        {
+          "title": "더 뉴 BMW i3, 국내 세단 첫 '700㎞' 벽 깼다…내년 상반기 출격 유력",
+          "link": "https://www.etnews.com/20261127000354",
+          "source": "전자신문",
+          "published": "2026-11-27T21:00:00+00:00"
+        },
+        {
+          "title": "India: Ultraviolette Automotive breaks ground on new e-2W plant",
+          "link": "https://www.electrive.com/2026/11/27/india-ultraviolette-automotive-breaks-ground-on-new-e-2w-plant/",
+          "source": "Electrive",
+          "published": "2026-11-27T17:00:00+00:00"
+        },
+        {
+          "title": "Monta connects nearly 4,500 charging ports to North American roaming platform",
+          "link": "https://www.electrive.com/2026/11/27/monta-connects-nearly-4500-charging-ports-to-north-american-roaming-platform/",
+          "source": "Electrive",
+          "published": "2026-11-27T16:30:00+00:00"
+        },
+        {
+          "title": "250 new EZO charging locations planned in Scotland",
+          "link": "https://www.electrive.com/2026/11/27/250-new-ezo-charging-locations-planned-in-scotland/",
+          "source": "Electrive",
+          "published": "2026-11-27T16:00:00+00:00"
+        },
+        {
+          "title": "GRIDSERVE secures £420m to refinance debt and expand charging network",
+          "link": "https://www.electrive.com/2026/11/27/gridserve-secures-420m-to-refinance-debt-and-expand-charging-network/",
+          "source": "Electrive",
+          "published": "2026-11-27T15:30:00+00:00"
+        },
+        {
+          "title": "Jula Logistics orders 20 more battery-electric trucks from Scania",
+          "link": "https://www.electrive.com/2026/11/27/jula-logistics-orders-20-more-battery-electric-trucks-from-scania/",
+          "source": "Electrive",
+          "published": "2026-11-27T15:00:00+00:00"
+        },
+        {
+          "title": "Stellantis plans further European factory halts amid rising competition – report",
+          "link": "https://www.just-auto.com/news/stellantis-plans-further-european-factory-halts/",
+          "source": "Just Auto",
+          "published": "2026-11-27T09:50:19+00:00"
+        },
+        {
+          "title": "TVR Griffith sports car planned for Lotus Hethel manufacture",
+          "link": "https://www.just-auto.com/news/tvr-griffith-sports-car-planned-for-lotus-hethel-manufacture/",
+          "source": "Just Auto",
+          "published": "2026-11-27T09:40:57+00:00"
+        },
+        {
+          "title": "Hyundai announces four new CEOs at key subsidiaries",
+          "link": "https://www.just-auto.com/news/hyundai-announces-four-new-ceos-at-key-subsidiaries/",
+          "source": "Just Auto",
+          "published": "2026-11-27T09:26:48+00:00"
+        },
+        {
+          "title": "BYD to launch Shark 6 pickup truck production in Malaysia",
+          "link": "https://www.just-auto.com/news/byd-to-launch-shark-6-pickup-truck-production-in-malaysia/",
+          "source": "Just Auto",
+          "published": "2026-11-27T09:24:46+00:00"
+        },
+        {
+          "title": "Honda to launch Acura brand in Japan",
+          "link": "https://www.just-auto.com/news/honda-to-launch-acura-brand-in-japan/",
+          "source": "Just Auto",
+          "published": "2026-11-27T09:21:43+00:00"
+        },
+        {
+          "title": "UK vehicle output up 4.8% in October",
+          "link": "https://www.just-auto.com/news/uk-vehicle-output-up-4-8-in-october/",
+          "source": "Just Auto",
+          "published": "2026-11-27T09:06:50+00:00"
+        },
+        {
+          "title": "BYD, 중국서 플래그십 MPV '웨일' 최초 공개",
+          "link": "https://www.etnews.com/20261127000342",
+          "source": "전자신문",
+          "published": "2026-11-27T08:52:25+00:00"
+        },
+        {
+          "title": "장재훈 현대차그룹 부회장 “中 업체와 원가 30% 격차…3년 내 최대한 좁힐 것”",
+          "link": "https://www.etnews.com/20261127000338",
+          "source": "전자신문",
+          "published": "2026-11-27T08:17:07+00:00"
+        },
+        {
+          "title": "럭셔리 GT의 기준, 마세라티 그란투리스모, 그란카브리오",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=45029",
+          "source": "모터그래프",
+          "published": "2026-11-27T08:07:29+00:00"
+        },
+        {
+          "title": "2026 마카오 그랑프리 by 웨이브진 정인성",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=45028",
+          "source": "모터그래프",
+          "published": "2026-11-27T08:07:01+00:00"
+        },
+        {
+          "title": "타이어보이가 제안하는 겨울철 타이어 안전관리 요령",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=45020",
+          "source": "모터그래프",
+          "published": "2026-11-27T08:06:34+00:00"
+        },
+        {
+          "title": "[2026 광저우 국제 모터쇼] BYD, 플래그십 MPV 웨일 세계 최초 공개",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=45036",
+          "source": "모터그래프",
+          "published": "2026-11-27T08:05:20+00:00"
+        },
+        {
+          "title": "[2026 광저우 국제 모터쇼] 현대차, 머큐리 콘셉트 세계 최초 공개",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=45034",
+          "source": "모터그래프",
+          "published": "2026-11-27T08:05:20+00:00"
+        },
+        {
+          "title": "지커 코리아, 스타필드 수원에 지커 7X 팝업스토어 오픈",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=45035",
+          "source": "모터그래프",
+          "published": "2026-11-27T08:04:27+00:00"
+        },
+        {
+          "title": "현대차그룹, HMG 글로벌 완속충전기 공개",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=45032",
+          "source": "모터그래프",
+          "published": "2026-11-27T08:04:27+00:00"
+        },
+        {
+          "title": "기아, 제5회 PBV 아이디어 공모전 시상식 개최",
+          "link": "https://www.motorgraph.com/news/articleView.html?idxno=45031",
+          "source": "모터그래프",
+          "published": "2026-11-27T08:04:27+00:00"
+        },
+        {
+          "title": "지프, 앰배서더 설인아와 보그 코리아 12월호 화보 공개",
+          "link": "https://www.etnews.com/20261127000319",
+          "source": "전자신문",
+          "published": "2026-11-27T07:45:11+00:00"
+        },
+        {
+          "title": "지커 코리아, 스타필드 수원서 '지커 7X' 팝업스토어 운영",
+          "link": "https://www.etnews.com/20261127000316",
+          "source": "전자신문",
+          "published": "2026-11-27T07:36:30+00:00"
+        },
+        {
+          "title": "케이카, 망고카와 중고차 수출 협력…동유럽 판로 확대",
+          "link": "https://www.etnews.com/20261127000168",
+          "source": "전자신문",
+          "published": "2026-11-27T02:43:51+00:00"
+        },
+        {
+          "title": "현대차, 광저우 모터쇼서 소형 전기 SUV '머큐리 콘셉트' 세계 최초 공개",
+          "link": "https://www.etnews.com/20261127000144",
+          "source": "전자신문",
+          "published": "2026-11-27T02:20:00+00:00"
+        },
+        {
+          "title": "메르세데스-벤츠 코리아, '스타트업 아우토반' 기술 검증 성과 공유",
+          "link": "https://www.etnews.com/20261127000137",
+          "source": "전자신문",
+          "published": "2026-11-27T01:42:46+00:00"
+        },
+        {
+          "title": "Phinia agrees to acquire assets of brake components maker FMP Group",
+          "link": "https://www.just-auto.com/news/phinia-agrees-acquire-assets-fmp-group/",
+          "source": "Just Auto",
+          "published": "2026-11-26T17:23:08+00:00"
+        },
+        {
+          "title": "GM starts production of the Chevrolet Groove in Egypt",
+          "link": "https://www.just-auto.com/news/gm-starts-production-of-the-chevrolet-groove-in-egypt/",
+          "source": "Just Auto",
+          "published": "2026-11-26T16:58:54+00:00"
+        },
+        {
+          "title": "Battery electric cars’ market share in Europe reaches 31% in October; most carmakers ahead of CO₂ targets",
+          "link": "https://theicct.org/battery-electric-cars-market-share-in-europe-reaches-31-in-october-most-carmakers-ahead-of-co%e2%82%82-targets/",
+          "source": "ICCT",
+          "published": "2026-11-26T07:36:37+00:00"
+        },
+        {
+          "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+          "link": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+          "source": "TechCrunch",
+          "published": "2026-11-25T19:54:32+00:00"
+        },
+        {
+          "title": "Residential EV charging in Delhi: A ready opportunity",
+          "link": "https://theicct.org/residential-ev-charging-in-delhi-a-ready-opportunity-nov26/",
+          "source": "ICCT",
+          "published": "2026-11-25T16:11:16+00:00"
+        },
+        {
+          "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+          "link": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+          "source": "TechCrunch",
+          "published": "2026-11-24T21:09:04+00:00"
+        },
+        {
+          "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
+          "link": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
+          "source": "TechCrunch",
+          "published": "2026-11-24T17:29:09+00:00"
+        },
+        {
+          "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
+          "link": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+          "source": "TechCrunch",
+          "published": "2026-11-24T16:40:46+00:00"
+        },
+        {
+          "title": "Uber now lets you book rides that record the drive by default",
+          "link": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
+          "source": "TechCrunch",
+          "published": "2026-11-23T14:00:00+00:00"
+        },
+        {
+          "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+          "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+          "source": "TechCrunch",
+          "published": "2026-11-22T17:06:00+00:00"
+        }
+      ]
+    },
+    {
+      "key": "battery",
+      "label": "배터리",
+      "count": 40,
+      "items": [
+        {
+          "title": "日 방위장비청, 레일건 10발 연속 사격 성공",
+          "link": "https://www.theguru.co.kr/news/article.html?no=110248",
+          "source": "더구루",
+          "published": "2026-11-27T22:50:44+00:00"
+        },
+        {
+          "title": "이노빅스, 차세대 스마트 아이웨어용 배터리 수주…기기 형태에 맞춘 디자인",
+          "link": "https://www.theguru.co.kr/news/article.html?no=110309",
+          "source": "더구루",
+          "published": "2026-11-27T22:50:22+00:00"
+        },
+        {
+          "title": "GM의 배터리 야심에 무슨 일이…'얼티엄' 양산 난항의 민낯",
+          "link": "https://www.theguru.co.kr/news/article.html?no=110311",
+          "source": "더구루",
+          "published": "2026-11-27T22:40:07+00:00"
+        },
+        {
+          "title": "Warsaw grid operator adds distributed batteries to curb rooftop solar voltage spikes",
+          "link": "https://www.ess-news.com/2026/11/27/warsaw-grid-operator-adds-distributed-batteries-to-curb-rooftop-solar-voltage-spikes/",
+          "source": "ESS News",
+          "published": "2026-11-27T15:00:00+00:00"
+        },
+        {
+          "title": "Chinese inverter maker bundles DC-coupled storage for commercial sites",
+          "link": "https://www.ess-news.com/2026/11/27/chinese-inverter-maker-bundles-dc-coupled-storage-for-commercial-sites/",
+          "source": "ESS News",
+          "published": "2026-11-27T14:45:00+00:00"
+        },
+        {
+          "title": "CATL introduces 100kWh ’30#’ swappable battery for passenger cars",
+          "link": "https://www.electrive.com/2026/11/27/catl-introduces-100kwh-30-swappable-battery-for-passenger-cars/",
+          "source": "Electrive",
+          "published": "2026-11-27T14:30:00+00:00"
+        },
+        {
+          "title": "Hoymiles Showcases Comprehensive Residential, C&I and Utility-Scale Energy Storage Solutions at Genera 2026",
+          "link": "https://www.ess-news.com/2026/11/27/hoymiles-showcases-comprehensive-residential-ci-and-utility-scale-energy-storage-solutions-at-genera-2026/",
+          "source": "ESS News",
+          "published": "2026-11-27T12:27:24+00:00"
+        },
+        {
+          "title": "Spain’s capacity market alone won’t make batteries bankable, Arup warns",
+          "link": "https://www.ess-news.com/2026/11/27/spains-capacity-market-alone-wont-make-batteries-bankable-arup-warns/",
+          "source": "ESS News",
+          "published": "2026-11-27T12:17:00+00:00"
+        },
+        {
+          "title": "Jinko ESS and Taliva Energy Reach 471.57 MWh in Signed Energy Storage Projects",
+          "link": "https://www.ess-news.com/2026/11/27/jinko-ess-and-taliva-energy-reach-471-57-mwh-in-signed-energy-storage-projects/",
+          "source": "ESS News",
+          "published": "2026-11-27T12:16:59+00:00"
+        },
+        {
+          "title": "AlphaESS Accelerates Its Expansion in Spain at GENERA 2026",
+          "link": "https://www.ess-news.com/2026/11/27/alphaess-accelerates-its-expansion-in-spain-at-genera-2026/",
+          "source": "ESS News",
+          "published": "2026-11-27T12:12:44+00:00"
+        },
+        {
+          "title": "Continued operating losses for Narada Power as battery OEM falls to lowest Bankability rating",
+          "link": "https://www.energy-storage.news/continued-operating-losses-for-narada-power-as-battery-oem-falls-to-lowest-bankability-rating/",
+          "source": "Energy-Storage.news",
+          "published": "2026-11-27T11:20:23+00:00"
+        },
+        {
+          "title": "Rare periods of low PV generation can be managed with storage",
+          "link": "https://www.ess-news.com/2026/11/27/rare-periods-of-low-pv-generation-can-be-managed-with-storage/",
+          "source": "ESS News",
+          "published": "2026-11-27T10:55:00+00:00"
+        },
+        {
+          "title": "WEG secures accreditation for battery packs in Brazil",
+          "link": "https://www.ess-news.com/2026/11/27/weg-secures-accreditation-for-battery-packs-in-brazil/",
+          "source": "ESS News",
+          "published": "2026-11-27T10:15:00+00:00"
+        },
+        {
+          "title": "BESS Industry Buzz: Battery tests questioned, hugs at RE+, IPP exit crisis and Europe’s battery race loss",
+          "link": "https://www.energy-storage.news/bess-industry-buzz-battery-tests-questioned-hugs-at-re-ipp-exit-crisis-and-europes-battery-race-loss/",
+          "source": "Energy-Storage.news",
+          "published": "2026-11-27T09:44:08+00:00"
+        },
+        {
+          "title": "‘Among the most powerful’: Alpiq seeks approval for 1.2GWh BESS in Switzerland",
+          "link": "https://www.energy-storage.news/alpiq-1-2gwh-bess-switzerland-niedergosgen/",
+          "source": "Energy-Storage.news",
+          "published": "2026-11-27T09:13:02+00:00"
+        },
+        {
+          "title": "‘Solar and energy storage belong together’: Blue Elephant buys 160MWh Dutch BESS from TPSolar",
+          "link": "https://www.energy-storage.news/blue-elephant-160mwh-dutch-bess-tpsolar/",
+          "source": "Energy-Storage.news",
+          "published": "2026-11-27T09:10:31+00:00"
+        },
+        {
+          "title": "세방리튬배터리, LG엔솔 덕분에 ESS 공장 '풀가동'",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=66018",
+          "source": "디일렉",
+          "published": "2026-11-27T06:36:48+00:00"
+        },
+        {
+          "title": "양극재 다크호스 바스프, CATL과 유럽서 협력 확대",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=66009",
+          "source": "디일렉",
+          "published": "2026-11-27T05:13:06+00:00"
+        },
+        {
+          "title": "LG엔솔 빠진 2조원대 ESS 수주전…삼성SDI 과반 확보",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=66003",
+          "source": "디일렉",
+          "published": "2026-11-27T02:02:44+00:00"
+        },
+        {
+          "title": "美의회, 중국산 車 금지법안 처리 '막바지 단계' 진입…배터리는 제외 전망",
+          "link": "https://www.theguru.co.kr/news/article.html?no=110267",
+          "source": "더구루",
+          "published": "2026-11-27T00:03:10+00:00"
+        },
+        {
+          "title": "Nissan recognises Aviloo’s battery tests",
+          "link": "https://www.electrive.com/2026/11/26/nissan-recognises-aviloos-battery-tests/",
+          "source": "Electrive",
+          "published": "2026-11-26T16:00:00+00:00"
+        },
+        {
+          "title": "Zelestra and Statkraft agree 8-year Italy BESS toll as ‘bilateral market develops in parallel to MACSE’",
+          "link": "https://www.energy-storage.news/zelestra-statkraft-8-year-italy-bess-toll-bilateral-market-develops-parallel-macse/",
+          "source": "Energy-Storage.news",
+          "published": "2026-11-26T15:03:14+00:00"
+        },
+        {
+          "title": "Energy Storage Awards 2026: Fluence, Quinbrook & NHOA win again, CMBlu & ContourGlobal among first-timers",
+          "link": "https://www.energy-storage.news/energy-storage-awards-2026-fluence-quinbrook-nhoa-win-again-cmblu-contourglobal-among-first-timers/",
+          "source": "Energy-Storage.news",
+          "published": "2026-11-26T14:20:22+00:00"
+        },
+        {
+          "title": "KAIST aims to extend the lifespan of anode-free batteries",
+          "link": "https://www.electrive.com/2026/11/26/kaist-aims-to-extend-the-lifespan-of-anode-free-batteries/",
+          "source": "Electrive",
+          "published": "2026-11-26T13:30:00+00:00"
+        },
+        {
+          "title": "Energy Vault backlog hits US$2.3 billion as it closes financing for 150MW Texas BESS",
+          "link": "https://www.energy-storage.news/energy-vault-backlog-hits-us2-3-billion-as-it-closes-financing-for-150mw-texas-bess/",
+          "source": "Energy-Storage.news",
+          "published": "2026-11-26T13:03:53+00:00"
+        },
+        {
+          "title": "Actuate Energy orders 1.5GWh of BESS from Sungrow for 2027/2028 pipeline in Spain",
+          "link": "https://www.energy-storage.news/actuate-energy-orders-1-5gwh-bess-sungrow-2027-2028-pipeline-spain/",
+          "source": "Energy-Storage.news",
+          "published": "2026-11-26T11:42:32+00:00"
+        },
+        {
+          "title": "산일센서, 내년 매출 성장률 20% 이상…신형 '라이트커튼' 승부수",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=65993",
+          "source": "디일렉",
+          "published": "2026-11-26T09:04:19+00:00"
+        },
+        {
+          "title": "배터리 장비업계 실적 턴어라운드…톱텍 누적 영업익 15배",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=65958",
+          "source": "디일렉",
+          "published": "2026-11-26T08:08:34+00:00"
+        },
+        {
+          "title": "100% 해외 의존 초고압 케이블 소재 수급 촉각",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=65902",
+          "source": "디일렉",
+          "published": "2026-11-26T06:35:00+00:00"
+        },
+        {
+          "title": "Europe’s Inland Shipping Models Underprice Green Fuels. Market Prices Favor Battery Swapping.",
+          "link": "https://cleantechnica.com/2026/11/25/inland-shipping-hvo-prices-battery-swapping/",
+          "source": "CleanTechnica",
+          "published": "2026-11-25T17:33:56+00:00"
+        },
+        {
+          "title": "New graphite could enable faster charging",
+          "link": "https://www.electrive.com/2026/11/25/new-graphite-could-enable-faster-charging/",
+          "source": "Electrive",
+          "published": "2026-11-25T13:30:00+00:00"
+        },
+        {
+          "title": "Tata Group’s British battery cell factory faces delays",
+          "link": "https://www.electrive.com/2026/11/25/tata-groups-british-battery-cell-factory-faces-delays/",
+          "source": "Electrive",
+          "published": "2026-11-25T11:05:07+00:00"
+        },
+        {
+          "title": "Iveco Bus introduces new battery generation",
+          "link": "https://www.electrive.com/2026/11/25/iveco-bus-introduces-new-battery-generation/",
+          "source": "Electrive",
+          "published": "2026-11-25T10:14:24+00:00"
+        },
+        {
+          "title": "New battery generation from Forsee Power: ZEN 8 now with 173 Ah LFP cells",
+          "link": "https://www.electrive.com/2026/11/24/new-battery-generation-from-forsee-power-zen-8-now-with-173-ah-lfp-cells/",
+          "source": "Electrive",
+          "published": "2026-11-24T14:00:00+00:00"
+        },
+        {
+          "title": "Fortum tests new battery recycling process",
+          "link": "https://www.electrive.com/2026/11/24/fortum-tests-new-battery-recycling-process/",
+          "source": "Electrive",
+          "published": "2026-11-24T13:00:00+00:00"
+        },
+        {
+          "title": "Pondering The Potential Of Plug-In VPP",
+          "link": "https://cleantechnica.com/2026/11/23/pondering-the-potential-of-plug-in-vpp/",
+          "source": "CleanTechnica",
+          "published": "2026-11-23T13:54:07+00:00"
+        },
+        {
+          "title": "Ford Begins Producing Its Own LFP Batteries",
+          "link": "https://cleantechnica.com/2026/11/21/ford-begins-producing-its-own-lfp-batteries/",
+          "source": "CleanTechnica",
+          "published": "2026-11-22T04:49:26+00:00"
+        },
+        {
+          "title": "Jackery & Every Electric Transform Urban Energy Storage With Plug-In VPP",
+          "link": "https://cleantechnica.com/2026/11/21/jackery-every-electric-transform-urban-energy-storage-with-plug-in-vpp/",
+          "source": "CleanTechnica",
+          "published": "2026-11-21T14:27:15+00:00"
+        },
+        {
+          "title": "JA Energy Storage Launches an Internal Battery Passport Platform to Facilitate Compliance with EU Standards",
+          "link": "https://cleantechnica.com/2026/11/20/ja-energy-storage-launches-an-internal-battery-passport-platform-to-facilitate-compliance-with-eu-standards/",
+          "source": "CleanTechnica",
+          "published": "2026-11-21T02:34:38+00:00"
+        },
+        {
+          "title": "Almost 90% of Europe’s Battery Production at Risk from Franco-German Car Deal",
+          "link": "https://cleantechnica.com/2026/11/18/almost-90-of-europes-battery-production-at-risk-from-franco-german-car-deal/",
+          "source": "CleanTechnica",
+          "published": "2026-11-19T04:58:55+00:00"
+        }
+      ]
+    },
+    {
+      "key": "robot",
+      "label": "로봇",
+      "count": 31,
+      "items": [
+        {
+          "title": "GXO doubling down on robotics in 2027",
+          "link": "https://www.therobotreport.com/gxo-doubling-down-on-robotics-in-2027/",
+          "source": "The Robot Report",
+          "published": "2026-11-27T13:56:43+00:00"
+        },
+        {
+          "title": "Robot Talk Episode 172 – Robots that learn like children, with Leticia Mara Berto",
+          "link": "https://robohub.org/robot-talk-episode-172-robots-that-learn-like-children-with-leticia-mara-berto/",
+          "source": "Robohub",
+          "published": "2026-11-27T13:33:28+00:00"
+        },
+        {
+          "title": "주간 로봇 기업 주가 동향(11/23 ~ 11/27)",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=49846",
+          "source": "로봇신문",
+          "published": "2026-11-27T06:35:39+00:00"
+        },
+        {
+          "title": "오늘의 로봇 기업 주식 시세(2026-11-27)",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=49845",
+          "source": "로봇신문",
+          "published": "2026-11-27T06:35:13+00:00"
+        },
+        {
+          "title": "오아, 사명 ‘오아투엑스’로 변경… AI·로봇·물류 자동화로 사업 영역 확장",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=49844",
+          "source": "로봇신문",
+          "published": "2026-11-27T04:20:40+00:00"
+        },
+        {
+          "title": "나우로보틱스 이종주 대표, 중기부 장관 표창 수상… 모빌리티 분야 산업 성과 인정",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=49843",
+          "source": "로봇신문",
+          "published": "2026-11-27T04:02:30+00:00"
+        },
+        {
+          "title": "마을 주방부터 감귤 가공까지… 제주테크노파크, AI·로봇으로 지역 현장 지원",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=49842",
+          "source": "로봇신문",
+          "published": "2026-11-27T03:56:25+00:00"
+        },
+        {
+          "title": "인천TP, ‘제3회 인천 미래차 테크포럼’ 개최",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=49840",
+          "source": "로봇신문",
+          "published": "2026-11-27T03:07:20+00:00"
+        },
+        {
+          "title": "클로봇, 美 MIT 연구진과 제조 '피지컬 AI' 공동개발 착수… 글로벌 로봇 기술 패권에 도전",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=49838",
+          "source": "로봇신문",
+          "published": "2026-11-27T03:02:05+00:00"
+        },
+        {
+          "title": "英 덱소리, 창고안전 규제준수 모듈 ‘덱소리뷰인스펙트’ 출시",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=49837",
+          "source": "로봇신문",
+          "published": "2026-11-27T02:57:02+00:00"
+        },
+        {
+          "title": "How Vention is cutting factory programming from weeks to minutes",
+          "link": "https://www.therobotreport.com/how-vention-is-cutting-factory-programming-from-weeks-to-minutes/",
+          "source": "The Robot Report",
+          "published": "2026-11-25T18:24:42+00:00"
+        },
+        {
+          "title": "FCC should focus on robot security, not country of origin",
+          "link": "https://www.therobotreport.com/fcc-should-focus-on-robot-security-not-country-of-origin/",
+          "source": "The Robot Report",
+          "published": "2026-11-25T17:00:07+00:00"
+        },
+        {
+          "title": "Space robotics: notes from an IROS 2026 plenary session",
+          "link": "https://robohub.org/space-robotics-notes-from-an-iros-2026-plenary-session/",
+          "source": "Robohub",
+          "published": "2026-11-25T16:36:36+00:00"
+        },
+        {
+          "title": "How DARPA Challenged Teams to Bring Robots Into Disaster Triage",
+          "link": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
+          "source": "IEEE Spectrum",
+          "published": "2026-11-25T15:00:03+00:00"
+        },
+        {
+          "title": "Robotics Summit 2027 opens call for speakers",
+          "link": "https://www.therobotreport.com/robotics-summit-2027-opens-call-for-speakers/",
+          "source": "The Robot Report",
+          "published": "2026-11-24T18:03:37+00:00"
+        },
+        {
+          "title": "SoftBank acquires Marc Raibert’s Robotics and AI Institute",
+          "link": "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/",
+          "source": "The Robot Report",
+          "published": "2026-11-24T14:48:57+00:00"
+        },
+        {
+          "title": "How does Orchard AI fit into John Deere’s technology portfolio?",
+          "link": "https://www.therobotreport.com/how-does-orchard-ai-fit-into-john-deeres-technology-portfolio/",
+          "source": "The Robot Report",
+          "published": "2026-11-23T20:29:55+00:00"
+        },
+        {
+          "title": "Special Report: Engineering Focus on Motion Control",
+          "link": "https://www.therobotreport.com/special-report-engineering-focus-on-motion-control/",
+          "source": "The Robot Report",
+          "published": "2026-11-23T15:16:26+00:00"
+        },
+        {
+          "title": "NVIDIA reinstates Jensen Huang after 11-day absence",
+          "link": "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/",
+          "source": "The Robot Report",
+          "published": "2026-11-23T14:20:46+00:00"
+        },
+        {
+          "title": "Human Stories Behind the Robot: from bold ideas to real-world impact",
+          "link": "https://robohub.org/human-stories-behind-the-robot-from-bold-ideas-to-real-world-impact/",
+          "source": "Robohub",
+          "published": "2026-11-23T12:32:08+00:00"
+        },
+        {
+          "title": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces",
+          "link": "https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor",
+          "source": "IEEE Spectrum",
+          "published": "2026-11-20T17:30:03+00:00"
+        },
+        {
+          "title": "Robot Talk Episode 171 – Programming robot behaviour, with Sebastian Castro",
+          "link": "https://robohub.org/robot-talk-episode-171-programming-robot-behaviour-with-sebastian-castro/",
+          "source": "Robohub",
+          "published": "2026-11-20T13:33:55+00:00"
+        },
+        {
+          "title": "Soft exosuit makes it easier to stand up",
+          "link": "https://robohub.org/soft-exosuit-makes-it-easier-to-stand-up/",
+          "source": "Robohub",
+          "published": "2026-11-19T10:09:47+00:00"
+        },
+        {
+          "title": "How Toyota is betting on a future beyond cars",
+          "link": "https://techcrunch.com/podcast/how-toyota-is-betting-on-a-future-beyond-cars/",
+          "source": "TechCrunch",
+          "published": "2026-11-18T21:36:40+00:00"
+        },
+        {
+          "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+          "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "source": "TechCrunch",
+          "published": "2026-11-18T11:30:00+00:00"
+        },
+        {
+          "title": "Genesis AI raises $500M to deploy glove-wearing robots",
+          "link": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
+          "source": "TechCrunch",
+          "published": "2026-11-17T14:00:00+00:00"
+        },
+        {
+          "title": "Robot swarms trained by trial and error in simulation keep working on real robots",
+          "link": "https://robohub.org/robot-swarms-trained-by-trial-and-error-in-simulation-keep-working-on-real-robots/",
+          "source": "Robohub",
+          "published": "2026-11-17T11:00:30+00:00"
+        },
+        {
+          "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
+          "link": "https://spectrum.ieee.org/telesurgery-stroke",
+          "source": "IEEE Spectrum",
+          "published": "2026-11-16T14:00:02+00:00"
+        },
+        {
+          "title": "Watch the IROS 2026 plenary and keynote talks",
+          "link": "https://robohub.org/watch-the-iros-2026-plenary-and-keynote-talks/",
+          "source": "Robohub",
+          "published": "2026-11-16T11:03:40+00:00"
+        },
+        {
+          "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
+          "link": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
+          "source": "IEEE Spectrum",
+          "published": "2026-11-16T10:00:01+00:00"
+        },
+        {
+          "title": "Why Skydio Built a Lopsided Drone",
+          "link": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+          "source": "IEEE Spectrum",
+          "published": "2026-11-15T14:00:02+00:00"
+        }
+      ]
+    }
+  ]
+}
